@@ -1,0 +1,413 @@
+- !
+  name: Animation
+  tags:
+  - Supernatural
+  power:
+  - 6
+  attribute:
+  - Creation
+  - Entropy
+  invocationTime: 8 Hours
+  duration: Permanent
+  description: |
+    You create life or unlife of subhuman intelligence that persists indefinitely and autonomously.
+  effect: |
+    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, etc. (the materials used are subject to GM discretion).  You perform a ritual that last 8 hrs, at the end of the ritual you make your action roll, if successful, the inanimate form is imbued with sentience. If you used (Su) Creation to create it, then it is a normal living creature.  If you used (Su) Entropy to create it, then it the creature is undead, and held together by the forces of entropy and necromancy.  You can animate an existing type of natural creature or undead, however your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating. You cannot use this boon to animate supernatural creatures.  Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack it’s creator.
+    <ul>
+    <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating.</li>
+    <li><strong>Power Level 8</strong> - You can animate a group of creatures of lower challenge rating.  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5.</li>
+    </ul>
+- !
+  name: Augury
+  tags:
+  - Supernatural
+  power:
+  - 1
+  - 3
+  - 5
+  - 7
+  attribute:
+  - Divination
+  invocationTime: 1 Minute
+  duration: 1 round
+  description: |
+    You peer into the future and gather information dependent on the potency of your Divination power
+  effect: |
+    <ul><li><strong>Power Level 1</strong> - You ask a question about a course of action you plan to take within the next 5 minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li><li><strong>Power Level 3</strong> - You gain insight into an event that will happen within the next hour. You ask a question about a course of action you plan to take within the next hour and the GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li><li><strong>Power Level 5</strong> - You can ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek.  You can only ask one question about a given target per week.</li><li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters at the GM’s discretion (visions, trances, dreams, out-of-body experiences, etc.). You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li></ul>
+- !
+  name: Blindsight
+  tags:
+  - Supernatural
+  power:
+  - 5
+  attribute:
+  - Divination
+  - Psychic
+  - Alteration
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    Even in the absence of light you are able to distinguish your surroundings, some examples include tremorsense, echolocation, ability to sense heat, a divine intuition, or psychically heightened senses.
+  effect: |
+    The BLINDED bane does not adversely affect you and you are able to see normally even in conditions of little light and no light.  Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
+- !
+  name: Darkness
+  tags:
+  - Supernatural
+  power:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  attribute:
+  - Entropy
+  - Illusion
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    Illusory darkness or entropic energy, snuffs out all light.
+  effect: |
+    Choose a square or object within attribute range. Darkness emanates from the target to a radius equal to the power level of the boon. The effect cancels the effect of all natural light within it’s radius of effect and creatures that depend on light for vision are BLINDED while in the area of effect. Creatures  that do not depend on light for their vision (if they have tremorsense, blindsight, etc) are unaffected. If the darkness area overlaps an area affected by the Light boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+- !
+  name: Detection
+  tags:
+  - Supernatural
+  power:
+  - 1
+  attribute:
+  - Divination
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    You gain supernatural vision that allows you to see colored auras which correlate to magical and spiritual forces.
+  effect: |
+    When calling on this boon, you must choose from the following: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, and <strong>magic</strong>.  You can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming).  These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone.  Even a Paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
+    <ul><li><strong>Holy</strong> - Holy energy surrounds extraplanar beings from the heavens or similar good-aligned dimensions where pure goodness is embodied. </li><li><strong>Unholy</strong> - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.</li><li><strong>Life</strong> - Beings from heavenly dimensions, clerics wielding the power of healing, resurrection, or protection radiate an aura of life for a time after wielding such powers.</li><li><strong></strong> - Necromancers, undead, and murderers all radiate an aura of death.  For undead, the aura is constant, since the power of death and magic is what animates them.</li></ul>
+    <strong>Special</strong>: Unlike other boons, this boon can not target another character, only the character invoking the boon can see the auras.
+- !
+  name: Flight
+  tags:
+  - Supernatural
+  power:
+  - 6
+  - 8
+  attribute:
+  - Alteration
+  - Movement
+  - Psychic
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    The target is propelled by magical force and moves at incredible speed and with perfect agility.
+  effect: |
+    <ul>
+    <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly manueverable.</li>
+    <li><strong>Power Level 6</strong> - The granted flight speed increases to 60'.</li>
+    </ul>
+- !
+  name: Haste
+  tags:
+  - Supernatural
+  power:
+  - 6
+  attribute:
+  - Movement
+  - Psychic
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    The target moves with supernatural speed and is able to do many actions in the same time they would normally do only a few.
+  effect: |
+    <ul><li><strong>Power Level 2</strong> - Your speed is increased by 1 square </li><li><strong>Power Level 4</strong> - Your speed is increased by 2 squares. Attacks against that target’s Evasion defense have disadvantage 1. </li><li><strong>Power Level 6</strong> - The target gains an extra normal action per round. This extra action can also be used for an attack (superseding the normal one attack per turn limitation). Attacks against that target’s Evasion defense have disadvantage 2. Your speed is increased by 3 squares. </li><li><strong>Power Level 8</strong> - Attacks against that target’s Evasion defense have disadvantage 3. Your speed is increased by 5 squares.</li></ul>
+- !
+  name: Heal
+  tags:
+  - Supernatural
+  power:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  attribute:
+  - Creation
+  invocationTime: 1 Normal Action
+  duration: Instantaneous
+  description: |
+    Healing is magical energy overflowing from a creative life force which heals wounds and mends broken bones.
+  effect: |
+    Roll dice according to the boon power level below. The target is healed that many hit points.
+    <strong>Special:</strong> Healing lethal damage requires an attribute score of 5 or greater.
+    <ul>
+    <li><strong>Power Level 1</strong> - Heal 1d4 </li>
+    <li><strong>Power Level 2</strong> - Heal 1d6 </li>
+    <li><strong>Power Level 3</strong> - Heal 1d8 </li>
+    <li><strong>Power Level 4</strong> - Heal 1d10 </li>
+    <li><strong>Power Level 5</strong> - Heal 2d6 and </li>
+    <li><strong>Power Level 6</strong> - Heal 2d8 </li>
+    <li><strong>Power Level 7</strong> - Heal 2d10 </li>
+    <li><strong>Power Level 8</strong> - Heal 3d8 </li>
+    <li><strong>Power Level 9</strong> - Heal 3d10 </li>
+    </ul>
+- !
+  name: Insubstantial
+  tags:
+  - Supernatural
+  power:
+  - 7
+  attribute:
+  - Alteration
+  - Psychic
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    Some common examples of insubstantial creatures are ghosts, creatures that phase, move through physical barriers by passing into alternate dimensions, etc.
+  effect: |
+    The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (6 squares for most characters). If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically Astral or Ethereal plane).
+- !
+  name: Invisibility
+  tags:
+  - Supernatural
+  power:
+  - 6
+  - 8
+  attribute:
+  - Illusion
+  - Psychic
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    You vanish from the visible spectrum, either through magical control of light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of your starting plane and other planes of existence.
+  effect: |
+    <ul>
+    <li><strong>Power Level 6</strong> - Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, while area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.</li><li><strong>Power Level 8</strong> - Same as above, except there is no longer minor light refraction / distortion around the target, making them fully invisible.  As such, the target’s bonus to avoid detection is advantage 5 while moving and advantage 7 while standing still. Attacks against the target have a 75% chance of missing. </li></ul>
+- !
+  name: Invulnerability
+  tags:
+  - Physical
+  - Supernatural
+  power:
+  - 8
+  attribute:
+  - Abjuration
+  - Alteration
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    The target becomes invulnerable, magical energy protects them from harm and their physical bodies is imbued with power beyond their human ability.
+  effect: |
+    Any damage that the target sustains is reduced by 1/2. This does not halve attack rolls against the target, only damage which exceeds one of their defenses and would be deducted from their hit points.
+- !
+  name: Levitation
+  tags:
+  - Supernatural
+  power:
+  - 5
+  attribute:
+  - Movement
+  - Psychic
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    The target gains the ability to fly at a very slow speed, hovering in air via magical power.
+  effect: |
+    The target gains a flight speed of 10, maintaining the ability to fly for as long as concentration is maintained.  If concentration is broken at any point, the target plummets immediately.  Given that one round is 6 seconds, and the distance fallen in 6 seconds is extremely far, it is exceedingly rare for the target to have an opportunity to act before impact. On impact, the target takes 1d10 damage per 10 feet fallen.  This can be averted via the protective casting feat.
+- !
+  name: Light
+  tags:
+  - Supernatural
+  power:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  attribute:
+  - Creation
+  - Energy
+  invocationTime: 1 Minor Action
+  duration: Sustain Persists
+  description: |
+    You light up an area with magical light from a point of your choice
+  effect: |
+    Choose a square or object within attribute range. Light emanates from the target to a radius equal to the power level of the boon (maximum of 5). If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+- !
+  name: Regeneration
+  tags:
+  - Supernatural
+  power:
+  - 1
+  - 3
+  - 5
+  - 7
+  - 9
+  attribute:
+  - Alteration
+  - Creation
+  - Psychic
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    The target gains a supernatural ability to regenerate healing at a supernatural rate. Examples of this include the supernatural regeneration of a troll, psychic self-mending, or a divine blessing. Regardless of the source, wounds close before the very eyes of an onlooker,
+  effect: |
+    At the beginning of each round this ability is sustained, the target heals according to the power level of the boon when invoked:
+    <ul>
+    <li><strong>Power Level 1</strong> - 1d4 </li>
+    <li><strong>Power Level 3</strong> - 1d6 </li>
+    <li><strong>Power Level 5</strong> - 1d8 </li>
+    <li><strong>Power Level 7</strong> - 1d10 </li>
+    <li><strong>Power Level 9</strong> - 2d6 </li>
+    </ul>
+- !
+  name: Resistance
+  tags:
+  - Supernatural
+  power:
+  - 1
+  attribute:
+  - Abjuration
+  - Energy
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    The target becomes resistant to the effects of damage from a certain type of attack, thanks to protective supernatural energy that counters it.
+  effect: |
+    When the boon is invoked, the character granting the protection chooses one type of damage and the target gains resistance to that type. The types are finesse, forceful, fire, cold, lightning, acid, psychic, entropy. The resistance depends on the power level of the boon when it is bestowed:
+    <ul>
+    <li><strong>Power Level 3</strong> - Prevent the first 5 damage you would suffer each round from the chosen damage type. </li>
+    <li><strong>Power Level 5</strong> - All damage you would suffer from the chosen type is halved.</li>
+    <li><strong>Power Level 7</strong> - Prevent all damage from the chosen damage type. </li></ul>
+- !
+  name: Restoration
+  tags:
+  - Supernatural
+  power:
+  - 1
+  attribute:
+  - Abjuration
+  - Creation
+  invocationTime: 1 Normal Action
+  duration: Instantaneous
+  description: |
+    Your protective magic cancels all harmful afflictions that are effecting an ally
+  effect: |
+    You roll an Abjuration check as a challenge roll cancelling all banes of Power Level equal to the Difficulty Level of your result or lower (see the Action Roll Difficulty Level Table).  If your roll is sufficient, you can dispel banes of a power level higher than your Abjuration score.
+- !
+  name: Seeing
+  tags:
+  - Supernatural
+  power:
+  - 4
+  - 5
+  attribute:
+  - Divination
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    You are able to see through the eyes of a willing ally
+  effect: |
+    For as long as you concentrate, you can see through the eyes of the target. The distance of the connection depends on your attribute score. The target can be any friendly creature including animals, beasts, and humanoids. <ul><li><strong>Power Level 4</strong> - The ally must be within 100’ </li><li><strong>Power Level 5</strong> - The ally must be within 1 mile </li><li><strong>Power Level 6</strong> - The ally must be anywhere on the same plane of existence </li> </ul>
+    <strong>Special</strong>: You can attempt to scry the same target any number of times, but if your action roll establish the connection fails, that ally cannot be targeted for 1 hour.
+- !
+  name: Shapeshift
+  tags:
+  - Supernatural
+  power:
+  - 2
+  - 4
+  - 6
+  - 8
+  attribute:
+  - Alteration
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    A target has it’s physical structure altered (temporarily), allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (were-creatures like werewolves), dryads, dopplegangers, and certain types of druids.
+  effect: |
+    You or a willing creature you touch, transform into a creature with a CR equal to or less than your ALTERATION score.  All of your existing Supernatural attribute scores drop to zero. You acquire all the Agility, Fortitude, Might, and Perception attributes of the chosen form.  Initially, shapeshifting targets must be of the same size as the target (you or someone else) and the same power as the character bestowing the boon.  The following limitations apply initially, and are gradually removed at higher power levels:
+    <ul>
+    <li>You do not gain alternate forms of movement (flight, swimming, climbing, burrowing)</li>
+    <li>The new form cannot be a different size than that of the target</li>
+    <li>The target does not gain supernatural attributes of the new form (hence, cannot inflict banes that rely on the creature’s Supernatural attributes)</li>
+    </ul>
+    When shapeshifting, the qualities omitted above are gained as you grow in power with the ALTERATION attribute.
+    <ul>
+    <li><strong>Power Level 3</strong> - Shapeshift into a creature between half and double your size. Gain any non-flight movement modes of the target creature.</li>
+    <li><strong>Power Level 4</strong> - Shapeshift into another creature between one quarter and quadruple the target creature's starting size. </li>
+    <li><strong>Power Level 5</strong> - Gain the Flying movement mode of the target creature</li>
+    <li><strong>Power Level 7</strong> - Shapeshift into an unnatural living creature, that lacks a typical physiology; an elemental, or a plant for example.</li>
+    <li><strong>Power Level 8</strong> - Shapeshift into a creature of any size. </li>
+    <li><strong>Power Level 9</strong> - Gain all Supernatural attributes possessed by the target. </li></ul>
+    <strong>Special</strong>: Shapeshifting into a specific creature (attempting to impersonate them) requires a deception action roll which is opposed by perception attribute of anyone who sees the shapeshifted. In addition, power level 2 and 4 shapeshifting does not give the shapeshifter mastery of the non-native movement modes of the creature they shift into. So, shapeshifting into a form that allows swimming only works for characters that can already swim or are shapeshifted by power level 6 or higher.
+- !
+  name: Telepathy
+  tags:
+  - Supernatural
+  power:
+  - 5
+  - 6
+  - 7
+  attribute:
+  - Divination
+  invocationTime: 1 Normal Action
+  duration: Sustain Persists
+  description: |
+    Your reach out mentally to a willing target and speak wordlessly with thought-to-thought communication.
+  effect: |
+    <ul><li><strong>Power Level 5</strong> - You can communicate telepathically with a single creature of human intelligence </li><li><strong>Power Level 6</strong> - You can create a mental relay between yourself and up to 5 other creatures allowing each of them to communicate with the rest of the group simultaneously.  </li><li><strong>Power Level 7</strong> - You can communicate telepathically with any number of creatures that you can see. </li></ul>
+- !
+  name: Teleport
+  tags:
+  - Supernatural
+  power:
+  - 3
+  - 5
+  - 7
+  - 9
+  attribute:
+  - Movement
+  - Psychic
+  invocationTime: 1 Move Action
+  duration: Instantaneous
+  description: |
+    You are able to instantly move from one place to another, either by stepping into an intermediate realm, projecting yourself magically, or other similar means.
+  effect: |
+    <ul>
+    <li><strong>Power Level 3</strong> - You can teleport to any square as long as you can naturally see tha square and it is within a number of squares equal to or less than your Movement attribute score. </li>
+    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport to squares that you can’t see.  If you choose a square already occupied you land in the nearest adjacent square (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a RESIST roll to end the effect). </li>
+    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile. You cannot engage in any activity other than deep focus on the invocation during that time.</li>
+    <li><strong>Power Level 9</strong> - Using the longer invocation time from Power Level 7, you can teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
+    </ul>
+- !
+  name: Transmutation
+  tags:
+  - Supernatural
+  power:
+  - 3
+  - 5
+  - 7
+  - 8
+  - 9
+  attribute:
+  - Alteration
+  invocationTime: 1 Minute
+  duration: Sustain Persists
+  description: |
+    You are able to change size, shape, and composition of physical matter that you touch. Make an ally larger or smaller, transmute rocks to gold or flesh to stone.
+  effect: |
+    <ul>
+    <li><strong>Power Level 3</strong> -  Transmute a target object into another object of the same size and weight.  The duration is 1 hour per (Su) Alteration attribute point. </li>
+    <li><strong>Power Level 5</strong> - Transmute a target object into another object of the same size and 50% greater OR lesser weight. Transmute a target object into another object of the same weight and 50% greater OR lesser size. The duration is 1 hour per (Su) Alteration attribute point. </li>
+    <li><strong>Power Level 7</strong> - Transmute an object into another object of the same size and weight, PERMANENTLY. - OR - Transmute a target object into another object of the same size and 200% greater OR lesser weight. Transmute a target object into another object of the same weight and 200% greater OR lesser size. The duration is 1 hour per (Su) Alteration attribute point. </li>
+    <li><strong>Power Level 8</strong> - Transmute an object into another object of up to 200% difference in size OR weight, PERMANENTLY. - OR - Transmute a living creature into another creature of the same size for 1 hour per attribute point. </li>
+    <li><strong>Power Level 9</strong> - Transmute a living creature into a non-living object of the same size. Transmute a non-living object into a living creature. - OR - Transmute a living creature into another creature of ANY size for 1 hour per attribute point. </li></ul>
+

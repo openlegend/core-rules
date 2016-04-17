@@ -1,0 +1,612 @@
+- !
+  name: Banished
+  tags:
+  - Supernatural
+  power:
+  - 6
+  attackAttributes:
+  - Abjuration
+  attack:
+  - Abjuration vs. Resolve
+  invocationTime: 1 Minute
+  duration: Instantaneous (special)
+  description: |
+    Wielding protective magic, you force an extraplanar creature return to it’s home plane.
+  effect: |
+    The creature is forced to return to its home plane.  More powerful extraplanar beings may have ways of circumventing this banishment, however, typical / non-legendary beings cannot. While the duration is instantaneous, the targeted creature cannot simply attempt to return by plane shifting immediately after being banished. The creature can attempt a Resist roll once per week to end the banishment and once again be capable of plane shifting to the plane they were previously banished from.
+- !
+  name: Blinded
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 4
+  attackAttributes:
+  - Agility
+  - Energy
+  - Entropy
+  attack:
+  - Agility vs. Evasion
+  - Energy vs. Evasion
+  - Entropy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    The blinding effect can be anything from a handful of sand thrown in an enemies face, to a arctic blast that freezes their eyes, temporarily blinding them, to a bright flash that dazzles all targets in an area attack.
+  effect: |
+    The target cannot see as long as the effect persists. Before any PERCEPTION or attack roll the target attempts has a 50% chance of failure. Roll this check before the attack or perception roll.
+- !
+  name: Charmed
+  tags:
+  - Supernatural
+  power:
+  - 4
+  - 6
+  - 7
+  attackAttributes:
+  - Enchantment
+  attack:
+  - Enchantment vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Resist ends (special) (Fail x 3 = 24 hours)
+  description: |
+    Charms are one of the great banes of legend, wielded by powerful enchantress's like Circe (in Homer's The Odyssey), Nymph's, and other enchanter's who control the will of others, not through total domination, but through a magical spell of love or friendship.
+  effect: |
+    The charmed bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane. The Charmed bane manifests at two levels: minor and major.
+    <strong>Minor Charm</strong> - The target is mentally compelled to become more friendly, only changing their attitude toward you moderately.  If they are about to strike you with a piece of furniture, they will restrain themselves, still angry with you and hostile, but no longer violent.  If they want to help you and are leaning toward trusting you, but have some hesitation because you've just met, then that hesitation goes away.
+    <strong>Major Charm</strong> - At the option of the attacker, the charmed bane either causes the target to consider the attacker their best friend and one of the most trustworthy and noble people they have met in all their lives. Alternatively, this trust and admiration can manifest as romantic love. The attacker is unable to do anything to plot against the one who afflicted them, and will (at the earliest possible opportunity) tell their charmer of any rumored harm or danger coming their way. The afflicted character becomes immediately suspicious of anyone who speaks ill of their attacker.
+    The target is mentally compelled to like and trust you more, depending on the power level of the bane when invoked.
+      <ul>
+      <li><strong>Power Level 3</strong> - You can Minor Charm creatures of animal level intelligence or lower</li>
+      <li><strong>Power Level 4</strong> - You can Minor Charm, creatures of humanoid intelligence. You can Major Charm creatures of animal level intelligence or lower</li>
+      <li><strong>Power Level 6</strong> - You can Major Charm creatures of humanoid intelligence</li>
+      </ul>
+  special: |
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- !
+  name: Death
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 9
+  attackAttributes:
+  - Agility
+  - Entropy
+  attack:
+  - Agility vs. Toughness
+  - Entropy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Resist ends (special) (Fail x 3 = Permanent)
+  description: |
+    Utilizing either incredible precision or the power of entropy, the target’s life force is snuffed out completely. The most deadly assassins and most powerful necromancer’s are known for such legendary prowess.
+  effect: |
+    You attempt to completely snuff the life force of your target.  There is a brief window of time where the target can attempt to resist this extinguishing force, but once that window closes, the death is permanent and can only be reversed with resurrection magic.  When the bane is initially applied, the target is IMMOBILE (can’t move from their current square) and unconscious. They have DISADVANTAGE 5 on all perception rolls, and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow.
+  special: |
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the pending death.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect.  Where 3 failed resist rolls would usually persist the effects of the bane, this bane extinguishes the life force of the target on 3 failed saves, thus it is permanent. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- !
+  name: Demoralized
+  tags:
+  - Physical
+  - Supernatural
+  power:
+  - 2
+  attackAttributes:
+  - Agility
+  - Energy
+  - Enchantment
+  - Entropy
+  - Illusion
+  - Might
+  - Presence
+  - Persuasion
+  attack:
+  - Agility vs. Resolve
+  - Energy vs. Resolve
+  - Enchantment vs. Resolve
+  - Entropy vs. Resolve
+  - Illusion vs. Resolve
+  - Might vs. Resolve
+  - Presence vs. Resolve
+  - Persuasion vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Resist (minor) ends (Fail x 3 = 1 minute)
+  description: |
+    Convinced of your victory, you cause your enemies to doubt themselves.
+  effect: |
+    The affected character has <strong>Tactical Disadvantage</strong>.
+    <strong>Special</strong>: Resisting this bane is a minor action.
+- !
+  name: Dispel
+  tags:
+  - Supernatural
+  power:
+  - 1
+  - 6
+  attackAttributes:
+  - Abjuration
+  attack:
+  - Abjuration vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Instantaneous
+  description: |
+    You cancel boons affecting an enemy.
+  effect: |
+    You roll an Abjuration check as a challenge roll cancelling all non-permanent, boons of Power Level equal to the Difficulty Level of your result or lower (see the Action Roll Difficulty Level Table).  If your roll is sufficient, you can dispel banes of a power level higher than your Abjuration score.
+    <ul>
+      <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked.  In addition, the target cannot invoke that boon again for 1 minute.</li>
+      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent / passive / inherent to the target (e.g. the invisibility of a Will o’ Wisp).  Canceling this bane is a minor action for the target.</li>
+    </ul>
+- !
+  name: Dominated
+  tags:
+  - Supernatural
+  power:
+  - 5
+  - 9
+  attackAttributes:
+  - Enchantment
+  attack:
+  - Enchantment vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 hour)
+  description: |
+    Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes wielded by the most powerful, mentalist sorcerers who command legions of mindless zombies, completely enslaved to their will.
+  effect: |
+    Dominated characters are under the complete control of the one who targeted them with the dominated bane. Unlike the charmed bane, characters under the effect of domination lose any control over their own actions but their minds are free to think anything, though they are effectively trapped in their own body like a prison. They cannot take action of any kind (except thought) unless it is ordered by the attacker. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a Resist roll as a free action to break free from the effect.  The attacker does not gain special access to the target’s mind and so can only order the character to perform actions that they think or know (from prior knowledge) that the character is capable of. Domination does not prevent other banes, like mind-reading, but each bane must be applied and resolved separately. Lastly, each mental order that the attacker gives to the target is a normal action, however the order can be a series of verbal commands like “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones. <ul>
+      <li><strong>Power Level 5</strong> - This ability targets creatures of subhuman intelligence (animals, some elementals, etc.)</li>
+      <li><strong>Power Level 9</strong> - This ability targets creatures of human intelligence</li>
+      </ul>
+  special: |
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- !
+  name: Fatigued
+  tags:
+  - Supernatural
+  power:
+  - 5
+  attackAttributes:
+  - Entropy
+  attack:
+  - Entropy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Special
+  description: |
+    Fatigue overcomes the target, causing their body to gradually cease normal function until they rest.
+  effect: |
+    This bane has multiple tiers which are applied in succession; each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one step.<br/>
+    <strong>Special:</strong> unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion, removes one level of fatigue. If the Restoration boon is invoked, the character invoking it can remove one level of Fatigue (in addition to that removed by natural rest) if their attribute used to invoke Restoration is between 1 and 6. A target cannot benefit from another invocation of the Restoration boon until 24 hours have passed. If the Restoration boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one.
+     <ul>
+     <li>Level 1 - The target has Disadvantage 1 on all non-attack action rolls. This </li>
+     <li>Level 2 - The target loses their attribute bonus to their defense score (Agility for Evasion, Fortitude for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.</li>
+     <li>Level 3 - The target has Disadvantage 1 on all attack rolls.</li>
+     <li>Level 4 - The target is affected by the Slowed bane, reducing it's speed to 2 (though removing the condition can occur only via normal means to remove the Fatigued bane)</li>
+     <li>Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances are preventing them from resting peacefully.</li>
+     <li>Level 6 - The target dies.</li>
+     </ul>
+- !
+  name: Forced Move
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 2
+  - 4
+  - 6
+  - 8
+  attackAttributes:
+  - Might
+  - Movement
+  - Energy
+  attack:
+  - Might vs. Toughness
+  - Movement vs. Toughness
+  - Energy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Instantaneous
+  description: |
+    The afflicted target is moved (against it’s will) a variable distance at the mercy of the attacker. Possible stories for this movement include a strong gust of magical wind, a powerful blow with a heavy weapon, etc.
+  effect: |
+    The afflicted target is moved a number of squares equal to the power level of the bane divided by 2. The ending square is chosen by the attacker.
+- !
+  name: Immobile
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 0
+  attackAttributes:
+  - Agility
+  - Enchantment
+  - Entropy
+  - Energy
+  - Alteration
+  - Might
+  attack:
+  - Agility vs. Evasion
+  - Enchantment vs. Resolve
+  - Entropy vs. Toughness
+  - Energy vs. Toughness
+  - Alteration vs. Evasion
+  - Might vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Whether through grappling, wrestling, pinning, crushing, a precise nerve strike, magical summoning of vines, briars, etc., warping inanimate objects to immobilize a foe, or exerting mental control, or even a blast cold so extreme that it renders the victim immobile.
+  effect: |
+    You restrict another character's movement, preventing them from moving from their current square. If you invoked the bane with a MIGHT roll, then both you (the attacker) and the target are IMMOBILE in your current squares for the duration of the bane. In subsequent rounds, you can roll the attack again - if successful, you can move your movement and take the target with you.  If this attack fails, you can only move by first releasing the target and ending the bane.
+    If you invoked the bane with any attribute other than MIGHT, you can move freely while the target remains affected
+    You can choose to release the target at any time (a free action that immediately ends the bane).
+    <strong>Special</strong>: A resist roll for this bane alone is a Move action, it can be attempted once per round in addition to your normal action.
+- !
+  name: Phantasm
+  tags:
+  - Supernatural
+  power:
+  - 1
+  - 2
+  - 3
+  - 7
+  attackAttributes:
+  - Illusion
+  attack:
+  - Illusion vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 10 minutes)
+  description: |
+    Illusory phantasms come in many shapes and forms, but they boil down to one thing – a manifestation of something that is not real, which is seen by anyone within range of sight / hearing / smell etc. Not to be confused with hallucination (see the description in the POWERS section), which is one creature completely dominating the sensory perception of another.
+  effect: |
+    Any time that a character interacts with a phantasm, they make a challenge roll as a free action (DL = Attribute score of the phantasm’s creator). This challenge roll is in addition to the resist roll that all characters receive beginning the turn after the attacker stops concentrating or fails to sustain the phantasm. Beyond that, phantasms have a cumulative power level determined with how many senses they deceive as detailed below.
+    <ul>
+    <li><strong>Power Level 1</strong> - Taste</li>
+    <li><strong>Power Level 2</strong> - Sound</li>
+    <li><strong>Power Level 2</strong> - Smell</li>
+    <li><strong>Power Level 2</strong> - Touch</li>
+    <li><strong>Power Level 3</strong> - Sight</li>
+    <li><strong>Power Level 6</strong> - All Senses</li>
+    </ul>
+    Your Illusion attribute score determines the maximum area that your phantasm can cover as follows. The dimensions are depth, width, and height (all squares must touch but can be in any shape/pattern)
+    <ul>
+    <li>Illusion 1 - 1 x 1 x 1 square </li>
+    <li>Illusion 3 - 2 x 2 x 2 squares </li>
+    <li>Illusion 5 - 3 x 3 x 3 squares</li>
+    <li>Illusion 7 - 4 x 4 x 4 squares</li>
+    <li>Illusion 8 - 6 x 6 x 6 squares</li>
+    <li>Illusion 9 - 8 x 8 x 8 squares</li>
+    </ul>
+  special: |
+    When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
+- !
+  name: Incapacitated
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 5
+  - 7
+  - 9
+  attackAttributes:
+  - Agility
+  - Entropy
+  - Enchantment
+  attack:
+  - Agility vs. Toughness
+  - Entropy vs. Toughness
+  - Enchantment vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Incapacitation is a catch-all for a variety of banes including: total paralysis, sleep, petrification, poisoning, being knocked out, or fainting. Examples of possible causes of this bane include: a martial artist’s paralyzing strike, being put to sleep, paralyzed by poison, fainting from extreme heat, suffocation, etc.
+  effect: |
+    The target is IMMOBILE (can’t move from their current square) and unconscious. They have DISADVANTAGE 5 on all perception rolls, and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - the effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - the effect can only be broken if the target takes 1 points of damage.</li><li><strong>Power Level 9</strong> - the effect cannot be disrupted by external forces, only the afflicted character’s successful resist roll can end the effect.</li></ul>
+  special: |
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
+- !
+  name: Intimidated
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  attackAttributes:
+  - Enchantment
+  - Might
+  - Presence
+  - Persuasion
+  attack:
+  - Enchantment vs. Resolve
+  - Might vs. Resolve
+  - Presence vs. Resolve
+  - Persuasion vs. Resolve
+  invocationTime: 1 Minor Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Through a show of (physical or personality) force, you command attention as the greatest threat, causing others to fear to attack your allies.
+  effect: |
+    The target fears that not attacking you would be a grievous error.  As such, any attacks the target makes which do not include you as a target suffer disadvantage.  If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is equal or greater to their Resolve defense.
+    <ul>
+    <li><strong>Power Level 4</strong> - A single target gets disadvantage 1.</li>
+    <li><strong>Power Level 5</strong> - Up to 2 targets within 5 squares of the attack target get disadvantage 1.</li>
+    <li><strong>Power Level 6</strong> - Up to 3 targets within 5 squares of the attack target get disadvantage 1.</li>
+    <li><strong>Power Level 7</strong> - Up to 4 targets within 5 squares of the attack target get disadvantage 1.</li>
+    <li><strong>Power Level 8</strong> - Up to 5 targets within 5 squares of the attack target get disadvantage 2.</li>
+    <li><strong>Power Level 9</strong> - Any number of targets within 5 squares of the attack target get disadvantage 2.</li>
+    </ul>
+- !
+  name: Knockdown
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 2
+  attackAttributes:
+  - Might
+  - Energy
+  attack:
+  - Might vs. Toughness
+  - Energy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Instantaneous
+  description: |
+    Fights are called “knock down, drag out” for a reason – knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, a thunderbolt of supernatural energy, or a well aimed shove in a direction where the enemies balance is weak.
+  effect: |
+    Knockdown is an instantaneous effect that knocks the target prone. Being prone gives tactical disadvantage to all attacks. Melee and area attacks against prone characters gain tactical advantage, while being prone grants the character tactical advantage against projectile attacks.
+- !
+  name: Life Drain
+  tags:
+  - Supernatural
+  power:
+  - 5
+  attackAttributes:
+  - Entropy
+  attack:
+  - Entropy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Instantaneous
+  description: |
+    The fangs of a vampire and the touch of a black mage that siphons away the very soul of his enemy are some examples of the Life Drain affliction.
+  effect: |
+    For each point of damage that the attack deals (over and above the target’s defense score), you regain 1 hit point.
+- !
+  name: Memory Alteration
+  tags:
+  - Supernatural
+  power:
+  - 5
+  - 6
+  - 8
+  attackAttributes:
+  - Enchantment
+  attack:
+  - Enchantment vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Instantaneous
+  description: |
+    Warping or controlling the mind is one of the most dreaded powers of Enchanters, causing powerful heroes to forget their homes, families, and quests
+  effect: |
+    The memory wipe bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane.
+    This bane confers no special ability to know about a target's memory. The invoker must be aware of the memory either from rumor, personal knowledge, or successfully divining it
+    <ul>
+    <li><strong>Power Level 5</strong> - You temporarily modify a target's memory about a minor aspect of some memory the target has. The target automatically regains the lost memory and realizes their confusion 1 hour later.</li>
+    <li><strong>Power Level 6</strong> - You permanently erase or alter the last 5 minutes of the target’s memory.  The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did).  Multiple uses of this bane progressively erase consecutive 5 minute increments.</li>
+    <li><strong>Power Level 8</strong> - Instead of the immediate past, the invoker of the bane can erase or alter memories from any time in the past.</li>
+    </ul>
+  special: |
+    When you target an enemy with this bane and your action roll fails to beat the target's RESOLVE defense, the target is immune to further attempts of this bane from you for the next 24 hours.
+- !
+  name: Mind Dredge
+  tags:
+  - Supernatural
+  power:
+  - 2
+  - 4
+  - 6
+  - 8
+  - 9
+  attackAttributes:
+  - Divination
+  attack:
+  - Divination vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1)
+  description: Characters with the ability to read thoughts and otherwise dig through the minds of others through telepathy and similar powers are all great examples of MIND DREDGE.
+  effect: |
+    <ul>
+    <li><strong>Power Level 2</strong> - This power may target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.</li>
+    <li><strong>Power Level 4</strong> - This power may target creatures of at least animal intelligence. You gain access to the target’s current thoughts.</li>
+    <li><strong>Power Level 6</strong> - This power may target creatures of at least animal intelligence. You gain access to the target’s current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that you sustain this effect, you gain access access to an additional day’s worth of memories.</li>
+    <li><strong>Power Level 8</strong> - This power may target creatures of at least animal intelligence. You gain access to the target’s current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that you sustain this effect, you gain access access to an additional year’s worth of memories. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.</li>
+    <li><strong>Power Level 9</strong> - This power may target creatures of at least animal intelligence. You gain access to the target’s current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to gain the memories associated with a particular place, object, or event. </li>
+    </ul>
+  special: |
+    When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- !
+  name: Persistent Damage
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 2
+  - 4
+  - 6
+  attackAttributes:
+  - Agility
+  - Energy
+  - Entropy
+  attack:
+  - Agility vs. Evasion
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Persistent damage comes in many different types, including, but not limited to: cold, fire, acid, electricity, entropic, poison, wounding, etc. Persistent damage can apply from environmental conditions (the 9th plane of Hell should have a persistent fire damage effect in most campaign worlds), or from an action roll that includes the bane. Some types of fireball attacks might produce an powerful explosion that does more damage initially, where another type of fireball might have a “continual burn” effect, causing all within the initial blast to take persistent fire damage.
+  effect: |
+    Persistent damage is automatically applied at the beginning of the afflicted character(s) turn(s) before they roll a resist roll against it. As noted in “power level” above, there are 3 tiers of persistent damage. This damage automatically bypasses the afflicted character’s defenses but it can be reduced by any resistance to damage of a certain type (see the RESISTANCE boon). Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy).  Each variation has a it’s own cure; when that cure is applied with a normal action (either by the afflicted character, or another), the target receives a Resist roll with advantage (as a free action) to end the effect.  Some cures for the respective energy types include: Bleeding => Knowledge (Medical) / Creation / Profession: Healer, Lightning => discharge or grounding of the current / curcuit, Cold => warmth, heat, or fire, Acid => alkalizing agents (powder, milk, etc.) … The GM has the final word on whether a proposed cure can help a given type of persistent damage.
+    <ul>
+      <li><strong>Power Level 2</strong> - 1d4 damage per round.</li>
+      <li><strong>Power Level 4</strong> - 1d8 damage per round</li><li><strong>Power Level 6</strong> - 2d6 damage per round</li>
+    </ul>
+- !
+  name: Scrying
+  tags:
+  - Supernatural
+  power:
+  - 5
+  attackAttributes:
+  - Divination
+  attack:
+  - Divination vs. Resolve
+  invocationTime: 10 Minutes
+  duration: 10 minutes (Concentration)
+  description: |
+    Peering into a magic vessel, a hearth, a bubbling cauldron, or a crystal ball, you see can view the target if they are on the same plane
+  effect: |
+    If your attack is successful, you can view the target from any distance, provided they are on the same plane of existence.
+  special: |
+    You can attempt to scry the same target any number of times, but if your attack roll to target them fails, that target becomes immune to your scrying for 24 hours.
+- !
+  name: Sickened
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 3
+  attackAttributes:
+  - Entropy
+  attack:
+  - Entropy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Entropic energy overcomes the target, bombarding their system and inducing nausea which makes any kind of action difficult
+  effect: |
+    The target suffers disadvantage 2 to all action rolls
+- !
+  name: Silenced
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 2
+  attackAttributes:
+  - Agility
+  - Might
+  - Entropy
+  - Alteration
+  attack:
+  - Agility vs. Evasion
+  - Might vs. Toughness
+  - Entropy vs. Toughness
+  - Alteration vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Silence overcomes the target (whether from magically warping sound around the target) or a physical effect like strangulation / suffocation.
+  effect: |
+    If AGILITY or ENTROPY was used in the attack, then the character is suffering strangulation and unable to speak.  In addition to that, if ALTERATION was used in the attack, all sound within 5’ of the target is magically suppressed, making their footsteps and the usual “clank” of belongings they are carrying inaudible.
+- !
+  name: Slowed
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 2
+  attackAttributes:
+  - Energy
+  - Might
+  - Agility
+  - Entropy
+  attack:
+  - Energy vs. Toughness
+  - Might vs. Toughness
+  - Agility vs. Evasion
+  - Entropy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Slowing an enemy is usually caused by either extreme cold, prolonged heat, poison, or injury to one or both legs.
+  effect: |
+    The afflicted character’s movement is reduced to 2 squares. This applies to all movement that is physical (flight, walking, climbing, etc.). If under a magical effect that increases speed, the two are canceled for the duration that both effect the target.
+- !
+  name: Stunned
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 4
+  attackAttributes:
+  - Might
+  - Agility
+  - Entropy
+  - Energy
+  attack:
+  - Might vs. Toughness
+  - Agility vs. Toughness
+  - Entropy vs. Toughness
+  - Energy vs. Toughness
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Stunning an enemy can be anything from the pommel of a dagger to the back of the head, to a kick in the groin, to a deafening thunderclap that disorients the target.
+  effect: |
+    The target grants TACTICAL ADVANTAGE until the effect ends (enemies gain advantage 1 on their attacks if they do not already have tactical advantage). The afflicted enemy can take only a single action (either move, or normal, or minor) and cannot concentrate to sustain existing boon or bane effects.
+- !
+  name: Stupefied
+  tags:
+  - Supernatural
+  power:
+  - 7
+  attackAttributes:
+  - Enchantment
+  attack:
+  - Enchantment vs. Resolve
+  invocationTime: 1 Normal Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    The stupefied bane has examples in many stories and legends: a vampire’s eyes are rumored to bring a stupor upon their foes, the call of a siren, or the inherent beauty of nymph’s and other woodland creatures. Being stupefied causes the character to be lulled into a sense sense of false security, tranquility, and pacifism.
+  effect: |
+    The character is in a state of mental fog, lowering their mental defenses. While stupefied, the character’s resolve defense is reduced to 10. In addition, the character has the approximate intelligence of an animal or small child.  If attacked, it will defend itself until the attack ceases, using it’s natural weapons (hands, claws, bite, or in the case of a dragon, breath attack), but the target will never employ any kind of complex tactic or ability. If the target sees fire, it will run away, if it feels pain, it will flee.
+  special: |
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively planning to break free. However, the targets true mind is magically suppressed but fights to regain control.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect.  Any attack that causes the target mental or physical pain gives the target an additional Resist roll to break free from the bane.  Also any action that would startle a wild animal (hit with a rock, slap on the face, etc.) will also trigger a free Resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target’s typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- !
+  name: Surprised
+  tags:
+  - Physical
+  power:
+  - 0
+  attackAttributes:
+  - n/a
+  attack:
+  - n/a
+  invocationTime: 1 Normal Action
+  duration: 1 Round
+  description: |
+    Being surprised is being caught flat-footed and scrambling to react to an enemy that the character was either unaware of, or did not realize was an enemy.
+  effect: |
+    All attackers gain ADVANTAGE 1 against surprised characters. Surprised characters cannot take any actions that are INTERRUPT actions
+  special: |
+    Under certain conditions a character may be surprised against <strong>only one opponent</strong>. The most common example being an opponent that is disguised, hiding, invisible, or for some other reason <em>not perceived as a threat</em>.
+- !
+  name: Truthfulness
+  tags:
+  - Supernatural
+  power:
+  - 5
+  attackAttributes:
+  - Enchantment
+  attack:
+  - Enchantment vs. Resolve
+  invocationTime: 10 Minutes
+  duration: 10 minutes (Concentration)
+  description: |
+    With supernatural control of the mind, you compel the target to honesty, causing them to be unable to speak falsely
+  effect: |
+    The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Enchantment roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.
+  special: |
+    When a target resists the bane, you cannot target them with this bane again for 24 hours.
