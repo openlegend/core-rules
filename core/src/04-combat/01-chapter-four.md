@@ -112,9 +112,15 @@ When your turn in the initiative order comes, you are allowed one normal action,
 Normal actions are what you take to get big things done in combat. Your normal action can be taken to do any of the following:
 
 -   Make a damaging attack
+
 -   Make a bane attack
+
 -   Invoke a boon
+
+-   Assist an Ally
+   
 -   Take an extra move action
+
 
 Each of these actions is explained below.
 
@@ -248,6 +254,10 @@ The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate whic
 
 You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon’s power level, as detailed in the
 [*boon descriptions*](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
+
+#### Assist an Ally
+
+You can assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally gets advantage 1 on that roll.
 
 ##### 1. Determine Range and Target(s)
 
