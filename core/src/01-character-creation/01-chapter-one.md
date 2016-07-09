@@ -107,7 +107,7 @@ If you would like more control over your attributes, you can purchase them to cr
 | |
 <div></div>
 | Attribute Score | Cost |
-| - | - |
+| :-: | :-: |
 | 0 | 0 |
 | 1 | 1 |
 | 2 | 3 |
@@ -159,8 +159,8 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Presence 3 | Persuasion 1 |  Perception 2 |
 | Persuasion 3 | Learning 1 |  Will 2 |
 | Perception 3 | Will 2 |  Alteration 4 |
-| Abjuration 4 | Creation 3 | |
-| Spirit 5 | Enchantment 4 | |
+| Abjuration 4 | Abjuration 4 | |
+| | Creation 5 | Enchantment 4 |
 
 <br>
 
@@ -186,7 +186,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 | |
 <div></div>
 | Attribute Score | Attribute Dice |
-| - | - |
+| :-: | :-: |
 | 1 | 1d4 |
 | 2 | 1d6 |
 | 3 | 1d8 |
@@ -214,28 +214,28 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 
 When an enemy tries to attack you--whether with a breath of flame, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
-<div class="table-no-body"></div>
+<div class="table-no-body table-no-stripes table-even-header"></div>
 | Toughness = 10 + Fortitude |
 | - |
 | |
 
 **Toughness** protects you from attacks that test your endurance, bodily health, or sturdiness. For example, foes attempting to poison you, push you off a cliff, or crush you with an iron maul will target your toughness.
 
-<div class="table-no-body"></div>
+<div class="table-no-body table-no-stripes table-even-header"></div>
 | Evasion = 10 + Agility |
 | - |
 | |
 
 **Evasion** protects you from attacks that test your quickness and ability to dodge. Your enemies would need to overcome your evasion in order to hit you with a fireball, shoot you with an arrow, or stab you with a rapier.
 
-<div class="table-no-body"></div>
+<div class="table-no-body table-no-stripes table-even-header"></div>
 | Resolve = 10 + Presence + Will  |
 | - |
 | |
 
 **Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to magically charm you, deceive you with illusions, or frighten you must target your resolve.
 
-<div class="table-no-body"></div>
+<div class="table-no-body table-no-stripes table-even-header"></div>
 | Hit Points = 2 x (Fortitude + Presence + Will) + 10 |
 | - |
 | |
@@ -270,34 +270,40 @@ start with the feat selections recommended below:
 | - |
 | |
 
+<div class="table-no-stripes table-even-header"></div>
 | Barbarian | Ranger | Monk |
-| - | - | - |
+| :- | :- | :- |
 | Berserker | Master Tracker | Fleet of Foot 1 |
 | Reckless Frenzy | Attack Specialization 1 (Longbow) | Martial Focus (Unarmed) |
 | | Multi-target Attack Specialist 1 (melee) | Combat Momentum |
 
 <br>
 
+<div class="table-no-stripes table-even-header"></div>
 | Paladin | Elemental Mage | Mind Mage |
-| - | - | - |
+| :- | :- | :- |
 | Attribute Substitution (Presence > Might)  | Area Manipulation 1 | Hallucination |
 | Armor Mastery (Scale Mail) | Attack Specialization 1 (Cold) | Potent Bane (Phantasm) |
 | Multi-target Attack Specialist (Area) | | |
 
 <br>
 
+<div class="table-no-stripes table-even-header"></div>
 | Assassin | Cleric | Druid |
-| - | - | - |
+| :- | :- | :- |
 | Martial Focus (Dagger) | Restorative Adept 1 | Armor Specialization 2 (Scale Mail) |
 | Lethal Strike 1 | Armor Specialization 1 (Scale Mail) | Ferocious Minions |
 | Master Shifter 1 | Boon Focus 1 (Shapeshift) | |
 
 <br>
 
+<div class="table-no-stripes table-even-header"></div>
 | Shadowdancer | Bard | Arcane Protector |
-| - | - | - |
+| :- | :- | :- |
 | Lethal Strike 1 | Tactical Inspiration 2 | Defensive Expert 1 |
 | Boon Focus 1 (Teleport) | Restorative Adept 1 | Boon Focus (Teleport) |
+
+<br><br>
 
 ## Step 4: Choose Your Race
 
@@ -373,8 +379,9 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 | - |
 | |
 
+<div class="table-no-stripes table-even-header"></div>
 | Barbarian | Ranger | Monk |
-| - | - | - |
+| :- | :- | :- |
 | Maul | Longbow | Quarterstaff |
 | Hatchet | Dagger | Hatchet |
 | Large Shield | Longsword | Leather Armor |
@@ -384,8 +391,9 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 
 <br>
 
+<div class="table-no-stripes table-even-header"></div>
 | Paladin | Battle Mage | Mind Mage |
-| - | - | - |
+| :- | :- | :- |
 | Warhammer | Crossbow | Longbow |
 | Short Bow | Quarterstaff | Quarterstaff |
 | Great Sword | Dagger | Dagger |
@@ -395,8 +403,9 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 
 <br>
 
+<div class="table-no-stripes table-even-header"></div>
 | Assassin | Cleric | Druid |
-| - | - | - |
+| :- | :- | :- |
 | 5 Daggers | Flail | Quarterstaff |
 | Shortbow | Scale Shirt | Longbow |
 | Hand Crossbow | Large Shield | Dagger |
@@ -405,8 +414,9 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 
 <br>
 
+<div class="table-no-stripes table-even-header"></div>
 | Shadowdancer | Bard | Arcane Protector |
-| - | - | - |
+| :- | :- | :- |
 | 5 Daggers | Dagger | Short Bow |
 | Shortbow | Longbow | Quarterstaff |
 | Hand Crossbow | Longsword | Dagger |
@@ -465,8 +475,10 @@ You do not have to use all of your attribute points at once, any remaining attri
 | - |
 | |
 
+<br>
+
 | Attribute Score | Cost | Attribute Dice |
-| - | - | - |
+| :-: | :-: | :-: |
 | 1 | 1 | 1d4 |
 | 2 | 3 | 1d6 |
 | 3 | 6 | 1d8 |

@@ -1,5 +1,5 @@
 
-# Chapter 3: Wealth & Equipment #
+# Chapter 4: Wealth & Equipment #
 
 No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you’ll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you capture dragon hoards and seize kingdoms.
 
@@ -28,7 +28,7 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | |
 
 | Wealth Score | Sample Lifestyles | Sample Goods |
-| - | - | - |
+| :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
 | 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
@@ -60,7 +60,7 @@ Some items have the *heavy* property. You can carry a number of *heavy* items eq
 
 ### One (Maybe Two) *Bulky* Items
 
-Some items have the *bulky* property. You can carry one *bulky *item at no penalty. You can carry a second *bulky *item, but your speed is reduced to 5’.
+Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5’.
 
 ## Weapons
 
@@ -70,7 +70,8 @@ In this section, several tables present the melee and ranged weapons that your c
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, the Challenge Rating to apply the bane is calculated as if the Power Level is reduced by one. The target, however, still resists the bane at the normal Power Level. (For example, a warrior with Might 4 uses a maul to inflict the *stun *bane. The challenge rating for the warrior to apply the bane is 16, but the target must resist against a challenge rating of 18).
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, the Challenge Rating to apply the bane is calculated as if the Power Level is reduced by one.
+In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 ### Weapon Properties
 
@@ -98,12 +99,12 @@ In this section, several tables present the melee and ranged weapons that your c
 | |
 
 | Weapon | Wealth Level | Properties | Banes |
-| - | - | - | - |
+| :- | :- | :--- | :-- |
 | Dagger | 1 | Melee, One-handed, Precise, Swift 2, Range 25 | Persistent Damage |
 | Longsword | 2 | Melee, Versatile, Forceful, Precise | – |
 | Unarmed | - | One-handed, Forceful, Precise | – |
 | Battle Axe | 2 | Melee, Versatile, Forceful | – |
-| Spear | 1 | Melee, Two-handed, Reach, Range 35 Forceful, Precise | – |
+| Spear | 1 | Melee, Two-handed, Reach, Range 35, Forceful, Precise | – |
 | Mace | 1 | Melee, One-handed, Forceful | Knockdown |
 | Quarterstaff | 1 | Melee, Two-handed, Reach, Forceful, Precise | Knockdown |
 | Flail | 2 | Melee, Two-handed, Forceful, Precise | Knockdown, Immobile, Forced Move |
@@ -122,7 +123,7 @@ In this section, several tables present the melee and ranged weapons that your c
 | |
 
 | Weapon | Wealth Level | Properties | Banes |
-| - | - | - | - |
+| :- | :- | :--- | :- |
 | Crossbow | 2 | Two-handed, Range 50, Precise | Slowed |
 | Hand Crossbow | 2 | One-handed, Range 35, Precise, Swift 1 | Slowed |
 | Longbow | 2 | Two-handed, Range 100, Precise | Slowed |
@@ -139,7 +140,7 @@ The **Heavy** column specifies whether or not the armor has the *heavy* property
 
 **Defense Bonus** indicates the bonus that your character gains to both his evasion and toughness defenses.
 
-**Move Penalty **indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
+**Move Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
 Donning and removing armor takes a number of minutes equal to the total armor bonus. Sleeping in armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of fatigue, which applies disadvantage 1 to all action rolls until he gets a proper night’s rest.
 
@@ -149,7 +150,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 | |
 
 | Armor | Wealth Level | Required Fortitude | Heavy | Defense Bonus | Move Penalty |
-| - | - | - | - | - | - |
+| :-- | :-: | :-: | :-: | :-: | :-: |
 | Small Shield^ | 1 | 1 | no | 1 | 0 |
 | Large Shield^ | 1 | 3 | yes | 2 | 0 |
 | Leather | 1 | 0 | no | 2 | 0 |
@@ -170,7 +171,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 | |
 
 | Gear | Wealth Level | Properties |
-| - | - | - |
+| :- | :-: | :-: |
 | Adventurer’s Pack | 1 | bulky |
 | Healer’s Pack | 1 | bulky |
 | Mage’s Pack | 1 | bulky |

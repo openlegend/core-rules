@@ -14,12 +14,15 @@ Another important point in *Open Legend* is that every action roll should drive 
 
 If you look back to the Core Mechanic, you can see that a simple failure is not an option:
 
+<div class="table-centered"></div>
 | The Action Roll  |
 | - |
 | Roll 1d20 + attribute dice (all dice explode) |
 
+<br />
+
 | If the action roll... | then the result is... |
-| - | - |
+| :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | the player succeeds with a twist. <br /> **- OR -** <br /> the player fails, but the story progresses. <br />*(GM’s Choice)* |
 
@@ -114,7 +117,7 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren�
 | |
 
 | Difficulty | Challenge Rating | Example Actions |
-| -| - | - |
+| :-: | :-: | :------ |
 | Everyday | 10 | leap a 5’ gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
 | Challenging | 15 | climb a rough surface, catch the drift of a text in an unfamiliar language, break down a strong wooden door |
 | Very Hard | 20 | climb a smooth surface, leap a 15’ gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
@@ -161,7 +164,7 @@ Advantage and disadvantage can be assigned by the GM due to situational effects,
 | |
 
 | Situations Meriting Advantage | Situations Meriting Disadvantage |
-| - | - |
+| :- | :- |
 | Attacking a surprised or unaware foe | Attacking while balancing on a beam |
 | Attacking a foe during an acrobatic stunt | Attacking in a confined space |
 | Negotiating with someone you have leverage over | Negotiating with someone who has leverage over you |

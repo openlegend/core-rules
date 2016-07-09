@@ -1,4 +1,4 @@
-# Chapter 4: Combat #
+# Chapter 6: Combat #
 
 Sometimes, the well-meaning but far too honest paladin blows your cover.
 
@@ -49,7 +49,7 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | |
 
 | If the action roll... | then the result is... |
-| - | - |
+| :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 5 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10’ w/o opportunity attacks |
 
@@ -101,7 +101,7 @@ The remaining attributes don’t really lend themselves to damage. Without a VER
 When your turn in the initiative order comes, you are allowed one normal action, one move action, and any number of minor actions (though you may not take more than one minor action of the same type). In lieu of taking any of these actions, you may choose to take one focus action on your turn.
 
 | On your turn, you may take... | Or... |
-| - | - |
+| :- | :- |
 | 1 Normal Action* <br /> 1 Move Action <br />  Any number of minor actions | 1 Focus Action |
 
 
@@ -118,7 +118,7 @@ Normal actions are what you take to get big things done in combat. Your normal a
 -   Invoke a boon
 
 -   Assist an Ally
-   
+
 -   Take an extra move action
 
 
@@ -213,7 +213,7 @@ Supernatural attacks are more open-ended and often require the GM to decide the 
 | |
 
 | Attack Type | Defense |
-| - | - |
+| :- | :- |
 | Precise weapons | Evasion |
 | Forceful weapons | Toughness |
 | Supernatural melee attacks | Toughness |

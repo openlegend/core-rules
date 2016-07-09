@@ -119,6 +119,41 @@
     The affected character has <strong>Tactical Disadvantage</strong>.
     <strong>Special</strong>: Resisting this bane is a minor action.
 - !
+  name: Disarmed
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 3
+  - 6
+  attackAttributes:
+  - Agility
+  - Enchantment
+  - Entropy
+  - Energy
+  - Alteration
+  - Might
+  - Movement
+  attack:
+  - Agility vs. Evasion
+  - Enchantment vs. Resolve
+  - Entropy vs. Toughness
+  - Energy vs. Toughness
+  - Alteration vs. Evasion
+  - Might vs. Toughness
+  - Movement vs. Evasion
+  invocationTime: 1 Normal Action
+  duration: Instantaneous
+  description: |
+    Whether through wrestling it from your opponent, forcefully knocking it out of their hand, skilfully parrying a weapon, a precise nerve strike, magical summoning of vines, etc., heating or chilling an item in their hands, giving a mental command, weakening the muscles they use to grip, or warping the shape of the item, you force an opponent to lose control of an object they are holding.
+  effect: |
+    <ul>
+    <li><strong>Power Level 3</strong> - You force another character to drop  an object they are holding. Choose a location within 15’ of the target, the item ends up there.
+    </li>
+    <li><strong>Power Level 6</strong> - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute (typically Might) roll with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
+    </li>
+    </ul>
+- !
   name: Dispel
   tags:
   - Supernatural
