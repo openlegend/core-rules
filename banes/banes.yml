@@ -60,8 +60,8 @@
     The target is mentally compelled to like and trust you more, depending on the power level of the bane when invoked.
       <ul>
       <li><strong>Power Level 3</strong> - You can Minor Charm creatures of animal level intelligence or lower</li>
-      <li><strong>Power Level 4</strong> - You can Minor Charm, creatures of humanoid intelligence. You can Major Charm creatures of animal level intelligence or lower</li>
-      <li><strong>Power Level 6</strong> - You can Major Charm creatures of humanoid intelligence</li>
+      <li><strong>Power Level 4</strong> - You can Minor Charm, creatures of humanoid intelligence. You can Major Charm creatures of animal level intelligence or lower.</li>
+      <li><strong>Power Level 6</strong> - You can Major Charm creatures of humanoid intelligence.</li>
       </ul>
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
@@ -114,9 +114,9 @@
   invocationTime: 1 Normal Action
   duration: Resist (minor) ends (Fail x 3 = 1 minute)
   description: |
-    Convinced of your victory, you cause your enemies to doubt themselves.
+    Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves.
   effect: |
-    The affected character has <strong>Tactical Disadvantage</strong>.
+    The affected target has disadvantage 1 on all action rolls.
     <strong>Special</strong>: Resisting this bane is a minor action.
 - !
   name: Dispel
@@ -134,7 +134,7 @@
   description: |
     You cancel boons affecting an enemy.
   effect: |
-    Make an Abjuration roll. You can dispel boons affecting the target of a maximum Power Level equal to (Abjuration roll - 10) ÷ 2. The Power Level at which you invoke this bane determines the types of effects you can dispel. 
+    Make an Abjuration roll. You can dispel boons affecting the target of a maximum Power Level equal to (Abjuration roll - 10) ÷ 2. The Power Level at which you invoke this bane determines the types of effects you can dispel, as follows: 
     <ul>
       <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked.  In addition, the target cannot invoke that boon again for 1 minute.</li>
       <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp).  Resisting this bane is a minor action for the target.</li>
@@ -154,17 +154,18 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 hour)
   description: |
-    Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes wielded by the most powerful mentalist sorcerers who command legions of mindless zombies, completely enslaved to their will.
+    Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes by the most powerful of sorcerers who command legions of mindless zombies, completely enslaved to their will.
   effect: |
-    <strong>Lesser Domination</strong> - the target obeys a one word command until the end of their next turn
-    <strong>Greater Domination</strong> - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions but their minds are free to think anything, though they are effectively trapped in their own body. They cannot take action of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a Resist roll as a free action to break free from the effect.  The attacker does not gain special access to the target’s mind and so can only order the character to perform actions that they think or know (from prior knowledge) that the character is capable of. Lastly, each mental order that the attacker gives to the target is a normal action, however the order can be a series of verbal commands like “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
+    The dominated bane manifests at two levels: lesser and greater.
+    <strong>Lesser Domination</strong> - the target obeys a one word command until the end of their next turn.
+    <strong>Greater Domination</strong> - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, can think freely, leaving them effectively trapped in their own body. They cannot take action of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a Resist roll as a free action to break free from the effect.  The attacker does not gain special access to the target’s mind and so can only order the character to perform actions that they think or know (from prior knowledge) that the character is capable of. Lastly, each mental order that the attacker gives to the target is a normal action, however the order can be a series of verbal commands like “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
       <ul>
-      <li><strong>Power Level 3</strong> - You can target creatures of subhuman intelligence (animals, some elementals, certain undead, etc.) with the Lesser Domination.</li>
-      <li><strong>Power Level 5</strong> - You can target creatures of human intelligence or better with Greater Domination. You can target creatures of subhuman intelligence (animals, some elementals, etc.) with Greater Domination.</li>
+      <li><strong>Power Level 3</strong> - You can target creatures of subhuman intelligence (animals, some elementals, certain undead, etc.) with Lesser Domination.</li>
+      <li><strong>Power Level 5</strong> - You can target creatures of human intelligence or better with Lesser Domination. You can target creatures of subhuman intelligence (animals, some elementals, etc.) with Greater Domination.</li>
       <li><strong>Power Level 9</strong> - You can target creatures of human intelligence or greater with Greater Domination</li>
       </ul>
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is magically suppressed but fights to regain control.  As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Fatigued
   tags:
@@ -180,14 +181,14 @@
   description: |
     Fatigue overcomes the target, causing their body to gradually cease normal function until they rest.
   effect: |
-    This bane has multiple tiers which are applied in succession; each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one step.<br/>
-    <strong>Special:</strong> unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion, removes one level of fatigue. If the Restoration boon is invoked, the character invoking it can remove one level of Fatigue (in addition to that removed by natural rest) if their attribute used to invoke Restoration is between 1 and 6. A target cannot benefit from another invocation of the Restoration boon until 24 hours have passed. If the Restoration boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one.
+    This bane has multiple tiers which are applied in succession. Each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one level.<br/>
+    <strong>Special:</strong> Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion, removes one level of fatigue. If the Restoration boon is invoked, the character invoking it can remove one level of Fatigue (in addition to that removed by natural rest) if their attribute used to invoke Restoration is between 1 and 6. A target cannot benefit from another invocation of the Restoration boon until 24 hours have passed. If the Restoration boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one.
      <ul>
-     <li>Level 1 - The target has Disadvantage 1 on all non-attack action rolls. This </li>
-     <li>Level 2 - The target loses their attribute bonus to their defense score (Agility for Evasion, Fortitude for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.</li>
+     <li>Level 1 - The target has Disadvantage 1 on all non-attack action rolls.</li>
+     <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.</li>
      <li>Level 3 - The target has Disadvantage 1 on all attack rolls.</li>
-     <li>Level 4 - The target is affected by the Slowed bane, reducing it's speed to 2 (though removing the condition can occur only via normal means to remove the Fatigued bane)</li>
-     <li>Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances are preventing them from resting peacefully.</li>
+     <li>Level 4 - The target is affected by the slowed bane, reducing it's speed to 2. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
+     <li>Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
      <li>Level 6 - The target dies.</li>
      </ul>
 - !
@@ -210,11 +211,11 @@
   invocationTime: 1 Normal Action
   duration: Special
   description: |
-    You manifest an overwhelming force of physical might or supernatural power that strikes terror into the hearts of an enemies, causing them to flee from your presence
+    You manifest an overwhelming force of physical might or supernatural power that strikes terror into the hearts of enemies, causing them to flee from your presence.
   effect: |
-    THe afflicted target moves as far away from you as possible, though they do not abandon reason or leave themselves unreasonably vulnerable. On each turn they are afflicted by this bane they use their movement to increase the distance between you and them.
+    The afflicted target moves as far away from you as possible, though they do not abandon reason or leave themselves unreasonably vulnerable. On each turn that they are afflicted by this bane, they use their movement to increase the distance between you and them.
   special: |
-    While most banes last until the target actively attempts to resist them, this bane prevents the target from thinking clearly. However, the targets logical mind fights to regain control. As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from this effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
+    While most banes last until the target actively attempts to resist them, this bane prevents the target from thinking clearly. However, the targets logical mind fights to regain control. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from this effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
   name: Forced Move
   tags:
@@ -236,7 +237,7 @@
   invocationTime: 1 Normal Action
   duration: Instantaneous
   description: |
-    The afflicted target is moved (against it’s will) a variable distance at the mercy of the attacker. Possible stories for this movement include a strong gust of magical wind, a powerful blow with a heavy weapon, etc.
+    With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will.
   effect: |
     The afflicted target is moved a number of squares equal to the power level of the bane divided by 2. The ending square is chosen by the attacker.
 - !
@@ -263,10 +264,10 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Whether through grappling, wrestling, pinning, crushing, a precise nerve strike, magical summoning of vines, briars, etc., warping inanimate objects to immobilize a foe, or exerting mental control, or even a blast cold so extreme that it renders the victim immobile.
+    Whether through grappling, a precise nerve strike, entangling vines, exerting mental control, or a bone-numbing blast of cold, you render your foe incapable of movement.
   effect: |
-    You restrict another character's movement, preventing them from moving from their current square. If you invoked the bane with a Might roll, then both you (the attacker) and the target are Immobile in your current squares for the duration of the bane. In subsequent rounds, you can roll the attack again - if successful, you can move your movement and take the target with you.  If this attack fails, you can only move by first releasing the target and ending the bane.
-    If you invoked the bane with any attribute other than Might, you can move freely while the target remains affected
+    Your target cannot move from its current space. If you invoked the bane with a Might roll, then both you and the target are immobile in your current space for the duration of the bane (locked in a grapple). While grappling in this manner, you can attempt to inflict this bane again upon the target. If successful, you can move your movement and take the target with you.  If this attack fails, you can only move by first releasing the target and ending the bane.
+    If you invoked the bane with any attribute other than Might, you can move freely while the target remains affected.
     You can choose to release the target at any time (a free action that immediately ends the bane).
     <strong>Special</strong>: When an affected target succeeds at a Resist roll to end this effect, they can move 15' as a minor action.
 - !
@@ -285,7 +286,7 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 10 minutes)
   description: |
-    Illusory phantasms come in many shapes and forms, but they boil down to one thing – a manifestation of something that is not real, which is seen by anyone within range of sight / hearing / smell etc. Not to be confused with hallucination (see the description in the POWERS section), which is one creature completely dominating the sensory perception of another.
+    Illusory phantasms come in many shapes and forms, but they boil down to one thing: a false manifestation of something that is not real, which is perceived by anyone within sensory range.
   effect: |
     Any time that a character interacts with a phantasm, they make a challenge roll as a free action (DL = Attribute score of the phantasm’s creator). This challenge roll is in addition to the resist roll that all characters receive beginning the turn after the attacker stops concentrating or fails to sustain the phantasm. Beyond that, phantasms have a cumulative power level determined with how many senses they deceive as detailed below.
     <ul>
