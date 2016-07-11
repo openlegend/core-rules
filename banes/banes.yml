@@ -248,7 +248,7 @@
   description: |
     You manifest an overwhelming force of physical might or supernatural power that strikes terror into the hearts of enemies, causing them to flee from your presence.
   effect: |
-    The afflicted target moves as far away from you as possible, though they do not abandon reason or leave themselves unreasonably vulnerable. On each turn that they are afflicted by this bane, they use their movement to increase the distance between you and them.
+    On its turn, the afflicted target must use its entire turn to get as far away as possible from you. It cannot use its actions to do anything other than retreat and it cannot willingly move closer to you while the bane persists.
   special: |
     While most banes last until the target actively attempts to resist them, this bane prevents the target from thinking clearly. However, the targets logical mind fights to regain control. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from this effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
@@ -342,7 +342,7 @@
     <li>Illusion 9 - 40' x 40' x 40'</li>
     </ul>
   special: |
-    Whenever a character interacts with your phantasm, they can make a Perception roll to recognize the illusion. The Challenge Rating for this roll equals 10 + twice your Illusion attribute score.
+    When you invoke the phantasm bane, your Illusion action roll determines who is convinced by the illusion. Any creatures with a Resolve defense score less than or equal to your roll will believe the phantasm to be real and will react accordingly. Those with a higher Resolve score will notice that their senses are being deceived somehow. Creatures who are convinced by the phantasm can use the resist action as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the illusion.Whenever a character interacts with your phantasm, they can make a Perception roll to recognize the illusion.
     When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
   name: Incapacitated
@@ -364,11 +364,11 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Incapacitation is a catch-all for a variety of banes including: total paralysis, sleep, petrification, poisoning, being knocked out, or fainting. Examples of possible causes of this bane include: a martial artist’s paralyzing strike, being put to sleep, paralyzed by poison, fainting from extreme heat, suffocation, etc.
+    Incapacitation is a catch-all for a variety of effects, including total paralysis, sleep, petrification, poisoning, being knocked out, or fainting. Examples of possible causes of this bane include a martial artist’s paralyzing strike, an enchanter's magical song of sleep, paralysis by poison, fainting from extreme heat, suffocation, and the gaze of a medusa.
   effect: |
-    The target is IMMOBILE (can’t move from their current square) and unconscious. They have DISADVANTAGE 5 on all perception rolls, and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - the effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - the effect can only be broken if the target takes 1 points of damage.</li><li><strong>Power Level 9</strong> - the effect cannot be disrupted by external forces, only the afflicted character’s successful resist roll can end the effect.</li></ul>
+    The target is immobile (can’t move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces, only the afflicted character’s successful resist roll can end the effect.</li></ul>
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness.  As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
   name: Intimidated
   tags:
@@ -427,9 +427,9 @@
   invocationTime: 1 Normal Action
   duration: Instantaneous
   description: |
-    Fights are called “knock down, drag out” for a reason – knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, a thunderbolt of supernatural energy, or a well aimed shove in a direction where the enemies balance is weak.
+    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering rbolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak.
   effect: |
-    Knockdown is an instantaneous effect that knocks the target prone. Being prone gives tactical disadvantage to all attacks. Melee and area attacks against prone characters gain tactical advantage, while being prone grants the character tactical advantage against projectile attacks.
+    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1.
 - !
   name: Life Drain
   tags:
@@ -445,7 +445,7 @@
   description: |
     The fangs of a vampire and the touch of a black mage that siphons away the very soul of his enemy are some examples of the Life Drain affliction.
   effect: |
-    For each point of damage that the attack deals (over and above the target’s defense score), you regain 1 hit point.
+    When you inflict this bane, your action roll counts as a damaging attack against the target. For each point of damage that the attack deals (over and above the target’s defense score), you regain 1 hit point.
 - !
   name: Memory Alteration
   tags:
@@ -461,17 +461,17 @@
   invocationTime: 1 Normal Action
   duration: Instantaneous
   description: |
-    Warping or controlling the mind is one of the most dreaded powers of Enchanters, causing powerful heroes to forget their homes, families, and quests
+    Warping or controlling the mind is one of the most dreaded powers of enchanters, causing powerful heroes to forget their homes, families, and quests.
   effect: |
-    The memory wipe bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane.
-    This bane confers no special ability to know about a target's memory. The invoker must be aware of the memory either from rumor, personal knowledge, or successfully divining it
+    The memory alteration bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane.
+    This bane confers no special ability to know about a target's memory. The invoker must be aware of the memory either from rumor, personal knowledge, divination, or other means.
     <ul>
-    <li><strong>Power Level 5</strong> - You temporarily modify a target's memory about a minor aspect of some memory the target has. The target automatically regains the lost memory and realizes their confusion 1 hour later.</li>
+    <li><strong>Power Level 5</strong> - You temporarily modify a minor aspect of the target's memory. The target automatically regains the lost memory and realizes their confusion 1 hour later.</li>
     <li><strong>Power Level 6</strong> - You permanently erase or alter the last 5 minutes of the target’s memory.  The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did).  Multiple uses of this bane progressively erase consecutive 5 minute increments.</li>
-    <li><strong>Power Level 8</strong> - Instead of the immediate past, the invoker of the bane can erase or alter memories from any time in the past.</li>
+    <li><strong>Power Level 8</strong> - Instead of the immediate past, you can erase or alter memories from any time.</li>
     </ul>
   special: |
-    When you target an enemy with this bane and your action roll fails to beat the target's RESOLVE defense, the target is immune to further attempts of this bane from you for the next 24 hours.
+    When you target an enemy with this bane and your action roll fails to beat the target's resolve defense, the target is immune to further attempts of this bane from you for the next 24 hours.
 - !
   name: Mind Dredge
   tags:
