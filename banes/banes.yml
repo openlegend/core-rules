@@ -400,16 +400,16 @@
   invocationTime: 1 Minor Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Through a display of awe-inspiring force, you command attention as the greatest threat, causing others to fear to attack your allies.
+    Through a display of awe-inspiring force, initimidation, or leadership, you command attention as the greatest threat, causing others to fear to attack your allies.
   effect: |
-    The target fears that not attacking you would be a grievous error.  As such, any attacks the target makes which do not include you as a target suffer disadvantage.  If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is equal or greater to their Resolve defense.
+    Any attacks made by the target that do not include you as a target suffer disadvantage. If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is equal or greater to their Resolve defense (that is, by striking one foe, you can intimidate another).
     <ul>
-    <li><strong>Power Level 4</strong> - A single target gets disadvantage 1 when not attacking you.</li>
-    <li><strong>Power Level 5</strong> - Up to 2 targets within 5 squares of the attack target get disadvantage 1 when not attacking you.</li>
-    <li><strong>Power Level 6</strong> - Up to 3 targets within 5 squares of the attack target get disadvantage 1 when not attacking you.</li>
-    <li><strong>Power Level 7</strong> - Up to 4 targets within 5 squares of the attack target get disadvantage 1 when not attacking you.</li>
-    <li><strong>Power Level 8</strong> - Up to 5 targets within 5 squares of the attack target get disadvantage 2 when not attacking you.</li>
-    <li><strong>Power Level 9</strong> - Any number of targets within 5 squares of the attack target get disadvantage 2 when not attacking you.</li>
+    <li><strong>Power Level 4</strong> - The target suffers disadvantage 1 on attacks that do not include you.</li>
+    <li><strong>Power Level 5</strong> - The target suffers disadvantage 2 on attacks that do not include you.</li>
+    <li><strong>Power Level 6</strong> - The target suffers disadvantage 3 on attacks that do not include you.</li>
+    <li><strong>Power Level 7</strong> - The target suffers disadvantage 4 on attacks that do not include you.</li>
+    <li><strong>Power Level 8</strong> - The target suffers disadvantage 5 on attacks that do not include you.</li>
+    <li><strong>Power Level 9</strong> - The target suffers disadvantage 6 on attacks that do not include you.</li>
     </ul>
 - !
   name: Knockdown
