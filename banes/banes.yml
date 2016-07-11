@@ -524,7 +524,8 @@
     At the beginning of the target's turn, before they take any actions, the target suffers damage determined by the power level of the bane. This damage automatically bypasses the afflicted character’s defenses but it can be reduced by any resistance to damage of a certain type (see the resistance boon).
     <ul>
       <li><strong>Power Level 2</strong> - 1d4 damage per round.</li>
-      <li><strong>Power Level 4</strong> - 1d8 damage per round</li><li><strong>Power Level 6</strong> - 2d6 damage per round</li>
+      <li><strong>Power Level 4</strong> - 1d8 damage per round</li>
+      <li><strong>Power Level 6</strong> - 2d6 damage per round</li>
     </ul>
     special: |
     Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy).  Each variation has a its own cure. When that cure is applied with a normal action (either by the afflicted character or another), the target receives a resist roll with advantage 1 (as a free action) to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the following examples can help with arbitration: 
