@@ -311,6 +311,23 @@
   effect: |
     Any time you have tactical advantage against an opponent, you gain Advantage 1 for each tier of this feat you’ve purchased.
 - !
+  name: Companion (I - III)
+  prerequisite:
+  - None
+  tags:
+  - Non-Combat
+  cost:
+  - 3
+  description: |
+    Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
+  effect: |
+    You gain a companion character that acts independent from you but is controlled by the same player. The companion has one attribute at each potential score and a maximum attribute score equal to your level or 5 (whichever is higher) minus 2. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons. So, if you're 1st level, the maximum ability score of your companion is 3, and you get three attributes with scores in them: an attribute 3, an attribute 2, and an attribute 1.
+    <ul>
+    <li><strong>Tier 1</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 2.</li>
+    <li><strong>Tier 2</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 1.</li>
+    <li><strong>Tier 3</strong> - Companion's maximum attribute is your level or 5 (whichever is higher).</li>
+    </ul>
+- !
   name: Craft (I - III)
   prerequisite:
   - Knowledge I (feat) OR Learning 3
