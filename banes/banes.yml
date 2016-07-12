@@ -547,15 +547,17 @@
   attribute:
   - Alteration
   invocationTime: 1 Minute
-  duration: Sustain Persists
+  duration: Special
   description: |
-    You are able to change size, shape, and composition of another creature that you touch. Make an enemy larger or smaller, turn them into a sheep, etc.
+    You alter the size, shape, and composition of another creature. Make an enemy larger or smaller. Turn them into a sheep, newt, or whatever your imagination desires.
   effect: |
+    Your Power Level determines the extent to which you can transform your target. If the target is transformed into a different creature, it uses the Might, Agility, Fortitude, and Perception attribute scores of the new creature.
     <ul>
-    <li><strong>Power Level 5</strong> - Polymorph a target creature into another creature of the same size and 50% greater OR lesser weight. The duration is 1 hour per (Su) Alteration attribute point. </li>
-    <li><strong>Power Level 6</strong> - Polymorph a target creature into another creature double or half the size. The duration is 1 hour per (Su) Alteration attribute point. </li>
-    <li><strong>Power Level 8</strong> - Polymorph a creature into another creature up to quadruple it's original size, or an object of the same size. The duration is 1 hour per (Su) Alteration attribute point.</li>
-    <li><strong>Power Level 9</strong> - Polymorph a living creature into into another creature of any size or an object the same size. The duration is permanent.</li></ul>
+    <li><strong>Power Level 5</strong> - Polymorph a creature into another creature of the same size and 50% greater OR lesser weight. The duration is 1 hour per Alteration attribute point. </li>
+    <li><strong>Power Level 6</strong> - Polymorph a creature into another creature double or half the size. The duration is 1 hour per Alteration attribute point. </li>
+    <li><strong>Power Level 8</strong> - Polymorph a creature into another creature to quadruple or one-quarter its original size. Alternatively, transform the target into an object of its original size. The duration is 1 hour per Alteration attribute point.</li>
+    <li><strong>Power Level 9</strong> - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The duration is permanent.</li></ul>
+    
 - !
   name: Scrying
   tags:
@@ -569,10 +571,10 @@
   invocationTime: 10 Minutes
   duration: 10 minutes (Special)
   description: |
-    Peering into a supernatural conduit sucy as a hearth, a bubbling cauldron, or a crystal ball, you see can view the target if they are on the same plane
+    Peering into a supernatural conduit such as a hearth, a bubbling cauldron, or a crystal ball, you see can view the target from a distance.
   effect: |
     If your roll is successful, you can view a sentient target that you are familiar with from any distance, provided they are in the same dimension or plane of reality.
-    You may also scry on places that you are familiar with. If a non-ally with a higher Resolve defense is present in that place, then that individual's Resolve defense is used instead. Otherwise, the place being targeted gains a defense score as follows:
+    You may also scry on places that you are familiar with. If a non-ally with a higher Resolve defense is present in that place, then that individual's Resolve defense is used instead. Otherwise, the place being targeted gains a defense score determined by your distance from it, as follows:
     <ul>
     <li><strong>20</strong> - 1 mile or less</li>
     <li><strong>22</strong> - 100 miles or less</li>
@@ -580,8 +582,8 @@
     <li><strong>28</strong> - Any dimension or plane of reality. Peering into certain dimensions may expose you to other dangers at the GM's discretion.</li>
     </ul>
   special: |
-    When you successfully invoke this bane, at the end of it's duration, you can make a normal attack roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
-    You can attempt to scry the same target any number of times, but if your attack roll to target them fails, that target becomes immune to your scrying for 24 hours.
+    When you successfully invoke this bane, at the end of it's duration, you can make a Divination roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
+    You can attempt to scry the same target any number of times, but if your action roll fails, that target becomes immune to your scrying for 24 hours.
 - !
   name: Sickened
   tags:
