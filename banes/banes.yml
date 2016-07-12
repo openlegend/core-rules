@@ -598,9 +598,9 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Entropic energy overcomes the target, bombarding their system and inducing nausea which makes any kind of action difficult
+    Entropic energy overcomes the target, bombarding their system and inducing nausea which makes any kind of action difficult.
   effect: |
-    The target suffers disadvantage 2 to all action rolls
+    The target suffers disadvantage 2 to all action rolls.
 - !
   name: Silenced
   tags:
@@ -621,9 +621,9 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Silence overcomes the target (whether from magically warping sound around the target) or a physical effect like strangulation / suffocation.
+    Silence overcomes the target (whether from magically warping sound around the target) or from a physical effect like strangulation or suffocation.
   effect: |
-    If AGILITY or ENTROPY was used in the attack, then the character is suffering strangulation and unable to speak.  In addition to that, if ALTERATION was used in the attack, all sound within 5’ of the target is magically suppressed, making their footsteps and the usual “clank” of belongings they are carrying inaudible.
+    If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak.  If the bane is inflicted using Alteration, then all sound within 5’ of the target is magically suppressed, making their footsteps and the usual clank of belongings they are carrying inaudible.
 - !
   name: Slowed
   tags:
@@ -646,7 +646,7 @@
   description: |
     Slowing an enemy is usually caused by either extreme cold, prolonged heat, poison, or injury to one or both legs.
   effect: |
-    The afflicted character’s movement is reduced to 2 squares. This applies to all movement that is physical (flight, walking, climbing, etc.). If under a magical effect that increases speed, the two are canceled for the duration that both effect the target.
+    The afflicted target’s movement is reduced to 10 feet. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
 - !
   name: Stunned
   tags:
@@ -669,7 +669,7 @@
   description: |
     Stunning an enemy can be anything from the pommel of a dagger to the back of the head, to a kick in the groin, to a deafening thunderclap that disorients the target.
   effect: |
-    The target grants TACTICAL ADVANTAGE until the effect ends (enemies gain advantage 1 on their attacks if they do not already have tactical advantage). The afflicted enemy can take only a single action (either move, or normal, or minor) and cannot concentrate to sustain existing boon or bane effects.
+    Attacks against the target gain advantage 1, the target can take only a single action (either move, or normal, or minor), and it cannot concentrate to sustain existing boon or bane effects.
 - !
   name: Stupefied
   tags:
