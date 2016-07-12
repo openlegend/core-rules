@@ -683,11 +683,11 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    The stupefied bane has examples in many stories and legends: a vampire’s eyes are rumored to bring a stupor upon their foes, the call of a siren, or the inherent beauty of nymph’s and other woodland creatures. Being stupefied causes the character to be lulled into a sense sense of false security, tranquility, and pacifism.
+    The stupefied bane has examples in many stories and legends: a vampire’s eyes, a siren's song, and a nymph's beauty are all known to cast a stupor upon weak-willed mortals. Being stupefied causes the character to be lulled into a false sense of security, tranquility, and pacifism.
   effect: |
-    The character is in a state of mental fog, lowering their mental defenses. While stupefied, the character’s resolve defense is reduced to 10. In addition, the character has the approximate intelligence of an animal or small child.  If attacked, it will defend itself until the attack ceases, using it’s natural weapons (hands, claws, bite, or in the case of a dragon, breath attack), but the target will never employ any kind of complex tactic or ability. If the target sees fire, it will run away, if it feels pain, it will flee.
+    The target is in a state of mental fog, lowering their mental defenses. While stupefied, the character’s Resolve defense is reduced to 10. In addition, the character has the approximate intelligence of a child. If attacked, it will defend itself until the attack ceases using its natural weapons, but the target will never employ any kind of complex tactic or ability, such as spellcasting. If the target sees fire, it will run away. If it feels pain, it will flee.
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively planning to break free. However, the targets true mind is magically suppressed but fights to regain control.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect.  Any attack that causes the target mental or physical pain gives the target an additional Resist roll to break free from the bane.  Also any action that would startle a wild animal (hit with a rock, slap on the face, etc.) will also trigger a free Resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target’s typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively planning to break free. However, the target's true mind is magically suppressed but fights to regain control.  As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect.  Any attack that causes the target mental or physical pain gives the target an additional Resist roll to break free from the bane.  Also any action that would startle a wild animal (hit with a rock, slap on the face, etc.) will also trigger a free Resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target’s typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Surprised
   tags:
@@ -701,10 +701,11 @@
   invocationTime: 1 Normal Action
   duration: 1 Round
   description: |
-    Being surprised is being caught flat-footed and scrambling to react to an enemy that the character was either unaware of, or did not realize was an enemy.
+    Being surprised is being caught flat-footed and scrambling to react to an enemy that the character was either unaware of or did not realize was an enemy.
   effect: |
-    All attackers gain ADVANTAGE 1 against surprised characters. Surprised characters cannot take any actions that are INTERRUPT actions
+    All attackers gain advantage 1 against surprised characters. Surprised characters cannot take any actions that are interrupt actions.
   special: |
+    Unlike other banes, surprised cannot by inflicted directly with an action roll. Instead, it is determined by situations resulting from the story, such as a party being ambused by a band of thieves hiding in the brush.
     Under certain conditions a character may be surprised against <strong>only one opponent</strong>. The most common example being an opponent that is disguised, hiding, invisible, or for some other reason <em>not perceived as a threat</em>.
 - !
   name: Truthfulness
@@ -719,9 +720,9 @@
   invocationTime: 10 Minutes
   duration: 10 minutes (Special)
   description: |
-    With supernatural control of the mind, you compel the target to honesty, causing them to be unable to speak falsely
+    With supernatural control of the mind, you compel the target to honesty, rendering them unable to speak falsely.
   effect: |
     The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Enchantment roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.
   special: |
-    When you successfully invoke this bane, at the end of it's duration, you can make a normal attack roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
+    When you successfully invoke this bane, at the end of its duration, you can make another Enchantment roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
     When a target resists the bane, you cannot target them with this bane again for 24 hours.
