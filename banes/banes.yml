@@ -705,7 +705,7 @@
   effect: |
     All attackers gain advantage 1 against surprised characters. Surprised characters cannot take any actions that are interrupt actions.
   special: |
-    Unlike other banes, surprised cannot by inflicted directly with an action roll. Instead, it is determined by situations resulting from the story, such as a party being ambused by a band of thieves hiding in the brush.
+    Unlike other banes, surprised cannot by inflicted directly with an action roll. Instead, it is determined by situations resulting from the story, such as a party being ambushed by a band of thieves hiding in the brush.
     Under certain conditions a character may be surprised against <strong>only one opponent</strong>. The most common example being an opponent that is disguised, hiding, invisible, or for some other reason <em>not perceived as a threat</em>.
 - !
   name: Truthfulness
