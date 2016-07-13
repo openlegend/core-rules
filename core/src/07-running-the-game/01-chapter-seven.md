@@ -434,9 +434,6 @@ When designing a combat encounter, decide if you want it to be easy, moderate, o
 
 Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
 
-| Party Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
-| - | - | - | - | - | - |
-
 
 <div class="table-no-body"></div>
 | ENCOUNTER DIFFICULTY |
@@ -444,7 +441,7 @@ Use the Encounter Difficulty Table to determine how many total monster levels yo
 | |
 
 | Encounter Difficulty | Total Monster Level |
-| - | - |
+| :-: | :-: |
 | Easy  | Total Party Level x .5 |
 | Moderate | Total Party Level x 1 |
 | Hard | Total Party Level x 2 |
