@@ -342,7 +342,7 @@
     <li>Illusion 9 - 40' x 40' x 40'</li>
     </ul>
   special: |
-    When you invoke the phantasm bane, your Illusion action roll determines who is convinced by the illusion. Any creatures with a Resolve defense score less than or equal to your roll will believe the phantasm to be real and will react accordingly. Those with a higher Resolve score will notice that their senses are being deceived somehow. Creatures who are convinced by the phantasm can use the resist action as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the illusion.Whenever a character interacts with your phantasm, they can make a Perception roll to recognize the illusion.
+    When you invoke the phantasm bane, your Illusion action roll determines who is convinced by the illusion. Any creatures with a Resolve defense score less than or equal to your roll will believe the phantasm to be real and will react accordingly. Those with a higher Resolve score will notice that their senses are being deceived somehow. Creatures who are convinced by the phantasm can use the resist action as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the illusion.
     When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
   name: Incapacitated
@@ -524,7 +524,8 @@
     At the beginning of the target's turn, before they take any actions, the target suffers damage determined by the power level of the bane. This damage automatically bypasses the afflicted character’s defenses but it can be reduced by any resistance to damage of a certain type (see the resistance boon).
     <ul>
       <li><strong>Power Level 2</strong> - 1d4 damage per round.</li>
-      <li><strong>Power Level 4</strong> - 1d8 damage per round</li><li><strong>Power Level 6</strong> - 2d6 damage per round</li>
+      <li><strong>Power Level 4</strong> - 1d8 damage per round</li>
+      <li><strong>Power Level 6</strong> - 2d6 damage per round</li>
     </ul>
     special: |
     Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy).  Each variation has a its own cure. When that cure is applied with a normal action (either by the afflicted character or another), the target receives a resist roll with advantage 1 (as a free action) to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the following examples can help with arbitration: 
@@ -546,15 +547,17 @@
   attribute:
   - Alteration
   invocationTime: 1 Minute
-  duration: Sustain Persists
+  duration: Special
   description: |
-    You are able to change size, shape, and composition of another creature that you touch. Make an enemy larger or smaller, turn them into a sheep, etc.
+    You alter the size, shape, and composition of another creature. Make an enemy larger or smaller. Turn them into a sheep, newt, or whatever your imagination desires.
   effect: |
+    Your Power Level determines the extent to which you can transform your target. If the target is transformed into a different creature, it uses the Might, Agility, Fortitude, and Perception attribute scores of the new creature.
     <ul>
-    <li><strong>Power Level 5</strong> - Polymorph a target creature into another creature of the same size and 50% greater OR lesser weight. The duration is 1 hour per (Su) Alteration attribute point. </li>
-    <li><strong>Power Level 6</strong> - Polymorph a target creature into another creature double or half the size. The duration is 1 hour per (Su) Alteration attribute point. </li>
-    <li><strong>Power Level 8</strong> - Polymorph a creature into another creature up to quadruple it's original size, or an object of the same size. The duration is 1 hour per (Su) Alteration attribute point.</li>
-    <li><strong>Power Level 9</strong> - Polymorph a living creature into into another creature of any size or an object the same size. The duration is permanent.</li></ul>
+    <li><strong>Power Level 5</strong> - Polymorph a creature into another creature of the same size and 50% greater OR lesser weight. The duration is 1 hour per Alteration attribute point. </li>
+    <li><strong>Power Level 6</strong> - Polymorph a creature into another creature double or half the size. The duration is 1 hour per Alteration attribute point. </li>
+    <li><strong>Power Level 8</strong> - Polymorph a creature into another creature to quadruple or one-quarter its original size. Alternatively, transform the target into an object of its original size. The duration is 1 hour per Alteration attribute point.</li>
+    <li><strong>Power Level 9</strong> - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The duration is permanent.</li></ul>
+    
 - !
   name: Scrying
   tags:
@@ -568,10 +571,10 @@
   invocationTime: 10 Minutes
   duration: 10 minutes (Special)
   description: |
-    Peering into a supernatural conduit sucy as a hearth, a bubbling cauldron, or a crystal ball, you see can view the target if they are on the same plane
+    Peering into a supernatural conduit such as a hearth, a bubbling cauldron, or a crystal ball, you see can view the target from a distance.
   effect: |
     If your roll is successful, you can view a sentient target that you are familiar with from any distance, provided they are in the same dimension or plane of reality.
-    You may also scry on places that you are familiar with. If a non-ally with a higher Resolve defense is present in that place, then that individual's Resolve defense is used instead. Otherwise, the place being targeted gains a defense score as follows:
+    You may also scry on places that you are familiar with. If a non-ally with a higher Resolve defense is present in that place, then that individual's Resolve defense is used instead. Otherwise, the place being targeted gains a defense score determined by your distance from it, as follows:
     <ul>
     <li><strong>20</strong> - 1 mile or less</li>
     <li><strong>22</strong> - 100 miles or less</li>
@@ -579,8 +582,8 @@
     <li><strong>28</strong> - Any dimension or plane of reality. Peering into certain dimensions may expose you to other dangers at the GM's discretion.</li>
     </ul>
   special: |
-    When you successfully invoke this bane, at the end of it's duration, you can make a normal attack roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
-    You can attempt to scry the same target any number of times, but if your attack roll to target them fails, that target becomes immune to your scrying for 24 hours.
+    When you successfully invoke this bane, at the end of it's duration, you can make a Divination roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
+    You can attempt to scry the same target any number of times, but if your action roll fails, that target becomes immune to your scrying for 24 hours.
 - !
   name: Sickened
   tags:
@@ -595,9 +598,9 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Entropic energy overcomes the target, bombarding their system and inducing nausea which makes any kind of action difficult
+    Entropic energy overcomes the target, bombarding their system and inducing nausea which makes any kind of action difficult.
   effect: |
-    The target suffers disadvantage 2 to all action rolls
+    The target suffers disadvantage 2 to all action rolls.
 - !
   name: Silenced
   tags:
@@ -618,9 +621,9 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Silence overcomes the target (whether from magically warping sound around the target) or a physical effect like strangulation / suffocation.
+    Silence overcomes the target (whether from magically warping sound around the target) or from a physical effect like strangulation or suffocation.
   effect: |
-    If AGILITY or ENTROPY was used in the attack, then the character is suffering strangulation and unable to speak.  In addition to that, if ALTERATION was used in the attack, all sound within 5’ of the target is magically suppressed, making their footsteps and the usual “clank” of belongings they are carrying inaudible.
+    If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak.  If the bane is inflicted using Alteration, then all sound within 5’ of the target is magically suppressed, making their footsteps and the usual clank of belongings they are carrying inaudible.
 - !
   name: Slowed
   tags:
@@ -643,7 +646,7 @@
   description: |
     Slowing an enemy is usually caused by either extreme cold, prolonged heat, poison, or injury to one or both legs.
   effect: |
-    The afflicted character’s movement is reduced to 2 squares. This applies to all movement that is physical (flight, walking, climbing, etc.). If under a magical effect that increases speed, the two are canceled for the duration that both effect the target.
+    The afflicted target’s movement is reduced to 10 feet. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
 - !
   name: Stunned
   tags:
@@ -666,7 +669,7 @@
   description: |
     Stunning an enemy can be anything from the pommel of a dagger to the back of the head, to a kick in the groin, to a deafening thunderclap that disorients the target.
   effect: |
-    The target grants TACTICAL ADVANTAGE until the effect ends (enemies gain advantage 1 on their attacks if they do not already have tactical advantage). The afflicted enemy can take only a single action (either move, or normal, or minor) and cannot concentrate to sustain existing boon or bane effects.
+    Attacks against the target gain advantage 1, the target can take only a single action (either move, or normal, or minor), and it cannot concentrate to sustain existing boon or bane effects.
 - !
   name: Stupefied
   tags:
@@ -680,11 +683,11 @@
   invocationTime: 1 Normal Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    The stupefied bane has examples in many stories and legends: a vampire’s eyes are rumored to bring a stupor upon their foes, the call of a siren, or the inherent beauty of nymph’s and other woodland creatures. Being stupefied causes the character to be lulled into a sense sense of false security, tranquility, and pacifism.
+    The stupefied bane has examples in many stories and legends: a vampire’s eyes, a siren's song, and a nymph's beauty are all known to cast a stupor upon weak-willed mortals. Being stupefied causes the character to be lulled into a false sense of security, tranquility, and pacifism.
   effect: |
-    The character is in a state of mental fog, lowering their mental defenses. While stupefied, the character’s resolve defense is reduced to 10. In addition, the character has the approximate intelligence of an animal or small child.  If attacked, it will defend itself until the attack ceases, using it’s natural weapons (hands, claws, bite, or in the case of a dragon, breath attack), but the target will never employ any kind of complex tactic or ability. If the target sees fire, it will run away, if it feels pain, it will flee.
+    The target is in a state of mental fog, lowering their mental defenses. While stupefied, the character’s Resolve defense is reduced to 10. In addition, the character has the approximate intelligence of a child. If attacked, it will defend itself until the attack ceases using its natural weapons, but the target will never employ any kind of complex tactic or ability, such as spellcasting. If the target sees fire, it will run away. If it feels pain, it will flee.
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively planning to break free. However, the targets true mind is magically suppressed but fights to regain control.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect.  Any attack that causes the target mental or physical pain gives the target an additional Resist roll to break free from the bane.  Also any action that would startle a wild animal (hit with a rock, slap on the face, etc.) will also trigger a free Resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target’s typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively planning to break free. However, the target's true mind is magically suppressed but fights to regain control.  As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect.  Any attack that causes the target mental or physical pain gives the target an additional Resist roll to break free from the bane.  Also any action that would startle a wild animal (hit with a rock, slap on the face, etc.) will also trigger a free Resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target’s typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Surprised
   tags:
@@ -698,10 +701,11 @@
   invocationTime: 1 Normal Action
   duration: 1 Round
   description: |
-    Being surprised is being caught flat-footed and scrambling to react to an enemy that the character was either unaware of, or did not realize was an enemy.
+    Being surprised is being caught flat-footed and scrambling to react to an enemy that the character was either unaware of or did not realize was an enemy.
   effect: |
-    All attackers gain ADVANTAGE 1 against surprised characters. Surprised characters cannot take any actions that are INTERRUPT actions
+    All attackers gain advantage 1 against surprised characters. Surprised characters cannot take any actions that are interrupt actions.
   special: |
+    Unlike other banes, surprised cannot by inflicted directly with an action roll. Instead, it is determined by situations resulting from the story, such as a party being ambused by a band of thieves hiding in the brush.
     Under certain conditions a character may be surprised against <strong>only one opponent</strong>. The most common example being an opponent that is disguised, hiding, invisible, or for some other reason <em>not perceived as a threat</em>.
 - !
   name: Truthfulness
@@ -716,9 +720,9 @@
   invocationTime: 10 Minutes
   duration: 10 minutes (Special)
   description: |
-    With supernatural control of the mind, you compel the target to honesty, causing them to be unable to speak falsely
+    With supernatural control of the mind, you compel the target to honesty, rendering them unable to speak falsely.
   effect: |
     The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Enchantment roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.
   special: |
-    When you successfully invoke this bane, at the end of it's duration, you can make a normal attack roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
+    When you successfully invoke this bane, at the end of its duration, you can make another Enchantment roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
     When a target resists the bane, you cannot target them with this bane again for 24 hours.
