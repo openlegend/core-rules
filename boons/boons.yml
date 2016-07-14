@@ -71,7 +71,7 @@
   invocationTime: 1 Normal Action
   duration: Instantaneous
   description: |
-    Your aid an ally via either inspiration, augmentation, divine blessing, or supernatural insight, depending on the attribute you use to invoke the boon. Either way, you increase their chance of success.
+    Your bolster an ally's chances of succes via inspiration, augmentation, divine blessing, or supernatural insight.
   effect: |
     Choose a physical, social, or mental attribute. The target gains advantage on their next action roll according to the Power Level of the boon. If the target does not make the roll before your next turn, the bonus is lost.
     <ul>
@@ -95,9 +95,9 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    Even in the absence of light you are able to distinguish your surroundings, some examples include tremorsense, echolocation, ability to sense heat, a divine intuition, or psychically heightened senses.
+    Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine intuition, or psychically heightened senses.
   effect: |
-    The Blinded bane does not adversely affect you and you are able to see normally even in conditions of little light and no light.  Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
+    The Blinded bane does not adversely affect you and you are able to see normally even in conditions of little or no light.  Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
 - !
   name: Darkness
   tags:
@@ -118,9 +118,9 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    Illusory darkness or entropic energy, snuffs out all light.
+    You create an area of illusory darkness or entropic energy that snuffs out all light.
   effect: |
-    Choose a square or object within attribute range. Darkness emanates from the target to a radius equal to the power level of the boon. The effect cancels the effect of all natural light within it’s radius of effect and creatures that depend on light for vision are BLINDED while in the area of effect. Creatures  that do not depend on light for their vision (if they have tremorsense, blindsight, etc) are unaffected. If the darkness area overlaps an area affected by the Light boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+    Choose a space or object within range. Darkness emanates from the target to a radius equal five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc) are unaffected. If the darkness area overlaps an area affected by the Light boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
 - !
   name: Detection
   tags:
@@ -139,9 +139,10 @@
     <li><strong>Holy</strong> - Holy energy surrounds extraplanar beings from the heavens or similar good-aligned dimensions where pure goodness is embodied. </li>
     <li><strong>Unholy</strong> - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.</li>
     <li><strong>Life</strong> - Beings from heavenly dimensions, clerics wielding the power of healing, resurrection, or protection radiate an aura of life for a time after wielding such powers.</li>
-    <li><strong></strong> - Necromancers, undead, and murderers all radiate an aura of death.  For undead, the aura is constant, since the power of death and magic is what animates them.</li>
+    <li><strong>Death</strong> - Necromancers, undead, and murderers all radiate an aura of death.  For undead, the aura is constant, since the power of death and magic is what animates them.</li>
+    <li><strong>Magic</strong> - Magical auras surround objects or places imbued with magical effects. Supernatural creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.</li>
     </ul>
-    <strong>Special</strong>: Unlike other boons, this boon can not target another character, only the character invoking the boon can see the auras.
+    <strong>Special</strong>: Unlike other boons, this boon can not target another character. Only the character invoking the boon can see the auras.
 - !
   name: Flight
   tags:
@@ -156,7 +157,7 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    The target is propelled by magical force and moves at incredible speed and with perfect agility.
+    The target is propelled by magical force through the air, moving at incredible speed and with perfect agility.
   effect: |
     <ul>
     <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly manueverable.</li>
@@ -172,15 +173,15 @@
   - 9
   attribute:
   - Creation
-  invocationTime: 1 Hour
+  invocationTime: Special
   duration: Instantaneous
   description: |
-    You create something from nothing with your ability to create inanimate matter of increasing complexity
+    You create something from nothing.
   effect: |
     <ul>
-    <li><strong>Power Level 3</strong> - You can create simple nonliving matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point in the invoking attribute.</li>
-    <li><strong>Power Level 7</strong> - You can create organically complex or dense nonliving matter including precious gems, metals, etc. The invocation time for this application is 8 hours and the resulting object's value can't be greater than a Wealth Level 2 item.</li>
-    <li><strong>Power Level 9</strong> - You can create not just raw materials, but crafted items, though a craftsman is still required to work anything into an exceptional quality. The invocation time is 1 hour per cubic foot of the finished item.</li>
+    <li><strong>Power Level 3</strong> - You can create simple non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.</li>
+    <li><strong>Power Level 7</strong> - You can create organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. The invocation time fo this application is 8 hours.</li>
+    <li><strong>Power Level 9</strong> - You can create not just raw materials, but crafted items - though a craftsman is still required to work anything into an exceptional quality. The invocation time for this application is 1 hour per cubic foot of the finished item.</li>
     </ul>
 - !
   name: Haste
