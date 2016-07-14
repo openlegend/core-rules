@@ -10,9 +10,9 @@
   invocationTime: 1 Normal Action
   duration: Instantaneous
   description: |
-    You are able to supernaturally absorb an object into your body through either the mutation or alteration of your body, moving muscles and ligaments aside to make room for it, or by creating an extradimensional space to hide it
+    You are able to supernaturally absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space to hide it.
   effect: |
-    The object remains in place until you summon or recall it (automatically) as a minor action. If an enemy targets you with a Dispel bane capable of canceling permanent effects, the object is immediately shunted out.
+    The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your body as if you had withdrawn it to your hand.
 - !
   name: Animation
   tags:
@@ -27,10 +27,10 @@
   description: |
     You create life or unlife of subhuman intelligence that persists indefinitely and autonomously.
   effect: |
-    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, etc. (the materials used are subject to GM discretion).  You perform a ritual that last 8 hrs, at the end of the ritual you make your action roll, if successful, the inanimate form is imbued with sentience. If you used (Su) Creation to create it, then it is a normal living creature.  If you used (Su) Entropy to create it, then it the creature is undead, and held together by the forces of entropy and necromancy.  You can animate an existing type of natural creature or undead, however your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating. You cannot use this boon to animate supernatural creatures.  Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack it’s creator.
+    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion).  You perform a ritual that last 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature.  If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks.  Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
     <ul>
     <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating.</li>
-    <li><strong>Power Level 8</strong> - You can animate a group of creatures of lower challenge rating.  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5.</li>
+    <li><strong>Power Level 8</strong> - You can animate a group of creatures:  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5.</li>
     </ul>
 - !
   name: Augury
@@ -46,9 +46,14 @@
   invocationTime: 1 Minute
   duration: 1 round
   description: |
-    You peer into the future and gather information dependent on the potency of your Divination power
+    You peer into the future to gain insight into a course of action, an event, a person, or a place.
   effect: |
-    <ul><li><strong>Power Level 1</strong> - You ask a question about a course of action you plan to take within the next 5 minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li><li><strong>Power Level 3</strong> - You gain insight into an event that will happen within the next hour. You ask a question about a course of action you plan to take within the next hour and the GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li><li><strong>Power Level 5</strong> - You can ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek.  You can only ask one question about a given target per week.</li><li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters at the GM’s discretion (visions, trances, dreams, out-of-body experiences, etc.). You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li></ul>
+    <ul>
+    <li><strong>Power Level 1</strong> - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
+    <li><strong>Power Level 3</strong> - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
+    <li><strong>Power Level 5</strong> - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek.  You can only ask one question about a given target per week.</li>
+    <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your divination. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
+    </ul>
 - !
   name: Aid
   tags:
