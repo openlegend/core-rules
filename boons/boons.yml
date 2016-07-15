@@ -353,9 +353,9 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    The target gains a supernatural ability to regenerate healing at a supernatural rate. Examples of this include the supernatural regeneration of a troll, psychic self-mending, or a divine blessing. Regardless of the source, wounds close before the very eyes of an onlooker,
+    The target gains a supernatural ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, psychic self-mending, or a divine blessing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
-    At the beginning of each round this ability is sustained, the target heals according to the power level of the boon when invoked:
+    While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon, and the dice rolled for healing explode as usual.
     <ul>
     <li><strong>Power Level 1</strong> - 1d4 </li>
     <li><strong>Power Level 3</strong> - 1d6 </li>
@@ -377,9 +377,9 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    The target becomes resistant to the effects of damage from a certain type of attack, thanks to protective supernatural energy that counters it.
+    Whether through a magical force field, an elemental wall, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack.
   effect: |
-    When the boon is invoked, the character granting the protection chooses one type of attack and the target gains resistance to that type. The types are finesse, forceful, fire, cold, lightning, acid, evil, good, enchantment, entropy, and psychic. The resistance depends on the power level of the boon when it is bestowed (the following are not cumulative):
+    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include finesse, forceful, fire, cold, lightning, acid, evil, good, enchantment, entropy, and psychic. The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
     <ul>
     <li><strong>Power Level 3</strong> - Your defense scores are increased by 5 against the chosen attack type. </li>
     <li><strong>Power Level 5</strong> - All damage you would suffer from the chosen type is halved.</li>
@@ -396,9 +396,9 @@
   invocationTime: 1 Normal Action
   duration: Instantaneous
   description: |
-    Your protective magic cancels all harmful afflictions that are effecting an ally
+    Your protective magic cancels all harmful afflictions that are effecting an ally.
   effect: |
-    You roll an Abjuration check as a challenge roll cancelling all banes of Power Level equal to the Difficulty Level of your result or lower (see the Action Roll Difficulty Level Table).  If your roll is sufficient, you can dispel banes of a power level higher than your Abjuration score.
+    Make an Abjuration roll. You can dispel all banes affecting the target of a maximum Power Level equal to (Abjuration roll - 10) ÷ 2.
 - !
   name: Retributive Barrier
   tags:
@@ -412,9 +412,9 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    You summon a warding barrier that damages enemies that come too close to you
+    You summon a warding barrier of flames, blades, thorns, or similar material to damage enemies that dare to approach.
   effect: |
-    While this boon is active, any enemy that passes within 5' of you takes damage according to the boon's Power Level. Each time this boon deals damage, roll a d20. On a 10 or better, the boon persists, on a lower roll the power of the boon is expended by the retributive attack.
+    Designate a willing target or a 5' square that is not occupied by an enemy. While this boon is active, any enemy that passes within 5' of the target takes damage according to the boon's Power Level. Each time this boon deals damage, roll a d20. On a 10 or better, the boon persists, on a lower roll the power of the boon is expended by the retributive attack.
     <ul>
     <li><strong>Power Level 4</strong> - d4 damage </li>
     <li><strong>Power Level 5</strong> - d6 damage </li>
@@ -429,20 +429,21 @@
   power:
   - 4
   - 5
+  - 6
   attribute:
   - Divination
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    You are able to see through the eyes of a willing ally
+    You are able to see through the eyes of a willing ally.
   effect: |
-    For as long as you concentrate, you can see through the eyes of the target, a willing ally. The distance of the connection depends on your attribute score. The target can be any friendly creature including animals, beasts, and humanoids.
+    For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on your Divination score.
     <ul>
-    <li><strong>Power Level 4</strong> - The ally must be within 100' </li>
-    <li><strong>Power Level 5</strong> - The ally must be within 1 mile </li>
-    <li><strong>Power Level 6</strong> - The ally must be anywhere on the same plane of existence </li>
+    <li><strong>Power Level 4</strong> - The ally must be within 100'. </li>
+    <li><strong>Power Level 5</strong> - The ally must be within 1 mile. </li>
+    <li><strong>Power Level 6</strong> - The ally must be anywhere on the same plane of existence. </li>
     </ul>
-    <strong>Special</strong>: You can attempt to scry the same target any number of times, but if your action roll establish the connection fails, that ally cannot be targeted for 1 hour.
+    <strong>Special</strong>: If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.
 - !
   name: Shapeshift
   tags:
