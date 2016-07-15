@@ -163,6 +163,7 @@
     <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly manueverable.</li>
     <li><strong>Power Level 6</strong> - The granted flight speed increases to 60'.</li>
     </ul>
+    If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
 - !
   name: Genesis
   tags:
@@ -199,13 +200,13 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    The target moves with supernatural speed and is able to do many actions in the same time they would normally do only a few.
+    The target moves with supernatural speed, dodging attacks more deftly and accomplishing accomplishing actions at an uncanny rate.
   effect: |
     <ul>
-    <li><strong>Power Level 2</strong> - Your speed is increased by 1 square </li>
-    <li><strong>Power Level 4</strong> - Your speed is increased by 2 squares. Attacks against the target’s Evasion defense have disadvantage 1. </li>
-    <li><strong>Power Level 6</strong> - The target gains an extra normal action per round. This extra action can also be used for an attack (superseding the normal one attack per turn limitation). Attacks against that target’s Evasion defense have disadvantage 2. Your speed is increased by 3 squares. </li>
-    <li><strong>Power Level 8</strong> - Attacks against that target’s Evasion defense have disadvantage 3. Your speed is increased by 5 squares.</li>
+    <li><strong>Power Level 2</strong> - The target's speed is increased by 5'. </li>
+    <li><strong>Power Level 4</strong> - The target's speed is increased by 10'. Attacks against the target’s Evasion defense suffer disadvantage 1. </li>
+    <li><strong>Power Level 6</strong> - The target's speed is increased by 15'. Attacks against the target's Evasion defense suffer disadvantage 2. The target gains an extra normal action every round.</li>
+    <li><strong>Power Level 8</strong> - The target's speed is increased by 25'. Attacks against the target's Evasion defense suffer disadvantage 3. The target gains an extra normal action every round.</li>
     </ul>
 - !
   name: Heal
@@ -229,7 +230,7 @@
   description: |
     Healing is magical energy overflowing from a creative life force which heals wounds and mends broken bones.
   effect: |
-    Roll dice according to the boon power level below. The target is healed that many hit points.
+    Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <strong>Special:</strong> This boon does not heal lethal damage.
     <ul>
     <li><strong>Power Level 1</strong> - Heal 1d4 </li>
@@ -254,9 +255,9 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    Some common examples of insubstantial creatures are ghosts, creatures that phase, move through physical barriers by passing into alternate dimensions, etc.
+    When a creature becomes insubstantial, it is no longer bound by physical barriers. Ghosts, wizards assuming gaseous form, and creatures who blink between dimensions are all exemplars of the insubstantial boon.
   effect: |
-    The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (6 squares for most characters). If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically Astral or Ethereal plane).
+    The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (30' for most characters). If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
 - !
   name: Invisible
   tags:
@@ -270,11 +271,11 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    You vanish from the visible spectrum, either through magical control of light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of your starting plane and other planes of existence.
+    You vanish from the visible spectrum, either through magical control of light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
   effect: |
     <ul>
     <li><strong>Power Level 6</strong> - Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, while area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.</li>
-    <li><strong>Power Level 8</strong> - Same as above, except there is no longer minor light refraction / distortion around the target, making them fully invisible.  As such, the target’s bonus to avoid detection is advantage 5 while moving and advantage 7 while standing still. Attacks against the target have a 75% chance of missing.</li>
+    <li><strong>Power Level 8</strong> - Same as above, except there is no longer minor distortion around the target, making them fully invisible.  As such, the target’s bonus to avoid detection is advantage 5 while moving and advantage 7 while standing still. Attacks against the target have a 75% chance of missing.</li>
     </ul>
 - !
   name: Levitation
@@ -288,9 +289,9 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    The target gains the ability to fly at a very slow speed, hovering in air via magical power.
+    The target gains the ability to fly at a very slow speed.
   effect: |
-    The target gains a flight speed of 10, maintaining the ability to fly for as long as concentration is maintained.  If concentration is broken at any point, the target plummets immediately.  Given that one round is 6 seconds, and the distance fallen in 6 seconds is extremely far, it is exceedingly rare for the target to have an opportunity to act before impact. On impact, the target takes 1d10 damage per 10 feet fallen.  This can be averted via the protective casting feat.
+    The target gains a flight speed of 10', maintaining the ability to fly for as long as the boon persists.  If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
 - !
   name: Light
   tags:
@@ -309,7 +310,7 @@
   description: |
     You light up an area with magical light from a point of your choice
   effect: |
-    Choose a square or object within attribute range. Light emanates from the target to a radius equal to the power level of the boon (maximum of 5). If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+    Choose a square or object within attribute range. Light emanates from the target to a radius equal to five feet per the power level of the boon (maximum of 5). If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
 - !
   name: Reading
   tags:
@@ -325,15 +326,15 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    You reach out and supernaturally connect with a given inanimate object, zone, place, or similar, gaining the ability to read residual information from it.
+    You reach out and supernaturally connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
   effect: |
-    When you successfully invoke this boon, you gain information from a target (which can be an inanimate object, zone, place, or similar) as follows:
+    When you successfully invoke this boon, you gain information from an object or place within range as follows:
     <ul>
-    <li><strong>Power Level 5</strong> - You can read vague ideas and impressions from the target which took place near the object in the past hour.</li>
-    <li><strong>Power Level 6</strong> - You can see a vivid vision, similar to a supenatural recording, of what took place near the object in the last hour.</li>
-    <li><strong>Power Level 7</strong> - You can ascertain the most recent owner of the object. This knowledge grants enough information for you to use the Scrying bane to magically locate or view the owner.</li>
+    <li><strong>Power Level 5</strong> - You can read vague ideas and impressions to learn what took place near the target within the past hour.</li>
+    <li><strong>Power Level 6</strong> - You can see a vivid vision, similar to a supenatural recording, of what took place near the target within the last hour.</li>
+    <li><strong>Power Level 7</strong> - You can ascertain the most recent owner of the object or the people who have most recently been in the place. This knowledge grants enough information for you to use the Scrying bane to magically locate or view those identified.</li>
     <li><strong>Power Level 8</strong> - Choose one: You see a vision of the most recent significant event that took place in close proximity to the target - OR - you ask whether or not a specific event </li>
-    <li><strong>Power Level 9</strong> - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revelaed. At the GM's discretion, concealed or particularly distant memories should require a much longer time.</li>
+    <li><strong>Power Level 9</strong> - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revelaed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.</li>
     </ul>
 - !
   name: Regeneration
