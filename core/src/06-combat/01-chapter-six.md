@@ -238,7 +238,7 @@ detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes).
 
 To resolve a bane attack, follow these steps:
 
-##### 1. Determine Range and Target(s
+##### 1. Determine Range and Target(s)
 
 Bane attacks follow the same rules for determining range and number of targets as damaging attacks.
 
@@ -254,10 +254,6 @@ The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate whic
 
 You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon’s power level, as detailed in the
 [*boon descriptions*](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
-
-#### Assist an Ally
-
-You can assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally gets advantage 1 on that roll.
 
 ##### 1. Determine Range and Target(s)
 
@@ -290,6 +286,10 @@ The Challenge Rating for your action roll equals 10 + (2 x Power Level), as show
 ##### 3. Roll to Invoke
 
 Make an action roll using the appropriate attribute, as determined by the [*boon descriptions*](http://www.openlegendrpg.com/boons). If your total equals or exceeds the Challenge Rating, the targeted creatures gain the chosen boon.
+
+#### Assist an Ally
+
+You can assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally gets advantage 1 on that roll.
 
 #### Take an Extra Move Action
 
