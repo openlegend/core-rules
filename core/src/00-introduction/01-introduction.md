@@ -80,7 +80,7 @@ Add all of the dice together to find your total action roll. If your total is eq
 | Roll 1d20 + attribute dice (all dice explode) |
 
 | If the action roll... | then the result is... |
-| - | :--- |
+| :- | :-- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | the player succeeds with a twist. <br /> - OR - <br /> *the player fails but the story progresses*. (GM’s Choice) |
 

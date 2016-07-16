@@ -169,7 +169,7 @@
   description: |
     You cancel boons affecting an enemy.
   effect: |
-    Make an Abjuration roll. You can dispel boons affecting the target of a maximum Power Level equal to (Abjuration roll - 10) ÷ 2. The Power Level at which you invoke this bane determines the types of effects you can dispel, as follows: 
+    Make an Abjuration roll. You can dispel boons affecting the target of a maximum Power Level equal to (Abjuration roll - 10) ÷ 2. The Power Level at which you invoke this bane determines the types of effects you can dispel, as follows:
     <ul>
       <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked.  In addition, the target cannot invoke that boon again for 1 minute.</li>
       <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp).  Resisting this bane is a minor action for the target.</li>
@@ -528,7 +528,7 @@
       <li><strong>Power Level 6</strong> - 2d6 damage per round</li>
     </ul>
     special: |
-    Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy).  Each variation has a its own cure. When that cure is applied with a normal action (either by the afflicted character or another), the target receives a resist roll with advantage 1 (as a free action) to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the following examples can help with arbitration: 
+    Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy).  Each variation has a its own cure. When that cure is applied with a normal action (either by the afflicted character or another), the target receives a resist roll with advantage 1 (as a free action) to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the following examples can help with arbitration:
     <ul>
       <li>Bleeding damage is cured with a successful roll using Knowledge (Medical) or Creation.</li>
       <li>Lightning damage is cured by a discharge or grounding of the current.</li>
@@ -557,7 +557,7 @@
     <li><strong>Power Level 6</strong> - Polymorph a creature into another creature double or half the size. The duration is 1 hour per Alteration attribute point. </li>
     <li><strong>Power Level 8</strong> - Polymorph a creature into another creature to quadruple or one-quarter its original size. Alternatively, transform the target into an object of its original size. The duration is 1 hour per Alteration attribute point.</li>
     <li><strong>Power Level 9</strong> - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The duration is permanent.</li></ul>
-    
+
 - !
   name: Scrying
   tags:

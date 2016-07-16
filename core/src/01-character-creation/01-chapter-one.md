@@ -70,15 +70,14 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Abjuration** | Protect from damage, break enchantments, dispel magic, bind demons |
-| **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Enchantment** | Control the minds of others, dominate wills, speak telepathically, instill supernatural fear |
 | **Creation** | Channeling higher powers for healing, creation, resurrection, divine might, etc. |
-| **Illusion** | Create illusory figments, deceive the senses, cloak with invisibility |
-| **Divination** | See the future, detect magic, detect evil, scry, communicate with extraplanar entities |
-| **Movement** | Teleport, fly, hasten, slow |
+| **Divination** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
+| **Enchantment** | Control the minds of others, dominate wills, speak telepathically, instill supernatural fear |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
-| **Psychic** | Psychokinesis, telekinesis, mind over matter, extrasensory perception |
+| **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
+| **Illusion** | Create illusory figments, deceive the senses, cloak with invisibility |
+| **Movement** | Teleport, fly, hasten, slow |
 
 In *Open Legend*, you get to define your character’s strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
 
@@ -130,7 +129,7 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Might 5 | Perception 4 | Logic 1 |
 | Perception 3 | Will 3 | Perception 3 |
 | Will 3 | Enchantment 3 | Will 2 |
-| | | Psychic 4 |
+| | | Movement 4 |
 
 <br>
 

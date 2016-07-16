@@ -76,7 +76,7 @@ Some attributes can pretty much always be used to deal damage. These include Mig
 
 ### Sometimes
 
-A few attributes can be used for damaging attacks in special circumstances in which the story dictates that the damage arises from your skill in the attribute. These include Logic, Abjuration, Alteration, Enchantment, Illusion, and Psychic. Though the occasions to use these attributes for damage will be rare, as long as the story makes sense, combatants should be able to damage foes with them. Examples of situations in which these attributes might be used in an action roll for a damaging attack are provided below.
+A few attributes can be used for damaging attacks in special circumstances in which the story dictates that the damage arises from your skill in the attribute. These include Logic, Abjuration, Alteration, Enchantment, Illusion, and Movement. Though the occasions to use these attributes for damage will be rare, as long as the story makes sense, combatants should be able to damage foes with them. Examples of situations in which these attributes might be used in an action roll for a damaging attack are provided below.
 
 **Logic.** Springing a trap on your foes.
 
@@ -90,7 +90,7 @@ A few attributes can be used for damaging attacks in special circumstances in wh
 illusory effects could mimic damage until your enemy is aware of the
 trick.
 
-**Psychic.** Using telekinesis to hurl a boulder at a foe.
+**Movement.** Using telekinesis to hurl a boulder at a foe.
 
 ### Probably Never
 

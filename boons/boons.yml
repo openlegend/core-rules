@@ -91,11 +91,10 @@
   - Divination
   - Entropy
   - Perception
-  - Psychic
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine intuition, or psychically heightened senses.
+    Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or supernaturally heightened senses.
   effect: |
     The Blinded bane does not adversely affect you and you are able to see normally even in conditions of little or no light.  Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
 - !
@@ -153,7 +152,6 @@
   attribute:
   - Alteration
   - Movement
-  - Psychic
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
@@ -195,7 +193,6 @@
   - 8
   attribute:
   - Movement
-  - Psychic
   - Alteration
   invocationTime: 1 Normal Action
   duration: Sustain Persists
@@ -251,7 +248,7 @@
   - 7
   attribute:
   - Alteration
-  - Psychic
+  - Entropy
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
@@ -264,18 +261,15 @@
   - Supernatural
   power:
   - 6
-  - 8
   attribute:
   - Illusion
-  - Psychic
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
     You vanish from the visible spectrum, either through magical control of light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
   effect: |
     <ul>
-    <li><strong>Power Level 6</strong> - Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, while area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.</li>
-    <li><strong>Power Level 8</strong> - Same as above, except there is no longer minor distortion around the target, making them fully invisible.  As such, the target’s bonus to avoid detection is advantage 5 while moving and advantage 7 while standing still. Attacks against the target have a 75% chance of missing.</li>
+    <li><strong>Power Level 6</strong> - Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.</li>
     </ul>
 - !
   name: Levitation
@@ -285,7 +279,6 @@
   - 5
   attribute:
   - Movement
-  - Psychic
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
@@ -349,11 +342,10 @@
   attribute:
   - Alteration
   - Creation
-  - Psychic
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    The target gains a supernatural ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, psychic self-mending, or a divine blessing. Regardless of the source, wounds close before the very eyes of an onlooker.
+    The target gains a supernatural ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
     While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon, and the dice rolled for healing explode as usual.
     <ul>
@@ -379,7 +371,7 @@
   description: |
     Whether through a magical force field, an elemental wall, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack.
   effect: |
-    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include finesse, forceful, fire, cold, lightning, acid, evil, good, enchantment, entropy, and psychic. The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
+    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include finesse, forceful, fire, cold, lightning, acid, evil, good, enchantment, entropy. The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
     <ul>
     <li><strong>Power Level 3</strong> - Your defense scores are increased by 5 against the chosen attack type. </li>
     <li><strong>Power Level 5</strong> - All damage you would suffer from the chosen type is halved.</li>
@@ -530,7 +522,6 @@
   - 9
   attribute:
   - Movement
-  - Psychic
   invocationTime: 1 Move Action
   duration: Instantaneous
   description: |
