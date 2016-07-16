@@ -358,9 +358,10 @@ Using a focus action involves spending all of your energy and attention on one t
 
 In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your normal action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
-**Defend.** You may use a defend action after an enemy has rolled a successful attack against yourself or an ally in order to attempt to shield your ally from harm. (Abjuration, Agility, and Might are all
-typical examples). If your attribute roll is higher than your ally’s defense score, your ally may use your roll in place of his defense score. (**Note:** Characters wielding a shield gain advantage on defend
-actions when appropriate).
+**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Abjuration, Agility, and Might are all
+typical examples of attributes used to defend).
+
+If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. (**Note:** Characters wielding a shield gain advantage on defend actions when appropriate).
 
 As part of your defend action, you may also move up to half of your speed at any time during your action. If you are adjacent to your ally when moving, the ally may choose to move with you.
 
