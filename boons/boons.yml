@@ -461,7 +461,7 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    A target physical structure is temporarily altered, allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
+    A target's physical structure is temporarily altered, allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
   effect: |
     You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score.  All of the target's existing supernatural attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.  The following limitations apply initially, and are gradually removed at higher power levels:
     <ul>
