@@ -1,6 +1,6 @@
 # Open Legend Commercial Terms
 
-1. This is a plain language license for those who wish to create material for the Open Legend roleplaying game for commercial digital publication. The license is between th authors, Seventh Sphere Publishing, and the licensee.
+1. This is a plain language license for those who wish to create material for the Open Legend roleplaying game for commercial digital publication. The license is between the authors, Seventh Sphere Publishing, and the licensee.
 1. This license grants the holder the right to create new supplementary material for the Open Legend roleplaying game. The licensee may use Open Legend rules and terms except when such use would reprint artwork or large or key sections of text of the rulebook. Character and monster statistics and descriptions are excepted and may be reprinted.
     1. Supplementary material eligible for the license includes but is not limited to: adventures, new artwork, attributes, banes, boons, feats, monster statistics, NPC statistics, magic items, traps, cities, and towns.
 1. To be eligible for the Open Legend commercial license, the licensee must use the associated logos and trade dress to designate the publication as part of this license.
@@ -12,7 +12,7 @@
 
 # Open Legend Non-Commercial Terms
 
-1. This is a plain language license for those who wish to create material for the Open Legend roleplaying game for commercial digital publication. The license is between th authors, Seventh Sphere Publishing, and the licensee.
+1. This is a plain language license for those who wish to create material for the Open Legend roleplaying game for commercial digital publication. The license is between the authors, Seventh Sphere Publishing, and the licensee.
 1. This license grants the holder the right to create new supplementary material for the Open Legend roleplaying game. The licensee may use Open Legend rules and terms except when such use would reprint artwork or large or key sections of text of the rulebook. Character and monster statistics and descriptions are excepted and may be reprinted.
     1. Supplementary material eligible for the license includes but is not limited to: adventures, new artwork, attributes, banes, boons, feats, monster statistics, NPC statistics, magic items, traps, cities, and towns.
 1. To be eligible for the Open Legend non-commercial license, the licensee must use the associated logos and trade dress to designate the publication as part of this license.
