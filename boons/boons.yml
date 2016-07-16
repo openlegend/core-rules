@@ -492,11 +492,12 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    You reach out and supernaturally control an unattended inanimate object
+    You reach out and supernaturally control an unattended inanimate object.
   effect: |
-    <ul><li><strong>Power Level 5</strong> - The object must be smaller or lighter than a fist-sized rock</li>
-    <li><strong>Power Level 6</strong> - The object must be smaller or lighter than a large large humanoid creature</li>
-    <li><strong>Power Level 8</strong> - The object must be smaller or lighter than a small building</li>
+    Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 30'. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The Power Level of the boon determines the size and weight of the objects you may target:
+    <ul><li><strong>Power Level 5</strong> - The object must be smaller or lighter than a fist-sized rock.</li>
+    <li><strong>Power Level 6</strong> - The object must be smaller or lighter than a large large humanoid creature.</li>
+    <li><strong>Power Level 8</strong> - The object must be smaller or lighter than a small building, such as a hut or shed.</li>
     </ul>
 - !
   name: Telepathy
@@ -511,10 +512,11 @@
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    Your reach out mentally to a willing target and speak wordlessly with thought-to-thought communication.
+    You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication.
   effect: |
-    <ul><li><strong>Power Level 5</strong> - You can communicate telepathically with a single creature of human intelligence </li>
-    <li><strong>Power Level 6</strong> - You can create a mental relay between yourself and up to 5 other creatures allowing each of them to communicate with the rest of the group simultaneously.</li>
+    You and the target can communicate with eachother simply through thought. Note that this telepathy does not bestow intelligence upon creatures, so you could not use it to communicate with a squirrel unless you already possessed other means of doing so. Additionally, telepathy does not bypass language barriers, so you would need to already speak the language of your target.
+    <ul><li><strong>Power Level 5</strong> - You can communicate telepathically with a single creature.</li>
+    <li><strong>Power Level 6</strong> - You can create a mental relay between yourself and up to five other creatures allowing each of them to communicate with the rest of the group simultaneously.</li>
     <li><strong>Power Level 7</strong> - You can communicate telepathically with any number of creatures that you can see.</li>
     </ul>
 - !
@@ -535,8 +537,8 @@
     You are able to instantly move from one place to another, either by stepping into an intermediate realm, projecting yourself magically, or other similar means.
   effect: |
     <ul>
-    <li><strong>Power Level 3</strong> - You can teleport to any square as long as you can naturally see tha square and it is within a number of squares equal to or less than your Movement attribute score. </li>
-    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport to squares that you can’t see.  If you choose a square already occupied you land in the nearest adjacent square (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a RESIST roll to end the effect). </li>
+    <li><strong>Power Level 3</strong> - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
+    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see.  If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect). </li>
     <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile. You cannot engage in any activity other than deep focus on the invocation during that time.</li>
     <li><strong>Power Level 9</strong> - Using the longer invocation time from Power Level 7, you can teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
     </ul>
@@ -552,11 +554,11 @@
   invocationTime: 10 Minutes
   duration: Sustain Persists
   description: |
-    You are able to read, write, and speak languages that you are not familiar with
+    You are able to read, write, and speak languages that you are otherwise unfamiliar with.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - You can understand and speak a language of your choice for as long as you concentrate on sustaining this boon</li>
-    <li><strong>Power Level 6</strong> - You can read a language of your choice for as long as you concentrate on sustaining this boon.</li>
+    <li><strong>Power Level 5</strong> - You can understand and speak a language of your choice.</li>
+    <li><strong>Power Level 6</strong> - You can read a language of your choice.</li>
     </ul>
 - !
   name: Transmutation
