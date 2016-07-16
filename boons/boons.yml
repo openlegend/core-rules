@@ -159,7 +159,7 @@
   effect: |
     <ul>
     <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly manueverable.</li>
-    <li><strong>Power Level 6</strong> - The granted flight speed increases to 60'.</li>
+    <li><strong>Power Level 8</strong> - The granted flight speed increases to 60'.</li>
     </ul>
     If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
 - !
@@ -227,7 +227,7 @@
   description: |
     Healing is magical energy overflowing from a creative life force which heals wounds and mends broken bones.
   effect: |
-    Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll. These dice explode, as do any other dice you might roll.
+    Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll. Like all dice rolls, these dice explode.
     <strong>Special:</strong> This boon does not heal lethal damage.
     <ul>
     <li><strong>Power Level 1</strong> - Heal 1d4 </li>
@@ -450,7 +450,7 @@
   - 2
   - 3
   - 4
-  - 5
+  - 6
   - 7
   - 8
   - 9
@@ -472,7 +472,7 @@
     <ul>
     <li><strong>Power Level 3</strong> - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.</li>
     <li><strong>Power Level 4</strong> - Shapeshift into a creature between one quarter and quadruple the target's original size. </li>
-    <li><strong>Power Level 5</strong> - Gain the flying movement mode of the new form, if applicable.</li>
+    <li><strong>Power Level 6</strong> - Gain the flying movement mode of the new form, if applicable.</li>
     <li><strong>Power Level 7</strong> - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.</li>
     <li><strong>Power Level 8</strong> - Shapeshift into a creature of any size. </li>
     <li><strong>Power Level 9</strong> - Gain all supernatural attributes possessed by the target. </li></ul>
@@ -536,8 +536,8 @@
     <ul>
     <li><strong>Power Level 3</strong> - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
     <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see.  If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect). </li>
-    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile. You cannot engage in any activity other than deep focus on the invocation during that time.</li>
-    <li><strong>Power Level 9</strong> - Using the longer invocation time from Power Level 7, you can teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
+    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you 7 miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleoport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
+    <li><strong>Power Level 9</strong> - With the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
     </ul>
 - !
   name: Tongues
