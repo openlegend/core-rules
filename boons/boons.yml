@@ -295,6 +295,10 @@
   - 3
   - 4
   - 5
+  - 6
+  - 7
+  - 8
+  - 9
   attribute:
   - Creation
   - Energy
@@ -303,7 +307,7 @@
   description: |
     You light up an area with magical light from a point of your choice
   effect: |
-    Choose a square or object within attribute range. Light emanates from the target to a radius equal to five feet per the power level of the boon (maximum of 5). If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+    Choose a space or object within range. Supernatural light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
 - !
   name: Reading
   tags:
