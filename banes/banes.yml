@@ -573,7 +573,7 @@
   description: |
     Peering into a supernatural conduit such as a hearth, a bubbling cauldron, or a crystal ball, you see can view the target from a distance.
   effect: |
-    You can scry on a person or area that you are familiar with. The Challenge Rating to succeed at this scrying is based on the distance between you and the target. If successful, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Divination action roll to invoke this bane becomes aware of an unseen presence in the area. Certain creatures may be able to identify your scrying if they are familiar with such powers.
+    You can scry on a person or area that you are familiar with. The Challenge Rating to succeed at this scrying is based on the distance between you and the target. If successful, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Divination action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your scrying if they are familiar with such powers.
     <ul>
     <li><strong>20</strong> - 1 mile or less</li>
     <li><strong>22</strong> - 100 miles or less</li>
