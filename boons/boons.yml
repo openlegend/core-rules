@@ -461,7 +461,7 @@
   description: |
     A target's physical structure is temporarily altered, allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
   effect: |
-    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score.  All of the target's existing supernatural attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.  The following limitations apply initially, and are gradually removed at higher power levels:
+    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score.  All of the target's existing supernatural attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.  The following limitations apply at Power Level 2, and are gradually removed at higher power levels:
     <ul>
     <li>The new form cannot be a different size than that of the target.</li>
     <li>The new form must possess a typical humanoid or animal physiology. Animal-like creatures, such as dragons, are allowed, but plants, elementals, oozes, and similar forms are not.
@@ -536,8 +536,8 @@
     <ul>
     <li><strong>Power Level 3</strong> - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
     <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see.  If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect). </li>
-    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleoport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
-    <li><strong>Power Level 9</strong> - With the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
+    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleoport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
+    <li><strong>Power Level 9</strong> - Using the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
     </ul>
 - !
   name: Tongues
@@ -574,33 +574,32 @@
   description: |
     You are able to change size, shape, and composition of physical matter that you touch. Make an ally larger or smaller, transmute rocks to gold or flesh to stone.
   effect: |
+    Your Power Level determines the types of matter your can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round and has a maximum duration of 1 hour per your Alteration attribute score. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it. 
     <ul>
-    <li><strong>Power Level 3</strong> -  Transmute a target object into another object of the same size and weight.  The duration is 1 hour per (Su) Alteration attribute point. </li>
-    <li><strong>Power Level 5</strong> - Transmute a target object into another object of the same size and 50% greater OR lesser weight. Transmute a target object into another object of the same weight and 50% greater OR lesser size. The duration is 1 hour per (Su) Alteration attribute point. </li>
-    <li><strong>Power Level 7</strong> - Transmute an object into another object of the same size and weight, PERMANENTLY. - OR - Transmute a target object into another object of the same size and 200% greater OR lesser weight. Transmute a target object into another object of the same weight and 200% greater OR lesser size. The duration is 1 hour per (Su) Alteration attribute point. </li>
-    <li><strong>Power Level 8</strong> - Transmute an object into another object of up to 200% difference in size OR weight, PERMANENTLY. - OR - Transmute a living creature into another creature of the same size for 1 hour per attribute point. </li>
-    <li><strong>Power Level 9</strong> - Transmute a living creature into a non-living object of the same size. Transmute a non-living object into a living creature. - OR - Transmute a living creature into another creature of ANY size for 1 hour per attribute point. </li></ul>
+    <li><strong>Power Level 3</strong> - <em>Temporarily</em> transmute an object into another object of the same size and weight.</li>
+    <li><strong>Power Level 5</strong> - <em>Temporarily</em> transmute an object into another object of the same size and 50% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 50% greater or lesser size.</li>
+    <li><strong>Power Level 7</strong> - <em>Permanently</em> transmute an object into another object of the same size and weight. <em>Temporarily</em> transmute an object into another object of the same size and 200% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 200% greater or lesser size.</li>
+    <li><strong>Power Level 8</strong> - <em>Permanently</em> transmute an object into another object of up to 200% difference in size or weight. <em>Temporarily</em> transmute a living creature into another creature of the same size.</li>
+    <li><strong>Power Level 9</strong> - <em>Temporarily</em> transmute a living creature into a non-living object of the same size, or vice-versa. <em>Temporarily</em> transmute a living creature into another creature of ANY size.</li></ul>
 - !
   name: Truesight
   tags:
   - Supernatural
   power:
-  - 3
   - 5
   - 7
-  - 8
   - 9
   attribute:
   - Divination
   invocationTime: 1 Normal Action
   duration: Sustain Persists
   description: |
-    You are able to supernaturally perceive things through impediments that would block normal sight, including darkness, illusions, and alternate planes
+    You are able to supernaturally perceive things through impediments that would block or deceive normal sight, including darkness, illusions, and even the barrier between alternate planes of reality.
   effect: |
     <ul>
     <li><strong>Power Level 5</strong> -  You can see normally in natural or magical darkness. This supernatural sight extends to 30'.</li>
-    <li><strong>Power Level 7</strong> - Your supernatural sight pierces through all illusionary effects, allowing you to see the illusion as a superimposed phantom effect. This supernatural sight extends to 60'.</li>
-    <li><strong>Power Level 9</strong> - . Your supernatural sight enables you to peer into alternate planes or dimensions, you can see into dimensional pockets and other planes that overlap with the one you're currently on. This supernatural sight extends to 100'.</li>
+    <li><strong>Power Level 7</strong> - Your supernatural sight pierces through all illusory effects, allowing you to see the illusion for what it is. This supernatural sight extends to 60'.</li>
+    <li><strong>Power Level 9</strong> - Your supernatural sight enables you to peer into alternate planes or dimensions. You can see into dimensional pockets and other planes that overlap with the one you're currently on. This supernatural sight extends to 100'.</li>
     </ul>
 
 
