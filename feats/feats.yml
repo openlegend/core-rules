@@ -84,7 +84,7 @@
     You have spent an extraordinary amount of time training with with a particular weapon or energy type, enabling you deal out more devastation with that weapon than is possible for the average wielder.
   effect: |
     When you take this feat, select one weapon or energy type. You gain ADVANTAGE 1 per tier of this feat for any damaging attack made with your choice; this bonus does not apply to bane attacks.
-    Energy Types you can choose from include fire, cold, lightning, acid, poison, psychic, and force.
+    Energy Types you can choose from include fire, cold, lightning, acid, poison, and force.
     <strong>Special</strong>: You may take this feat multiple times, for the same weapon, your total advantage to attacks with the weapon is equal to how many times you’ve purchased the feat for that particular weapon.  You can also specialize in different weapons by purchasing the feat again.
 - !
   name: Attribute Substitution
@@ -97,7 +97,7 @@
   description: |
     Your prowess in one attribute empowers you in ways that it normally would not.  A good example would be a martial artist with no physical strength, but capable of using internal “chi” power to throw and disable enemies is one example of this feat at work. Or an anatomical genius who does damage by applying his knowledge via a high Learning attribute for attacks
   effect: |
-    When you purchase this feat, you create a permanent link between two attributes; one stronger (primary) and one weaker (dependent). Your attribute rolls with the dependent attribute can make attack rolls, and invoke banes / boons of the dependent attribute with the score of the primary attribute. This relationship is subject to case-by-case approval by the GM; it must be logical, and the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful.  Some good example uses include “Psychic Warrior” that does battle with his mind, substituting Psychic => Might, “Holy Warrior” that draws on divine power in place of physical power, substituting Presence => Might, a martial arts master that relies on logic to guide his strikes at enemies pressure points, replacing Logic => Agility.
+    When you purchase this feat, you create a permanent link between two attributes; one stronger (primary) and one weaker (dependent). Your attribute rolls with the dependent attribute can make attack rolls, and invoke banes / boons of the dependent attribute with the score of the primary attribute. This relationship is subject to case-by-case approval by the GM; it must be logical, and the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful.  Some example uses include an “Analytical Warrior” or martial artist who analyzes angles, leverage, and physics, substituting Logic => Might, or “Holy Warrior” that draws on divine power in place of physical power, substituting Presence => Might.
     For the purpose of meeting attribute prerequisites when purchasing feats, your dependent attribute is considered equal to that of your primary attribute score.
     <strong>Special</strong>: This feat can only be purchased at 1st level, and therefore can never be purchased more than once by a given character. In addition, the primary attribute must be either Social, Mental, or Supernatural, while the substituted attribute must be Physical.
 - !
@@ -492,7 +492,7 @@
   description: |
     Your specialization in a particular type of energy or general protection causes you to be resistant to that type of energy
   effect: |
-    Choose from the following energy types: fire, cold, lightning, acid, psychic, (or another at the GM’s discretion).  When you are attacked with that energy type, you gain resistance to the attack as follows:
+    Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion).  When you are attacked with that energy type, you gain resistance to the attack as follows:
       <ul>
       <li><strong>Tier 1</strong> - Prevent the first 5 damage you would suffer each round from the chosen energy type. </li>
       <li><strong>Tier 2</strong> -All damage you would suffer from the chosen type is halved.</li>
@@ -562,7 +562,7 @@
 - !
   name: Great Leap (I – III)
   prerequisite:
-  - Movement OR Psychic OR Agility 2 / 4 / 6
+  - Movement OR Agility 2 / 4 / 6
   tags:
   - Supernatural
   - Physical
@@ -573,7 +573,7 @@
   description: |
     You are able to jump farther than what seems possible through agility or supernatural power
   effect: |
-    You can use your Movement, Psychic, or Agility score instead of your Might score when determining how far you can jump. In addition, this power allows you to exceed the usual 5 square maximum for jumping distance by 1 per tier and grants Advantage on action rolls to jump:
+    You can use your Movement, or Agility score instead of your Might score when determining how far you can jump. In addition, this power allows you to exceed the usual 5 square maximum for jumping distance by 1 per tier and grants Advantage on action rolls to jump:
     <ul>
     <li><strong>Tier 1</strong> - Maximum 6 square leap and Advantage 1 on jump action rolls</li>
     <li><strong>Tier 2</strong> - Maximum 7 square leap and Advantage 2 on jump action rolls</li>
@@ -1063,7 +1063,7 @@
 - !
   name: Supernatural Defense (I - V)
   prerequisite:
-  - Abjuration OR Psychic OR Divination OR Movement 2 / 3 / 4 / 5 / 6
+  - Abjuration OR Divination OR Movement 2 / 3 / 4 / 5 / 6
   tags:
   - Supernatural
   - Defense
