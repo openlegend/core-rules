@@ -544,8 +544,10 @@
   - 6
   - 8
   - 9
-  attribute:
+  attackAttributes:
   - Alteration
+  attack:
+  - Alteration vs. Toughness
   invocationTime: 1 Minute
   duration: Special
   description: |
