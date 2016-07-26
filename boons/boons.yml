@@ -502,6 +502,7 @@
   tags:
   - Supernatural
   power:
+  - 3
   - 5
   - 6
   - 7
@@ -513,7 +514,9 @@
     You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication.
   effect: |
     You and the target can communicate with eachother simply through thought. Note that this telepathy does not bestow intelligence upon creatures, so you could not use it to communicate with a squirrel unless you already possessed other means of doing so. Additionally, telepathy does not bypass language barriers, so you would need to already speak the language of your target.
-    <ul><li><strong>Power Level 5</strong> - You can communicate telepathically with a single creature.</li>
+    <ul>
+    <li><strong>Power Level 3</strong> - You can communicate telpathically with a single creature of animal-level intelligence or lower. Keep in mind that it can only communicate concepts with you that it can understand.</li>
+    <li><strong>Power Level 5</strong> - You can communicate telepathically with a single creature of humanoid intelligence.</li>
     <li><strong>Power Level 6</strong> - You can create a mental relay between yourself and up to five other creatures allowing each of them to communicate with the rest of the group simultaneously.</li>
     <li><strong>Power Level 7</strong> - You can communicate telepathically with any number of creatures that you can see.</li>
     </ul>
@@ -574,7 +577,7 @@
   description: |
     You are able to change size, shape, and composition of physical matter that you touch. Make an ally larger or smaller, transmute rocks to gold or flesh to stone.
   effect: |
-    Your Power Level determines the types of matter your can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round and has a maximum duration of 1 hour per your Alteration attribute score. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it. 
+    Your Power Level determines the types of matter your can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round and has a maximum duration of 1 hour per your Alteration attribute score. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it.
     <ul>
     <li><strong>Power Level 3</strong> - <em>Temporarily</em> transmute an object into another object of the same size and weight.</li>
     <li><strong>Power Level 5</strong> - <em>Temporarily</em> transmute an object into another object of the same size and 50% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 50% greater or lesser size.</li>
