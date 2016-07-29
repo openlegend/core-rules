@@ -7,7 +7,7 @@
   cost:
   - 1
   description: |
-    Ageless and supernatural, you have either unlocked a mystical secret to immortality, become a legendary defender, an avatar of nature, or are granted immunity to time by some higher power
+    Ageless and supernatural, you have either unlocked a mystical secret to immortality, become a legendary defender, transformed into an avatar of nature, or been granted immunity to the ravages time by some higher power.
   effect: |
     Rooted in a superantural means of your choice, you become immune to the passage of time and the effects of old age. You do not age and cannot be harmed by magic that causes aging. You can choose to age in appearance, if you wish, but you can also choose to continually appear the same age.
 - !
@@ -19,13 +19,13 @@
   cost:
   - 2
   description: |
-    Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats) who can shapeshift into a specific animal form, some druids that can shapeshift into natural creatures, and even vampires are known to shapeshift into the form of a large bat.
+    Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
-    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed) any time as a normal action. While in your alternate form, you can divide your Alteration attribute score amongst your physical attributes.  If your Alteration score is higher than a given physical score, you can raise the physical score to a maximum of your Alteration score. If the physical attribute is higher than your Alteration attribute, you can raise the physical attribute by 1 instead. This increase cannot be used to meet prerequisites for feats.
+    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a normal action. While in your alternate form, you can divide your Alteration attribute score amongst your physical attributes.  If your Alteration score is higher than a given physical score, you can raise the physical score to a maximum of your Alteration score. If the physical attribute is higher than your Alteration attribute, you can raise the physical attribute by 1 instead. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural abilities of the chosen form.
     <ul>
-    <li>Tier 1 – Your alternate form must be the same as your normal size.</li>
-    <li>Tier 2 – Your alternate form can be one size different from your normal size</li>
-    <li>Tier 3 – Your alternate form can be any size. In addition, you are able to use magical attacks (dragon’s breath, nymph’s charm, etc.) of your chosen form. When making magical attacks you substitute you ALTERATION score for the attribute that the creature would normally use for any magical abilities.</li>
+    <li>Tier 1 – Your alternate form must be the same size as your normal form.</li>
+    <li>Tier 2 – Your alternate form can be one size different from your normal size.</li>
+    <li>Tier 3 – Your alternate form can be any size. In addition, you are able to use supernatural attacks and abilities (dragon’s breath, nymph’s charm, etc.) of your chosen form. Use your Alteration score for action rolls relating to these supernatural abilities.</li>
     </ul>
 - !
   name: Area Manipulation (I - V)
@@ -37,9 +37,9 @@
   cost:
   - 1
   description: |
-    You have special training in area attacks that allows you to shape the effect, not causing harm to selected areas.
+    You are exceptionally precise when making area attacks, allowing you to avoid allies who would otherwise be caught in the line of fire.
   effect: |
-    For each tier of this feat you possess, you can omit a single square in an area attack from effects, allowing you to cast spells in an area occupied by allies without causing them harm.
+    For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.
 - !
   name: Armor Mastery (I - III)
   prerequisite:
@@ -49,13 +49,13 @@
   cost:
   - 2
   description: |
-    You are specially trained in the wearing of a particular armor type, making it more effective for you and also less taxing.
+    You are specially trained with particular armor type, allowing you to maximize its protection and minimize its drawbacks.
   effect: |
     Choose an armor type to specialize in. Your training allows you to sleep in that armor type without becoming fatigued. In addition, while wearing armor of that type, you gain the following benefits.
     <ul>
-    <li>Tier 1 - The Fortitude prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1</li>
-    <li>Tier 2 - The Fortitude prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. If the armor normally incurs a move penalty, that penalty is reduced by 1.</li>
-    <li>Tier 3 - The Fortitude prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3.If the armor normally incurs a move penalty, that penalty is reduced by 2.</li>
+    <li>Tier 1 - The Fortitude prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
+    <li>Tier 2 - The Fortitude prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
+    <li>Tier 3 - The Fortitude prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3. Any movement penalty is reduced by 10 feet.</li>
     </ul>
 - !
   name: Attack Redirection
@@ -66,7 +66,7 @@
   cost:
   - 3
   description: |
-    You are adept at setting up an attack to redirect or miss and hit an enemy
+    You are adept at setting up an attack to redirect or miss and hit an enemy.
   effect: |
     When you make a Defense action and your roll exceeds the target's attack roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker)
 - !
