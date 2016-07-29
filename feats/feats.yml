@@ -66,9 +66,9 @@
   cost:
   - 3
   description: |
-    You are adept at setting up an attack to redirect or miss and hit an enemy.
+    You are adept at redirecting your enemy's attacks. Whether using fancy footwork, magical force, or tactical superiority, you can use your opponents' attacks against themselves.
   effect: |
-    When you make a Defense action and your roll exceeds the target's attack roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker)
+    When you make a Defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
 - !
   name: Attack Specialization (I - IX)
   prerequisite:
@@ -81,25 +81,25 @@
   cost:
   - 3
   description: |
-    You have spent an extraordinary amount of time training with with a particular weapon or energy type, enabling you deal out more devastation with that weapon than is possible for the average wielder.
+    You are so well trained with a particular form of attack that you can devastate foes with much more skill than the average combatant.
   effect: |
-    When you take this feat, select one weapon or energy type. You gain ADVANTAGE 1 per tier of this feat for any damaging attack made with your choice; this bonus does not apply to bane attacks.
-    Energy Types you can choose from include fire, cold, lightning, acid, poison, and force.
-    <strong>Special</strong>: You may take this feat multiple times, for the same weapon, your total advantage to attacks with the weapon is equal to how many times you’ve purchased the feat for that particular weapon.  You can also specialize in different weapons by purchasing the feat again.
+    When you take this feat, select one weapon or energy type. You gain Advantage 1 per tier of this feat for any <emphasis>damaging</emphasis> attack made with your choice. This bonus does not apply to bane attacks or boon invocations.
+    Examples of energy types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
+    <strong>Special</strong>: You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
 - !
   name: Attribute Substitution
   prerequisite:
-  - Attribute Score of 4 in Primary
+  - Attribute Score of 4 in Primary Attribute (see description)
   tags:
   - Any Attribute
   cost:
   - 4
   description: |
-    Your prowess in one attribute empowers you in ways that it normally would not.  A good example would be a martial artist with no physical strength, but capable of using internal “chi” power to throw and disable enemies is one example of this feat at work. Or an anatomical genius who does damage by applying his knowledge via a high Learning attribute for attacks
+    Your prowess in a supernatural, mental, or social attribute empowers a physical aspect of your character, allowing you to use that attribute for tasks normally reserved for another attribute.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, as well as an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity.
   effect: |
-    When you purchase this feat, you create a permanent link between two attributes; one stronger (primary) and one weaker (dependent). Your attribute rolls with the dependent attribute can make attack rolls, and invoke banes / boons of the dependent attribute with the score of the primary attribute. This relationship is subject to case-by-case approval by the GM; it must be logical, and the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful.  Some example uses include an “Analytical Warrior” or martial artist who analyzes angles, leverage, and physics, substituting Logic => Might, or “Holy Warrior” that draws on divine power in place of physical power, substituting Presence => Might.
+    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). When making action rolls with the dependent attribute, you may use your score in the primary attribute for damaging attacks, bane attacks, boon invocations, and other actions at the GM's discretion. This relationship is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a Holy Warrior that draws on divine power in place of physical power to substitute Presence for Might.
     For the purpose of meeting attribute prerequisites when purchasing feats, your dependent attribute is considered equal to that of your primary attribute score.
-    <strong>Special</strong>: This feat can only be purchased at 1st level, and therefore can never be purchased more than once by a given character. In addition, the primary attribute must be either Social, Mental, or Supernatural, while the substituted attribute must be Physical.
+    <strong>Special</strong>: This feat can only be purchased once and only at 1st level. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
 - !
   name: Bane Focus
   prerequisite:
