@@ -21,7 +21,9 @@
   description: |
     Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
-    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a normal action. While in your alternate form, you can divide your Alteration attribute score amongst your physical attributes.  If your Alteration score is higher than a given physical score, you can raise the physical score to a maximum of your Alteration score. If the physical attribute is higher than your Alteration attribute, you can raise the physical attribute by 1 instead. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural abilities of the chosen form.
+    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a normal action. When you assume your new form, you gain a pool of points equal to your Alteration score, which you may immediately spend to temporarily increase your physical attributes. You cannot raise any physical attribute to be greater than your Alteration score, unless the physical attribute is already equal to your Alteration. In that case, you may increase it by a maximum of one point. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural abilities of the chosen form.
+    
+    You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a normal action. Upon returning to your original form, your physical attributes return to their previous values.
     <ul>
     <li>Tier 1 – Your alternate form must be the same size as your normal form.</li>
     <li>Tier 2 – Your alternate form can be one size different from your normal size.</li>
@@ -103,7 +105,7 @@
 - !
   name: Bane Focus
   prerequisite:
-  -  Ability to invoke the bane
+  -  Ability to invoke the chosen bane
   tags:
   - Might
   - Passive
@@ -112,9 +114,9 @@
   cost:
   - 3
   description: |
-    You are specialized in the use a particular bane that is iconic to your character.
+    You are specialized in the use of a particular bane that is iconic to your character.
   effect: |
-    Choose a bane when you take this feat. Any time you inflict 5 or more points of damage on a target, you can trigger the chosen bane. Without this feat, an attack must deal 10 or more points of damage to trigger a bane. Each attack is still only capable of inflicting a single bane.
+    Choose a bane that you can invoke. When making a damaging attack, you can inflict this bane for free when you deal at least 5 points of damage (as opposed to the usual 10). Each attack is still only capable of inflicting a single bane.
 - !
   name: Battlefield Defender
   prerequisite:
@@ -128,7 +130,7 @@
   description: |
     Your prowess on the battlefield allows you to punish your enemies for every misplaced step.
   effect: |
-    By default, a Defend interrupt action can only be used to prevent an incoming attack.  With this feat, if your action roll for a Defend interrupt action exceeds the attack roll, you deal damage equal to the amount by which your roll was higher.
+    When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
 - !
   name: Battlefield Punisher - Knockdown
   prerequisite:
@@ -142,9 +144,9 @@
   cost:
   - 3
   description: |
-    Not only are your battle reflexes uncanny, but you can deal knockdown blows with your opportunity attacks.
+    Not only are your battle reflexes uncanny, but you can deal knockdown blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Knockdown bane. If the attack hits, the remainder of the target's movement is cancelled.
+    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Knockdown bane. If the attack hits, the remainder of the target's movement is cancelled until the start of its next turn.
 - !
   name: Battlefield Punisher - Slowed
   prerequisite:
@@ -152,15 +154,16 @@
   - Might 5 OR Agility 5
   tags:
   - Might
+  - Agility
   - Passive
   - Combat
   - Feat Chain
   cost:
   - 3
   description: |
-    Not only are your battle reflexes uncanny, but you can deal slowing blows with your opportunity attacks.
+    Not only are your battle reflexes uncanny, but you can deal slowing blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane.  If the attack hits and the target has already moved more than 2 squares, the remainder of their movement is cancelled.
+    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane.  If the attack hits and the target has already moved more than 2 squares, the remainder of their movement is cancelled until the start of their next turn.
 - !
   name: Battlefield Punisher - Stunned
   prerequisite:
@@ -175,9 +178,9 @@
   cost:
   - 3
   description: |
-    Not only are your battle reflexes uncanny, but you can deal stunning blows with your opportunity attacks.
+    Not only are your battle reflexes uncanny, but you can deal stunning blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Stunned bane. If the target has taken any action prior to this attack, any remaining actions are cancelled by the Stunned bane.
+    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Stunned bane. If the target has taken any action prior to this attack, any remaining actions are cancelled by the Stunned bane until the start of the target's next turn.
 - !
   name: Battlefield Sentinel (I - V)
   prerequisite:
