@@ -195,9 +195,9 @@
   cost:
   - 3
   description: |
-    Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat
+    Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat.
   effect: |
-    Normally, an Opportunity Attack is a special minor action that can be taken once per round. When you purchase this feat, you are able to make an additional Opportunity Attack for each tier of this feat you purchase.
+    You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened square).
 - !
   name: Berserker
   prerequisite:
@@ -206,9 +206,9 @@
   cost:
   - 3
   description: |
-    You can enter a rage-induced trance-like state where you transcend fear and pain and are strengthened by adrenaline
+    You can enter a rage-induced, trance-like state in which your body is strengthened and your mind transcends fear and pain.
   effect: |
-    You can fly into a rage via a surge of adrenaline. This rage is the result of incredible focus and a heightened trance-like state that sharpens your focus and helps you transcend fear and pain. Entering the rage is a free action that you can take only on your turn. While raging, you have Advantage 1 on all attacks.  If you are not wearing armor, all of your defense scores are increased by 5. The rage is dependent upon a sense of momentum; when that momentum is disrupted, the rage ends. If you go three consecutive rounds without making an attack roll, the rage ends. When the rage ends, you automatically suffer <a href="/banes/fatigued">1 level of fatigue</a>.
+    As a free action on your turn, you may enter a rage. While raging, you have advantage 1 on all attacks. Additionally, if you are not wearing armor, all of your defense scores are increased by 5. If you take three consecutive turns without making an attack roll against a creature, the rage ends. When the rage ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
   name: Boon Access
   prerequisite:
@@ -228,11 +228,12 @@
   description: |
     You have a special gift: it might be the result of your heritage, a close encounter with magical energy, or the result of years of training with a master. In any case, although you do not necessarily possess the aptitude to work supernatural powers for yourself or create a desired effect with your physical capabilities alone, you are able to reliably replicate a single boon.
   effect: |
-    This feat replaces an attribute for the purposes of using a single boon. It can be taken multiple times, each for a different boon. Each time you take this feat, you must pay a feat point cost equal to the Power Level of the boon. This feat bypasses the normal attribute score restrictions by character level, so a first level character can spend all 6 of their feat points to begin play with access to a Power Level 6 boon. For other feats that have this boon as a prerequisite, your attribute score is considered the same as the Power Level of the boon.
+    When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the Power Level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the Power Level of the boon. Additonally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the Power Level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a Power Level 6 boon.
+    You may acquire this feat multiple times. Each time, select a new boon.
 - !
   name: Boon Focus (I - III)
   prerequisite:
-  - Ablility to invoke the boon
+  - Ablility to invoke the chosen boon
   tags:
   - Supernatural
   - Passive
@@ -240,12 +241,12 @@
   cost:
   - 3
   description: |
-    You are specialized in the use a particular boon that is iconic to your character's portfolio of abilities.
+    You are specialized in the use a particular boon that is iconic to your character.
   effect: |
     <ul>
-    <li>Tier 1 - Normally, activation of a boon requires an action roll to invoke.  The boon focus makes all attempts to invoke the selected boon succeed automatically. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke it.</li>
-    <li>Tier 2  - Invoking the boon is one time increment faster.  If invoking the boon is a normal action, it becomes a minor action.  If invocation time is 1 minute, it becomes 1 normal action.  If invocation time is 10 minutes, it becomes 1 minute.  If invocation time is 1 hour, it becomes 10 minutes.  If invocation is 8 hours, it becomes 1 hour. If the invocation has multiple targets, success is not automatic, but you get advantage 3 on the action roll to invoke it.</li>
-    <li>Tier 3 - This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If you invoke this boon with multiple targets, success is not automatic, but you get advantage 4 on the action roll to invoke it. </li>
+    <li>Tier 1 - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
+    <li>Tier 2  - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, invoking the boon is one time increment faster.  If the invocation time is a normal action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 normal action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
+    <li>Tier 3 - When your invocation includes multiple targets, you gain advantage 4 on your action rolll to invoke the boon. Additionally, the chosen boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it returns automatically at the start of your next turn.</li>
     </ul>
 - !
   name: Breakfall (I - III)
@@ -257,12 +258,7 @@
   description: |
     Your agility enables you to fall from deadly heights unharmed.
   effect: |
-    Any falling damage (normally 1d10 damage per 10 foot drop) you would suffer is mitigated or negated entirely as follows:
-    <ul>
-    <li>Tier 1: 10 ft</li>
-    <li>Tier 2: 20 ft</li>
-    <li>Tier 3: 30 ft</li>
-    </ul>
+    When calculating falling damage, reduce the falling distance by 10 feet per tier of this feat that you possess.
 - !
   name: Brutal Intimidation
   prerequisite:
