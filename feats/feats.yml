@@ -121,8 +121,12 @@
   name: Battlefield Defender
   prerequisite:
   - Might 4
+  - Agility 4
+  - Abjuration 4
   tags:
   - Might
+  - Agility
+  - Abjuration
   - Passive
   - Combat
   cost:
@@ -193,7 +197,7 @@
   - Combat
   - Feat Chain
   cost:
-  - 3
+  - 2
   description: |
     Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat.
   effect: |
@@ -249,7 +253,7 @@
     <li>Tier 3 - When your invocation includes multiple targets, you gain advantage 4 on your action rolll to invoke the boon. Additionally, the chosen boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it returns automatically at the start of your next turn.</li>
     </ul>
 - !
-  name: Breakfall (I - III)
+  name: Breakfall (I - IX)
   prerequisite:
   - Agility 4
   tags:
@@ -258,7 +262,7 @@
   description: |
     Your agility enables you to fall from deadly heights unharmed.
   effect: |
-    When calculating falling damage, reduce the falling distance by 10 feet per tier of this feat that you possess.
+    When calculating falling damage, reduce the falling distance by 10 feet per tier of this feat that you possess. Once you reach tier 9, you can fall any distance without taking damage.
 - !
   name: Brutal Intimidation
   prerequisite:
