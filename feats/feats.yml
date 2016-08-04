@@ -120,9 +120,7 @@
 - !
   name: Battlefield Defender
   prerequisite:
-  - Might 4
-  - Agility 4
-  - Abjuration 4
+  - Might 4 OR Agility 4 OR Abjuration 4
   tags:
   - Might
   - Agility
@@ -285,10 +283,10 @@
   cost:
   - 2
   description: |
-    You are able to decimate many enemies in quick succession, examples include legendary Samurai in Japanese feudal mythology and archers able to achieve a rhythm of killing one foe after another.
+    You are able to decimate many enemies in quick succession, like a legendary Samurai warrior or matchless elven archer.
   effect: |
     Any time you reduce a foe to zero hit points or less, you can immediately make an extra attack as a free action. <br />
-    <strong>Requirement</strong> - the triggering attack must be a Might or Agility action roll.
+    <strong>Requirement</strong> - The triggering attack must be a Might or Agility action roll.
 - !
   name: Combat Momentum
   prerequisite:
@@ -298,9 +296,9 @@
   cost:
   - 1
   description: |
-    Whether through your raw power or through your quick reflexes, you are able to carry momentum through one enemy and into another.
+    Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.
   effect: |
-    Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move a number of squares equal to your normal movement as a free action. <br />
+    Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action. <br />
     <strong>Special</strong>: If you meet the Movement 4 prerequisite, you can use the Teleport boon instead of a normal move.
 - !
   name: Combat Opportunist (I - IX)
@@ -310,7 +308,7 @@
   cost:
   - 2
   description: |
-    You have mastered the art of bluffing and feinting in combat, allowing you to deal devastating attacks if your enemies guard is lowered.
+    You have mastered the art of bluffing and feinting in combat, allowing you to deal devastating attacks if your enemy's guard is lowered.
   effect: |
     Any time you have tactical advantage against an opponent, you gain Advantage 1 for each tier of this feat you’ve purchased.
 - !
@@ -324,7 +322,7 @@
   description: |
     Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
   effect: |
-    You gain a companion character that acts independent from you but is controlled by the same player. The companion has one attribute at each potential score and a maximum attribute score equal to your level or 5 (whichever is higher) minus 2. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons. So, if you're 1st level, the maximum ability score of your companion is 3, and you get three attributes with scores in them: an attribute 3, an attribute 2, and an attribute 1.
+    You gain a companion character that acts indepently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. The companion has one attribute at each potential score and a maximum attribute score equal to your level or 5 (whichever is higher) minus 2. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons. So, if you're 1st level, the maximum ability score of your companion is 3, and you get three attributes with scores in them: an attribute 3, an attribute 2, and an attribute 1.
     <ul>
     <li><strong>Tier 1</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 2.</li>
     <li><strong>Tier 2</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 1.</li>
