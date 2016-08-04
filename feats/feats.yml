@@ -706,7 +706,7 @@
     <li>1) Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception. </li>
     <li>2) If an enemy is adjacent to an ally wielding a melee weapon, then you can make a lethal strike against that enemy.</li>
     </ul>
-    If one of the above conditions is met, you can deliver a lethal strike, which deals LETHAL damage in addition to any other damage types associated with the attack. This additional damage is only added if the attack roll total is equal to or greater than the target’s defense.
+    If one of the above conditions is met, you can deliver a lethal strike, granting advantage on your attack roll. In addition, a portion of the damage (not more than your total damage dealt) becomes lethal damage that is difficult to heal from.
     <ul>
     <li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage</li>
     <li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage</li>
