@@ -7,7 +7,7 @@
   cost:
   - 1
   description: |
-    Ageless and supernatural, you have either unlocked a mystical secret to immortality, become a legendary defender, an avatar of nature, or are granted immunity to time by some higher power
+    Ageless and supernatural, you have either unlocked a mystical secret to immortality, become a legendary defender, transformed into an avatar of nature, or been granted immunity to the ravages time by some higher power.
   effect: |
     Rooted in a superantural means of your choice, you become immune to the passage of time and the effects of old age. You do not age and cannot be harmed by magic that causes aging. You can choose to age in appearance, if you wish, but you can also choose to continually appear the same age.
 - !
@@ -19,13 +19,15 @@
   cost:
   - 2
   description: |
-    Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats) who can shapeshift into a specific animal form, some druids that can shapeshift into natural creatures, and even vampires are known to shapeshift into the form of a large bat.
+    Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
-    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed) any time as a normal action. While in your alternate form, you can divide your Alteration attribute score amongst your physical attributes.  If your Alteration score is higher than a given physical score, you can raise the physical score to a maximum of your Alteration score. If the physical attribute is higher than your Alteration attribute, you can raise the physical attribute by 1 instead. This increase cannot be used to meet prerequisites for feats.
+    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a normal action. When you assume your new form, you gain a pool of points equal to your Alteration score, which you may immediately spend to temporarily increase your physical attributes. You cannot raise any physical attribute to be greater than your Alteration score, unless the physical attribute is already equal to your Alteration. In that case, you may increase it by a maximum of one point. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural abilities of the chosen form.
+    
+    You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a normal action. Upon returning to your original form, your physical attributes return to their previous values.
     <ul>
-    <li>Tier 1 – Your alternate form must be the same as your normal size.</li>
-    <li>Tier 2 – Your alternate form can be one size different from your normal size</li>
-    <li>Tier 3 – Your alternate form can be any size. In addition, you are able to use magical attacks (dragon’s breath, nymph’s charm, etc.) of your chosen form. When making magical attacks you substitute you ALTERATION score for the attribute that the creature would normally use for any magical abilities.</li>
+    <li>Tier 1 – Your alternate form must be the same size as your normal form.</li>
+    <li>Tier 2 – Your alternate form can be one size different from your normal size.</li>
+    <li>Tier 3 – Your alternate form can be any size. In addition, you are able to use supernatural attacks and abilities (dragon’s breath, nymph’s charm, etc.) of your chosen form. Use your Alteration score for action rolls relating to these supernatural abilities.</li>
     </ul>
 - !
   name: Area Manipulation (I - V)
@@ -37,9 +39,9 @@
   cost:
   - 1
   description: |
-    You have special training in area attacks that allows you to shape the effect, not causing harm to selected areas.
+    You are exceptionally precise when making area attacks, allowing you to avoid allies who would otherwise be caught in the line of fire.
   effect: |
-    For each tier of this feat you possess, you can omit a single square in an area attack from effects, allowing you to cast spells in an area occupied by allies without causing them harm.
+    For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.
 - !
   name: Armor Mastery (I - III)
   prerequisite:
@@ -49,13 +51,13 @@
   cost:
   - 2
   description: |
-    You are specially trained in the wearing of a particular armor type, making it more effective for you and also less taxing.
+    You are specially trained with particular armor type, allowing you to maximize its protection and minimize its drawbacks.
   effect: |
     Choose an armor type to specialize in. Your training allows you to sleep in that armor type without becoming fatigued. In addition, while wearing armor of that type, you gain the following benefits.
     <ul>
-    <li>Tier 1 - The Fortitude prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1</li>
-    <li>Tier 2 - The Fortitude prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. If the armor normally incurs a move penalty, that penalty is reduced by 1.</li>
-    <li>Tier 3 - The Fortitude prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3.If the armor normally incurs a move penalty, that penalty is reduced by 2.</li>
+    <li>Tier 1 - The Fortitude prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
+    <li>Tier 2 - The Fortitude prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
+    <li>Tier 3 - The Fortitude prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3. Any movement penalty is reduced by 10 feet.</li>
     </ul>
 - !
   name: Attack Redirection
@@ -66,9 +68,9 @@
   cost:
   - 3
   description: |
-    You are adept at setting up an attack to redirect or miss and hit an enemy
+    You are adept at redirecting your enemy's attacks. Whether using fancy footwork, magical force, or tactical superiority, you can use your opponents' attacks against themselves.
   effect: |
-    When you make a Defense action and your roll exceeds the target's attack roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker)
+    When you make a Defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
 - !
   name: Attack Specialization (I - IX)
   prerequisite:
@@ -81,29 +83,29 @@
   cost:
   - 3
   description: |
-    You have spent an extraordinary amount of time training with with a particular weapon or energy type, enabling you deal out more devastation with that weapon than is possible for the average wielder.
+    You are so well trained with a particular form of attack that you can devastate foes with much more skill than the average combatant.
   effect: |
-    When you take this feat, select one weapon or energy type. You gain ADVANTAGE 1 per tier of this feat for any damaging attack made with your choice; this bonus does not apply to bane attacks.
-    Energy Types you can choose from include fire, cold, lightning, acid, poison, and force.
-    <strong>Special</strong>: You may take this feat multiple times, for the same weapon, your total advantage to attacks with the weapon is equal to how many times you’ve purchased the feat for that particular weapon.  You can also specialize in different weapons by purchasing the feat again.
+    When you take this feat, select one weapon or energy type. You gain Advantage 1 per tier of this feat for any <emphasis>damaging</emphasis> attack made with your choice. This bonus does not apply to bane attacks or boon invocations.
+    Examples of energy types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
+    <strong>Special</strong>: You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
 - !
   name: Attribute Substitution
   prerequisite:
-  - Attribute Score of 4 in Primary
+  - Attribute Score of 4 in Primary Attribute (see description)
   tags:
   - Any Attribute
   cost:
   - 4
   description: |
-    Your prowess in one attribute empowers you in ways that it normally would not.  A good example would be a martial artist with no physical strength, but capable of using internal “chi” power to throw and disable enemies is one example of this feat at work. Or an anatomical genius who does damage by applying his knowledge via a high Learning attribute for attacks
+    Your prowess in a supernatural, mental, or social attribute empowers a physical aspect of your character, allowing you to use that attribute for tasks normally reserved for another attribute.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, as well as an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity.
   effect: |
-    When you purchase this feat, you create a permanent link between two attributes; one stronger (primary) and one weaker (dependent). Your attribute rolls with the dependent attribute can make attack rolls, and invoke banes / boons of the dependent attribute with the score of the primary attribute. This relationship is subject to case-by-case approval by the GM; it must be logical, and the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful.  Some example uses include an “Analytical Warrior” or martial artist who analyzes angles, leverage, and physics, substituting Logic => Might, or “Holy Warrior” that draws on divine power in place of physical power, substituting Presence => Might.
+    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). When making action rolls with the dependent attribute, you may use your score in the primary attribute for damaging attacks, bane attacks, boon invocations, and other actions at the GM's discretion. This relationship is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a Holy Warrior that draws on divine power in place of physical power to substitute Presence for Might.
     For the purpose of meeting attribute prerequisites when purchasing feats, your dependent attribute is considered equal to that of your primary attribute score.
-    <strong>Special</strong>: This feat can only be purchased at 1st level, and therefore can never be purchased more than once by a given character. In addition, the primary attribute must be either Social, Mental, or Supernatural, while the substituted attribute must be Physical.
+    <strong>Special</strong>: This feat can only be purchased once and only at 1st level. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
 - !
   name: Bane Focus
   prerequisite:
-  -  Ability to invoke the bane
+  -  Ability to invoke the chosen bane
   tags:
   - Might
   - Passive
@@ -112,15 +114,17 @@
   cost:
   - 3
   description: |
-    You are specialized in the use a particular bane that is iconic to your character.
+    You are specialized in the use of a particular bane that is iconic to your character.
   effect: |
-    Choose a bane when you take this feat. Any time you inflict 5 or more points of damage on a target, you can trigger the chosen bane. Without this feat, an attack must deal 10 or more points of damage to trigger a bane. Each attack is still only capable of inflicting a single bane.
+    Choose a bane that you can invoke. When making a damaging attack, you can inflict this bane for free when you deal at least 5 points of damage (as opposed to the usual 10). Each attack is still only capable of inflicting a single bane.
 - !
   name: Battlefield Defender
   prerequisite:
-  - Might 4
+  - Might 4 OR Agility 4 OR Abjuration 4
   tags:
   - Might
+  - Agility
+  - Abjuration
   - Passive
   - Combat
   cost:
@@ -128,7 +132,7 @@
   description: |
     Your prowess on the battlefield allows you to punish your enemies for every misplaced step.
   effect: |
-    By default, a Defend interrupt action can only be used to prevent an incoming attack.  With this feat, if your action roll for a Defend interrupt action exceeds the attack roll, you deal damage equal to the amount by which your roll was higher.
+    When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
 - !
   name: Battlefield Punisher - Knockdown
   prerequisite:
@@ -142,9 +146,9 @@
   cost:
   - 3
   description: |
-    Not only are your battle reflexes uncanny, but you can deal knockdown blows with your opportunity attacks.
+    Not only are your battle reflexes uncanny, but you can deal knockdown blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Knockdown bane. If the attack hits, the remainder of the target's movement is cancelled.
+    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Knockdown bane. If the attack hits, the remainder of the target's movement is cancelled until the start of its next turn.
 - !
   name: Battlefield Punisher - Slowed
   prerequisite:
@@ -152,15 +156,16 @@
   - Might 5 OR Agility 5
   tags:
   - Might
+  - Agility
   - Passive
   - Combat
   - Feat Chain
   cost:
   - 3
   description: |
-    Not only are your battle reflexes uncanny, but you can deal slowing blows with your opportunity attacks.
+    Not only are your battle reflexes uncanny, but you can deal slowing blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane.  If the attack hits and the target has already moved more than 2 squares, the remainder of their movement is cancelled.
+    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane.  If the attack hits and the target has already moved more than 2 squares, the remainder of their movement is cancelled until the start of their next turn.
 - !
   name: Battlefield Punisher - Stunned
   prerequisite:
@@ -175,9 +180,9 @@
   cost:
   - 3
   description: |
-    Not only are your battle reflexes uncanny, but you can deal stunning blows with your opportunity attacks.
+    Not only are your battle reflexes uncanny, but you can deal stunning blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Stunned bane. If the target has taken any action prior to this attack, any remaining actions are cancelled by the Stunned bane.
+    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Stunned bane. If the target has taken any action prior to this attack, any remaining actions are cancelled by the Stunned bane until the start of the target's next turn.
 - !
   name: Battlefield Sentinel (I - V)
   prerequisite:
@@ -190,11 +195,11 @@
   - Combat
   - Feat Chain
   cost:
-  - 3
+  - 2
   description: |
-    Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat
+    Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat.
   effect: |
-    Normally, an Opportunity Attack is a special minor action that can be taken once per round. When you purchase this feat, you are able to make an additional Opportunity Attack for each tier of this feat you purchase.
+    You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened square).
 - !
   name: Berserker
   prerequisite:
@@ -203,9 +208,9 @@
   cost:
   - 3
   description: |
-    You can enter a rage-induced trance-like state where you transcend fear and pain and are strengthened by adrenaline
+    You can enter a rage-induced, trance-like state in which your body is strengthened and your mind transcends fear and pain.
   effect: |
-    You can fly into a rage via a surge of adrenaline. This rage is the result of incredible focus and a heightened trance-like state that sharpens your focus and helps you transcend fear and pain. Entering the rage is a free action that you can take only on your turn. While raging, you have Advantage 1 on all attacks.  If you are not wearing armor, all of your defense scores are increased by 5. The rage is dependent upon a sense of momentum; when that momentum is disrupted, the rage ends. If you go three consecutive rounds without making an attack roll, the rage ends. When the rage ends, you automatically suffer <a href="/banes/fatigued">1 level of fatigue</a>.
+    As a free action on your turn, you may enter a rage. While raging, you have advantage 1 on all attacks. Additionally, if you are not wearing armor, all of your defense scores are increased by 5. If you take three consecutive turns without making an attack roll against a creature, the rage ends. When the rage ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
   name: Boon Access
   prerequisite:
@@ -225,11 +230,12 @@
   description: |
     You have a special gift: it might be the result of your heritage, a close encounter with magical energy, or the result of years of training with a master. In any case, although you do not necessarily possess the aptitude to work supernatural powers for yourself or create a desired effect with your physical capabilities alone, you are able to reliably replicate a single boon.
   effect: |
-    This feat replaces an attribute for the purposes of using a single boon. It can be taken multiple times, each for a different boon. Each time you take this feat, you must pay a feat point cost equal to the Power Level of the boon. This feat bypasses the normal attribute score restrictions by character level, so a first level character can spend all 6 of their feat points to begin play with access to a Power Level 6 boon. For other feats that have this boon as a prerequisite, your attribute score is considered the same as the Power Level of the boon.
+    When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the Power Level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the Power Level of the boon. Additonally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the Power Level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a Power Level 6 boon.
+    You may acquire this feat multiple times. Each time, select a new boon.
 - !
   name: Boon Focus (I - III)
   prerequisite:
-  - Ablility to invoke the boon
+  - Ablility to invoke the chosen boon
   tags:
   - Supernatural
   - Passive
@@ -237,15 +243,15 @@
   cost:
   - 3
   description: |
-    You are specialized in the use a particular boon that is iconic to your character's portfolio of abilities.
+    You are specialized in the use a particular boon that is iconic to your character.
   effect: |
     <ul>
-    <li>Tier 1 - Normally, activation of a boon requires an action roll to invoke.  The boon focus makes all attempts to invoke the selected boon succeed automatically. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke it.</li>
-    <li>Tier 2  - Invoking the boon is one time increment faster.  If invoking the boon is a normal action, it becomes a minor action.  If invocation time is 1 minute, it becomes 1 normal action.  If invocation time is 10 minutes, it becomes 1 minute.  If invocation time is 1 hour, it becomes 10 minutes.  If invocation is 8 hours, it becomes 1 hour. If the invocation has multiple targets, success is not automatic, but you get advantage 3 on the action roll to invoke it.</li>
-    <li>Tier 3 - This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If you invoke this boon with multiple targets, success is not automatic, but you get advantage 4 on the action roll to invoke it. </li>
+    <li>Tier 1 - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
+    <li>Tier 2  - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, invoking the boon is one time increment faster.  If the invocation time is a normal action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 normal action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
+    <li>Tier 3 - When your invocation includes multiple targets, you gain advantage 4 on your action rolll to invoke the boon. Additionally, the chosen boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it returns automatically at the start of your next turn.</li>
     </ul>
 - !
-  name: Breakfall (I - III)
+  name: Breakfall (I - IX)
   prerequisite:
   - Agility 4
   tags:
@@ -254,12 +260,7 @@
   description: |
     Your agility enables you to fall from deadly heights unharmed.
   effect: |
-    Any falling damage (normally 1d10 damage per 10 foot drop) you would suffer is mitigated or negated entirely as follows:
-    <ul>
-    <li>Tier 1: 10 ft</li>
-    <li>Tier 2: 20 ft</li>
-    <li>Tier 3: 30 ft</li>
-    </ul>
+    When calculating falling damage, reduce the falling distance by 10 feet per tier of this feat that you possess. Once you reach tier 9, you can fall any distance without taking damage.
 - !
   name: Brutal Intimidation
   prerequisite:
@@ -282,10 +283,10 @@
   cost:
   - 2
   description: |
-    You are able to decimate many enemies in quick succession, examples include legendary Samurai in Japanese feudal mythology and archers able to achieve a rhythm of killing one foe after another.
+    You are able to decimate many enemies in quick succession, like a legendary Samurai warrior or matchless elven archer.
   effect: |
     Any time you reduce a foe to zero hit points or less, you can immediately make an extra attack as a free action. <br />
-    <strong>Requirement</strong> - the triggering attack must be a Might or Agility action roll.
+    <strong>Requirement</strong> - The triggering attack must be a Might or Agility action roll.
 - !
   name: Combat Momentum
   prerequisite:
@@ -295,9 +296,9 @@
   cost:
   - 1
   description: |
-    Whether through your raw power or through your quick reflexes, you are able to carry momentum through one enemy and into another.
+    Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.
   effect: |
-    Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move a number of squares equal to your normal movement as a free action. <br />
+    Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action. <br />
     <strong>Special</strong>: If you meet the Movement 4 prerequisite, you can use the Teleport boon instead of a normal move.
 - !
   name: Combat Opportunist (I - IX)
@@ -307,7 +308,7 @@
   cost:
   - 2
   description: |
-    You have mastered the art of bluffing and feinting in combat, allowing you to deal devastating attacks if your enemies guard is lowered.
+    You have mastered the art of bluffing and feinting in combat, allowing you to deal devastating attacks if your enemy's guard is lowered.
   effect: |
     Any time you have tactical advantage against an opponent, you gain Advantage 1 for each tier of this feat you’ve purchased.
 - !
@@ -321,7 +322,7 @@
   description: |
     Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
   effect: |
-    You gain a companion character that acts independent from you but is controlled by the same player. The companion has one attribute at each potential score and a maximum attribute score equal to your level or 5 (whichever is higher) minus 2. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons. So, if you're 1st level, the maximum ability score of your companion is 3, and you get three attributes with scores in them: an attribute 3, an attribute 2, and an attribute 1.
+    You gain a companion character that acts indepently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. The companion has one attribute at each potential score and a maximum attribute score equal to your level or 5 (whichever is higher) minus 2. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons. So, if you're 1st level, the maximum ability score of your companion is 3, and you get three attributes with scores in them: an attribute 3, an attribute 2, and an attribute 1.
     <ul>
     <li><strong>Tier 1</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 2.</li>
     <li><strong>Tier 2</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 1.</li>
