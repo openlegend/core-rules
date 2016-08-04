@@ -22,7 +22,7 @@
     Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
     You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a normal action. When you assume your new form, you gain a pool of points equal to your Alteration score, which you may immediately spend to temporarily increase your physical attributes. You cannot raise any physical attribute to be greater than your Alteration score, unless the physical attribute is already equal to your Alteration. In that case, you may increase it by a maximum of one point. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural abilities of the chosen form.
-    
+
     You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a normal action. Upon returning to your original form, your physical attributes return to their previous values.
     <ul>
     <li>Tier 1 – Your alternate form must be the same size as your normal form.</li>
@@ -300,17 +300,6 @@
   effect: |
     Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action. <br />
     <strong>Special</strong>: If you meet the Movement 4 prerequisite, you can use the Teleport boon instead of a normal move.
-- !
-  name: Combat Opportunist (I - IX)
-  prerequisite:
-  - Deception 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
-  tags:
-  cost:
-  - 2
-  description: |
-    You have mastered the art of bluffing and feinting in combat, allowing you to deal devastating attacks if your enemy's guard is lowered.
-  effect: |
-    Any time you have tactical advantage against an opponent, you gain Advantage 1 for each tier of this feat you’ve purchased.
 - !
   name: Companion (I - III)
   prerequisite:
@@ -719,15 +708,15 @@
     </ul>
     If one of the above conditions is met, you can deliver a lethal strike, which deals LETHAL damage in addition to any other damage types associated with the attack. This additional damage is only added if the attack roll total is equal to or greater than the target’s defense.
     <ul>
-    <li><strong>Tier 1</strong> - d4</li>
-    <li><strong>Tier 2</strong> - d6</li>
-    <li><strong>Tier 3</strong> - d8</li>
-    <li><strong>Tier 4</strong> - d10</li>
-    <li><strong>Tier 5</strong> - 2d6</li>
-    <li><strong>Tier 6</strong> - 2d8</li>
-    <li><strong>Tier 7</strong> - 2d10</li>
-    <li><strong>Tier 8</strong> - 3d8</li>
-    <li><strong>Tier 9</strong> - 3d10</li>
+    <li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage</li>
+    <li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage</li>
+    <li><strong>Tier 3</strong> - Advantage 3. Up to 10 lethal damage</li>
+    <li><strong>Tier 4</strong> - Advantage 4. Up to 10 lethal damage</li>
+    <li><strong>Tier 5</strong> - Advantage 5. Up to 15 lethal damage</li>
+    <li><strong>Tier 6</strong> - Advantage 6. Up to 20 lethal damage</li>
+    <li><strong>Tier 7</strong> - Advantage 7. Up to 20 lethal damage</li>
+    <li><strong>Tier 8</strong> - Advantage 8. Up to 25 lethal damage</li>
+    <li><strong>Tier 9</strong> - Advantage 9. Up to 25 lethal damage</li>
     </ul>
 - !
   name: Lightning Reflexes (I - V)
