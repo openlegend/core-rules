@@ -45,7 +45,7 @@ This is your story. Tell it.
 
 *Open Legend* is a game designed for players who want enough rules to make a game fair, but not so many that the rules interfere with the fun or imagination. *Open Legend* provides a way to make sure that the game is balanced while adjusting the story of character abilities on the fly. The rules should be robust, but their only value is in telling a story
 
-Altering a spell that does lightning damage and stuns it’s victims to do cold damage and slow them takes no extra effort in Open Legend, due to it's streamlined system for secondary effects (banes) and multi-target attacks. These mechanics are the same for all characters (even those without supernatural abilities), regardless of their unique story, but the description of how it looks varies wildly.
+Altering a spell that does lightning damage and stuns it’s victims to do cold damage and slow them takes no extra effort in *Open Legend*, due to it's streamlined system for secondary effects (banes) and multi-target attacks. These mechanics are the same for all characters (even those without supernatural abilities), regardless of their unique story, but the description of how it looks varies wildly.
 
 As storytellers, we love intricate plotlines that feature characters of depth and beauty. But as gamers, we also love rolling dice. If all we wanted to do with our friends was tell stories, we would write a novel together or join an improv theater group.
 
