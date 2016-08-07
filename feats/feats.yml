@@ -440,12 +440,13 @@
   - Might 7
   tags:
   - Supernatural
+  - Might
   cost:
   - 3
   description: |
     Your rage not only puts you into a fearless trance, but enables you to strike down your enemies with ferocious blows.
   effect: |
-    While you are raging, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4’s explode on a 3 or 4, d6’s explode on a 5 or 6, d8’s explode on a 7 or 8, and so on.
+    While you are raging, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
 - !
   name: Defensive Reflexes (I - X)
   prerequisite:
