@@ -508,12 +508,13 @@
   prerequisite:
   - Agility 4
   tags:
+  - Agility
   cost:
   - 2
   description: |
-    You are able to dodge and weave in combat, deftly sidestepping attacks that would target a clumsier combatant
+    You are able to dodge and weave in combat, deftly sidestepping attacks that would strike a clumsier combatant.
   effect: |
-    When you move from a square adjacent to an enemy to another square not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+    When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 - !
   name: Fast Tracker
   prerequisite:
