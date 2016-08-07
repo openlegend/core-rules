@@ -452,14 +452,14 @@
   prerequisite:
   - Agility 3
   tags:
-  - No Prerequisite
+  - Agility
   - Supernatural
   cost:
   - 2
   description: |
     You are a master of defense, able to predict exactly where your opponent will strike and thwart their attack.
   effect: |
-    Any interrupt action you take to Counterspell, Deflect, or Defend receives advantage 1 on the action roll per tier you posess of this feat.
+    Any time you use the Defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
 - !
   name: Disease Immunity
   prerequisite:
