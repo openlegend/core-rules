@@ -522,10 +522,12 @@
   - Perception 5
   tags:
   - Supernatural
+  - Agility
+  - Perception
   cost:
   - 2
   description: |
-    Your tracking expertise is so great that you can move at a normal pace and still follow a trail
+    Your tracking expertise is so great that you can move at a normal pace and still follow a trail.
   effect: |
     You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred at the GM's discretion.
 - !
@@ -534,12 +536,13 @@
   - Enchantment 3 / 5 / 7
   tags:
   - Supernatural
+  - Enchantment
   cost:
   - 2
   description: |
     Creatures that you’ve magically compelled become even stronger when fighting in your defense or under your command.
   effect: |
-    Creatures under the effects of your Charmed or Dominated bane gain Advantage 1 on all attack rolls to defend or help you for each tier of this feat you possess.
+    Creatures under the effects of your Charmed or Dominated bane gain advantage 1 on all attack rolls to defend or help you for each tier of this feat you possess.
 - !
   name: Fleet of Foot (I – III)
   prerequisite:
