@@ -470,7 +470,7 @@
   cost:
   - 1
   description: |
-    Your inherent magical protection extends to make you immune to disease
+    Your inherent magical protection extends to make you immune to disease.
   effect: |
     You are immune to natural disease. This protection does not guard against magical curses such as lyncanthropy.
 - !
@@ -482,13 +482,13 @@
   cost:
   - 3
   description: |
-    Your specialization in a particular type of energy or general protection causes you to be resistant to that type of energy
+    Your specialization in a particular type of energy or general protection causes you to be resistant to that type of energy.
   effect: |
     Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion).  When you are attacked with that energy type, you gain resistance to the attack as follows:
       <ul>
-      <li><strong>Tier 1</strong> - Prevent the first 5 damage you would suffer each round from the chosen energy type. </li>
-      <li><strong>Tier 2</strong> -All damage you would suffer from the chosen type is halved.</li>
-      <li><strong>Tier 3</strong> - You are immune to the chosen energy type</li>
+      <li><strong>Tier 1</strong> - Your defense scores are increased by 5 against the chosen attack type. </li>
+      <li><strong>Tier 2</strong> - Your defense scores are increased by 5 against the chosen attack type.</li>
+      <li><strong>Tier 3</strong> - You are immune to damage from the chosen attack type.</li>
       </ul>
 - !
   name: Entranced Berserker
