@@ -311,11 +311,11 @@
   description: |
     Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
   effect: |
-    You gain a companion character that acts indepently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. The companion has one attribute at each potential score and a maximum attribute score equal to your level or 5 (whichever is higher) minus 2. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons. So, if you're 1st level, the maximum ability score of your companion is 3, and you get three attributes with scores in them: an attribute 3, an attribute 2, and an attribute 1.
+    You gain a companion character that acts indepently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons.
     <ul>
-    <li><strong>Tier 1</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 2.</li>
-    <li><strong>Tier 2</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 1.</li>
-    <li><strong>Tier 3</strong> - Companion's maximum attribute is your level or 5 (whichever is higher).</li>
+    <li><strong>Tier 1</strong> - Your companion's highest attribute equals your level minus 2 (minimum of 3).</li>
+    <li><strong>Tier 2</strong> - Your companion's highest attribute equals your level minus 1 (minimum of 4).</li>
+    <li><strong>Tier 3</strong> - Your companion's highest attribute equals your level (minimum of 5).</li>
     </ul>
 - !
   name: Craft (I - III)
