@@ -413,7 +413,7 @@
   cost:
   - 3
   description: |
-    You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by assassin-types who can silently eliminate weaker enemies without being detected.
+    You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by assassins who can silently eliminate weaker enemies without being detected.
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by a melee or projectile attack from you.</li>
@@ -430,9 +430,9 @@
   cost:
   - 3
   description: |
-    Your battle fury is legendary, allowing you to fight on long after your body should give up.
+    Your battle fury is legendary, allowing you to fight on long after your body should have given up.
   effect: |
-    While you are raging you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the rage. When the rage ends, if your hit points are below zero, you collapse unconscious.  If you are not healed within 1 round, you die.
+    While you are raging you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the rage. When the rage ends, if your hit points are below zero, you collapse unconscious.  If you are not healed to zero or more hit points within 1 round of your rage ending, you die.
 - !
   name: Destructive Berserker
   prerequisite:
