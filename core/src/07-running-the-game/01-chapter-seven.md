@@ -318,9 +318,9 @@ The simple build option is useful when you need to come up with statistics on th
 
 | Party Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | 10 - 22 | 10 - 16 | 4 | 3 |
-| 2 | 12 - 24 | 11 - 17 | 5 | 3 |
-| 3 | 14 - 26 | 12 - 18 | 5 | 4 |
+| 1 | 10 - 22 | 10 - 18 | 4 | 3 |
+| 2 | 12 - 24 | 11 - 18 | 5 | 3 |
+| 3 | 14 - 26 | 12 - 19 | 5 | 4 |
 | 4 | 16 - 28 | 13 - 19 | 6 | 4 |
 | 5 | 18 - 30 | 14 - 20 | 6 | 5 |
 | 6 | 20 - 32 | 15 - 21 | 7 | 5 |
