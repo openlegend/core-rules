@@ -500,9 +500,9 @@
   cost:
   - 3
   description: |
-    While in a rage, you are able to shrug off mind-influencing impediments.
+    In the heat of combat, your will becomes indomitable.
   effect: |
-    While you are raging, certain banes that would otherwise affect you are suspended until you are no longer raging.  Banes suspended by this feat include: charmed, demoralized, dominated, incapacitated, intimidated, memory wipe, stupefied, truthfulness, and immobile (if invoked via Enchantment attribute).
+    While you are raging, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your rage and returns when your rage ends.
 - !
   name: Evasive Footwork
   prerequisite:
