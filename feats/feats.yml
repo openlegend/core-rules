@@ -546,15 +546,18 @@
 - !
   name: Fleet of Foot (I – III)
   prerequisite:
-  - Agility 4 / 5 / 7 OR (Su) Movement 2 / 4 / 6 OR Fortitude 4 / 5 / 7 - OR
+  - Agility 4 / 5 / 7 OR Movement 2 / 4 / 6 OR Fortitude 4 / 5 / 7
   tags:
   - Supernatural
+  - Agility
+  - Movement
+  - Fortitude
   cost:
   - 2
   description: |
-    A character with this power moves with extraordinary speed either due to agility or supernatural augmentation to their movement.
+    Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than the average joe.
   effect: |
-    Your speed is permanently increased by 1.<br />
+    Your speed is permanently increased by 5' per tier of this feat.<br />
 - !
   name: Great Leap (I – III)
   prerequisite:
