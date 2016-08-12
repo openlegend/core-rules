@@ -561,23 +561,20 @@
 - !
   name: Great Leap (I – III)
   prerequisite:
-  - Movement OR Agility 2 / 4 / 6
+  - Movement 2 / 4 / 6 OR Agility 2 / 4 / 6
   tags:
   - Supernatural
   - Physical
   - Combat
   - Non-Combat
+  - Movement
+  - Agility
   cost:
   - 1
   description: |
-    You are able to jump farther than what seems possible through agility or supernatural power
+    Through supernatural power or exceptional agility, you can jump exceptionally far.
   effect: |
-    You can use your Movement, or Agility score instead of your Might score when determining how far you can jump. In addition, this power allows you to exceed the usual 5 square maximum for jumping distance by 1 per tier and grants Advantage on action rolls to jump:
-    <ul>
-    <li><strong>Tier 1</strong> - Maximum 6 square leap and Advantage 1 on jump action rolls</li>
-    <li><strong>Tier 2</strong> - Maximum 7 square leap and Advantage 2 on jump action rolls</li>
-    <li><strong>Tier 3</strong> - Maximum 8 square leap and Advantage 1 on jump action rolls</li>
-    </ul>
+    You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
 - !
   name: Fast Draw
   prerequisite:
