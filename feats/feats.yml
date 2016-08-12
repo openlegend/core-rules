@@ -318,7 +318,7 @@
     <li><strong>Tier 3</strong> - Your companion's highest attribute equals your level (minimum of 5).</li>
     </ul>
 - !
-  name: Craft (I - III)
+  name: Craft (I - II)
   prerequisite:
   - Knowledge I (feat) OR Learning 3
   tags:
@@ -326,25 +326,25 @@
   cost:
   - 2
   description: |
-    You have mastered a particular craft and can produce items that are used or sold in that craft.
+    You have mastered a particular craft, and given proper time and materials, you can create items related to that craft.
   effect: |
-    Choose a craft from the list below or create a new one with the help of your GM. You can craft items that fall within the domain of your chosen craft (a few examples are included below). This feat enables you to automatically craft items given time and materials. Depending on which tier of the feat you possess, you can are able to craft more in a given day. The GM should feel free to expand or improvise or modify the following list.<br />
-    <strong>Craft Examples</strong>
+    Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 4), crafting does not limit your ability to acquire additional goods.<br />
     <ul>
-    <li>Alchemy - Acid, chemicals, non-magical tinctures, incense, reagents, etc.</li>
-    <li>Arcane - Magical ingredients, inks, scrolls, exotic components, etc.</li>
-    <li>Blacksmithing - Metal, leather, weapons, armor, wheels, horseshoes, etc.</li>
-    <li>Engineering - Machines, wheels, gears, guns, vehicles, etc.</li>
-    <li>Geography - Maps, Cartography, Instruments of Navigation, etc.</li>
-    <li>Medicine - Medical tools, tonics, tinctures, pain relievers, anti-toxins, etc.</li>
-    <li>Herbalism - Poultices, natural remedies, stimulants, brewing, etc.</li>
+    <li><strong>Tier 1</strong> - You can craft items equal to your wealth level.</li>
+    <li><strong>Tier 2</strong> - You can craft items equal to your wealth level + 1.</li>
     </ul>
-    <strong>Feat tiers</strong>
+    <strong>Craft Examples</strong> (This list is not exhaustive, and you can work with your GM to come up with other suitable crafts).
     <ul>
-    <li>Tier 1 - In a single day, with 8hrs of work, you can craft 5 GP worth of items</li>
-    <li>Tier 2 - In a single day, with 8hrs of work, you can craft 10 GP worth of items</li>
-    <li>Tier 3 - In a single day, with 8hrs of work, you can craft 50 GP worth of items</li>
+    <li>Alchemy - acid, chemicals, non-magical tinctures, incense, reagents</li>
+    <li>Arcane - magical ingredients, inks, scrolls, exotic components</li>
+    <li>Blacksmithing - Metal, leather, weapons, armor, wheels, horseshoes</li>
+    <li>Chemistry - acid, explosives, narcotics</li>
+    <li>Engineering - machines, wheels, gears, guns, vehicles</li>
+    <li>Geography - maps, cartography, instruments of navigation</li>
+    <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins</li>
+    <li>Herbalism - poultices, natural remedies, stimulants, brewing</li>
     </ul>
+    
 - !
   name: Craft Beneficial or Baleful Item (I - IV)
   prerequisite:
