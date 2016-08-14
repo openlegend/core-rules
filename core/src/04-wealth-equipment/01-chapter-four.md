@@ -140,7 +140,7 @@ The **Heavy** column specifies whether or not the armor has the *heavy* property
 
 **Defense Bonus** indicates the bonus that your character gains to both his evasion and toughness defenses.
 
-**Move Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
+**Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
 Donning and removing armor takes a number of minutes equal to the total armor bonus. Sleeping in armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of fatigue, which applies disadvantage 1 to all action rolls until he gets a proper night’s rest.
 
@@ -149,7 +149,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 | - |
 | |
 
-| Armor | Wealth Level | Required Fortitude | Heavy | Defense Bonus | Move Penalty |
+| Armor | Wealth Level | Required Fortitude | Heavy | Defense Bonus | Speed Penalty |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Small Shield^ | 1 | 1 | no | 1 | 0 |
 | Large Shield^ | 1 | 3 | yes | 2 | 0 |
