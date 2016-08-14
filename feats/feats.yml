@@ -17,7 +17,7 @@
   tags:
   - Supernatural
   cost:
-  - 2
+  - 3
   description: |
     Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
@@ -311,14 +311,14 @@
   description: |
     Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
   effect: |
-    You gain a companion character that acts indepently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. The companion has one attribute at each potential score and a maximum attribute score equal to your level or 5 (whichever is higher) minus 2. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons. So, if you're 1st level, the maximum ability score of your companion is 3, and you get three attributes with scores in them: an attribute 3, an attribute 2, and an attribute 1.
+    You gain a companion character that acts indepently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons.
     <ul>
-    <li><strong>Tier 1</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 2.</li>
-    <li><strong>Tier 2</strong> - Companion's maximum attribute is your level or 5 (whichever is higher) minus 1.</li>
-    <li><strong>Tier 3</strong> - Companion's maximum attribute is your level or 5 (whichever is higher).</li>
+    <li><strong>Tier 1</strong> - Your companion's highest attribute equals your level minus 2 (minimum of 3).</li>
+    <li><strong>Tier 2</strong> - Your companion's highest attribute equals your level minus 1 (minimum of 4).</li>
+    <li><strong>Tier 3</strong> - Your companion's highest attribute equals your level (minimum of 5).</li>
     </ul>
 - !
-  name: Craft (I - III)
+  name: Craft (I - II)
   prerequisite:
   - Knowledge I (feat) OR Learning 3
   tags:
@@ -326,25 +326,25 @@
   cost:
   - 2
   description: |
-    You have mastered a particular craft and can produce items that are used or sold in that craft.
+    You have mastered a particular craft, and given proper time and materials, you can create items related to that craft.
   effect: |
-    Choose a craft from the list below or create a new one with the help of your GM. You can craft items that fall within the domain of your chosen craft (a few examples are included below). This feat enables you to automatically craft items given time and materials. Depending on which tier of the feat you possess, you can are able to craft more in a given day. The GM should feel free to expand or improvise or modify the following list.<br />
-    <strong>Craft Examples</strong>
+    Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 4), crafting does not limit your ability to acquire additional goods.<br />
     <ul>
-    <li>Alchemy - Acid, chemicals, non-magical tinctures, incense, reagents, etc.</li>
-    <li>Arcane - Magical ingredients, inks, scrolls, exotic components, etc.</li>
-    <li>Blacksmithing - Metal, leather, weapons, armor, wheels, horseshoes, etc.</li>
-    <li>Engineering - Machines, wheels, gears, guns, vehicles, etc.</li>
-    <li>Geography - Maps, Cartography, Instruments of Navigation, etc.</li>
-    <li>Medicine - Medical tools, tonics, tinctures, pain relievers, anti-toxins, etc.</li>
-    <li>Herbalism - Poultices, natural remedies, stimulants, brewing, etc.</li>
+    <li><strong>Tier 1</strong> - You can craft items equal to your wealth level.</li>
+    <li><strong>Tier 2</strong> - You can craft items equal to your wealth level + 1.</li>
     </ul>
-    <strong>Feat tiers</strong>
+    <strong>Craft Examples</strong> (This list is not exhaustive, and you can work with your GM to come up with other suitable crafts).
     <ul>
-    <li>Tier 1 - In a single day, with 8hrs of work, you can craft 5 GP worth of items</li>
-    <li>Tier 2 - In a single day, with 8hrs of work, you can craft 10 GP worth of items</li>
-    <li>Tier 3 - In a single day, with 8hrs of work, you can craft 50 GP worth of items</li>
+    <li>Alchemy - acid, chemicals, non-magical tinctures, incense, reagents</li>
+    <li>Arcane - magical ingredients, inks, scrolls, exotic components</li>
+    <li>Blacksmithing - Metal, leather, weapons, armor, wheels, horseshoes</li>
+    <li>Chemistry - acid, explosives, narcotics</li>
+    <li>Engineering - machines, wheels, gears, guns, vehicles</li>
+    <li>Geography - maps, cartography, instruments of navigation</li>
+    <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins</li>
+    <li>Herbalism - poultices, natural remedies, stimulants, brewing</li>
     </ul>
+    
 - !
   name: Craft Beneficial or Baleful Item (I - IV)
   prerequisite:
@@ -355,35 +355,35 @@
   cost:
   - 3
   description: |
-    You are studied in the ways of imbuing magical items, potions, or building extraoridnary devices, traps, etc. Their power is permanent but varies depending on your skill.
+    You are studied in the ways of imbuing magical items, brewing potions, or building extraoridnary devices. Their power is permanent but varies depending on your skill.
   effect: |
-    This feat allows you to create items that can invoke a given bane or boon either autonomously or by a wielder.
+    This feat allows you to create items that can invoke a given bane or boon either autonomously or by way of a wielder.
     <ul>
-    <li><strong>Tier 1</strong> - You can create an item with this feat. Choose a target attribute score for the item, equal or less than 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3). <br />
-      Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the Heal boon, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concetrates on using it.  <br />
-      Creating an expendable item requires 1 full 8-hour day of uninterrupted work. Creating a permanent item, requires one such day of work per attribute point. <br />
-      At the end of this period, make an attribute roll with a prerequisite attribute. If you fail the roll, typically nothing bad happens, but you must begin the cycle again and spend the same amount of time to try again at creating the item. The created item has an attibute score less than or equal to the CR of your roll, no greater than two points less than the attribute you used in the roll to create. So, on a 16 you can create an item with an Attribute score 3 or less, if you have a score of 5 or greater for the prerequisite attribute used in item creation.
+    <li><strong>Tier 1</strong> - You can create an item with this feat. Choose a target attribute score for the item, less than or equal to 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3). <br />
+      Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the heal boon, for example, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concetrates on using it.  <br />
+      Creating an expendable item requires 1 full 8-hour day of uninterrupted work. Creating a permanent item, requires one such day of work per attribute score of the item. <br />
+      At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item.
       <br />
       Next, choose a bane or boon of power level less than or equal to the item's attribute score from the previous step. This item is forever linked to that particular bane or boon.
       <br />
-      An expendable item used to invoke a boon automatically succeeds at invocation. An expendable item used to invoke a bane gets Advantage 1 to it's attribute roll.<br />
+      An expendable item used to invoke a boon automatically succeeds at invocation. An expendable item used to invoke a bane grants advantage 1 to the attribute roll to invoke.<br />
       A permanent item can be invoked once per hour, after which it has to recharge before it can be used again. <br />
       The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
       <ul>
-      <li><strong>Any Supernatural Attribute</strong> - The item can only be imbued with a bane or boon that is accessible via the attribute used. </li>
-      <li><strong>Learning</strong> - You can imbue an item with only Physical attributes (Might, Agility) and the corresponding banes and boons.</li>
+      <li><strong>Any Supernatural Attribute</strong> - The item can only be imbued with a bane or boon that is accessible to the creator via the attribute used. </li>
+      <li><strong>Learning</strong> - You can imbue an item with only Physical attributes (Might, Agility, Fortitude) and the corresponding banes and boons.</li>
       <li><strong>Creation</strong> - Being capable of manifesting something from nothing via channeling otherworldly energy, you can imbue the item with any attribute, even if you do not have a score in that attribute.</li>
       </ul>
     </li>
     <li><strong>Tier 2</strong> - Following the same rules above, you gain the following additional benefits: <br />
       <ul>
       <li>The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.</li>
-      <li>For expendable items, bane attacks have Advantage 2 instead of Advnatage 1.</li>
-      <li>You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include: magically guided fireballs triggered when someone enters a given area, or a teleportation circle that activates when someone steps on a magical trigger. For those imbuing with non-magical means, this "autonomy" could be more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).</li>
-      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielders, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3.  A non-supernatural example could be ballistae on a large embattlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
+      <li>For expendable items, bane attacks have advantage 2 instead of advantage 1.</li>
+      <li>You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a teleportation circle that activates when someone steps on a magical trigger. For those imbuing with non-magical means, this autonomy could be more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).</li>
+      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3.  A non-supernatural example could be ballistae on a large embattlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
       </ul>
     </li>
-    <li><strong>Tier 3</strong> - You can imbue humanlike sentience into the item, it gains it's own personality, intelligence, this epic feat should be worked out closely with your GM, you should specify a blueprint for what the item's personality, mission, preferences, etc. will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.</li>
+    <li><strong>Tier 3</strong> - You can imbue humanlike sentience into the item, it gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.</li>
     </ul>
 - !
   name: Crushing Blow
@@ -394,12 +394,13 @@
   - Physical
   - Combat
   - Feat Chain
+  - Might
   cost:
   - 3
   description: |
     Your relentless blows not only knock your opponents back, but also knock them off their feet completely.
   effect: |
-    Any time that you deal damage to an enemy, in addition to pushing them 1 square (if you choose) from the Overpowering Strike feat, you can also knock them down in the square where the forced move ends; the target suffers the effects of the KNOCKDOWN bane.
+    Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the square where the forced move ends; the target suffers the effects of the knockdown bane.
 - !
   name: Death Blow (I – III)
   prerequisite:
@@ -412,7 +413,7 @@
   cost:
   - 3
   description: |
-    You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by assassin-types who can silently eliminate weaker enemies without being detected.
+    You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by assassins who can silently eliminate weaker enemies without being detected.
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by a melee or projectile attack from you.</li>
@@ -429,9 +430,9 @@
   cost:
   - 3
   description: |
-    Your battle fury is legendary, allowing you to fight on long after your body should give up.
+    Your battle fury is legendary, allowing you to fight on long after your body should have given up.
   effect: |
-    While you are raging you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the rage. When the rage ends, if your hit points are below zero, you collapse unconscious.  If you are not healed within 1 round, you die.
+    While you are raging you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the rage. When the rage ends, if your hit points are below zero, you collapse unconscious.  If you are not healed to zero or more hit points within 1 round of your rage ending, you die.
 - !
   name: Destructive Berserker
   prerequisite:
@@ -439,25 +440,26 @@
   - Might 7
   tags:
   - Supernatural
+  - Might
   cost:
   - 3
   description: |
     Your rage not only puts you into a fearless trance, but enables you to strike down your enemies with ferocious blows.
   effect: |
-    While you are raging, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4’s explode on a 3 or 4, d6’s explode on a 5 or 6, d8’s explode on a 7 or 8, and so on.
+    While you are raging, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
 - !
   name: Defensive Reflexes (I - X)
   prerequisite:
   - Agility 3
   tags:
-  - No Prerequisite
+  - Agility
   - Supernatural
   cost:
   - 2
   description: |
     You are a master of defense, able to predict exactly where your opponent will strike and thwart their attack.
   effect: |
-    Any interrupt action you take to Counterspell, Deflect, or Defend receives advantage 1 on the action roll per tier you posess of this feat.
+    Any time you use the Defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
 - !
   name: Disease Immunity
   prerequisite:
@@ -468,7 +470,7 @@
   cost:
   - 1
   description: |
-    Your inherent magical protection extends to make you immune to disease
+    Your inherent magical protection extends to make you immune to disease.
   effect: |
     You are immune to natural disease. This protection does not guard against magical curses such as lyncanthropy.
 - !
@@ -480,13 +482,13 @@
   cost:
   - 3
   description: |
-    Your specialization in a particular type of energy or general protection causes you to be resistant to that type of energy
+    Your specialization in a particular type of energy or general protection causes you to be resistant to that type of energy.
   effect: |
     Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion).  When you are attacked with that energy type, you gain resistance to the attack as follows:
       <ul>
-      <li><strong>Tier 1</strong> - Prevent the first 5 damage you would suffer each round from the chosen energy type. </li>
-      <li><strong>Tier 2</strong> -All damage you would suffer from the chosen type is halved.</li>
-      <li><strong>Tier 3</strong> - You are immune to the chosen energy type</li>
+      <li><strong>Tier 1</strong> - Your defense scores are increased by 5 against the chosen attack type. </li>
+      <li><strong>Tier 2</strong> - Your defense scores are increased by 5 against the chosen attack type.</li>
+      <li><strong>Tier 3</strong> - You are immune to damage from the chosen attack type.</li>
       </ul>
 - !
   name: Entranced Berserker
@@ -498,20 +500,21 @@
   cost:
   - 3
   description: |
-    While in a rage, you are able to shrug off mind-influencing impediments.
+    In the heat of combat, your will becomes indomitable.
   effect: |
-    While you are raging, certain banes that would otherwise affect you are suspended until you are no longer raging.  Banes suspended by this feat include: charmed, demoralized, dominated, incapacitated, intimidated, memory wipe, stupefied, truthfulness, and immobile (if invoked via Enchantment attribute).
+    While you are raging, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your rage and returns when your rage ends.
 - !
   name: Evasive Footwork
   prerequisite:
   - Agility 4
   tags:
+  - Agility
   cost:
   - 2
   description: |
-    You are able to dodge and weave in combat, deftly sidestepping attacks that would target a clumsier combatant
+    You are able to dodge and weave in combat, deftly sidestepping attacks that would strike a clumsier combatant.
   effect: |
-    When you move from a square adjacent to an enemy to another square not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+    When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 - !
   name: Fast Tracker
   prerequisite:
@@ -519,10 +522,12 @@
   - Perception 5
   tags:
   - Supernatural
+  - Agility
+  - Perception
   cost:
   - 2
   description: |
-    Your tracking expertise is so great that you can move at a normal pace and still follow a trail
+    Your tracking expertise is so great that you can move at a normal pace and still follow a trail.
   effect: |
     You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred at the GM's discretion.
 - !
@@ -531,56 +536,58 @@
   - Enchantment 3 / 5 / 7
   tags:
   - Supernatural
+  - Enchantment
   cost:
   - 2
   description: |
     Creatures that you’ve magically compelled become even stronger when fighting in your defense or under your command.
   effect: |
-    Creatures under the effects of your Charmed or Dominated bane gain Advantage 1 on all attack rolls to defend or help you for each tier of this feat you possess.
+    Creatures under the effects of your Charmed or Dominated bane gain advantage 1 on all attack rolls to defend or help you for each tier of this feat you possess.
 - !
   name: Fleet of Foot (I – III)
   prerequisite:
-  - Agility 4 / 5 / 7 OR (Su) Movement 2 / 4 / 6 OR Fortitude 4 / 5 / 7 - OR
+  - Agility 4 / 5 / 7 OR Movement 2 / 4 / 6 OR Fortitude 4 / 5 / 7
   tags:
   - Supernatural
+  - Agility
+  - Movement
+  - Fortitude
   cost:
   - 2
   description: |
-    A character with this power moves with extraordinary speed either due to agility or supernatural augmentation to their movement.
+    Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than the average joe.
   effect: |
-    Your speed is permanently increased by 1.<br />
+    Your speed is permanently increased by 5' per tier of this feat.<br />
 - !
   name: Great Leap (I – III)
   prerequisite:
-  - Movement OR Agility 2 / 4 / 6
+  - Movement 2 / 4 / 6 OR Agility 2 / 4 / 6
   tags:
   - Supernatural
   - Physical
   - Combat
   - Non-Combat
+  - Movement
+  - Agility
   cost:
   - 1
   description: |
-    You are able to jump farther than what seems possible through agility or supernatural power
+    Through supernatural power or exceptional agility, you can jump exceptionally far.
   effect: |
-    You can use your Movement, or Agility score instead of your Might score when determining how far you can jump. In addition, this power allows you to exceed the usual 5 square maximum for jumping distance by 1 per tier and grants Advantage on action rolls to jump:
-    <ul>
-    <li><strong>Tier 1</strong> - Maximum 6 square leap and Advantage 1 on jump action rolls</li>
-    <li><strong>Tier 2</strong> - Maximum 7 square leap and Advantage 2 on jump action rolls</li>
-    <li><strong>Tier 3</strong> - Maximum 8 square leap and Advantage 1 on jump action rolls</li>
-    </ul>
+    You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
 - !
   name: Fast Draw
   prerequisite:
-  - prereq 1
+  - Agility 1
   tags:
   - Combat
-  cost:
   - Agility
+  cost:
+  - 2
   description: |
-    You are adept at quickly sheathing and drawing weapons.
+    Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained space marine, you can get to your weapon faster than your opponent can blink.
   effect: |
-    Once per round, you can draw one additional weapon (of any size) and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
+    Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
 - !
   name: Hallucination
   prerequisite:
