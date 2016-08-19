@@ -610,12 +610,13 @@
   tags:
   - Supernatural
   - Non-Combat
+  - Illusion
   cost:
   - 3
   description: |
-    Your hallucinations become legendary in power, granting you the power to affect small groups, or even crowds.
+    Your hallucinations become legendary in power, granting you the power to affect small groups or even crowds.
   effect: |
-    This power augments the Hallucination feat, allowing you to affect more targets As you advance in Illusion attribute according to the list below.  Also, when inflicting Hallucination as a multi-targeting attack, you are not required to invoke the bane as an area attack, you can choose any target within your max range up to a maximum number of targets as follows:
+    When you invoke the hallucination form of Phantasm bane, you may target additional creatures within range as determined by your Illusion score. This does not count as a multi-attack and thus does not incur disadvantage on your action roll.
     <ul>
     <li><strong>Illusion 7</strong> - 5 Target</li>
     <li><strong>Illusion 8</strong> - 10 Targets</li>
