@@ -649,9 +649,9 @@
   cost:
   - 1
   description: |
-    You have spent time studying the ways of a particular species and have an advantage when dealing with them
+    You are expertly focused on dealing with a particular species, race, or faction.
   effect: |
-    Choose a species that your character declares as a sworn enemy. You learn the primary conversational language of that species. You gain advantage 1 (per tier) to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to that species.
+    Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, You gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
 - !
   name: Indomitable Endurance (I - II)
   prerequisite:
