@@ -671,16 +671,17 @@
   tags:
   - Social
   - Combat
+  - Presence
   cost:
   - 2
   description: |
-    A character with this power is not only a great fighter, but their brave and heroic actions on the battlefield can inspire allies to fight beyond their mettle would normally allow.
+    You fight with such bravery, heroism, or bravado that your allies are ispired to fight beyond their usual mettle.
   effect: |
     <ul>
-    <li>Each time you deal 10 or more points damage to an enemy, you can grant healing to your allies as outlined below. </li>
-    <li><strong>Tier 1</strong> - A single ally within attribute range that can see the attack heals 1d4 HP as a minor action.</li>
-    <li><strong>Tier 2</strong> - Up to one ally per attribute point of Presence you possess and within attribute range who can see the attack heals 1d4 HP.</li>
-    <li><strong>Tier 3</strong> - All allies within attribute range of you, who can see the attack, heal 2d4 HP.</li>
+    <li>Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.</li>
+    <li><strong>Tier 1</strong> - A single ally that can see the attack heals 1d4 HP.</li>
+    <li><strong>Tier 2</strong> - A number of allies equal to your Presence score who can see the attack heal 1d4 HP.</li>
+    <li><strong>Tier 3</strong> - All allies who can see the attack heal 2d4 HP.</li>
     </ul>
 - !
   name: Knowledge
