@@ -630,12 +630,15 @@
   - Non-Combat
   - Supernatural
   - Social
+  - Creation
+  - Presence
+  - Abjuration
   cost:
   - 2
   description: |
-    You are exceptionally good at helping others shake off any banes afflicting them, either through Healing magic or through inspiring words.
+    Through inspiring words, magical healing, or advanced medical technique, you are exceptionally skilled at helping others shake off baneful afflictions.
   effect: |
-    You can use a normal action to give an ally an immediate Resist roll (free action for the target) with Advantage (meaning roll 2 d20’s and keep the highest, contrary to normal action rolls). Additionally you gain advantage 1 any time you attempt to invoke the Dispel boon.
+    You can use a normal action to give an ally an immediate Resist roll (a free action for the ally). The ally gains a special form of advantage on this roll, allowing them to roll 2d20 and keep the highest. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
 - !
   name: Hunter's Foe (I - IX)
   prerequisite:
