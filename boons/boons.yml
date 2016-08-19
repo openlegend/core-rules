@@ -377,11 +377,11 @@
   description: |
     Whether through a magical force field, an elemental wall, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack.
   effect: |
-    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include finesse, forceful, fire, cold, lightning, acid, enchantment, creation, and entropy. The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
+    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include finesse, forceful, fire, cold, lightning, acid, enchantment, creation, illusion, and entropy. The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
     <ul>
     <li><strong>Power Level 3</strong> - Your defense scores are increased by 5 against the chosen attack type. </li>
     <li><strong>Power Level 5</strong> - Your defense scores are increased by 10 against the chosen attack type.</li>
-    <li><strong>Power Level 7</strong> - Prevent all damage from the chosen damage type. </li></ul>
+    <li><strong>Power Level 7</strong> - You are immune to damage and harmful effects from the chosen attack type. </li></ul>
 - !
   name: Restoration
   tags:
