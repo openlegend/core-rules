@@ -91,9 +91,9 @@ In *Open Legend*, you get to define your character’s strengths and weaknesses 
 | **Specialized Hero** |
 | 5, 4, 3, 2, 2, 2 |
 | **Well-rounded Hero** |
-| 4, 4, 3, 3, 3, 1 |
+| 4, 4, 3, 3, 3, 1, 1 |
 | **Jack of All Trades** |
-| 3, 3, 3, 3, 2, 2, 2, 2, 1 |
+| 3, 3, 3, 3, 3, 2, 2, 2, 1 |
 
 
 ### Custom Build
@@ -257,7 +257,7 @@ can fly into a frenzied rage in order to decimate her foes.
 Feats are purchased using feat points. At 1st level, you have 6 feat
 points to spend. Any leftover feat points may be saved for the future.
 
-You can read the feat descriptions in a searchable database
+You can read the feat descriptions in a searchable list
 [*here*](http://www.openlegendrpg.com/feats).
 
 If your character is based on a specific archetype, you may want to
