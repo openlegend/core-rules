@@ -595,12 +595,13 @@
   tags:
   - Supernatural
   - Non-Combat
+  - Illusion
   cost:
   - 3
   description: |
-    A character with this power has access to a more potent and dangerous kind of illusion, enabling them to completely dominate the sensory perceptions of many victims.
+    You are able to use your powers of illusion to not only create phantasmal figments, but to completely dominate the sensory perceptions of individual targets.
   effect: |
-    You can opt to use the Phantasm bane in a different way – the power level is still determined by the number of senses you choose to effect (see the Phantasm bane), but instead of creating an illusion of a specific size, you can completely control the sensory perceptions of all the senses you target (removing the area size limitation). This effect can only affect a single target (unlike an illusion, which affects anyone who could nomrally perceive it).
+    When you invoke the Phantasm bane, you may choose to create a hallucination within a target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the Power Level of your bane), and are thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature, and thus is not eligible for multi-targeting attacks.
 - !
   name: Hallucination (Mass)
   prerequisite:
@@ -609,12 +610,13 @@
   tags:
   - Supernatural
   - Non-Combat
+  - Illusion
   cost:
   - 3
   description: |
-    Your hallucinations become legendary in power, granting you the power to affect small groups, or even crowds.
+    Your hallucinations become legendary in power, granting you the power to affect small groups or even crowds.
   effect: |
-    This power augments the Hallucination feat, allowing you to affect more targets As you advance in Illusion attribute according to the list below.  Also, when inflicting Hallucination as a multi-targeting attack, you are not required to invoke the bane as an area attack, you can choose any target within your max range up to a maximum number of targets as follows:
+    When you invoke the hallucination form of Phantasm bane, you may target additional creatures within range as determined by your Illusion score. This does not count as a multi-attack and thus does not incur disadvantage on your action roll.
     <ul>
     <li><strong>Illusion 7</strong> - 5 Target</li>
     <li><strong>Illusion 8</strong> - 10 Targets</li>
@@ -628,12 +630,15 @@
   - Non-Combat
   - Supernatural
   - Social
+  - Creation
+  - Presence
+  - Abjuration
   cost:
   - 2
   description: |
-    You are exceptionally good at helping others shake off any banes afflicting them, either through Healing magic or through inspiring words.
+    Through inspiring words, magical healing, or advanced medical technique, you are exceptionally skilled at helping others shake off baneful afflictions.
   effect: |
-    You can use a normal action to give an ally an immediate Resist roll (free action for the target) with Advantage (meaning roll 2 d20’s and keep the highest, contrary to normal action rolls). Additionally you gain advantage 1 any time you attempt to invoke the Dispel boon.
+    You can use a normal action to give an ally an immediate Resist roll (a free action for the ally). The ally gains a special form of advantage on this roll, allowing them to roll 2d20 and keep the highest. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
 - !
   name: Hunter's Foe (I - IX)
   prerequisite:
@@ -644,9 +649,9 @@
   cost:
   - 1
   description: |
-    You have spent time studying the ways of a particular species and have an advantage when dealing with them
+    You are expertly focused on dealing with a particular species, race, or faction.
   effect: |
-    Choose a species that your character declares as a sworn enemy. You learn the primary conversational language of that species. You gain advantage 1 (per tier) to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to that species.
+    Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, You gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
 - !
   name: Indomitable Endurance (I - II)
   prerequisite:
@@ -666,16 +671,17 @@
   tags:
   - Social
   - Combat
+  - Presence
   cost:
   - 2
   description: |
-    A character with this power is not only a great fighter, but their brave and heroic actions on the battlefield can inspire allies to fight beyond their mettle would normally allow.
+    You fight with such bravery, heroism, or bravado that your allies are ispired to fight beyond their usual mettle.
   effect: |
     <ul>
-    <li>Each time you deal 10 or more points damage to an enemy, you can grant healing to your allies as outlined below. </li>
-    <li><strong>Tier 1</strong> - A single ally within attribute range that can see the attack heals 1d4 HP as a minor action.</li>
-    <li><strong>Tier 2</strong> - Up to one ally per attribute point of Presence you possess and within attribute range who can see the attack heals 1d4 HP.</li>
-    <li><strong>Tier 3</strong> - All allies within attribute range of you, who can see the attack, heal 2d4 HP.</li>
+    <li>Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.</li>
+    <li><strong>Tier 1</strong> - A single ally that can see the attack heals 1d4 HP.</li>
+    <li><strong>Tier 2</strong> - A number of allies equal to your Presence score who can see the attack heal 1d4 HP.</li>
+    <li><strong>Tier 3</strong> - All allies who can see the attack heal 2d4 HP.</li>
     </ul>
 - !
   name: Knowledge
@@ -687,15 +693,15 @@
   cost:
   - 2
   description: |
-    You have knowledge of a particular area of study which goes beyond general research.
+    You have knowledge of a particular area of study which far surpasses your general intelligence.
   effect: |
-    When you purchase this power, choose a sphere of knowledge from the list below or, with the GM’s approval, create a new one. <br />
-    Example Spheres of Knowledge include: Alchemy, Arcane, Supernatural, Engineering, Geography, History, Location (must specify), Anatomy, Medicine, Herbalism, Wilderness.<br />
-    There are 3 tiers of expertise with regard to knowledge: basic, advanced, and expert.
+    When you purchase this feat, choose a sphere of knowledge from the list below or, with the GM’s approval, create a new one. <br />
+    Example Spheres of knowledge include alchemy, arcane, supernatural, engineering, geography, history, location (must specify), anatomy, medicine, explosives, computers, herbalism, and wilderness.<br />
+    Your tier in this feat determines how knowledgeable you are within your chosen sphere.
     <ul>
-    <li><strong>Tier 1 (basic)</strong> - all Learning checks pertaining to your field of expertise of difficulty level (DL) 3 or lower you know automatically, while any Learning check of DL 4 or higher in your field, your Learning attribute for the check is considered to be 3, unless your Learning attribute score is higher.</li>
-    <li><strong>Tier 2 (advanced)</strong> - you automatically succeed checks of DL 6 or lower and have Learning 6 for any check of DL 7 or higher.</li>
-    <li><strong>Tier 3 (expert)</strong> - you automatically succeed checks of DL 8 or lower and have Learning 8 for any check of DL 9.</li>
+    <li><strong>Tier 1</strong> - You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 16 or lower. For higher CRs, your Learning attribute is considered to be 3 for the action roll unless your Learning score is already 3 or higher, in which case you gain advantage 1 on the roll.</li>
+    <li><strong>Tier 2</strong> -  You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 22 or lower. For higher CRs, your Learning attribute is considered to be 6 for the action roll unless your Learning score is already 6 or higher, in which case you gain advantage 1 on the roll.</li>
+    <li><strong>Tier 3</strong> -  You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 26 or lower. For higher CRs, your Learning attribute is considered to be 8 for the action roll unless your Learning score is already 8 or higher, in which case you gain advantage 1 on the roll.</li>
     </ul>
 - !
   name: Lethal Strike (I – IX)
