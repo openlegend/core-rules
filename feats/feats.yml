@@ -747,18 +747,18 @@
   effect: |
     For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
 - !
-  name: Lucky (I – III)
+  name: Lucky
   prerequisite:
-  - Presence 3 / 5 / 7
+  - Presence 3
   tags:
   - Social
   - Combat
   cost:
-  - 1
+  - 2
   description: |
     You are able to miraculously shrug off damage that should kill you. Story examples include: a rogue or bard who is physically weak but seems to always emerge from conflict alive.
   effect: |
-    Once per 24 hour period, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead. You can purchase this feat multiple times, each time you do, you can use this ability one additional time per 24 hour period.
+    Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead. 
 - !
   name: Marksman (I - III)
   prerequisite:
