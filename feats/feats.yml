@@ -659,11 +659,11 @@
   tags:
   - Physical
   cost:
-  - 3
+  - 2
   description: |
-    Your endurance is legendary; when forced marching brings others to their knees, you pick them up and keep going.
+    Your endurance is legendary, allowing you to push on when others would keel over from exhaustion.
   effect: |
-    Once per 24 hour period, if you would be affected by the Fatigued bane, you shrug it off, completely ignoring it's effects. If you would be affected a second time before 24 hours, you receive one level of Fatigue. You can take this feat, multiple times, each time you do, you gain an additional use of this effect per 24 hour period.
+    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determinined the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
   name: Inspiring Champion (I - III)
   prerequisite:
