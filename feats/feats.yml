@@ -709,17 +709,19 @@
   - Agility 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
   tags:
   - Supernatural
+  - Agility
+  - Combat
   cost:
   - 3
   description: |
-    You know how to target weak points in your enemy's defenses and exploit them to wreak havoc on them if you can catch them by surprise.
+    Like a deadly assassin, a ninja of legend, or a feinting melee dervish, you can devastate your foes with an expertly placed attack when you catch them off guard.
   effect: |
-    Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
+    Your attacks are considered lethal strikes whenever you fulfill <emphasis>one</emphasis> of the following conditions:
     <ul>
-    <li>1) Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception. </li>
-    <li>2) If an enemy is adjacent to an ally wielding a melee weapon, then you can make a lethal strike against that enemy.</li>
+    <li>Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.</li>
+    <li>Your target is within melee attack range of an ally.</li>
     </ul>
-    If one of the above conditions is met, you can deliver a lethal strike, granting advantage on your attack roll. In addition, a portion of the damage (not more than your total damage dealt) becomes lethal damage that is difficult to heal from.
+    You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 6: Combat).
     <ul>
     <li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage</li>
     <li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage</li>
