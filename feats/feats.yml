@@ -739,12 +739,13 @@
   - Agility 2 / 3 / 4 / 5 / 6
   tags:
   - Physical
+  - Agility
   cost:
   - 1
   description: |
-    You have a 6th sense about impending danger, allowing you to get the drop on others and act before they have a chance to.
+    You are always ready for danger, allowing you to easily get the drop on your foes.
   effect: |
-    For each tier you possess in this feat, you gain Advantage 1 to all initiative rolls.
+    For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
 - !
   name: Lucky (I – III)
   prerequisite:
