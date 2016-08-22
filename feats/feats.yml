@@ -793,19 +793,19 @@
   tags:
   - Supernatural
   - Non-Combat
+  - Alteration
   cost:
   - 2
   description: |
-    You are a master of shapeshifting and can shapeshift at will without needing to maintain concentration on your new form to sustain it. Mythological creatures with this power include: werewolves, vampires, dopplegangers, druids, etc.
+    Like werewolves, vampires, dopplegangers, druids, and other creatures of myth, you are a master of shapeshifting and can maintain your alternate forms indefinitely.
   effect: |
-    After making your initial Alteration roll to shapeshift (see the Shapeshift boon), you are not required to make a roll to sustain the effect, it continues indefinitely and you can end the boon at any time. At the GM’s discretion there may be magical effects or circumstances that force you to revert to your original form (like silver for werewolves in certain stories and myths).<br />
-    <strong>Special</strong>: This power can only grant permanent shape shifting to the one who possesses it, it cannot be bestowed upon or transferred to another creature.
+    You do not need to use the sustain a boon action to sustain the Shapeshift boon <emphasis>when it is targeting yourself</emphasis>. It persists indefinitely and you can end the boon at any time. At the GM’s discretion there may be magical effects or circumstances that force you to revert to your original form (such as a lycanthrope being exposed to silver). Your tier in this feat determines the highest power level of the Shapeshift boon that you can sustain.<br />
     <ul>
-    <li><strong>Tier 1</strong> - You can permanently sustain any form that requires a power level 2 or lesser (Su) Alteration action roll.</li>
-    <li><strong>Tier 2</strong> - You can permanently sustain any form that requires a power level 4 or lesser (Su) Alteration action roll.</li>
-    <li><strong>Tier 3</strong> - You can permanently sustain any form that requires a power level 6 or lesser (Su) Alteration action roll.</li>
-    <li><strong>Tier 4</strong> - You can permanently sustain any form that requires a power level 8 or lesser (Su) Alteration action roll.</li>
-    <li><strong>Tier 5</strong> - You can permanently sustain any form that requires a power level 9 or lesser (Su) Alteration action roll.</li>
+    <li><strong>Tier 1</strong> - You can sustain any Shapeshift boon of power level 2 or less.</li>
+    <li><strong>Tier 2</strong> - You can sustain any Shapeshift boon of power level 4 or less.</li>
+    <li><strong>Tier 3</strong> - You can sustain any Shapeshift boon of power level 6 or less.</li>
+    <li><strong>Tier 4</strong> - You can sustain any Shapeshift boon of power level 8 or less.</li>
+    <li><strong>Tier 5</strong> - You can sustain any Shapeshift boon of power level 9 or less.</li>
     </ul>
 - !
   name: Mimic
