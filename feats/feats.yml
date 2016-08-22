@@ -756,7 +756,7 @@
   cost:
   - 2
   description: |
-    You are able to miraculously shrug off damage that should kill you. Story examples include: a rogue or bard who is physically weak but seems to always emerge from conflict alive.
+    Luck shines upon you and keeps you in the fight when others would suffer a much worse fate.
   effect: |
     Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead. 
 - !
