@@ -782,9 +782,9 @@
   cost:
   - 3
   description: |
-    You have trained with one weapon to the extent that your martial prowess is handicapped when you use any other weapon.  An example of a character with Martial Focus would be a Kensei (Sword Saint) devoted to mastery of their Katana.
+    Like a kensai warrior devoted to mastery of her katana or an assassin who exclusively wields his favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
   effect: |
-    Martial focus reflects a character’s training in a particular weapon (or unarmed combat) which sets a course for their entire skill progression. Characters with this ability focus their prowess on a single weapon (or unarmed combat style). Discuss your story concept with your GM before choosing your supernatural focus. When using your martial focus, your selected Agility or Might attribute score is increased by 1 when wielding your Martial Focus chosen weapon, though your actual attribute score is unchanged. For all purposes outside of dice rolled, your ability score is unchanged (prerequisitess for feats, banes, boons, etc.).  The trade-off for this power is dependence, since this focus is an inherent part of the way the character trains and grows in martial prowess, for any other martial attack you make without your martial focus, you suffer Disadvantage 1 on the attack.<br />
+    Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: agility or might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any attacks that you make which do not use your martial focus suffer disadvantage 1.<br />
     Special: This ability can only be taken at character creation because it reflects a career-long dedication that begins prior to the start of a campaign. In extraneous circumstances, a GM may allow a character to purchase this after some life-altering event.
 - !
   name: Master Shifter (I – V)
