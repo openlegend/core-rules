@@ -858,7 +858,7 @@
   description: |
     You are a master of invoking boons for more than one target.
   effect: |
-    For each tier of this feat, you offset the disadvantage penalty associated with invoking a boon for multiple targets by 1.  So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+    For each tier of this feat, you reduce the disadvantage penalty associated with invoking boons for multiple targets by 1.
 - !
   name: Multi-Target Boon Expert
   prerequisite:
