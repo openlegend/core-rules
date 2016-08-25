@@ -815,12 +815,13 @@
   tags:
   - Supernatural
   - Feat Chain
+  - Alteration
   cost:
   - 2
   description: |
-    Mimics are powerful shapeshifters that are able to impersonate specific creatures, making them particularly dangerous assassins. Some of them have the innate ability in their blood, others train in deceptive magic to mask their true identity.
+    You have honed your shapeshifting abilities to be able to not only change your form, but to even imitate specific creatures. Your powers may stem from studying the arts of deceptive magic, from a gene mutation, or even from innate supernatural abilities.
   effect: |
-    While assuming an alternate form, you are able to mimic a specific creature of the same type. Unless you demonstrate incomplete knowledge, strange behavior, etc., the deception continues until you are reduced to 0 hit points. If given a reason to be suspicious, other characters can make a Perception roll with a difficulty level equal to your Alteration or Deception score, whichever is higher.
+    When you use the alternate form feat, you may take the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 + twice your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
 - !
   name: Multi-Attack Specialist (I – VI)
   prerequisite:
