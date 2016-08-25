@@ -843,9 +843,9 @@
   cost:
   - 2
   description: |
-    You are a master of dealing damage to more than one target, whether through melee, projectile, or area attacks.  Examples include everything from master archers shooting two enemies at once to a fire mage feared for their ability to char enemies en masse.
+    You are a master of felling multiple foes at a time, whether it be with a whirlwind of your blade, a hail of arrows, or a ball of flame.
   effect: |
-    Choose either area, projectile, or melee when you take this feat.  For each tier, you offset the disadvantage penalty associated with by 1.  So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+    When you choose this feat, you must decide to focus in area, projectile, or melee attacks.  For each tier, you reduce the disadvantage penalty associated with multi-attacks for your chosen attack type by 1. Whenever you take this feat, you must specify which type of attack you are focusing on, and you may take the feat multiple times to specialize in multiple types of attack.
 - !
   name: Multi-Target Boon Specialist (I – V)
   prerequisite:
