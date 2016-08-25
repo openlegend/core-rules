@@ -831,9 +831,9 @@
   cost:
   - 3
   description: |
-    You have mastered a rapid flurry of attacks, they can be dual-wielded melee weapons, a hail of daggers, arrows, or a chain of lightning that strikes many targets
+    Whether your are delivering flurry of blows, wielding two weapons, or calling a chain of lightning bolts from the sky, you have mastered the art of delivering multiple attacks.
   effect: |
-    When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
+    Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. For each extra attack, all of your attacks this turn suffer disadvantage 3 (i.e., making 2 extra attacks would incur disadvantage 6 on ALL of your attacks). For each tier of this feat, reduce the disadvantage penalty by 1. Resolve each attack indidvidually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
 - !
   name: Multi-Target Attack Specialist (I – V)
   prerequisite:
