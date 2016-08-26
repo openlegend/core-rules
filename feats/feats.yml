@@ -894,12 +894,13 @@
   tags:
   - Physical
   - Feat Chain
+  - Might
   cost:
   - 2
   description: |
     The sheer force of your attacks is so great that you send opponents flying.
   effect: |
-     Each time you deal damage to an enemy, you can choose to push that enemy 1 square away from you (you choose exactly where). The attack must be made using a weapon with the Forceful property.
+     Each time you deal damage using a weapon with the forceful property, you can choose to push the target five feet away from you.
 - !
   name: Natural Defense (I - III)
   prerequisite:
