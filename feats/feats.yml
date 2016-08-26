@@ -909,16 +909,17 @@
   - Combat
   - Physical
   - Defense
+  - Fortitude
   cost:
   - 2
   description: |
-    You are unnaturally tough, your skin seemingly as tough as iron, turning aside blows that would cripple someone else.
+    Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.
   effect: |
-    You gain an armor bonus to your Toughness and Evasion defenses as long as you are not wearing armor, though you may wield a shield. The total Bonus is dependent upon which tier of the power you have:
+    When you are not wearing armor, you gain an armor bonus to your Toughness and Evasion defenses. You may still gain this bonus when wielding a shield. Your armor bonus is determined by your tier in this feat:
     <ul>
-    <li><strong>Tier 1</strong> - +2 to Armor</li>
-    <li><strong>Tier 2</strong> - +4 to Armor</li>
-    <li><strong>Tier 3</strong> - +6 to Armor</li>
+    <li><strong>Tier 1</strong> - +2 armor bonus</li>
+    <li><strong>Tier 2</strong> - +4 armor bonus</li>
+    <li><strong>Tier 3</strong> - +6 armor bonus</li>
     </ul>
 - !
   name: Potent Bane
