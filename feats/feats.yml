@@ -870,9 +870,9 @@
   cost:
   - 3
   description: |
-    You are specialized at not only invoking a particular boon, but doing so for a group of allies
+    You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly.
   effect: |
-    When you invoke a boon that you have purchased the Boon Focus feat for, if your Multi-Target Boon Specialist feat would negate the penalty from multi-targeting, then the boon invocation succeeds automatically instead of requiring a roll. For example, if you have Multi-Target Boon Specialist III and Boon Focus (Heal), you can use multi-targeting 3 or 2 and succeed automatically without a roll.
+    When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
 - !
   name: Multi-Bane Specialist
   prerequisite:
