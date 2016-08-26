@@ -883,10 +883,10 @@
   cost:
   - 3
   description: |
-    You develop a signature attack that combines two different banes into a single attack.
+    You have mastered a signature attack that allows you to invoke two banes at once. A blast of ice that blinds and slows your enemy, a thunderous strike of your maul that hurls foes back and knocks them to the ground, and a wormtongue song that puts targets to sleep and alters their memory are all examples of a signature attack that could be created with this feat.
   effect: |
-    Choose two banes that you are able to inflict. You are able to make attacks that inflict your targets with both banes at once.  Your attribute score must be equal to or greater than the power level of both banes combined.  If the two banes use different key attributes, provided your key attributes for both banes is sufficient, you use the higher of the two attributes for both the attack and determining if you are powerful enough to combine them.  An example would be the ability to summon up a powerful arctic blast that inflicts both the slowed bane and also the blinded bane.  Slowed is PL 2 and Blinded is PL 4, so purchasing this power to combine the two would require a character to have a attribute score of 6 or higher in either the key attribute for slowed or the key attribute for blinded.  The resulting “new” bane acts as a single bane and has the combined effects of both banes and can be inflicted in the same various ways that another bane can be inflicted.<br />
-    <strong>Special</strong>: If you have bane focus for one of the two selected banes but not the other, you can only trigger this combined bane with a bane attack or 10 an attack that deals 10 or more damage. You can trigger with 5 damage or more if you have bane focus in both banes.
+    Choose two banes that you are able to inflict. You are able to inflict both banes with a single attack. If the banes use different attributes, use the higher of the two attributes for your action roll and for determine if you are able to combine the banes. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If your attack succeeds, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.<br />
+    <strong>Special</strong>: In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 - !
   name: Overpowering Strike
   prerequisite:
