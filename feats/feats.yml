@@ -883,7 +883,7 @@
   cost:
   - 3
   description: |
-    You have mastered a signature attack that allows you to invoke two banes at once. A blast of ice that blinds and slows your enemy, a thunderous strike of your maul that hurls foes back and knocks them to the ground, and a wormtongue song that puts targets to sleep and alters their memory are all examples of a signature attack that could be created with this feat.
+    You have mastered a signature attack that allows you to invoke two banes at once. A blast of ice that blinds and slows your enemy, a thunderous shotgun blast that hurls foes back and knocks them to the ground, and a wormtongue song that puts targets to sleep and alters their memory are all examples of a signature attack that could be created with this feat.
   effect: |
     Choose two banes that you are able to inflict. You are able to inflict both banes with a single attack. If the banes use different attributes, use the higher of the two attributes for your action roll and for determine if you are able to combine the banes. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If your attack succeeds, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.<br />
     <strong>Special</strong>: In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
@@ -924,16 +924,16 @@
 - !
   name: Potent Bane
   prerequisite:
-  - Able to Invoke Bane
+  - Ability to invoke the chosen bane
   tags:
   - Bane
   - Combat
   cost:
   - 3
   description: |
-    You favor the use of a particular bane which you are remarkably effective at meting out. Examples could be blinding with sand or salt in the eyes, persistent damage with a crippling strike to a vulnerable spot, or a charm that is of legendary potence.
+    You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
-    When you invoke the chosen bane on a target, Resist rolls to shake off the bane have Disadvantage (the target rolls 2 d20 and keeps the lowest, contrary to normal action rolls).
+    Choose one bane that you can invoke and that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
 - !
   name: Reactionary Berserker
   prerequisite:
