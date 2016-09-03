@@ -1000,11 +1000,18 @@
   cost:
   - 2
   description: |
-    You are able to channel your supernatural power to greater effect, given enough time - examples include ritual circles, long periods of time spent in research, prayer, fasting, and other methods that help to clear and focus the mind.
+    By channeling your supernatural powers through extensive rituals, such as meditation, fasting, blood letting, and sacrifices, you are able to increase the strength of your invocations.
   effect: |
-    You gain the ability to heighten the effect of banes or boons you invoke through lengthy ritual that increases their invocation time.
+    When invoking a bane or boon, you may choose to do so as a ritual. The invocation time for a ritual is one increment higher than usual as follows:
     <ul>
-    <li><strong>Tier 1</strong> - You can voluntarily increase the invocation time of any bane or boon by 1 increment (1 action => 1 minute, 1 minute => 10 minutes, 10 minutes => 1 hr, 1 hr => 8hrs, 8hrs => 1 day) in order to increase the effect in one of the following ways:<br />
+    <li>1 action becomes 1 minute</li>
+    <li>1 minute becomes 10 minutes</li>
+    <li>10 minutes becomes 1 hour</li>
+    <li>1 hour becomes 8 hours</li>
+    <li>8 hours becomes 24 hours</li>
+    </ul>
+    
+    <strong>Tier 1</strong> - You may choose one of the following effects to empower your bane or boon:<br />
       <ul>
       <li>Increase the range of the effect as follows:
         Attribute 5 = 500ft<br />
@@ -1012,23 +1019,27 @@
         Attribute 7 = 1 mile<br />
         Attribute 8 = 10 miles<br />
         Attribute 9 = 100 miles<br /></li>
-      <li>Increase the area of the effect by either 1 target or 1 square and ignore the multi-targeting penalty normally associated with that targeting increase</li>
-      <li>You can increase your attribute dice (not score) by 1 for the action roll to invoke the bane or boon. Note that this doesn’t grant access to banes or boons you could not normally access, it only increases the dice used for the action roll.</li>
+      <li>Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).</li>
+      <li>For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.</li>
       </ul>
       </li>
     <strong>Tier 2</strong> - You gain the following abilities:
     <li>
     <ul>
-      <li>You can heighten a bane or boon invocation with multiple contributing characters with the same Supernatural attribute. Doing so sets a minimum invocation time of 1 hour, heightening the effects of banes or boons that normally have a lesser invocation time per the rules of Tier 1. All participants must already be capable of invoking the bane or boon. When heightening the effects of a bane or boon as outlined in Tier 1, each additional participant heightens the invocation in the same way that a time increment increase would as outlined in the Tier 1 feat description (range, area, or attribute dice).</li>
-      <li>You can increase the invocation time by 1 increment to a minimum of 10 minutes, and cause the bane or boon to persist for 1 minute automatically. In the case of boons, a sustain action is not required, the boon persists automatically and can’t be interrupted by breaking the caster’s concentration (only via Dispelling with Abjuration). In the case of banes, after the initial action roll to invoke the bane, the first resist roll allowed is 1 minute after the bane is invoked (this applies to both voluntary resist rolls and free resist rolls that would normally be part of the bane’s effect)</li>
+      <li>You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.</li>
+      <li>You gain the following additional option to choose from when empowering your invocations with ritual magic:</li>
+        <ul>
+        <li>Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot disrupt the boon through use of a focus action (Though the dispel bane still works).</li>
+        <li>Targets may not make resist rolls against a bane for one minute after it is invokes.</li>
+        </ul>
     </ul>
     </li>
-    <li><strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical / geographic location where the ritual was initiated. When the invocation time is completed, make an action roll with a DL according to the boon or bane’s Power Level. Bestowing or Dispelling a bane or boon is detailed below:
+    <li><strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
         <ul>
-        <li><strong>Bestow Boon</strong> - You cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a Sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual feat (see the Remove Boon entry that follows).  The boon must be invoked using an attribute that could normally be used to invoke it.</li>
-        <li><strong>Bestow Bane</strong> - You cause a non-instantaneous & non-permanent  bane to permanently affect the target. The bane persists indefinitely and does not allow Resist rolls to end it’s effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual feat (see the Remove Bane entry that follows). The bane must be invoked using an attribute that could normally be used to invoke it. </li>
-        <li><strong>Dispel Boon</strong> - You cause a permanent boon (as described in the previous entry) to be forever stripped from the target, causing it to lose the ability to invoke the bane automatically.  This dispelling can be done only with an Entropy action roll.</li>
-        <li><strong>Dispel Bane</strong> - You break the curse of a permanent bane (as described in the previous entry) afflicting the target, the bane can still be invoked by other means.  This dispelling can be done only with an Abjuration action roll.</li>
+        <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Boon entry that follows).</li>
+        <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Bane entry that follows).</li>
+        <li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.</li>
+        <li><strong>Dispel Bane</strong> - Make an Abjuration roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though the bane can still be invoked by other means.</li>
         </ul>
       </li>
     </ul>
