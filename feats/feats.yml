@@ -943,12 +943,13 @@
   - Combat
   - Mental
   - Feat Chain
+  - Will
   cost:
   - 2
   description: |
-    You are able to fly into a berserk at a moment’s notice, receiving the benefits of the ability even when you normally might be killed or harmed before having the chance to react.
+    Your berserker nature is ever-present, waiting to be unleashed at a moment's notice.
   effect: |
-    You gain the ability to enter a Rage (from the Berserker feat) when a trigger of your choice occurs. Even if it's not your turn, you can take a free action and enter a Rage. This rage takes effect before the triggering action. You can declare this action after an action / attack roll / damage roll and you gain the benefit of the rage against that roll.  You can enter a RAGE in response to any action, not just an attack or damage roll.
+    You can enter a rage (as per the berserker feat) as a free action even when it is not your turn. You may choose to rage in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to rage after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your rage take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
 - !
   name: Master Tracker
   prerequisite:
