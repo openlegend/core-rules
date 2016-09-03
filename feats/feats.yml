@@ -957,12 +957,13 @@
   tags:
   - Non-Combat
   - Mental
+  - Perception
   cost:
   - 1
   description: |
     Your skill at tracking and hunting your quarry is unmatched, allowing you to follow trails long after others would have lost them.
   effect: |
-    Unless magically thwarted or unable to see, you always know the direction of true North. In addition, once you successfully locate the trail of a target, you automatically succeed all tracking attempts to continue following that trail for 7 days after the time you first picked it up.  Only magically concealed tracks or targets in flight can cause you to lose your mark.
+    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up.  Only magically concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
 - !
   name: Reckless Frenzy
   prerequisite:
