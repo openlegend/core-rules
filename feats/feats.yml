@@ -973,9 +973,9 @@
   cost:
   - 3
   description: |
-    By willingly punishing your body, your frenzy allows you to launch a relentless onslaught of attacks.
+    By willingly punishing your own body, you can enter a raging frenzy that allows you to launch a relentless onslaught of attacks.
   effect: |
-    While you are raging, you can inflict 5 HP of damage on yourself to make an additional attack as a minor action.  Effects that prevent or reduce damage cannot effect this self-inflicted HP cost.
+    While you are raging, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action.  Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
 - !
   name: Resilient
   prerequisite:
