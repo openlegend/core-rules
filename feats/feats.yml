@@ -1143,15 +1143,18 @@
   - Combat
   - Mental
   - Social
+  - Logic
+  - Presence
+  - Perception
   cost:
   - 2
   description: |
-    You either have a sixth sense or an uncanny luck that keeps you from harm, enabling you to avoid attacks that should have killed you or an ally.
+    Whether through a sixth sense bred from a life of combat, advanced tactical training, or merely blind luck, you and nearby allies can avoid attacks that would have otherwise landed.
   effect: |
     <ul>
-    <li><strong>Tier 1</strong> - As a free interrupt action, once per turn when it's not your turn, you can roll 1d4 and add it to an ally's defense scores against an incoming attack.</li>
-    <li><strong>Tier 2</strong> - As tier 1 above, except you roll 1d6 rather than 1d4.</li>
-    <li><strong>Tier 3</strong> - You can also add 1d8 to the target’s defense when using the ability as an interrupt action. </li>
+    <li><strong>Tier 1</strong> - Once per round as a free action, you may add 1d4 to an ally's defense or your own. You may choose to use this ability after the attack roll has been made.</li>
+    <li><strong>Tier 2</strong> - As above, but roll 1d6 instead.</li>
+    <li><strong>Tier 3</strong> - As above, but roll 1d8 instead.</li>
     </ul>
 - !
   name: Tough as Nails (I - II)
