@@ -1091,16 +1091,9 @@
   cost:
   - 2
   description: |
-    Through your supernatural source of power, you are gifted with supernatural protection that makes you more difficult to harm in combat.
+    Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with supernatural protection from harm.
   effect: |
     You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
-    <ul>
-    <li><strong>Tier 1</strong> - +1 to all Defenses</li>
-    <li><strong>Tier 2</strong> - +2 to all Defenses</li>
-    <li><strong>Tier 3</strong> - +3 to all Defenses</li>
-    <li><strong>Tier 4</strong> - +4 to all Defenses</li>
-    <li><strong>Tier 5</strong> - +5 to all Defenses</li>
-    </ul>
 - !
   name: Supernatural Healing
   prerequisite:
