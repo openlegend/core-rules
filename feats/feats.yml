@@ -1178,13 +1178,13 @@
   tags:
   - Combat
   - Physical
+  - Agility
   cost:
   - 2
   description: |
-    Your skill with two weapons is so great that you are able to use them to shield incoming attacks.
+    Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well with your off-hand weapon.
   effect: |
-    Your get an additional Armor bonus of 2 any time you wield two weapons simultaneously. This bonus grants an armor bonus that replaces the one granted by a shield.
-    <strong>Special</strong>: This feat cannot be used in conjunction with a shield
+    When you have a weapon in each hand, you gain a +2 armor bonus. This feat cannot be used in conjunction with a shield.
 - !
   name: Two Weapon Brute
   prerequisite:
