@@ -1100,12 +1100,13 @@
   - Creation 5
   tags:
   - Supernatural
+  -Creation
   cost:
   - 3
   description: |
-    Your healing channels an otherworldly supernatural power, enabling you to mend lethal wounds that normally would heal only with time and careful medical oversight
+    Your mastery of supernatural healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
   effect: |
-    When invoking the Heal boon, you can choose to take one hour instead of the usual Normal Action. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation.
+    When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
 - !
   name: Supernatural Focus
   prerequisite:
