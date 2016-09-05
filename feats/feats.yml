@@ -1241,9 +1241,9 @@
   cost:
   - 2
   description: |
-    Whether through brute force, deadly precision, or a knack for volatile magic, a deadly attack delivered by you is exceptionally vicious
+    Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
   effect: |
-    Any time you roll a 20 on the d20 action roll for an attack, you roll twice on the subsequent re-roll of the d20 and take the higher result.
+    Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on the subsequent re-roll of the d20 and take the higher result.
 - !
   name: Well-Rounded
   prerequisite:
