@@ -1118,10 +1118,10 @@
   cost:
   - 3
   description: |
-    You have been trained in a method of channeling your supernatural power through a point of focus that increases your power.
+    Your supernatural power stems from your connection with a particular focus, such as a wand, holy symbol, or spellbook.
   effect: |
-    Supernatural focus reflects a character’s training in some supernatural attribute which can only be learned as a beginner. Characters with this ability are able to focus their power through one of the following foci: voice, wand, crystal ball, weapon, spellbook, staff, holy symbol, etc. (discuss your story concept with your GM before choosing your supernatural focus). When using your supernatural focus, your selected supernatural attribute score is increased by 1 when you wield your focus, though your actual attribute score is unchanged. For all purposes outside of dice rolled, your ability score is unchanged (feats, banes, boons, etc.).  The trade-off for this power is dependence, since this focus is an inherent part of the way the character invokes the chosen supernatural attribute, the character cannot make action or attack rolls with that power without their chosen focus.
-    <strong>Special</strong>: This ability can only be taken at character creation because it affects how the character will use Supernatural effects depending on how they learned.
+    With the approval of your GM, choose a focus from which your power with a single supernatural attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected supernatural attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
+    <strong>Special</strong>: This feat can only be taken at character creation because it reflects a distinct form that your character's supernatural powers take shape. Under exceptional circumstances, this feat may be taken at higher levels with the GM's approval.
 - !
   name: Supernatural Presence
   prerequisite:
