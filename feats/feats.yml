@@ -1210,12 +1210,13 @@
   tags:
   - Supernatural
   - Non-Combat
+  - Enchantment
   cost:
   - 3
   description: |
-    Your charm is so potent that if it is not resisted initially, victims become permanently enthralled by you.
+    Your charm is so potent that your victims may become permanently enthralled by you.
   effect: |
-    When using the Charmed bane, targets who do not make their Resist roll in the first 24 hours become permanently enthralled, and do not receive any more Resist rolls to shake themselves free of the effect. Other supernatural effects like a Dispel boon can end the effect (and other methods may work at the GM’s discretion).
+    When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other supernatural effects like a dispel boon can still end the effect (and other methods may work at the GM’s discretion).
 - !
   name: Untrackable
   prerequisite:
