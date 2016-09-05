@@ -1263,6 +1263,6 @@
   cost:
   - 3
   description: |
-    You are exceptionally wealthy, perhaps you were born into nobility, your family are powerful merchants, or your parents found some treasure which you inherited.
+    Whether you were born into nobility, heir to a great treasure, or simply a well-established merchant, you are wealthier than the average adventurer.
   effect: |
     Your wealth score is increased by 1.
