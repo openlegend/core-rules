@@ -1251,9 +1251,9 @@
   cost:
   - 2
   description: |
-    You might be just plain lucky, well-studied, or you happen to have tried everything a few times before. The result is that you're pretty good at things you're not specialized in.
+    You have a versatile education, a wide range of experiences, or just plain old good luck. The result is that you're pretty good at things you're not specialized in.
   effect: |
-    Any time you make a non-attack roll with an attribute you have a score of 2 or less in, roll an additional d20 and keep the highest of the two d20 rolls.
+    Any time you make a non-attack action roll with an attribute in which you have a score of 2 or less, roll an additional d20 and keep the highest of the two d20s.
 - !
   name: Wealthy
   prerequisite:
