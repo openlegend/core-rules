@@ -1223,12 +1223,15 @@
   - Abjuration 3 OR Alteration 3 OR Illusion 3
   tags:
   - Non-Combat
+  - Abjuration
+  - Alteration
+  - Illusion
   cost:
   - 1
   description: |
-    Your passage is undetectable, concealed by vines that grow back after you pass, a magical ward against detection, or an illusory veil that conceals them
+    Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are supernaturally protected from being tracked.
   effect: |
-    Your passage is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by supernatural means.
+    Your travel is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by supernatural means.
 - !
   name: Vicious Strike
   prerequisite:
