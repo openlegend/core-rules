@@ -1186,23 +1186,21 @@
   effect: |
     When you have a weapon in each hand, you gain a +2 armor bonus. This feat cannot be used in conjunction with a shield.
 - !
-  name: Two Weapon Brute
+  name: Heavy Weapon Master
   prerequisite:
   - Agility 4
   - Might 5
-  - Multi-Attack Specialist
   tags:
   - Combat
-  - Feat Chain
   - Physical
   - Agility
   - Might
   cost:
   - 3
   description: |
-    Due to your strength and training, you are able to wield exceptionally heavy weapons simultaneously.
+    Due to your strength and training, you are able to wield exceptionally heavy weapons with ease.
   effect: |
-    The two weapons you wield can be any melee weapon, either one-handed or two-handed.
+    You can wield two-handed melee weapons in one hand. When you do, you still gain the usual advantage granted by two-handed weapons.
 - !
   name: Unending Charm
   prerequisite:
