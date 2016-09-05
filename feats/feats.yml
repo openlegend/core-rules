@@ -1195,6 +1195,8 @@
   - Combat
   - Feat Chain
   - Physical
+  - Agility
+  - Might
   cost:
   - 3
   description: |
