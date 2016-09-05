@@ -1163,13 +1163,13 @@
   tags:
   - Defense
   - Physical
+  - Fortitude
   cost:
   - 2
   description: |
-    You have a remarkable ability to shrug off punishment that would take down lesser heroes.
+    You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes.
   effect: |
-    You permanently gain 5 extra HP.<br />
-    <strong>Special</strong>: This feat can be taken twice.
+    You permanently gain 5 extra hit points per tier of this feat you possess.<br />
 - !
   name: Two Weapon Defense
   prerequisite:
