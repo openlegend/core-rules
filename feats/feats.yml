@@ -1078,10 +1078,9 @@
   cost:
   - 3
   description: |
-    You are able to hold focus on more than one bane or boon at a time.
+    Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple supernatural effects at once.
   effect: |
-    Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on.
-    <strong>Special</strong>: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
+    When you take the <emphasis>sustain a boon</emphasis> minor action, you may sustain one additional boon per tier of this feat which you possess.
 - !
   name: Supernatural Defense (I - V)
   prerequisite:
