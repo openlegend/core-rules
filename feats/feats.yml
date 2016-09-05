@@ -1066,9 +1066,9 @@
   cost:
   - 3
   description: |
-    You are able to ambush foes and remain undetected by striking vital points that prevent them from crying out for help
+    Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence.
   effect: |
-    Whenever you successfully hit a target that you have tactical advantage against, that target is silenced until the end of your next turn.
+    Whenever you successfully hit a target that you have advantage against, that target is afflicted by the silenced bane.
 - !
   name: Superior Concentration (I - III)
   prerequisite:
