@@ -1044,7 +1044,7 @@
       </li>
     </ul>
 - !
-  name: Skill Specialization (1 - 5)
+  name: Skill Specialization (I - V)
   prerequisite:
   - None
   tags:
@@ -1052,10 +1052,10 @@
   cost:
   - 2
   description: |
-    You are exceptionally talented in the application of a particular non-combat attribute, perhaps you have the eyes of an eagle, the constitution of an ox when traveling overland, or similar.
+    You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similar exceptional non-combat talent.
   effect: |
-    Choose an attribute. Any time you make a non-attack action roll with the chosen attribute, you get Advantage 1 on the roll.<br />
-    <strong>Special</strong>: You can take this feat multiple times, each time you can either apply it to a different attribute or increase the advantage of an attribute you’ve already purchased this feat for.
+    Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute..<br />
+    <strong>Special</strong>: You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
 - !
   name: Silencing Strike
   prerequisite:
