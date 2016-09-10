@@ -758,7 +758,7 @@
   description: |
     Luck shines upon you and keeps you in the fight when others would suffer a much worse fate.
   effect: |
-    Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead. 
+    Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
 - !
   name: Marksman (I - III)
   prerequisite:
@@ -1010,7 +1010,7 @@
     <li>1 hour becomes 8 hours</li>
     <li>8 hours becomes 24 hours</li>
     </ul>
-    
+
     <strong>Tier 1</strong> - You may choose one of the following effects to empower your bane or boon:<br />
       <ul>
       <li>Increase the range of the effect as follows:
@@ -1100,7 +1100,7 @@
   - Creation 5
   tags:
   - Supernatural
-  -Creation
+  - Creation
   cost:
   - 3
   description: |
