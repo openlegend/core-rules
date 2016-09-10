@@ -653,17 +653,17 @@
   effect: |
     Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, You gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
 - !
-  name: Indomitable Endurance (I - II)
+  name: Indomitable Endurance (I - IX)
   prerequisite:
   - Fortitude 5
   tags:
   - Physical
   cost:
-  - 3
+  - 2
   description: |
-    Your endurance is legendary; when forced marching brings others to their knees, you pick them up and keep going.
+    Your endurance is legendary, allowing you to push on when others would keel over from exhaustion.
   effect: |
-    Once per 24 hour period, if you would be affected by the Fatigued bane, you shrug it off, completely ignoring it's effects. If you would be affected a second time before 24 hours, you receive one level of Fatigue. You can take this feat, multiple times, each time you do, you gain an additional use of this effect per 24 hour period.
+    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determinined the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
   name: Inspiring Champion (I - III)
   prerequisite:
@@ -709,17 +709,19 @@
   - Agility 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
   tags:
   - Supernatural
+  - Agility
+  - Combat
   cost:
   - 3
   description: |
-    You know how to target weak points in your enemy's defenses and exploit them to wreak havoc on them if you can catch them by surprise.
+    Like a deadly assassin, a ninja of legend, or a feinting melee dervish, you can devastate your foes with an expertly placed attack when you catch them off guard.
   effect: |
-    Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
+    Your attacks are considered lethal strikes whenever you fulfill <emphasis>one</emphasis> of the following conditions:
     <ul>
-    <li>1) Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception. </li>
-    <li>2) If an enemy is adjacent to an ally wielding a melee weapon, then you can make a lethal strike against that enemy.</li>
+    <li>Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.</li>
+    <li>Your target is within melee attack range of an ally.</li>
     </ul>
-    If one of the above conditions is met, you can deliver a lethal strike, granting advantage on your attack roll. In addition, a portion of the damage (not more than your total damage dealt) becomes lethal damage that is difficult to heal from.
+    You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 6: Combat).
     <ul>
     <li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage</li>
     <li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage</li>
@@ -737,25 +739,26 @@
   - Agility 2 / 3 / 4 / 5 / 6
   tags:
   - Physical
+  - Agility
   cost:
   - 1
   description: |
-    You have a 6th sense about impending danger, allowing you to get the drop on others and act before they have a chance to.
+    You are always ready for danger, allowing you to easily get the drop on your foes.
   effect: |
-    For each tier you possess in this feat, you gain Advantage 1 to all initiative rolls.
+    For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
 - !
-  name: Lucky (I – III)
+  name: Lucky
   prerequisite:
-  - Presence 3 / 5 / 7
+  - Presence 3
   tags:
   - Social
   - Combat
   cost:
-  - 1
+  - 2
   description: |
-    You are able to miraculously shrug off damage that should kill you. Story examples include: a rogue or bard who is physically weak but seems to always emerge from conflict alive.
+    Luck shines upon you and keeps you in the fight when others would suffer a much worse fate.
   effect: |
-    Once per 24 hour period, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead. You can purchase this feat multiple times, each time you do, you can use this ability one additional time per 24 hour period.
+    Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead. 
 - !
   name: Marksman (I - III)
   prerequisite:
@@ -779,9 +782,9 @@
   cost:
   - 3
   description: |
-    You have trained with one weapon to the extent that your martial prowess is handicapped when you use any other weapon.  An example of a character with Martial Focus would be a Kensei (Sword Saint) devoted to mastery of their Katana.
+    Like a kensai warrior devoted to mastery of her katana or an assassin who exclusively wields his favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
   effect: |
-    Martial focus reflects a character’s training in a particular weapon (or unarmed combat) which sets a course for their entire skill progression. Characters with this ability focus their prowess on a single weapon (or unarmed combat style). Discuss your story concept with your GM before choosing your supernatural focus. When using your martial focus, your selected Agility or Might attribute score is increased by 1 when wielding your Martial Focus chosen weapon, though your actual attribute score is unchanged. For all purposes outside of dice rolled, your ability score is unchanged (prerequisitess for feats, banes, boons, etc.).  The trade-off for this power is dependence, since this focus is an inherent part of the way the character trains and grows in martial prowess, for any other martial attack you make without your martial focus, you suffer Disadvantage 1 on the attack.<br />
+    Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: agility or might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any attacks that you make which do not use your martial focus suffer disadvantage 1.<br />
     Special: This ability can only be taken at character creation because it reflects a career-long dedication that begins prior to the start of a campaign. In extraneous circumstances, a GM may allow a character to purchase this after some life-altering event.
 - !
   name: Master Shifter (I – V)
@@ -790,19 +793,19 @@
   tags:
   - Supernatural
   - Non-Combat
+  - Alteration
   cost:
   - 2
   description: |
-    You are a master of shapeshifting and can shapeshift at will without needing to maintain concentration on your new form to sustain it. Mythological creatures with this power include: werewolves, vampires, dopplegangers, druids, etc.
+    Like werewolves, vampires, dopplegangers, druids, and other creatures of myth, you are a master of shapeshifting and can maintain your alternate forms indefinitely.
   effect: |
-    After making your initial Alteration roll to shapeshift (see the Shapeshift boon), you are not required to make a roll to sustain the effect, it continues indefinitely and you can end the boon at any time. At the GM’s discretion there may be magical effects or circumstances that force you to revert to your original form (like silver for werewolves in certain stories and myths).<br />
-    <strong>Special</strong>: This power can only grant permanent shape shifting to the one who possesses it, it cannot be bestowed upon or transferred to another creature.
+    You do not need to use the sustain a boon action to sustain the Shapeshift boon <emphasis>when it is targeting yourself</emphasis>. It persists indefinitely and you can end the boon at any time. At the GM’s discretion there may be magical effects or circumstances that force you to revert to your original form (such as a lycanthrope being exposed to silver). Your tier in this feat determines the highest power level of the Shapeshift boon that you can sustain.<br />
     <ul>
-    <li><strong>Tier 1</strong> - You can permanently sustain any form that requires a power level 2 or lesser (Su) Alteration action roll.</li>
-    <li><strong>Tier 2</strong> - You can permanently sustain any form that requires a power level 4 or lesser (Su) Alteration action roll.</li>
-    <li><strong>Tier 3</strong> - You can permanently sustain any form that requires a power level 6 or lesser (Su) Alteration action roll.</li>
-    <li><strong>Tier 4</strong> - You can permanently sustain any form that requires a power level 8 or lesser (Su) Alteration action roll.</li>
-    <li><strong>Tier 5</strong> - You can permanently sustain any form that requires a power level 9 or lesser (Su) Alteration action roll.</li>
+    <li><strong>Tier 1</strong> - You can sustain any Shapeshift boon of power level 2 or less.</li>
+    <li><strong>Tier 2</strong> - You can sustain any Shapeshift boon of power level 4 or less.</li>
+    <li><strong>Tier 3</strong> - You can sustain any Shapeshift boon of power level 6 or less.</li>
+    <li><strong>Tier 4</strong> - You can sustain any Shapeshift boon of power level 8 or less.</li>
+    <li><strong>Tier 5</strong> - You can sustain any Shapeshift boon of power level 9 or less.</li>
     </ul>
 - !
   name: Mimic
@@ -812,12 +815,13 @@
   tags:
   - Supernatural
   - Feat Chain
+  - Alteration
   cost:
   - 2
   description: |
-    Mimics are powerful shapeshifters that are able to impersonate specific creatures, making them particularly dangerous assassins. Some of them have the innate ability in their blood, others train in deceptive magic to mask their true identity.
+    You have honed your shapeshifting abilities to be able to not only change your form, but to even imitate specific creatures. Your powers may stem from studying the arts of deceptive magic, from a gene mutation, or even from innate supernatural abilities.
   effect: |
-    While assuming an alternate form, you are able to mimic a specific creature of the same type. Unless you demonstrate incomplete knowledge, strange behavior, etc., the deception continues until you are reduced to 0 hit points. If given a reason to be suspicious, other characters can make a Perception roll with a difficulty level equal to your Alteration or Deception score, whichever is higher.
+    When you use the alternate form feat, you may take the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 + twice your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
 - !
   name: Multi-Attack Specialist (I – VI)
   prerequisite:
@@ -827,9 +831,9 @@
   cost:
   - 3
   description: |
-    You have mastered a rapid flurry of attacks, they can be dual-wielded melee weapons, a hail of daggers, arrows, or a chain of lightning that strikes many targets
+    Whether your are delivering flurry of blows, wielding two weapons, or calling a chain of lightning bolts from the sky, you have mastered the art of delivering multiple attacks.
   effect: |
-    When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
+    Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. For each extra attack, all of your attacks this turn suffer disadvantage 3 (i.e., making 2 extra attacks would incur disadvantage 6 on ALL of your attacks). For each tier of this feat, reduce the disadvantage penalty by 1. Resolve each attack indidvidually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
 - !
   name: Multi-Target Attack Specialist (I – V)
   prerequisite:
@@ -839,9 +843,9 @@
   cost:
   - 2
   description: |
-    You are a master of dealing damage to more than one target, whether through melee, projectile, or area attacks.  Examples include everything from master archers shooting two enemies at once to a fire mage feared for their ability to char enemies en masse.
+    You are a master of felling multiple foes at a time, whether it be with a whirlwind of your blade, a hail of arrows, or a ball of flame.
   effect: |
-    Choose either area, projectile, or melee when you take this feat.  For each tier, you offset the disadvantage penalty associated with by 1.  So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+    When you choose this feat, you must decide to focus in area, projectile, or melee attacks.  For each tier, you reduce the disadvantage penalty associated with multi-attacks for your chosen attack type by 1. Whenever you take this feat, you must specify which type of attack you are focusing on, and you may take the feat multiple times to specialize in multiple types of attack.
 - !
   name: Multi-Target Boon Specialist (I – V)
   prerequisite:
@@ -854,7 +858,7 @@
   description: |
     You are a master of invoking boons for more than one target.
   effect: |
-    For each tier of this feat, you offset the disadvantage penalty associated with invoking a boon for multiple targets by 1.  So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+    For each tier of this feat, you reduce the disadvantage penalty associated with invoking boons for multiple targets by 1.
 - !
   name: Multi-Target Boon Expert
   prerequisite:
@@ -866,9 +870,9 @@
   cost:
   - 3
   description: |
-    You are specialized at not only invoking a particular boon, but doing so for a group of allies
+    You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly.
   effect: |
-    When you invoke a boon that you have purchased the Boon Focus feat for, if your Multi-Target Boon Specialist feat would negate the penalty from multi-targeting, then the boon invocation succeeds automatically instead of requiring a roll. For example, if you have Multi-Target Boon Specialist III and Boon Focus (Heal), you can use multi-targeting 3 or 2 and succeed automatically without a roll.
+    When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
 - !
   name: Multi-Bane Specialist
   prerequisite:
@@ -879,10 +883,10 @@
   cost:
   - 3
   description: |
-    You develop a signature attack that combines two different banes into a single attack.
+    You have mastered a signature attack that allows you to invoke two banes at once. A blast of ice that blinds and slows your enemy, a thunderous shotgun blast that hurls foes back and knocks them to the ground, and a wormtongue song that puts targets to sleep and alters their memory are all examples of a signature attack that could be created with this feat.
   effect: |
-    Choose two banes that you are able to inflict. You are able to make attacks that inflict your targets with both banes at once.  Your attribute score must be equal to or greater than the power level of both banes combined.  If the two banes use different key attributes, provided your key attributes for both banes is sufficient, you use the higher of the two attributes for both the attack and determining if you are powerful enough to combine them.  An example would be the ability to summon up a powerful arctic blast that inflicts both the slowed bane and also the blinded bane.  Slowed is PL 2 and Blinded is PL 4, so purchasing this power to combine the two would require a character to have a attribute score of 6 or higher in either the key attribute for slowed or the key attribute for blinded.  The resulting “new” bane acts as a single bane and has the combined effects of both banes and can be inflicted in the same various ways that another bane can be inflicted.<br />
-    <strong>Special</strong>: If you have bane focus for one of the two selected banes but not the other, you can only trigger this combined bane with a bane attack or 10 an attack that deals 10 or more damage. You can trigger with 5 damage or more if you have bane focus in both banes.
+    Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.<br />
+    <strong>Special</strong>: In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 - !
   name: Overpowering Strike
   prerequisite:
@@ -890,12 +894,13 @@
   tags:
   - Physical
   - Feat Chain
+  - Might
   cost:
   - 2
   description: |
     The sheer force of your attacks is so great that you send opponents flying.
   effect: |
-     Each time you deal damage to an enemy, you can choose to push that enemy 1 square away from you (you choose exactly where). The attack must be made using a weapon with the Forceful property.
+     Each time you deal damage using a weapon with the forceful property, you can choose to push the target five feet away from you.
 - !
   name: Natural Defense (I - III)
   prerequisite:
@@ -904,30 +909,31 @@
   - Combat
   - Physical
   - Defense
+  - Fortitude
   cost:
   - 2
   description: |
-    You are unnaturally tough, your skin seemingly as tough as iron, turning aside blows that would cripple someone else.
+    Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.
   effect: |
-    You gain an armor bonus to your Toughness and Evasion defenses as long as you are not wearing armor, though you may wield a shield. The total Bonus is dependent upon which tier of the power you have:
+    When you are not wearing armor, you gain an armor bonus to your Toughness and Evasion defenses. You may still gain this bonus when wielding a shield. Your armor bonus is determined by your tier in this feat:
     <ul>
-    <li><strong>Tier 1</strong> - +2 to Armor</li>
-    <li><strong>Tier 2</strong> - +4 to Armor</li>
-    <li><strong>Tier 3</strong> - +6 to Armor</li>
+    <li><strong>Tier 1</strong> - +2 armor bonus</li>
+    <li><strong>Tier 2</strong> - +4 armor bonus</li>
+    <li><strong>Tier 3</strong> - +6 armor bonus</li>
     </ul>
 - !
   name: Potent Bane
   prerequisite:
-  - Able to Invoke Bane
+  - Ability to invoke the chosen bane
   tags:
   - Bane
   - Combat
   cost:
   - 3
   description: |
-    You favor the use of a particular bane which you are remarkably effective at meting out. Examples could be blinding with sand or salt in the eyes, persistent damage with a crippling strike to a vulnerable spot, or a charm that is of legendary potence.
+    You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
-    When you invoke the chosen bane on a target, Resist rolls to shake off the bane have Disadvantage (the target rolls 2 d20 and keeps the lowest, contrary to normal action rolls).
+    Choose one bane that you can invoke and that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
 - !
   name: Reactionary Berserker
   prerequisite:
@@ -937,12 +943,13 @@
   - Combat
   - Mental
   - Feat Chain
+  - Will
   cost:
   - 2
   description: |
-    You are able to fly into a berserk at a moment’s notice, receiving the benefits of the ability even when you normally might be killed or harmed before having the chance to react.
+    Your berserker nature is ever-present, waiting to be unleashed at a moment's notice.
   effect: |
-    You gain the ability to enter a Rage (from the Berserker feat) when a trigger of your choice occurs. Even if it's not your turn, you can take a free action and enter a Rage. This rage takes effect before the triggering action. You can declare this action after an action / attack roll / damage roll and you gain the benefit of the rage against that roll.  You can enter a RAGE in response to any action, not just an attack or damage roll.
+    You can enter a rage (as per the berserker feat) as a free action even when it is not your turn. You may choose to rage in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to rage after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your rage take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
 - !
   name: Master Tracker
   prerequisite:
@@ -950,12 +957,13 @@
   tags:
   - Non-Combat
   - Mental
+  - Perception
   cost:
   - 1
   description: |
     Your skill at tracking and hunting your quarry is unmatched, allowing you to follow trails long after others would have lost them.
   effect: |
-    Unless magically thwarted or unable to see, you always know the direction of true North. In addition, once you successfully locate the trail of a target, you automatically succeed all tracking attempts to continue following that trail for 7 days after the time you first picked it up.  Only magically concealed tracks or targets in flight can cause you to lose your mark.
+    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up.  Only magically concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
 - !
   name: Reckless Frenzy
   prerequisite:
@@ -965,9 +973,9 @@
   cost:
   - 3
   description: |
-    By willingly punishing your body, your frenzy allows you to launch a relentless onslaught of attacks.
+    By willingly punishing your own body, you can enter a raging frenzy that allows you to launch a relentless onslaught of attacks.
   effect: |
-    While you are raging, you can inflict 5 HP of damage on yourself to make an additional attack as a minor action.  Effects that prevent or reduce damage cannot effect this self-inflicted HP cost.
+    While you are raging, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action.  Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
 - !
   name: Resilient
   prerequisite:
@@ -992,11 +1000,18 @@
   cost:
   - 2
   description: |
-    You are able to channel your supernatural power to greater effect, given enough time - examples include ritual circles, long periods of time spent in research, prayer, fasting, and other methods that help to clear and focus the mind.
+    By channeling your supernatural powers through extensive rituals, such as meditation, fasting, blood letting, and sacrifices, you are able to increase the strength of your invocations.
   effect: |
-    You gain the ability to heighten the effect of banes or boons you invoke through lengthy ritual that increases their invocation time.
+    When invoking a bane or boon, you may choose to do so as a ritual. The invocation time for a ritual is one increment higher than usual as follows:
     <ul>
-    <li><strong>Tier 1</strong> - You can voluntarily increase the invocation time of any bane or boon by 1 increment (1 action => 1 minute, 1 minute => 10 minutes, 10 minutes => 1 hr, 1 hr => 8hrs, 8hrs => 1 day) in order to increase the effect in one of the following ways:<br />
+    <li>1 action becomes 1 minute</li>
+    <li>1 minute becomes 10 minutes</li>
+    <li>10 minutes becomes 1 hour</li>
+    <li>1 hour becomes 8 hours</li>
+    <li>8 hours becomes 24 hours</li>
+    </ul>
+    
+    <strong>Tier 1</strong> - You may choose one of the following effects to empower your bane or boon:<br />
       <ul>
       <li>Increase the range of the effect as follows:
         Attribute 5 = 500ft<br />
@@ -1004,28 +1019,32 @@
         Attribute 7 = 1 mile<br />
         Attribute 8 = 10 miles<br />
         Attribute 9 = 100 miles<br /></li>
-      <li>Increase the area of the effect by either 1 target or 1 square and ignore the multi-targeting penalty normally associated with that targeting increase</li>
-      <li>You can increase your attribute dice (not score) by 1 for the action roll to invoke the bane or boon. Note that this doesn’t grant access to banes or boons you could not normally access, it only increases the dice used for the action roll.</li>
+      <li>Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).</li>
+      <li>For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.</li>
       </ul>
       </li>
     <strong>Tier 2</strong> - You gain the following abilities:
     <li>
     <ul>
-      <li>You can heighten a bane or boon invocation with multiple contributing characters with the same Supernatural attribute. Doing so sets a minimum invocation time of 1 hour, heightening the effects of banes or boons that normally have a lesser invocation time per the rules of Tier 1. All participants must already be capable of invoking the bane or boon. When heightening the effects of a bane or boon as outlined in Tier 1, each additional participant heightens the invocation in the same way that a time increment increase would as outlined in the Tier 1 feat description (range, area, or attribute dice).</li>
-      <li>You can increase the invocation time by 1 increment to a minimum of 10 minutes, and cause the bane or boon to persist for 1 minute automatically. In the case of boons, a sustain action is not required, the boon persists automatically and can’t be interrupted by breaking the caster’s concentration (only via Dispelling with Abjuration). In the case of banes, after the initial action roll to invoke the bane, the first resist roll allowed is 1 minute after the bane is invoked (this applies to both voluntary resist rolls and free resist rolls that would normally be part of the bane’s effect)</li>
+      <li>You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.</li>
+      <li>You gain the following additional option to choose from when empowering your invocations with ritual magic:</li>
+        <ul>
+        <li>Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot disrupt the boon through use of a focus action (Though the dispel bane still works).</li>
+        <li>Targets may not make resist rolls against a bane for one minute after it is invokes.</li>
+        </ul>
     </ul>
     </li>
-    <li><strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical / geographic location where the ritual was initiated. When the invocation time is completed, make an action roll with a DL according to the boon or bane’s Power Level. Bestowing or Dispelling a bane or boon is detailed below:
+    <li><strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
         <ul>
-        <li><strong>Bestow Boon</strong> - You cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a Sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual feat (see the Remove Boon entry that follows).  The boon must be invoked using an attribute that could normally be used to invoke it.</li>
-        <li><strong>Bestow Bane</strong> - You cause a non-instantaneous & non-permanent  bane to permanently affect the target. The bane persists indefinitely and does not allow Resist rolls to end it’s effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual feat (see the Remove Bane entry that follows). The bane must be invoked using an attribute that could normally be used to invoke it. </li>
-        <li><strong>Dispel Boon</strong> - You cause a permanent boon (as described in the previous entry) to be forever stripped from the target, causing it to lose the ability to invoke the bane automatically.  This dispelling can be done only with an Entropy action roll.</li>
-        <li><strong>Dispel Bane</strong> - You break the curse of a permanent bane (as described in the previous entry) afflicting the target, the bane can still be invoked by other means.  This dispelling can be done only with an Abjuration action roll.</li>
+        <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Boon entry that follows).</li>
+        <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Bane entry that follows).</li>
+        <li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.</li>
+        <li><strong>Dispel Bane</strong> - Make an Abjuration roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though the bane can still be invoked by other means.</li>
         </ul>
       </li>
     </ul>
 - !
-  name: Skill Specialization (1 - 5)
+  name: Skill Specialization (I - V)
   prerequisite:
   - None
   tags:
@@ -1033,10 +1052,10 @@
   cost:
   - 2
   description: |
-    You are exceptionally talented in the application of a particular non-combat attribute, perhaps you have the eyes of an eagle, the constitution of an ox when traveling overland, or similar.
+    You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similar exceptional non-combat talent.
   effect: |
-    Choose an attribute. Any time you make a non-attack action roll with the chosen attribute, you get Advantage 1 on the roll.<br />
-    <strong>Special</strong>: You can take this feat multiple times, each time you can either apply it to a different attribute or increase the advantage of an attribute you’ve already purchased this feat for.
+    Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute..<br />
+    <strong>Special</strong>: You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
 - !
   name: Silencing Strike
   prerequisite:
@@ -1047,9 +1066,9 @@
   cost:
   - 3
   description: |
-    You are able to ambush foes and remain undetected by striking vital points that prevent them from crying out for help
+    Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence.
   effect: |
-    Whenever you successfully hit a target that you have tactical advantage against, that target is silenced until the end of your next turn.
+    Whenever you successfully hit a target that you have advantage against, that target is afflicted by the silenced bane.
 - !
   name: Superior Concentration (I - III)
   prerequisite:
@@ -1059,10 +1078,9 @@
   cost:
   - 3
   description: |
-    You are able to hold focus on more than one bane or boon at a time.
+    Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple supernatural effects at once.
   effect: |
-    Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on.
-    <strong>Special</strong>: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
+    When you take the <emphasis>sustain a boon</emphasis> minor action, you may sustain one additional boon per tier of this feat which you possess.
 - !
   name: Supernatural Defense (I - V)
   prerequisite:
@@ -1073,28 +1091,22 @@
   cost:
   - 2
   description: |
-    Through your supernatural source of power, you are gifted with supernatural protection that makes you more difficult to harm in combat.
+    Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with supernatural protection from harm.
   effect: |
     You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
-    <ul>
-    <li><strong>Tier 1</strong> - +1 to all Defenses</li>
-    <li><strong>Tier 2</strong> - +2 to all Defenses</li>
-    <li><strong>Tier 3</strong> - +3 to all Defenses</li>
-    <li><strong>Tier 4</strong> - +4 to all Defenses</li>
-    <li><strong>Tier 5</strong> - +5 to all Defenses</li>
-    </ul>
 - !
   name: Supernatural Healing
   prerequisite:
   - Creation 5
   tags:
   - Supernatural
+  -Creation
   cost:
   - 3
   description: |
-    Your healing channels an otherworldly supernatural power, enabling you to mend lethal wounds that normally would heal only with time and careful medical oversight
+    Your mastery of supernatural healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
   effect: |
-    When invoking the Heal boon, you can choose to take one hour instead of the usual Normal Action. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation.
+    When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
 - !
   name: Supernatural Focus
   prerequisite:
@@ -1106,10 +1118,10 @@
   cost:
   - 3
   description: |
-    You have been trained in a method of channeling your supernatural power through a point of focus that increases your power.
+    Your supernatural power stems from your connection with a particular focus, such as a wand, holy symbol, or spellbook.
   effect: |
-    Supernatural focus reflects a character’s training in some supernatural attribute which can only be learned as a beginner. Characters with this ability are able to focus their power through one of the following foci: voice, wand, crystal ball, weapon, spellbook, staff, holy symbol, etc. (discuss your story concept with your GM before choosing your supernatural focus). When using your supernatural focus, your selected supernatural attribute score is increased by 1 when you wield your focus, though your actual attribute score is unchanged. For all purposes outside of dice rolled, your ability score is unchanged (feats, banes, boons, etc.).  The trade-off for this power is dependence, since this focus is an inherent part of the way the character invokes the chosen supernatural attribute, the character cannot make action or attack rolls with that power without their chosen focus.
-    <strong>Special</strong>: This ability can only be taken at character creation because it affects how the character will use Supernatural effects depending on how they learned.
+    With the approval of your GM, choose a focus from which your power with a single supernatural attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected supernatural attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
+    <strong>Special</strong>: This feat can only be taken at character creation because it reflects a distinct form that your character's supernatural powers take shape. Under exceptional circumstances, this feat may be taken at higher levels with the GM's approval.
 - !
   name: Supernatural Presence
   prerequisite:
@@ -1131,15 +1143,18 @@
   - Combat
   - Mental
   - Social
+  - Logic
+  - Presence
+  - Perception
   cost:
   - 2
   description: |
-    You either have a sixth sense or an uncanny luck that keeps you from harm, enabling you to avoid attacks that should have killed you or an ally.
+    Whether through a sixth sense bred from a life of combat, advanced tactical training, or merely blind luck, you and nearby allies can avoid attacks that would have otherwise landed.
   effect: |
     <ul>
-    <li><strong>Tier 1</strong> - As a free interrupt action, once per turn when it's not your turn, you can roll 1d4 and add it to an ally's defense scores against an incoming attack.</li>
-    <li><strong>Tier 2</strong> - As tier 1 above, except you roll 1d6 rather than 1d4.</li>
-    <li><strong>Tier 3</strong> - You can also add 1d8 to the target’s defense when using the ability as an interrupt action. </li>
+    <li><strong>Tier 1</strong> - Once per round as a free action, you may add 1d4 to an ally's defense or your own. You may choose to use this ability after the attack roll has been made.</li>
+    <li><strong>Tier 2</strong> - As above, but roll 1d6 instead.</li>
+    <li><strong>Tier 3</strong> - As above, but roll 1d8 instead.</li>
     </ul>
 - !
   name: Tough as Nails (I - II)
@@ -1148,13 +1163,13 @@
   tags:
   - Defense
   - Physical
+  - Fortitude
   cost:
   - 2
   description: |
-    You have a remarkable ability to shrug off punishment that would take down lesser heroes.
+    You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes.
   effect: |
-    You permanently gain 5 extra HP.<br />
-    <strong>Special</strong>: This feat can be taken twice.
+    You permanently gain 5 extra hit points per tier of this feat you possess.<br />
 - !
   name: Two Weapon Defense
   prerequisite:
@@ -1163,29 +1178,29 @@
   tags:
   - Combat
   - Physical
+  - Agility
   cost:
   - 2
   description: |
-    Your skill with two weapons is so great that you are able to use them to shield incoming attacks.
+    Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well with your off-hand weapon.
   effect: |
-    Your get an additional Armor bonus of 2 any time you wield two weapons simultaneously. This bonus grants an armor bonus that replaces the one granted by a shield.
-    <strong>Special</strong>: This feat cannot be used in conjunction with a shield
+    When you have a weapon in each hand, you gain a +2 armor bonus. This feat cannot be used in conjunction with a shield.
 - !
-  name: Two Weapon Brute
+  name: Heavy Weapon Master
   prerequisite:
   - Agility 4
   - Might 5
-  - Multi-Attack Specialist
   tags:
   - Combat
-  - Feat Chain
   - Physical
+  - Agility
+  - Might
   cost:
   - 3
   description: |
-    Due to your strength and training, you are able to wield exceptionally heavy weapons simultaneously.
+    Due to your strength and training, you are able to wield exceptionally heavy weapons with ease.
   effect: |
-    The two weapons you wield can be any melee weapon, either one-handed or two-handed.
+    You can wield two-handed melee weapons in one hand. When you do, you still gain the usual advantage granted by two-handed weapons.
 - !
   name: Unending Charm
   prerequisite:
@@ -1193,24 +1208,28 @@
   tags:
   - Supernatural
   - Non-Combat
+  - Enchantment
   cost:
   - 3
   description: |
-    Your charm is so potent that if it is not resisted initially, victims become permanently enthralled by you.
+    Your charm is so potent that your victims may become permanently enthralled by you.
   effect: |
-    When using the Charmed bane, targets who do not make their Resist roll in the first 24 hours become permanently enthralled, and do not receive any more Resist rolls to shake themselves free of the effect. Other supernatural effects like a Dispel boon can end the effect (and other methods may work at the GM’s discretion).
+    When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other supernatural effects like a dispel boon can still end the effect (and other methods may work at the GM’s discretion).
 - !
   name: Untrackable
   prerequisite:
   - Abjuration 3 OR Alteration 3 OR Illusion 3
   tags:
   - Non-Combat
+  - Abjuration
+  - Alteration
+  - Illusion
   cost:
   - 1
   description: |
-    Your passage is undetectable, concealed by vines that grow back after you pass, a magical ward against detection, or an illusory veil that conceals them
+    Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are supernaturally protected from being tracked.
   effect: |
-    Your passage is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by supernatural means.
+    Your travel is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by supernatural means.
 - !
   name: Vicious Strike
   prerequisite:
@@ -1220,9 +1239,9 @@
   cost:
   - 2
   description: |
-    Whether through brute force, deadly precision, or a knack for volatile magic, a deadly attack delivered by you is exceptionally vicious
+    Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
   effect: |
-    Any time you roll a 20 on the d20 action roll for an attack, you roll twice on the subsequent re-roll of the d20 and take the higher result.
+    Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on the subsequent re-roll of the d20 and take the higher result.
 - !
   name: Well-Rounded
   prerequisite:
@@ -1232,9 +1251,9 @@
   cost:
   - 2
   description: |
-    You might be just plain lucky, well-studied, or you happen to have tried everything a few times before. The result is that you're pretty good at things you're not specialized in.
+    You have a versatile education, a wide range of experiences, or just plain old good luck. The result is that you're pretty good at things you're not specialized in.
   effect: |
-    Any time you make a non-attack roll with an attribute you have a score of 2 or less in, roll an additional d20 and keep the highest of the two d20 rolls.
+    Any time you make a non-attack action roll with an attribute in which you have a score of 2 or less, roll an additional d20 and keep the highest of the two d20s.
 - !
   name: Wealthy
   prerequisite:
@@ -1244,6 +1263,6 @@
   cost:
   - 3
   description: |
-    You are exceptionally wealthy, perhaps you were born into nobility, your family are powerful merchants, or your parents found some treasure which you inherited.
+    Whether you were born into nobility, heir to a great treasure, or simply a well-established merchant, you are wealthier than the average adventurer.
   effect: |
     Your wealth score is increased by 1.
