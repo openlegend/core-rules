@@ -60,7 +60,7 @@ choices. Instead, *Open Legend* uses a system of **banes** and **boons**, or sta
 
 Other mechanics that will ensure that you can focus on the story you want to tell include  simplified wealth and encumbrance systems. In *Open Legend*, you’ll never need to record a single gold piece on your character sheet or even think about how many pounds a long sword weighs.
 
-*Open Legend* straddles the line between fluff and crunch.
+*Open Legend* straddles the line by giving the best of both worlds, emphasizing both storytelling and strategy at the same time, placing less restrictions on both.
 
 We hope that we’ve built a game for players who love to tell a good story but don’t want every decision to be made on a whim.
 

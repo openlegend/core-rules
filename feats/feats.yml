@@ -344,7 +344,7 @@
     <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins</li>
     <li>Herbalism - poultices, natural remedies, stimulants, brewing</li>
     </ul>
-    
+
 - !
   name: Craft Beneficial or Baleful Item (I - IV)
   prerequisite:
@@ -404,9 +404,9 @@
 - !
   name: Death Blow (I – III)
   prerequisite:
-  - Tier 1: Agility 6 + Lethal Strike I
-  - Tier 2: Agility 7 + Lethal Strike III
-  - Tier 3: Agility 8 + Lethal Strike VI
+  - Tier 1 - Agility 6 + Lethal Strike I
+  - Tier 2 - Agility 7 + Lethal Strike III
+  - Tier 3 - Agility 8 + Lethal Strike VI
   tags:
   - Combat
   - Physical
@@ -1144,7 +1144,7 @@
 - !
   name: Tough as Nails (I - II)
   prerequisite:
-  - Fortitude 5
+  - Fortitude 3 / 5
   tags:
   - Defense
   - Physical
