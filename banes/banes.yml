@@ -31,7 +31,7 @@
   - Creation vs. Evasion
   - Energy vs. Evasion
   - Entropy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     You blind your foe with anything from a handful of sand, to an arctic blast, to a dazzling flash of light.
@@ -49,7 +49,7 @@
   - Enchantment
   attack:
   - Enchantment vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (special) (Fail x 3 = 24 hours)
   description: |
     Charms are one of the great banes of legend, wielded by powerful enchantresses like Circe (in Homer's The Odyssey), nymphs, and other enchanters who control the will of others, not through total domination, but through a magical spell of love or friendship.
@@ -78,7 +78,7 @@
   attack:
   - Agility vs. Toughness
   - Entropy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (special) (Fail x 3 = Permanent)
   description: |
     Utilizing either incredible precision or the power of entropy, the target’s life force is snuffed out completely. The most deadly assassins and most powerful necromancers are known for such legendary skill at snuffing out life.
@@ -111,7 +111,7 @@
   - Might vs. Resolve
   - Presence vs. Resolve
   - Persuasion vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist (minor) ends (Fail x 3 = 1 minute)
   description: |
     Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves.
@@ -142,7 +142,7 @@
   - Alteration vs. Evasion
   - Might vs. Toughness
   - Movement vs. Evasion
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     Whether through wrestling it from your opponent, forcefully knocking it out of their hand, skilfully parrying a weapon, a precise nerve strike, magical summoning of vines, etc., heating or chilling an item in their hands, giving a mental command, weakening the muscles they use to grip, or warping the shape of the item, you force an opponent to lose control of an object they are holding.
@@ -164,7 +164,7 @@
   - Abjuration
   attack:
   - Abjuration vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     You cancel boons affecting an enemy.
@@ -172,7 +172,7 @@
     Make an Abjuration roll. You can dispel boons affecting the target of a maximum Power Level equal to (Abjuration roll - 10) ÷ 2. The Power Level at which you invoke this bane determines the types of effects you can dispel, as follows:
     <ul>
       <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked.  In addition, the target cannot invoke that boon again for 1 minute.</li>
-      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp).  Resisting this bane is a minor action for the target.</li>
+      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
     </ul>
 - !
   name: Dominated
@@ -186,14 +186,14 @@
   - Enchantment
   attack:
   - Enchantment vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 hour)
   description: |
     Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes by the most powerful of sorcerers who command legions of mindless zombies, completely enslaved to their will.
   effect: |
     The dominated bane manifests at two levels: lesser and greater.
     <strong>Lesser Domination</strong> - the target obeys a one word command until the end of their next turn.
-    <strong>Greater Domination</strong> - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, can think freely, leaving them effectively trapped in their own body. They cannot take action of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a Resist roll as a free action to break free from the effect.  The attacker does not gain special access to the target’s mind and so can only order the character to perform actions that they think or know (from prior knowledge) that the character is capable of. Lastly, each mental order that the attacker gives to the target is a normal action, however the order can be a series of verbal commands like “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
+    <strong>Greater Domination</strong> - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, can think freely, leaving them effectively trapped in their own body. They cannot take action of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a Resist roll as a free action to break free from the effect.  The attacker does not gain special access to the target’s mind and so can only order the character to perform actions that they think or know (from prior knowledge) that the character is capable of. Lastly, each mental order that the attacker gives to the target is a major action, however the order can be a series of verbal commands like “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
       <ul>
       <li><strong>Power Level 3</strong> - You can target creatures of subhuman intelligence (animals, some elementals, certain undead, etc.) with Lesser Domination.</li>
       <li><strong>Power Level 5</strong> - You can target creatures of human intelligence or better with Lesser Domination. You can target creatures of subhuman intelligence (animals, some elementals, etc.) with Greater Domination.</li>
@@ -211,7 +211,7 @@
   - Entropy
   attack:
   - Entropy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Special
   description: |
     Fatigue overcomes the target, causing their body to gradually cease normal function until they rest.
@@ -243,7 +243,7 @@
   - Entropy vs. Resolve
   - Might vs. Toughness
   - Enchantment vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Special
   description: |
     You manifest an overwhelming force of physical might or supernatural power that strikes terror into the hearts of enemies, causing them to flee from your presence.
@@ -269,7 +269,7 @@
   - Might vs. Toughness
   - Movement vs. Toughness
   - Energy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will.
@@ -296,7 +296,7 @@
   - Energy vs. Toughness
   - Alteration vs. Evasion
   - Might vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     Whether through grappling, a precise nerve strike, entangling vines, exerting mental control, or a bone-numbing blast of cold, you render your foe incapable of movement.
@@ -322,7 +322,7 @@
   - Agility vs. Toughness
   - Entropy vs. Toughness
   - Enchantment vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     Incapacitation is a catch-all for a variety of effects, including total paralysis, sleep, petrification, poisoning, being knocked out, or fainting. Examples of possible causes of this bane include a martial artist’s paralyzing strike, an enchanter's magical song of sleep, paralysis by poison, fainting from extreme heat, suffocation, and the gaze of a medusa.
@@ -385,7 +385,7 @@
   attack:
   - Might vs. Toughness
   - Energy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering rbolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak.
@@ -401,7 +401,7 @@
   - Entropy
   attack:
   - Entropy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     The fangs of a vampire and the touch of a black mage that siphons away the very soul of his enemy are some examples of the Life Drain affliction.
@@ -419,7 +419,7 @@
   - Enchantment
   attack:
   - Enchantment vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     Warping or controlling the mind is one of the most dreaded powers of enchanters, causing powerful heroes to forget their homes, families, and quests.
@@ -447,7 +447,7 @@
   - Divination
   attack:
   - Divination vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: Fortune tellers, psychics, and mentalists all use mind dredge to peer into the minds of others.
   effect: |
@@ -477,7 +477,7 @@
   - Agility vs. Evasion
   - Energy vs. Toughness
   - Entropy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     Whether by setting the target ablaze, covering them in acid, slicing an atery, or cursing them with a wasting disease, you inflict them with a lasting and recurring source of damage.
@@ -489,7 +489,7 @@
       <li><strong>Power Level 6</strong> - 2d6 damage per round</li>
     </ul>
   special: |
-    Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy).  Each variation has a its own cure. When that cure is applied with a normal action (either by the afflicted character or another), the target receives a resist roll with advantage 1 (as a free action) to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the following examples can help with arbitration:
+    Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy).  Each variation has a its own cure. When that cure is applied with a major action (either by the afflicted character or another), the target receives a resist roll with advantage 1 (as a free action) to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the following examples can help with arbitration:
     <ul>
       <li>Bleeding damage is cured with a successful roll using Knowledge (Medical) or Creation.</li>
       <li>Lightning damage is cured by a discharge or grounding of the current.</li>
@@ -509,7 +509,7 @@
   - Illusion
   attack:
   - Illusion vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 10 minutes)
   description: |
     You create an illusory manifestation to deceive the senses of all within range. Some examples include making a meal taste rotten, creating the sound of a stampede of horses, hiding allies behind a false wall, and even manifesting an elven noble who can converse intelligibly.
@@ -596,7 +596,7 @@
   - Entropy
   attack:
   - Entropy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     Entropic energy overcomes the target, bombarding their system and inducing nausea which makes any kind of action difficult.
@@ -619,7 +619,7 @@
   - Might vs. Toughness
   - Entropy vs. Toughness
   - Alteration vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     Silence overcomes the target (whether from magically warping sound around the target) or from a physical effect like strangulation or suffocation.
@@ -642,7 +642,7 @@
   - Might vs. Toughness
   - Agility vs. Evasion
   - Entropy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     Slowing an enemy is usually caused by either extreme cold, prolonged heat, poison, or injury to one or both legs.
@@ -665,12 +665,12 @@
   - Agility vs. Toughness
   - Entropy vs. Toughness
   - Energy vs. Toughness
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     Stunning an enemy can be anything from the pommel of a dagger to the back of the head, to a kick in the groin, to a deafening thunderclap that disorients the target.
   effect: |
-    Attacks against the target gain advantage 1. Furthermore, during its turn, the target is limited to either a single normal action, a single move action, or a single minor action. It cannot take all three, nor can it take a focus action.
+    Attacks against the target gain advantage 1. Furthermore, during its turn, the target is limited to either a single major action, a single move action, or a single minor action. It cannot take all three, nor can it take a focus action.
 - !
   name: Stupefied
   tags:
@@ -681,7 +681,7 @@
   - Enchantment
   attack:
   - Enchantment vs. Resolve
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     The stupefied bane has examples in many stories and legends: a vampire’s eyes, a siren's song, and a nymph's beauty are all known to cast a stupor upon weak-willed mortals. Being stupefied causes the character to be lulled into a false sense of security, tranquility, and pacifism.
@@ -699,7 +699,7 @@
   - n/a
   attack:
   - n/a
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: 1 Round
   description: |
     Being surprised is being caught flat-footed and scrambling to react to an enemy that the character was either unaware of or did not realize was an enemy.

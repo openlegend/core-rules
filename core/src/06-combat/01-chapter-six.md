@@ -98,18 +98,18 @@ The remaining attributes don’t really lend themselves to damage. Without a VER
 
 ## Taking Your Turn
 
-When your turn in the initiative order comes, you are allowed one normal action, one move action, and any number of minor actions (though you may not take more than one minor action of the same type). In lieu of taking any of these actions, you may choose to take one focus action on your turn.
+When your turn in the initiative order comes, you are allowed one major action, one move action, and any number of minor actions (though you may not take more than one minor action of the same type). In lieu of taking any of these actions, you may choose to take one focus action on your turn.
 
 | On your turn, you may take... | Or... |
 | :- | :- |
-| 1 Normal Action* <br /> 1 Move Action <br />  Any number of minor actions | 1 Focus Action |
+| 1 Major Action* <br /> 1 Move Action <br />  Any number of minor actions | 1 Focus Action |
 
 
-*Normal action may be traded for a move action*
+*Major action may be traded for a move action*
 
-### Normal Actions
+### Major Actions
 
-Normal actions are what you take to get big things done in combat. Your normal action can be taken to do any of the following:
+Major actions are what you take to get big things done in combat. Your major action can be taken to do any of the following:
 
 -   Make a damaging attack
 
@@ -293,7 +293,7 @@ You can assist an ally with an action roll if they are using an attribute you ha
 
 #### Take an Extra Move Action
 
-On any turn, instead of taking a normal action, you may use an extra move action.
+On any turn, instead of taking a major action, you may use an extra move action.
 
 ### Move Actions
 
@@ -305,7 +305,7 @@ Move actions are typically what you take in order to maneuver around the battlef
 
 #### Move your speed
 
-You may move up to your speed. This movement may be broken up by other actions. For example, you may move 10 feet, use a minor action to open a door, move 10 more feet, and then use your normal action to attack a foe.
+You may move up to your speed. This movement may be broken up by other actions. For example, you may move 10 feet, use a minor action to open a door, move 10 more feet, and then use your major action to attack a foe.
 
 #### Take Special Movement
 
@@ -346,7 +346,7 @@ Many boons have a default duration of *sustain persists*, which means that every
 
 ### Focus Actions
 
-Using a focus action involves spending all of your energy and attention on one task. If you choose to forgo your normal, move, and minor actions for a round, you may instead take a focus action. Choose one of the following types of focus action:
+Using a focus action involves spending all of your energy and attention on one task. If you choose to forgo your major, move, and minor actions for a round, you may instead take a focus action. Choose one of the following types of focus action:
 
 **Disrupting Attack.** Make a damaging attack using the normal attack rules. If your attack deals 10 or more points of damage, then any boons being sustained by your target immediately end.
 
@@ -356,7 +356,7 @@ Using a focus action involves spending all of your energy and attention on one t
 
 ### Interrupt Actions
 
-In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your normal action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
+In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
 **Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Abjuration, Agility, and Might are all
 typical examples of attributes used to defend).

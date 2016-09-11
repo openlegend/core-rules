@@ -7,7 +7,7 @@
   attribute:
   - Alteration
   - Movement
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     You are able to supernaturally absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space to hide it.
@@ -68,7 +68,7 @@
   - Alteration
   - Divination
   - Presence
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     Your bolster an ally's chances of succes via inspiration, augmentation, divine blessing, or supernatural insight.
@@ -91,7 +91,7 @@
   - Divination
   - Entropy
   - Perception
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or supernaturally heightened senses.
@@ -114,7 +114,7 @@
   attribute:
   - Entropy
   - Illusion
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You create an area of illusory darkness or entropic energy that snuffs out all light.
@@ -128,7 +128,7 @@
   - 1
   attribute:
   - Divination
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You gain supernatural vision that allows you to see colored auras which correlate to magical and spiritual forces.
@@ -152,7 +152,7 @@
   attribute:
   - Alteration
   - Movement
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     The target is propelled by magical force through the air, moving at incredible speed and with perfect agility.
@@ -194,7 +194,7 @@
   attribute:
   - Movement
   - Alteration
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     The target moves with supernatural speed, dodging attacks more deftly and accomplishing accomplishing actions at an uncanny rate.
@@ -202,8 +202,8 @@
     <ul>
     <li><strong>Power Level 2</strong> - The target's speed is increased by 5'. </li>
     <li><strong>Power Level 4</strong> - The target's speed is increased by 10'. Attacks against the target’s Evasion defense suffer disadvantage 1. </li>
-    <li><strong>Power Level 6</strong> - The target's speed is increased by 15'. Attacks against the target's Evasion defense suffer disadvantage 2. The target gains an extra normal action every round.</li>
-    <li><strong>Power Level 8</strong> - The target's speed is increased by 25'. Attacks against the target's Evasion defense suffer disadvantage 3. The target gains an extra normal action every round.</li>
+    <li><strong>Power Level 6</strong> - The target's speed is increased by 15'. Attacks against the target's Evasion defense suffer disadvantage 2. The target gains an extra major action every round.</li>
+    <li><strong>Power Level 8</strong> - The target's speed is increased by 25'. Attacks against the target's Evasion defense suffer disadvantage 3. The target gains an extra major action every round.</li>
     </ul>
 - !
   name: Heal
@@ -222,7 +222,7 @@
   attribute:
   - Creation
   - Presence
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     Healing is magical energy overflowing from a creative life force which heals wounds and mends broken bones.
@@ -249,7 +249,7 @@
   attribute:
   - Alteration
   - Entropy
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     When a creature becomes insubstantial, it is no longer bound by physical barriers. Ghosts, wizards assuming gaseous form, and creatures who blink between dimensions are all exemplars of the insubstantial boon.
@@ -263,7 +263,7 @@
   - 6
   attribute:
   - Illusion
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You vanish from the visible spectrum, either through magical control of light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
@@ -279,7 +279,7 @@
   - 5
   attribute:
   - Movement
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     The target gains the ability to fly at a very slow speed.
@@ -320,7 +320,7 @@
   - 9
   attribute:
   - Divination
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You reach out and supernaturally connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
@@ -346,7 +346,7 @@
   attribute:
   - Alteration
   - Creation
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     The target gains a supernatural ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
@@ -372,7 +372,7 @@
   - Alteration
   - Energy
   - Movement
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     Whether through a magical force field, an elemental wall, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack.
@@ -391,7 +391,7 @@
   attribute:
   - Abjuration
   - Creation
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     Your protective magic cancels all harmful afflictions that are effecting an ally.
@@ -407,7 +407,7 @@
   - Creation
   - Energy
   - Abjuration
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You summon a warding barrier of flames, blades, thorns, or similar material to damage enemies that dare to approach.
@@ -430,7 +430,7 @@
   - 6
   attribute:
   - Divination
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You are able to see through the eyes of a willing ally.
@@ -456,7 +456,7 @@
   - 9
   attribute:
   - Alteration
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     A target's physical structure is temporarily altered, allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
@@ -487,14 +487,14 @@
   - 8
   attribute:
   - Movement
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You reach out and supernaturally control an unattended inanimate object.
   effect: |
     Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 30'. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The Power Level of the boon determines the size and weight of the objects you may target:
     <ul><li><strong>Power Level 5</strong> - The object must be smaller or lighter than a fist-sized rock.</li>
-    <li><strong>Power Level 6</strong> - The object must be smaller or lighter than a large large humanoid creature.</li>
+    <li><strong>Power Level 6</strong> - The object must be smaller or lighter than a large humanoid creature.</li>
     <li><strong>Power Level 8</strong> - The object must be smaller or lighter than a small building, such as a hut or shed.</li>
     </ul>
 - !
@@ -508,7 +508,7 @@
   - 7
   attribute:
   - Divination
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication.
@@ -594,7 +594,7 @@
   - 9
   attribute:
   - Divination
-  invocationTime: 1 Normal Action
+  invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You are able to supernaturally perceive things through impediments that would block or deceive normal sight, including darkness, illusions, and even the barrier between alternate planes of reality.

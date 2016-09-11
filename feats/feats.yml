@@ -21,13 +21,13 @@
   description: |
     Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
-    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a normal action. When you assume your new form, you gain a pool of points equal to your Alteration score, which you may immediately spend to temporarily increase your physical attributes. You cannot raise any physical attribute to be greater than your Alteration score, unless the physical attribute is already equal to your Alteration. In that case, you may increase it by a maximum of one point. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural abilities of the chosen form.
+    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a major action. When you assume your new form, you gain a pool of points equal to your Alteration score, which you may immediately spend to temporarily increase your physical attributes. You cannot raise any physical attribute to be greater than your Alteration score, unless the physical attribute is already equal to your Alteration. In that case, you may increase it by a maximum of one point. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural attributes of the chosen form.
 
-    You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a normal action. Upon returning to your original form, your physical attributes return to their previous values.
+    You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a major action. Upon returning to your original form, your physical attributes return to their previous values.
     <ul>
     <li>Tier 1 – Your alternate form must be the same size as your normal form.</li>
     <li>Tier 2 – Your alternate form can be one size different from your normal size.</li>
-    <li>Tier 3 – Your alternate form can be any size. In addition, you are able to use supernatural attacks and abilities (dragon’s breath, nymph’s charm, etc.) of your chosen form. Use your Alteration score for action rolls relating to these supernatural abilities.</li>
+    <li>Tier 3 – Your alternate form can be any size. In addition, you are able to use supernatural attributes for attacks (dragon’s breath, nymph’s charm, etc.) of your chosen form. Use your Alteration score for action rolls relating to these supernatural abilities.</li>
     </ul>
 - !
   name: Area Manipulation (I - V)
@@ -247,7 +247,7 @@
   effect: |
     <ul>
     <li>Tier 1 - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
-    <li>Tier 2  - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, invoking the boon is one time increment faster.  If the invocation time is a normal action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 normal action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
+    <li>Tier 2  - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, invoking the boon is one time increment faster.  If the invocation time is a major action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 major action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
     <li>Tier 3 - When your invocation includes multiple targets, you gain advantage 4 on your action rolll to invoke the boon. Additionally, the chosen boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it returns automatically at the start of your next turn.</li>
     </ul>
 - !
@@ -638,7 +638,7 @@
   description: |
     Through inspiring words, magical healing, or advanced medical technique, you are exceptionally skilled at helping others shake off baneful afflictions.
   effect: |
-    You can use a normal action to give an ally an immediate Resist roll (a free action for the ally). The ally gains a special form of advantage on this roll, allowing them to roll 2d20 and keep the highest. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
+    You can use a major action to give an ally an immediate Resist roll (a free action for the ally). The ally gains a special form of advantage on this roll, allowing them to roll 2d20 and keep the highest. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
 - !
   name: Hunter's Foe (I - IX)
   prerequisite:
@@ -989,7 +989,7 @@
   description: |
     Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
   effect: |
-    Any time you make a Resist roll, you have Advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to normal action rolls)
+    Any time you make a Resist roll, you have Advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to major action rolls)
 - !
   name: Ritual Magic (I - III)
   prerequisite:
@@ -1012,19 +1012,18 @@
     </ul>
 
     <strong>Tier 1</strong> - You may choose one of the following effects to empower your bane or boon:<br />
-      <ul>
-      <li>Increase the range of the effect as follows:
-        Attribute 5 = 500ft<br />
-        Attribute 6 = 1/2 mile<br />
-        Attribute 7 = 1 mile<br />
-        Attribute 8 = 10 miles<br />
-        Attribute 9 = 100 miles<br /></li>
-      <li>Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).</li>
-      <li>For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.</li>
-      </ul>
-      </li>
+    <ul>
+    <li>Increase the range of the effect as follows:
+      Attribute 5 = 500ft<br />
+      Attribute 6 = 1/2 mile<br />
+      Attribute 7 = 1 mile<br />
+      Attribute 8 = 10 miles<br />
+      Attribute 9 = 100 miles<br /></li>
+    <li>Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).</li>
+    <li>For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.</li>
+    </ul>
+
     <strong>Tier 2</strong> - You gain the following abilities:
-    <li>
     <ul>
       <li>You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.</li>
       <li>You gain the following additional option to choose from when empowering your invocations with ritual magic:</li>
@@ -1033,15 +1032,13 @@
         <li>Targets may not make resist rolls against a bane for one minute after it is invokes.</li>
         </ul>
     </ul>
-    </li>
-    <li><strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
-        <ul>
-        <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Boon entry that follows).</li>
-        <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Bane entry that follows).</li>
-        <li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.</li>
-        <li><strong>Dispel Bane</strong> - Make an Abjuration roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though the bane can still be invoked by other means.</li>
-        </ul>
-      </li>
+
+    <strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
+    <ul>
+    <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Boon entry that follows).</li>
+    <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Bane entry that follows).</li>
+    <li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.</li>
+    <li><strong>Dispel Bane</strong> - Make an Abjuration roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though the bane can still be invoked by other means.</li>
     </ul>
 - !
   name: Skill Specialization (I - V)
@@ -1054,7 +1051,7 @@
   description: |
     You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similar exceptional non-combat talent.
   effect: |
-    Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute..<br />
+    Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.<br />
     <strong>Special</strong>: You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
 - !
   name: Silencing Strike
