@@ -180,7 +180,7 @@ You may target any number of foes that are within your reach. When targeting mor
 
 **Projectile Multi-Attacks**
 
-You may target up to five foes that fall within a 25-foot square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
+You may target up to five foes that fall within a 25 square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
 
 **Area Attacks**
 

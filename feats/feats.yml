@@ -116,7 +116,7 @@
   description: |
     You are specialized in the use of a particular bane that is iconic to your character.
   effect: |
-    Choose a bane that you can invoke. When making a damaging attack, you can inflict this bane for free when you deal at least 5 points of damage (as opposed to the usual 10). Each attack is still only capable of inflicting a single bane.
+    Choose a bane that you can invoke. When making a damaging attack, you can inflict this bane for free when you deal at least 5 points of damage (as opposed to the usual 10). Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
 - !
   name: Battlefield Defender
   prerequisite:
@@ -1132,27 +1132,6 @@
     Something about you reveals your inherent supernatural nature through a visible manifestation. A few well-known examples of this ability include: an icy chill that is felt by those who stand within 10’ of you, glowing eyes, a supernatural shimmer that can be seen emanating from you, a trail of withering plants that follows you, or pupil-less / strangely colored eyes.
   effect: |
     At the discretion of the GM, your supernatural presence will have differing effects on different groups that you interact with – some will be cowed into fear or reverence, others will inherently trust or distrust you depending on the NPC’s beliefs about your power and it’s perceived source. The GM should allow you to occasionally use your supernatural presence to gain Advantage 1 to a Presence or Persuasion action roll. From time to time the GM should have that same bonus become a Disadvantage 1 instead, depending upon the beliefs and opinions of those you interact with.
-- !
-  name: Tactical Foresight (I - III)
-  prerequisite:
-  - Logic OR Presence OR Perception 3 / 4 / 5
-  tags:
-  - Combat
-  - Mental
-  - Social
-  - Logic
-  - Presence
-  - Perception
-  cost:
-  - 2
-  description: |
-    Whether through a sixth sense bred from a life of combat, advanced tactical training, or merely blind luck, you and nearby allies can avoid attacks that would have otherwise landed.
-  effect: |
-    <ul>
-    <li><strong>Tier 1</strong> - Once per round as a free action, you may add 1d4 to an ally's defense or your own. You may choose to use this ability after the attack roll has been made.</li>
-    <li><strong>Tier 2</strong> - As above, but roll 1d6 instead.</li>
-    <li><strong>Tier 3</strong> - As above, but roll 1d8 instead.</li>
-    </ul>
 - !
   name: Tough as Nails (I - II)
   prerequisite:

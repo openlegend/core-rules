@@ -271,35 +271,34 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Barbarian | Ranger | Monk |
 | :- | :- | :- |
-| Berserker | Master Tracker | Fleet of Foot 1 |
-| Reckless Frenzy | Attack Specialization 1 (Longbow) | Martial Focus (Unarmed) |
-| | Multi-target Attack Specialist 1 (melee) | Combat Momentum |
+| Berserker | Master Tracker | Multi-target Attack Specialist 1 (melee) |
+| Reckless Frenzy | Fleet of Foot 1 |  Martial Focus (Unarmed) |
+| | Attack Specialization 1 (Longbow) | Combat Momentum |
 
 <br>
 
 <div class="table-no-stripes table-even-header"></div>
 | Paladin | Elemental Mage | Mind Mage |
 | :- | :- | :- |
-| Attribute Substitution (Presence > Might)  | Area Manipulation 1 | Hallucination |
-| Armor Mastery (Scale Mail) | Attack Specialization 1 (Cold) | Potent Bane (Phantasm) |
-| Multi-target Attack Specialist (Area) | | |
+| Attribute Substitution (Presence > Might)  | Attack Specialization 1 (Cold) | Hallucination |
+| Armor Mastery (Scale Mail) | Area Manipulation 1 | Potent Bane (Phantasm) |
+| | Multi-target Attack Specialist (Area) | |
 
 <br>
 
 <div class="table-no-stripes table-even-header"></div>
 | Assassin | Cleric | Druid |
 | :- | :- | :- |
-| Martial Focus (Dagger) | Restorative Adept 1 | Armor Specialization 2 (Scale Mail) |
-| Lethal Strike 1 | Armor Specialization 1 (Scale Mail) | Ferocious Minions |
-| Master Shifter 1 | Boon Focus 1 (Shapeshift) | |
+| Martial Focus (Dagger) | Boon Focus (Heal) | Boon Focus (Shapeshift) |
+| Lethal Strike 1 | Armor Specialization 1 (Scale Mail) | Master Shifter 1 |
 
 <br>
 
 <div class="table-no-stripes table-even-header"></div>
 | Shadowdancer | Bard | Arcane Protector |
 | :- | :- | :- |
-| Lethal Strike 1 | Tactical Inspiration 2 | Defensive Expert 1 |
-| Boon Focus 1 (Teleport) | Restorative Adept 1 | Boon Focus (Teleport) |
+| Lethal Strike 1 | Boon Focus (Aid) | Defensive Reflexes 1 |
+| Boon Focus 1 (Teleport) | Boon Focus (Heal) | Boon Focus (Teleport) |
 
 <br><br>
 
