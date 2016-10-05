@@ -99,7 +99,7 @@
   description: |
     Your prowess in a supernatural, mental, or social attribute empowers a physical aspect of your character, allowing you to use that attribute for tasks normally reserved for another attribute.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, as well as an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity.
   effect: |
-    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). When making action rolls with the dependent attribute, you may use your score in the primary attribute for damaging attacks, bane attacks, boon invocations, and other actions at the GM's discretion. This relationship is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a Holy Warrior that draws on divine power in place of physical power to substitute Presence for Might.
+    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). When making action rolls with the dependent attribute, you may use your score in the primary attribute for damaging attacks, bane attacks, boon invocations, and other actions at the GM's discretion. This relationship is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
     For the purpose of meeting attribute prerequisites when purchasing feats, your dependent attribute is considered equal to that of your primary attribute score.
     <strong>Special</strong>: This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
 - !
@@ -776,7 +776,6 @@
   name: Martial Focus
   prerequisite:
   - Agility 1 / Might 1
-  - Character Level 1
   tags:
   - Combat
   - Physical
@@ -1108,7 +1107,6 @@
   name: Supernatural Focus
   prerequisite:
   - Any Supernatural Attribute 1
-  - Character Level 1
   tags:
   - Supernatural
   cost:
