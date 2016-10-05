@@ -147,6 +147,7 @@
   tags:
   - Supernatural
   power:
+  - 5
   - 6
   - 8
   attribute:
@@ -158,6 +159,7 @@
     The target is propelled by magical force through the air, moving at incredible speed and with perfect agility.
   effect: |
     <ul>
+    <li><strong>Power Level 6</strong> - The target gains a flight speed of 10’ with low manueverability.</li>
     <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly manueverable.</li>
     <li><strong>Power Level 8</strong> - The granted flight speed increases to 60'.</li>
     </ul>
@@ -254,7 +256,9 @@
   description: |
     When a creature becomes insubstantial, it is no longer bound by physical barriers. Ghosts, wizards assuming gaseous form, and creatures who blink between dimensions are all exemplars of the insubstantial boon.
   effect: |
-    The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (30' for most characters). If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
+    The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (30' for most characters).
+    If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
+    The target becomes immune to all attcks that target either Evasion or Toughness, however, they also cannot deliver any attacks that target Evasion or Toughness.
 - !
   name: Invisible
   tags:
@@ -271,20 +275,6 @@
     <ul>
     <li><strong>Power Level 6</strong> - Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.</li>
     </ul>
-- !
-  name: Levitation
-  tags:
-  - Supernatural
-  power:
-  - 5
-  attribute:
-  - Movement
-  invocationTime: 1 Major Action
-  duration: Sustain Persists
-  description: |
-    The target gains the ability to fly at a very slow speed.
-  effect: |
-    The target gains a flight speed of 10', maintaining the ability to fly for as long as the boon persists.  If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
 - !
   name: Light
   tags:
@@ -447,7 +437,6 @@
   tags:
   - Supernatural
   power:
-  - 2
   - 3
   - 4
   - 6

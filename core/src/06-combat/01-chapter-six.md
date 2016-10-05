@@ -33,9 +33,6 @@ Write down all initiative scores from highest to lowest. When taking turns in co
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
-### Drawing Weapons
-
-At any time during combat, if a combatant draws a new weapon, he can potentially change his order in the initiative list. The combatant finishes his current turn and then re-rolls initiative. The new initiative roll does not take effect until the next round (so, this re-rolling does not allow a character to act twice in one round). The *swift* property grants advantage on this initiative roll as well.
 
 ## The Core Mechanic in Combat
 
@@ -94,7 +91,7 @@ trick.
 
 ### Probably Never
 
-The remaining attributes don’t really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, divination, movement.
+The remaining attributes don’t really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, divination.
 
 ## Taking Your Turn
 
@@ -180,7 +177,7 @@ You may target any number of foes that are within your reach. When targeting mor
 
 **Projectile Multi-Attacks**
 
-You may target up to five foes that fall within a 25 square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
+You may target up to five foes that fall within a 25' square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
 
 **Area Attacks**
 
@@ -328,7 +325,7 @@ Instead of using your move action to maneuver, you may focus your energy on shak
 
 Minor actions are tasks that don’t require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
--   Draw a weapon (which forces you to reroll initiative, see above)
+-   Draw a weapon
 -   Retrieve an item stored on your person
 -   Sustain a boon
 -   Make a Perception roll to observe your surroundings
