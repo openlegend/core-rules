@@ -73,25 +73,21 @@ Some attributes can pretty much always be used to deal damage. These include Mig
 
 ### Sometimes
 
-A few attributes can be used for damaging attacks in special circumstances in which the story dictates that the damage arises from your skill in the attribute. These include Logic, Abjuration, Alteration, Enchantment, Illusion, and Movement. Though the occasions to use these attributes for damage will be rare, as long as the story makes sense, combatants should be able to damage foes with them. Examples of situations in which these attributes might be used in an action roll for a damaging attack are provided below.
+A few attributes can be used for damaging attacks in special circumstances in which the story dictates that the damage arises from your skill in the attribute. These include Logic, Protection, Alteration, Influence, and Movement. Though the occasions to use these attributes for damage will be rare, as long as the story makes sense, combatants should be able to damage foes with them. Examples of situations in which these attributes might be used in an action roll for a damaging attack are provided below.
 
 **Logic.** Springing a trap on your foes.
 
-**Abjuration.** Shielding yourself with a wall of magical knives.
+**Protection.** Shielding yourself with a wall of magical knives.
 
 **Alteration.** Causing a tree branch to strangle a foe.
 
-**Enchantment.** Forcing a dominated enemy to stab himself.
-
-**Illusion.** If your illusion is convincing enough, any number of
-illusory effects could mimic damage until your enemy is aware of the
-trick.
+**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For supernatural compulsion, forcing a dominated enemy to stab himself.
 
 **Movement.** Using telekinesis to hurl a boulder at a foe.
 
 ### Probably Never
 
-The remaining attributes don’t really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, divination.
+The remaining attributes don’t really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
 
 ## Taking Your Turn
 
@@ -355,7 +351,7 @@ Using a focus action involves spending all of your energy and attention on one t
 
 In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
-**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Abjuration, Agility, and Might are all
+**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Protection, Agility, and Might are all
 typical examples of attributes used to defend).
 
 If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. (**Note:** Characters wielding a shield gain advantage on defend actions when appropriate).

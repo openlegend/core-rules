@@ -1,7 +1,7 @@
 - !
   name: Ageless
   prerequisite:
-  - Abjuration, Creation, Alteration, or Entropy 9
+  - Protection, Creation, Alteration, or Entropy 9
   tags:
   - Supernatural
   cost:
@@ -120,11 +120,11 @@
 - !
   name: Battlefield Defender
   prerequisite:
-  - Might 4 OR Agility 4 OR Abjuration 4
+  - Might 4 OR Agility 4 OR Protection 4
   tags:
   - Might
   - Agility
-  - Abjuration
+  - Protection
   - Passive
   - Combat
   cost:
@@ -465,7 +465,7 @@
   name: Disease Immunity
   prerequisite:
   - Creation 5
-  - Abjuration 5
+  - Protection 5
   tags:
   - Non-Combat
   cost:
@@ -534,10 +534,10 @@
 - !
   name: Ferocious Minions
   prerequisite:
-  - Enchantment 3 / 5 / 7
+  - Influence 3 / 5 / 7
   tags:
   - Supernatural
-  - Enchantment
+  - Influence
   cost:
   - 2
   description: |
@@ -592,11 +592,11 @@
 - !
   name: Hallucination
   prerequisite:
-  - Illusion 5
+  - Influence 5
   tags:
   - Supernatural
   - Non-Combat
-  - Illusion
+  - Influence
   cost:
   - 3
   description: |
@@ -606,34 +606,34 @@
 - !
   name: Hallucination (Mass)
   prerequisite:
-  - Illusion 7
+  - Influence 7
   - Hallucination
   tags:
   - Supernatural
   - Non-Combat
-  - Illusion
+  - Influence
   cost:
   - 3
   description: |
     Your hallucinations become legendary in power, granting you the power to affect small groups or even crowds.
   effect: |
-    When you invoke the hallucination form of Phantasm bane, you may target additional creatures within range as determined by your Illusion score. This does not count as a multi-attack and thus does not incur disadvantage on your action roll.
+    When you invoke the hallucination form of Phantasm bane, you may target additional creatures within range as determined by your Influence score. This does not count as a multi-attack and thus does not incur disadvantage on your action roll.
     <ul>
-    <li><strong>Illusion 7</strong> - 5 Target</li>
-    <li><strong>Illusion 8</strong> - 10 Targets</li>
-    <li><strong>Illusion 9</strong> - 50 Targets</li>
+    <li><strong>Influence 7</strong> - 5 Target</li>
+    <li><strong>Influence 8</strong> - 10 Targets</li>
+    <li><strong>Influence 9</strong> - 50 Targets</li>
     </ul>
 - !
   name: Hospitaler
   prerequisite:
-  - Creation 4 / Presence 4 / Abjuration 4
+  - Creation 4 / Presence 4 / Protection 4
   tags:
   - Non-Combat
   - Supernatural
   - Social
   - Creation
   - Presence
-  - Abjuration
+  - Protection
   cost:
   - 2
   description: |
@@ -1037,7 +1037,7 @@
     <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Boon entry that follows).</li>
     <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Bane entry that follows).</li>
     <li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.</li>
-    <li><strong>Dispel Bane</strong> - Make an Abjuration roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though the bane can still be invoked by other means.</li>
+    <li><strong>Dispel Bane</strong> - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though the bane can still be invoked by other means.</li>
     </ul>
 - !
   name: Skill Specialization (I - V)
@@ -1080,7 +1080,7 @@
 - !
   name: Supernatural Defense (I - V)
   prerequisite:
-  - Abjuration OR Divination OR Movement 2 / 3 / 4 / 5 / 6
+  - Protection OR Prescience OR Movement 2 / 3 / 4 / 5 / 6
   tags:
   - Supernatural
   - Defense
@@ -1176,11 +1176,11 @@
 - !
   name: Unending Charm
   prerequisite:
-  - Enchantment 4
+  - Influence 4
   tags:
   - Supernatural
   - Non-Combat
-  - Enchantment
+  - Influence
   cost:
   - 3
   description: |
@@ -1190,12 +1190,12 @@
 - !
   name: Untrackable
   prerequisite:
-  - Abjuration 3 OR Alteration 3 OR Illusion 3
+  - Protection 3 OR Alteration 3 OR Influence 3
   tags:
   - Non-Combat
-  - Abjuration
+  - Protection
   - Alteration
-  - Illusion
+  - Influence
   cost:
   - 1
   description: |

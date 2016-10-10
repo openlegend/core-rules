@@ -14,6 +14,31 @@
   effect: |
     The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your body as if you had withdrawn it to your hand.
 - !
+  name: Aid
+  tags:
+  - Supernatural
+  - Physical
+  power:
+  - 4
+  - 6
+  - 8
+  attribute:
+  - Creation
+  - Alteration
+  - Prescience
+  - Presence
+  invocationTime: 1 Major Action
+  duration: Instantaneous
+  description: |
+    Your bolster an ally's chances of succes via inspiration, augmentation, divine blessing, or supernatural insight.
+  effect: |
+    Choose a physical, social, or mental attribute. The target gains advantage on their next action roll according to the Power Level of the boon. If the target does not make the roll before your next turn, the bonus is lost.
+    <ul>
+    <li><strong>Power Level 4</strong> - Advantage 1</li>
+    <li><strong>Power Level 6</strong> - Advantage 2</li>
+    <li><strong>Power Level 8</strong> - Advantage 3</li>
+    </ul>
+- !
   name: Animation
   tags:
   - Supernatural
@@ -42,7 +67,7 @@
   - 5
   - 7
   attribute:
-  - Divination
+  - Prescience
   invocationTime: 1 Minute
   duration: 1 round
   description: |
@@ -52,32 +77,7 @@
     <li><strong>Power Level 1</strong> - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
     <li><strong>Power Level 3</strong> - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
     <li><strong>Power Level 5</strong> - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek.  You can only ask one question about a given target per week.</li>
-    <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your divination. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
-    </ul>
-- !
-  name: Aid
-  tags:
-  - Supernatural
-  - Physical
-  power:
-  - 4
-  - 6
-  - 8
-  attribute:
-  - Creation
-  - Alteration
-  - Divination
-  - Presence
-  invocationTime: 1 Major Action
-  duration: Instantaneous
-  description: |
-    Your bolster an ally's chances of succes via inspiration, augmentation, divine blessing, or supernatural insight.
-  effect: |
-    Choose a physical, social, or mental attribute. The target gains advantage on their next action roll according to the Power Level of the boon. If the target does not make the roll before your next turn, the bonus is lost.
-    <ul>
-    <li><strong>Power Level 4</strong> - Advantage 1</li>
-    <li><strong>Power Level 6</strong> - Advantage 2</li>
-    <li><strong>Power Level 8</strong> - Advantage 3</li>
+    <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
     </ul>
 - !
   name: Blindsight
@@ -88,7 +88,7 @@
   - 5
   attribute:
   - Alteration
-  - Divination
+  - Prescience
   - Entropy
   - Perception
   invocationTime: 1 Major Action
@@ -113,7 +113,7 @@
   - 9
   attribute:
   - Entropy
-  - Illusion
+  - Influence
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -127,7 +127,7 @@
   power:
   - 1
   attribute:
-  - Divination
+  - Prescience
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -266,7 +266,7 @@
   power:
   - 6
   attribute:
-  - Illusion
+  - Influence
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -309,7 +309,7 @@
   - 8
   - 9
   attribute:
-  - Divination
+  - Prescience
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -359,7 +359,7 @@
   - 7
   - 9
   attribute:
-  - Abjuration
+  - Protection
   - Alteration
   - Energy
   - Movement
@@ -368,7 +368,7 @@
   description: |
     Whether through a magical force field, an elemental wall, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack.
   effect: |
-    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include finesse, forceful, fire, cold, lightning, acid, enchantment, creation, illusion, and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
+    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include finesse, forceful, fire, cold, lightning, acid, influence, creation, and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
     <ul>
     <li><strong>Power Level 3</strong> - Your defense scores are increased by 3 against the chosen attack type.</li>
     <li><strong>Power Level 5</strong> - Your defense scores are increased by 6 against the chosen attack type.</li>
@@ -381,14 +381,14 @@
   power:
   - 1
   attribute:
-  - Abjuration
+  - Protection
   - Creation
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
     Your protective magic cancels all harmful afflictions that are effecting an ally.
   effect: |
-    Make an Abjuration roll. You can dispel all banes affecting the target of a maximum Power Level equal to (Abjuration roll - 10) ÷ 2.
+    Make an Protection roll. You can dispel all banes affecting the target of a maximum Power Level equal to (Protection roll - 10) ÷ 2.
 - !
   name: Retributive Barrier
   tags:
@@ -398,7 +398,7 @@
   attribute:
   - Creation
   - Energy
-  - Abjuration
+  - Protection
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -421,13 +421,13 @@
   - 5
   - 6
   attribute:
-  - Divination
+  - Prescience
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
     You are able to see through the eyes of a willing ally.
   effect: |
-    For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on your Divination score.
+    For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on your Prescience score.
     <ul>
     <li><strong>Power Level 4</strong> - The ally must be within 100'. </li>
     <li><strong>Power Level 5</strong> - The ally must be within 1 mile. </li>
@@ -498,7 +498,7 @@
   - 6
   - 7
   attribute:
-  - Divination
+  - Prescience
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -541,7 +541,7 @@
   - 5
   - 6
   attribute:
-  - Divination
+  - Prescience
   invocationTime: 10 Minutes
   duration: Sustain Persists
   description: |
@@ -584,7 +584,7 @@
   - 7
   - 9
   attribute:
-  - Divination
+  - Prescience
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |

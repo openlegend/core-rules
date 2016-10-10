@@ -69,14 +69,13 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 <div class="table-no-head thirty-seventy"></div>
 | | |
 | - | - |
-| **Abjuration** | Protect from damage, break enchantments, dispel magic, bind demons |
+| **Protection** | Protect from damage, break supernatural influence, dispel magic, bind demons |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
 | **Creation** | Channeling higher powers for healing, creation, resurrection, divine might, etc. |
-| **Divination** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
-| **Enchantment** | Control the minds of others, dominate wills, speak telepathically, instill supernatural fear |
+| **Prescience** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
-| **Illusion** | Create illusory figments, deceive the senses, cloak with invisibility |
+| **Influence** | Control the minds of others, speak telepathically, instill supernatural fear, create illusory figments, cloak with invisibility |
 | **Movement** | Teleport, fly, hasten, slow |
 
 In *Open Legend*, you get to define your character’s strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
@@ -128,7 +127,7 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Fortitude 4 | Deception 2 | Fortitude 2 |
 | Might 5 | Perception 4 | Logic 1 |
 | Perception 3 | Will 3 | Perception 3 |
-| Will 3 | Enchantment 3 | Will 2 |
+| Will 3 | Influence 3 | Will 2 |
 | | | Movement 4 |
 
 <br>
@@ -139,11 +138,11 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Fortitude 4 | Agility 3 | Agility 3 |
 | Presence 5 | Fortitude 1 | Presence 2 |
 | Learning 1 | Might 1 | Persuasion 1 |
-| Perception 1 | Presence 1 | Learning 2 |
+| Perception 1 | Presence 1 | Learning 3 |
 | Will 3 | Persuasion 1 | Logic 2 |
-| Creation 3 | Learning 2 | Will 2 |
-| Divination 1 | Logic 2 | Enchantment 5 |
-| | Perception 2 | Illusion 3 |
+| Creation 3 | Learning 2 | Will 3 |
+| Prescience 1 | Logic 2 | Influence 5 |
+| | Perception 2 | |
 | | Will 3 | |
 | | Energy 5 | |
 
@@ -158,8 +157,8 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Presence 3 | Persuasion 1 |  Perception 2 |
 | Persuasion 3 | Learning 1 |  Will 2 |
 | Perception 3 | Will 2 |  Alteration 4 |
-| Abjuration 4 | Abjuration 4 | |
-| | Creation 5 | Enchantment 4 |
+| Protection 4 | Protection 4 | |
+| | Creation 5 | Influence 4 |
 
 <br>
 
@@ -171,7 +170,7 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Perception 3 | Persuasion 3 | Learning 3  |
 | Will 1 | Learning 1 | Logic 1  |
 | Entropy 3 | Creation 2 | Will 2  |
-| Movement 3 | Enchantment 4 | Abjuration 5  |
+| Movement 3 | Influence 4 | Protection 5  |
 
 
 ### Record Attribute Dice
@@ -231,7 +230,7 @@ When an enemy tries to attack you--whether with a breath of flame, a deft sword 
 | - |
 | |
 
-**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to magically charm you, deceive you with illusions, or frighten you must target your resolve.
+**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to supernaturally charm you, deceive you with illusions, or frighten you must target your resolve.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Hit Points = 2 x (Fortitude + Presence + Will) + 10 |
