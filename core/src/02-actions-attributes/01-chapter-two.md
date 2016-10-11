@@ -5,7 +5,7 @@ interpret the results.
 
 ## When to Roll the Dice
 
-*Open Legend *is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
+*Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
 example, you’ll be making plenty of action rolls to clash blades, sling spells, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left the key to your room at the inn.
 
 ## Every Roll Matters
