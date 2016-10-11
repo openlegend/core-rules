@@ -266,6 +266,7 @@
   power:
   - 6
   attribute:
+  - Alteration
   - Influence
   invocationTime: 1 Major Action
   duration: Sustain Persists

@@ -172,6 +172,8 @@ Advantage and disadvantage can be assigned by the GM due to situational effects,
 | Conducting research in a well-stocked library | Conducting research while sick |
 | Tracking a large group | Tracking a creature smaller than a child |
 
+
+
 The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed attribute can be expected to succeed at the listed Challenge Rating close to **50%** of the time.
 
 <div class="table-no-body table-centered"></div>
@@ -191,3 +193,17 @@ The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings
 | 7 | 24 |
 | 8 | 26 |
 | 9 | 28 |
+
+## Legend Points
+
+An additional layer of depth to action resolution comes in the form of legend points, which allow players an opportunity to stack the dice when it comes time to perform a particularly legendary action.
+
+Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying (see Chapter 1: Character Creation).
+
+For example, Zaax has the *hot tempered* flaw, causing him to easily lose control of his anger. In the middle of the party’s tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
+
+The GM may also feel free to establish other rules for awarding legend points. For example, some GMs like to allow each player to award another PC one legend point each session. Other tables might have a vote for MVP or best roleplayer at the end of each session, with the winner gaining a legend point.
+
+### Spending Legend Points
+
+Before making an action roll, a PC may spend a maximum number of legend points equal to their level plus one. For each legend point spent, they gain advantage 1 on the action roll.
