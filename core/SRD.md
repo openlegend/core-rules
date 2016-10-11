@@ -209,3 +209,93 @@ In Open Legend, races do not provide specific mechanical costs and benefits. Ins
 *Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.*
 
 *Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.*
+
+# Actions and Attributes
+
+## When to Roll the Dice
+
+*Open Legend *is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
+example, you’ll be making plenty of action rolls to clash blades, sling spells, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left the key to your room at the inn.
+
+## Every Roll Matters
+
+Another important point in *Open Legend* is that every action roll should drive the story in a new direction, for better or worse. A failed roll should not let the story stagnate, nor should a failure be easily negated by a successful roll from another character.
+
+If you look back to the Core Mechanic, you can see that a simple failure is not an option:
+
+<div class="table-centered"></div>
+| The Action Roll  |
+| - |
+| Roll 1d20 + attribute dice (all dice explode) |
+
+<br />
+
+| If the action roll... | then the result is... |
+| :- | :- |
+| equals or exceeds the Challenge Rating, | the player succeeds. |
+| is less than the Challenge Rating, | the player succeeds with a twist. <br /> **- OR -** <br /> the player fails, but the story progresses. <br />*(GM’s Choice)* |
+
+### Keep It Simple: Every Roll Matters for the GM
+
+The “every roll matters” rule was designed to make player actions meaningful to the story whether they succeed or fail. It recognizes the fact that static pass/fail checks aren’t particularly fun for players. But “every roll matters” also adds an extra layer of complexity to the game because it requires the GM to make on-the-fly interpretations.
+
+**So when the GM makes a roll**, a success is a success and a failure is a failure.
+
+This is for the sake of simplicity and fun. When a player fails a roll, it’s not very fun if something doesn’t come out of it. When the GM fails a roll, though, there is usually much rejoicing at the table.
+
+## Determining Challenge Rating
+
+Many actions that you will undertake in *Open Legend* have a Challenge Rating (CR) that is determined by the rules. Attacks in combat, for example, use one of the target’s defense scores as the CR.
+
+Oftentimes, though, the GM will need to determine the CR for actions that aren’t spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
+
+<div class="table-no-body"></div>
+| Challenge Ratings by Difficulty |
+| - |
+| |
+
+| Difficulty | Challenge Rating | Example Actions |
+| :-: | :-: | :------ |
+| Everyday | 10 | leap a 5’ gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
+| Challenging | 15 | climb a rough surface, catch the drift of a text in an unfamiliar language, break down a strong wooden door |
+| Very Hard | 20 | climb a smooth surface, leap a 15’ gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
+| Heroic | 25 | translate a text in an alien language, break down an iron door |
+| Legendary | 30 | leap a 25’ chasm, climb a flat surface, befriend an enemy with a vendetta against you |
+
+It’s important to note that Challenge Ratings are not typically set to be relative to the party’s level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth.
+
+### Contested Actions
+
+Sometimes, two or more characters are directly opposing each other in a test of strength, wits, or charm. For example, a mighty barbarian wrestles with a minotaur to get hold of a magical gem. Or three representatives of different kingdoms attempt to persuade the outlander chieftain to join their forces. Or a stealthy rogue attempts to sneak unseen past the watch of the town guard. These sorts of situations are called **contested actions**.
+
+To resolve such contests, each character involved makes an action roll using an appropriate attribute. Whoever rolls the highest succeeds at the action. Sometimes, all parties use the same attribute for their action rolls, but often, each character will use a different attribute, as in the case of the rogue attempting to sneak (Agility) past the guard’s watch (Perception).
+
+## Advantage and Disadvantage
+
+Sometimes, you will attempt an action under circumstances that give you a significant upper hand, such as when attacking an enemy from behind. Other times, you’ll be working against exceptional hindrances, such as when trying to climb a rope that an enemy has covered in grease. In these types of cases, instead of adjusting the Challenge Rating of the task, the GM should assign your roll either **advantage** or **disadvantage**.
+
+Advantage and disadvantage are always expressed with a numeric level, such as “advantage 1” or “disadvantage 3”. Multiple instances of advantage and disadvantage can add together, so if you have advantage 1 on an attack because you are flanking a foe, and you also possess a feat that grants you advantage 1, you have a total of advantage 2.
+
+If a situation arises in which you are assigned both advantage and disadvantage, find the difference between the two values to determine your final outcome. For example, if you have advantage 1 and disadvantage 1, they negate each other and thus your action roll is normal. If you have advantage 1 and disadvantage 2, your action roll would be made with disadvantage 1.
+
+### Effects of Advantage and Disadvantage
+
+When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
+
+### Assigning Advantage and Disadvantage
+
+Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Tables provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
+
+<div class="table-no-body"></div>
+| Advantage and Disadvantage Examples |
+| - |
+| |
+
+| Situations Meriting Advantage | Situations Meriting Disadvantage |
+| :- | :- |
+| Attacking a surprised or unaware foe | Attacking while balancing on a beam |
+| Attacking a foe during an acrobatic stunt | Attacking in a confined space |
+| Negotiating with someone you have leverage over | Negotiating with someone who has leverage over you |
+| Expending a valuable arcane focus when casting a spell | Casting a spell in the midst of a heavy storm |
+| Conducting research in a well-stocked library | Conducting research while sick |
+| Tracking a large group | Tracking a creature smaller than a child |
