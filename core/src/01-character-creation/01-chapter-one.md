@@ -360,7 +360,7 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 
 ## Step 5: Describe Your Character
 
-*Open Legend *is a role playing game, which means your character will need more depth than attributes, feats, and gear. To make your character come to life, add the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
+*Open Legend* is a role playing game, which means your character will need more depth than attributes, feats, and gear. To make your character come to life, add the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
 
 **A heroic name.** Be sure to check with your GM to see if he has any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
 
@@ -386,7 +386,8 @@ In addition to the descriptive details you have just created, you may also choos
 
 Perks are characteristics that describe very specific skills, attitudes, backgrounds, or opportunities that tend to give your character the upper hand in certain situations. For example, maybe you are a noble and thus able to draw favors from powerful political figures, or perhaps you once served as mechanic on a starship and those technical skills still help you out in your adventuring life today.
 
-Flaws are your Achilles’ heel. They are weaknesses that your enemies can exploit or character deficits that always seem to hold you back at just the wrong moment. Maybe you are stubborn as a mule and won’t accept a compromise under any circumstances. Perhaps your greed tends to get the best of you, and your love of coin will even trump your loyalty to your friends. Your flaws might even be physical in nature: you’re
+Flaws are your Achilles’ heel. They are weaknesses that your enemies can exploit or character deficits that always seem to hold you back at just the wrong moment. Maybe you are stubborn as a mule and won’t accept a compromise under any circumstances. Perhaps your greed tends to get the best of you, and your love of coin will even trump your loyalty to your friends. Your flaws might even be physical in nature: you’re blind, missing an arm, or suffer from a wounded knee that slows you down.
+
 
 ### Activating Perks
 
@@ -615,10 +616,6 @@ You can’t help it: you just like things. Money, gems, items of power - they be
 You won’t tell a lie or engage in deceitful speech, even to save your own life or the life of another.
 
 #### Hot Tempered
-
-Your fuse is short and your explosions are destructive. Sometimes your anger boils slowly over time and other times it erupts completely unexpectedly. But when you do fly off the handle, things rarely go well for you.
-
-#### Hot Tempered
 Your fuse is short and your explosions are destructive. Sometimes your anger boils slowly over time and other times it erupts completely unexpectedly. But when you do fly off the handle, things rarely go well for you.
 
 #### Illiterate
@@ -730,7 +727,7 @@ Your total XP earned determines your level, with every 3 XP allowing you to adva
 | 18 | 7 | 7 |
 | 21 | 8 | 8 |
 | 24 | 9 | 9 |
-| 27 | 10 | 10 |
+| 27 | 10 | 9 |
 
 ### Feat and Attribute Points
 
