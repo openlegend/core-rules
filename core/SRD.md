@@ -1285,3 +1285,246 @@ After a combat encounter ends and you have at least ten minutes to rest and catc
 >
 > For example, a warrior with Fortitude 4 heals 4 lethal damage per day on his own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
 
+# Running the Game
+
+### Rewarding the Players
+
+The thrill of adventure, the satisfaction of character development, and the joy of seeing a plotline come to its fulfillment are all intrinsically rewarding events that keep players coming back to the gaming table week after week. But still, just as players of any game, your players will also enjoy good old-fashioned extrinsic motivators. In Open Legend, these sorts of rewards typically come in two forms: wealth and power.
+
+#### Level Up! How and When to Give Players More Power
+
+In Open Legend, the primary way that players gain more power is by reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Officially, there are only 10 levels of play in the game, though, which means that each new level represents a significant increase in a PC’s capabilities. If you are a GM who enjoys an epic challenge (higher level characters can be difficult to manage and properly challenge), feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of awarding 6 feat points and 9 attribute points for each new level.
+
+Rather than constantly tracking experience point gains, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain a new level of experience. This ensures that the GM always knows exactly how powerful the players are so he can plan the campaign accordingly, and it also saves overhead time on tasks like calculating XP totals so that you can focus on what matters most at the table: having fun.
+
+Here are two methods you can use to decide when to award players with a new level:
+
+**Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. A milestone map might look something like this:
+
+- **Level 2:** The heroes thwart one of the three foes threatening Woodshold.
+
+- **Level 3:** The heroes discover the Cult of the Dragon.
+
+- **Level 4:** The heroes prevent the cult’s Ritual of Three
+  from being completed.
+
+- **Level 5:** The heroes retrieve the treasure at the bottom of the Sunken Star.
+
+- **Level 6:** The heroes end the conflict between the barbarians and the Collectors.
+
+- **Level 7:** The heroes free the village of Hilltop from the grasp of the vampire Tessa.
+
+- **Level 8:** The heroes discover the secret of the Ruins of Mastika.
+
+- **Level 9:** The heroes find a way to weaken Dezzer Kai’s power over the land.
+
+- **Level 10:** The heroes defeat Dezzer Kai.
+
+
+**Time Played.** An easy way to schedule rewards is simply to allow players to level up after a certain number of sessions. For example, you might decide that every three games, the players will achieve a new level. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you will need to adapt on the fly to your player’s increasing power.
+
+
+#### All That Glitters: Giving Players More Wealth
+
+In addition to power, most players enjoy being able to have more influence on the campaign world by amassing hoards of treasure. With money comes the ability to buy better equipment, employ hirelings, construct fortifications, and even raise armies.
+
+Chapter 4 explains Open Legend’s simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2 and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players’ access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
+
+<div class="table-no-body"></div>
+| Wealth Overview |
+| - |
+| |
+
+| Wealth Score | Sample Lifestyles | Sample Goods |
+| :-: | :----- | :----- |
+| 0 | beggar, street urchin | 3 square meals and a warm bed |
+| 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
+| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
+| 3 | master artisan, village mayor | full plate armor, silver weapons, a small boat, a fine horse |
+| 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
+| 5 | lord of a realm, thieves’ guild master in a large city | a large cargo ship, a city wall |
+| 6 | 7th level hero | a large warship |
+| 7 | king | a stronghold, startup funding for a new town |
+| 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
+| 9 | emperor| a castle, an army of 50,000 |
+
+
+You can use this table as a rough guideline for when to give players more wealth, particularly if you have also created an outline of milestones for granting experience levels. For example, the table shows that by 4th level, a typical character should have progressed to wealth score 4. Using the experience level milestone plan detailed previously, we could decide that after stopping the first threat to Woodshold, the people of the town take up a collection to reward the heroes. We can also plan to give the Cult of the Dragon a horde of treasure that will again increase the party’s wealth score.
+
+However you plan to award wealth, you can see that the general recommendation on the table is for a PC’s wealth score to increase twice every three levels.
+
+If you or your players have a background with other game systems, in which they may have regularly looted every corpse, scavenged every piece of equipment, and dutifully tracked every single gold piece, then Open Legend’s wealth system might initially feel a bit awkward. If it does, consider some of the following tips:
+
+**NPCs still have stuff on them.** Just because you don’t need to spend hours tracking every piece of loot that the players cut from a corpse doesn’t mean that they don’t have stuff on them. It just fades into the background so that you can focus on the story.
+
+Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it’s usually to serve the plot.
+
+So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it’s still not enough to increase their wealth score. If a player does legitimately need bolts or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
+
+**Wealth represents influence.** Since players aren’t tracking individual gold pieces and gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can easily use money to influence someone else of a lower wealth score.
+
+If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can’t be acquired for two weeks. If the bribe recipient is **one wealth level higher** than the character’s Wealth Score, the cost is so great that the character’s Wealth Score is permanently reduced by 1. Bribing someone more than one Wealth level higher is impossible without other factors in play.
+
+So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor.
+
+Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
+
+### Monsters and NPC Statistics
+
+Many of the monsters and NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don’t need a full array of attributes, feats, and favored banes because, more likely than not, you’ll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments - but your party is never going to need to engage him in combat.
+
+A good deal of your monsters and NPCs, however, will require statistical descriptions to use for combat or social encounters. This section will describe two ways that you can build these statistics: the complex build and the simple build.
+
+#### Complex Build
+
+When designing an NPC using the complex build, you simply create the NPC as if it was a player character. Select an appropriate level and use the instructions in chapter one to assign attributes, feats, and other defining characteristics.
+
+The complex build is a good option when you are creating a very important villain or ally who will play a major role in the story line. This process can take a while, so it’s not worth going through with underlings, henchmen, or beasts who are only going to be present for a single scene.
+
+#### Simple Build
+
+The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don’t have any stats written up for these monsters. In this situation, you could use the simple build rules to get combat rolling quickly.
+
+
+<div class="table-no-body"></div>
+| NPC SIMPLE BUILD |
+| - |
+| |
+
+| Party Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | 10 - 22 | 10 - 18 | 4 | 3 |
+| 2 | 12 - 24 | 11 - 18 | 5 | 3 |
+| 3 | 14 - 26 | 12 - 19 | 5 | 4 |
+| 4 | 16 - 28 | 13 - 19 | 6 | 4 |
+| 5 | 18 - 30 | 14 - 20 | 6 | 5 |
+| 6 | 20 - 32 | 15 - 21 | 7 | 5 |
+| 7 | 22 - 34 | 16 - 22 | 7 | 6 |
+| 8 | 24 - 36 | 17 - 23 | 8 | 6 |
+| 9 | 26 - 38 | 18 - 24 | 8 | 7 |
+| 10 | 28 - 40 | 19 - 25 | 9 | 7 |
+
+
+Based on the party’s level, use the NPC Simple Build Table to determine the monster’s most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster’s attacks and actions, and then choose as many secondary attributes as you need in order to define the monster’s other capabilities.
+
+Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities:
+
+- **Attack Specialization (tier equal to party level, max 9):** With one attack type, gain advantage 1 per tier.
+
+- **Bane Focus:** Pick a bane. Whenever you inflict at least five damage with an attack, you may automatically inflict that bane.
+
+- **Superior Bane Focus (not available to PCs):** Pick a bane. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
+
+- **Boon Focus (tier 1 - 3, your choice):** Pick a boon. Gain the following benefits:
+
+    - **Tier 1:** Automatically succeed at invoking the boon to target single creatures (No action roll required). When multi-targeting, gain advantage 2 on the action roll to invoke.
+
+     - **Tier 2:** Invoke the boon one increment faster. If invoking the boon is a normal action, it becomes a minor action. If invocation time is 1 minute, it becomes 1 normal action. If invocation time is 10 minutes, it becomes 1 minute. If invocation time is 1 hour, it becomes 10 minutes. If invocation is 8 hours, it becomes 1 hour. If the invocation has multiple targets, success is not automatic, but you get advantage 3 on the action roll to invoke it.
+
+    - **Tier 3:** This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If you invoke this boon with multiple targets, success is not automatic, but you get advantage 4 on the action roll to invoke it.
+
+- **Energy Resistance (tier 1 - 3, your choice):** Choose an energy type and gain the following benefits:
+
+    - **Tier 1:** Prevent the first 5 damage you would suffer each round from the chosen energy type.
+
+    - **Tier 2:** All damage you would suffer from the chosen type is halved.
+
+    - **Tier 3:** You are immune to the chosen energy type.
+
+- **Evasive Footwork:** When you move from a square adjacent to an enemy to another square not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+
+- **Lethal Strike (tier equal to party level, max 9):** Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
+    1. Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception.
+    2. If an enemy is adjacent to an ally wielding a melee weapon, then you can make a lethal strike against that enemy.
+
+    If one of the above conditions is met, you can deliver a lethal strike, which grants advantage and deals lethal damage in accordance with your tier and is difficult to recover from. Each tier below has an amount of advantage and a max lethal damage. If you deal damage up to the lethal threshold, then the lethal damage equals your damage total. If you deal more damage than the lethal threshold, you deal lethal damage equal to the threshold.
+
+    - **Tier 1** - Advantage 1, Max lethal damage 5
+    - **Tier 2** - Advantage 2, Max lethal damage 10
+    - **Tier 3** - Advantage 3, Max lethal damage 15
+    - **Tier 4** - Advantage 4, Max lethal damage 15
+    - **Tier 5** - Advantage 5, Max lethal damage 20
+    - **Tier 6** - Advantage 6, Max lethal damage 20
+    - **Tier 7** - Advantage 7, Max lethal damage 25
+    - **Tier 8** - Advantage 8, Max lethal damage 25
+    - **Tier 9** - Advantage 9, Max lethal damage 30
+
+- **Multi Attack Specialist (tier equals party level, max 6):** When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
+
+- **Multi Target Attack Specialist (tier equals party level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+
+- **Multi Bane Specialist:** Choose two banes that you are able to inflict. You are able to make attacks that inflict your targets with both banes at once. Your attribute score must be equal to or greater than the power level of both banes combined. If the two banes use different key attributes, provided your key attributes for both banes is sufficient, you use the higher of the two attributes for both the attack and determining if you are powerful enough to combine them.
+
+- **Potent Bane:** Choose a bane. When you invoke the chosen bane on a target, Resist rolls to shake off the bane have Disadvantage (the target rolls 2d20 and keeps the lowest, contrary to normal action rolls).
+
+- **Resilient:** Any time you make a Resist roll, you have Advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to normal action rolls).
+
+- **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on.
+Special: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
+
+#### Boss Monsters and NPCs
+
+A Boss is a single monster or NPC that is capable of taking on a group of characters due to extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary swordsman, a dragon, or an orc warchief.
+
+When you decide that one of your monsters or NPCs merits boss status, use the Boss Monster Build Table to generate statistics in the same way you would if using the simple build rules described previously. You’ll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain’s hit points and defenses based on this table to better represent the appropriate strength of a boss.
+
+
+<div class="table-no-body"></div>
+| BOSS MONSTER BUILD |
+| - |
+| |
+
+| Party Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | 40 | 13 - 16 | 6 | 4 | 1 |
+| 2 | 50 | 14 - 17 | 6 | 4 | 1 |
+| 3 | 60 | 15 - 18 | 7 | 5 | 2 |
+| 4 | 70 | 16 - 19 | 7 | 5 | 2 |
+| 5 | 70 | 17 - 20 | 8 | 6 | 2 |
+| 6 | 80 | 18 - 21 | 8 | 6 | 3 |
+| 7 | 80 | 19 - 22 | 9 | 7 | 3 |
+| 8 | 90 | 20 - 23 | 9 | 7 | 3 |
+| 9 | 90 | 21 - 24 | 10 | 8 | 4 |
+| 10 | 100 | 22 - 25 | 10 | 8 | 4 |
+
+**Boss Actions**
+
+In addition to its normal allotment of actions, a boss will also receive one or more boss actions on its turn. When rolling initiative for a boss, make an extra number of initiative rolls for each boss action. When arranging the initiative order, there must be at least one PC between each of the boss’s turns. If necessary, move the “boss action” turns lower in the order to accommodate this requirement.
+
+During combat, the boss monster’s highest initiative count indicates its normal turn, during which it gets the usual allotment of normal, move, and minor actions. Each of the boss’s lower counts in the initiative are boss actions, which allow the boss to make one normal action.
+
+## Planning Combat Encounters
+
+The build rules just explained help you create individual monsters or NPCs for the heroes to combat, and this section will assist you in building exciting scenarios for those battles.
+
+### Encounter Difficulty
+
+When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn’t present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
+
+Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
+
+
+<div class="table-no-body"></div>
+| ENCOUNTER DIFFICULTY |
+| - |
+| |
+
+| Encounter Difficulty | Total Monster Level |
+| :-: | :-: |
+| Easy  | Total Party Level x .5 |
+| Moderate | Total Party Level x 1 |
+| Hard | Total Party Level x 2 |
+
+For example, a moderate encounter for a group of 4 PCs who are all 5th level would have a Total Monster Level of 20. An easy encounter for the same group would have a Total Monster Level of 10, and a hard encounter 40.
+
+Whether you are using the simple or complex method of building your NPCs, you can spend your monster level budget until you reach approximately the designated total monster level for your encounter.
+
+#### Bosses
+
+If your encounter includes boss monsters, multiply their level by 4 for purposes of budgeting (i.e., a 5th level boss would be worth 20 levels).
+
+#### Minions
+
+When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four. Essentially, minions
+
+For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your monster level budget would only allow you to include six 1st level monsters, but you decide to replace them all with minions, allowing you to include 18 goblins.
