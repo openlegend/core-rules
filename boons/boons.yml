@@ -223,6 +223,8 @@
   - 9
   attribute:
   - Creation
+  - Learning
+  - Logic
   - Presence
   invocationTime: 1 Major Action
   duration: Instantaneous
