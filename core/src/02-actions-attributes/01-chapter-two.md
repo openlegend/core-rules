@@ -154,6 +154,10 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 
 *Therilas attempts to invoke his elemental magic to call a lightning bolt down from a foe. However, he is currently being distracted by a swarm of wasps summoned by an enemy spellcaster, granting him disadvantage 1. Furthermore, he has also been subject to the fatigue bane, adding on an additional disadvantage 1. Therilas’s Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two highest rolling d6s.*
 
+### Advantage and Disadvantage with Attribute Scores of Zero
+
+When attempting an action with an attribute score of zero, you cannot accrue advantage or disadvantage. Your character is already so inept at the action that he cannot capitalize on opportunities or be held back any further from hindrances.
+
 ### Assigning Advantage and Disadvantage
 
 Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Tables provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
