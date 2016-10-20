@@ -70,7 +70,7 @@ In this section, several tables present the melee and ranged weapons that your c
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, the Challenge Rating to apply the bane is calculated as if the Power Level is reduced by one.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting attribute prerequisites.
 In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 ### Weapon Properties
