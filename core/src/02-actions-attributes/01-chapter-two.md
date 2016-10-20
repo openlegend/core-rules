@@ -154,6 +154,12 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 
 *Therilas attempts to invoke his elemental magic to call a lightning bolt down from a foe. However, he is currently being distracted by a swarm of wasps summoned by an enemy spellcaster, granting him disadvantage 1. Furthermore, he has also been subject to the fatigue bane, adding on an additional disadvantage 1. Therilas’s Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two highest rolling d6s.*
 
+### Advantage and Disadvantage Are Only Applied BEFORE Explosions
+
+Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice. 
+
+For example, if you have attribute score 4 and are rolling with advantage 2, you would roll 1d20 + 3d8 and keep the single highest of the d8s before rolling any exploding dice. Imagine your d20 rolls a 10 and your d8s land on 8, 8, and 3. You would then keep one of the 8s and discard the other two dice. Because the 8 rolled max, you may roll it again and add the result to your total. Imagine that lands on a 5. Your total score is 23 (10 + 8 + 5).
+
 ### Advantage and Disadvantage with Attribute Scores of Zero
 
 When attempting an action with an attribute score of zero, you cannot accrue advantage or disadvantage. Your character is already so inept at the action that he cannot capitalize on opportunities or be held back any further from hindrances.
