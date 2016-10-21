@@ -168,15 +168,15 @@ And start with what you love to do. The GM has a big job, so stick to developing
 
 The thrill of adventure, the satisfaction of character development, and the joy of seeing a plotline come to its fulfillment are all intrinsically rewarding events that keep players coming back to the gaming table week after week. But still, just as players of any game, your players will also enjoy good old-fashioned extrinsic motivators. In Open Legend, these sorts of rewards typically come in two forms: wealth and power.
 
-#### Level Up! How and When to Give Players More Power
+#### How and When to Award XP
 
-In Open Legend, the primary way that players gain more power is by reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Officially, there are only 10 levels of play in the game, though, which means that each new level represents a significant increase in a PC’s capabilities. If you are a GM who enjoys an epic challenge (higher level characters can be difficult to manage and properly challenge), feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of awarding 6 feat points and 9 attribute points for each new level.
+In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Officially, there are only 10 levels of play in the game, though, which means that each new level represents a significant increase in a PC’s capabilities.
 
-Rather than constantly tracking experience point gains, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain a new level of experience. This ensures that the GM always knows exactly how powerful the players are so he can plan the campaign accordingly, and it also saves overhead time on tasks like calculating XP totals so that you can focus on what matters most at the table: having fun.
+Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain more power. 
 
-Here are two methods you can use to decide when to award players with a new level:
+Every point of XP you award provides players with 1 feat point and 3 new attribute points to spend, so it is worth thinking about how you will dole this power out to your players. Here are two methods you can use to decide how to award XP:
 
-**Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. A milestone map might look something like this:
+**Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. Whenever your players reach one of these milestones, you give them 3 XP and thus a new level. A milestone map might look something like this:
 
 - **Level 2:** The heroes thwart one of the three foes threatening Woodshold.
 
@@ -198,7 +198,11 @@ Here are two methods you can use to decide when to award players with a new leve
 - **Level 10:** The heroes defeat Dezzer Kai.
 
 
-**Time Played.** An easy way to schedule rewards is simply to allow players to level up after a certain number of sessions. For example, you might decide that every three games, the players will achieve a new level. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you will need to adapt on the fly to your player’s increasing power.
+**Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they’ll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you may need to adapt on the fly to your player’s increasing power.
+
+##### Beyond 10th Level
+
+Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can’t extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
 
 
 #### All That Glitters: Giving Players More Wealth
@@ -286,7 +290,7 @@ Whatever sorts of allies the party has acquired, it’s important for the GM to 
 
 There are no hard and fast rules, however. If you find NPCs in your game frequently doing the above, then there's a good chance your players might become frustrated.
 
-But sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a powerful enemy mage controls the minds of a group of soldiers with the *Dominated* bane and commands them to attack the players. A powerful ally NPC might use Protection magic to call upon the *Restoration* boon to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn’t capable of providing this protection for all of the soliders - the players must then complete the vital task of subduing (ideally without killing)  the *Dominated* soldiers and preventing them from killing anyone.
+But sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a powerful enemy mage controls the minds of a group of soldiers with the *Dominated* bane and commands them to attack the players. A powerful ally NPC might use Protection magic to call upon the *Restoration* boon to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn’t capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing)  the *Dominated* soldiers and preventing them from killing anyone.
 
 The above example will likely be an intriguing scene enjoyed by all, because the ally NPC can’t prevail without the help of the players.
 

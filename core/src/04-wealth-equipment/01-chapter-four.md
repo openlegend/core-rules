@@ -70,7 +70,7 @@ In this section, several tables present the melee and ranged weapons that your c
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, the Challenge Rating to apply the bane is calculated as if the Power Level is reduced by one.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting attribute prerequisites.
 In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 ### Weapon Properties
@@ -87,7 +87,7 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 **Reach** – The weapon can be used to attack enemies 10 feet away.
 
-**Swift** – Any time you roll initiative and are wielding or drawing this weapon, you gain an advantage equal to the weapon’s Swift rating to your initiative roll. Remember that initiative is re-rolled each time a new weapon is drawn. If you are wielding multiple weapons, the provided bonus is limited to the lowest among the weapons you wield.
+**Swift** – If you are wielding this weapon at the beginning of combat, you gain advantage on your initiative roll equal to the weapons *swift* value (i.e., *swift* 2 provides advantage 2). You may also gain this benefit even if you are not wielding the weapon at the beginning of combat, but in doing so you commit yourself to drawing the weapon on your first turn. If you are wielding multiple weapons, the provided bonus is limited to the lowest among the weapons you wield.
 
 **Two-handed** – The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly. Note that ranged attacks do not grant advantage when made with two hands.
 
@@ -100,22 +100,22 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 | Weapon | Wealth Level | Properties | Banes |
 | :- | :- | :--- | :-- |
-| Dagger | 1 | Melee, One-handed, Precise, Swift 2, Range 25 | Persistent Damage |
-| Longsword | 2 | Melee, Versatile, Forceful, Precise | – |
+| Dagger | 1 | One-handed, Precise, Swift 2, Range 25 | Persistent Damage |
+| Longsword | 2 | Versatile, Forceful, Precise | – |
 | Unarmed | - | One-handed, Forceful, Precise | – |
-| Battle Axe | 2 | Melee, Versatile, Forceful | – |
-| Spear | 1 | Melee, Two-handed, Reach, Range 35, Forceful, Precise | – |
-| Mace | 1 | Melee, One-handed, Forceful | Knockdown |
-| Quarterstaff | 1 | Melee, Two-handed, Reach, Forceful, Precise | Knockdown |
-| Flail | 2 | Melee, Two-handed, Forceful, Precise | Knockdown, Immobile, Forced Move |
-| Hatchet | 1 | Melee, One-handed, Range 25, Swift 1, Forceful, Precise | – |
-| Scimitar | 2 | Melee, Versatile, Precise, Swift 1 | – |
-| Short Sword | 2 | Melee, One-handed, Precise, Swift 1 | Slowed |
-| Warhammer | 2 | Melee, One-Handed, Forceful | Knockdown |
-| Maul | 2 | Melee, Forceful, Two-handed, Heavy | Knockdown, Forced Move, Stunned |
-| Glaive | 2 | Melee, Two-handed, Reach, Forceful, Precise | Knockdown, Immobile |
-| Greataxe | 2 | Melee, Two-handed, Forceful, Heavy | Knockdown, Forced Move |
-| Greatsword | 2 | Melee, Two-handed, Forceful, Precise, Heavy | Knockdown, Forced Move |
+| Battle Axe | 2 | Versatile, Forceful | – |
+| Spear | 1 | Two-handed, Reach, Range 35, Forceful, Precise | – |
+| Mace | 1 | One-handed, Forceful | Knockdown |
+| Quarterstaff | 1 | Two-handed, Reach, Forceful, Precise | Knockdown |
+| Flail | 2 | Two-handed, Forceful, Precise | Knockdown, Immobile, Forced Move |
+| Hatchet | 1 | One-handed, Range 25, Swift 1, Forceful, Precise | – |
+| Scimitar | 2 | Versatile, Precise, Swift 1 | – |
+| Short Sword | 2 | One-handed, Precise, Swift 1 | Slowed |
+| Warhammer | 2 | One-Handed, Forceful | Knockdown |
+| Maul | 2 | Forceful, Two-handed, Heavy | Knockdown, Forced Move, Stunned |
+| Glaive | 2 | Two-handed, Reach, Forceful, Precise | Knockdown, Immobile |
+| Greataxe | 2 | Two-handed, Forceful, Heavy | Knockdown, Forced Move |
+| Greatsword | 2 | Two-handed, Forceful, Precise, Heavy | Knockdown, Forced Move |
 
 <div class="table-no-body"></div>
 | Ranged Weapons |
