@@ -1,8 +1,8 @@
 # Chapter 1: Character Creation #
 
-Before you can start telling your story, you’ll need a character to play. This chapter will offer you step-by-step instructions to creating your own hero. In *Open Legend*, you typically begin as a level one character. As you complete quests and gain more experience adventuring, you’ll level up and gain more power. These rules explain how to create a character starting at level one. Later, you’ll learn what to do when you level up.
+Before you can start telling your story, you’ll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In *Open Legend*, you typically begin as a level one character. As you complete quests and gain more experience adventuring, you’ll level up and gain more power. These rules explain how to create a character starting at level one. Later, you’ll learn what to do when you level up.
 
-Before reading on, take a minute and think of your favorite fantasy movies, books, or video games.
+Before reading on, take a minute and think of your favorite movies, books, or video games.
 
 *Who were the characters you identified with?*
 
@@ -248,7 +248,7 @@ heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so he takes the *Combat Momentum* feat to allow him to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred berserker, takes *Berserker* so that she
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so he takes the *Combat Momentum* feat to allow him to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Berserker* so that she
 can fly into a frenzied rage in order to decimate her foes.
 
 ### Choose your feats
@@ -364,7 +364,7 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 
 **A heroic name.** Be sure to check with your GM to see if he has any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
 
-**Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
+**Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
 
 In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you’ll have a chance to further define your character in the next step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing the aforementioned psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter’s bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
 
