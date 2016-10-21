@@ -33,23 +33,23 @@ Write down all initiative scores from highest to lowest. When taking turns in co
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
-** Example of Initiative and Surprise**
+**Example of Initiative and Surprise**
 
-*Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of Mugworm Griblicks.
+Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of Mugworm Griblicks.
 
-*Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift 1* property, granting her advantage 1 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift 1* property, granting her advantage 1 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 
-*Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
-*Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d8), and gets a 25.
-*The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
+Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
+Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d8), and gets a 25.
+The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
 
-*The final initiative order is as follows:
+The final initiative order is as follows:
 
-***Non-surprised Combatants**
+**Non-surprised Combatants**
 Jalani 25 (On her first turn, she must draw her Las Pistol)
 Griblicks 11
 
-***Surprised Combatants**
+**Surprised Combatants**
 Spaz 14
 
 ## The Core Mechanic in Combat
