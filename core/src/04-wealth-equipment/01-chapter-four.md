@@ -100,22 +100,22 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 | Weapon | Wealth Level | Properties | Banes |
 | :- | :- | :--- | :-- |
-| Dagger | 1 | Melee, One-handed, Precise, Swift 2, Range 25 | Persistent Damage |
-| Longsword | 2 | Melee, Versatile, Forceful, Precise | – |
+| Dagger | 1 | One-handed, Precise, Swift 2, Range 25 | Persistent Damage |
+| Longsword | 2 | Versatile, Forceful, Precise | – |
 | Unarmed | - | One-handed, Forceful, Precise | – |
-| Battle Axe | 2 | Melee, Versatile, Forceful | – |
-| Spear | 1 | Melee, Two-handed, Reach, Range 35, Forceful, Precise | – |
-| Mace | 1 | Melee, One-handed, Forceful | Knockdown |
-| Quarterstaff | 1 | Melee, Two-handed, Reach, Forceful, Precise | Knockdown |
-| Flail | 2 | Melee, Two-handed, Forceful, Precise | Knockdown, Immobile, Forced Move |
-| Hatchet | 1 | Melee, One-handed, Range 25, Swift 1, Forceful, Precise | – |
-| Scimitar | 2 | Melee, Versatile, Precise, Swift 1 | – |
-| Short Sword | 2 | Melee, One-handed, Precise, Swift 1 | Slowed |
-| Warhammer | 2 | Melee, One-Handed, Forceful | Knockdown |
-| Maul | 2 | Melee, Forceful, Two-handed, Heavy | Knockdown, Forced Move, Stunned |
-| Glaive | 2 | Melee, Two-handed, Reach, Forceful, Precise | Knockdown, Immobile |
-| Greataxe | 2 | Melee, Two-handed, Forceful, Heavy | Knockdown, Forced Move |
-| Greatsword | 2 | Melee, Two-handed, Forceful, Precise, Heavy | Knockdown, Forced Move |
+| Battle Axe | 2 | Versatile, Forceful | – |
+| Spear | 1 | Two-handed, Reach, Range 35, Forceful, Precise | – |
+| Mace | 1 | One-handed, Forceful | Knockdown |
+| Quarterstaff | 1 | Two-handed, Reach, Forceful, Precise | Knockdown |
+| Flail | 2 | Two-handed, Forceful, Precise | Knockdown, Immobile, Forced Move |
+| Hatchet | 1 | One-handed, Range 25, Swift 1, Forceful, Precise | – |
+| Scimitar | 2 | Versatile, Precise, Swift 1 | – |
+| Short Sword | 2 | One-handed, Precise, Swift 1 | Slowed |
+| Warhammer | 2 | One-Handed, Forceful | Knockdown |
+| Maul | 2 | Forceful, Two-handed, Heavy | Knockdown, Forced Move, Stunned |
+| Glaive | 2 | Two-handed, Reach, Forceful, Precise | Knockdown, Immobile |
+| Greataxe | 2 | Two-handed, Forceful, Heavy | Knockdown, Forced Move |
+| Greatsword | 2 | Two-handed, Forceful, Precise, Heavy | Knockdown, Forced Move |
 
 <div class="table-no-body"></div>
 | Ranged Weapons |
