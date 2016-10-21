@@ -87,7 +87,7 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 **Reach** – The weapon can be used to attack enemies 10 feet away.
 
-**Swift** – Any time you roll initiative and are wielding or drawing this weapon, you gain an advantage equal to the weapon’s Swift rating to your initiative roll. Remember that initiative is re-rolled each time a new weapon is drawn. If you are wielding multiple weapons, the provided bonus is limited to the lowest among the weapons you wield.
+**Swift** – If you are wielding this weapon at the beginning of combat, you gain advantage on your initiative roll equal to the weapons *swift* value (i.e., *swift* 2 provides advantage 2). You may also gain this benefit even if you are not wielding the weapon at the beginning of combat, but in doing so you commit yourself to drawing the weapon on your first turn. If you are wielding multiple weapons, the provided bonus is limited to the lowest among the weapons you wield.
 
 **Two-handed** – The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly. Note that ranged attacks do not grant advantage when made with two hands.
 
