@@ -1116,19 +1116,6 @@
   effect: |
     With the approval of your GM, choose a focus from which your power with a single supernatural attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected supernatural attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
 - !
-  name: Supernatural Presence
-  prerequisite:
-  - Any Supernatural Attribute 3
-  tags:
-  - Supernatural
-  - Non-Combat
-  cost:
-  - 1
-  description: |
-    Something about you reveals your inherent supernatural nature through a visible manifestation. A few well-known examples of this ability include: an icy chill that is felt by those who stand within 10’ of you, glowing eyes, a supernatural shimmer that can be seen emanating from you, a trail of withering plants that follows you, or pupil-less / strangely colored eyes.
-  effect: |
-    At the discretion of the GM, your supernatural presence will have differing effects on different groups that you interact with – some will be cowed into fear or reverence, others will inherently trust or distrust you depending on the NPC’s beliefs about your power and it’s perceived source. The GM should allow you to occasionally use your supernatural presence to gain Advantage 1 to a Presence or Persuasion action roll. From time to time the GM should have that same bonus become a Disadvantage 1 instead, depending upon the beliefs and opinions of those you interact with.
-- !
   name: Tough as Nails (I - II)
   prerequisite:
   - Fortitude 3 / 5
