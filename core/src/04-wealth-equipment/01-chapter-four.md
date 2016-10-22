@@ -100,15 +100,15 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 | Weapon | Wealth Level | Properties | Banes |
 | :- | :- | :--- | :-- |
-| Dagger | 1 | One-handed, Precise, Swift 2, Range 25 | Persistent Damage |
+| Dagger | 1 | One-handed, Precise, Swift 2, Range 25' | Persistent Damage |
 | Longsword | 2 | Versatile, Forceful, Precise | – |
 | Unarmed | - | One-handed, Forceful, Precise | – |
 | Battle Axe | 2 | Versatile, Forceful | – |
-| Spear | 1 | Two-handed, Reach, Range 35, Forceful, Precise | – |
+| Spear | 1 | Two-handed, Reach, Range 35', Forceful, Precise | – |
 | Mace | 1 | One-handed, Forceful | Knockdown |
 | Quarterstaff | 1 | Two-handed, Reach, Forceful, Precise | Knockdown |
 | Flail | 2 | Two-handed, Forceful, Precise | Knockdown, Immobile, Forced Move |
-| Hatchet | 1 | One-handed, Range 25, Swift 1, Forceful, Precise | – |
+| Hatchet | 1 | One-handed, Range 25', Swift 1, Forceful, Precise | – |
 | Scimitar | 2 | Versatile, Precise, Swift 1 | – |
 | Short Sword | 2 | One-handed, Precise, Swift 1 | Slowed |
 | Warhammer | 2 | One-Handed, Forceful | Knockdown |
@@ -124,10 +124,10 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 | Weapon | Wealth Level | Properties | Banes |
 | :- | :- | :--- | :- |
-| Crossbow | 2 | Two-handed, Range 50, Precise | Slowed |
-| Hand Crossbow | 2 | One-handed, Range 35, Precise, Swift 1 | Slowed |
-| Longbow | 2 | Two-handed, Range 100, Precise | Slowed |
-| Shortbow | 1 | Two-handed, Range 50, Precise, Swift 1 | Slowed |
+| Crossbow | 2 | Two-handed, Range 50', Precise | Slowed |
+| Hand Crossbow | 2 | One-handed, Range 35', Precise, Swift 1 | Slowed |
+| Longbow | 2 | Two-handed, Range 100', Precise | Slowed |
+| Shortbow | 1 | Two-handed, Range 50', Precise, Swift 1 | Slowed |
 
 
 ## Armor
