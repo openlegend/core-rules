@@ -543,6 +543,10 @@ While underground you may fail to find what you’re looking for, but you can ne
 
 You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you’re down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
 
+#### Supernatural Presence
+
+Your inherent supernatural nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you tred. Depending on the nature of your supernatural presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your supernatural presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+
 #### Sylvan Ally
 
 Creatures of nature can sense your deep respect for the natural order. Wild animals give you a wide berth, Druids give you the benefit of a doubt by assuming that you do not have destructive intentions, and you can typically gain an audience with the chief of a small local tribe by virtue of your reputation for defending nature.
