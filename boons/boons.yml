@@ -199,7 +199,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    The target moves with supernatural speed, dodging attacks more deftly and accomplishing accomplishing actions at an uncanny rate.
+    The target moves with supernatural speed, dodging attacks more deftly and accomplishing actions at an uncanny rate.
   effect: |
     <ul>
     <li><strong>Power Level 2</strong> - The target's speed is increased by 5'. </li>
