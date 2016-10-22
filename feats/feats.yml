@@ -832,7 +832,12 @@
   description: |
     Whether your are delivering flurry of blows, wielding two weapons, or calling a chain of lightning bolts from the sky, you have mastered the art of delivering multiple attacks.
   effect: |
-    Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. For each extra attack, all of your attacks this turn suffer disadvantage 3 (i.e., making 2 extra attacks would incur disadvantage 6 on ALL of your attacks). For each tier of this feat, reduce the disadvantage penalty by 1. Resolve each attack indidvidually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
+    Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 6; 3 attacks suffers disadvantage 9). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
+    
+    You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack indidvidually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
+    
+    <strong>EXAMPLE</strong>
+    Vax the Deathbringer has Multi Attack Specialist (Tier VI). He declares that he will be making three attacks this round. Therefore, all of his attacks suffer disadvantage 3 (3 x 3 = 9, minus 6 for feat tier 6). His first attack is a necromantic burst targeting a 10'-square. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindess on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
 - !
   name: Multi-Target Attack Specialist (I – V)
   prerequisite:
