@@ -91,7 +91,7 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 **Two-handed** – The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly. Note that ranged attacks do not grant advantage when made with two hands.
 
-**Versatile** – The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of each while using the weapon in that mode.
+**Versatile** – The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
 <div class="table-no-body"></div>
 | Melee Weapons |
@@ -161,7 +161,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 | Plate Mail | 3 | 5 | yes | 7 | 10’ |
 | Elven Plate Mail | 4 | 3 | yes | 7 | 5’ |
 
-**^** Grants advantage when using the defend or deflect actions.
+**^** Grants advantage 1 when using the defend action.
 
 ## Adventuring Gear
 
