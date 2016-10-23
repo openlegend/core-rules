@@ -2,7 +2,7 @@
 
 Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with supernatural speed.
 
-Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoket the *Insubstantial* boon for herself or her allies until she gains enough experience to increase her Entropy to 7.
+Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoke the *Insubstantial* boon for herself or her allies until she gains enough experience to increase her Entropy to 7.
 
 ## Telling Your Story with Banes and Boons
 
@@ -40,7 +40,7 @@ The full listing of boons are available in a searchable list [here](http://www.o
 
 Each boon description includes the following elements.
 
-**Power Level.** This number indicates the required attribute score needed to inflict the bane. If multiple power levels are listed (such as 2 / 4 / 6), then the bane can be inflicted at multiple tiers of power. The *Heal* boon, for example, heals more damage as you invoke it at higher power levels. The power level of a boon also determines the Challenge Rating of the attribute roll to invoke the boon. The CR equals 10 + 2 x Power Level.
+**Power Level.** This number indicates the required attribute score needed to invoke the boon. If multiple power levels are listed (such as 2 / 4 / 6), then the boon can be invoked at multiple tiers of power. The *Heal* boon, for example, heals more damage as you invoke it at higher power levels. The power level of a boon also determines the Challenge Rating of the attribute roll to invoke the boon. The CR equals 10 + 2 x Power Level.
 
 **Attributes.** This is a list of the attribute or attributes that can be used to invoke the boon. As long as you possess at least one of the listed attributes at a score greater than or equal to the Power Level, then you can inflict the bane.
 
