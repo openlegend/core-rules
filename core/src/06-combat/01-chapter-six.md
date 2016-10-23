@@ -270,14 +270,16 @@ You can invoke boons in order to aid yourself or allies. In order to invoke a bo
 
 Boon invocations follow the same rules for determining range and number of targets as damaging attacks.
 
-##### 2. Determine Power Level and Challenge Rating
+##### 2. Roll to Invoke
 
-Before rolling to invoke a boon, you must choose the power level at which you are attempting to invoke. Some boons only possess a single power level, while others can be invoked at multiple power levels. You cannot invoke a boon at a power level higher than the attribute you are using to invoke the boon.
+Make an action roll using the appropriate attribute, as determined by the [*boon descriptions*](http://www.openlegendrpg.com/boons). 
 
-The Challenge Rating for your action roll equals 10 + (2 x Power Level), as shown in the Boon Challenge Ratings Table.
+##### 3. Determine Power Level
+
+Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
 
 <div class="table-no-body"></div>
-| Boon Challenge Ratings |
+| Boon Challenge Rating |
 | - |
 | |
 <div class="table-centered"></div>
@@ -294,9 +296,9 @@ The Challenge Rating for your action roll equals 10 + (2 x Power Level), as show
 | 8 | 26 |
 | 9 | 28 |
 
-##### 3. Roll to Invoke
+**Example**
 
-Make an action roll using the appropriate attribute, as determined by the [*boon descriptions*](http://www.openlegendrpg.com/boons). If your total equals or exceeds the Challenge Rating, the targeted creatures gain the chosen boon.
+Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description. 
 
 #### Assist an Ally
 
