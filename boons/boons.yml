@@ -156,10 +156,10 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    The target is propelled by magical force through the air, moving at incredible speed and with perfect agility.
+    The target is propelled by magical force through the air, with progressively improving speed and agility.
   effect: |
     <ul>
-    <li><strong>Power Level 6</strong> - The target gains a flight speed of 10’ with low manueverability.</li>
+    <li><strong>Power Level 5</strong> - The target gains a flight speed of 10’ with low manueverability.</li>
     <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly manueverable.</li>
     <li><strong>Power Level 8</strong> - The granted flight speed increases to 60'.</li>
     </ul>
