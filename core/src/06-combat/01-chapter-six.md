@@ -315,7 +315,7 @@ Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His 
 
 #### Assist an Ally
 
-You can assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally gets advantage 1 on that roll.
+You can use your major action to assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally automatically gets advantage 1 on their roll.
 
 #### Take an Extra Move Action
 
@@ -344,7 +344,7 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 **Climb**. You climb at half of your normal speed. The GM may require a Might or Agility check if the situation is particularly dangerous.
 
-**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similar situations..
+**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similarly challenging situations.
 
 #### Resist Banes
 
