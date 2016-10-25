@@ -350,6 +350,12 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed.
 
+Many banes will persist for a longer duration if you fail three resist rolls to shake them off. As such, you should keep a tally of any banes which you to fail resist .
+
+**Example**
+
+After standing toe-to-toe with an Ichor Demon for six rounds, Garcon is afflicted with three banes: *persistent damage*, *slowed*, and *blinded*. He uses his move action to attempt to resist these banes, so he rolls a d20 for each one, getting an 8, 16, and 9, respectively. Therefore, Garcon manages to shake off *slowed*, but he is still suffering from *persistent damage* and *blinded*. He notes on his character sheet that he has failed to resist each of these banes once.
+
 ### Minor Actions
 
 Minor actions are tasks that don’t require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
