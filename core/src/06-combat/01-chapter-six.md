@@ -307,9 +307,11 @@ Some boons only possess a single power level, while others can be invoked at mul
 | 8 | 26 |
 | 9 | 28 |
 
-**Example**
+**Example Boon Invocations**
 
-Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description. 
+Jade attempts to activate his reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *Invisible* is Power Level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
+
+Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description.
 
 #### Assist an Ally
 
