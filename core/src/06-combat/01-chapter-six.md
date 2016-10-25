@@ -366,6 +366,16 @@ Minor actions are tasks that don’t require much time or effort, but often set 
 
 An opportunity attack is a special kind of minor action because it does not take place during your turn. If you are wielding a melee weapon, and an enemy moves from a space within your reach to a space that is not within your reach, you may make a free attack against the enemy. (Note that, as a minor action, you may only make one opportunity attack per round).
 
+Only voluntary movement made on the moving character's turn trigger opportunity attacks. Movement caused by a foe's *forced move* bane or an ally's *telekinesis* boon, for example, do not trigger opportunity attacks.
+
+**Opportunity Attack Examples**
+
+Tommy has no choice but to flee from the three orcs that have closed upon him. He moves as far as he can to get away from them. However, because he moved from a space adjacent to them into a space not adjacent to them, all three orcs get to make an opportunity attack.
+
+Vera is toe-to-toe with two snotlings who flee in terror as she enters a berserker rage. Both snotlings trigger an opportunity attack. However, because she is limited to one opportunity attack per round, Vera can only attack one of them.
+
+Sergeant Rage is wielding a shotgun. A ratman dashes up to him, attacks with a dagger, and then dashes away. Because Sarge doesn't have a melee weapon equipped, he does not get an opportunity attack against the ratman.
+
 #### Sustaining Boons
 
 Many boons have a default duration of *sustain persists*, which means that every time a character uses the **sustain** action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action.
