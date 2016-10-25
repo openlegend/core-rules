@@ -41,7 +41,7 @@ Spaz and Jalani roll Agility checks to determine initiative, and the GM makes on
 
 Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 
-Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d8), and gets a 25.
+Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d10), and gets a 25.
 
 The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
 
