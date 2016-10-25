@@ -40,17 +40,22 @@ Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salva
 Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift 1* property, granting her advantage 1 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 
 Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
+
 Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d8), and gets a 25.
+
 The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
 
 The final initiative order is as follows:
 
 **Non-surprised Combatants**
-Jalani 25 (On her first turn, she must draw her Las Pistol)
-Griblicks 11
+
+  Jalani 25 (On her first turn, she must draw her Las Pistol)
+
+  Griblicks 11
 
 **Surprised Combatants**
-Spaz 14
+
+  Spaz 14
 
 ## The Core Mechanic in Combat
 
