@@ -266,6 +266,12 @@ The targeted defense is determined by the type of bane being inflicted. Consult 
 
 The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target’s defense score, your target suffers the bane.
 
+**Example Bane Attacks**
+
+Setting Sun is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Setting Sun is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Evasion of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+
+Zarthakis, the great wyrm, is surrounded by a party of 4 adventurers. He unfurls the full fury of his wings and bellows a mighty roar, instilling terror in his foes as he attempts to inflict the Demoralized Bane using his Presence attribute. The dragon's Presence is 8, giving him a range of 75', quite enough to target all of the heroes. Because Zarthakis is multi-targeting 4 foes, he has disadvantage 4 on his action roll. Normally, he would roll 1d20 + 3d8, but because he has disadvantage, the wyrm rolls 1d20 + 7d8 (keeping the lowest 3 d8s). His total score is 22, which he compares to each target's Resolve defense score separately. The heroes have Resolve scores of 14, 17, 22, and 25, so the dragon manages to inflict the bane on three of the four.
+
 #### Invoke a Boon
 
 You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon’s power level, as detailed in the
