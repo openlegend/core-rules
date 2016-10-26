@@ -419,7 +419,7 @@ Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 a
 
 A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Toughness scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
 
-**Improvise. **You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
+**Improvise.** You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
 ## Damage and Healing
 
