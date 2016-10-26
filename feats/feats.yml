@@ -823,6 +823,21 @@
     <li><strong>Tier 5</strong> - You can sustain any Shapeshift boon of power level 9 or less.</li>
     </ul>
 - !
+  name: Master Tracker
+  prerequisite:
+  - Perception 5
+  tags:
+  - Non-Combat
+  - Mental
+  - Perception
+  cost:
+  - 1
+  description: |
+    Your skill at tracking and hunting your quarry is unmatched, allowing you to follow trails long after others would have lost them.
+  effect: |
+    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up.  Only magically concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
+
+- !
   name: Mimic
   prerequisite:
   - Alteration 4
@@ -970,20 +985,6 @@
     Your berserker nature is ever-present, waiting to be unleashed at a moment's notice.
   effect: |
     You can enter a rage (as per the berserker feat) as a free action even when it is not your turn. You may choose to rage in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to rage after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your rage take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
-- !
-  name: Master Tracker
-  prerequisite:
-  - Perception 5
-  tags:
-  - Non-Combat
-  - Mental
-  - Perception
-  cost:
-  - 1
-  description: |
-    Your skill at tracking and hunting your quarry is unmatched, allowing you to follow trails long after others would have lost them.
-  effect: |
-    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up.  Only magically concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
 - !
   name: Reckless Frenzy
   prerequisite:
