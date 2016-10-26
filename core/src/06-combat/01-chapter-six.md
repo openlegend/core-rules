@@ -40,17 +40,22 @@ Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salva
 Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift 1* property, granting her advantage 1 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 
 Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
-Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d8), and gets a 25.
+
+Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d10), and gets a 25.
+
 The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
 
 The final initiative order is as follows:
 
 **Non-surprised Combatants**
-Jalani 25 (On her first turn, she must draw her Las Pistol)
-Griblicks 11
+
+  Jalani 25 (On her first turn, she must draw her Las Pistol)
+
+  Griblicks 11
 
 **Surprised Combatants**
-Spaz 14
+
+  Spaz 14
 
 ## The Core Mechanic in Combat
 
@@ -261,6 +266,12 @@ The targeted defense is determined by the type of bane being inflicted. Consult 
 
 The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target’s defense score, your target suffers the bane.
 
+**Example Bane Attacks**
+
+Setting Sun is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Setting Sun is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Evasion of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+
+Zarthakis, the great wyrm, is surrounded by a party of 4 adventurers. He unfurls the full fury of his wings and bellows a mighty roar, instilling terror in his foes as he attempts to inflict the Demoralized Bane using his Presence attribute. The dragon's Presence is 8, giving him a range of 75', quite enough to target all of the heroes. Because Zarthakis is multi-targeting 4 foes, he has disadvantage 4 on his action roll. Normally, he would roll 1d20 + 3d8, but because he has disadvantage, the wyrm rolls 1d20 + 7d8 (keeping the lowest 3 d8s). His total score is 22, which he compares to each target's Resolve defense score separately. The heroes have Resolve scores of 14, 17, 22, and 25, so the dragon manages to inflict the bane on three of the four.
+
 #### Invoke a Boon
 
 You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon’s power level, as detailed in the
@@ -296,13 +307,15 @@ Some boons only possess a single power level, while others can be invoked at mul
 | 8 | 26 |
 | 9 | 28 |
 
-**Example**
+**Example Boon Invocations**
 
-Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description. 
+Jade attempts to activate his reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *Invisible* is Power Level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
+
+Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description.
 
 #### Assist an Ally
 
-You can assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally gets advantage 1 on that roll.
+You can use your major action to assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally automatically gets advantage 1 on their roll.
 
 #### Take an Extra Move Action
 
@@ -316,7 +329,7 @@ Move actions are typically what you take in order to maneuver around the battlef
 -   Take special movement
 -   Resist banes
 
-#### Move your speed
+#### Move Your Speed
 
 You may move up to your speed. The base speed for characters is 30'. This movement may be broken up by other actions. For example, you may move 10 feet, use a minor action to open a door, move 10 more feet, and then use your major action to attack a foe.
 
@@ -331,11 +344,17 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 **Climb**. You climb at half of your normal speed. The GM may require a Might or Agility check if the situation is particularly dangerous.
 
-**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similar situations..
+**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similarly challenging situations.
 
 #### Resist Banes
 
 Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed.
+
+Many banes will persist for a longer duration if you fail three resist rolls to shake them off. As such, you should keep a tally of any banes which you to fail resist .
+
+**Example**
+
+After standing toe-to-toe with an Ichor Demon for six rounds, Garcon is afflicted with three banes: *persistent damage*, *slowed*, and *blinded*. He uses his move action to attempt to resist these banes, so he rolls a d20 for each one, getting an 8, 16, and 9, respectively. Therefore, Garcon manages to shake off *slowed*, but he is still suffering from *persistent damage* and *blinded*. He notes on his character sheet that he has failed to resist each of these banes once.
 
 ### Minor Actions
 
@@ -353,9 +372,25 @@ Minor actions are tasks that don’t require much time or effort, but often set 
 
 An opportunity attack is a special kind of minor action because it does not take place during your turn. If you are wielding a melee weapon, and an enemy moves from a space within your reach to a space that is not within your reach, you may make a free attack against the enemy. (Note that, as a minor action, you may only make one opportunity attack per round).
 
+Only voluntary movement made on the moving character's turn trigger opportunity attacks. Movement caused by a foe's *forced move* bane or an ally's *telekinesis* boon, for example, do not trigger opportunity attacks.
+
+**Opportunity Attack Examples**
+
+Tommy has no choice but to flee from the three orcs that have closed upon him. He moves as far as he can to get away from them. However, because he moved from a space adjacent to them into a space not adjacent to them, all three orcs get to make an opportunity attack.
+
+Vera is toe-to-toe with two snotlings who flee in terror as she enters a berserker rage. Both snotlings trigger an opportunity attack. However, because she is limited to one opportunity attack per round, Vera can only attack one of them.
+
+Sergeant Rage is wielding a shotgun. A ratman dashes up to him, attacks with a dagger, and then dashes away. Because Sarge doesn't have a melee weapon equipped, he does not get an opportunity attack against the ratman.
+
 #### Sustaining Boons
 
 Many boons have a default duration of *sustain persists*, which means that every time a character uses the **sustain** action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action.
+
+**Sustaining Boon Examples**
+
+Ruby invokes the *flight* boon and takes to the skies. On her next turn, she wants to keep the *flight* active, so she uses a minor action to sustain it. An enemy then inflicts her with the *stunned* boon, limiting her to a single major, move, or minor action. When her turn comes up again, she uses a single move action to reach a safe landing spot. Because she is *stunned* she does not have a minor action to use to sustain the boon, so it ends when her turn is over.
+
+Doctor Van Strankenkloff has invoked the *darkness* boon using his patented Light Sucker Mark IV. On his next turn, under cover of darkness, he activates his Personal Transmogrification Belt to invoke the *shapeshift* boon to turn into a mouse. Because both boons have a duration of "sustain persists", and the doctor may only sustain one boon at a time, he chooses to sustain the *shapeshift*. At the end of his turn, the *darkness* is dispelled and the *shapeshift* persists.
 
 ### Focus Actions
 
