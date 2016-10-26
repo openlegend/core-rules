@@ -329,7 +329,7 @@ Move actions are typically what you take in order to maneuver around the battlef
 -   Take special movement
 -   Resist banes
 
-#### Move your speed
+#### Move Your Speed
 
 You may move up to your speed. The base speed for characters is 30'. This movement may be broken up by other actions. For example, you may move 10 feet, use a minor action to open a door, move 10 more feet, and then use your major action to attack a foe.
 
@@ -385,6 +385,12 @@ Sergeant Rage is wielding a shotgun. A ratman dashes up to him, attacks with a d
 #### Sustaining Boons
 
 Many boons have a default duration of *sustain persists*, which means that every time a character uses the **sustain** action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action.
+
+**Sustaining Boon Examples**
+
+Ruby invokes the *flight* boon and takes to the skies. On her next turn, she wants to keep the *flight* active, so she uses a minor action to sustain it. An enemy then inflicts her with the *stunned* boon, limiting her to a single major, move, or minor action. When her turn comes up again, she uses a single move action to reach a safe landing spot. Because she is *stunned* she does not have a minor action to use to sustain the boon, so it ends when her turn is over.
+
+Doctor Van Strankenkloff has invoked the *darkness* boon using his patented Light Sucker Mark IV. On his next turn, under cover of darkness, he activates his Personal Transmogrification Belt to invoke the *shapeshift* boon to turn into a mouse. Because both boons have a duration of "sustain persists", and the doctor may only sustain one boon at a time, he chooses to sustain the *shapeshift*. At the end of his turn, the *darkness* is dispelled and the *shapeshift* persists.
 
 ### Focus Actions
 
