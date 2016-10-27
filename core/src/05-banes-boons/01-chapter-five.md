@@ -12,9 +12,9 @@ Because *Open Legend* focuses on separating the mechanics from the story, when y
 
 To invoke a bane, you must succeed at an appropriate attribute roll using one of your target’s defense scores as the Challenge Rating, as indicated in the bane description. Additionally, whenever you successfully make an attack that deals 10 or more damage to a target, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
-To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon’s Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you must state which Power Level you are aiming for before making your attribute roll.
+To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon’s Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke at after making your action roll.
 
-Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 5: Combat.
+Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 6: Combat.
 
 ## Reading a Bane Description
 
