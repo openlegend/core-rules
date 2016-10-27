@@ -374,13 +374,14 @@ In Open Legend, races do not provide specific mechanical costs and benefits. Ins
 
 **Two defining social traits. **Maybe you stutter when you’re nervous. Maybe you don’t trust anyone until they’ve proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
 
-**A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign. Here are a few examples of character secrets to give you some ideas:
+**A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
 
-*Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.*
-
-*Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.*
-
-*Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.*
+> ### Example Character Secrets
+> Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.*
+>
+> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.*
+>
+> Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.*
 
 
 ## Step 6: Choose Perks and Flaws
@@ -405,7 +406,7 @@ To activate a flaw, you should intentionally make a disadvantageous choice based
 
 The type of hindrance caused by activating a flaw should be more than a simple reduced chance of success. Good examples of activating a flaw include putting yourself or an ally in danger, making a bad decision, wasting a resource, and missing out on an opportunity, among others. It’s also important to note that a good use of a flaw makes something new and interesting happen in the story rather than ending the narrative. For example, instead of activating a flaw to miss an attack, you might target an ally. Or, rather than activating a flaw to fail to find a secret door, you might make so much noise in your search that you attract unwanted attention.
 
-> ### Examples
+> ### Examples of Activating Flaws
 > Oxnar the Barbarian was never known for his brains, so when the pixie promised him that eating the golden mushroom would make him as strong as a hundred mules, he gobbled it up with no questions and much gusto. A minute later he was dozing in a puddle of his own drool as the imp made off with his coin purse. The GM awards Oxnar with a legend point for effectively roleplaying his *dimwitted* flaw to his own detriment.
 >
 > * * * * *
