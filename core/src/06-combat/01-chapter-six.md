@@ -33,29 +33,29 @@ Write down all initiative scores from highest to lowest. When taking turns in co
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
-**Example of Initiative and Surprise**
-
-Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of Mugworm Griblicks.
-
-Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift 1* property, granting her advantage 1 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
-
-Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
-
-Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d10), and gets a 25.
-
-The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
-
-The final initiative order is as follows:
-
-**Non-surprised Combatants**
-
-  Jalani 25 (On her first turn, she must draw her Las Pistol)
-
-  Griblicks 11
-
-**Surprised Combatants**
-
-  Spaz 14
+> #### Example of Initiative and Surprise
+>
+> Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of Mugworm Griblicks.
+>
+> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift 1* property, granting her advantage 1 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+>
+>> Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
+>>
+>> Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d10), and gets a 25.
+>>
+>> The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
+>
+> The final initiative order is as follows:
+>
+>> **Non-surprised Combatants**
+>> 
+>> Jalani 25 (On her first turn, she must draw her Las Pistol)
+>>
+>> Griblicks 11
+>>
+>> **Surprised Combatants**
+>>
+>>  Spaz 14
 
 ## The Core Mechanic in Combat
 
@@ -78,13 +78,13 @@ With these modified rules, a player’s failed attack roll means that the player
 
 Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 
-### Example
-
-*Vera hurls herself at the red dragon attempting to cut through his
+> ### Example of the Core Mechanic in Combat
+>
+> Vera hurls herself at the red dragon attempting to cut through his
 scaly hide. However, her attack roll fails to hit the dragon’s toughness
 of 25. She chooses to inflict 5 damage, but the GM also gets a choice.
 He chooses to inflict the knockdown bane: The dragon’s tail lashes
-around and sweeps Vera to the floor.*
+around and sweeps Vera to the floor.
 
 ## Using Attributes to Inflict Damage
 
@@ -266,11 +266,13 @@ The targeted defense is determined by the type of bane being inflicted. Consult 
 
 The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target’s defense score, your target suffers the bane.
 
-**Example Bane Attacks**
-
-Setting Sun is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Setting Sun is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Evasion of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
-
-Zarthakis, the great wyrm, is surrounded by a party of 4 adventurers. He unfurls the full fury of his wings and bellows a mighty roar, instilling terror in his foes as he attempts to inflict the Demoralized Bane using his Presence attribute. The dragon's Presence is 8, giving him a range of 75', quite enough to target all of the heroes. Because Zarthakis is multi-targeting 4 foes, he has disadvantage 4 on his action roll. Normally, he would roll 1d20 + 3d8, but because he has disadvantage, the wyrm rolls 1d20 + 7d8 (keeping the lowest 3 d8s). His total score is 22, which he compares to each target's Resolve defense score separately. The heroes have Resolve scores of 14, 17, 22, and 25, so the dragon manages to inflict the bane on three of the four.
+> ##### Example Bane Attacks
+>
+> Setting Sun is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Setting Sun is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Evasion of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+>
+> * * * * *
+> 
+> Zarthakis, the great wyrm, is surrounded by a party of 4 adventurers. He unfurls the full fury of his wings and bellows a mighty roar, instilling terror in his foes as he attempts to inflict the Demoralized Bane using his Presence attribute. The dragon's Presence is 8, giving him a range of 75', quite enough to target all of the heroes. Because Zarthakis is multi-targeting 4 foes, he has disadvantage 4 on his action roll. Normally, he would roll 1d20 + 3d8, but because he has disadvantage, the wyrm rolls 1d20 + 7d8 (keeping the lowest 3 d8s). His total score is 22, which he compares to each target's Resolve defense score separately. The heroes have Resolve scores of 14, 17, 22, and 25, so the dragon manages to inflict the bane on three of the four.
 
 #### Invoke a Boon
 
@@ -307,11 +309,13 @@ Some boons only possess a single power level, while others can be invoked at mul
 | 8 | 26 |
 | 9 | 28 |
 
-**Example Boon Invocations**
-
-Jade attempts to activate his reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *Invisible* is Power Level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
-
-Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description.
+> ##### Example Boon Invocations
+>
+> Jade attempts to activate her reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *Invisible* is Power Level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
+>
+> * * * * *
+> 
+> Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description.
 
 #### Assist an Ally
 
@@ -352,9 +356,9 @@ Instead of using your move action to maneuver, you may focus your energy on shak
 
 Many banes will persist for a longer duration if you fail three resist rolls to shake them off. As such, you should keep a tally of any banes which you to fail resist .
 
-**Example**
-
-After standing toe-to-toe with an Ichor Demon for six rounds, Garcon is afflicted with three banes: *persistent damage*, *slowed*, and *blinded*. He uses his move action to attempt to resist these banes, so he rolls a d20 for each one, getting an 8, 16, and 9, respectively. Therefore, Garcon manages to shake off *slowed*, but he is still suffering from *persistent damage* and *blinded*. He notes on his character sheet that he has failed to resist each of these banes once.
+> ##### Example of Resisting Banes
+>
+> After standing toe-to-toe with an Ichor Demon for six rounds, Garcon is afflicted with three banes: *persistent damage*, *slowed*, and *blinded*. He uses his move action to attempt to resist these banes, so he rolls a d20 for each one, getting an 8, 16, and 9, respectively. Therefore, Garcon manages to shake off *slowed*, but he is still suffering from *persistent damage* and *blinded*. He notes on his character sheet that he has failed to resist each of these banes once.
 
 ### Minor Actions
 
@@ -374,52 +378,69 @@ An opportunity attack is a special kind of minor action because it does not take
 
 Only voluntary movement made on the moving character's turn trigger opportunity attacks. Movement caused by a foe's *forced move* bane or an ally's *telekinesis* boon, for example, do not trigger opportunity attacks.
 
-**Opportunity Attack Examples**
-
-Tommy has no choice but to flee from the three orcs that have closed upon him. He moves as far as he can to get away from them. However, because he moved from a space adjacent to them into a space not adjacent to them, all three orcs get to make an opportunity attack.
-
-Vera is toe-to-toe with two snotlings who flee in terror as she enters a berserker rage. Both snotlings trigger an opportunity attack. However, because she is limited to one opportunity attack per round, Vera can only attack one of them.
-
-Sergeant Rage is wielding a shotgun. A ratman dashes up to him, attacks with a dagger, and then dashes away. Because Sarge doesn't have a melee weapon equipped, he does not get an opportunity attack against the ratman.
+> ##### Opportunity Attack Examples
+>
+> Tommy has no choice but to flee from the three orcs that have closed upon him. He moves as far as he can to get away from them. However, because he moved from a space adjacent to them into a space not adjacent to them, all three orcs get to make an opportunity attack.
+>
+> * * * * *
+> 
+> Vera is toe-to-toe with two snotlings who flee in terror as she enters a berserker rage. Both snotlings trigger an opportunity attack. However, because she is limited to one opportunity attack per round, Vera can only attack one of them.
+>
+> * * * * *
+> 
+> Sergeant Rage is wielding a shotgun. A ratman dashes up to him, attacks with a dagger, and then dashes away. Because Sarge doesn't have a melee weapon equipped, he does not get an opportunity attack against the ratman.
 
 #### Sustaining Boons
 
 Many boons have a default duration of *sustain persists*, which means that every time a character uses the **sustain** action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action.
 
-**Sustaining Boon Examples**
-
-Ruby invokes the *flight* boon and takes to the skies. On her next turn, she wants to keep the *flight* active, so she uses a minor action to sustain it. An enemy then inflicts her with the *stunned* boon, limiting her to a single major, move, or minor action. When her turn comes up again, she uses a single move action to reach a safe landing spot. Because she is *stunned* she does not have a minor action to use to sustain the boon, so it ends when her turn is over.
-
-Doctor Van Strankenkloff has invoked the *darkness* boon using his patented Light Sucker Mark IV. On his next turn, under cover of darkness, he activates his Personal Transmogrification Belt to invoke the *shapeshift* boon to turn into a mouse. Because both boons have a duration of "sustain persists", and the doctor may only sustain one boon at a time, he chooses to sustain the *shapeshift*. At the end of his turn, the *darkness* is dispelled and the *shapeshift* persists.
+> ###### Sustaining Boon Examples
+>
+> Ruby invokes the *flight* boon and takes to the skies. On her next turn, she wants to keep the *flight* active, so she uses a minor action to sustain it. An enemy then inflicts her with the *stunned* boon, limiting her to a single major, move, or minor action. When her turn comes up again, she uses a single move action to reach a safe landing spot. Because she is *stunned* she does not have a minor action to use to sustain the boon, so it ends when her turn is over.
+>
+> * * * * *
+>  
+> Doctor Van Strankenkloff has invoked the *darkness* boon using his patented Light Sucker Mark IV. On his next turn, under cover of darkness, he activates his Personal Transmogrification Belt to invoke the *shapeshift* boon to turn into a mouse. Because both boons have a duration of "sustain persists", and the doctor may only sustain one boon at a time, he chooses to sustain the *shapeshift*. At the end of his turn, the *darkness* is dispelled and the *shapeshift* persists.
 
 ### Focus Actions
 
 Using a focus action involves spending all of your energy and attention on one task. If you choose to forgo your major, move, and minor actions for a round, you may instead take a focus action. Choose one of the following types of focus action:
 
-**Disrupting Attack.** Make a damaging attack using the normal attack rules. If your attack deals 10 or more points of damage, then any boons being sustained by your target immediately end.
+#### Disrupting Attack
 
-**Superior Action.** Make any one action roll with advantage 1.
+Make a damaging attack using the normal attack rules. If your attack deals 10 or more points of damage, then any boons being sustained by your target immediately end.
 
-**Charge.** Move up to twice your speed and make one melee attack at disadvantage 1.
+#### Superior Action
+
+Make any one action roll with advantage 1.
+
+#### Charge
+
+Move up to twice your speed and make one melee attack at disadvantage 1.
 
 ### Interrupt Actions
 
 In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
-**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Protection, Agility, and Might are all
-typical examples of attributes used to defend).
+#### Defend
+
+You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Protection, Agility, and Might are all typical examples of attributes used to defend).
 
 If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. A single defend action can only be used to defend one target. (**Note:** Characters wielding a shield gain advantage 1 on defend actions when appropriate).
 
 As part of your defend action, you may also move up to half of your speed at any time during your action. If you are adjacent to your ally when moving, the ally may choose to move with you.
 
-**Defend Examples**
+> ##### Defend Examples
+>
+> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Toughness of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Toughness, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
+>
+> * * * * *
+> 
+> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Toughness scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
 
-Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Toughness of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Toughness, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
+#### Improvise
 
-A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Toughness scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
-
-**Improvise.** You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
+You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
 ## Damage and Healing
 
