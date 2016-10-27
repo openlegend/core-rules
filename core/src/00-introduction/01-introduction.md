@@ -93,6 +93,6 @@ Add all of the dice together to find your total action roll. If your total is eq
 >
 > Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, she rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
 
-### Greater Treasures Lie Within
+## Greater Treasures Lie Within
 
 Action rolls and exploding dice are just the start of what makes *Open Legend* a blast to play. Read on to discover how to build the character you've always wanted to play, equip him for adventure, explore unknown worlds, and perform epic feats of heroism.
