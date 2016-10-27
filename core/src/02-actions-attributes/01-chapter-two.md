@@ -215,6 +215,7 @@ An additional layer of depth to action resolution comes in the form of legend po
 Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying (see Chapter 1: Character Creation).
 
 > ### Example of Earning a Legend Point
+> 
 > Zaax has the *hot tempered* flaw, causing him to easily lose control of his anger. In the middle of the party’s tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
 
 The GM may also feel free to establish other rules for awarding legend points. For example, some GMs like to allow each player to award another PC one legend point each session. Other tables might have a vote for MVP or best roleplayer at the end of each session, with the winner gaining a legend point.
