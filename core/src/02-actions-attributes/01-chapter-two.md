@@ -135,7 +135,6 @@ To resolve such contests, each character involved makes an action roll using an 
 > #### Example Contested Action
 >
 > As the Unnamed Necromancer attempts to open a portal to release a shade demon upon the land, the Uldric the Protector attempts to exert every ounce of his magical will to close the portal. The GM calls for a contested action between the two. The Necromancer makes an Entropy roll and gets a 25, while Uldric gets a 20 on his Protection roll. Unfortunately for the rest of the world, the demon has been unleashed.
->
 
 ## Advantage and Disadvantage
 
@@ -149,21 +148,22 @@ If a situation arises in which you are assigned both advantage and disadvantage,
 
 When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
 
-**Example of Advantage**
-
-*Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. After rolling, but before calculating her total, she removes the lowest rolling d10.*
+> #### Example of Advantage
+>
+> Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. After rolling, but before calculating her total, she removes the lowest rolling d10.
 
 Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
 
-**Example of Disadvantage**
-
-*Therilas attempts to invoke his elemental magic to call a lightning bolt down from a foe. However, he is currently being distracted by a swarm of wasps summoned by an enemy spellcaster, granting him disadvantage 1. Furthermore, he has also been subject to the fatigue bane, adding on an additional disadvantage 1. Therilas’s Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two highest rolling d6s.*
+> #### Example of Disadvantage
+>
+> Therilas attempts to invoke his elemental magic to call a lightning bolt down from a foe. However, he is currently being distracted by a swarm of wasps summoned by an enemy spellcaster, granting him disadvantage 1. Furthermore, he has also been subject to the fatigue bane, adding on an additional disadvantage 1. Therilas’s Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two highest rolling d6s.
 
 ### Advantage and Disadvantage Are Only Applied BEFORE Explosions
 
 Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice. 
 
-For example, if you have attribute score 4 and are rolling with advantage 2, you would roll 1d20 + 3d8 and keep the single highest of the d8s before rolling any exploding dice. Imagine your d20 rolls a 10 and your d8s land on 8, 8, and 3. You would then keep one of the 8s and discard the other two dice. Because the 8 rolled max, you may roll it again and add the result to your total. Imagine that lands on a 5. Your total score is 23 (10 + 8 + 5).
+> #### Example of Advantage with Exploding Dice
+> Imagine you have attribute score 4 and are rolling with advantage 2, you would roll 1d20 + 3d8 and keep the single highest of the d8s before rolling any exploding dice. Imagine your d20 rolls a 10 and your d8s land on 8, 8, and 3. You would then keep one of the 8s and discard the other two dice. Because the 8 rolled max, you may roll it again and add the result to your total. Imagine that lands on a 5. Your total score is 23 (10 + 8 + 5).
 
 ### Advantage and Disadvantage with Attribute Scores of Zero
 
@@ -186,7 +186,6 @@ Advantage and disadvantage can be assigned by the GM due to situational effects,
 | Expending a valuable arcane focus when casting a spell | Casting a spell in the midst of a heavy storm |
 | Conducting research in a well-stocked library | Conducting research while sick |
 | Tracking a large group | Tracking a creature smaller than a child |
-
 
 
 The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed attribute can be expected to succeed at the listed Challenge Rating close to **50%** of the time.
@@ -215,7 +214,8 @@ An additional layer of depth to action resolution comes in the form of legend po
 
 Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying (see Chapter 1: Character Creation).
 
-For example, Zaax has the *hot tempered* flaw, causing him to easily lose control of his anger. In the middle of the party’s tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
+> ### Example of Earning a Legend Point
+> Zaax has the *hot tempered* flaw, causing him to easily lose control of his anger. In the middle of the party’s tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
 
 The GM may also feel free to establish other rules for awarding legend points. For example, some GMs like to allow each player to award another PC one legend point each session. Other tables might have a vote for MVP or best roleplayer at the end of each session, with the winner gaining a legend point.
 
