@@ -377,11 +377,15 @@ In Open Legend, races do not provide specific mechanical costs and benefits. Ins
 **A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
 
 > ### Example Character Secrets
-> Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.*
+> Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
 >
-> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.*
+> * * * * *
 >
-> Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.*
+> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.
+>
+> * * * * *
+>
+> Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.
 
 
 ## Step 6: Choose Perks and Flaws
