@@ -6,7 +6,7 @@
 
 *But his whispers carry far in the deep tunnels of the Pyramid of Amon Ket, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the torchlight, fires of malice that burn for the souls of the intruders. “Therilas,” stutters the torchbearer as he draws a shining blade, “I think you’ve disturbed their sleep.”*
 
-*\* \* \* \* \**
+* * * * *
 
 *The death throes of the orcs can be heard two realms over as they fall in waves to the heroes making their last stand upon the Ruins of Ravenwatch. Still, there is no end in sight to the horde that blackens the hills like a swarm of locusts.*
 
@@ -17,7 +17,7 @@
 *As elf and dwarf bicker, a grey haired man, cloaked in emerald, stands tall atop a boulder at the center of the ruins. His eyes stare distantly, like sharp daggers, at the golden sun landing upon the horizon. With a smirk, he raises his gnarled oaken staff to the sky,
 where the gathering storm clouds crackle with the fury of nature’s electric potential. “Gentleman, lady…” speaks the druid with soft confidence, “I think the winds have turned in our favor.”*
 
-*\* \* \* \* \**
+* * * * *
 
 <div class="sticky-sidebar"></div>
 > ### Why Open Legend?
@@ -85,14 +85,14 @@ Add all of the dice together to find your total action roll. If your total is eq
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | the player succeeds with a twist. <br /> - OR - <br /> *the player fails but the story progresses*. (GM’s Choice) |
 
-#### Example
+> ### Example Action Roll
+> 
+> An adventuring party is traveling through the Darkwood, a forest cursed with malignant energy and cast in shadows at every turn. The party spies a gathering of lights in the distance ahead. At the same time, though, a Shade Demon has crept up behind the heroes. The GM tells Imladril, the elven ranger who is at the back of the marching order, to make a Perception roll against a Challenge Rating of 18. Imladril’s Perception score of 5 grants him a 2d6 bonus to Perception action rolls, so he grabs 1d20 + 2d6 and lets them fly.
+>
+> He rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, Imladril rolls it again and gets a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so she rules that he hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger’s bow out of his hands.
+>
+> Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, she rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
 
-An adventuring party is traveling through the Darkwood, a forest cursed with malignant energy and cast in shadows at every turn. The party spies a gathering of lights in the distance ahead. At the same time, though, a Shade Demon has crept up behind the heroes. The GM tells Imladril, the elven ranger who is at the back of the marching order, to make a Perception roll against a Challenge Rating of 18. Imladril’s Perception score of 5 grants him a 2d6 bonus to Perception action rolls, so he grabs 1d20 + 2d6 and lets them fly.
-
-He rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, Imladril rolls it again and gets a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so she rules that he hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger’s bow out of his hands.
-
-Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, she rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
-
-#### Greater Treasures Lie Within
+### Greater Treasures Lie Within
 
 Action rolls and exploding dice are just the start of what makes *Open Legend* a blast to play. Read on to discover how to build the character you've always wanted to play, equip him for adventure, explore unknown worlds, and perform epic feats of heroism.
