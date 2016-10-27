@@ -249,7 +249,7 @@
     <ul>
     <li>Tier 1 - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
     <li>Tier 2  - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, invoking the boon is one time increment faster.  If the invocation time is a major action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 major action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
-    <li>Tier 3 - When your invocation includes multiple targets, you gain advantage 4 on your action rolll to invoke the boon. Additionally, the chosen boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it returns automatically at the start of your next turn.</li>
+    <li>Tier 3 - When your invocation includes multiple targets, you gain advantage 4 on your action rolll to invoke the boon. Additionally, if the chosen boon has a duration of "sustain persists", it is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it returns automatically at the start of your next turn.</li>
     </ul>
 - !
   name: Breakfall (I - IX)
