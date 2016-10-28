@@ -282,6 +282,7 @@
   - 0
   attackAttributes:
   - Agility
+  - Creation
   - Influence
   - Entropy
   - Energy
@@ -289,6 +290,7 @@
   - Might
   attack:
   - Agility vs. Evasion
+  - Creation vs. Toughness
   - Influence vs. Resolve
   - Entropy vs. Toughness
   - Energy vs. Toughness
