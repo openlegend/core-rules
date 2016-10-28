@@ -23,8 +23,8 @@
   - 6
   - 8
   attribute:
-  - Creation
   - Alteration
+  - Creation
   - Prescience
   - Presence
   invocationTime: 1 Major Action
@@ -88,9 +88,9 @@
   - 5
   attribute:
   - Alteration
-  - Prescience
   - Entropy
   - Perception
+  - Prescience
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -194,8 +194,8 @@
   - 6
   - 8
   attribute:
-  - Movement
   - Alteration
+  - Movement
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -362,10 +362,10 @@
   - 7
   - 9
   attribute:
-  - Protection
   - Alteration
   - Energy
   - Movement
+  - Protection
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
@@ -384,8 +384,8 @@
   power:
   - 1
   attribute:
-  - Protection
   - Creation
+  - Protection
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
