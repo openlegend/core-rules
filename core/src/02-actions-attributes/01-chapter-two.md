@@ -167,7 +167,7 @@ Advantage and Disadvantage only apply to your initial pool of dice for an action
 
 ### Advantage and Disadvantage with Attribute Scores of Zero
 
-When attempting an action with an attribute score of zero, you cannot accrue advantage or disadvantage. Your character is already so inept at the action that he cannot capitalize on opportunities or be held back any further from hindrances.
+When attempting an action with an attribute score of zero, you cannot accrue advantage or disadvantage greater than 1. Your character is already so inept at the action that he cannot capitalize on cumulative circumstancial help or hindrances.
 
 ### Assigning Advantage and Disadvantage
 
