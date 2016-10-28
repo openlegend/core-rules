@@ -685,7 +685,7 @@
   description: |
     Your endurance is legendary, allowing you to push on when others would keel over from exhaustion.
   effect: |
-    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determined the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
+    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determining the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
   name: Inspiring Champion (I - III)
   prerequisite:
