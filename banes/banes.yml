@@ -631,15 +631,17 @@
   power:
   - 2
   attackAttributes:
-  - Energy
-  - Might
   - Agility
+  - Energy
   - Entropy
+  - Might
+  - Movement
   attack:
-  - Energy vs. Toughness
-  - Might vs. Toughness
   - Agility vs. Evasion
+  - Energy vs. Toughness
   - Entropy vs. Toughness
+  - Might vs. Toughness
+  - Movement vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
