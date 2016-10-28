@@ -282,6 +282,7 @@
   - 0
   attackAttributes:
   - Agility
+  - Creation
   - Influence
   - Entropy
   - Energy
@@ -289,6 +290,7 @@
   - Might
   attack:
   - Agility vs. Evasion
+  - Creation vs. Toughness
   - Influence vs. Resolve
   - Entropy vs. Toughness
   - Energy vs. Toughness
@@ -359,7 +361,7 @@
   invocationTime: 1 Minor Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Through a display of awe-inspiring force, initimidation, or leadership, you command attention as the greatest threat, causing others to fear to attack your allies.
+    Through a display of awe-inspiring force, intimidation, or leadership, you command attention as the greatest threat, causing others to fear to attack your allies.
   effect: |
     Any attacks made by the target that do not include you as a target suffer disadvantage. If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is equal or greater to their Resolve defense (that is, by striking one foe, you can intimidate another).
     <ul>
@@ -386,7 +388,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering rbolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak.
+    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak.
   effect: |
     The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1.
 - !
@@ -478,7 +480,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Whether by setting the target ablaze, covering them in acid, slicing an atery, or cursing them with a wasting disease, you inflict them with a lasting and recurring source of damage.
+    Whether by setting the target ablaze, covering them in acid, slicing an artery, or cursing them with a wasting disease, you inflict them with a lasting and recurring source of damage.
   effect: |
     At the beginning of the target's turn, before they take any actions, the target suffers damage determined by the power level of the bane. This damage automatically bypasses the afflicted character’s defenses but it can be reduced by any resistance to damage of a certain type (see the Resistance boon). Like all dice rolls, these dice explode.
     <ul>

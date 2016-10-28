@@ -19,7 +19,7 @@
   cost:
   - 3
   description: |
-    Alternate form is an ability possessed by lyncanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
+    Alternate form is an ability possessed by lycanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
     You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a major action. When you assume your new form, you gain a pool of points equal to your Alteration score, which you may immediately spend to temporarily increase your physical attributes. You cannot raise any physical attribute to be greater than your Alteration score, unless the physical attribute is already equal to your Alteration. In that case, you may increase it by a maximum of one point. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural attributes of the chosen form.
 
@@ -99,7 +99,7 @@
   description: |
     Your prowess in a supernatural, mental, or social attribute empowers a physical aspect of your character, allowing you to use that attribute for tasks normally reserved for another attribute.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, as well as an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity.
   effect: |
-    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). When making action rolls with the dependent attribute, you may use your score in the primary attribute for damaging attacks, bane attacks, boon invocations, and other actions at the GM's discretion. This relationship is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
+    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). When making action rolls with the dependent attribute, you may use your score in the primary attribute for damaging attacks, bane attacks, boon invocations, and other actions at the GM's discretion. This relationship is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
     For the purpose of meeting attribute prerequisites when purchasing feats, your dependent attribute is considered equal to that of your primary attribute score.
     <strong>Special</strong>: This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
 - !
@@ -230,13 +230,13 @@
   description: |
     You have a special gift: it might be the result of your heritage, a close encounter with magical energy, or the result of years of training with a master. In any case, although you do not necessarily possess the aptitude to work supernatural powers for yourself or create a desired effect with your physical capabilities alone, you are able to reliably replicate a single boon.
   effect: |
-    When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the Power Level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the Power Level of the boon. Additonally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the Power Level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a Power Level 6 boon.
+    When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the Power Level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the Power Level of the boon. Additionally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the Power Level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a Power Level 6 boon.
     You may acquire this feat multiple times. Each time, select a new boon.
     <strong>Special</strong>: If you ever meet the attribute prerequisite for the chosen boon, you may choose at that time to lose this feat and regain the feat points spent. Re-allocate them as you choose.
 - !
   name: Boon Focus (I - III)
   prerequisite:
-  - Ablility to invoke the chosen boon
+  - Ability to invoke the chosen boon
   tags:
   - Supernatural
   - Passive
@@ -251,7 +251,7 @@
     <li>Tier 2 - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, invoking the boon is one time increment faster.  If the invocation time is a major action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 major action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
     <li>Tier 3 - The effect at tier 3 varies based on the duration of the boon:
       <br />
-      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke it when multi-targeting. Addtionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.
+      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke it when multi-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.
       <br />
       <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke it when multi-targeting.
     </li>
@@ -317,7 +317,7 @@
   description: |
     Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
   effect: |
-    You gain a companion character that acts indepently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons.
+    You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons.
     <ul>
     <li><strong>Tier 1</strong> - Your companion's highest attribute equals your level minus 2 (minimum of 3).</li>
     <li><strong>Tier 2</strong> - Your companion's highest attribute equals your level minus 1 (minimum of 4).</li>
@@ -361,12 +361,12 @@
   cost:
   - 3
   description: |
-    You are studied in the ways of imbuing magical items, brewing potions, or building extraoridnary devices. Their power is permanent but varies depending on your skill.
+    You are studied in the ways of imbuing magical items, brewing potions, or building extraordinary devices. Their power is permanent but varies depending on your skill.
   effect: |
     This feat allows you to create items that can invoke a given bane or boon either autonomously or by way of a wielder.
     <ul>
     <li><strong>Tier 1</strong> - You can create an item with this feat. Choose a target attribute score for the item, less than or equal to 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3). <br />
-      Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the heal boon, for example, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concetrates on using it.  <br />
+      Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the heal boon, for example, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concentrates on using it.  <br />
       Creating an expendable item requires 1 full 8-hour day of uninterrupted work. Creating a permanent item, requires one such day of work per attribute score of the item. <br />
       At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item.
       <br />
@@ -386,10 +386,10 @@
       <li>The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.</li>
       <li>For expendable items, bane attacks have advantage 2 instead of advantage 1.</li>
       <li>You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a teleportation circle that activates when someone steps on a magical trigger. For those imbuing with non-magical means, this autonomy could be more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).</li>
-      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3.  A non-supernatural example could be ballistae on a large embattlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
+      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3.  A non-supernatural example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
       </ul>
     </li>
-    <li><strong>Tier 3</strong> - You can imbue humanlike sentience into the item, it gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.</li>
+    <li><strong>Tier 3</strong> - You can imbue human-like sentience into the item, it gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.</li>
     </ul>
 - !
   name: Crushing Blow
@@ -478,7 +478,7 @@
   description: |
     Your inherent magical protection extends to make you immune to disease.
   effect: |
-    You are immune to natural disease. This protection does not guard against magical curses such as lyncanthropy.
+    You are immune to natural disease. This protection does not guard against magical curses such as lycanthropy.
 - !
   name: Energy Resistance (I - III)
   prerequisite:
@@ -685,7 +685,7 @@
   description: |
     Your endurance is legendary, allowing you to push on when others would keel over from exhaustion.
   effect: |
-    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determinined the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
+    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determining the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
   name: Inspiring Champion (I - III)
   prerequisite:
@@ -870,10 +870,10 @@
   effect: |
     Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 6; 3 attacks suffers disadvantage 9). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 
-    You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack indidvidually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
+    You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
 
     <strong>EXAMPLE</strong>
-    Vax the Deathbringer has Multi Attack Specialist (Tier VI). He declares that he will be making three attacks this round. Therefore, all of his attacks suffer disadvantage 3 (3 x 3 = 9, minus 6 for feat tier 6). His first attack is a necromantic burst targeting a 10'-square. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindess on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
+    Vax the Deathbringer has Multi Attack Specialist (Tier VI). He declares that he will be making three attacks this round. Therefore, all of his attacks suffer disadvantage 3 (3 x 3 = 9, minus 6 for feat tier 6). His first attack is a necromantic burst targeting a 10'-square. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindness on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
 - !
   name: Multi-Target Attack Specialist (I – V)
   prerequisite:
