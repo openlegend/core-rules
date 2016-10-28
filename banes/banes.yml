@@ -99,7 +99,7 @@
   - Entropy
   - Influence
   - Might
-  - Presence
+  - Prescience
   - Persuasion
   attack:
   - Agility vs. Resolve
@@ -107,7 +107,7 @@
   - Entropy vs. Resolve
   - Influence vs. Resolve
   - Might vs. Resolve
-  - Presence vs. Resolve
+  - Prescience vs. Resolve
   - Persuasion vs. Resolve
   invocationTime: 1 Major Action
   duration: Resist (minor) ends (Fail x 3 = 1 minute)
@@ -218,7 +218,7 @@
     <strong>Special:</strong> Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion, removes one level of fatigue. If the Restoration boon is invoked, the character invoking it can remove one level of Fatigue (in addition to that removed by natural rest) if their attribute used to invoke Restoration is between 1 and 6. A target cannot benefit from another invocation of the Restoration boon until 24 hours have passed. If the Restoration boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one.
      <ul>
      <li>Level 1 - The target has Disadvantage 1 on all non-attack action rolls.</li>
-     <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.</li>
+     <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude for Toughness, Will and Prescience for Resolve). They retain any armor, supernatural, or feat bonuses.</li>
      <li>Level 3 - The target has Disadvantage 1 on all attack rolls.</li>
      <li>Level 4 - The target is affected by the slowed bane, reducing it's speed to 2. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
      <li>Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
@@ -346,7 +346,7 @@
   - Influence
   - Energy
   - Might
-  - Presence
+  - Prescience
   - Persuasion
   attack:
   - Creation vs. Resolve
@@ -354,7 +354,7 @@
   - Influence vs. Resolve
   - Energy vs. Resolve
   - Might vs. Resolve
-  - Presence vs. Resolve
+  - Prescience vs. Resolve
   - Persuasion vs. Resolve
   invocationTime: 1 Minor Action
   duration: Resist ends (Fail x 3 = 1 minute)
