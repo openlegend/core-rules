@@ -1,7 +1,8 @@
 - !
   name: Ageless
   prerequisite:
-  - Alteration 9 OR Creation 9 OR Entropy 9 OR Protection 9
+  - Attribute:
+    - Alteration 9 OR Creation 9 OR Entropy 9 OR Protection 9
   tags:
   - Supernatural
   cost:
