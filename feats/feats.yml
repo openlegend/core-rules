@@ -482,7 +482,7 @@
 - !
   name: Energy Resistance (I - III)
   prerequisite:
-  -  Energy OR 4 / 5 / 7
+  -  Energy 4 / 5 / 7 OR Protection 4 / 5 / 7
   tags:
   - Supernatural
   cost:
