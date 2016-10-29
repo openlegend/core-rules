@@ -1,8 +1,7 @@
 - !
   name: Ageless
   prerequisite:
-  - Attribute:
-    - Protection 9 OR Creation 9 OR Alteration 9 OR Entropy 9
+  - Alteration 9 OR Creation 9 OR Entropy 9 OR Protection 9
   tags:
   - Supernatural
   cost:
@@ -14,15 +13,7 @@
 - !
   name: Alternate Form (I - III)
   prerequisite:
-  - tier1:
-    - Attribute:
-      - Alteration 2
-  - tier2:
-    - Attribute:
-      - Alteration 5
-  - tier3:
-    - Attribute:
-      - Alteration 7
+  - Alteration 2 / 5 / 7
   tags:
   - Supernatural
   cost:
@@ -71,8 +62,7 @@
 - !
   name: Attack Redirection
   prerequisite:
-  - feat:
-    - Defensive Reflexes II
+  - Defensive Reflexes II
   tags:
   - Supernatural
   cost:
@@ -84,42 +74,7 @@
 - !
   name: Attack Specialization (I - IX)
   prerequisite:
-  - tier1:
-    - Attribute:
-      - Any 1
-  prerequisite:
-  - tier2:
-    - Attribute:
-      - Any 2
-  prerequisite:
-  - tier3:
-    - Attribute:
-      - Any 3
-  prerequisite:
-  - tier4:
-    - Attribute:
-      - Any 4
-  prerequisite:
-  - tier5:
-    - Attribute:
-      - Any 5
-  prerequisite:
-  - tier6:
-    - Attribute:
-      - Any 6
-  prerequisite:
-  - tier7:
-    - Attribute:
-      - Any 7
-  prerequisite:
-  - tier8:
-    - Attribute:
-      - Any 8
-  prerequisite:
-  - tier9:
-    - Attribute:
-      - Any 9
-
+  - Attribute 1 - 9
   tags:
   - Passive
   - Weapon
@@ -152,6 +107,7 @@
   prerequisite:
   -  Ability to invoke the chosen bane
   tags:
+  - Might
   - Passive
   - Combat
   - Bane
@@ -164,7 +120,7 @@
 - !
   name: Battlefield Defender
   prerequisite:
-  - Might 4 OR Agility 4 OR Protection 4
+  - Agility 4 OR Might 4 OR Protection 4
   tags:
   - Might
   - Agility
@@ -197,7 +153,7 @@
   name: Battlefield Punisher - Slowed
   prerequisite:
   - Battlefield Defender
-  - Might 5 OR Agility 5
+  - Agility 5 OR Might 5
   tags:
   - Might
   - Agility
@@ -214,7 +170,7 @@
   name: Battlefield Punisher - Stunned
   prerequisite:
   - Battlefield Defender
-  - Might 7 OR Agility 7
+  - Agility 7 OR Might 7
   tags:
   - Might
   - Agility
@@ -231,7 +187,7 @@
   name: Battlefield Sentinel (I - V)
   prerequisite:
   - Battlefield Defender
-  - Might 5 OR Agility 5
+  - Agility 5 OR Might 5
   tags:
   - Might
   - Agility
@@ -247,9 +203,8 @@
 - !
   name: Berserker
   prerequisite:
-  - Will 3 OR Fortitude 3
+  - Fortitude 3 OR Will 3 
   tags:
-  - Combat
   cost:
   - 3
   description: |
@@ -306,8 +261,6 @@
   prerequisite:
   - Agility 4
   tags:
-  - Agility
-  - Passive
   cost:
   - 1
   description: |
@@ -319,7 +272,6 @@
   prerequisite:
   - Might 2
   tags:
-  - Might
   - Non-Combat
   cost:
   - 1
@@ -331,10 +283,8 @@
   name: Combat Follow-through
   prerequisite:
   - Combat Momentum
-  - Might 5 OR Agility 5
+  - Agility 5 OR Might 5
   tags:
-  - Might
-  - Agility
   - Feat Chain
   cost:
   - 2
@@ -346,7 +296,7 @@
 - !
   name: Combat Momentum
   prerequisite:
-  - Might 4 OR Agility 4 OR Movement 4
+  - Agility 4 OR Might 4 OR Movement 4
   tags:
   - Feat Chain
   cost:
@@ -482,7 +432,6 @@
   - Berserker
   - Fortitude 7
   tags:
-  - Combat
   - Supernatural
   cost:
   - 3
@@ -496,7 +445,6 @@
   - Berserker
   - Might 7
   tags:
-  - Combat
   - Supernatural
   - Might
   cost:
@@ -566,7 +514,6 @@
   prerequisite:
   - Agility 4
   tags:
-  - Combat
   - Agility
   cost:
   - 2
@@ -605,7 +552,7 @@
 - !
   name: Fleet of Foot (I – III)
   prerequisite:
-  - Agility 4 / 5 / 7 OR Movement 2 / 4 / 6 OR Fortitude 4 / 5 / 7
+  - Agility 4 / 5 / 7 OR Fortitude 4 / 5 / 7 OR Movement 2 / 4 / 6
   tags:
   - Supernatural
   - Agility
@@ -664,8 +611,8 @@
 - !
   name: Hallucination (Mass)
   prerequisite:
-  - Influence 7
   - Hallucination
+  - Influence 7
   tags:
   - Supernatural
   - Non-Combat
@@ -898,8 +845,8 @@
 - !
   name: Mimic
   prerequisite:
-  - Alteration 4
   - Alternate Form feat
+  - Alteration 4
   tags:
   - Supernatural
   - Feat Chain
@@ -1058,7 +1005,7 @@
 - !
   name: Resilient
   prerequisite:
-  - Presence 3 OR Fortitude 3 OR Will 3
+  - Fortitude 3 OR Presence 3 OR Will 3
   tags:
   - Mental
   - Physical
@@ -1160,7 +1107,7 @@
 - !
   name: Supernatural Defense (I - V)
   prerequisite:
-  - Protection OR Prescience OR Movement 2 / 3 / 4 / 5 / 6
+  - Movement OR Prescience OR Protection  2 / 3 / 4 / 5 / 6
   tags:
   - Supernatural
   - Defense
@@ -1212,8 +1159,8 @@
 - !
   name: Two Weapon Defense
   prerequisite:
-  - Agility 4
   - Multi-Attack Specialist
+  - Agility 4
   tags:
   - Combat
   - Physical
@@ -1241,7 +1188,7 @@
 - !
   name: Untrackable
   prerequisite:
-  - Protection 3 OR Alteration 3 OR Influence 3
+  - Alteration 3 OR Influence 3 OR Protection 3
   tags:
   - Non-Combat
   - Protection
