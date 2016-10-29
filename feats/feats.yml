@@ -72,7 +72,7 @@
   name: Attack Redirection
   prerequisite:
   - Feat:
-    - Defense Reflexes II
+    - Defensive Reflexes II
   tags:
   - Supernatural
   cost:
@@ -128,7 +128,7 @@
   name: Attribute Substitution
   prerequisite:
   - Attribute:
-    - Mental or Supernatural 4
+    - Mental 4 OR Supernatural 4
   tags:
   - Any Attribute
   cost:
@@ -533,7 +533,8 @@
 - !
   name: Defensive Reflexes (I - X)
   prerequisite:
-  - Agility 3
+  - Attribute:
+    - Agility 3
   tags:
   - Agility
   - Supernatural
