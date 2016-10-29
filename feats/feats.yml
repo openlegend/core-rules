@@ -1,7 +1,8 @@
 - !
   name: Ageless
   prerequisite:
-  - Protection, Creation, Alteration, or Entropy 9
+  - Attribute:
+    - Protection 9 OR Creation 9 OR Alteration 9 OR Entropy 9
   tags:
   - Supernatural
   cost:
@@ -13,7 +14,15 @@
 - !
   name: Alternate Form (I - III)
   prerequisite:
-  - Alteration 2 / 5 / 7
+  - tier1:
+    - Attribute:
+      - Alteration 2
+  - tier2:
+    - Attribute:
+      - Alteration 5
+  - tier3:
+    - Attribute:
+      - Alteration 7
   tags:
   - Supernatural
   cost:
@@ -62,7 +71,8 @@
 - !
   name: Attack Redirection
   prerequisite:
-  - Defensive Reflexes II
+  - feat:
+    - Defensive Reflexes II
   tags:
   - Supernatural
   cost:
@@ -74,7 +84,42 @@
 - !
   name: Attack Specialization (I - IX)
   prerequisite:
-  - Attribute 1 - 9
+  - tier1:
+    - Attribute:
+      - Any 1
+  prerequisite:
+  - tier2:
+    - Attribute:
+      - Any 2
+  prerequisite:
+  - tier3:
+    - Attribute:
+      - Any 3
+  prerequisite:
+  - tier4:
+    - Attribute:
+      - Any 4
+  prerequisite:
+  - tier5:
+    - Attribute:
+      - Any 5
+  prerequisite:
+  - tier6:
+    - Attribute:
+      - Any 6
+  prerequisite:
+  - tier7:
+    - Attribute:
+      - Any 7
+  prerequisite:
+  - tier8:
+    - Attribute:
+      - Any 8
+  prerequisite:
+  - tier9:
+    - Attribute:
+      - Any 9
+
   tags:
   - Passive
   - Weapon
@@ -107,7 +152,6 @@
   prerequisite:
   -  Ability to invoke the chosen bane
   tags:
-  - Might
   - Passive
   - Combat
   - Bane
@@ -205,6 +249,7 @@
   prerequisite:
   - Will 3 OR Fortitude 3
   tags:
+  - Combat
   cost:
   - 3
   description: |
@@ -261,6 +306,8 @@
   prerequisite:
   - Agility 4
   tags:
+  - Agility
+  - Passive
   cost:
   - 1
   description: |
@@ -272,6 +319,7 @@
   prerequisite:
   - Might 2
   tags:
+  - Might
   - Non-Combat
   cost:
   - 1
@@ -285,6 +333,8 @@
   - Combat Momentum
   - Might 5 OR Agility 5
   tags:
+  - Might
+  - Agility
   - Feat Chain
   cost:
   - 2
@@ -432,6 +482,7 @@
   - Berserker
   - Fortitude 7
   tags:
+  - Combat
   - Supernatural
   cost:
   - 3
@@ -445,6 +496,7 @@
   - Berserker
   - Might 7
   tags:
+  - Combat
   - Supernatural
   - Might
   cost:
@@ -514,6 +566,7 @@
   prerequisite:
   - Agility 4
   tags:
+  - Combat
   - Agility
   cost:
   - 2
