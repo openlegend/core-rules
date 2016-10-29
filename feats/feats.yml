@@ -1,7 +1,7 @@
 - !
   name: Ageless
   prerequisite:
-  - Protection, Creation, Alteration, or Entropy 9
+  - Alteration 9 OR Creation 9 OR Entropy 9 OR Protection 9
   tags:
   - Supernatural
   cost:
@@ -120,7 +120,7 @@
 - !
   name: Battlefield Defender
   prerequisite:
-  - Might 4 OR Agility 4 OR Protection 4
+  - Agility 4 OR Might 4 OR Protection 4
   tags:
   - Might
   - Agility
@@ -153,7 +153,7 @@
   name: Battlefield Punisher - Slowed
   prerequisite:
   - Battlefield Defender
-  - Might 5 OR Agility 5
+  - Agility 5 OR Might 5
   tags:
   - Might
   - Agility
@@ -170,7 +170,7 @@
   name: Battlefield Punisher - Stunned
   prerequisite:
   - Battlefield Defender
-  - Might 7 OR Agility 7
+  - Agility 7 OR Might 7
   tags:
   - Might
   - Agility
@@ -187,7 +187,7 @@
   name: Battlefield Sentinel (I - V)
   prerequisite:
   - Battlefield Defender
-  - Might 5 OR Agility 5
+  - Agility 5 OR Might 5
   tags:
   - Might
   - Agility
@@ -203,7 +203,7 @@
 - !
   name: Berserker
   prerequisite:
-  - Will 3 OR Fortitude 3
+  - Fortitude 3 OR Will 3 
   tags:
   cost:
   - 3
@@ -283,7 +283,7 @@
   name: Combat Follow-through
   prerequisite:
   - Combat Momentum
-  - Might 5 OR Agility 5
+  - Agility 5 OR Might 5
   tags:
   - Feat Chain
   cost:
@@ -296,7 +296,7 @@
 - !
   name: Combat Momentum
   prerequisite:
-  - Might 4 OR Agility 4 OR Movement 4
+  - Agility 4 OR Might 4 OR Movement 4
   tags:
   - Feat Chain
   cost:
@@ -552,7 +552,7 @@
 - !
   name: Fleet of Foot (I – III)
   prerequisite:
-  - Agility 4 / 5 / 7 OR Movement 2 / 4 / 6 OR Fortitude 4 / 5 / 7
+  - Agility 4 / 5 / 7 OR Fortitude 4 / 5 / 7 OR Movement 2 / 4 / 6
   tags:
   - Supernatural
   - Agility
@@ -611,8 +611,8 @@
 - !
   name: Hallucination (Mass)
   prerequisite:
-  - Influence 7
   - Hallucination
+  - Influence 7
   tags:
   - Supernatural
   - Non-Combat
@@ -845,8 +845,8 @@
 - !
   name: Mimic
   prerequisite:
-  - Alteration 4
   - Alternate Form feat
+  - Alteration 4
   tags:
   - Supernatural
   - Feat Chain
@@ -1005,7 +1005,7 @@
 - !
   name: Resilient
   prerequisite:
-  - Presence 3 OR Fortitude 3 OR Will 3
+  - Fortitude 3 OR Presence 3 OR Will 3
   tags:
   - Mental
   - Physical
@@ -1107,7 +1107,7 @@
 - !
   name: Supernatural Defense (I - V)
   prerequisite:
-  - Protection OR Prescience OR Movement 2 / 3 / 4 / 5 / 6
+  - Movement OR Prescience OR Protection  2 / 3 / 4 / 5 / 6
   tags:
   - Supernatural
   - Defense
@@ -1159,8 +1159,8 @@
 - !
   name: Two Weapon Defense
   prerequisite:
-  - Agility 4
   - Multi-Attack Specialist
+  - Agility 4
   tags:
   - Combat
   - Physical
@@ -1188,7 +1188,7 @@
 - !
   name: Untrackable
   prerequisite:
-  - Protection 3 OR Alteration 3 OR Influence 3
+  - Alteration 3 OR Influence 3 OR Protection 3
   tags:
   - Non-Combat
   - Protection
