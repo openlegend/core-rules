@@ -34,13 +34,13 @@ Here’s an example to illustrate how to make every roll matter.
 
 In this case, what might often happen at a gaming table is that upon seeing the halfling’s failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In *Open Legend*, such a reaction is frowned upon because it would mean that the burglar’s roll didn’t matter. It didn’t drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias’s roll. Here are two potential outcomes for the roll:
 
-*If the GM chooses **success with a twist**, he might rule that Pelias is able to open the lock; however, just as he finishes the job, he begins to hear a faint hissing sound from the door. A poison gas trap! The burglar immediately falls unconscious, and the rest of the party must decide what to do before the gas reaches them in a matter of seconds.*
+*If the GM chooses **success with a twist**, they might rule that Pelias is able to open the lock; however, just as he finishes the job, he begins to hear a faint hissing sound from the door. A poison gas trap! The burglar immediately falls unconscious, and the rest of the party must decide what to do before the gas reaches them in a matter of seconds.*
 
-*If the GM chooses **failure, but the story progresses**, he might rule that although Pelias is unable to get the lock open, he hears footsteps approaching from around the corner accompanied by the familiar jingle of a jailer’s keychain. If the party can position themselves quickly enough, they may be able to get the keys without a fight.*
+*If the GM chooses **failure, but the story progresses**, they might rule that although Pelias is unable to get the lock open, he hears footsteps approaching from around the corner accompanied by the familiar jingle of a jailer’s keychain. If the party can position themselves quickly enough, they may be able to get the keys without a fight.*
 
 Notice how both of these options allow Pelias’s action to drive the story forward just as much as a successful roll would have. In the second example, perhaps the barbarian still ends up bashing the door down with brute force, but at least the story moved on in some way because of the burglar’s attempts.
 
-The GM has a right to interpret the results of a failed action roll so that he can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM’s toes in this regard.
+The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM’s toes in this regard.
 
 
 > ### Old Habits Die Hard
@@ -67,15 +67,15 @@ The previous example provides just one method in which a GM might interpret the 
 
 ### Interpreting Success
 
-A successful action roll is by far the easiest to interpret: it means that the player gets what she was hoping for. If she was rolling to climb a cliff, then she climbs it. If she was trying to pick a pocket, then it’s picked. If she was trying to stab an orc, he’s stabbed. And so on.
+A successful action roll is by far the easiest to interpret: it means that the player gets what they were hoping for. If they were rolling to climb a cliff, then they climb it. If they were trying to pick a pocket, then it’s picked. If they were trying to stab an orc, it is stabbed. And so on.
 
 In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 6). Often, though, the GM will need to determine what happens with a successful action roll.
 
 There are two primary factors to consider when adjudicating a success:
 
-**Don’t roll if there’s nothing to succeed at.** For example, if a character wants to search a corridor for secret passages, but the GM knows there aren’t any, he doesn’t need to have the character roll a Perception check, because there’s nothing to find. The roll doesn’t matter.
+**Don’t roll if there’s nothing to succeed at.** For example, if a character wants to search a corridor for secret passages, but the GM knows there aren’t any, they don't need to have the character roll a Perception check, because there’s nothing to find; the roll doesn’t matter.
 
-**Describe your success.** Whenever the situation allows, the player should show the rest of the table what success looks like. It’s his turn in the spotlight, so let him shine. If your rogue successfully disarms a trap, describe how the scything blade just barely nicked your cheek before you finished the job. If your barbarian makes a successful leap attack against the orc chieftain, narrate how you knock his shield aside with your first blow before coming down on his skull with your axe. Sometimes, of course, the GM has privileged information, so she needs to be the one to describe things. Whenever possible, though, the players should describe their own success.
+**Describe your success.** Whenever the situation allows, the player should show the rest of the table what success looks like. It’s their turn in the spotlight, so let them shine. If your rogue successfully disarms a trap, describe how the scything blade just barely nicked your cheek before you finished the job. If your barbarian makes a successful leap attack against the orc chieftain, narrate how you knock their shield aside with your first blow before coming down on their skull with your axe. Sometimes, of course, the GM has privileged information, so they need to be the one to describe things. Whenever possible, though, the players should describe their own success.
 
 ### Interpreting Success with a Twist
 
@@ -101,7 +101,7 @@ Progress, though, can mean a lot of things. When the GM selects this option, the
 
 **The danger snowballs.** You fail to jump a chasm while fleeing a band of cannibals. You fall along the cliffside, taking some damage. When you gather your senses, you realize that you aren’t only separated from the rest of your party, but you’ve also fallen into the nest of a Roc.
 
-**The information is false.** You think you’ve got a good read on the mayor during your negotiations. It seems like he’s completely in favor of your plan to negotiate an alliance with the neighboring dwarves. When you set out the next day, however, it turns out you were wrong, and the guards he sent to ensure your safe passage turn out to be your assassins.
+**The information is false.** You think you’ve got a good read on the mayor during your negotiations. It seems like they're completely in favor of your plan to negotiate an alliance with the neighboring dwarves. When you set out the next day, however, it turns out you were wrong, and the guards they sent to ensure your safe passage turn out to be your assassins.
 
 The GM gets to decide how bad a failed action roll turns out to be, and sometimes, it’s really bad. While some of these examples are harsher than others, they all share one common factor: they steer the narrative forward. Failure is never just a failure.
 
@@ -167,7 +167,7 @@ Advantage and Disadvantage only apply to your initial pool of dice for an action
 
 ### Advantage and Disadvantage with Attribute Scores of Zero
 
-When attempting an action with an attribute score of zero you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. Your character is already so inept at the action that he cannot capitalize on cumulative circumstancial help or hindrances.
+When attempting an action with an attribute score of zero you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances.
 
 ### Assigning Advantage and Disadvantage
 

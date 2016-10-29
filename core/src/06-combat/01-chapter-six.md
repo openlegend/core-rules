@@ -11,7 +11,7 @@ That’s when combat ensues. In this chapter, you’ll learn all the rules for f
 ## When Combat Ensues
 
 The first thing to realize is that not every instance of violence or fighting in your game needs to be broken down into blow-by-blow, round-by-round narration. The outcome of a simple bar fight, which might be important to the story but not particularly fun to play through,
-could be decided using a few action rolls based around the core mechanic explained in Chapter 2. A final showdown with an evil necromancer fought upon air ships sailing through the clouds, on the other hand, is epic and fun enough to merit a blow-by-blow resolution. The GM is the final arbiter who decides when to start combat, and she does so with three simple words: “Roll for initiative!”.
+could be decided using a few action rolls based around the core mechanic explained in Chapter 2. A final showdown with an evil necromancer fought upon air ships sailing through the clouds, on the other hand, is epic and fun enough to merit a blow-by-blow resolution. The GM is the final arbiter who decides when to start combat, and they can do so with three simple words: “Roll for initiative!”.
 
 ## Starting Combat
 
@@ -25,11 +25,11 @@ Surprised characters always act after non-surprised characters, as explained in 
 
 ### Roll for Initiative
 
-After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is his initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
+After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
 
 Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest.
 
-**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, he gains advantage on his initiative roll equal to the weapon’s *swift* value (i.e., *swift* 2 provides advantage 2). A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
+**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage on their initiative roll equal to the weapon’s *swift* value (i.e., *swift* 2 provides advantage 2). A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
@@ -59,7 +59,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 
 ## The Core Mechanic in Combat
 
-The core mechanic of *Open* *Legend* is meant to inspire creativity in players and GMs so that the story always moves forward and so that no dice roll ever feels wasted. However, in combat, players typically make many more action rolls than usual, so the GM may feel overwhelmed if she is constantly trying to come up with new interpretations of a failed roll on the fly.
+The core mechanic of *Open Legend* is meant to inspire creativity in players and GMs so that the story always moves forward and so that no dice roll ever feels wasted. However, in combat, players typically make many more action rolls than usual, so the GM may feel overwhelmed if they are constantly trying to come up with new interpretations of a failed roll on the fly.
 
 Some GMs might love that kind of challenge, and for them, **the core mechanic can be used in combat in the same way it is in every other part of the game**. GMs who want something a little more streamlined **may use the following modification** to the usual core mechanic in combat:
 
@@ -80,7 +80,7 @@ Remember, also, that the rules for interpreting a failed roll only apply to PCs.
 
 > ### Example of the Core Mechanic in Combat
 >
-> Vera hurls herself at the red dragon attempting to cut through his
+> Vera hurls herself at the red dragon attempting to cut through the
 scaly hide. However, her attack roll fails to hit the dragon’s toughness
 of 25. She chooses to inflict 5 damage, but the GM also gets a choice.
 He chooses to inflict the knockdown bane: The dragon’s tail lashes
@@ -432,7 +432,7 @@ As part of your defend action, you may also move up to half of your speed at any
 
 > ##### Defend Examples
 >
-> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Toughness of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Toughness, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
+> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Toughness of 17, so she uses a defend action to catch the troll's arms before they can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Toughness, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
 >
 > * * * * *
 > 
@@ -466,4 +466,4 @@ After a combat encounter ends and you have at least ten minutes to rest and catc
 >
 > Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point).  With the full-time attendance of a capable healer, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score.  Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
 >
-> For example, a warrior with Fortitude 4 heals 4 lethal damage per day on his own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
+> For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.

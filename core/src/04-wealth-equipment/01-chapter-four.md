@@ -147,13 +147,13 @@ Armor reduces or negates the damage that your character would suffer from attack
 
 **Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor.
 
-The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to his Might score plus one.
+The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to their Might score plus one.
 
-**Defense Bonus** indicates the bonus that your character gains to both his evasion and toughness defenses.
+**Defense Bonus** indicates the bonus that your character gains to both their evasion and toughness defenses.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
-Donning and removing armor takes a number of minutes equal to the total armor bonus. Sleeping in armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of fatigue, which applies disadvantage 1 to all action rolls until he gets a proper night’s rest.
+Donning and removing armor takes a number of minutes equal to the total armor bonus. Sleeping in armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of fatigue, which applies disadvantage 1 to all action rolls until they get a proper night’s rest.
 
 <div class="table-no-body"></div>
 | Armor |
