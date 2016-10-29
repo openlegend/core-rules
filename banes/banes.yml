@@ -99,16 +99,16 @@
   - Entropy
   - Influence
   - Might
-  - Presence
   - Persuasion
+  - Presence
   attack:
   - Agility vs. Resolve
   - Energy vs. Resolve
   - Entropy vs. Resolve
   - Influence vs. Resolve
   - Might vs. Resolve
-  - Presence vs. Resolve
   - Persuasion vs. Resolve
+  - Presence vs. Resolve
   invocationTime: 1 Major Action
   duration: Resist (minor) ends (Fail x 3 = 1 minute)
   description: |
@@ -126,18 +126,18 @@
   - 6
   attackAttributes:
   - Agility
-  - Influence
-  - Entropy
-  - Energy
   - Alteration
+  - Energy
+  - Entropy
+  - Influence
   - Might
   - Movement
   attack:
   - Agility vs. Evasion
-  - Influence vs. Resolve
-  - Entropy vs. Toughness
-  - Energy vs. Toughness
   - Alteration vs. Evasion
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
+  - Influence vs. Resolve
   - Might vs. Toughness
   - Movement vs. Evasion
   invocationTime: 1 Major Action
@@ -234,13 +234,13 @@
   attackAttributes:
   - Creation
   - Entropy
-  - Might
   - Influence
+  - Might
   attack:
   - Creation vs. Resolve
   - Entropy vs. Resolve
-  - Might vs. Toughness
   - Influence vs. Resolve
+  - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Special
   description: |
@@ -260,13 +260,13 @@
   - 6
   - 8
   attackAttributes:
+  - Energy
   - Might
   - Movement
-  - Energy
   attack:
+  - Energy vs. Toughness
   - Might vs. Toughness
   - Movement vs. Toughness
-  - Energy vs. Toughness
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
@@ -282,19 +282,19 @@
   - 0
   attackAttributes:
   - Agility
-  - Creation
-  - Influence
-  - Entropy
-  - Energy
   - Alteration
+  - Creation
+  - Energy
+  - Entropy
+  - Influence
   - Might
   attack:
   - Agility vs. Evasion
-  - Creation vs. Toughness
-  - Influence vs. Resolve
-  - Entropy vs. Toughness
-  - Energy vs. Toughness
   - Alteration vs. Evasion
+  - Creation vs. Toughness
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
+  - Influence vs. Resolve
   - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
@@ -345,19 +345,19 @@
   attackAttributes:
   - Creation
   - Deception
-  - Influence
   - Energy
+  - Influence
   - Might
-  - Presence
   - Persuasion
+  - Presence
   attack:
   - Creation vs. Resolve
   - Deception vs. Resolve
-  - Influence vs. Resolve
   - Energy vs. Resolve
+  - Influence vs. Resolve
   - Might vs. Resolve
-  - Presence vs. Resolve
   - Persuasion vs. Resolve
+  - Presence vs. Resolve
   invocationTime: 1 Minor Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
@@ -380,11 +380,11 @@
   power:
   - 2
   attackAttributes:
-  - Might
   - Energy
+  - Might
   attack:
-  - Might vs. Toughness
   - Energy vs. Toughness
+  - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
@@ -611,14 +611,14 @@
   - 2
   attackAttributes:
   - Agility
-  - Might
-  - Entropy
   - Alteration
+  - Entropy
+  - Might
   attack:
   - Agility vs. Evasion
-  - Might vs. Toughness
-  - Entropy vs. Toughness
   - Alteration vs. Toughness
+  - Entropy vs. Toughness
+  - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
@@ -658,15 +658,15 @@
   power:
   - 4
   attackAttributes:
-  - Might
   - Agility
-  - Entropy
   - Energy
+  - Entropy
+  - Might
   attack:
-  - Might vs. Toughness
   - Agility vs. Toughness
-  - Entropy vs. Toughness
   - Energy vs. Toughness
+  - Entropy vs. Toughness
+  - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
@@ -699,9 +699,9 @@
   power:
   - 0
   attackAttributes:
-  - n/a
+  - N/A
   attack:
-  - n/a
+  - N/A
   invocationTime: 1 Major Action
   duration: 1 Round
   description: |
