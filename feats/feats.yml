@@ -579,7 +579,7 @@
     Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion).  When you are attacked with that energy type, you gain resistance to the attack as follows:
       <ul>
       <li><strong>Tier 1</strong> - Your defense scores are increased by 5 against the chosen attack type. </li>
-      <li><strong>Tier 2</strong> - Your defense scores are increased by 5 against the chosen attack type.</li>
+      <li><strong>Tier 2</strong> - Your defense scores are increased by 10 against the chosen attack type.</li>
       <li><strong>Tier 3</strong> - You are immune to damage from the chosen attack type.</li>
       </ul>
 - !
