@@ -58,20 +58,21 @@ Once you’ve got the starting pieces of your adventure sketched out, you can de
 
 In this sort of quest, the GM plans out a logical sequence of encounters and scenes that the party will work their way through. These events could be location-based (such as exploring a series of chambers in the Ziggurat of Kings), or they could be time-based (such as negotiating a peace treaty with the barbarian tribes). An adventure often contains a healthy mix of both location- and time-based scenes, as in the example adventure sketched out below.
 
-#### The Kidnappings of Granny Maggot
-**Danger:** The children of Woodshold are disappearing one-by-one! Unbeknownst to the town, they are being collected by an evil hag named Granny Maggot for a dark ritual to cast the village into a deep malaise.
-**Motivation:** The first child to go missing is Wort, nephew to one of the PCs.
-
-**Events**
-
-1. *Hunters hanging around the tavern complain that Hunter’s Hill has gone completely barren of wildlife (as a result of Granny’s malicious but unknown presence).*
-
-1. *A hunting party goes missing while exploring Hunter's Hill.
+> #### The Kidnappings of Granny Maggot
+> **Danger:** The children of Woodshold are disappearing one-by-one! Unbeknownst to the town, they are being collected by an evil hag named Granny Maggot for a dark ritual to cast the village into a deep malaise.
+>
+> **Motivation:** The first child to go missing is Wort, nephew to one of the PCs.
+>
+> **Events**
+>
+> 1. *Hunters hanging around the tavern complain that Hunter’s Hill has gone completely barren of wildlife (as a result of Granny’s malicious but unknown presence).*
+>
+> 1. *A hunting party goes missing while exploring Hunter's Hill.
 Granny's lifeless scarecrows appear east of town after sunrise. The distraction caused to the town is the perfect opportunity for her to kidnap her first victim.*
-
-1. *The party investigates the scene of the kidnapping, learning that the kidnapper left virtually no physical trace. Consulting a loremaster or simply via their own knowledge, the party surmises that a hag is the culprit.*
-
-1. *Putting two and two together, the party investigates Hunter’s Hill and discovers Granny Maggot’s lair, carved out of a giant pumpkin in the deep of the wood. If they are successful in overcoming her minions and defeating the hag, the party may be able to free Wort.*
+>
+> 1. *The party investigates the scene of the kidnapping, learning that the kidnapper left virtually no physical trace. Consulting a loremaster or simply via their own knowledge, the party surmises that a hag is the culprit.*
+>
+> 1. *Putting two and two together, the party investigates Hunter’s Hill and discovers Granny Maggot’s lair, carved out of a giant pumpkin in the deep of the wood. If they are successful in overcoming her minions and defeating the hag, the party may be able to free Wort.*
 
 To develop a sequential adventure, you just have to plot out the most logical sequence of events that will occur based on the party’s actions. Start with a simple list like the one above. It’s best not to get too specific, lest you fall into the trap of forcing the PCs into a single direction. Instead, leave your plan loose enough to redirect it according to how your players interact with the world. For example, what if the party never puts two and two together during their investigations in event 4 above? Maybe then a second child is kidnapped a few days later, but this time there is a witness who catches a glimpse of the hag.
 
@@ -79,41 +80,39 @@ To develop a sequential adventure, you just have to plot out the most logical se
 
 A sandbox is so named because, to a certain extent, the players interact with the adventure in the same way that children explore a sandbox: at their own pace and for their own reasons. In this type of adventure, there is not typically a predictable order of events. Instead, the GM populates an area with plenty of opportunities for adventure and lets the story unfold naturally based on the players’ actions and the environment’s reactions. Just like a sequential adventure, a sandbox often contains both location- and time-based events. The outline below details a sandbox adventure revolving around a valley wilderness in which a barbarian tribe skirmishes with angelic visitors from another plane.
 
-#### The Scattered Souls
-
-**Danger:** A remote wilderness known as the Valley of Souls is home to a large collection of soul shards, magical crystals containing the lost souls of those killed in a cataclysmic war centuries ago. A team of angelic servants, called the Collectors, have been charged with retrieving these souls throughout the cosmos and returning them to their proper resting places among the outer planes. Unfortunately, two forces thwart their attempts within the Valley of Souls: a barbarian tribe whose sacred burial grounds contain the soul shards, and a demon named Vargax who seeks to devour the souls for his own.
-
-**Motivation:** The party happens upon the valley during their travels and are thrown into the battle when both the Collectors and the barbarians mistake the PCs for members of the opposition.
-
-**Locations**
-
-- **The barbarian camps**
-
-- **The barbarian burial grounds**
-
-- **The Caverns of Chaos**
-
-- **The Collector camp**
-
-**Vargax Events**
-
-1. *Vargax sends an emissary to the barbarians.
-Vargax wins over the tribe’s trust by delivering the head of a Collector.*
-
-1. *Vargax converts the barbarian shamans to worship him.
-The tribe as a whole begins transformation under demonic influence.*
-
-1. *Vargax displaces the barbarian chief and assumes control of the tribe.*
-
-**Collector Events**
-
-1. *The Collectors increase reconnaissance missions surrounding the barbarian camps.*
-
-1. *With their newfound intelligence, the Collectors kidnap the son of the barbarian chief, demanding access to the burial grounds as ransom.*
-
-1. *Civil war erupts within the tribe, with half of the barbarians supporting the chief’s decision to provide the ransom, and half opposing.*
-
-1. *Infighting reduces the tribe’s strength significantly, allowing the Collectors to force their way into the burial grounds.*
+> #### The Scattered Souls
+>
+> **Danger:** A remote wilderness known as the Valley of Souls is home to a large collection of soul shards, magical crystals containing the lost souls of those killed in a cataclysmic war centuries ago. A team of angelic servants, called the Collectors, have been charged with retrieving these souls throughout the cosmos and returning them to their proper resting places among the outer planes. Unfortunately, two forces thwart their attempts within the Valley of Souls: a barbarian tribe whose sacred burial grounds contain the soul shards, and a demon named Vargax who seeks to devour the souls for his own.
+>
+> **Motivation:** The party happens upon the valley during their travels and are thrown into the battle when both the Collectors and the barbarians mistake the PCs for members of the opposition.
+> 
+> **Locations**
+>
+> - **The barbarian camps**
+>
+> - **The barbarian burial grounds**
+>
+> - **The Caverns of Chaos**
+>
+> - **The Collector camp**
+>
+> **Vargax Events**
+>
+> 1. *Vargax sends an emissary to the barbarians. Vargax wins over the tribe’s trust by delivering the head of a Collector.*
+>
+> 1. *Vargax converts the barbarian shamans to worship him. The tribe as a whole begins transformation under demonic influence.*
+>
+> 1. *Vargax displaces the barbarian chief and assumes control of the tribe.*
+>
+> **Collector Events**
+>
+> 1. *The Collectors increase reconnaissance missions surrounding the barbarian camps.*
+>
+> 1. *With their newfound intelligence, the Collectors kidnap the son of the barbarian chief, demanding access to the burial grounds as ransom.*
+>
+> 1. *Civil war erupts within the tribe, with half of the barbarians supporting the chief’s decision to provide the ransom, and half opposing.*
+>
+> 1. *Infighting reduces the tribe’s strength significantly, allowing the Collectors to force their way into the burial grounds.*
 
 Developing a sandbox adventure is similar to developing a sequential one, in that you plan out the logical sequence of events. In this case, however, because the PCs have so much room for decision making, the outline differs slightly. The GM plans out all of the relevant locations to the adventure, perhaps mapping and populating them if necessary. Additionally, the GM will make a list for the key actors in the adventure. The list provides a series of events that will occur if the party does nothing to intervene.
 
@@ -294,9 +293,9 @@ But sometimes it can add to the story to have an ally contribute in a way that t
 
 The above example will likely be an intriguing scene enjoyed by all, because the ally NPC can’t prevail without the help of the players.
 
-*Allies can be used to grant knowledge.* In addition to providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader’s guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Ring of Worlds. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs’ hands.
+**Allies can be used to grant knowledge.** In addition to providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader’s guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Ring of Worlds. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs’ hands.
 
-*Allies should be imperfect.* The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can’t fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place.and, by finding ways to demonstrate your NPCs’ imperfections, you'll further immerse your players in the fantasy.
+**Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can’t fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place.and, by finding ways to demonstrate your NPCs’ imperfections, you'll further immerse your players in the fantasy.
 
 ### Monsters and NPC Statistics
 
@@ -391,11 +390,11 @@ Once you have the basic statistics recorded, choose a few of the following feats
 - **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on.
 Special: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
 
-#### Example Simple Monster Build: Swamp Snakes
-
-Returning to the example at the beginning of this section, let’s build our venomous swamp snakes imagining that the party is made up of 3rd level characters. We decide that the snakes aren’t particularly tough to kill, so referencing the Simple Build Table, we’ll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we’ll go with the high range for Evasion: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We’ll only assign one primary attribute, giving the snakes an Agility of 5, and we’ll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
-
-When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land an attack that deals at least 5 damage.
+> #### Example Simple Monster Build: Swamp Snakes
+> 
+> Returning to the example at the beginning of this section, let’s build our venomous swamp snakes imagining that the party is made up of 3rd level characters. We decide that the snakes aren’t particularly tough to kill, so referencing the Simple Build Table, we’ll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we’ll go with the high range for Evasion: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We’ll only assign one primary attribute, giving the snakes an Agility of 5, and we’ll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
+>
+> When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land an attack that deals at least 5 damage.
 
 #### Boss Monsters and NPCs
 
