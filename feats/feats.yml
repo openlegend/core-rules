@@ -467,6 +467,19 @@
   effect: |
     Any time you use the Defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
 - !
+  name: Diehard
+  prerequisite:
+  - Presence 3 OR Fortitude 3
+  tags:
+  - Social
+  - Combat
+  cost:
+  - 2
+  description: |
+    Whether luck shines upon you or you're just really hard to kill you have a knack for staying in the fight when others would suffer a much worse fate.
+  effect: |
+    Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
+- !
   name: Disease Immunity
   prerequisite:
   - Creation 5
@@ -768,19 +781,6 @@
     You are always ready for danger, allowing you to easily get the drop on your foes.
   effect: |
     For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
-- !
-  name: Lucky
-  prerequisite:
-  - Presence 3
-  tags:
-  - Social
-  - Combat
-  cost:
-  - 2
-  description: |
-    Luck shines upon you and keeps you in the fight when others would suffer a much worse fate.
-  effect: |
-    Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
 - !
   name: Marksman (I - III)
   prerequisite:
