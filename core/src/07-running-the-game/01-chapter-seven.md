@@ -58,7 +58,7 @@ Once you’ve got the starting pieces of your adventure sketched out, you can de
 
 In this sort of quest, the GM plans out a logical sequence of encounters and scenes that the party will work their way through. These events could be location-based (such as exploring a series of chambers in the Ziggurat of Kings), or they could be time-based (such as negotiating a peace treaty with the barbarian tribes). An adventure often contains a healthy mix of both location- and time-based scenes, as in the example adventure sketched out below.
 
-> #### The Kidnappings of Granny Maggot
+> #### Sample Sequential Adventure Outline: The Kidnappings of Granny Maggot
 > **Danger:** The children of Woodshold are disappearing one-by-one! Unbeknownst to the town, they are being collected by an evil hag named Granny Maggot for a dark ritual to cast the village into a deep malaise.
 >
 > **Motivation:** The first child to go missing is Wort, nephew to one of the PCs.
@@ -80,7 +80,7 @@ To develop a sequential adventure, you just have to plot out the most logical se
 
 A sandbox is so named because, to a certain extent, the players interact with the adventure in the same way that children explore a sandbox: at their own pace and for their own reasons. In this type of adventure, there is not typically a predictable order of events. Instead, the GM populates an area with plenty of opportunities for adventure and lets the story unfold naturally based on the players’ actions and the environment’s reactions. Just like a sequential adventure, a sandbox often contains both location- and time-based events. The outline below details a sandbox adventure revolving around a valley wilderness in which a barbarian tribe skirmishes with angelic visitors from another plane.
 
-> #### The Scattered Souls
+> #### Sample Sandbox Adventure Outline: The Scattered Souls
 >
 > **Danger:** A remote wilderness known as the Valley of Souls is home to a large collection of soul shards, magical crystals containing the lost souls of those killed in a cataclysmic war centuries ago. A team of angelic servants, called the Collectors, have been charged with retrieving these souls throughout the cosmos and returning them to their proper resting places among the outer planes. Unfortunately, two forces thwart their attempts within the Valley of Souls: a barbarian tribe whose sacred burial grounds contain the soul shards, and a demon named Vargax who seeks to devour the souls for his own.
 >
@@ -146,14 +146,19 @@ The big secret is an ideal way to start planning your campaign because it will p
 
 Once you have your secret (or secrets) sketched out, you can begin to divide the campaign into arcs, or extended storylines that develop the plot and reveal the secrets. You can plan these out from the beginning of the campaign to the end, or you can just start with the first few legs of the campaign - enough to get you started without bogging you down. The following outline imagines how a campaign revolving around one of the aforementioned secrets might develop.
 
-**Secret:** The wizardly patron, Magus, who advises the party throughout the campaign is actually an imprisoned red dragon manipulating them to win his freedom.
-
-**Campaign Arcs**
-
-**Part 1:** The party discovers Magus while exploring the Ruins of Excelsius.
-**Part 2:** The party assists Magus in recovering several items of power throughout the realm.
-**Part 3:** The party accidentally frees Magus. He reveals his true form and begins laying waste to the realm. The PCs work to gather allies to combat the army of giants the dragon is acquiring.
-**Part 4:** A final war erupts between Magus’s giants and the alliance of good. The party hunts Magus down to his volcanic lair.
+> #### Sample Campaign Outline
+>
+> **Secret:** The wizardly patron, Magus, who advises the party throughout the campaign is actually an imprisoned red dragon manipulating them to win his freedom.
+>
+> **Campaign Arcs**
+>
+> **Part 1:** The party discovers Magus while exploring the Ruins of Excelsius.
+>
+> **Part 2:** The party assists Magus in recovering several items of power throughout the realm.
+>
+> **Part 3:** The party accidentally frees Magus. He reveals his true form and begins laying waste to the realm. The PCs work to gather allies to combat the army of giants the dragon is acquiring.
+>
+> **Part 4:** A final war erupts between Magus’s giants and the alliance of good. The party hunts Magus down to his volcanic lair.
 
 Like most of the steps laid out in this guide to GMing, your campaign arcs should be planned relatively loosely to allow for players to shape the story by their own actions.
 
