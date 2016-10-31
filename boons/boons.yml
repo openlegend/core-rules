@@ -231,7 +231,7 @@
   description: |
     Healing is magical energy overflowing from a creative life force which heals wounds and mends broken bones.
   effect: |
-    Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll. Like all dice rolls, these dice explode.
+    Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <strong>Special:</strong> This boon does not heal lethal damage.
     <ul>
     <li><strong>Power Level 1</strong> - Heal 1d4 </li>
@@ -345,6 +345,7 @@
     The target gains a supernatural ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
     While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon, and the dice rolled for healing explode as usual.
+    <strong>Special:</strong> This boon does not heal lethal damage.
     <ul>
     <li><strong>Power Level 1</strong> - 1d4 </li>
     <li><strong>Power Level 3</strong> - 1d6 </li>
@@ -391,13 +392,17 @@
   description: |
     Your protective magic cancels all harmful afflictions that are effecting an ally.
   effect: |
-    Make an Protection roll. You can dispel all banes affecting the target of a maximum Power Level equal to (Protection roll - 10) ÷ 2.
+    Make a roll using the attribute used for invoking this boon. You can dispel all banes affecting the target of a maximum Power Level equal to (roll - 10) ÷ 2.
 - !
   name: Retributive Barrier
   tags:
   - Supernatural
   power:
   - 4
+  - 5
+  - 6
+  - 7
+  - 8
   attribute:
   - Creation
   - Energy
