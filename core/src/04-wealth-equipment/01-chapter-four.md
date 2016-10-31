@@ -111,6 +111,7 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 | Weapon | Wealth Level | Properties | Banes |
 | :- | :- | :--- | :-- |
+| Unarmed Strike | 0 | Precise, Forceful, Swift 2 | - |
 | Dagger | 1 | One-handed, Precise, Swift 2, Range 25' | Persistent Damage |
 | Longsword | 2 | Versatile, Forceful, Precise | – |
 | Unarmed | - | One-handed, Forceful, Precise | – |
