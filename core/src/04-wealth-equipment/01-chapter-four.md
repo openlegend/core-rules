@@ -90,7 +90,7 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 **Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score plus one.
 
-**One-handed** – The weapon uses a single hand and allows the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
+**One-handed** – The weapon uses a single hand and allows the other hand to be used for carrying a shield, second weapon, or kept free for other actions. Wielding a one-handed melee weapon in each hand grants advantage 1 to all attacks; attacks made with both hands are usually more deadly.
 
 **Precise** –  This weapon can be used to make attacks with the Agility attribute.
 
