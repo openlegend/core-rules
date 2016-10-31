@@ -1,7 +1,8 @@
 - !
   name: Ageless
   prerequisite:
-  - Alteration 9 OR Creation 9 OR Entropy 9 OR Protection 9
+  - Attribute:
+    - Alteration 9 OR Creation 9 OR Entropy 9 OR Protection 9
   tags:
   - Supernatural
   cost:
@@ -13,7 +14,15 @@
 - !
   name: Alternate Form (I - III)
   prerequisite:
-  - Alteration 2 / 5 / 7
+  - tier1:
+    - Attribute:
+      - Alteration 2
+  - tier2:
+    - Attribute:
+      - Alteration 5
+  - tier3:
+    - Attribute:
+      - Alteration 7
   tags:
   - Supernatural
   cost:
@@ -62,19 +71,46 @@
 - !
   name: Attack Redirection
   prerequisite:
-  - Defensive Reflexes II
+  - Feat:
+    - Defensive Reflexes II
   tags:
   - Supernatural
   cost:
   - 3
-  description: |
+  description: 
     You are adept at redirecting your enemy's attacks. Whether using fancy footwork, magical force, or tactical superiority, you can use your opponents' attacks against themselves.
   effect: |
     When you make a Defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
 - !
   name: Attack Specialization (I - IX)
   prerequisite:
-  - Attribute 1 - 9
+  - tier1:
+    - Attribute:
+      - Any 1
+  - tier2:
+    - Attribute:
+      - Any 2
+  - tier3:
+    - Attribute:
+      - Any 3
+  - tier4:
+    - Attribute:
+      - Any 4
+  - tier5:
+    - Attribute:
+      - Any 5
+  - tier6:
+    - Attribute:
+      - Any 6
+  - tier7:
+    - Attribute:
+      - Any 7
+  - tier8:
+    - Attribute:
+      - Any 8
+  - tier9:
+    - Attribute:
+      - Any 9
   tags:
   - Passive
   - Weapon
@@ -91,7 +127,8 @@
 - !
   name: Attribute Substitution
   prerequisite:
-  - Attribute Score of 4 in Primary Attribute (see description)
+  - Attribute:
+    - Mental 4 OR Supernatural 4
   tags:
   - Any Attribute
   cost:
@@ -120,7 +157,8 @@
 - !
   name: Battlefield Defender
   prerequisite:
-  - Agility 4 OR Might 4 OR Protection 4
+  - Attribute:
+    - Agility 4 OR Might 4 OR Protection 4
   tags:
   - Might
   - Agility
@@ -136,8 +174,10 @@
 - !
   name: Battlefield Punisher - Knockdown
   prerequisite:
-  - Battlefield Defender
-  - Might 5
+  - Attribute:
+    - Might 5
+  - Feat:
+    - Battlefield Defender
   tags:
   - Might
   - Passive
@@ -152,8 +192,10 @@
 - !
   name: Battlefield Punisher - Slowed
   prerequisite:
-  - Battlefield Defender
-  - Agility 5 OR Might 5
+  - Attribute:
+    - Agility 5 OR Might 5
+  - Feat:
+    - Battlefield Defender
   tags:
   - Might
   - Agility
@@ -169,8 +211,10 @@
 - !
   name: Battlefield Punisher - Stunned
   prerequisite:
-  - Battlefield Defender
-  - Agility 7 OR Might 7
+  - Attribute:
+    - Agility 7 OR Might 7
+  - Feat:
+    - Battlefield Defender
   tags:
   - Might
   - Agility
@@ -186,8 +230,10 @@
 - !
   name: Battlefield Sentinel (I - V)
   prerequisite:
-  - Battlefield Defender
-  - Agility 5 OR Might 5
+  - Attribute: 
+    - Agility 5 OR Might 5
+  - Feat:
+    - Battlefield Defender
   tags:
   - Might
   - Agility
@@ -203,7 +249,8 @@
 - !
   name: Berserker
   prerequisite:
-  - Fortitude 3 OR Will 3 
+  - Attribute:
+    - Fortitude 3 OR Will 3
   tags:
   cost:
   - 3
@@ -259,7 +306,8 @@
 - !
   name: Breakfall (I - IX)
   prerequisite:
-  - Agility 4
+  - Attribute:
+    - Agility 4
   tags:
   cost:
   - 1
@@ -270,7 +318,8 @@
 - !
   name: Brutal Intimidation
   prerequisite:
-  - Might 2
+  - Attribute:
+    - Might 2
   tags:
   - Non-Combat
   cost:
@@ -282,8 +331,10 @@
 - !
   name: Combat Follow-through
   prerequisite:
-  - Combat Momentum
-  - Agility 5 OR Might 5
+  - Attribute:
+    - Agility 5 OR Might 5
+  - Feat:
+    - Combat Momentum
   tags:
   - Feat Chain
   cost:
@@ -296,7 +347,8 @@
 - !
   name: Combat Momentum
   prerequisite:
-  - Agility 4 OR Might 4 OR Movement 4
+  - Attribute:
+    - Agility 4 OR Might 4 OR Movement 4
   tags:
   - Feat Chain
   cost:
@@ -326,7 +378,10 @@
 - !
   name: Craft (I - II)
   prerequisite:
-  - Knowledge I (feat) OR Learning 3
+  - Attribute:
+    - Learning 3
+  - Feat:
+    - Knowledge I
   tags:
   - Non-Combat
   cost:
@@ -354,7 +409,10 @@
 - !
   name: Craft Beneficial or Baleful Item (I - IV)
   prerequisite:
-  - Any Supernatural Attribute 5 / Learning 5 / Creation 5
+  - Attribute:
+    - Any Supernatural 5
+  - Attribute:
+    - Learning 5
   tags:
   - Supernatural
   - Non-Combat
@@ -394,8 +452,10 @@
 - !
   name: Crushing Blow
   prerequisite:
-  - Overpowering Strike
-  - Might 6
+  - Attribute:
+    - Might 6
+  - Feat:
+    - Overpowering Strike
   tags:
   - Physical
   - Combat
@@ -410,9 +470,21 @@
 - !
   name: Death Blow (I – III)
   prerequisite:
-  - Tier 1 - Agility 6 + Lethal Strike I
-  - Tier 2 - Agility 7 + Lethal Strike III
-  - Tier 3 - Agility 8 + Lethal Strike VI
+  - tier1:
+    - Attribute:
+      - Agility 6
+    - Feat:
+      - Lethal Strike I
+  - tier2:
+    - Attribute:
+      - Agility 7
+    - Feat:
+      - Lethal Strike III
+  - tier3:
+    - Attribute:
+      - Agility 8
+    - Feat:
+      - Lethal Strike VI
   tags:
   - Combat
   - Physical
@@ -429,10 +501,13 @@
 - !
   name: Deathless Berserker
   prerequisite:
-  - Berserker
-  - Fortitude 7
+  - Attribute:
+    - Fortitude 7
+  - Feat:
+    - Berserker
   tags:
   - Supernatural
+  - Fortitude
   cost:
   - 3
   description: |
@@ -442,8 +517,10 @@
 - !
   name: Destructive Berserker
   prerequisite:
-  - Berserker
-  - Might 7
+  - Attribute:
+    - Might 7
+  - Feat:
+    - Berserker
   tags:
   - Supernatural
   - Might
@@ -456,7 +533,8 @@
 - !
   name: Defensive Reflexes (I - X)
   prerequisite:
-  - Agility 3
+  - Attribute:
+    - Agility 3
   tags:
   - Agility
   - Supernatural
@@ -469,8 +547,10 @@
 - !
   name: Disease Immunity
   prerequisite:
-  - Creation 5
-  - Protection 5
+  - Attribute:
+    - Creation 5
+  - Attribute:
+    - Protection 5
   tags:
   - Non-Combat
   cost:
@@ -482,7 +562,15 @@
 - !
   name: Energy Resistance (I - III)
   prerequisite:
-  -  Energy OR 4 / 5 / 7
+  - tier1:
+    - Attribute:
+      - Energy 4 OR Protection 4
+  - tier2:
+    - Attribute:
+      - Energy 5 OR Protection 5
+  - tier3:
+    - Attribute:
+      - Energy 7 OR Protection 7
   tags:
   - Supernatural
   cost:
@@ -493,14 +581,16 @@
     Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion).  When you are attacked with that energy type, you gain resistance to the attack as follows:
       <ul>
       <li><strong>Tier 1</strong> - Your defense scores are increased by 5 against the chosen attack type. </li>
-      <li><strong>Tier 2</strong> - Your defense scores are increased by 5 against the chosen attack type.</li>
+      <li><strong>Tier 2</strong> - Your defense scores are increased by 10 against the chosen attack type.</li>
       <li><strong>Tier 3</strong> - You are immune to damage from the chosen attack type.</li>
       </ul>
 - !
   name: Entranced Berserker
   prerequisite:
-  - Berserker
-  - Will 7
+  - Attribute:
+    - Will 7
+  - Feat:
+    - Berserker
   tags:
   - Combat
   cost:
@@ -512,7 +602,8 @@
 - !
   name: Evasive Footwork
   prerequisite:
-  - Agility 4
+  - Attribute:
+    - Agility 4
   tags:
   - Agility
   cost:
@@ -524,8 +615,10 @@
 - !
   name: Fast Tracker
   prerequisite:
-  - Agility 5
-  - Perception 5
+  - Attribute:
+    - Agility 5
+  - Attribute:
+    - Perception 5
   tags:
   - Supernatural
   - Agility
@@ -539,7 +632,15 @@
 - !
   name: Ferocious Minions
   prerequisite:
-  - Influence 3 / 5 / 7
+  - tier1:
+    - Attribute:
+      Influence 3
+  - tier2:
+    - Attribute:
+      Influence 5
+  - tier3:
+    - Attribute:
+      Influence 7
   tags:
   - Supernatural
   - Influence
@@ -552,7 +653,15 @@
 - !
   name: Fleet of Foot (I – III)
   prerequisite:
-  - Agility 4 / 5 / 7 OR Fortitude 4 / 5 / 7 OR Movement 2 / 4 / 6
+  - tier1:
+    - Attribute:
+      - Agility 4 OR Fortitude 4 OR Movement 2
+  - tier1:
+    - Attribute:
+      - Agility 5 OR Fortitude 5 OR Movement 4
+  - tier3:
+    - Attribute:
+      - Agility 7 OR Fortitude 7 OR Movement 6
   tags:
   - Supernatural
   - Agility
@@ -567,7 +676,15 @@
 - !
   name: Great Leap (I – III)
   prerequisite:
-  - Movement 2 / 4 / 6 OR Agility 2 / 4 / 6
+  - tier1:
+    - Attribute:
+      - Movement 2 OR Agility 2
+  - tier2:
+    - Attribute:
+      - Movement 4 OR Agility 4
+  - tier3:
+    - Attribute:
+      - Movement 6 OR Agility 6
   tags:
   - Supernatural
   - Physical
@@ -584,7 +701,8 @@
 - !
   name: Fast Draw
   prerequisite:
-  - Agility 1
+  - Attribute:
+    - Agility 1
   tags:
   - Combat
   - Agility
@@ -597,7 +715,8 @@
 - !
   name: Hallucination
   prerequisite:
-  - Influence 5
+  - Attribute:
+    - Influence 5
   tags:
   - Supernatural
   - Non-Combat
@@ -611,8 +730,10 @@
 - !
   name: Hallucination (Mass)
   prerequisite:
-  - Hallucination
-  - Influence 7
+  - Attribute:
+    - Influence 7
+  - Feat:
+    - Hallucination
   tags:
   - Supernatural
   - Non-Combat
@@ -631,8 +752,10 @@
 - !
   name: Heavy Weapon Master
   prerequisite:
-  - Agility 4
-  - Might 5
+  - Attribute:
+    - Agility 4
+  - Attribute:
+    - Might 5
   tags:
   - Combat
   - Physical
@@ -647,7 +770,8 @@
 - !
   name: Hospitaler
   prerequisite:
-  - Creation 4 / Presence 4 / Protection 4
+  -Attribute:
+    - Creation 4 OR Presence 4 OR Protection 4
   tags:
   - Non-Combat
   - Supernatural
@@ -677,7 +801,8 @@
 - !
   name: Indomitable Endurance (I - IX)
   prerequisite:
-  - Fortitude 5
+  - Attribute:
+    - Fortitude 5
   tags:
   - Physical
   cost:
@@ -689,7 +814,15 @@
 - !
   name: Inspiring Champion (I - III)
   prerequisite:
-  - Presence 4 / 5 / 6
+  - tier1:
+    - Attribute:
+      - Presence 4
+  - tier2:
+    - Attribute:
+      - Presence 5
+  - tier3:
+    - Attribute:
+      - Presence 6
   tags:
   - Social
   - Combat
@@ -728,7 +861,33 @@
 - !
   name: Lethal Strike (I – IX)
   prerequisite:
-  - Agility 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
+  - tier1:
+    - Attribute:
+      - Agility 1
+  - tier2:
+    - Attribute:
+      - Agility 2
+  - tier3:
+    - Attribute:
+      - Agility 3
+  - tier4:
+    - Attribute:
+      - Agility 4
+  - tier5:
+    - Attribute:
+      - Agility 5
+  - tier6:
+    - Attribute:
+      - Agility 6
+  - tier7:
+    - Attribute:
+      - Agility 7
+  - tier8:
+    - Attribute:
+      - Agility 8
+  - tier9:
+    - Attribute:
+      - Agility 9
   tags:
   - Supernatural
   - Agility
@@ -758,7 +917,21 @@
 - !
   name: Lightning Reflexes (I - V)
   prerequisite:
-  - Agility 2 / 3 / 4 / 5 / 6
+  - tier1:
+    - Attribute:
+      - Agility 2
+  - tier2:
+    - Attribute:
+      - Agility 3
+  - tier3:
+    - Attribute:
+      - Agility 4
+  - tier4:
+    - Attribute:
+      - Agility 5
+  - tier5:
+    - Attribute:
+      - Agility 6
   tags:
   - Physical
   - Agility
@@ -771,7 +944,8 @@
 - !
   name: Lucky
   prerequisite:
-  - Presence 3
+  - Attribute:
+    - Presence 3
   tags:
   - Social
   - Combat
@@ -784,7 +958,8 @@
 - !
   name: Marksman (I - III)
   prerequisite:
-  - Agility 5
+  - Attribute:
+    - Agility 5
   tags:
   - Combat
   cost:
@@ -796,7 +971,8 @@
 - !
   name: Martial Focus
   prerequisite:
-  - Agility 1 / Might 1
+  - Attribute:
+    - Agility 1 OR Might 1
   tags:
   - Combat
   - Physical
@@ -809,7 +985,21 @@
 - !
   name: Master Shifter (I – V)
   prerequisite:
-  - Alteration 2 / 4 / 6 / 8 / 9
+  - tier1:
+    - Attribute:
+      - Alteration 2
+  - tier2:
+    - Attribute:
+      - Alteration 4
+  - tier3:
+    - Attribute:
+      - Alteration 6
+  - tier4:
+    - Attribute:
+      - Alteration 8
+  - tier5:
+    - Attribute:
+      - Alteration 9
   tags:
   - Supernatural
   - Non-Combat
@@ -830,7 +1020,8 @@
 - !
   name: Master Tracker
   prerequisite:
-  - Perception 5
+  - Attribute:
+    - Perception 5
   tags:
   - Non-Combat
   - Mental
@@ -845,8 +1036,10 @@
 - !
   name: Mimic
   prerequisite:
-  - Alternate Form feat
-  - Alteration 4
+  - Attribute:
+    - Alteration 4
+  - Feat:
+    - Alternate Form
   tags:
   - Supernatural
   - Feat Chain
@@ -889,7 +1082,21 @@
 - !
   name: Multi-Target Boon Specialist (I – V)
   prerequisite:
-  - Any Supernatural Attribute 3 / 5 / 7 / 8 / 9
+  - tier1:
+    - Attribute:
+      - Any Supernatural 3
+  - tier2:
+    - Attribute:
+      - Any Supernatural 5
+  - tier3:
+    - Attribute:
+      - Any Supernatural7
+  - tier4:
+    - Attribute:
+      - Any Supernatural 8
+  - tier5:
+    - Attribute:
+      - Any Supernatural 9
   tags:
   - Non-Combat
   - Supernatural
@@ -902,8 +1109,10 @@
 - !
   name: Multi-Target Boon Expert
   prerequisite:
-  - Multi-Target Boon Specialist II
-  - Boon Focus
+  - Feat:
+    - Multi-Target Boon Specialist II
+  - Feat:
+    - Boon Focus
   tags:
   - Non-Combat
   - Supernatural
@@ -930,7 +1139,8 @@
 - !
   name: Overpowering Strike
   prerequisite:
-  - Might 4
+  - Attribute:
+    - Might 4
   tags:
   - Physical
   - Feat Chain
@@ -944,7 +1154,15 @@
 - !
   name: Natural Defense (I - III)
   prerequisite:
-  - Fortitude 3 / 5 / 7
+  - tier1:
+    - Attribute:
+      - Fortitude 3
+  - tier2:
+    - Attribute:
+      - Fortitude 5
+  - tier3:
+    - Attribute:
+      - Fortitude 7
   tags:
   - Combat
   - Physical
@@ -977,8 +1195,10 @@
 - !
   name: Reactionary Berserker
   prerequisite:
-  - Berserker feat
-  - Will 5
+  - Attribute:
+    - Will 5
+  - Feat:
+    - Berserker feat
   tags:
   - Combat
   - Mental
@@ -993,7 +1213,8 @@
 - !
   name: Reckless Frenzy
   prerequisite:
-  - Berserker
+  - Feat:
+    - Berserker
   tags:
   - Combat
   cost:
@@ -1019,7 +1240,15 @@
 - !
   name: Ritual Magic (I - III)
   prerequisite:
-  - Any Supernatural Attribute 4 / 6 / 9
+  - tier1:
+    - Attribute:
+      - Any Supernatural 4
+  - tier2:
+    - Attribute:
+      - Any Supernatural 6
+  - tier3:
+    - Attribute:
+      - Any Supernatural 9
   tags:
   - Supernatural
   - Non-Combat
@@ -1082,7 +1311,8 @@
 - !
   name: Silencing Strike
   prerequisite:
-  - Agility 4
+  - Attribute
+    - Agility 4
   tags:
   - Agility
   - Physical
@@ -1095,7 +1325,8 @@
 - !
   name: Superior Concentration (I - III)
   prerequisite:
-  - Any Supernatural Attribute 3
+  - Attribute:
+    - Any Supernatural 3
   tags:
   - Supernatural
   cost:
@@ -1107,7 +1338,21 @@
 - !
   name: Supernatural Defense (I - V)
   prerequisite:
-  - Movement OR Prescience OR Protection  2 / 3 / 4 / 5 / 6
+  - tier1:
+    - Attribute:
+      - Movement 2 OR Prescience 2 OR Protection 2
+  - tier2:
+    - Attribute:
+      - Movement 3 OR Prescience 3 OR Protection 3
+  - tier3:
+    - Attribute:
+      - Movement 4 OR Prescience 4 OR Protection 4
+  - tier4:
+    - Attribute:
+      - Movement 5 OR Prescience 5 OR Protection 5
+  - tier5:
+    - Attribute:
+      - Movement 6 OR Prescience 6 OR Protection 6
   tags:
   - Supernatural
   - Defense
@@ -1120,7 +1365,8 @@
 - !
   name: Supernatural Healing
   prerequisite:
-  - Creation 5
+  - Attribute:
+    - Creation 5
   tags:
   - Supernatural
   - Creation
@@ -1133,7 +1379,8 @@
 - !
   name: Supernatural Focus
   prerequisite:
-  - Any Supernatural Attribute 1
+  - Attribute:
+    - Any Supernatural 1
   tags:
   - Supernatural
   cost:
@@ -1145,7 +1392,12 @@
 - !
   name: Tough as Nails (I - II)
   prerequisite:
-  - Fortitude 3 / 5
+  - tier1:
+    - Attribute:
+      - Fortitude 3
+  - tier2:
+    - Attribute:
+      - Fortitude 5
   tags:
   - Defense
   - Physical
@@ -1159,8 +1411,10 @@
 - !
   name: Two Weapon Defense
   prerequisite:
-  - Multi-Attack Specialist
-  - Agility 4
+  - Attribute:
+    - Agility 4
+  - Feat:
+    - Multi-Attack Specialist
   tags:
   - Combat
   - Physical
@@ -1174,7 +1428,8 @@
 - !
   name: Unending Charm
   prerequisite:
-  - Influence 4
+  - Attribute:
+    - Influence 4
   tags:
   - Supernatural
   - Non-Combat
@@ -1188,7 +1443,8 @@
 - !
   name: Untrackable
   prerequisite:
-  - Alteration 3 OR Influence 3 OR Protection 3
+  - Attribute:
+    - Alteration 3 OR Influence 3 OR Protection 3
   tags:
   - Non-Combat
   - Protection
