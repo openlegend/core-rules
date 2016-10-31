@@ -324,7 +324,7 @@ The simple build option is useful when you need to come up with statistics on th
 | - |
 | |
 
-| Party Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
+| NPC Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | 10 - 22 | 10 - 18 | 4 | 3 |
 | 2 | 12 - 24 | 11 - 18 | 5 | 3 |
@@ -338,11 +338,11 @@ The simple build option is useful when you need to come up with statistics on th
 | 10 | 28 - 40 | 19 - 25 | 9 | 7 |
 
 
-Based on the party’s level, use the NPC Simple Build Table to determine the monster’s most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster’s attacks and actions, and then choose as many secondary attributes as you need in order to define the monster’s other capabilities.
+Use the NPC Simple Build Table to determine the monster’s most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster’s attacks and actions, and then choose as many secondary attributes as you need in order to define the monster’s other capabilities.
 
 Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities:
 
-- **Attack Specialization (tier equal to party level, max 9):** With one attack type, gain advantage 1 per tier.
+- **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier.
 
 - **Bane Focus:** Pick a bane. Whenever you inflict at least five damage with an attack, you may automatically inflict that bane.
 
@@ -366,7 +366,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Evasive Footwork:** When you move from a square adjacent to an enemy to another square not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 
-- **Lethal Strike (tier equal to party level, max 9):** Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
+- **Lethal Strike (tier equal to NPC level, max 9):** Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
     1. Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception.
     2. If an enemy is adjacent to an ally wielding a melee weapon, then you can make a lethal strike against that enemy.
 
@@ -382,22 +382,22 @@ Once you have the basic statistics recorded, choose a few of the following feats
     - **Tier 8** - Advantage 8, Max lethal damage 25
     - **Tier 9** - Advantage 9, Max lethal damage 30
 
-- **Multi Attack Specialist (tier equals party level, max 6):** When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
+- **Multi Attack Specialist (tier equals NPC level, max 6):** When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
 
-- **Multi Target Attack Specialist (tier equals party level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+- **Multi Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
 
 - **Multi Bane Specialist:** Choose two banes that you are able to inflict. You are able to make attacks that inflict your targets with both banes at once. Your attribute score must be equal to or greater than the power level of both banes combined. If the two banes use different key attributes, provided your key attributes for both banes is sufficient, you use the higher of the two attributes for both the attack and determining if you are powerful enough to combine them.
 
 - **Potent Bane:** Choose a bane. When you invoke the chosen bane on a target, Resist rolls to shake off the bane have Disadvantage (the target rolls 2d20 and keeps the lowest, contrary to normal action rolls).
 
-- **Resilient:** Any time you make a Resist roll, you have Advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to normal action rolls).
+- **Resilient:** Any time you make a Resist roll, you have advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to normal action rolls).
 
 - **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on.
 Special: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
 
 > #### Example Simple Monster Build: Swamp Snakes
 > 
-> Returning to the example at the beginning of this section, let’s build our venomous swamp snakes imagining that the party is made up of 3rd level characters. We decide that the snakes aren’t particularly tough to kill, so referencing the Simple Build Table, we’ll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we’ll go with the high range for Evasion: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We’ll only assign one primary attribute, giving the snakes an Agility of 5, and we’ll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
+> Returning to the example at the beginning of this section, let’s build our venomous swamp snakes imagining that the party is made up of 3rd level characters, and thus we choose to make the Swamp Snakes using the row for level 3 Monsters. We decide that the snakes aren’t particularly tough to kill, so referencing the Simple Build Table, we’ll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we’ll go with the high range for Evasion: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We’ll only assign one primary attribute, giving the snakes an Agility of 5, and we’ll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
 >
 > When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land an attack that deals at least 5 damage.
 
@@ -413,7 +413,7 @@ When you decide that one of your monsters or NPCs merits boss status, use the Bo
 | - |
 | |
 
-| Party Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
+| Boss Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 40 | 13 - 16 | 6 | 4 | 1 |
 | 2 | 50 | 14 - 17 | 6 | 4 | 1 |
