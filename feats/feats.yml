@@ -19,14 +19,11 @@
   name: Alternate Form (I - III)
   prerequisite:
   - tier1:
-    - Attribute:
-      - Alteration: 2
+    - Other:
+      - None
   - tier2:
-    - Attribute:
-      - Alteration: 5
-  - tier3:
-    - Attribute:
-      - Alteration: 7
+    - Other:
+      - None
   tags:
   - Supernatural
   cost:
@@ -34,13 +31,10 @@
   description: |
     Alternate form is an ability possessed by lycanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
-    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a major action. When you assume your new form, you gain a pool of points equal to your Alteration score, which you may immediately spend to temporarily increase your physical attributes. You cannot raise any physical attribute to be greater than your Alteration score, unless the physical attribute is already equal to your Alteration. In that case, you may increase it by a maximum of one point. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural attributes of the chosen form.
-
-    You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a major action. Upon returning to your original form, your physical attributes return to their previous values.
+    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a major action. When you assume your new form, you gain a pool of points based on which tier you have, which you may immediately spend to temporarily increase your attributes. You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a major action. Upon returning to your original form, your attributes return to their previous values.
     <ul>
-    <li>Tier 1 – Your alternate form must be the same size as your normal form.</li>
-    <li>Tier 2 – Your alternate form can be one size different from your normal size.</li>
-    <li>Tier 3 – Your alternate form can be any size. In addition, you are able to use supernatural attributes for attacks (dragon’s breath, nymph’s charm, etc.) of your chosen form. Use your Alteration score for action rolls relating to these supernatural abilities.</li>
+    <li>Tier 1 – Your alternate form has half your attribute points, and 3 feat points.</li>
+    <li>Tier 2 – Your alternate form has all your attribute points, and 3 feat points per level of your character.</li>
     </ul>
 - !
   name: Area Manipulation (I - V)
