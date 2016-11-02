@@ -81,7 +81,7 @@ Remember, also, that the rules for interpreting a failed roll only apply to PCs.
 > ### Example of the Core Mechanic in Combat
 >
 > Vera hurls herself at the red dragon attempting to cut through his
-scaly hide. However, her attack roll fails to hit the dragon’s toughness
+scaly hide. However, her attack roll fails to hit the dragon’s evasion
 of 25. She chooses to inflict 5 damage, but the GM also gets a choice.
 He chooses to inflict the knockdown bane: The dragon’s tail lashes
 around and sweeps Vera to the floor.
@@ -155,7 +155,7 @@ Attack Summary chart, which are explained in further detail below.
 | - | - |
 | **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Supernatural** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
 | **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage 1 per 5’ length of square |
-| **Step 3: Determine Targeted Defense** | Weapon Attacks <br /> &nbsp;&nbsp;&nbsp;**Precise** targets Evasion <br /> &nbsp;&nbsp;&nbsp;**Forceful** targets Toughness <br /><br /> Supernatural Attacks <br /> &nbsp;&nbsp;&nbsp;**Melee** targets Toughness <br /> &nbsp;&nbsp;&nbsp;**Area** target’s Toughness <br /> &nbsp;&nbsp;&nbsp;**Projectile** target’s Evasion |
+| **Step 3: Determine Targeted Defense** | Weapon Attacks target Evasion <br /><br /> Supernatural Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Evasion** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
 | **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />On 10+ damage, inflict one bane as well |
 
 ##### 1. Determine Range
@@ -180,9 +180,8 @@ Attack Summary chart, which are explained in further detail below.
 
 > **Ranged Attacks in Melee**
 >
-> Any time you make a projectile weapon or supernatural attack and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll.
+> Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll.
 >
-> **Note:** For supernatural attacks, this penalty does not apply if you are targeting an adjacent enemy, because you would not be making a ranged attack.
 
 <br><br>
 
@@ -219,22 +218,14 @@ Friends and foes alike that fall within the targeted area will be subject to you
 
 Every attack targets one of your foe’s defenses: toughness, evasion, or resolve.
 
-For weapon attacks, the defense targeted depends on the type of weapon. Weapons with the *forceful* property target the foe’s toughness, while  weapons with the *precise *property target evasion. If you are wielding a weapon that is both *forceful* and *precise*, you get to choose whether to use Agility to target Evasion or Might to target Toughness.
+Weapon attacks always target evasion.
 
-Supernatural attacks are more open-ended and often require the GM to decide the type of defense targeted. In general, however, supernatural melee or area attacks target a foe’s toughness while supernatural projectile attacks target a foe’s evasion.
+Supernatural attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
-<div class="table-no-body"></div>
-| Standard Defense vs. Attack Types |
-| - |
-| |
+- **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
+- **Evasion** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
+- **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
-| Attack Type | Defense |
-| :- | :- |
-| Precise weapons | Evasion |
-| Forceful weapons | Toughness |
-| Supernatural melee attacks | Toughness |
-| Supernatural area attacks | Toughness |
-| Supernatural projectile attacks | Evasion |
 
 ##### 4. Roll Attack and Calculate Damage
 
