@@ -3,10 +3,10 @@
   prerequisite:
     - tier1:
       - Attribute:
-        - Alteration 9
-        - Creation 9
-        - Entropy 9
-        - Protection 9
+        - Alteration: 9
+        - Creation: 9
+        - Entropy: 9
+        - Protection: 9
   tags:
   - Supernatural
   cost:
@@ -20,13 +20,13 @@
   prerequisite:
   - tier1:
     - Attribute:
-      - Alteration 2
+      - Alteration: 2
   - tier2:
     - Attribute:
-      - Alteration 5
+      - Alteration: 5
   - tier3:
     - Attribute:
-      - Alteration 7
+      - Alteration: 7
   tags:
   - Supernatural
   cost:
