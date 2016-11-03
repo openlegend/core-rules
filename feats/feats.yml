@@ -45,8 +45,21 @@
 - !
   name: Area Manipulation (I - V)
   prerequisite:
-  - Other:
-    - None
+  - tier1:
+    - Other:
+      - None
+  - tier2:
+    - Other:
+      - None
+  - tier3:
+    - Other:
+      - None
+  - tier4:
+    - Other:
+      - None
+  - tier5:
+    - Other:
+      - None
   tags:
   - No Prerequisite
   - Supernatural
@@ -222,7 +235,7 @@
   prerequisite:
   - tier1:
     - Attribute:
-      - Might 5
+      - Might: 5
     - Feat:
       - Battlefield Defender
   tags:
@@ -1108,6 +1121,12 @@
   - tier1:
     - Other:
       - None
+  - tier2:
+    - Other:
+      - None
+  - tier3:
+    - Other:
+      - None
   tags:
   - No Prerequisite
   - Supernatural
@@ -1302,7 +1321,7 @@
     - Attribute:
       - Alteration: 4
     - Feat:
-      - Alternate Form feat
+      - Alternate Form
   tags:
   - Supernatural
   - Feat Chain
@@ -1403,8 +1422,10 @@
 - !
   name: Multi-Target Boon Expert
   prerequisite:
-  - Multi-Target Boon Specialist II
-  - Boon Focus
+  - tier1:
+    - Feat:
+      - Boon Focus
+      - Multi-Target Boon Specialist II
   tags:
   - Non-Combat
   - Supernatural
@@ -1496,7 +1517,7 @@
     - Attribute:
       - Will: 5
     - Feat:
-      - Berserker feat
+      - Berserker
   tags:
   - Combat
   - Mental
