@@ -222,7 +222,7 @@
   prerequisite:
   - tier1:
     - Attribute:
-      - Might 5
+      - Might: 5
     - Feat:
       - Battlefield Defender
   tags:
