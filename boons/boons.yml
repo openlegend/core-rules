@@ -159,8 +159,8 @@
     The target is propelled by magical force through the air, with progressively improving speed and agility.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - The target gains a flight speed of 10’ with low manueverability.</li>
-    <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly manueverable.</li>
+    <li><strong>Power Level 5</strong> - The target gains a flight speed of 10’ with low maneuverability.</li>
+    <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly maneuverable.</li>
     <li><strong>Power Level 8</strong> - The granted flight speed increases to 60'.</li>
     </ul>
     If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
@@ -231,7 +231,7 @@
   description: |
     Healing is magical energy overflowing from a creative life force which heals wounds and mends broken bones.
   effect: |
-    Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll. Like all dice rolls, these dice explode.
+    Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <strong>Special:</strong> This boon does not heal lethal damage.
     <ul>
     <li><strong>Power Level 1</strong> - Heal 1d4 </li>
@@ -260,7 +260,7 @@
   effect: |
     The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (30' for most characters).
     If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
-    The target becomes immune to all attcks that target either Evasion or Toughness, however, they also cannot deliver any attacks that target Evasion or Toughness.
+    The target becomes immune to all attacks that target either Evasion or Toughness, however, they also cannot deliver any attacks that target Evasion or Toughness.
 - !
   name: Invisible
   tags:
@@ -321,10 +321,10 @@
     When you successfully invoke this boon, you gain information from an object or place within range as follows:
     <ul>
     <li><strong>Power Level 5</strong> - You can read vague ideas and impressions to learn what took place near the target within the past hour.</li>
-    <li><strong>Power Level 6</strong> - You can see a vivid vision, similar to a supenatural recording, of what took place near the target within the last hour.</li>
+    <li><strong>Power Level 6</strong> - You can see a vivid vision, similar to a supernatural recording, of what took place near the target within the last hour.</li>
     <li><strong>Power Level 7</strong> - You can ascertain the most recent owner of the object or the people who have most recently been in the place. This knowledge grants enough information for you to use the Scrying bane to magically locate or view those identified.</li>
     <li><strong>Power Level 8</strong> - Choose one: You see a vision of the most recent significant event that took place in close proximity to the target - OR - you ask whether or not a specific event you are aware of is impressed upon the target.</li>
-    <li><strong>Power Level 9</strong> - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revelaed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.</li>
+    <li><strong>Power Level 9</strong> - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.</li>
     </ul>
 - !
   name: Regeneration
@@ -345,6 +345,7 @@
     The target gains a supernatural ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
     While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon, and the dice rolled for healing explode as usual.
+    <strong>Special:</strong> This boon does not heal lethal damage.
     <ul>
     <li><strong>Power Level 1</strong> - 1d4 </li>
     <li><strong>Power Level 3</strong> - 1d6 </li>
@@ -391,13 +392,17 @@
   description: |
     Your protective magic cancels all harmful afflictions that are effecting an ally.
   effect: |
-    Make an Protection roll. You can dispel all banes affecting the target of a maximum Power Level equal to (Protection roll - 10) ÷ 2.
+    Make a roll using the attribute used for invoking this boon. You can dispel all banes affecting the target of a maximum Power Level equal to (roll - 10) ÷ 2.
 - !
   name: Retributive Barrier
   tags:
   - Supernatural
   power:
   - 4
+  - 5
+  - 6
+  - 7
+  - 8
   attribute:
   - Creation
   - Energy
@@ -507,9 +512,9 @@
   description: |
     You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication.
   effect: |
-    You and the target can communicate with eachother simply through thought. Note that this telepathy does not bestow intelligence upon creatures, so you could not use it to communicate with a squirrel unless you already possessed other means of doing so. Additionally, telepathy does not bypass language barriers, so you would need to already speak the language of your target.
+    You and the target can communicate with each other simply through thought. Note that this telepathy does not bestow intelligence upon creatures, so you could not use it to communicate with a squirrel unless you already possessed other means of doing so. Additionally, telepathy does not bypass language barriers, so you would need to already speak the language of your target.
     <ul>
-    <li><strong>Power Level 3</strong> - You can communicate telpathically with a single creature of animal-level intelligence or lower. Keep in mind that it can only communicate concepts with you that it can understand.</li>
+    <li><strong>Power Level 3</strong> - You can communicate telepathically with a single creature of animal-level intelligence or lower. Keep in mind that it can only communicate concepts with you that it can understand.</li>
     <li><strong>Power Level 5</strong> - You can communicate telepathically with a single creature of humanoid intelligence.</li>
     <li><strong>Power Level 6</strong> - You can create a mental relay between yourself and up to five other creatures allowing each of them to communicate with the rest of the group simultaneously.</li>
     <li><strong>Power Level 7</strong> - You can communicate telepathically with any number of creatures that you can see.</li>

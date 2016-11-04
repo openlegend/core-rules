@@ -99,16 +99,16 @@
   - Entropy
   - Influence
   - Might
-  - Presence
   - Persuasion
+  - Presence
   attack:
   - Agility vs. Resolve
   - Energy vs. Resolve
   - Entropy vs. Resolve
   - Influence vs. Resolve
   - Might vs. Resolve
-  - Presence vs. Resolve
   - Persuasion vs. Resolve
+  - Presence vs. Resolve
   invocationTime: 1 Major Action
   duration: Resist (minor) ends (Fail x 3 = 1 minute)
   description: |
@@ -126,18 +126,18 @@
   - 6
   attackAttributes:
   - Agility
-  - Influence
-  - Entropy
-  - Energy
   - Alteration
+  - Energy
+  - Entropy
+  - Influence
   - Might
   - Movement
   attack:
   - Agility vs. Evasion
-  - Influence vs. Resolve
-  - Entropy vs. Toughness
-  - Energy vs. Toughness
   - Alteration vs. Evasion
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
+  - Influence vs. Resolve
   - Might vs. Toughness
   - Movement vs. Evasion
   invocationTime: 1 Major Action
@@ -234,13 +234,13 @@
   attackAttributes:
   - Creation
   - Entropy
-  - Might
   - Influence
+  - Might
   attack:
   - Creation vs. Resolve
   - Entropy vs. Resolve
-  - Might vs. Toughness
   - Influence vs. Resolve
+  - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Special
   description: |
@@ -260,13 +260,13 @@
   - 6
   - 8
   attackAttributes:
+  - Energy
   - Might
   - Movement
-  - Energy
   attack:
+  - Energy vs. Toughness
   - Might vs. Toughness
   - Movement vs. Toughness
-  - Energy vs. Toughness
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
@@ -279,20 +279,22 @@
   - Supernatural
   - Physical
   power:
-  - 0
+  - 1
   attackAttributes:
   - Agility
-  - Influence
-  - Entropy
-  - Energy
   - Alteration
+  - Creation
+  - Energy
+  - Entropy
+  - Influence
   - Might
   attack:
   - Agility vs. Evasion
-  - Influence vs. Resolve
-  - Entropy vs. Toughness
-  - Energy vs. Toughness
   - Alteration vs. Evasion
+  - Creation vs. Toughness
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
+  - Influence vs. Resolve
   - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
@@ -343,23 +345,23 @@
   attackAttributes:
   - Creation
   - Deception
-  - Influence
   - Energy
+  - Influence
   - Might
-  - Presence
   - Persuasion
+  - Presence
   attack:
   - Creation vs. Resolve
   - Deception vs. Resolve
-  - Influence vs. Resolve
   - Energy vs. Resolve
+  - Influence vs. Resolve
   - Might vs. Resolve
-  - Presence vs. Resolve
   - Persuasion vs. Resolve
+  - Presence vs. Resolve
   invocationTime: 1 Minor Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Through a display of awe-inspiring force, initimidation, or leadership, you command attention as the greatest threat, causing others to fear to attack your allies.
+    Through a display of awe-inspiring force, intimidation, or leadership, you command attention as the greatest threat, causing others to fear to attack your allies.
   effect: |
     Any attacks made by the target that do not include you as a target suffer disadvantage. If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is equal or greater to their Resolve defense (that is, by striking one foe, you can intimidate another).
     <ul>
@@ -378,15 +380,15 @@
   power:
   - 2
   attackAttributes:
-  - Might
   - Energy
+  - Might
   attack:
-  - Might vs. Toughness
   - Energy vs. Toughness
+  - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering rbolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak.
+    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak.
   effect: |
     The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1.
 - !
@@ -478,7 +480,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Whether by setting the target ablaze, covering them in acid, slicing an atery, or cursing them with a wasting disease, you inflict them with a lasting and recurring source of damage.
+    Whether by setting the target ablaze, covering them in acid, slicing an artery, or cursing them with a wasting disease, you inflict them with a lasting and recurring source of damage.
   effect: |
     At the beginning of the target's turn, before they take any actions, the target suffers damage determined by the power level of the bane. This damage automatically bypasses the afflicted character’s defenses but it can be reduced by any resistance to damage of a certain type (see the Resistance boon). Like all dice rolls, these dice explode.
     <ul>
@@ -609,14 +611,14 @@
   - 2
   attackAttributes:
   - Agility
-  - Might
-  - Entropy
   - Alteration
+  - Entropy
+  - Might
   attack:
   - Agility vs. Evasion
-  - Might vs. Toughness
-  - Entropy vs. Toughness
   - Alteration vs. Toughness
+  - Entropy vs. Toughness
+  - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
@@ -631,15 +633,17 @@
   power:
   - 2
   attackAttributes:
-  - Energy
-  - Might
   - Agility
+  - Energy
   - Entropy
+  - Might
+  - Movement
   attack:
-  - Energy vs. Toughness
-  - Might vs. Toughness
   - Agility vs. Evasion
+  - Energy vs. Toughness
   - Entropy vs. Toughness
+  - Might vs. Toughness
+  - Movement vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
@@ -654,15 +658,15 @@
   power:
   - 4
   attackAttributes:
-  - Might
   - Agility
-  - Entropy
   - Energy
+  - Entropy
+  - Might
   attack:
-  - Might vs. Toughness
   - Agility vs. Toughness
-  - Entropy vs. Toughness
   - Energy vs. Toughness
+  - Entropy vs. Toughness
+  - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
@@ -695,9 +699,9 @@
   power:
   - 0
   attackAttributes:
-  - n/a
+  - N/A
   attack:
-  - n/a
+  - N/A
   invocationTime: 1 Major Action
   duration: 1 Round
   description: |

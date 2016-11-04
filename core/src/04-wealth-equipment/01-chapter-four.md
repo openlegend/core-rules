@@ -111,9 +111,9 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 | Weapon | Wealth Level | Properties | Banes |
 | :- | :- | :--- | :-- |
+| Unarmed Strike | 0 | One-handed, Precise, Forceful, Swift 2 | Stunned |
 | Dagger | 1 | One-handed, Precise, Swift 2, Range 25' | Persistent Damage |
 | Longsword | 2 | Versatile, Forceful, Precise | – |
-| Unarmed | - | One-handed, Forceful, Precise | – |
 | Battle Axe | 2 | Versatile, Forceful | – |
 | Spear | 1 | Two-handed, Reach, Range 35', Forceful, Precise | – |
 | Mace | 1 | One-handed, Forceful | Knockdown |
@@ -143,13 +143,13 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 ## Armor
 
-Armor reduces or negates the damage that your character would suffer from attacks by adding to your evasion and toughness defense scores. The Armor table summarizes the following properties of each type of armor:
+Armor provides a bonus to your evasion score, thus reducing or negating the damage that you would suffer from many types of attacks. The Armor table summarizes the following properties of each type of armor:
 
-**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor.
+**Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
 
 The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to his Might score plus one.
 
-**Defense Bonus** indicates the bonus that your character gains to both his evasion and toughness defenses.
+**Defense Bonus** indicates the bonus that your character gains to both his evasion defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
@@ -160,7 +160,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 | - |
 | |
 
-| Armor | Wealth Level | Required Fortitude | Heavy | Defense Bonus | Speed Penalty |
+| Armor | Wealth Level | Required Might | Heavy | Defense Bonus | Speed Penalty |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Small Shield^ | 1 | 1 | no | 1 | 0 |
 | Large Shield^ | 1 | 3 | yes | 2 | 0 |

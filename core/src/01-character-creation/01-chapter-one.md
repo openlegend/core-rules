@@ -212,18 +212,18 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 When an enemy tries to attack you--whether with a breath of flame, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
-| Toughness = 10 + Fortitude |
+| Toughness = 10 + Fortitude + Presence |
 | - |
 | |
 
-**Toughness** protects you from attacks that test your endurance, bodily health, or sturdiness. For example, foes attempting to poison you, push you off a cliff, or crush you with an iron maul will target your toughness.
+**Toughness** protects you from attacks that test your endurance, bodily health, sturdiness, and survivability. For example, foes attempting to poison you, drain your life force, or push you off a cliff will target your toughness.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
-| Evasion = 10 + Agility |
+| Evasion = 10 + Agility + Armor |
 | - |
 | |
 
-**Evasion** protects you from attacks that test your quickness and ability to dodge. Your enemies would need to overcome your evasion in order to hit you with a fireball, shoot you with an arrow, or stab you with a rapier.
+**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a fireball, shoot you with an arrow, or smash you with a maul.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Resolve = 10 + Presence + Will  |
