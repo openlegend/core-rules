@@ -446,7 +446,8 @@
   name: Brutal Intimidation
   prerequisite:
   - tier1:
-    - Might: 2
+    - Attribute:
+      - Might: 2
   tags:
   - Non-Combat
   cost:
