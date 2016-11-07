@@ -87,9 +87,9 @@
   effect: |
     Choose an armor type to specialize in. Your training allows you to sleep in that armor type without becoming fatigued. In addition, while wearing armor of that type, you gain the following benefits.
     <ul>
-    <li>Tier 1 - The Fortitude prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
-    <li>Tier 2 - The Fortitude prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
-    <li>Tier 3 - The Fortitude prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3. Any movement penalty is reduced by 10 feet.</li>
+    <li>Tier 1 - The Might prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
+    <li>Tier 2 - The Might prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
+    <li>Tier 3 - The Might prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3. Any movement penalty is reduced by 10 feet.</li>
     </ul>
 - !
   name: Attack Redirection
