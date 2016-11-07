@@ -35,8 +35,8 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | ---- |
 | **Agility** | Dodge attacks, move with stealth, perform acrobatics, shoot a bow, pick a pocket |
-| **Fortitude** | Wear heavy armor, resist poison, shrug off pain, exert yourself physically |
-| **Might** | Swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
+| **Fortitude** | Resist poison, shrug off pain, exert yourself physically |
+| **Might** | Wear heavy armor, swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
 
 <div class="table-no-body"></div>
 | Mental Attributes at a Glance |
