@@ -16,31 +16,28 @@
   effect: |
     Rooted in a superantural means of your choice, you become immune to the passage of time and the effects of old age. You do not age and cannot be harmed by magic that causes aging. You can choose to age in appearance, if you wish, but you can also choose to continually appear the same age.
 - !
-  name: Alternate Form (I - III)
+  name: Alternate Form (I - II)
   prerequisites:
     tier1:
-      Attribute:
-      - Alteration: 2
+      Other:
+      - None
     tier2:
-      Attribute:
-      - Alteration: 5
-    tier3:
-      Attribute:
-      - Alteration: 7
+      Other:
+      - None
   tags:
-  - Supernatural
+  - No Prerequisite
   cost:
   - 3
   description: |
     Alternate form is an ability possessed by lycanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
   effect: |
-    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a major action. When you assume your new form, you gain a pool of points equal to your Alteration score, which you may immediately spend to temporarily increase your physical attributes. You cannot raise any physical attribute to be greater than your Alteration score, unless the physical attribute is already equal to your Alteration. In that case, you may increase it by a maximum of one point. This increase cannot be used to meet prerequisites for feats, but it can be used to give you access to banes and boons that you would otherwise not be able to use in your normal form. Until you purchase this feat at tier 3, you cannot use the supernatural attributes of the chosen form.
-
+    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a Focus action.
+    When you take this feat, you build the stats for the alternate form that you can assume.
+    To build your alternate form, you gain a number of Feat and Attribute points, as outlined below. Your new form is otherwise treated as a different character. You retain none of your original feats or attributes, only what you gain for the new form from this feat. You do, however, retain the ability to cancel and revert to your base form.
     You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a major action. Upon returning to your original form, your physical attributes return to their previous values.
     <ul>
-    <li>Tier 1 – Your alternate form must be the same size as your normal form.</li>
-    <li>Tier 2 – Your alternate form can be one size different from your normal size.</li>
-    <li>Tier 3 – Your alternate form can be any size. In addition, you are able to use supernatural attributes for attacks (dragon’s breath, nymph’s charm, etc.) of your chosen form. Use your Alteration score for action rolls relating to these supernatural abilities.</li>
+    <li>Tier 1 – Half of your main character's attribute points (rounded up), and 3 feat points.</li>
+    <li>Tier 2 – Same attribute points as your main character, and 3 feat points per level.</li>
     </ul>
 - !
   name: Area Manipulation (I - V)
@@ -456,6 +453,20 @@
     Your powers of persuasion stem from application of brute force rather than your social grace.
   effect: |
     If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.
+- !
+  name: Climbing
+  prerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Non-Combat
+  cost:
+  - 2
+  description: |
+    You gain the ability to climb effortlessly, as is found in certain vampires, aberrant creatures, and insects.
+  effect: |
+    You gain a climb speed equal to your base speed and can scale horizontal and vertical surfaces, even climb upside-down, with no fear of falling.
 - !
   name: Combat Follow-through
   prerequisites:
@@ -888,6 +899,20 @@
     Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than the average joe.
   effect: |
     Your speed is permanently increased by 5' per tier of this feat.<br />
+- !
+  name: Flying
+  prerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Non-Combat
+  cost:
+  - 3
+  description: |
+    Whether through a pair of celestial or infernal wings, an inherent telekinetic power, or something unexplainable that you're born with, you have an inherent ability to fly
+  effect: |
+    You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, an Immobile bane might render your wings immovable, if telekinetic, an application of the Dispel bane may cancel your flight.
 - !
   name: Great Leap (I – III)
   prerequisites:
@@ -1746,6 +1771,20 @@
     Your supernatural power stems from your connection with a particular focus, such as a wand, holy symbol, or spellbook.
   effect: |
     With the approval of your GM, choose a focus from which your power with a single supernatural attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected supernatural attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
+- !
+  name: Swimming
+  prerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Non-Combat
+  cost:
+  - 1
+  description: |
+    You are made for the  water and can swim at surprising speeds, with the aptitude of a fish.
+  effect: |
+    You gain a swimming speed equal to your base speed and do not need to make any special action rolls to maintain this base speed.
 - !
   name: Tough as Nails (I - II)
   prerequisites:
