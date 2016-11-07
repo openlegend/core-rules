@@ -222,6 +222,7 @@
   - 8
   - 9
   attribute:
+  - Alteration
   - Creation
   - Learning
   - Logic
@@ -229,7 +230,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Healing is magical energy overflowing from a creative life force which heals wounds and mends broken bones.
+    Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or supernatural creative life force, OR the inspiration of an ally to carry on, even in the face of death.
   effect: |
     Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <strong>Special:</strong> This boon does not heal lethal damage.
