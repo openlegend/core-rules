@@ -392,22 +392,6 @@
   effect: |
     The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1.
 - !
-  name: Life Drain
-  tags:
-  - Supernatural
-  power:
-  - 5
-  attackAttributes:
-  - Entropy
-  attack:
-  - Entropy vs. Toughness
-  invocationTime: 1 Major Action
-  duration: Instantaneous
-  description: |
-    The fangs of a vampire and the touch of a black mage that siphons away the very soul of his enemy are some examples of the Life Drain affliction.
-  effect: |
-    When you inflict this bane, your action roll counts as a damaging attack against the target. For each point of damage that the attack deals (over and above the target’s defense score), you regain 1 hit point.
-- !
   name: Memory Alteration
   tags:
   - Supernatural
