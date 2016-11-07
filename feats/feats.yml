@@ -1,12 +1,12 @@
 - !
   name: Ageless
-  prerequisite:
-    - tier1:
-      - Attribute:
-        - Alteration: 9
-        - Creation: 9
-        - Entropy: 9
-        - Protection: 9
+  prerequisites:
+    tier1:
+      Attribute:
+      - Alteration: 9
+      - Creation: 9
+      - Entropy: 9
+      - Protection: 9
   tags:
   - Supernatural
   cost:
@@ -17,15 +17,15 @@
     Rooted in a superantural means of your choice, you become immune to the passage of time and the effects of old age. You do not age and cannot be harmed by magic that causes aging. You can choose to age in appearance, if you wish, but you can also choose to continually appear the same age.
 - !
   name: Alternate Form (I - III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Alteration: 2
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Alteration: 5
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Alteration: 7
   tags:
   - Supernatural
@@ -44,21 +44,21 @@
     </ul>
 - !
   name: Area Manipulation (I - V)
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - None
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - None
-  - tier4:
-    - Other:
+    tier4:
+      Other:
       - None
-  - tier5:
-    - Other:
+    tier5:
+      Other:
       - None
   tags:
   - No Prerequisite
@@ -71,15 +71,15 @@
     For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.
 - !
   name: Armor Mastery (I - III)
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - None
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - None
   tags:
   - No Prerequisite
@@ -96,9 +96,9 @@
     </ul>
 - !
   name: Attack Redirection
-  prerequisite:
-  - tier1:
-    - Feat:
+  prerequisites:
+    tier1:
+      Feat:
       - Defensive Reflexes II
   tags:
   - Supernatural
@@ -110,49 +110,49 @@
     When you make a Defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
 - !
   name: Attack Specialization (I - IX)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 1
       - Might: 1
       - Any Supernatural: 1
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Agility: 2
       - Might: 2
       - Any Supernatural: 2
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Agility: 3
       - Might: 3
       - Any Supernatural: 3
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Agility: 4
       - Might: 4
       - Any Supernatural: 4
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Agility: 5
       - Might: 5
       - Any Supernatural: 5
-  - tier6:
-    - Attribute:
+    tier6:
+      Attribute:
       - Agility: 6
       - Might: 6
       - Any Supernatural: 6
-  - tier7:
-    - Attribute:
+    tier7:
+      Attribute:
       - Agility: 7
       - Might: 7
       - Any Supernatural: 7
-  - tier8:
-    - Attribute:
+    tier8:
+      Attribute:
       - Agility: 8
       - Might: 8
       - Any Supernatural: 8
-  - tier9:
-    - Attribute:
+    tier9:
+      Attribute:
       - Agility: 9
       - Might: 9
       - Any Supernatural: 9
@@ -171,9 +171,9 @@
     <strong>Special</strong>: You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
 - !
   name: Attribute Substitution
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Any Social: 4
       - Any Mental: 4
       - Any Supernatural: 4
@@ -195,9 +195,9 @@
     <strong>Special</strong>: This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
 - !
   name: Bane Focus
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       -  Ability to invoke the chosen bane
   tags:
   - Might
@@ -212,9 +212,9 @@
     Choose a bane that you can invoke. When making a damaging attack, you can inflict this bane for free when you deal at least 5 points of damage (as opposed to the usual 10). Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
 - !
   name: Battlefield Defender
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 4
       - Might: 4
       - Protection: 4
@@ -232,11 +232,11 @@
     When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
 - !
   name: Battlefield Punisher - Knockdown
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Might: 5
-    - Feat:
+      Feat:
       - Battlefield Defender
   tags:
   - Might
@@ -251,12 +251,12 @@
     If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Knockdown bane. If the attack hits, the remainder of the target's movement is cancelled until the start of its next turn.
 - !
   name: Battlefield Punisher - Slowed
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 5
       - Might: 5
-    - Feat:
+      Feat:
       - Battlefield Defender
   tags:
   - Might
@@ -272,12 +272,12 @@
     If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane.  If the attack hits and the target has already moved more than 2 squares, the remainder of their movement is cancelled until the start of their next turn.
 - !
   name: Battlefield Punisher - Stunned
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 7
       - Might: 7
-    - Feat:
+      Feat:
       - Battlefield Defender
   tags:
   - Might
@@ -293,36 +293,36 @@
     If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Stunned bane. If the target has taken any action prior to this attack, any remaining actions are cancelled by the Stunned bane until the start of the target's next turn.
 - !
   name: Battlefield Sentinel (I - V)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 5
       - Might: 5
-    - Feat:
+      Feat:
       - Battlefield Defender
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Agility: 5
       - Might: 5
-    - Feat:
+      Feat:
       - Battlefield Defender
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Agility: 5
       - Might: 5
-    - Feat:
+      Feat:
       - Battlefield Defender
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Agility: 5
       - Might: 5
-    - Feat:
+      Feat:
       - Battlefield Defender
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Agility: 5
       - Might: 5
-    - Feat:
+      Feat:
       - Battlefield Defender
   tags:
   - Might
@@ -338,11 +338,11 @@
     You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened square).
 - !
   name: Berserker
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Fortitude: 3
-      - Will: 3 
+      - Will: 3
   tags:
   cost:
   - 3
@@ -352,9 +352,9 @@
     As a free action on your turn, you may enter a rage. While raging, you have advantage 1 on all attacks. Additionally, if you are not wearing armor, all of your defense scores are increased by 5. If you take three consecutive turns without making an attack roll against a creature, the rage ends. When the rage ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
   name: Boon Access
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
   tags:
   - Supernatural
@@ -376,15 +376,15 @@
     <strong>Special</strong>: If you ever meet the attribute prerequisite for the chosen boon, you may choose at that time to lose this feat and regain the feat points spent. Re-allocate them as you choose.
 - !
   name: Boon Focus (I - III)
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - Ability to invoke the chosen boon
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - Ability to invoke the chosen boon
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - Ability to invoke the chosen boon
   tags:
   - Supernatural
@@ -407,33 +407,33 @@
     </ul>
 - !
   name: Breakfall (I - IX)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 4
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Agility: 4
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Agility: 4
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Agility: 4
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Agility: 4
-  - tier6:
-    - Attribute:
+    tier6:
+      Attribute:
       - Agility: 4
-  - tier7:
-    - Attribute:
+    tier7:
+      Attribute:
       - Agility: 4
-  - tier8:
-    - Attribute:
+    tier8:
+      Attribute:
       - Agility: 4
-  - tier9:
-    - Attribute:
+    tier9:
+      Attribute:
       - Agility: 4
   tags:
   cost:
@@ -444,9 +444,10 @@
     When calculating falling damage, reduce the falling distance by 10 feet per tier of this feat that you possess. Once you reach tier 9, you can fall any distance without taking damage.
 - !
   name: Brutal Intimidation
-  prerequisite:
-  - tier1:
-    - Might: 2
+  prerequisites:
+    tier1:
+      Attribute:
+      - Might: 2
   tags:
   - Non-Combat
   cost:
@@ -457,12 +458,12 @@
     If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.
 - !
   name: Combat Follow-through
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 5
       - Might: 5
-    - Feat:
+      Feat:
       - Combat Momentum
   tags:
   - Feat Chain
@@ -475,9 +476,9 @@
     <strong>Requirement</strong> - The triggering attack must be a Might or Agility action roll.
 - !
   name: Combat Momentum
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 4
       - Might: 4
       - Movement: 4
@@ -492,15 +493,15 @@
     <strong>Special</strong>: If you meet the Movement 4 prerequisite, you can use the Teleport boon instead of a normal move.
 - !
   name: Companion (I - III)
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - None
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - None
   tags:
   - Non-Combat
@@ -519,18 +520,18 @@
     Fezzy starts at level one with Companion (Tier II), choosing a wolf for his companion. Based on Fezzy's level and feat tier, his wolf's highest attribute is 4, so he can assign the wolf four attributes at scores 4, 3, 2, and 1. He assigns the following: Agility 4, Perception 3, Might 2, and Fortitude 1. Upon reaching level 2, Fezzy purchases Companion (Tier III), raising the wolf's highest attribute to 5, so Fezzy reassigns the attributes as follows: Perception 5, Agility 4, Might 3, Fortitude 2, Presence 1.
 - !
   name: Craft (I - II)
-  prerequisite:
-  - tier1:
-    - FeatAttribute:
-      - Attribute: 
+  prerequisites:
+    tier1:
+      FeatAttribute:
+        Attribute:
         - Learning: 3
-      - Feat:
+        Feat:
         - Knowledge I
-  - tier2:
-    - FeatAttribute:
-      - Attribute: 
+    tier2:
+      FeatAttribute:
+        Attribute:
         - Learning: 3
-      - Feat:
+        Feat:
         - Knowledge I
   tags:
   - Non-Combat
@@ -539,7 +540,7 @@
   description: |
     You have mastered a particular craft, and given proper time and materials, you can create items related to that craft.
   effect: |
-    Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 4), crafting does not limit your ability to acquire additional goods.<br />
+    Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 4), crafting does not limit your ability to acquire additional goods.
     <ul>
     <li><strong>Tier 1</strong> - You can craft items equal to your wealth level.</li>
     <li><strong>Tier 2</strong> - You can craft items equal to your wealth level + 1.</li>
@@ -558,18 +559,18 @@
 
 - !
   name: Craft Beneficial or Baleful Item (I - III)
-  prerequisite:
-  - tier1:
-    - Attribute:
-      - Any Supernatural: 5 
+  prerequisites:
+    tier1:
+      Attribute:
+      - Any Supernatural: 5
       - Learning: 5
-  - tier2:
-    - Attribute:
-      - Any Supernatural: 5 
+    tier2:
+      Attribute:
+      - Any Supernatural: 5
       - Learning: 5
-  - tier3:
-    - Attribute:
-      - Any Supernatural: 5 
+    tier3:
+      Attribute:
+      - Any Supernatural: 5
       - Learning: 5
   tags:
   - Supernatural
@@ -584,10 +585,8 @@
     <li><strong>Tier 1</strong> - You can create an item with this feat. Choose a target attribute score for the item, less than or equal to 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3). <br />
       Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the heal boon, for example, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concentrates on using it.  <br />
       Creating an expendable item requires 1 full 8-hour day of uninterrupted work. Creating a permanent item, requires one such day of work per attribute score of the item. <br />
-      At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item.
-      <br />
-      Next, choose a bane or boon of power level less than or equal to the item's attribute score from the previous step. This item is forever linked to that particular bane or boon.
-      <br />
+      At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item. <br />
+      Next, choose a bane or boon of power level less than or equal to the item's attribute score from the previous step. This item is forever linked to that particular bane or boon. <br />
       An expendable item used to invoke a boon automatically succeeds at invocation. An expendable item used to invoke a bane grants advantage 1 to the attribute roll to invoke.<br />
       A permanent item can be invoked once per hour, after which it has to recharge before it can be used again. <br />
       The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
@@ -609,11 +608,11 @@
     </ul>
 - !
   name: Crushing Blow
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Might: 6
-    - Feat:
+      Feat:
       - Overpowering Strike
   tags:
   - Physical
@@ -628,21 +627,21 @@
     Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the square where the forced move ends; the target suffers the effects of the knockdown bane.
 - !
   name: Death Blow (I – III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 6
-    - Feat:
+      Feat:
       - Lethal Strike I
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Agility: 7
-    - Feat:
+      Feat:
       - Lethal Strike III
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Agility: 8
-    - Feat:
+      Feat:
       - Lethal Strike VI
   tags:
   - Combat
@@ -659,11 +658,11 @@
     </ul>
 - !
   name: Deathless Berserker
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Fortitude: 7
-    - Feat:
+      Feat:
       - Berserker
   tags:
   - Supernatural
@@ -675,11 +674,11 @@
     While you are raging you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the rage. When the rage ends, if your hit points are below zero, you collapse unconscious.  If you are not healed to zero or more hit points within 1 round of your rage ending, you die.
 - !
   name: Destructive Berserker
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Might: 7
-    - Feat:
+      Feat:
       - Berserker
   tags:
   - Supernatural
@@ -692,36 +691,36 @@
     While you are raging, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
 - !
   name: Defensive Reflexes (I - X)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 3
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Agility: 3
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Agility: 3
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Agility: 3
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Agility: 3
-  - tier6:
-    - Attribute:
+    tier6:
+      Attribute:
       - Agility: 3
-  - tier7:
-    - Attribute:
+    tier7:
+      Attribute:
       - Agility: 3
-  - tier8:
-    - Attribute:
+    tier8:
+      Attribute:
       - Agility: 3
-  - tier9:
-    - Attribute:
+    tier9:
+      Attribute:
       - Agility: 3
-  - tier10:
-    - Attribute:
+    tier10:
+      Attribute:
       - Agility: 3
   tags:
   - Agility
@@ -734,9 +733,9 @@
     Any time you use the Defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
 - !
   name: Diehard
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Presence: 3
       - Fortitude: 3
   tags:
@@ -750,9 +749,9 @@
     Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
 - !
   name: Disease Immunity
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Creation: 5
       - Protection: 5
   tags:
@@ -765,17 +764,17 @@
     You are immune to natural disease. This protection does not guard against magical curses such as lycanthropy.
 - !
   name: Energy Resistance (I - III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Energy: 4
       - Protection: 4
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Energy: 5
       - Protection: 5
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Energy: 7
       - Protection: 7
   tags:
@@ -793,11 +792,11 @@
       </ul>
 - !
   name: Entranced Berserker
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Will: 7
-    - Feat:
+      Feat:
       - Berserker
   tags:
   - Combat
@@ -809,9 +808,9 @@
     While you are raging, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your rage and returns when your rage ends.
 - !
   name: Evasive Footwork
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 4
   tags:
   - Agility
@@ -823,11 +822,11 @@
     When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 - !
   name: Fast Tracker
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 5
-    - Attribute:
+      Attribute:
       - Perception: 5
   tags:
   - Supernatural
@@ -841,15 +840,15 @@
     You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred at the GM's discretion.
 - !
   name: Ferocious Minions
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Influence: 3
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Influence: 5
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Influence: 7
   tags:
   - Supernatural
@@ -862,19 +861,19 @@
     Creatures under the effects of your Charmed or Dominated bane gain advantage 1 on all attack rolls to defend or help you for each tier of this feat you possess.
 - !
   name: Fleet of Foot (I – III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 4
       - Fortitiude: 4
       - Movement: 2
   -tier2:
-    - Attribute:
+      Attribute:
       - Agility: 5
       - Fortitiude: 5
       - Movement: 4
   -tier3:
-    - Attribute:
+      Attribute:
       - Agility: 7
       - Fortitiude: 7
       - Movement: 6
@@ -891,17 +890,17 @@
     Your speed is permanently increased by 5' per tier of this feat.<br />
 - !
   name: Great Leap (I – III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Movement: 2
       - Agility: 2
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Movement: 4
       - Agility: 4
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Movement: 6
       - Agility: 6
   tags:
@@ -919,9 +918,9 @@
     You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
 - !
   name: Fast Draw
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 1
   tags:
   - Combat
@@ -934,9 +933,9 @@
     Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
 - !
   name: Hallucination
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Influence: 5
   tags:
   - Supernatural
@@ -950,11 +949,11 @@
     When you invoke the Phantasm bane, you may choose to create a hallucination within a target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the Power Level of your bane), and are thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature, and thus is not eligible for multi-targeting attacks.
 - !
   name: Hallucination (Mass)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Influence: 7
-    - Feat:
+      Feat:
       - Hallucination
   tags:
   - Supernatural
@@ -973,11 +972,11 @@
     </ul>
 - !
   name: Heavy Weapon Master
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 4
-    - Attribute:
+      Attribute:
       - Might: 5
   tags:
   - Combat
@@ -992,9 +991,9 @@
     You can wield two-handed melee weapons in one hand. When you do, you still gain the usual advantage granted by two-handed weapons.
 - !
   name: Hospitaler
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Creation: 4
       - Presence: 4
       - Protection: 4
@@ -1013,33 +1012,33 @@
     You can use a major action to give an ally an immediate Resist roll (a free action for the ally). The ally gains a special form of advantage on this roll, allowing them to roll 2d20 and keep the highest. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
 - !
   name: Hunter's Foe (I - IX)
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - None
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - None
-  - tier4:
-    - Other:
+    tier4:
+      Other:
       - None
-  - tier5:
-    - Other:
+    tier5:
+      Other:
       - None
-  - tier6:
-    - Other:
+    tier6:
+      Other:
       - None
-  - tier7:
-    - Other:
+    tier7:
+      Other:
       - None
-  - tier8:
-    - Other:
+    tier8:
+      Other:
       - None
-  - tier9:
-    - Other:
+    tier9:
+      Other:
       - None
   tags:
   - Non-Combat
@@ -1052,33 +1051,33 @@
     Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, You gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
 - !
   name: Indomitable Endurance (I - IX)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Fortitude: 5
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Fortitude: 5
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Fortitude: 5
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Fortitude: 5
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Fortitude: 5
-  - tier6:
-    - Attribute:
+    tier6:
+      Attribute:
       - Fortitude: 5
-  - tier7:
-    - Attribute:
+    tier7:
+      Attribute:
       - Fortitude: 5
-  - tier8:
-    - Attribute:
+    tier8:
+      Attribute:
       - Fortitude: 5
-  - tier9:
-    - Attribute:
+    tier9:
+      Attribute:
       - Fortitude: 5
   tags:
   - Physical
@@ -1090,15 +1089,15 @@
     You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determining the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
   name: Inspiring Champion (I - III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Presence: 4
-  - tier1:
-    - Attribute:
+    tier1:
+      Attribute:
       - Presence: 5
-  - tier1:
-    - Attribute:
+    tier1:
+      Attribute:
       - Presence: 6
   tags:
   - Social
@@ -1117,15 +1116,15 @@
     </ul>
 - !
   name: Knowledge
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - None
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - None
   tags:
   - No Prerequisite
@@ -1145,33 +1144,33 @@
     </ul>
 - !
   name: Lethal Strike (I – IX)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 1
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Agility: 2
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Agility: 3
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Agility: 4
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Agility: 5
-  - tier6:
-    - Attribute:
+    tier6:
+      Attribute:
       - Agility: 6
-  - tier7:
-    - Attribute:
+    tier7:
+      Attribute:
       - Agility: 7
-  - tier8:
-    - Attribute:
+    tier8:
+      Attribute:
       - Agility: 8
-  - tier9:
-    - Attribute:
+    tier9:
+      Attribute:
       - Agility: 9
   tags:
   - Supernatural
@@ -1201,21 +1200,21 @@
     </ul>
 - !
   name: Lightning Reflexes (I - V)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 2
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Agility: 3
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Agility: 4
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Agility: 5
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Agility: 6
   tags:
   - Physical
@@ -1228,15 +1227,15 @@
     For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
 - !
   name: Marksman (I - III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 5
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Agility: 5
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Agility: 5
   tags:
   - Combat
@@ -1248,9 +1247,9 @@
     Choose a ranged weapon. In your hands, the range of that weapon is increased by 5 squares.
 - !
   name: Martial Focus
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 1
       - Might: 1
   tags:
@@ -1264,21 +1263,21 @@
     Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: agility or might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any attacks that you make which do not use your martial focus suffer disadvantage 1.
 - !
   name: Master Shifter (I – V)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Alteration: 2
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Alteration: 4
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Alteration: 6
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Alteration: 8
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Alteration: 9
   tags:
   - Supernatural
@@ -1299,9 +1298,9 @@
     </ul>
 - !
   name: Master Tracker
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Perception: 5
   tags:
   - Non-Combat
@@ -1316,11 +1315,11 @@
 
 - !
   name: Mimic
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Alteration: 4
-    - Feat:
+      Feat:
       - Alternate Form
   tags:
   - Supernatural
@@ -1334,24 +1333,24 @@
     When you use the alternate form feat, you may take the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 + twice your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
 - !
   name: Multi-Attack Specialist (I – VI)
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - None
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - None
-  - tier4:
-    - Other:
+    tier4:
+      Other:
       - None
-  - tier5:
-    - Other:
+    tier5:
+      Other:
       - None
-  - tier6:
-    - Other:
+    tier6:
+      Other:
       - None
   tags:
   - Any Attribute
@@ -1368,21 +1367,21 @@
     Vax the Deathbringer has Multi Attack Specialist (Tier VI). He declares that he will be making three attacks this round. Therefore, all of his attacks suffer disadvantage 3 (3 x 3 = 9, minus 6 for feat tier 6). His first attack is a necromantic burst targeting a 10'-square. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindness on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
 - !
   name: Multi-Target Attack Specialist (I – V)
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - None
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - None
-  - tier4:
-    - Other:
+    tier4:
+      Other:
       - None
-  - tier5:
-    - Other:
+    tier5:
+      Other:
       - None
   tags:
   - Any Attribute
@@ -1394,21 +1393,21 @@
     When you choose this feat, you must decide to focus in area, projectile, or melee attacks.  For each tier, you reduce the disadvantage penalty associated with multi-attacks for your chosen attack type by 1. Whenever you take this feat, you must specify which type of attack you are focusing on, and you may take the feat multiple times to specialize in multiple types of attack.
 - !
   name: Multi-Target Boon Specialist (I – V)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Any Supernatural: 3
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Any Supernatural: 5
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Any Supernatural: 7
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Any Supernatural: 8
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Any Supernatural: 9
   tags:
   - Non-Combat
@@ -1421,9 +1420,9 @@
     For each tier of this feat, you reduce the disadvantage penalty associated with invoking boons for multiple targets by 1.
 - !
   name: Multi-Target Boon Expert
-  prerequisite:
-  - tier1:
-    - Feat:
+  prerequisites:
+    tier1:
+      Feat:
       - Boon Focus
       - Multi-Target Boon Specialist II
   tags:
@@ -1437,9 +1436,9 @@
     When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
 - !
   name: Multi-Bane Specialist
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - Able to inflict both banes (see description)
   tags:
   - Bane
@@ -1453,9 +1452,9 @@
     <strong>Special</strong>: In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 - !
   name: Overpowering Strike
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Might: 4
   tags:
   - Physical
@@ -1469,15 +1468,15 @@
      Each time you deal damage using a weapon with the forceful property, you can choose to push the target five feet away from you.
 - !
   name: Natural Defense (I - III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Fortitude: 3
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Fortitude: 5
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Fortitude: 7
   tags:
   - Combat
@@ -1497,9 +1496,9 @@
     </ul>
 - !
   name: Potent Bane
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - Ability to invoke the chosen bane
   tags:
   - Bane
@@ -1512,11 +1511,11 @@
     Choose one bane that you can invoke and that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
 - !
   name: Reactionary Berserker
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Will: 5
-    - Feat:
+      Feat:
       - Berserker
   tags:
   - Combat
@@ -1531,9 +1530,9 @@
     You can enter a rage (as per the berserker feat) as a free action even when it is not your turn. You may choose to rage in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to rage after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your rage take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
 - !
   name: Reckless Frenzy
-  prerequisite:
-  - tier1:
-    - Feat:
+  prerequisites:
+    tier1:
+      Feat:
       - Berserker
   tags:
   - Combat
@@ -1545,9 +1544,9 @@
     While you are raging, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action.  Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
 - !
   name: Resilient
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Fortitude: 3
       - Presence: 3
       - Will: 3
@@ -1563,15 +1562,15 @@
     Any time you make a Resist roll, you have Advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to major action rolls)
 - !
   name: Ritual Magic (I - III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Any Supernatural: 4
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Any Supernatural: 6
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Any Supernatural: 9
   tags:
   - Supernatural
@@ -1621,21 +1620,21 @@
     </ul>
 - !
   name: Skill Specialization (I - V)
-  prerequisite:
-  - tier1:
-    - Other:
+  prerequisites:
+    tier1:
+      Other:
       - None
-  - tier2:
-    - Other:
+    tier2:
+      Other:
       - None
-  - tier3:
-    - Other:
+    tier3:
+      Other:
       - None
-  - tier4:
-    - Other:
+    tier4:
+      Other:
       - None
-  - tier5:
-    - Other:
+    tier5:
+      Other:
       - None
   tags:
   - No Prerequisite
@@ -1648,9 +1647,9 @@
     <strong>Special</strong>: You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
 - !
   name: Silencing Strike
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 4
   tags:
   - Agility
@@ -1663,15 +1662,15 @@
     Whenever you successfully hit a target that you have advantage against, that target is afflicted by the silenced bane.
 - !
   name: Superior Concentration (I - III)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Any Supernatural: 3
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Any Supernatural: 3
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Any Supernatural: 3
   tags:
   - Supernatural
@@ -1683,29 +1682,29 @@
     When you take the <emphasis>sustain a boon</emphasis> minor action, you may sustain one additional boon per tier of this feat which you possess.
 - !
   name: Supernatural Defense (I - V)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Movement: 2
       - Prescience: 2
       - Protection: 2
-  - tier2:
-    - Attribute:
+    tier2:
+      Attribute:
       - Movement: 3
       - Prescience: 3
       - Protection: 3
-  - tier3:
-    - Attribute:
+    tier3:
+      Attribute:
       - Movement: 4
       - Prescience: 4
       - Protection: 4
-  - tier4:
-    - Attribute:
+    tier4:
+      Attribute:
       - Movement: 5
       - Prescience: 5
       - Protection: 5
-  - tier5:
-    - Attribute:
+    tier5:
+      Attribute:
       - Movement: 6
       - Prescience: 6
       - Protection: 6
@@ -1720,9 +1719,9 @@
     You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
 - !
   name: Supernatural Healing
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Creation: 5
   tags:
   - Supernatural
@@ -1735,9 +1734,9 @@
     When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
 - !
   name: Supernatural Focus
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Any Supernatural: 1
   tags:
   - Supernatural
@@ -1749,13 +1748,13 @@
     With the approval of your GM, choose a focus from which your power with a single supernatural attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected supernatural attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
 - !
   name: Tough as Nails (I - II)
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Fortitude: 3
-  - tier2:
-    - Attribute:
-      - Fortitude: 5 
+    tier2:
+      Attribute:
+      - Fortitude: 5
   tags:
   - Defense
   - Physical
@@ -1768,11 +1767,11 @@
     You permanently gain 5 extra hit points per tier of this feat you possess.<br />
 - !
   name: Two Weapon Defense
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Agility: 4
-    - Feat:
+      Feat:
       - Multi-Attack Specialist
   tags:
   - Combat
@@ -1786,9 +1785,9 @@
     When you have a weapon in each hand, you gain a +2 armor bonus. This feat cannot be used in conjunction with a shield.
 - !
   name: Unending Charm
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Influence: 4
   tags:
   - Supernatural
@@ -1802,9 +1801,9 @@
     When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other supernatural effects like a dispel boon can still end the effect (and other methods may work at the GM’s discretion).
 - !
   name: Untrackable
-  prerequisite:
-  - tier1:
-    - Attribute:
+  prerequisites:
+    tier1:
+      Attribute:
       - Alteration: 3
       - Influence: 3
       - Protection: 3
@@ -1821,10 +1820,10 @@
     Your travel is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by supernatural means.
 - !
   name: Vicious Strike
-  prerequisite:
-  - tier1:
-    - Other:
-      - none
+  prerequisites:
+    tier1:
+      Other:
+      - None
   tags:
   - Combat
   cost:
@@ -1835,10 +1834,10 @@
     Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on the subsequent re-roll of the d20 and take the higher result.
 - !
   name: Well-Rounded
-  prerequisite:
-  - tier1:
-    - Other:
-      - none
+  prerequisites:
+    tier1:
+      Other:
+      - None
   tags:
   - Non-Combat
   cost:
@@ -1849,10 +1848,10 @@
     Any time you make a non-attack action roll with an attribute in which you have a score of 2 or less, roll an additional d20 and keep the highest of the two d20s.
 - !
   name: Wealthy
-  prerequisite:
-  - tier1:
-    - Other:
-      - none
+  prerequisites:
+    tier1:
+      Other:
+      - None
   tags:
   - Non-Combat
   cost:
