@@ -527,6 +527,7 @@
     <li><strong>Tier 2</strong> - Your companion's highest attribute equals your level minus 1 (minimum of 4).</li>
     <li><strong>Tier 3</strong> - Your companion's highest attribute equals your level (minimum of 5).</li>
     </ul>
+    <strong>Special:</strong> If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
     <strong>Example</strong>
     Fezzy starts at level one with Companion (Tier II), choosing a wolf for his companion. Based on Fezzy's level and feat tier, his wolf's highest attribute is 4, so he can assign the wolf four attributes at scores 4, 3, 2, and 1. He assigns the following: Agility 4, Perception 3, Might 2, and Fortitude 1. Upon reaching level 2, Fezzy purchases Companion (Tier III), raising the wolf's highest attribute to 5, so Fezzy reassigns the attributes as follows: Perception 5, Agility 4, Might 3, Fortitude 2, Presence 1.
 - !
