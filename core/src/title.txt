@@ -1,0 +1,8 @@
+---
+title: Open Legend - Core Rules
+author:
+- Brian Feister
+- Ish Stabosz
+rights: Open-source Custom License
+language: en-US
+---
