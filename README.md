@@ -11,10 +11,10 @@ The game rules content of this repository are released under a special open-sour
 ## Changelog
 
 **2016 / 09 / 07**
--   Life Drain Bane removed, added to Boons. Heals target for half damage dealt.
+-   Life Drain Bane removed, added to Boons. Heals target for half damage dealt.https://github.com/openlegend/core-rules/commit/edaadbc535a6ee7e0a54558beadd50a0806aaead https://github.com/openlegend/core-rules/commit/aba01147595a80475e846742c229debdceafd09b
 -   New Feats for movement such as Climbing, Swimming and Flying.
 -   Feats that can be lost (Animal Companion, Supernatural Focus) now updated with clause that feat points are regained upon lost feat.
 -   Flanking added as an example of Advantage.
 -   Lucky renamed to Diehard, can now use Fortitude or Presence as prerequisite.
--   Defenses updated. Weapon attacks now target Evasion. New formulas for defenses.
+-   Defenses updated with new formulas. Weapon attacks now target Evasion, Supernatural attacks target most relevant defense.
 -   Might has replaced Fortitude as the prerequisite for wearing armours.
