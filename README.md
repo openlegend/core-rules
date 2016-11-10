@@ -7,3 +7,18 @@ Included here in [YAML format](https://en.wikipedia.org/wiki/YAML) are the rules
 ## License
 
 The game rules content of this repository are released under a special open-source license that offers third party publishers either a [commercial terms license](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-commercial-terms) or a [non-commercial terms license](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-non-commercial-terms)
+
+## Changelog
+
+Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
+
+**2016 / 09 / 07**
+-   Life Drain Bane removed, added to Boons. Heals target for half damage dealt.
+-   New Feats for movement such as Climbing, Swimming and Flying.
+-   Feats that can be lost (Animal Companion, Supernatural Focus, etc) now updated with clause that feat points are regained in the event the item or companion is permanently lost.
+-   Flanking added as an example of Advantage.
+-   Lucky renamed to Diehard, can now use Fortitude or Presence as prerequisite.
+-   Defenses updated with new formulas. Weapon attacks now target Evasion, Supernatural attacks target most relevant defense.
+-   Might has replaced Fortitude as the prerequisite for wearing armours.
+-   Master Shifter feat removed, Boon Focus and Supernatural Focus made it obsolete.
+-   Alteration attribute added to healing boon, definition of healing updated.
