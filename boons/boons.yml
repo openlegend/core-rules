@@ -80,6 +80,43 @@
     <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
     </ul>
 - !
+  name: Barrier
+  tags:
+  - Supernatural
+  power:
+  - 3
+  - 5
+  - 7
+  - 9
+  attribute:
+  - Creation
+  - Energy
+  - Entropy
+  - Protection
+  invocationTime: 1 Major Action
+  duration: Sustain Persists
+  description: |
+    You summon forth a wall of thorns, ring of fire, entropic fog, or similar barrier to hurt or hinder your foes.
+  effect: |
+    When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level:
+    
+    <strong>Power Level 3 - </strong>Choose 1 property: Damaging (1d4), Obscuring, Hindering
+    <strong>Power Level 5 - </strong>Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile
+    <strong>Power Level 7 - </strong>Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable
+    <strong>Power Level 9 - </strong>Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable
+    
+    <strong>Damaging:</strong> A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.
+    
+    <strong>Obscuring:</strong> Creatures cannot see through more than 10' of the barrier.
+    
+    <strong>Hindering:</strong> Creatures move at half speed when travelling within the barrier.
+      
+    <strong>Impassable:</strong> Creatures and objects cannot move through the barrier.
+    
+    <strong>Baneful:</strong> Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
+    
+    <strong>Mobile:</strong> You may spend a standard action to move the barrier up to 30 feet.
+- !
   name: Blindsight
   tags:
   - Supernatural
