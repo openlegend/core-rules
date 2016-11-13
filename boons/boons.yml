@@ -533,7 +533,7 @@
   tags:
   - Supernatural
   power:
-  - 5
+  - 4
   - 6
   - 8
   attribute:
@@ -544,7 +544,7 @@
     You reach out and supernaturally control an unattended inanimate object.
   effect: |
     Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 30'. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The Power Level of the boon determines the size and weight of the objects you may target:
-    <ul><li><strong>Power Level 5</strong> - The object must be smaller or lighter than a fist-sized rock.</li>
+    <ul><li><strong>Power Level 4</strong> - The object must be smaller or lighter than a fist-sized rock.</li>
     <li><strong>Power Level 6</strong> - The object must be smaller or lighter than a large humanoid creature.</li>
     <li><strong>Power Level 8</strong> - The object must be smaller or lighter than a small building, such as a hut or shed.</li>
     </ul>
