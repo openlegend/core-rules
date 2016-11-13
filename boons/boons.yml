@@ -512,7 +512,7 @@
   description: |
     A target's physical structure is temporarily altered, allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
   effect: |
-    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score.  All of the target's existing supernatural attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.  The following limitations apply at Power Level 2, and are gradually removed at higher power levels:
+    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this feat is limited to your level or 5, whichever is lower. All of the target's existing supernatural attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.  The following limitations apply at Power Level 2, and are gradually removed at higher power levels:
     <ul>
     <li>The new form cannot be a different size than that of the target.</li>
     <li>The new form must possess a typical humanoid or animal physiology. Animal-like creatures, such as dragons, are allowed, but plants, elementals, oozes, and similar forms are not.
