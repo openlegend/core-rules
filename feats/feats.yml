@@ -1386,20 +1386,20 @@
   name: Multi-Target Boon Specialist (I – V)
   prerequisites:
     tier1:
-      Attribute:
-      - Any Supernatural: 3
+      Other:
+      - None
     tier2:
-      Attribute:
-      - Any Supernatural: 5
+      Other:
+      - None
     tier3:
-      Attribute:
-      - Any Supernatural: 7
+      Other:
+      - None
     tier4:
-      Attribute:
-      - Any Supernatural: 8
+      Other:
+      - None
     tier5:
-      Attribute:
-      - Any Supernatural: 9
+      Other:
+      - None
   tags:
   - Non-Combat
   - Supernatural
@@ -1419,7 +1419,7 @@
       - Multi-Target Boon Specialist II
   tags:
   - Non-Combat
-  - Supernatural
+  - Any Attribute
   cost:
   - 3
   description: |
