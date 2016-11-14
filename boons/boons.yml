@@ -99,22 +99,22 @@
     You summon forth a wall of thorns, ring of fire, entropic fog, or similar barrier to hurt or hinder your foes.
   effect: |
     When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level:
-    
-    <strong>Power Level 3 - </strong>Choose 1 property: Damaging (1d4), Obscuring, Hindering
-    <strong>Power Level 5 - </strong>Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile
-    <strong>Power Level 7 - </strong>Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable
-    <strong>Power Level 9 - </strong>Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable
-    
+    <ul>
+    <li><strong>Power Level 3 - </strong>Choose 1 property: Damaging (1d4), Obscuring, Hindering</li>
+    <li><strong>Power Level 5 - </strong>Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile</li>
+    <li><strong>Power Level 7 - </strong>Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable</li>
+    <li><strong>Power Level 9 - </strong>Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable</li>
+    </ul>
     <strong>Damaging:</strong> A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.
-    
+    <br>
     <strong>Obscuring:</strong> Creatures cannot see through more than 10' of the barrier.
-    
+    <br>
     <strong>Hindering:</strong> Creatures move at half speed when travelling within the barrier.
-      
+    <br>
     <strong>Impassable:</strong> Creatures and objects cannot move through the barrier.
-    
+    <br>
     <strong>Baneful:</strong> Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
-    
+    <br>
     <strong>Mobile:</strong> You may spend a standard action to move the barrier up to 30 feet.
 - !
   name: Blindsight
@@ -655,5 +655,3 @@
     <li><strong>Power Level 7</strong> - Your supernatural sight pierces through all illusory effects, allowing you to see the illusion for what it is. This supernatural sight extends to 60'.</li>
     <li><strong>Power Level 9</strong> - Your supernatural sight enables you to peer into alternate planes or dimensions. You can see into dimensional pockets and other planes that overlap with the one you're currently on. This supernatural sight extends to 100'.</li>
     </ul>
-
-

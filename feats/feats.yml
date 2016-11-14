@@ -187,7 +187,7 @@
     <li>Calculating hit points, defenses, and other secondary statistics</li>
     <li>Meeting feat, bane, and boon prerequisites</li>
     <li>Other situations at the GM's discretion</li>
-    </il>
+    </ul>
     The relationship formed by your two attributes is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
     <strong>Special</strong>: This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
 - !
@@ -1230,21 +1230,28 @@
     tier1:
       Attribute:
       - Agility: 2
+      - Prescience: 2
     tier2:
       Attribute:
       - Agility: 3
+      - Prescience: 3
     tier3:
       Attribute:
       - Agility: 4
+      - Prescience: 4
     tier4:
       Attribute:
       - Agility: 5
+      - Prescience: 5
     tier5:
       Attribute:
       - Agility: 6
+      - Prescience: 6
   tags:
   - Physical
+  - Supernatural
   - Agility
+  - Prescience
   cost:
   - 1
   description: |
