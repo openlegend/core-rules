@@ -5493,10 +5493,6 @@ As part of your defend action, you may also move up to half of your speed at any
 
 Your hit points (HP) are an abstract measure of your character’s ability to ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. Whenever you take damage, your hit points are reduced, and whenever you receive healing they are increased.
 
-### Reaching Zero Hit Points
-
-When you reach zero HP, you fall unconscious. Your hit points cannot be reduced below zero. While unconscious, you are helpless and any attack made against you counts as a finishing blow. Any healing that you receive to bring your hit points above zero also causes you to regain consciousness.
-
 ### Finishing Blows
 
 When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a **finishing blow** and may cause immediate death. Your defense against a finishing blow does not include your Fortitude or Agility attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you are dead.
