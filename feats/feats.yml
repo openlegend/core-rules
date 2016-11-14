@@ -1230,21 +1230,28 @@
     tier1:
       Attribute:
       - Agility: 2
+      - Prescience: 2
     tier2:
       Attribute:
       - Agility: 3
+      - Prescience: 3
     tier3:
       Attribute:
       - Agility: 4
+      - Prescience: 4
     tier4:
       Attribute:
       - Agility: 5
+      - Prescience: 5
     tier5:
       Attribute:
       - Agility: 6
+      - Prescience: 6
   tags:
   - Physical
+  - Supernatural
   - Agility
+  - Prescience
   cost:
   - 1
   description: |
