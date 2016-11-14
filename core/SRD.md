@@ -5620,7 +5620,7 @@ The simple build option is useful when you need to come up with statistics on th
 
 \NextTableColumns{OLT{.20}OCT{.20}OCT{.20}OCT{.20}OCT{.20}}
 
-| Party Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
+| NPC Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | 10 - 22 | 10 - 18 | 4 | 3 |
 | 2 | 12 - 24 | 11 - 18 | 5 | 3 |
@@ -5700,7 +5700,7 @@ When you decide that one of your monsters or NPCs merits boss status, use the Bo
 
 \NextTableColumns{OLT{.16}OCT{.16}OCT{.17}OCT{.16}OCT{.16}OCT{.16}}
 
-| Party Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
+| Boss Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 40 | 13 - 16 | 6 | 4 | 1 |
 | 2 | 50 | 14 - 17 | 6 | 4 | 1 |
