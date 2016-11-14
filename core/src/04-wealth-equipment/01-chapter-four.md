@@ -149,7 +149,7 @@ Armor provides a bonus to your evasion score, thus reducing or negating the dama
 
 The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to his Might score plus one.
 
-**Defense Bonus** indicates the bonus that your character gains to both his evasion defense.
+**Defense Bonus** indicates the bonus that your character gains to his evasion defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
