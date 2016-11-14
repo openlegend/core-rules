@@ -79,8 +79,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Divination** | Speak telepathically, see the future, detect magic and auras, scry|
 | **Energy** | Create and control the elements - fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
-| **Enchantment** | Control the minds of others, dominate wills, manipulate emotions |
-| **Illusion** | Create illusory figments, deceive the senses, cloak with invisibility |
+| **Influence** | Control the minds of others, speak telepathically, instill supernatural fear, create illusory figments, cloak with invisibility |
 | **Movement** | Teleport, fly, hasten, slow |
 
 In *Open Legend*, you get to define your character’s strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
