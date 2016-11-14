@@ -40,6 +40,41 @@
     <li>Tier 2 – Same attribute points as your main character, and 3 feat points per level.</li>
     </ul>
 - !
+  name: Antimagic (I-V)
+  prerequisites:
+    tier1:
+	  - Will: 3
+	  - Presence: 3
+	  - Protection: 3
+	tier2:
+	  - Will: 4
+	  - Presence: 4
+	  - Protection: 4
+	tier3:
+	  - Will: 5
+	  - Presence: 5
+	  - Protection: 5
+	tier4:
+	  - Will: 6
+	  - Presence: 6
+	  - Protection: 6
+	tier5:
+	  - Will: 7
+	  - Presence: 7
+	  - Protection: 7
+  tags:
+  - Presence
+  - Will
+  - Protection
+  - Combat
+  - Passive
+  cost:
+  - 3
+  description: |
+    You are protected by arcane wards, EMP, luck, or a sheer force of will that allows you to exert influence on the supernatural powers of the universe or cause experimental technology to malfunction when it is directed at you.
+  effect: |
+    For each tier of this feat you possess, attacks, banes, and boons applied to you that originate from supernatural attributes suffer Disadvantage 1. You can choose to activate or deactivate the effects of this feat as a major action.
+- !
   name: Area Manipulation (I - V)
   prerequisites:
     tier1:
@@ -1230,18 +1265,23 @@
     tier1:
       Attribute:
       - Agility: 2
+	  - Prescience: 2
     tier2:
       Attribute:
       - Agility: 3
+	  - Prescience: 3
     tier3:
       Attribute:
       - Agility: 4
+	  - Prescience: 4
     tier4:
       Attribute:
       - Agility: 5
+	  - Prescience: 5
     tier5:
       Attribute:
       - Agility: 6
+	  - Prescience: 6
   tags:
   - Physical
   - Agility
@@ -1520,6 +1560,39 @@
     Your berserker nature is ever-present, waiting to be unleashed at a moment's notice.
   effect: |
     You can enter a rage (as per the berserker feat) as a free action even when it is not your turn. You may choose to rage in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to rage after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your rage take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
+- !
+  name: Reactive Antimagic (I-II)
+  prerequisites:
+    tier1:
+	  Attribute:
+	  - Will: 5
+	  - Presence: 5
+	  - Protection: 5
+	  Feat:
+	  - Antimagic
+	tier2:
+	  Attribute:
+	  - Will: 7
+	  - Presence: 7
+	  - Protection: 7
+	  Feat:
+	  - Antimagic II
+  tags:
+  - Presence
+  - Will
+  - Protection
+  - Combat
+  - Passive
+  cost:
+  - 3
+  description: |
+    You have mastered controlling your ability to suppress incoming magic, allowing you to activate or deactivate your protection against supernatural abilities more quickly.
+  effect: |
+    For each tier of this feat you possess, attacks, banes, and boons applied to you suffer Disadvantage 1. You can choose to activate or deactivate the effects of this feat as a major action.
+	<ul>
+    <li><strong>Tier 1</strong> - You are able to activate or deactivate your antimagic feat's effects as a minor action.</li>
+    <li><strong>Tier 2</strong> - You are able to choose whether or not your antimagic feat's effects apply to any given supernatural attack, bane, or boon targeted at you.</li>
+    </ul>
 - !
   name: Reckless Frenzy
   prerequisites:
