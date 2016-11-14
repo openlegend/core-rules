@@ -12,7 +12,7 @@
 
 *“They come for the Stone,” grunts a dwarf, pulling his axe from the skull of another pig-headed orc. “Just give it to them, and maybe we’ll get out of this alive.”*
 
-*It is an elven maiden, tall and clad in battleworn mail, who replies: “I’ll have no bard sing tales of Gwynilith the Cowardly, who surrendered to orc scum while still she drew breath.”*
+*It is an elven maiden, tall and clad in battleworn mail, who replies: “I’ll have no bard sing tales of Luthiel the Cowardly, who surrendered to orc scum while still she drew breath.”*
 
 *As elf and dwarf bicker, a grey haired man, cloaked in emerald, stands tall atop a boulder at the center of the ruins. His eyes stare distantly, like sharp daggers, at the golden sun landing upon the horizon. With a smirk, he raises his gnarled oaken staff to the sky,
 where the gathering storm clouds crackle with the fury of nature’s electric potential. “Gentleman, lady…” speaks the druid with soft confidence, “I think the winds have turned in our favor.”*
@@ -86,7 +86,7 @@ Add all of the dice together to find your total action roll. If your total is eq
 | is less than the Challenge Rating, | the player succeeds with a twist. <br /> - OR - <br /> *the player fails but the story progresses*. (GM’s Choice) |
 
 > ### Example Action Roll
-> 
+>
 > An adventuring party is traveling through the Darkwood, a forest cursed with malignant energy and cast in shadows at every turn. The party spies a gathering of lights in the distance ahead. At the same time, though, a Shade Demon has crept up behind the heroes. The GM tells Imladril, the elven ranger who is at the back of the marching order, to make a Perception roll against a Challenge Rating of 18. Imladril’s Perception score of 5 grants him a 2d6 bonus to Perception action rolls, so he grabs 1d20 + 2d6 and lets them fly.
 >
 > He rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, Imladril rolls it again and gets a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so she rules that he hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger’s bow out of his hands.
