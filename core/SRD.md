@@ -5328,21 +5328,13 @@ Friends and foes alike that fall within the targeted area will be subject to you
 
 Every attack targets one of your foe’s defenses: toughness, evasion, or resolve.
 
-For weapon attacks, the defense targeted depends on the type of weapon. Weapons with the *forceful* property target the foe’s toughness, while  weapons with the *precise *property target evasion. If you are wielding a weapon that is both *forceful* and *precise*, you get to choose whether to use Agility to target Evasion or Might to target Toughness.
+Weapon attacks always target evasion.
 
-Supernatural attacks are more open-ended and often require the GM to decide the type of defense targeted. In general, however, supernatural melee or area attacks target a foe’s toughness while supernatural projectile attacks target a foe’s evasion.
+Supernatural attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
-##### Standard Defense vs. Attack Types
-
-\NextTableColumns{OCT{.50}OCT{.50}}
-
-| Attack Type | Defense |
-| :- | :- |
-| Precise weapons | Evasion |
-| Forceful weapons | Toughness |
-| Supernatural melee attacks | Toughness |
-| Supernatural area attacks | Toughness |
-| Supernatural projectile attacks | Evasion |
+- **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
+- **Evasion** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
+- **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
 ##### 4. Roll Attack and Calculate Damage
 
