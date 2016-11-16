@@ -18,7 +18,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 **2016 / 11 / 13**
 -   Removed attribute prerequisites for Multi-Target Boon Specialist feat.
 -   Decreased first power level of Telekinesis boon from 5 to 4.
--   Fixed loophole with Boon Access (Shapeshift). Now the Alteration score is limited to character level or 5, whichever is lower.
+-   Fixed loophole with Boon Access (Shapeshift). Now the Alteration score is limited to character level or 5, whichever is higher.
 
 **2016 / 11 / 12**
 -   Closed loophole in Boon Access. Now if the boons has multiple attribute prerequisite options, you choose one attribute when you take this feat.
