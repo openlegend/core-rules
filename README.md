@@ -12,6 +12,20 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+**2016 / 11 / 15**
+-   Added Aura boon.
+
+**2016 / 11 / 13**
+-   Removed attribute prerequisites for Multi-Target Boon Specialist feat.
+-   Decreased first power level of Telekinesis boon from 5 to 4.
+-   Fixed loophole with Boon Access (Shapeshift). Now the Alteration score is limited to character level or 5, whichever is lower.
+
+**2016 / 11 / 12**
+-   Closed loophole in Boon Access. Now if the boons has multiple attribute prerequisite options, you choose one attribute when you take this feat.
+
+**2016 / 11 / 11**
+-   Added Barrier boon.
+
 **2016 / 09 / 07**
 -   Life Drain Bane removed, added to Boons. Heals target for half damage dealt.
 -   New Feats for movement such as Climbing, Swimming and Flying.
