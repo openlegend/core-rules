@@ -836,10 +836,10 @@
   name: Fast Tracker
   prerequisites:
     tier1:
-      Attribute:
-      - Agility: 5
-      Attribute:
-      - Perception: 5
+      - Attribute:
+        - Agility: 5
+      - Attribute:
+        - Perception: 5
   tags:
   - Supernatural
   - Agility
