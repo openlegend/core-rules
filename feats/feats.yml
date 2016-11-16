@@ -879,12 +879,12 @@
       - Agility: 4
       - Fortitiude: 4
       - Movement: 2
-  -tier2:
+    tier2:
       Attribute:
       - Agility: 5
       - Fortitiude: 5
       - Movement: 4
-  -tier3:
+    tier3:
       Attribute:
       - Agility: 7
       - Fortitiude: 7
