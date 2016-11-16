@@ -21,7 +21,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   Fixed loophole with Boon Access (Shapeshift). Now the Alteration score is limited to character level or 5, whichever is higher.
 
 **2016 / 11 / 12**
--   Closed loophole in Boon Access. Now if the boons has multiple attribute prerequisite options, you choose one attribute when you take this feat.
+-   Closed loophole in Boon Access. Now if a boon has multiple attribute prerequisite options, you choose one attribute when you take this feat.
 
 **2016 / 11 / 11**
 -   Added Barrier boon.
