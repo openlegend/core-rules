@@ -520,7 +520,7 @@
   description: |
     Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.
   effect: |
-    Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action. <br />
+    Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
   special: |
     If you meet the Movement 4 prerequisite, you can use the Teleport boon instead of a normal move.
 - !
@@ -934,7 +934,7 @@
   description: |
     Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than the average joe.
   effect: |
-    Your speed is permanently increased by 5' per tier of this feat.<br />
+    Your speed is permanently increased by 5' per tier of this feat.
   special: |
 - !
   name: Flying
@@ -1503,7 +1503,7 @@
   description: |
     You have mastered a signature attack that allows you to invoke two banes at once. A blast of ice that blinds and slows your enemy, a thunderous shotgun blast that hurls foes back and knocks them to the ground, and a wormtongue song that puts targets to sleep and alters their memory are all examples of a signature attack that could be created with this feat.
   effect: |
-    Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.<br />
+    Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
   special: |
     In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 - !
@@ -1706,7 +1706,7 @@
   description: |
     You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similar exceptional non-combat talent.
   effect: |
-    Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.<br />
+    Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
   special: |
     You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
 - !
@@ -1849,7 +1849,7 @@
   description: |
     You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes.
   effect: |
-    You permanently gain 5 extra hit points per tier of this feat you possess.<br />
+    You permanently gain 5 extra hit points per tier of this feat you possess.
   special: |
 - !
   name: Two Weapon Defense
