@@ -502,9 +502,9 @@
   description: |
     You are able to decimate many enemies in quick succession, like a legendary Samurai warrior or matchless elven archer.
   effect: |
-    Any time you make an attack that reduces a foe to zero hit points or less, you can immediately make an extra attack as a free action. <br />
-    <strong>Requirement</strong> - The triggering attack must be a Might or Agility action roll.
+    Any time you make an attack that reduces a foe to zero hit points or less, you can immediately make an extra attack as a free action.
   special: |
+    The triggering attack must be a Might or Agility action roll.
 - !
   name: Combat Momentum
   prerequisites:
@@ -1797,7 +1797,7 @@
   description: |
     Your supernatural power stems from your connection with a particular focus, such as a wand, holy symbol, or spellbook.
   effect: |
-    With the approval of your GM, choose a focus from which your power with a single supernatural attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected supernatural attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.). 
+    With the approval of your GM, choose a focus from which your power with a single supernatural attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected supernatural attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
   special: |
     If you ever lose your supernatural focus, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
 - !
