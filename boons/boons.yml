@@ -362,9 +362,7 @@
   description: |
     You vanish from the visible spectrum, either through magical control of light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
   effect: |
-    <ul>
-    <li><strong>Power Level 6</strong> - Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.</li>
-    </ul>
+    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.
   special: |
 - !
   name: Life Drain
