@@ -13,6 +13,7 @@
     You are able to supernaturally absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space to hide it.
   effect: |
     The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your body as if you had withdrawn it to your hand.
+  special: |
 - !
   name: Aid
   tags:
@@ -38,6 +39,7 @@
     <li><strong>Power Level 6</strong> - Advantage 2</li>
     <li><strong>Power Level 8</strong> - Advantage 3</li>
     </ul>
+  special: |
 - !
   name: Animation
   tags:
@@ -57,6 +59,7 @@
     <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating.</li>
     <li><strong>Power Level 8</strong> - You can animate a group of creatures:  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5.</li>
     </ul>
+  special: |
 - !
   name: Aura
   tags:
@@ -91,7 +94,8 @@
     <li><strong>If the aura radiates a bane,</strong> then the target of the aura is not affected by it. All other creatures (friend or foe) who willingly enter the area of the aura or end their turn within it suffer a bane attack to inflict the chosen bane. No creature may be subject to a bane attack from the same creature's aura more than once per round.</li>
     <li><strong>If the aura radiates a boon,</strong> then the target of the aura is also affected by it. The target and all allies who end their turn within the area of the aura automatically gain the chosen boon. Upon leaving the area of the aura, the boon is immediately removed. No creature may gain a boon from the same creature's aura more than once per round.</li>
     </ul>
-    <strong>Special:</strong> This boon may require special attention and adjudication from the GM, as not all banes and boons may abe an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
+  special: |
+    This boon may require special attention and adjudication from the GM, as not all banes and boons may abe an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
 - !
   name: Augury
   tags:
@@ -114,6 +118,7 @@
     <li><strong>Power Level 5</strong> - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek.  You can only ask one question about a given target per week.</li>
     <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
     </ul>
+  special: |
 - !
   name: Barrier
   tags:
@@ -151,6 +156,7 @@
     <strong>Baneful:</strong> Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
     <br>
     <strong>Mobile:</strong> You may spend a standard action to move the barrier up to 30 feet.
+  special: |
 - !
   name: Blindsight
   tags:
@@ -169,6 +175,7 @@
     Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or supernaturally heightened senses.
   effect: |
     The Blinded bane does not adversely affect you and you are able to see normally even in conditions of little or no light.  Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
+  special: |
 - !
   name: Darkness
   tags:
@@ -192,6 +199,7 @@
     You create an area of illusory darkness or entropic energy that snuffs out all light.
   effect: |
     Choose a space or object within range. Darkness emanates from the target to a radius equal five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc) are unaffected. If the darkness area overlaps an area affected by the Light boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+  special: |
 - !
   name: Detection
   tags:
@@ -213,7 +221,8 @@
     <li><strong>Death</strong> - Necromancers, undead, and murderers all radiate an aura of death.  For undead, the aura is constant, since the power of death and magic is what animates them.</li>
     <li><strong>Magic</strong> - Magical auras surround objects or places imbued with magical effects. Supernatural creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.</li>
     </ul>
-    <strong>Special</strong>: Unlike other boons, this boon can not target another character. Only the character invoking the boon can see the auras.
+  special: |
+    Unlike other boons, this boon can not target another character. Only the character invoking the boon can see the auras.
 - !
   name: Flight
   tags:
@@ -236,6 +245,7 @@
     <li><strong>Power Level 8</strong> - The granted flight speed increases to 60'.</li>
     </ul>
     If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
+  special: |
 - !
   name: Genesis
   tags:
@@ -256,6 +266,7 @@
     <li><strong>Power Level 7</strong> - You can create organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. The invocation time for this application is 8 hours.</li>
     <li><strong>Power Level 9</strong> - You can create not just raw materials, but crafted items - though a craftsman is still required to work anything into an exceptional quality. The invocation time for this application is 1 hour per cubic foot of the finished item.</li>
     </ul>
+  special: |
 - !
   name: Haste
   tags:
@@ -279,6 +290,7 @@
     <li><strong>Power Level 6</strong> - The target's speed is increased by 15'. Attacks against the target's Evasion defense suffer disadvantage 2. The target gains an extra major action every round.</li>
     <li><strong>Power Level 8</strong> - The target's speed is increased by 25'. Attacks against the target's Evasion defense suffer disadvantage 3. The target gains an extra major action every round.</li>
     </ul>
+  special: |
 - !
   name: Heal
   tags:
@@ -305,7 +317,6 @@
     Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or supernatural creative life force, OR the inspiration of an ally to carry on, even in the face of death.
   effect: |
     Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
-    <strong>Special:</strong> This boon does not heal lethal damage.
     <ul>
     <li><strong>Power Level 1</strong> - Heal 1d4 </li>
     <li><strong>Power Level 2</strong> - Heal 1d6 </li>
@@ -317,6 +328,8 @@
     <li><strong>Power Level 8</strong> - Heal 3d8 </li>
     <li><strong>Power Level 9</strong> - Heal 3d10 </li>
     </ul>
+  special: |
+    This boon does not heal lethal damage.
 - !
   name: Insubstantial
   tags:
@@ -334,6 +347,7 @@
     The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (30' for most characters).
     If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
     The target becomes immune to all attacks that target either Evasion or Toughness, however, they also cannot deliver any attacks that target Evasion or Toughness.
+  special: |
 - !
   name: Invisible
   tags:
@@ -351,6 +365,7 @@
     <ul>
     <li><strong>Power Level 6</strong> - Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.</li>
     </ul>
+  special: |
 - !
   name: Life Drain
   tags:
@@ -365,6 +380,7 @@
     Like the bite of a vampire or the soul draining touch of a black mage, you can steal the very lifeforce of your foes.
   effect: |
     While this boon persists, the target heals half (round up) of the damage he inflicts with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.
+  special: |
 - !
   name: Light
   tags:
@@ -388,6 +404,7 @@
     You light up an area with magical light from a point of your choice
   effect: |
     Choose a space or object within range. Supernatural light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+  special: |
 - !
   name: Reading
   tags:
@@ -413,6 +430,7 @@
     <li><strong>Power Level 8</strong> - Choose one: You see a vision of the most recent significant event that took place in close proximity to the target - OR - you ask whether or not a specific event you are aware of is impressed upon the target.</li>
     <li><strong>Power Level 9</strong> - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.</li>
     </ul>
+  special: |
 - !
   name: Regeneration
   tags:
@@ -432,7 +450,6 @@
     The target gains a supernatural ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
     While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon, and the dice rolled for healing explode as usual.
-    <strong>Special:</strong> This boon does not heal lethal damage.
     <ul>
     <li><strong>Power Level 1</strong> - 1d4 </li>
     <li><strong>Power Level 3</strong> - 1d6 </li>
@@ -440,6 +457,8 @@
     <li><strong>Power Level 7</strong> - 1d10 </li>
     <li><strong>Power Level 9</strong> - 2d6 </li>
     </ul>
+  special: |
+    This boon does not heal lethal damage.
 - !
   name: Resistance
   tags:
@@ -465,6 +484,7 @@
     <li><strong>Power Level 5</strong> - Your defense scores are increased by 6 against the chosen attack type.</li>
     <li><strong>Power Level 7</strong> - Your defense scores are increased by 9 against the chosen attack type.</li>
     <li><strong>Power Level 9</strong> - You are immune to damage and harmful effects from the chosen attack type.</li></ul>
+  special: |
 - !
   name: Restoration
   tags:
@@ -480,6 +500,7 @@
     Your protective magic cancels all harmful afflictions that are effecting an ally.
   effect: |
     Make a roll using the attribute used for invoking this boon. You can dispel all banes affecting the target of a maximum Power Level equal to (roll - 10) ÷ 2.
+  special: |
 - !
   name: Retributive Barrier
   tags:
@@ -507,6 +528,7 @@
     <li><strong>Power Level 7</strong> - d10 damage </li>
     <li><strong>Power Level 8</strong> - 2d6 damage </li>
     </ul>
+  special: |
 - !
   name: Seeing
   tags:
@@ -528,7 +550,8 @@
     <li><strong>Power Level 5</strong> - The ally must be within 1 mile. </li>
     <li><strong>Power Level 6</strong> - The ally must be anywhere on the same plane of existence. </li>
     </ul>
-    <strong>Special</strong>: If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.
+  special: |
+    If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.
 - !
   name: Shapeshift
   tags:
@@ -562,7 +585,8 @@
     <li><strong>Power Level 7</strong> - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.</li>
     <li><strong>Power Level 8</strong> - Shapeshift into a creature of any size. </li>
     <li><strong>Power Level 9</strong> - Gain all supernatural attributes possessed by the target. </li></ul>
-    <strong>Special</strong>: Shapeshifting into a specific creature (attempting to impersonate them) requires a Deception action roll which is opposed by Perception attribute of anyone who sees the shapeshifted creature. In addition, at power levels 4 and lower, the target does not gain mastery over any special movement modes granted by the new form. As such, the movement speed is cut in half for movement modes not native to the original form, and the GM may rule that certain actions, such as swimming in combat, suffer disadvantage on relevant action rolls.
+  special: |
+    Shapeshifting into a specific creature (attempting to impersonate them) requires a Deception action roll which is opposed by Perception attribute of anyone who sees the shapeshifted creature. In addition, at power levels 4 and lower, the target does not gain mastery over any special movement modes granted by the new form. As such, the movement speed is cut in half for movement modes not native to the original form, and the GM may rule that certain actions, such as swimming in combat, suffer disadvantage on relevant action rolls.
 - !
   name: Telekinesis
   tags:
@@ -583,6 +607,7 @@
     <li><strong>Power Level 6</strong> - The object must be smaller or lighter than a large humanoid creature.</li>
     <li><strong>Power Level 8</strong> - The object must be smaller or lighter than a small building, such as a hut or shed.</li>
     </ul>
+  special: |
 - !
   name: Telepathy
   tags:
@@ -606,6 +631,7 @@
     <li><strong>Power Level 6</strong> - You can create a mental relay between yourself and up to five other creatures allowing each of them to communicate with the rest of the group simultaneously.</li>
     <li><strong>Power Level 7</strong> - You can communicate telepathically with any number of creatures that you can see.</li>
     </ul>
+  special: |
 - !
   name: Teleport
   tags:
@@ -628,6 +654,7 @@
     <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleoport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
     <li><strong>Power Level 9</strong> - Using the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
     </ul>
+  special: |
 - !
   name: Tongues
   tags:
@@ -646,6 +673,7 @@
     <li><strong>Power Level 5</strong> - You can understand and speak a language of your choice.</li>
     <li><strong>Power Level 6</strong> - You can read a language of your choice.</li>
     </ul>
+  special: |
 - !
   name: Transmutation
   tags:
@@ -670,6 +698,7 @@
     <li><strong>Power Level 7</strong> - <em>Permanently</em> transmute an object into another object of the same size and weight. <em>Temporarily</em> transmute an object into another object of the same size and 200% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 200% greater or lesser size.</li>
     <li><strong>Power Level 8</strong> - <em>Permanently</em> transmute an object into another object of up to 200% difference in size or weight. <em>Temporarily</em> transmute a living creature into another creature of the same size.</li>
     <li><strong>Power Level 9</strong> - <em>Temporarily</em> transmute a living creature into a non-living object of the same size, or vice-versa. <em>Temporarily</em> transmute a living creature into another creature of ANY size.</li></ul>
+  special: |
 - !
   name: Truesight
   tags:
@@ -690,3 +719,4 @@
     <li><strong>Power Level 7</strong> - Your supernatural sight pierces through all illusory effects, allowing you to see the illusion for what it is. This supernatural sight extends to 60'.</li>
     <li><strong>Power Level 9</strong> - Your supernatural sight enables you to peer into alternate planes or dimensions. You can see into dimensional pockets and other planes that overlap with the one you're currently on. This supernatural sight extends to 100'.</li>
     </ul>
+  special: |
