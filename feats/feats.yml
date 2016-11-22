@@ -15,7 +15,6 @@
     Ageless and supernatural, you have either unlocked a mystical secret to immortality, become a legendary defender, transformed into an avatar of nature, or been granted immunity to the ravages of time by some higher power.
   effect: |
     Rooted in a superantural means of your choice, you become immune to the passage of time and the effects of old age. You do not age and cannot be harmed by magic that causes aging. You can choose to age in appearance, if you wish, but you can also choose to continually appear the same age.
-  special: |
 - !
   name: Alternate Form (I - II)
   prerequisites:
@@ -40,7 +39,6 @@
     <li>Tier 1 – Half of your main character's attribute points (rounded up), and 3 feat points.</li>
     <li>Tier 2 – Same attribute points as your main character, and 3 feat points per level.</li>
     </ul>
-  special: |
 - !
   name: Area Manipulation (I - V)
   prerequisites:
@@ -68,7 +66,6 @@
     You are exceptionally precise when making area attacks, allowing you to avoid allies who would otherwise be caught in the line of fire.
   effect: |
     For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.
-  special: |
 - !
   name: Armor Mastery (I - III)
   prerequisites:
@@ -94,7 +91,6 @@
     <li>Tier 2 - The Might prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
     <li>Tier 3 - The Might prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3. Any movement penalty is reduced by 10 feet.</li>
     </ul>
-  special: |
 - !
   name: Attack Redirection
   prerequisites:
@@ -109,7 +105,6 @@
     You are adept at redirecting your enemy's attacks. Whether using fancy footwork, magical force, or tactical superiority, you can use your opponents' attacks against themselves.
   effect: |
     When you make a Defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
-  special: |
 - !
   name: Attack Specialization (I - IX)
   prerequisites:
@@ -214,7 +209,6 @@
     You are specialized in the use of a particular bane that is iconic to your character.
   effect: |
     Choose a bane that you can invoke. When making a damaging attack, you can inflict this bane for free when you deal at least 5 points of damage (as opposed to the usual 10). Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
-  special: |
 - !
   name: Battlefield Defender
   prerequisites:
@@ -235,7 +229,6 @@
     Your prowess on the battlefield allows you to punish your enemies for every misplaced step.
   effect: |
     When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
-  special: |
 - !
   name: Battlefield Punisher - Knockdown
   prerequisites:
@@ -255,7 +248,6 @@
     Not only are your battle reflexes uncanny, but you can deal knockdown blows with your defensive strikes.
   effect: |
     If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Knockdown bane. If the attack hits, the remainder of the target's movement is cancelled until the start of its next turn.
-  special: |
 - !
   name: Battlefield Punisher - Slowed
   prerequisites:
@@ -277,7 +269,6 @@
     Not only are your battle reflexes uncanny, but you can deal slowing blows with your defensive strikes.
   effect: |
     If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane.  If the attack hits and the target has already moved more than 2 squares, the remainder of their movement is cancelled until the start of their next turn.
-  special: |
 - !
   name: Battlefield Punisher - Stunned
   prerequisites:
@@ -299,7 +290,6 @@
     Not only are your battle reflexes uncanny, but you can deal stunning blows with your defensive strikes.
   effect: |
     If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Stunned bane. If the target has taken any action prior to this attack, any remaining actions are cancelled by the Stunned bane until the start of the target's next turn.
-  special: |
 - !
   name: Battlefield Sentinel (I - V)
   prerequisites:
@@ -345,7 +335,6 @@
     Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat.
   effect: |
     You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened square).
-  special: |
 - !
   name: Berserker
   prerequisites:
@@ -360,7 +349,6 @@
     You can enter a rage-induced, trance-like state in which your body is strengthened and your mind transcends fear and pain.
   effect: |
     As a free action on your turn, you may enter a rage. While raging, you have advantage 1 on all attacks. Additionally, if you are not wearing armor, all of your defense scores are increased by 5. If you take three consecutive turns without making an attack roll against a creature, the rage ends. When the rage ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
-  special: |
 - !
   name: Boon Access
   prerequisites:
@@ -417,7 +405,6 @@
       <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke it when multi-targeting.
     </li>
     </ul>
-  special: |
 - !
   name: Breakfall (I - IX)
   prerequisites:
@@ -455,7 +442,6 @@
     Your agility enables you to fall from deadly heights unharmed.
   effect: |
     When calculating falling damage, reduce the falling distance by 10 feet per tier of this feat that you possess. Once you reach tier 9, you can fall any distance without taking damage.
-  special: |
 - !
   name: Brutal Intimidation
   prerequisites:
@@ -470,7 +456,6 @@
     Your powers of persuasion stem from application of brute force rather than your social grace.
   effect: |
     If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.
-  special: |
 - !
   name: Climbing
   prerequisites:
@@ -485,7 +470,6 @@
     You gain the ability to climb effortlessly, as is found in certain vampires, aberrant creatures, and insects.
   effect: |
     You gain a climb speed equal to your base speed and can scale horizontal and vertical surfaces, even climb upside-down, with no fear of falling.
-  special: |
 - !
   name: Combat Follow-through
   prerequisites:
@@ -590,7 +574,6 @@
     <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins</li>
     <li>Herbalism - poultices, natural remedies, stimulants, brewing</li>
     </ul>
-  special: |
 - !
   name: Craft Beneficial or Baleful Item (I - III)
   prerequisites:
@@ -640,7 +623,6 @@
     </li>
     <li><strong>Tier 3</strong> - You can imbue human-like sentience into the item, it gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.</li>
     </ul>
-  special: |
 - !
   name: Crushing Blow
   prerequisites:
@@ -660,7 +642,6 @@
     Your relentless blows not only knock your opponents back, but also knock them off their feet completely.
   effect: |
     Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the square where the forced move ends; the target suffers the effects of the knockdown bane.
-  special: |
 - !
   name: Death Blow (I – III)
   prerequisites:
@@ -692,7 +673,6 @@
     <li><strong>Tier 2</strong> – Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, provided you have a hand free to cover their mouth or use a garrote (or similar strangling implement), the Silenced bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
     <li><strong>Tier 3</strong> – Your death blow HP threshold increases from 10 to 15. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
     </ul>
-  special: |
 - !
   name: Deathless Berserker
   prerequisites:
@@ -709,7 +689,6 @@
     Your battle fury is legendary, allowing you to fight on long after your body should have given up.
   effect: |
     While you are raging you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the rage. When the rage ends, if your hit points are below zero, you collapse unconscious.  If you are not healed to zero or more hit points within 1 round of your rage ending, you die.
-  special: |
 - !
   name: Destructive Berserker
   prerequisites:
@@ -727,7 +706,6 @@
     Your rage not only puts you into a fearless trance, but enables you to strike down your enemies with ferocious blows.
   effect: |
     While you are raging, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
-  special: |
 - !
   name: Defensive Reflexes (I - X)
   prerequisites:
@@ -770,7 +748,6 @@
     You are a master of defense, able to predict exactly where your opponent will strike and thwart their attack.
   effect: |
     Any time you use the Defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
-  special: |
 - !
   name: Diehard
   prerequisites:
@@ -787,7 +764,6 @@
     Whether luck shines upon you or you're just really hard to kill you have a knack for staying in the fight when others would suffer a much worse fate.
   effect: |
     Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
-  special: |
 - !
   name: Disease Immunity
   prerequisites:
@@ -803,7 +779,6 @@
     Your inherent magical protection extends to make you immune to disease.
   effect: |
     You are immune to natural disease. This protection does not guard against magical curses such as lycanthropy.
-  special: |
 - !
   name: Energy Resistance (I - III)
   prerequisites:
@@ -832,7 +807,6 @@
       <li><strong>Tier 2</strong> - Your defense scores gain a total of  +10 vs. attacks of the chosen energy type.</li>
       <li><strong>Tier 3</strong> - You are immune to damage from attacks of the chosen energy type.</li>
       </ul>
-  special: |
 - !
   name: Entranced Berserker
   prerequisites:
@@ -849,7 +823,6 @@
     In the heat of combat, your will becomes indomitable.
   effect: |
     While you are raging, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your rage and returns when your rage ends.
-  special: |
 - !
   name: Evasive Footwork
   prerequisites:
@@ -864,7 +837,6 @@
     You are able to dodge and weave in combat, deftly sidestepping attacks that would strike a clumsier combatant.
   effect: |
     When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
-  special: |
 - !
   name: Fast Tracker
   prerequisites:
@@ -883,7 +855,6 @@
     Your tracking expertise is so great that you can move at a normal pace and still follow a trail.
   effect: |
     You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred at the GM's discretion.
-  special: |
 - !
   name: Ferocious Minions
   prerequisites:
@@ -905,7 +876,6 @@
     Creatures that you’ve magically compelled become even stronger when fighting in your defense or under your command.
   effect: |
     Creatures under the effects of your Charmed or Dominated bane gain advantage 1 on all attack rolls to defend or help you for each tier of this feat you possess.
-  special: |
 - !
   name: Fleet of Foot (I – III)
   prerequisites:
@@ -935,7 +905,6 @@
     Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than the average joe.
   effect: |
     Your speed is permanently increased by 5' per tier of this feat.
-  special: |
 - !
   name: Flying
   prerequisites:
@@ -950,7 +919,6 @@
     Whether through a pair of celestial or infernal wings, an inherent telekinetic power, or something unexplainable that you're born with, you have an inherent ability to fly
   effect: |
     You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, an Immobile bane might render your wings immovable, if telekinetic, an application of the Dispel bane may cancel your flight.
-  special: |
 - !
   name: Great Leap (I – III)
   prerequisites:
@@ -979,7 +947,6 @@
     Through supernatural power or exceptional agility, you can jump exceptionally far.
   effect: |
     You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
-  special: |
 - !
   name: Fast Draw
   prerequisites:
@@ -995,7 +962,6 @@
     Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.
   effect: |
     Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
-  special: |
 - !
   name: Hallucination
   prerequisites:
@@ -1012,7 +978,6 @@
     You are able to use your powers of illusion to not only create phantasmal figments, but to completely dominate the sensory perceptions of individual targets.
   effect: |
     When you invoke the Phantasm bane, you may choose to create a hallucination within a target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the Power Level of your bane), and are thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature, and thus is not eligible for multi-targeting attacks.
-  special: |
 - !
   name: Hallucination (Mass)
   prerequisites:
@@ -1036,7 +1001,6 @@
     <li><strong>Influence 8</strong> - 10 Targets</li>
     <li><strong>Influence 9</strong> - 50 Targets</li>
     </ul>
-  special: |
 - !
   name: Heavy Weapon Master
   prerequisites:
@@ -1056,7 +1020,6 @@
     Due to your strength and training, you are able to wield exceptionally heavy weapons with ease.
   effect: |
     You can wield two-handed melee weapons in one hand. When you do, you still gain the usual advantage granted by two-handed weapons.
-  special: |
 - !
   name: Hospitaler
   prerequisites:
@@ -1078,7 +1041,6 @@
     Through inspiring words, magical healing, or advanced medical technique, you are exceptionally skilled at helping others shake off baneful afflictions.
   effect: |
     You can use a major action to give an ally an immediate Resist roll (a free action for the ally). The ally gains a special form of advantage on this roll, allowing them to roll 2d20 and keep the highest. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
-  special: |
 - !
   name: Hunter's Foe (I - IX)
   prerequisites:
@@ -1118,7 +1080,6 @@
     You are expertly focused on dealing with a particular species, race, or faction.
   effect: |
     Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, You gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
-  special: |
 - !
   name: Indomitable Endurance (I - IX)
   prerequisites:
@@ -1157,7 +1118,6 @@
     Your endurance is legendary, allowing you to push on when others would keel over from exhaustion.
   effect: |
     You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determining the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
-  special: |
 - !
   name: Inspiring Champion (I - III)
   prerequisites:
@@ -1185,7 +1145,6 @@
     <li><strong>Tier 2</strong> - A number of allies equal to your Presence score who can see the attack heal 1d4 HP.</li>
     <li><strong>Tier 3</strong> - All allies who can see the attack heal 2d4 HP.</li>
     </ul>
-  special: |
 - !
   name: Knowledge (I - III)
   prerequisites:
@@ -1214,7 +1173,6 @@
     <li><strong>Tier 2</strong> -  You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 22 or lower. For higher CRs, your Learning attribute is considered to be 6 for the action roll unless your Learning score is already 6 or higher, in which case you gain advantage 1 on the roll.</li>
     <li><strong>Tier 3</strong> -  You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 26 or lower. For higher CRs, your Learning attribute is considered to be 8 for the action roll unless your Learning score is already 8 or higher, in which case you gain advantage 1 on the roll.</li>
     </ul>
-  special: |
 - !
   name: Lethal Strike (I – IX)
   prerequisites:
@@ -1271,7 +1229,6 @@
     <li><strong>Tier 8</strong> - Advantage 8. Up to 25 lethal damage</li>
     <li><strong>Tier 9</strong> - Advantage 9. Up to 25 lethal damage</li>
     </ul>
-  special: |
 - !
   name: Lightning Reflexes (I - V)
   prerequisites:
@@ -1306,7 +1263,6 @@
     You are always ready for danger, allowing you to easily get the drop on your foes.
   effect: |
     For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
-  special: |
 - !
   name: Marksman (I - III)
   prerequisites:
@@ -1327,7 +1283,6 @@
     You are an expert at using a specific ranged weapon, your familiarity makes you deadlier at longer ranges.
   effect: |
     Choose a ranged weapon. In your hands, the range of that weapon is increased by 5 squares.
-  special: |
 - !
   name: Martial Focus
   prerequisites:
@@ -1344,7 +1299,6 @@
     Like a kensai warrior devoted to mastery of her katana or an assassin who exclusively wields his favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
   effect: |
     Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: agility or might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any attacks that you make which do not use your martial focus suffer disadvantage 1.
-  special: |
 - !
   name: Master Tracker
   prerequisites:
@@ -1361,7 +1315,6 @@
     Your skill at tracking and hunting your quarry is unmatched, allowing you to follow trails long after others would have lost them.
   effect: |
     Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up.  Only magically concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
-  special: |
 - !
   name: Mimic
   prerequisites:
@@ -1380,7 +1333,6 @@
     You have honed your shapeshifting abilities to be able to not only change your form, but to even imitate specific creatures. Your powers may stem from studying the arts of deceptive magic, from a gene mutation, or even from innate supernatural abilities.
   effect: |
     When you use the alternate form feat, you may take the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 + twice your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
-  special: |
 - !
   name: Multi-Attack Specialist (I – VI)
   prerequisites:
@@ -1415,7 +1367,6 @@
 
     <strong>EXAMPLE</strong>
     Vax the Deathbringer has Multi Attack Specialist (Tier VI). He declares that he will be making three attacks this round. Therefore, all of his attacks suffer disadvantage 3 (3 x 3 = 9, minus 6 for feat tier 6). His first attack is a necromantic burst targeting a 10'-square. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindness on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
-  special: |
 - !
   name: Multi-Target Attack Specialist (I – V)
   prerequisites:
@@ -1442,7 +1393,6 @@
     You are a master of felling multiple foes at a time, whether it be with a whirlwind of your blade, a hail of arrows, or a ball of flame.
   effect: |
     When you choose this feat, you must decide to focus in area, projectile, or melee attacks.  For each tier, you reduce the disadvantage penalty associated with multi-attacks for your chosen attack type by 1. Whenever you take this feat, you must specify which type of attack you are focusing on, and you may take the feat multiple times to specialize in multiple types of attack.
-  special: |
 - !
   name: Multi-Target Boon Specialist (I – V)
   prerequisites:
@@ -1470,7 +1420,6 @@
     You are a master of invoking boons for more than one target.
   effect: |
     For each tier of this feat, you reduce the disadvantage penalty associated with invoking boons for multiple targets by 1.
-  special: |
 - !
   name: Multi-Target Boon Expert
   prerequisites:
@@ -1488,7 +1437,6 @@
     You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly.
   effect: |
     When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
-  special: |
 - !
   name: Multi-Bane Specialist
   prerequisites:
@@ -1522,7 +1470,6 @@
     The sheer force of your attacks is so great that you send opponents flying.
   effect: |
      Each time you deal damage using a weapon with the forceful property, you can choose to push the target five feet away from you.
-  special: |
 - !
   name: Natural Defense (I - III)
   prerequisites:
@@ -1551,7 +1498,6 @@
     <li><strong>Tier 2</strong> - +4 armor bonus</li>
     <li><strong>Tier 3</strong> - +6 armor bonus</li>
     </ul>
-  special: |
 - !
   name: Potent Bane
   prerequisites:
@@ -1567,7 +1513,6 @@
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
     Choose one bane that you can invoke and that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
-  special: |
 - !
   name: Reactionary Berserker
   prerequisites:
@@ -1587,7 +1532,6 @@
     Your berserker nature is ever-present, waiting to be unleashed at a moment's notice.
   effect: |
     You can enter a rage (as per the berserker feat) as a free action even when it is not your turn. You may choose to rage in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to rage after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your rage take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
-  special: |
 - !
   name: Reckless Frenzy
   prerequisites:
@@ -1602,7 +1546,6 @@
     By willingly punishing your own body, you can enter a raging frenzy that allows you to launch a relentless onslaught of attacks.
   effect: |
     While you are raging, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action.  Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
-  special: |
 - !
   name: Resilient
   prerequisites:
@@ -1621,7 +1564,6 @@
     Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
   effect: |
     Any time you make a Resist roll, you have Advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to major action rolls)
-  special: |
 - !
   name: Ritual Magic (I - III)
   prerequisites:
@@ -1680,7 +1622,6 @@
     <li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.</li>
     <li><strong>Dispel Bane</strong> - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.</li>
     </ul>
-  special: |
 - !
   name: Skill Specialization (I - V)
   prerequisites:
@@ -1724,7 +1665,6 @@
     Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence.
   effect: |
     Whenever you successfully hit a target that you have advantage against, that target is afflicted by the silenced bane.
-  special: |
 - !
   name: Superior Concentration (I - III)
   prerequisites:
@@ -1745,7 +1685,6 @@
     Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple supernatural effects at once.
   effect: |
     When you take the <emphasis>sustain a boon</emphasis> minor action, you may sustain one additional boon per tier of this feat which you possess.
-  special: |
 - !
   name: Supernatural Defense (I - V)
   prerequisites:
@@ -1783,7 +1722,6 @@
     Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with supernatural protection from harm.
   effect: |
     You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
-  special: |
 - !
   name: Supernatural Focus
   prerequisites:
@@ -1815,7 +1753,6 @@
     Your mastery of supernatural healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
   effect: |
     When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
-  special: |
 - !
   name: Swimming
   prerequisites:
@@ -1830,7 +1767,6 @@
     You are made for the  water and can swim at surprising speeds, with the aptitude of a fish.
   effect: |
     You gain a swimming speed equal to your base speed and do not need to make any special action rolls to maintain this base speed.
-  special: |
 - !
   name: Tough as Nails (I - II)
   prerequisites:
@@ -1850,7 +1786,6 @@
     You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes.
   effect: |
     You permanently gain 5 extra hit points per tier of this feat you possess.
-  special: |
 - !
   name: Two Weapon Defense
   prerequisites:
@@ -1869,7 +1804,6 @@
     Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well with your off-hand weapon.
   effect: |
     When you have a weapon in each hand, you gain a +2 armor bonus. This feat cannot be used in conjunction with a shield.
-  special: |
 - !
   name: Unending Charm
   prerequisites:
@@ -1886,7 +1820,6 @@
     Your charm is so potent that your victims may become permanently enthralled by you.
   effect: |
     When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other supernatural effects like a dispel boon can still end the effect (and other methods may work at the GM’s discretion).
-  special: |
 - !
   name: Untrackable
   prerequisites:
@@ -1906,7 +1839,6 @@
     Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are supernaturally protected from being tracked.
   effect: |
     Your travel is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by supernatural means.
-  special: |
 - !
   name: Vicious Strike
   prerequisites:
@@ -1921,7 +1853,6 @@
     Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
   effect: |
     Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on the subsequent re-roll of the d20 and take the higher result.
-  special: |
 - !
   name: Well-Rounded
   prerequisites:
@@ -1936,7 +1867,6 @@
     You have a versatile education, a wide range of experiences, or just plain old good luck. The result is that you're pretty good at things you're not specialized in.
   effect: |
     Any time you make a non-attack action roll with an attribute in which you have a score of 2 or less, roll an additional d20 and keep the highest of the two d20s.
-  special: |
 - !
   name: Wealthy
   prerequisites:
@@ -1951,4 +1881,3 @@
     Whether you were born into nobility, heir to a great treasure, or simply a well-established merchant, you are wealthier than the average adventurer.
   effect: |
     Your wealth score is increased by 1.
-  special: |
