@@ -467,13 +467,22 @@
     <li><strong>Power Level 3</strong> - Your defense scores are increased by 3 against the chosen attack type.</li>
     <li><strong>Power Level 5</strong> - Your defense scores are increased by 6 against the chosen attack type.</li>
     <li><strong>Power Level 7</strong> - Your defense scores are increased by 9 against the chosen attack type.</li>
-    <li><strong>Power Level 9</strong> - You are immune to damage and harmful effects from the chosen attack type.</li></ul>
+    <li><strong>Power Level 9</strong> - You are immune to damage and harmful effects from the chosen attack type.</li>
+    </ul>
 - !
   name: Restoration
   tags:
   - Supernatural
   power:
   - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
   attribute:
   - Creation
   - Protection
@@ -482,7 +491,21 @@
   description: |
     Your protective magic cancels all harmful afflictions that are effecting an ally.
   effect: |
-    Make a roll using the attribute used for invoking this boon. You can dispel all banes affecting the target of a maximum Power Level equal to (roll - 10) ÷ 2.
+    You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon. 
+
+    <ul>
+    <li><strong>Power Level 1</strong> - Cancel banes of Power Level 1 or less </li>
+    <li><strong>Power Level 2</strong> - Cancel banes of Power Level 2 or less </li>
+    <li><strong>Power Level 3</strong> - Cancel banes of Power Level 3 or less </li>
+    <li><strong>Power Level 4</strong> - Cancel banes of Power Level 4 or less </li>
+    <li><strong>Power Level 5</strong> - Cancel banes of Power Level 5 or less </li>
+    <li><strong>Power Level 6</strong> - Cancel banes of Power Level 6 or less </li>
+    <li><strong>Power Level 7</strong> - Cancel banes of Power Level 7 or less </li>
+    <li><strong>Power Level 8</strong> - Cancel banes of Power Level 8 or less </li>
+    <li><strong>Power Level 9</strong> - Cancel banes of Power Level 9 or less </li>
+    </ul>
+   special: |
+     You can dispel even higher level banes, but your roll total must be double the banes normal Power Level. So, a Power Level 9 bane can be dispelled on a roll of 46. This is only possible if the boon is invoked by a dice roll.
 - !
   name: Retributive Barrier
   tags:
