@@ -12,6 +12,10 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+
+**2016 / 11 / 23**
+-   Tweaks to `Restoration` boon now allow it to function correctly with `Boon Focus` feat
+
 **2016 / 11 / 15**
 -   Added Aura boon.
 
