@@ -19,7 +19,7 @@
   - Supernatural
   - Physical
   power:
-  - 4
+  - 3
   - 6
   - 8
   attribute:
@@ -34,7 +34,7 @@
   effect: |
     Choose a physical, social, or mental attribute. The target gains advantage on their next action roll according to the Power Level of the boon. If the target does not make the roll before your next turn, the bonus is lost.
     <ul>
-    <li><strong>Power Level 4</strong> - Advantage 1</li>
+    <li><strong>Power Level 3</strong> - Advantage 1</li>
     <li><strong>Power Level 6</strong> - Advantage 2</li>
     <li><strong>Power Level 8</strong> - Advantage 3</li>
     </ul>

@@ -92,7 +92,9 @@
   - Physical
   - Supernatural
   power:
-  - 2
+  - 3
+  - 6
+  - 8
   attackAttributes:
   - Agility
   - Energy
@@ -114,7 +116,13 @@
   description: |
     Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves.
   effect: |
-    The affected target has disadvantage 1 on all action rolls.
+    The affected target has disadvantage on all action rolls.
+    <ul>
+    <li><strong>Power Level 3</strong> - Disadvantage 1</li>
+    <li><strong>Power Level 6</strong> - Disadvantage 2</li>
+    <li><strong>Power Level 8</strong> - Disadvantage 3</li>
+    </ul>
+- !
   special: |
     Resisting this bane is a minor action.
 - !
