@@ -14,6 +14,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 
 
 **2016 / 11 / 23**
+-   `Aid` boon and `Demoralized` bane now mirror each other in Power Level and effect
 -   Tweaks to `Restoration` boon now allow it to function correctly with `Boon Focus` feat
 
 **2016 / 11 / 15**
