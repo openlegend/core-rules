@@ -93,7 +93,7 @@
     <li><strong>If the aura radiates a boon,</strong> then the target of the aura is also affected by it. The target and all allies who end their turn within the area of the aura automatically gain the chosen boon. Upon leaving the area of the aura, the boon is immediately removed. No creature may gain a boon from the same creature's aura more than once per round.</li>
     </ul>
   special: |
-    This boon may require special attention and adjudication from the GM, as not all banes and boons may abe an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
+    This boon may require special attention and adjudication from the GM, as not all banes and boons may be an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
 - !
   name: Augury
   tags:
