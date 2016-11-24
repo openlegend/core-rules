@@ -783,33 +783,34 @@
   effect: |
     You are immune to natural disease. This protection does not guard against magical curses such as lycanthropy.
 - !
-  name: Energy Resistance (I - III)
+  name: Energy Resistance (I - IV)
   prerequisites:
     tier1:
-      Attribute:
-      - Energy: 4
-      - Protection: 4
+      Other:
+      - None
     tier2:
-      Attribute:
-      - Energy: 5
-      - Protection: 5
+      Other:
+      - None
     tier3:
-      Attribute:
-      - Energy: 7
-      - Protection: 7
+      Other:
+      - None
+    tier4:
+      Other:
+      - None
   tags:
   - Supernatural
   cost:
-  - 3
+  - 2
   description: |
     Your specialization in a particular type of energy or general protection causes you to be resistant to that type of energy.
   effect: |
     Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion).  When you are attacked with that energy type, you gain resistance to the attack as follows:
-      <ul>
-      <li><strong>Tier 1</strong> - Your defense scores gain a total of +5 vs. attacks of the chosen energy type.</li>
-      <li><strong>Tier 2</strong> - Your defense scores gain a total of  +10 vs. attacks of the chosen energy type.</li>
-      <li><strong>Tier 3</strong> - You are immune to damage from attacks of the chosen energy type.</li>
-      </ul>
+    <ul>
+    <li><strong>Tier 1</strong> - Your defense scores are increased by 3 against the chosen energy type.</li>
+    <li><strong>Tier 2</strong> - Your defense scores are increased by 6 against the chosen energy type.</li>
+    <li><strong>Tier 3</strong> - Your defense scores are increased by 9 against the chosen energy type.</li>
+    <li><strong>Tier 4</strong> - You are immune to damage and harmful effects from the chosen energy type.</li>
+    </ul>
 - !
   name: Entranced Berserker
   prerequisites:
