@@ -1492,9 +1492,9 @@
   effect: |
     When you are not wearing armor, you gain an armor bonus to your Toughness and Evasion defenses. You may still gain this bonus when wielding a shield. Your armor bonus is determined by your tier in this feat:
     <ul>
-    <li><strong>Tier 1</strong> - +2 armor bonus</li>
-    <li><strong>Tier 2</strong> - +4 armor bonus</li>
-    <li><strong>Tier 3</strong> - +6 armor bonus</li>
+    <li><strong>Tier 1</strong> - +3 armor bonus</li>
+    <li><strong>Tier 2</strong> - +5 armor bonus</li>
+    <li><strong>Tier 3</strong> - +7 armor bonus</li>
     </ul>
 - !
   name: Potent Bane
