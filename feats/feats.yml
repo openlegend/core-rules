@@ -1791,6 +1791,26 @@
   effect: |
     You permanently gain 5 extra hit points per tier of this feat you possess.
 - !
+  name: Two Weapon Brute
+  prerequisites:
+    tier1:
+      MultiAttribute:
+      - Agility: 4
+      - Might: 5
+      Feat:
+      - Multi-Attack Specialist
+  tags:
+  - Combat
+  - Physical
+  - Agility
+  - Might
+  cost:
+  - 3
+  description: |
+    Being both physically powerful and incredibly agile, as such, you are able to wield a weapon in one-hand that requires two hands for others.
+  effect: |
+    You can wield weapons with the two-handed property in one hand and you gain the benefits of both the two-handed and one-handed property while doing so. This means that you gain a total of Advantage 2 when wielding a two-handed weapon in each hand, Advantage 1 from the power of a two-handed weapon + Advantage 1 from having one weapon in each hand.
+- !
   name: Two Weapon Defense
   prerequisites:
     tier1:
@@ -1805,7 +1825,7 @@
   cost:
   - 2
   description: |
-    Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well with your off-hand weapon.
+    Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons.
   effect: |
     When you have a weapon in each hand, you gain a +2 armor bonus. This feat cannot be used in conjunction with a shield.
 - !
