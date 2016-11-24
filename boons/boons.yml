@@ -491,7 +491,7 @@
   description: |
     Your protective magic cancels all harmful afflictions that are effecting an ally.
   effect: |
-    You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon. 
+    You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon.
 
     <ul>
     <li><strong>Power Level 1</strong> - Cancel banes of Power Level 1 or less </li>
@@ -504,8 +504,8 @@
     <li><strong>Power Level 8</strong> - Cancel banes of Power Level 8 or less </li>
     <li><strong>Power Level 9</strong> - Cancel banes of Power Level 9 or less </li>
     </ul>
-   special: |
-     You can dispel even higher level banes, but your roll total must be double the banes normal Power Level. So, a Power Level 9 bane can be dispelled on a roll of 46. This is only possible if the boon is invoked by a dice roll.
+  special: |
+    You can dispel even higher level banes, but your roll total must be double the banes normal Power Level. So, a Power Level 9 bane can be dispelled on a roll of 46. This is only possible if the boon is invoked by a dice roll.
 - !
   name: Retributive Barrier
   tags:
