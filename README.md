@@ -13,10 +13,14 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 
+**2016 / 11 / 25**
+-   Clarified attribute 9 limitation for `Companion` feat
+-   Removed all prerequisites for `Superior Concentration` to accommodate any boon including those inovoked by non-supernatural attributes
+
 **2016 / 11 / 24**
 -   Added `Two Weapon Brute` feat
 -   Added rules for dual-wielding weapons with the one-handed property for Advantage 1
--   Close infinite damage loophole in `Multi-Attack Specialist` feat by introducing a limit on the maximum number of additional attacks you can take 
+-   Close infinite damage loophole in `Multi-Attack Specialist` feat by introducing a limit on the maximum number of additional attacks you can take
 -   Clarify the time increment steps of `Boon Focus`, move OR major actions become minor at tier 2
 -   Removed all prerequisites from `Energy Resistance` to enable characters with no special training to have bloodline-based resistances
 

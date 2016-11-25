@@ -1673,14 +1673,14 @@
   name: Superior Concentration (I - III)
   prerequisites:
     tier1:
-      Attribute:
-      - Any Supernatural: 3
+      Other:
+      - None
     tier2:
-      Attribute:
-      - Any Supernatural: 3
+      Other:
+      - None
     tier3:
-      Attribute:
-      - Any Supernatural: 3
+      Other:
+      - None
   tags:
   - Supernatural
   cost:
@@ -1688,7 +1688,7 @@
   description: |
     Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple supernatural effects at once.
   effect: |
-    When you take the <emphasis>sustain a boon</emphasis> minor action, you may sustain one additional boon per tier of this feat which you possess.
+    When you take the <em>sustain a boon</em> minor action, you may sustain one additional boon per tier of this feat which you possess.
 - !
   name: Supernatural Defense (I - V)
   prerequisites:
