@@ -13,7 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 
-**2016 / 11 / 23**
+**2016 / 11 / 24**
 -   Added `Two Weapon Brute` feat
 -   Added rules for dual-wielding weapons with the one-handed property for Advantage 1
 -   Close infinite damage loophole in `Multi-Attack Specialist` feat by introducing a limit on the maximum number of additional attacks you can take 
