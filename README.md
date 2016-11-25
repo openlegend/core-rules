@@ -14,6 +14,13 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 
 
 **2016 / 11 / 23**
+-   Added `Two Weapon Brute` feat
+-   Added rules for dual-wielding weapons with the one-handed property for Advantage 1
+-   Close infinite damage loophole in `Multi-Attack Specialist` feat by introducing a limit on the maximum number of additional attacks you can take 
+-   Clarify the time increment steps of `Boon Focus`, move OR major actions become minor at tier 2
+-   Removed all prerequisites from `Energy Resistance` to enable characters with no special training to have bloodline-based resistances
+
+**2016 / 11 / 23**
 -   Modified `Natural Defense` feat to better reward unarmored characters who invest in it (#105)
 -   Modified `Craft Beneficial or Baleful Item` feat to allow unlimited invocation at tier 2 and 3x longer creation duration for sentient Tier 3 items. (#143)
 -   `Aid` boon and `Demoralized` bane now mirror each other in Power Level and effect
