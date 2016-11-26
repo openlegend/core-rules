@@ -637,7 +637,6 @@ Many actions that you will undertake in *Open Legend* have a Challenge Rating (C
 
 Oftentimes, though, the GM will need to determine the CR for actions that aren’t spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
 
-\newpage
 
 #### Challenge Ratings by Difficulty
 
@@ -2435,6 +2434,8 @@ You cannot make purchases that are more than one level higher than your Wealth S
 \newpage
 
 #### Wealth Overview
+
+\ \
 
 \NextTableColumns{OCT{.15}OCT{.35}OLT{.50}}
 
@@ -4953,6 +4954,13 @@ The complex build is a good option when you are creating a very important villai
 
 The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don’t have any stats written up for these monsters. In this situation, you could use the simple build rules to get combat rolling quickly.
 
+Use the NPC Simple Build Table to determine the monster’s most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster’s attacks and actions, and then choose as many secondary attributes as you need in order to define the monster’s other capabilities.
+
+\newpage
+
+#### NPC Simple Build
+
+\ \
 
 \NextTableColumns{OLT{.20}OCT{.20}OCT{.20}OCT{.20}OCT{.20}}
 
@@ -4969,7 +4977,6 @@ The simple build option is useful when you need to come up with statistics on th
 | 9 | 26 - 38 | 18 - 24 | 8 | 7 |
 | 10 | 28 - 40 | 19 - 25 | 9 | 7 |
 
-Use the NPC Simple Build Table to determine the monster’s most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster’s attacks and actions, and then choose as many secondary attributes as you need in order to define the monster’s other capabilities.
 
 Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities:
 
@@ -5028,11 +5035,10 @@ A Boss is a single monster or NPC that is capable of taking on a group of charac
 
 When you decide that one of your monsters or NPCs merits boss status, use the Boss Monster Build Table to generate statistics in the same way you would if using the simple build rules described previously. You’ll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain’s hit points and defenses based on this table to better represent the appropriate strength of a boss.
 
-#### Boss Monster Build
 
-\ \
+\NextTableColumns{OLT{.16}OCT{.16}OCT{.17}OCT{.17}OCT{.17}OCT{.17}}
 
-\NextTableColumns{OLT{.16}OCT{.16}OCT{.17}OCT{.16}OCT{.16}OCT{.16}}
+\SpanningTable[tbp]
 
 | Boss Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -5064,6 +5070,8 @@ When designing a combat encounter, decide if you want it to be easy, moderate, o
 
 Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
 
+
+\newpage
 
 #### Encounter Difficulty
 
