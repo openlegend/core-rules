@@ -17,7 +17,9 @@ Add all of the dice together to find your total action roll. If your total is eq
 | If the action roll... | then the result is... |
 | :- | :-- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | the player succeeds with a twist. <br /> - OR - <br /> *the player fails but the story progresses*. (GM’s Choice) |
+| is less than the Challenge Rating, | the player succeeds with a twist. \
+ - OR - \
+*the player fails but the story progresses*. (GM’s Choice) |
 
 # Character Creation
 
@@ -145,7 +147,7 @@ When an enemy tries to attack you--whether with a breath of flame, a deft sword 
 
 \NextTableColumns{OCT{1}}
 
-| Toughness = 10 + Fortitude + Presence |
+| Toughness = 10 + Fortitude + Will |
 
 **Toughness** protects you from attacks that test your endurance, bodily health, sturdiness, and survivability. For example, foes attempting to poison you, drain your life force, or push you off a cliff will target your toughness.
 
@@ -178,7 +180,7 @@ heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so he takes the *Combat Momentum* feat to allow him to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred berserker, takes *Berserker* so that she
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so he takes the *Combat Momentum* feat to allow him to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred berserker, takes [*Berserker*](#berserker) so that she
 can fly into a frenzied rage in order to decimate her foes.
 
 ### Choose your feats
@@ -186,7 +188,7 @@ can fly into a frenzied rage in order to decimate her foes.
 Feats are purchased using feat points. At 1st level, you have 6 feat
 points to spend. Any leftover feat points may be saved for the future.
 
-The complete list of available feats can be found on the [Open Legend Website](http://www.openlegendrpg.com/feats).
+A searchable and filterable list of available feats can be found on the [Open Legend Website](http://www.openlegendrpg.com/feats).
 
 ## Step 4: Choose Starting Equipment
 
@@ -210,6 +212,7 @@ In Open Legend, races do not provide specific mechanical costs and benefits. Ins
 
 **A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
 
+\newpage
 
 +++ {.CalloutInformation}
 
@@ -611,7 +614,12 @@ If you look back to the Core Mechanic, you can see that a simple failure is not 
 | If the action roll... | then the result is... |
 | :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | the player succeeds with a twist. <br /> **- OR -** <br /> the player fails, but the story progresses. <br />*(GM’s Choice)* |
+| is less than the Challenge Rating, | the player succeeds with a \
+twist. \
+**- OR -** \
+the player fails, but the story \
+progresses. \
+*(GM’s Choice)* |
 
 
 ### Keep It Simple: Every Roll Matters for the GM
@@ -761,21 +769,17 @@ Below is a complete list of feats available to any character that meets the prer
 ## Ageless
 
 **Cost:** 1 point
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Alteration, Creation, Entropy, or Protection 9
 
--   **Tier 1**: Alteration , Creation , Entropy , or Protection 9
-
-**Description**
-
-Ageless and supernatural, you have either unlocked a mystical secret to
+**Description:** Ageless and supernatural, you have either unlocked a mystical secret to
 immortality, become a legendary defender, transformed into an avatar of
 nature, or been granted immunity to the ravages of time by some higher
-power.
+power. \newline
 
-**Effect**
-
-Rooted in a superantural means of your choice, you become immune to the
+**Effect:** Rooted in a superantural means of your choice, you become immune to the
 passage of time and the effects of old age. You do not age and cannot be
 harmed by magic that causes aging. You can choose to age in appearance,
 if you wish, but you can also choose to continually appear the same age.
@@ -783,20 +787,16 @@ if you wish, but you can also choose to continually appear the same age.
 ## Alternate Form (I - II)
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-    **Tier 1 - 2:** None
 
-**Tier 1 - 2:** None
-
-**Description**
-
-Alternate form is an ability possessed by lycanthropes (werewolves,
+**Description:** Alternate form is an ability possessed by lycanthropes (werewolves,
 werebears, wererats), druids, vampires, and other creatures capable of
-assuming specific forms.
+assuming specific forms. \newline
 
-**Effect**
-
-You gain the ability to shapeshift into a single form (you choose that
+**Effect:** You gain the ability to shapeshift into a single form (you choose that
 form when purchasing this feat and it cannot be changed). Assuming your
 new form is a Focus action.
 
@@ -821,37 +821,29 @@ attributes return to their previous values.
 ## Area Manipulation (I - V)
 
 **Cost:** 1 point
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 5:** None
 
-**Tier 1 - 5:** None
+**Description:** You are exceptionally precise when making area attacks, allowing you to
+avoid allies who would otherwise be caught in the line of fire. \newline
 
-**Description**
-
-You are exceptionally precise when making area attacks, allowing you to
-avoid allies who would otherwise be caught in the line of fire.
-
-**Effect**
-
-For each tier of this feat you possess, you can omit a single 5-foot
+**Effect:** For each tier of this feat you possess, you can omit a single 5-foot
 square from being targeted as part of an area attack.
 
 ## Armor Mastery (I - III)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 3:** None
 
-**Tier 1 - 3:** None
+**Description:** You are specially trained with particular armor type, allowing you to
+maximize its protection and minimize its drawbacks. \newline
 
-**Description**
-
-You are specially trained with particular armor type, allowing you to
-maximize its protection and minimize its drawbacks.
-
-**Effect**
-
-Choose an armor type to specialize in. Your training allows you to sleep
+**Effect:** Choose an armor type to specialize in. Your training allows you to sleep
 in that armor type without becoming fatigued. In addition, while wearing
 armor of that type, you gain the following benefits.
 
@@ -864,20 +856,16 @@ armor of that type, you gain the following benefits.
 ## Attack Redirection
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Defensive Reflexes II
 
-**Description**
-
-You are adept at redirecting your enemy's attacks. Whether using fancy
+**Description:** You are adept at redirecting your enemy's attacks. Whether using fancy
 footwork, magical force, or tactical superiority, you can use your
-opponents' attacks against themselves.
+opponents' attacks against themselves. \newline
 
-**Effect**
-
-When you make a Defend action and your roll exceeds the attacker's
+**Effect:** When you make a Defend action and your roll exceeds the attacker's
 action roll, you can choose to redirect the attack to any target that
 could have been hit by the original attack. The original attack roll
 does not change, only the target. If the attack was a melee attack, you
@@ -887,43 +875,31 @@ the attacker).
 ## Attack Specialization (I - IX)
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Agility, Might, or Any Supernatural 1
+-   **Tier 2**: Agility, Might, or Any Supernatural 2
+-   **Tier 3**: Agility, Might, or Any Supernatural 3
+-   **Tier 4**: Agility, Might, or Any Supernatural 4
+-   **Tier 5**: Agility, Might, or Any Supernatural 5
+-   **Tier 6**: Agility, Might, or Any Supernatural 6
+-   **Tier 7**: Agility, Might, or Any Supernatural 7
+-   **Tier 8**: Agility, Might, or Any Supernatural 8
+-   **Tier 9**: Agility, Might, or Any Supernatural 9
 
--   **Tier 1**: Agility , Might , or Any Supernatural 1
+**Description:** You are so well trained with a particular form of attack that you can
+devastate foes with much more skill than the average combatant. \newline
 
--   **Tier 2**: Agility , Might , or Any Supernatural 2
-
--   **Tier 3**: Agility , Might , or Any Supernatural 3
-
--   **Tier 4**: Agility , Might , or Any Supernatural 4
-
--   **Tier 5**: Agility , Might , or Any Supernatural 5
-
--   **Tier 6**: Agility , Might , or Any Supernatural 6
-
--   **Tier 7**: Agility , Might , or Any Supernatural 7
-
--   **Tier 8**: Agility , Might , or Any Supernatural 8
-
--   **Tier 9**: Agility , Might , or Any Supernatural 9
-
-**Description**
-
-You are so well trained with a particular form of attack that you can
-devastate foes with much more skill than the average combatant.
-
-**Effect**
-
-When you take this feat, select one weapon or energy type. You gain
+**Effect:** When you take this feat, select one weapon or energy type. You gain
 Advantage 1 per tier of this feat for any damagingattack made with your
 choice. This bonus does not apply to bane attacks or boon invocations.
 
 Examples of energy types you can choose to specialize in include fire,
 cold, lightning, acid, poison, entropy, creation, and force - though
-this list is not exhaustive.
+this list is not exhaustive. \newline
 
-**Special**: You may take this feat multiple times for the same type of
+**Special:** You may take this feat multiple times for the same type of
 attack. Your total advantage to attacks with the attack is equal to your
 tier for that particular attack mode. You can also specialize in
 different attacks by purchasing the feat again. For example, a character
@@ -933,34 +909,27 @@ Specialization (Tier 4) for Long Sword.
 ## Attribute Substitution
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Any Social, Any Mental, Any Supernatural 4
 
--   **Tier 1**: Any Social , Any Mental , or Any Supernatural 4
-
-**Description**
-
-Your prowess in a supernatural, mental, or social attribute empowers a
+**Description:** Your prowess in a supernatural, mental, or social attribute empowers a
 physical aspect of your character, allowing you to use that attribute
 for tasks normally reserved for another attribute. Examples of Attribute
 Substitution in play include a martial artist who is physically weak but
 capable of using internal chi to throw and disable opponents, as well as
 an anatomical genius who uses their intelligence to make vital strikes
-rather than their dexterity.
+rather than their dexterity. \newline
 
-**Effect**
-
-When you purchase this feat, you create a permanent link between two
+**Effect:** When you purchase this feat, you create a permanent link between two
 attributes: one stronger (the primary attribute) and one weaker (the
 dependent attribute). You may use your score in the primary attribute in
 place of the dependent attribute for the following situations:
 
 -   Making action rolls
-
 -   Calculating hit points, defenses, and other secondary statistics
-
 -   Meeting feat, bane, and boon prerequisites
-
 -   Other situations at the GM's discretion
 
 The relationship formed by your two attributes is subject to
@@ -974,27 +943,22 @@ characters unreasonably powerful. Two examples of proper uses of this
 feat include an analytical warrior or martial artist who analyzes
 angles, leverage, and physics to substitute Logic for Might, or a
 gunslinger who channels dark energy, giving her deadshot accuracy and
-substituting Entropy for Agility.**Special**: This feat can only be
-purchased once. In addition, the primary attribute must be either
-social, mental, or supernatural, while the substituted attribute must be
-physical.
+substituting Entropy for Agility. \newline
+
+**Special:** This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
 
 ## Bane Focus
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Ability to invoke the chosen bane
 
-**Description**
+**Description:** You are specialized in the use of a particular bane that is iconic to
+your character. \newline
 
-You are specialized in the use of a particular bane that is iconic to
-your character.
-
-**Effect**
-
-Choose a bane that you can invoke. When making a damaging attack, you
+**Effect:** Choose a bane that you can invoke. When making a damaging attack, you
 can inflict this bane for free when you deal at least 5 points of damage
 (as opposed to the usual 10). Each attack is still only capable of
 inflicting a single bane. When making a bane attack, you get Advantage 2
@@ -1003,42 +967,32 @@ on the bane attack roll.
 ## Battlefield Defender
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Agility, Might, or Protection 4
 
--   **Tier 1**: Agility , Might , or Protection 4
+**Description:** Your prowess on the battlefield allows you to punish your enemies for
+every misplaced step. \newline
 
-**Description**
-
-Your prowess on the battlefield allows you to punish your enemies for
-every misplaced step.
-
-**Effect**
-
-When you use the defend interrupt action, you also deal damage to the
+**Effect:** When you use the defend interrupt action, you also deal damage to the
 attacker equal to the amount by which your action roll exceeds the
 attacker's roll.
 
 ## Battlefield Punisher - Knockdown
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Might 5
-
     -   Battlefield Defender
 
-**Description**
+**Description:** Not only are your battle reflexes uncanny, but you can deal knockdown
+blows with your defensive strikes. \newline
 
-Not only are your battle reflexes uncanny, but you can deal knockdown
-blows with your defensive strikes.
-
-**Effect**
-
-If you deal damage with a Defend action via the Battlefield Defender
+**Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Knockdown bane. If the attack
 hits, the remainder of the target's movement is cancelled until the
 start of its next turn.
@@ -1046,23 +1000,17 @@ start of its next turn.
 ## Battlefield Punisher - Slowed
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
-    -   Agility , or Might 5
-
+    -   Agility, or Might 5
     -   Battlefield Defender
 
-**Description**
+**Description:** Not only are your battle reflexes uncanny, but you can deal slowing
+blows with your defensive strikes. \newline
 
-Not only are your battle reflexes uncanny, but you can deal slowing
-blows with your defensive strikes.
-
-**Effect**
-
-If you deal damage with a Defend action via the Battlefield Defender
+**Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Slowed bane. If the attack hits
 and the target has already moved more than 2 squares, the remainder of
 their movement is cancelled until the start of their next turn.
@@ -1070,23 +1018,17 @@ their movement is cancelled until the start of their next turn.
 ## Battlefield Punisher - Stunned
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
-    -   Agility , or Might 7
-
+    -   Agility, or Might 7
     -   Battlefield Defender
 
-**Description**
+**Description:** Not only are your battle reflexes uncanny, but you can deal stunning
+blows with your defensive strikes. \newline
 
-Not only are your battle reflexes uncanny, but you can deal stunning
-blows with your defensive strikes.
-
-**Effect**
-
-If you deal damage with a Defend action via the Battlefield Defender
+**Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Stunned bane. If the target has
 taken any action prior to this attack, any remaining actions are
 cancelled by the Stunned bane until the start of the target's next turn.
@@ -1094,20 +1036,16 @@ cancelled by the Stunned bane until the start of the target's next turn.
 ## Battlefield Sentinel (I - V)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 5:** Agility, or Might 5
 
-**Tier 1 - 5:** Agility , or Might 5
-
-**Description**
-
-Your battlefield prowess allows you to capitalize on windows of
+**Description:** Your battlefield prowess allows you to capitalize on windows of
 opportunity that others don't notice, making you far more deadly in
-melee combat.
+melee combat. \newline
 
-**Effect**
-
-You may make an additional opportunity attack per round for each tier of
+**Effect:** You may make an additional opportunity attack per round for each tier of
 this feat your possess. You can only make one opportunity attack per
 triggering action (e.g., you cannot make multiple attacks against the
 same foe when they leave your threatened square).
@@ -1115,45 +1053,37 @@ same foe when they leave your threatened square).
 ## Berserker
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Fortitude, or Will 3
 
--   **Tier 1**: Fortitude , or Will 3
+**Description:** You can enter a rage-induced, trance-like state in which your body is
+strengthened and your mind transcends fear and pain. \newline
 
-**Description**
-
-You can enter a rage-induced, trance-like state in which your body is
-strengthened and your mind transcends fear and pain.
-
-**Effect**
-
-As a free action on your turn, you may enter a rage. While raging, you
+**Effect:** As a free action on your turn, you may enter a rage. While raging, you
 have advantage 1 on all attacks. Additionally, if you are not wearing
 armor, all of your defense scores are increased by 5. If you take three
 consecutive turns without making an attack roll against a creature, the
 rage ends. When the rage ends, you automatically suffer 1 level of the
-[*fatigue bane*](http://www.openlegendrpg.com/banes/fatigued).
+[*fatigue bane*](#fatigued).
 
 ## Boon Access
 
 **Cost:** 1, 2, 3, 4, 5, 6, 7, 8, or 9 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: None
 
-**Description**
-
-You have a special gift: it might be the result of your heritage, a
+**Description:** You have a special gift: it might be the result of your heritage, a
 close encounter with magical energy, or the result of years of training
 with a master. In any case, although you do not necessarily possess the
 aptitude to work supernatural powers for yourself or create a desired
 effect with your physical capabilities alone, you are able to reliably
-replicate a single boon.
+replicate a single boon. \newline
 
-**Effect**
-
-When you choose this feat, choose one boon that you do not have the
+**Effect:** When you choose this feat, choose one boon that you do not have the
 requisite attribute to invoke. The cost of this feat is equal to the
 Power Level of the chosen boon. You can invoke the chosen boon despite
 lacking the necessary attribute. For invocation rolls, treat your
@@ -1165,153 +1095,123 @@ normal attribute score restrictions based on character level, so a first
 level character could spend all 6 of their feat points to begin play
 with access to a Power Level 6 boon.
 
-You may acquire this feat multiple times. Each time, select a new boon.
+You may acquire this feat multiple times. Each time, select a new boon. \newline
 
-**Special**: If you ever meet the attribute prerequisite for the chosen
+**Special:** If you ever meet the attribute prerequisite for the chosen
 boon, you may choose at that time to lose this feat and regain the feat
 points spent. Re-allocate them as you choose.
 
 ## Boon Focus (I - III)
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 3:** Ability to invoke the chosen boon
 
-**Tier 1 - 3:** Ability to invoke the chosen boon
+**Description:** You are specialized in the use a particular boon that is iconic to your
+character. \newline
 
-**Description**
+**Effect:**
 
-You are specialized in the use a particular boon that is iconic to your
-character.
+-   **Tier 1** - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
 
-**Effect**
+-   **Tier 2** -  When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 major action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.
 
--   Tier 1 - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
+-   **Tier 3** - The effect at tier 3 varies based on the duration of the boon:  \
+\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke it when multi-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.  \
+\ **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke it when multi-targeting.
 
--   Tier 2 - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action, it becomes a minor action. If the invocation time is 1 minute, it becomes 1 major action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour.
-
--   Tier 3 - The effect at tier 3 varies based on the duration of the boon: <br /><br />  **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke it when multi-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.  <br /><br /> **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke it when multi-targeting.
-
--
 
 ## Breakfall (I - IX)
 
 **Cost:** 1 point
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 9:** Agility 4
 
-**Tier 1 - 9:** Agility 4
+**Description:** Your agility enables you to fall from deadly heights unharmed. \newline
 
-**Description**
-
-Your agility enables you to fall from deadly heights unharmed.
-
-**Effect**
-
-When calculating falling damage, reduce the falling distance by 10 feet
+**Effect:** When calculating falling damage, reduce the falling distance by 10 feet
 per tier of this feat that you possess. Once you reach tier 9, you can
 fall any distance without taking damage.
 
 ## Brutal Intimidation
 
 **Cost:** 1 point
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Might 2
 
-**Description**
+**Description:** Your powers of persuasion stem from application of brute force rather
+than your social grace. \newline
 
-Your powers of persuasion stem from application of brute force rather
-than your social grace.
-
-**Effect**
-
-If you're able to make a show of physical force, you can use your Might
+**Effect:** If you're able to make a show of physical force, you can use your Might
 attribute in place of Persuasion for the action roll.
 
 ## Climbing
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: None
 
-**Description**
+**Description:** You gain the ability to climb effortlessly, as is found in certain
+vampires, aberrant creatures, and insects. \newline
 
-You gain the ability to climb effortlessly, as is found in certain
-vampires, aberrant creatures, and insects.
-
-**Effect**
-
-You gain a climb speed equal to your base speed and can scale horizontal
+**Effect:** You gain a climb speed equal to your base speed and can scale horizontal
 and vertical surfaces, even climb upside-down, with no fear of falling.
 
 ## Combat Follow-through
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
-    -   Agility , or Might 5
-
+    -   Agility, or Might 5
     -   Combat Momentum
 
-**Description**
+**Description:** You are able to decimate many enemies in quick succession, like a
+legendary Samurai warrior or matchless elven archer. \newline
 
-You are able to decimate many enemies in quick succession, like a
-legendary Samurai warrior or matchless elven archer.
+**Effect:** Any time you make an attack that reduces a foe to zero hit points or
+less, you can immediately make an extra attack as a free action. \newline
 
-**Effect**
-
-Any time you make an attack that reduces a foe to zero hit points or
-less, you can immediately make an extra attack as a free action.
-
-**Requirement** - The triggering attack must be a Might or Agility
+**Special:** The triggering attack must be a Might or Agility
 action roll.
 
 ## Combat Momentum
 
 **Cost:** 1 point
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Agility, Might, or Movement 4
 
--   **Tier 1**: Agility , Might , or Movement 4
+**Description:** Whether through brute strength or lightning reflexes, you are able to
+use the momentum of combat to maneuver around the battlefield with ease. \newline
 
-**Description**
+**Effect:** Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action. \newline
 
-Whether through brute strength or lightning reflexes, you are able to
-use the momentum of combat to maneuver around the battlefield with ease.
-
-**Effect**
-
-Every time you bring an enemy to zero hit points or less with a Might or
-Agility attack, you can immediately move up to your normal speed as a
-free action.
-
-**Special**: If you meet the Movement 4 prerequisite, you can use the
-Teleport boon instead of a normal move.
+**Special:** If you meet the Movement 4 prerequisite, you can use the Teleport boon instead of a normal move.
 
 ## Companion (I - III)
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 3:** None
 
-**Tier 1 - 3:** None
-
-**Description**
-
-Whether a hired bodyguard, a loyal animal sidekick, or a sibling that
+**Description:** Whether a hired bodyguard, a loyal animal sidekick, or a sibling that
 follows you everywhere, you have the constant and unflinching loyalty of
-one particular companion character.
+one particular companion character.  \newline
 
-**Effect**
-
-You gain a companion character that acts independently from you. During
+**Effect:** You gain a companion character that acts independently from you. During
 combat, your companion acts on its own initiative count and gains the
 usual assortment of actions, which you may choose. You also get to
 assign your companion's attributes. The companion's highest attribute is
@@ -1323,49 +1223,41 @@ no feats or abilities, only attributes and the corresponding access to
 banes and boons. Whenever you gain a level or purchase a new tier in
 this feat, you may reassign your companion's attributes.
 
--   **Tier 1** - Your companion's highest attribute equals your level minus 2 (minimum of 3).
+-   **Tier 1** - Your companion's highest attribute equals your level minus 2 (minimum of 3, maximum of 9).
 
--   **Tier 2** - Your companion's highest attribute equals your level minus 1 (minimum of 4).
+-   **Tier 2** - Your companion's highest attribute equals your level minus 1 (minimum of 4, maximum of 9).
 
--   **Tier 3** - Your companion's highest attribute equals your level (minimum of 5).
+-   **Tier 3** - Your companion's highest attribute equals your level (minimum of 5, maximum of 9).
 
-**Special:** If you ever lose your companion, voluntarily or
-involuntarily, you regain the feat points that you have spent on this
-feat and may spend them as usual.
-
-**Example**
-
-Fezzy starts at level one with Companion (Tier II), choosing a wolf for
+**Example:** Fezzy starts at level one with Companion (Tier II), choosing a wolf for
 his companion. Based on Fezzy's level and feat tier, his wolf's highest
 attribute is 4, so he can assign the wolf four attributes at scores 4,
 3, 2, and 1. He assigns the following: Agility 4, Perception 3, Might 2,
 and Fortitude 1. Upon reaching level 2, Fezzy purchases Companion (Tier
 III), raising the wolf's highest attribute to 5, so Fezzy reassigns the
 attributes as follows: Perception 5, Agility 4, Might 3, Fortitude 2,
-Presence 1.
+Presence 1. \newline
+
+**Special:** If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
 
 ## Craft (I - II)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+- **Tier 1 - 2:** Learning 3, OR Knowledge I
 
-**Tier 1 - 2:** Learning 3, OR Knowledge I
+**Description:** You have mastered a particular craft, and given proper time and
+materials, you can create items related to that craft. \newline
 
-**Description**
-
-You have mastered a particular craft, and given proper time and
-materials, you can create items related to that craft.
-
-**Effect**
-
-Choose a specific craft or profession. You can create items that are
+**Effect:** Choose a specific craft or profession. You can create items that are
 relevant to your chosen craft, and your GM will determine the speed at
 which you craft based on the nature of the item and the materials you
 have access to. Your tier in the Craft feat determines the maximum
 wealth level of the items you can craft. Unlike acquiring items by using
 your wealth (described in Chapter 4), crafting does not limit your
-ability to acquire additional goods.
+ability to acquire additional goods. \newline
 
 -   **Tier 1** - You can craft items equal to your wealth level.
 
@@ -1392,66 +1284,57 @@ your GM to come up with other suitable crafts).
 
 ## Craft Beneficial or Baleful Item (I - III)
 
+
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 3:** Any Supernatural, or Learning 5
 
-**Tier 1 - 3:** Any Supernatural , or Learning 5
-
-**Description**
-
-You are studied in the ways of imbuing magical items, brewing potions,
+**Description:** You are studied in the ways of imbuing magical items, brewing potions,
 or building extraordinary devices. Their power is permanent but varies
-depending on your skill.
+depending on your skill. \newline
 
-**Effect**
-
-This feat allows you to create items that can invoke a given bane or
+**Effect:**  This feat allows you to create items that can invoke a given bane or
 boon either autonomously or by way of a wielder.
 
--   **Tier 1** - You can create an item with this feat. Choose a target attribute score for the item, less than or equal to 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3).
-Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the heal boon, for example, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concentrates on using it.
-Creating an expendable item requires 1 full 8-hour day of uninterrupted work. Creating a permanent item, requires one such day of work per attribute score of the item.
-At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item.
-Next, choose a bane or boon of power level less than or equal to the item's attribute score from the previous step. This item is forever linked to that particular bane or boon.
-An expendable item used to invoke a boon automatically succeeds at invocation. An expendable item used to invoke a bane grants advantage 1 to the attribute roll to invoke.
-A permanent item can be invoked once per hour, after which it has to recharge before it can be used again.
-The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
+-   **Tier 1** - You can create an item with this feat. Choose a target attribute score for the item, less than or equal to 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3). \
+\ Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the heal boon, for example, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concentrates on using it. \
+\ When using this item, you expend your own actions to make action rolls or sustain a boon, but you otherwise treat the item as the one rolling dice, using an attribute, etc. \
+\ Creating an expendable item requires 1 full 8-hour day of uninterrupted work. Creating a permanent item, requires one such day of work per attribute score of the item. \
+\ At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item. \
+\ Next, choose a bane or boon of power level less than or equal to the item's attribute score from the previous step. This item is forever linked to that particular bane or boon. \
+\ An expendable item used to invoke a boon automatically succeeds at invocation. An expendable item used to invoke a bane grants advantage 1 to the attribute roll to invoke. \
+\ A tier 1 permanent item can be invoked once per hour, after which it has to recharge before it can be used again. \
+\ The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
 
     -   **Any Supernatural Attribute** - The item can only be imbued with a bane or boon that is accessible to the creator via the attribute used.
-
     -   **Learning** - You can imbue an item with only Physical attributes (Might, Agility, Fortitude) and the corresponding banes and boons.
-
     -   **Creation** - Being capable of manifesting something from nothing via channeling otherworldly energy, you can imbue the item with any attribute, even if you do not have a score in that attribute.
 
 -   **Tier 2** - Following the same rules above, you gain the following additional benefits:
-The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.
-For expendable items, bane attacks have advantage 2 instead of advantage 1.
-You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a teleportation circle that activates when someone steps on a magical trigger. For those imbuing with non-magical means, this autonomy could be more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
-Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3. A non-supernatural example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.
+    -   Items can now be used at-will to invoke the chosen bane or boon, this bypasses the tier 1 limitation of invoking once per hour.
+    -   The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.
+    -   For expendable items, bane attacks have advantage 2 instead of advantage 1.
+    -   You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a teleportation circle that activates when someone steps on a magical trigger. For those imbuing with non-magical means, this autonomy could be more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
+    -   Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3. A non-supernatural example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.
 
--   **Tier 3** - You can imbue human-like sentience into the item, it gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.
+-   **Tier 3** - You gain the ability to imbue sentience into an item by tripling the time you would have otherwise spent in creating it. The item gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.
 
 ## Crushing Blow
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Might 6
-
     -   Overpowering Strike
 
-**Description**
+**Description:** Your relentless blows not only knock your opponents back, but also knock
+them off their feet completely. \newline
 
-Your relentless blows not only knock your opponents back, but also knock
-them off their feet completely.
-
-**Effect**
-
-Any time that you deal damage to an enemy, in addition to pushing them 5
+**Effect:** Any time that you deal damage to an enemy, in addition to pushing them 5
 feet (if you choose) from the Overpowering Strike feat, you can also
 knock them down in the square where the forced move ends; the target
 suffers the effects of the knockdown bane.
@@ -1459,35 +1342,25 @@ suffers the effects of the knockdown bane.
 ## Death Blow (I – III)
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Agility 6
-
     -   Lethal Strike I
-
 -   **Tier 2**:
-
     -   Agility 7
-
     -   Lethal Strike III
-
 -   **Tier 3**:
-
     -   Agility 8
-
     -   Lethal Strike VI
 
-**Description**
-
-You are able to quickly finish off enemies that are near death and
+**Description:** You are able to quickly finish off enemies that are near death and
 silence them before they cry out. This attack is one that is commonly
 seen used by assassins who can silently eliminate weaker enemies without
-being detected.
+being detected. \newline
 
-**Effect**
+**Effect:**
 
 -   **Tier 1** - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by a melee or projectile attack from you.
 
@@ -1498,23 +1371,17 @@ being detected.
 ## Deathless Berserker
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Fortitude 7
-
     -   Berserker
 
-**Description**
+**Description:** Your battle fury is legendary, allowing you to fight on long after your
+body should have given up. \newline
 
-Your battle fury is legendary, allowing you to fight on long after your
-body should have given up.
-
-**Effect**
-
-While you are raging you cannot be knocked unconscious. All damage dealt
+**Effect:** While you are raging you cannot be knocked unconscious. All damage dealt
 to you should be recorded, possibly resulting in a negative hit point
 total. Despite any amount of damage, you remain conscious for as long as
 you can sustain the rage. When the rage ends, if your hit points are
@@ -1524,23 +1391,17 @@ more hit points within 1 round of your rage ending, you die.
 ## Destructive Berserker
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Might 7
-
     -   Berserker
 
-**Description**
+**Description:** Your rage not only puts you into a fearless trance, but enables you to
+strike down your enemies with ferocious blows. \newline
 
-Your rage not only puts you into a fearless trance, but enables you to
-strike down your enemies with ferocious blows.
-
-**Effect**
-
-While you are raging, in addition to dice exploding on any maximum die
+**Effect:** While you are raging, in addition to dice exploding on any maximum die
 roll (as normal), all of the dice in your dice pool explode on the
 number 1 below maximum as well (though the total is still the number
 rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or
@@ -1549,202 +1410,154 @@ rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or
 ## Defensive Reflexes (I - X)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 10:** Agility 3
 
-**Tier 1 - 10:** Agility 3
+**Description:** You are a master of defense, able to predict exactly where your opponent
+will strike and thwart their attack. \newline
 
-**Description**
-
-You are a master of defense, able to predict exactly where your opponent
-will strike and thwart their attack.
-
-**Effect**
-
-Any time you use the Defend action, you gain advantage 1 on the action
+**Effect:** Any time you use the Defend action, you gain advantage 1 on the action
 roll per tier you possess of this feat.
 
 ## Diehard
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Presence, or Fortitude 3
 
--   **Tier 1**: Presence , or Fortitude 3
-
-**Description**
-
-Whether luck shines upon you or you're just really hard to kill you have
+**Description:** Whether luck shines upon you or you're just really hard to kill you have
 a knack for staying in the fight when others would suffer a much worse
-fate.
+fate. \newline
 
-**Effect**
-
-Once per day, an attack that would reduce you to less than 1 HP, reduces
+**Effect:** Once per day, an attack that would reduce you to less than 1 HP, reduces
 you to 1 HP instead.
 
 ## Disease Immunity
 
 **Cost:** 1 point
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Creation, or Protection 5
 
--   **Tier 1**: Creation , or Protection 5
+**Description:** Your inherent magical protection extends to make you immune to disease. \newline
 
-**Description**
-
-Your inherent magical protection extends to make you immune to disease.
-
-**Effect**
-
-You are immune to natural disease. This protection does not guard
+**Effect:** You are immune to natural disease. This protection does not guard
 against magical curses such as lycanthropy.
 
-## Energy Resistance (I - III)
+## Energy Resistance (I - IV)
 
-**Cost:** 3 points
+**Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 4**: None
 
--   **Tier 1**: Energy , or Protection 4
+**Description:** Your specialization in a particular type of energy or general protection
+causes you to be resistant to that type of energy. \newline
 
--   **Tier 2**: Energy , or Protection 5
-
--   **Tier 3**: Energy , or Protection 7
-
-**Description**
-
-Your specialization in a particular type of energy or general protection
-causes you to be resistant to that type of energy.
-
-**Effect**
-
-Choose from the following energy types: fire, cold, lightning, acid, (or
+**Effect:** Choose from the following energy types: fire, cold, lightning, acid, (or
 another at the GM’s discretion). When you are attacked with that energy
 type, you gain resistance to the attack as follows:
 
--   **Tier 1** - Your defense scores gain a total of +5 vs. attacks of the chosen energy type.
+-   **Tier 1** - Your defense scores are increased by 3 against the chosen energy type.
+-   **Tier 2** - Your defense scores are increased by 6 against the chosen energy type.
+-   **Tier 3** - Your defense scores are increased by 9 against the chosen energy type.
+-   **Tier 4** - You are immune to damage from attacks of the chosen energy type.
 
--   **Tier 2** - Your defense scores gain a total of +10 vs. attacks of the chosen energy type.
-
--   **Tier 3** - You are immune to damage from attacks of the chosen energy type.
+**Special:** You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
 
 ## Entranced Berserker
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Will 7
-
     -   Berserker
 
-**Description**
+**Description:** In the heat of combat, your will becomes indomitable. \newline
 
-In the heat of combat, your will becomes indomitable.
-
-**Effect**
-
-While you are raging, you are immune to banes that target your Resolve.
+**Effect:** While you are raging, you are immune to banes that target your Resolve.
 If you were already under the affect of such a bane, it is negated for
 the duration of your rage and returns when your rage ends.
 
 ## Evasive Footwork
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Agility 4
 
-**Description**
+**Description:** You are able to dodge and weave in combat, deftly sidestepping attacks
+that would strike a clumsier combatant. \newline
 
-You are able to dodge and weave in combat, deftly sidestepping attacks
-that would strike a clumsier combatant.
-
-**Effect**
-
-When you move from a space adjacent to an enemy to another space not
+**Effect:** When you move from a space adjacent to an enemy to another space not
 adjacent to that enemy, the enemy does not get the usual opportunity
 attack.
 
 ## Fast Tracker
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Perception 5
 
-**Description**
+**Description:** Your tracking expertise is so great that you can move at a normal pace
+and still follow a trail. \newline
 
-Your tracking expertise is so great that you can move at a normal pace
-and still follow a trail.
-
-**Effect**
-
-You can move at your full speed while tracking your quarry rather than
+**Effect:** You can move at your full speed while tracking your quarry rather than
 the reduced speed typically incurred at the GM's discretion.
 
 ## Ferocious Minions
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Influence 3
-
 -   **Tier 2**: Influence 5
-
 -   **Tier 3**: Influence 7
 
-**Description**
+**Description:** Creatures that you’ve magically compelled become even stronger when
+fighting in your defense or under your command. \newline
 
-Creatures that you’ve magically compelled become even stronger when
-fighting in your defense or under your command.
-
-**Effect**
-
-Creatures under the effects of your Charmed or Dominated bane gain
+**Effect:** Creatures under the effects of your Charmed or Dominated bane gain
 advantage 1 on all attack rolls to defend or help you for each tier of
 this feat you possess.
 
 ## Fleet of Foot (I – III)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Agility, Fortitiude, or Movement 2
 
--   **Tier 1**: Agility , Fortitiude , or Movement 2
+**Description:** Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. \newline
 
-**Description**
-
-Whether through cybernetic implants, telekinetic propulsion, or simply
-hardcore training, you are faster than the average joe.
-
-**Effect**
-
-Your speed is permanently increased by 5' per tier of this feat.
+**Effect:** Your speed is permanently increased by 5' per tier of this feat.
 
 ## Flying
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: None
 
-**Description**
-
-Whether through a pair of celestial or infernal wings, an inherent
+**Description:** Whether through a pair of celestial or infernal wings, an inherent
 telekinetic power, or something unexplainable that you're born with, you
-have an inherent ability to fly
+have an inherent ability to fly. \newline
 
-**Effect**
-
-You gain a flight speed equal to your normal speed. At the GM's
+**Effect:** You gain a flight speed equal to your normal speed. At the GM's
 discretion, certain hostile actions may be capable of canceling your
 flight, sending you hurtling to your doom. If your flight is anatomical,
 an Immobile bane might render your wings immovable, if telekinetic, an
@@ -1753,63 +1566,49 @@ application of the Dispel bane may cancel your flight.
 ## Great Leap (I – III)
 
 **Cost:** 1 point
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Movement, or Agility 2
+-   **Tier 2**: Movement, or Agility 4
+-   **Tier 3**: Movement, or Agility 6
 
--   **Tier 1**: Movement , or Agility 2
+**Description:** Through supernatural power or exceptional agility, you can jump
+exceptionally far. \newline
 
--   **Tier 2**: Movement , or Agility 4
-
--   **Tier 3**: Movement , or Agility 6
-
-**Description**
-
-Through supernatural power or exceptional agility, you can jump
-exceptionally far.
-
-**Effect**
-
-You can use your Movement or Agility score instead of your Might score
+**Effect:** You can use your Movement or Agility score instead of your Might score
 when determining how far you can jump. In addition, you gain advantage 1
 per tier on action rolls to jump.
 
 ## Fast Draw
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Agility 1
 
-**Description**
-
-Whether you're a samurai warrior, the fastest draw in the West, or a
+**Description:** Whether you're a samurai warrior, the fastest draw in the West, or a
 flawlessly trained interstellar soldier, you can get to your weapon
-faster than your opponent can blink.
+faster than your opponent can blink. \newline
 
-**Effect**
-
-Once per round, you can draw one additional weapon and sheathe another
+**Effect:** Once per round, you can draw one additional weapon and sheathe another
 as a free action. Alternately, you could do the same with any small
 sized object in your possession.
 
 ## Hallucination
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Influence 5
 
-**Description**
-
-You are able to use your powers of illusion to not only create
+**Description:** You are able to use your powers of illusion to not only create
 phantasmal figments, but to completely dominate the sensory perceptions
-of individual targets.
+of individual targets. \newline
 
-**Effect**
-
-When you invoke the Phantasm bane, you may choose to create a
+**Effect:** When you invoke the Phantasm bane, you may choose to create a
 hallucination within a target's mind instead of an illusion that is
 perceptible to everyone. You gain complete control over the target's
 senses (as granted by the Power Level of your bane), and are thus the
@@ -1820,68 +1619,52 @@ multi-targeting attacks.
 ## Hallucination (Mass)
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Influence 7
-
     -   Hallucination
 
-**Description**
+**Description:** Your hallucinations become legendary in power, granting you the power to
+affect small groups or even crowds. \newline
 
-Your hallucinations become legendary in power, granting you the power to
-affect small groups or even crowds.
-
-**Effect**
-
-When you invoke the hallucination form of Phantasm bane, you may target
+**Effect:** When you invoke the hallucination form of Phantasm bane, you may target
 additional creatures within range as determined by your Influence score.
-This does not count as a multi-attack and thus does not incur
+This does not count as a multi-target attack and thus does not incur
 disadvantage on your action roll.
 
 -   **Influence 7** - 5 Target
-
 -   **Influence 8** - 10 Targets
-
 -   **Influence 9** - 50 Targets
 
 ## Heavy Weapon Master
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Might 5
 
-**Description**
+**Description:** Due to your strength and training, you are able to wield exceptionally
+heavy weapons with ease. \newline
 
-Due to your strength and training, you are able to wield exceptionally
-heavy weapons with ease.
-
-**Effect**
-
-You can wield two-handed melee weapons in one hand. When you do, you
+**Effect:** You can wield two-handed melee weapons in one hand. When you do, you
 still gain the usual advantage granted by two-handed weapons.
 
 ## Hospitaler
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Creation, Presence, or Protection 4
 
--   **Tier 1**: Creation , Presence , or Protection 4
-
-**Description**
-
-Through inspiring words, magical healing, or advanced medical technique,
+**Description:** Through inspiring words, magical healing, or advanced medical technique,
 you are exceptionally skilled at helping others shake off baneful
-afflictions.
+afflictions. \newline
 
-**Effect**
-
-You can use a major action to give an ally an immediate Resist roll (a
+**Effect:** You can use a major action to give an ally an immediate Resist roll (a
 free action for the ally). The ally gains a special form of advantage on
 this roll, allowing them to roll 2d20 and keep the highest.
 Additionally, you gain advantage 1 any time you attempt to invoke the
@@ -1890,19 +1673,15 @@ Restoration boon.
 ## Hunter's Foe (I - IX)
 
 **Cost:** 1 point
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 **Tier 1 - 9:** None
 
-**Description**
+**Description:** You are expertly focused on dealing with a particular species, race, or
+faction. \newline
 
-You are expertly focused on dealing with a particular species, race, or
-faction.
-
-**Effect**
-
-Choose a species, race, or faction (e.g., dragons, gnolls, or the Red
+**Effect:** Choose a species, race, or faction (e.g., dragons, gnolls, or the Red
 Knights). You learn the primary conversational language of that species,
 and at the GM's discretion, you may have some level of access to other
 special forms of communication (such as thieves' cant or secret hand
@@ -1913,19 +1692,15 @@ pertaining to your chosen group.
 ## Indomitable Endurance (I - IX)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 9:** Fortitude 5
 
-**Tier 1 - 9:** Fortitude 5
+**Description:** Your endurance is legendary, allowing you to push on when others would
+keel over from exhaustion. \newline
 
-**Description**
-
-Your endurance is legendary, allowing you to push on when others would
-keel over from exhaustion.
-
-**Effect**
-
-You are immune to the fatigued bane when it is caused by regular,
+**Effect:** You are immune to the fatigued bane when it is caused by regular,
 natural sources, such as a forced march, starvation, or swimming long
 distances. Supernatural sources of the fatigued bane (such as a
 necromancer's curse) or irregular sources (such as the Berserker feat)
@@ -1937,19 +1712,15 @@ subsequent tier allows you to ignore an additional level of fatigue.
 ## Inspiring Champion (I - III)
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Presence 6
 
-**Description**
+**Description:** You fight with such bravery, heroism, or bravado that your allies are
+ispired to fight beyond their usual mettle. \newline
 
-You fight with such bravery, heroism, or bravado that your allies are
-ispired to fight beyond their usual mettle.
-
-**Effect**
-
--   Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
+**Effect:** -   Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
 
 -   **Tier 1** - A single ally that can see the attack heals 1d4 HP.
 
@@ -1957,22 +1728,18 @@ ispired to fight beyond their usual mettle.
 
 -   **Tier 3** - All allies who can see the attack heal 2d4 HP.
 
-## Knowledge
+## Knowledge (I - III)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 3:** None
 
-**Tier 1 - 3:** None
+**Description:** You have knowledge of a particular area of study which far surpasses
+your general intelligence. \newline
 
-**Description**
-
-You have knowledge of a particular area of study which far surpasses
-your general intelligence.
-
-**Effect**
-
-When you purchase this feat, choose a sphere of knowledge from the list
+**Effect:** When you purchase this feat, choose a sphere of knowledge from the list
 below or, with the GM’s approval, create a new one.
 
 Example Spheres of knowledge include alchemy, arcane, supernatural,
@@ -1991,36 +1758,24 @@ chosen sphere.
 ## Lethal Strike (I – IX)
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Agility 1
-
 -   **Tier 2**: Agility 2
-
 -   **Tier 3**: Agility 3
-
 -   **Tier 4**: Agility 4
-
 -   **Tier 5**: Agility 5
-
 -   **Tier 6**: Agility 6
-
 -   **Tier 7**: Agility 7
-
 -   **Tier 8**: Agility 8
-
 -   **Tier 9**: Agility 9
 
-**Description**
-
-Like a deadly assassin, a ninja of legend, or a feinting melee dervish,
+**Description:** Like a deadly assassin, a ninja of legend, or a feinting melee dervish,
 you can devastate your foes with an expertly placed attack when you
-catch them off guard.
+catch them off guard. \newline
 
-**Effect**
-
-Your attacks are considered lethal strikes whenever you fulfill one of
+**Effect:** Your attacks are considered lethal strikes whenever you fulfill one of
 the following conditions:
 
 -   Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
@@ -2033,85 +1788,61 @@ damage dealt) is considered lethal damage, which is more difficult to
 heal from (see Chapter 6: Combat).
 
 -   **Tier 1** - Advantage 1. Up to 5 lethal damage
-
 -   **Tier 2** - Advantage 2. Up to 5 lethal damage
-
 -   **Tier 3** - Advantage 3. Up to 10 lethal damage
-
 -   **Tier 4** - Advantage 4. Up to 10 lethal damage
-
 -   **Tier 5** - Advantage 5. Up to 15 lethal damage
-
 -   **Tier 6** - Advantage 6. Up to 20 lethal damage
-
 -   **Tier 7** - Advantage 7. Up to 20 lethal damage
-
 -   **Tier 8** - Advantage 8. Up to 25 lethal damage
-
 -   **Tier 9** - Advantage 9. Up to 25 lethal damage
 
 ## Lightning Reflexes (I - V)
 
 **Cost:** 1 point
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Agility 2
-
 -   **Tier 2**: Agility 3
-
 -   **Tier 3**: Agility 4
-
 -   **Tier 4**: Agility 5
-
 -   **Tier 5**: Agility 6
 
-**Description**
+**Description:** You are always ready for danger, allowing you to easily get the drop on
+your foes. \newline
 
-You are always ready for danger, allowing you to easily get the drop on
-your foes.
-
-**Effect**
-
-For each tier you possess in this feat, you gain advantage 1 on all
+**Effect:** For each tier you possess in this feat, you gain advantage 1 on all
 initiative rolls.
 
 ## Marksman (I - III)
 
 **Cost:** 1 point
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 **Tier 1 - 3:** Agility 5
 
-**Description**
+**Description:** You are an expert at using a specific ranged weapon, your familiarity
+makes you deadlier at longer ranges. \newline
 
-You are an expert at using a specific ranged weapon, your familiarity
-makes you deadlier at longer ranges.
-
-**Effect**
-
-Choose a ranged weapon. In your hands, the range of that weapon is
+**Effect:** Choose a ranged weapon. In your hands, the range of that weapon is
 increased by 5 squares.
 
 ## Martial Focus
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Agility, or Might 1
 
--   **Tier 1**: Agility , or Might 1
-
-**Description**
-
-Like a kensai warrior devoted to mastery of her katana or an assassin
+**Description:** Like a kensai warrior devoted to mastery of her katana or an assassin
 who exclusively wields his favored pistols, your training is
 hyper-focused on a single style of combat to the exclusion of all
-others.
+others. \newline
 
-**Effect**
-
-Choose a single weapon (or choose unarmed combat), and specify the
+**Effect:** Choose a single weapon (or choose unarmed combat), and specify the
 attribute that your martial focus relies upon: agility or might. When
 making attacks using your chosen weapon, your attribute is considered 1
 greater for the purposes of determining attribute dice. Your attribute
@@ -2122,19 +1853,15 @@ you make which do not use your martial focus suffer disadvantage 1.
 ## Master Tracker
 
 **Cost:** 1 point
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Perception 5
 
-**Description**
+**Description:** Your skill at tracking and hunting your quarry is unmatched, allowing
+you to follow trails long after others would have lost them. \newline
 
-Your skill at tracking and hunting your quarry is unmatched, allowing
-you to follow trails long after others would have lost them.
-
-**Effect**
-
-Unless magically thwarted or unable to see, you always know the
+**Effect:** Unless magically thwarted or unable to see, you always know the
 direction of true north. In addition, once you successfully locate the
 trail of a target, you automatically succeed at all tracking attempts to
 continue following that trail for 7 days after the time you first picked
@@ -2144,25 +1871,19 @@ exceptional cases can cause you to lose your mark.
 ## Mimic
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Alteration 4
-
     -   Alternate Form
 
-**Description**
-
-You have honed your shapeshifting abilities to be able to not only
+**Description:** You have honed your shapeshifting abilities to be able to not only
 change your form, but to even imitate specific creatures. Your powers
 may stem from studying the arts of deceptive magic, from a gene
-mutation, or even from innate supernatural abilities.
+mutation, or even from innate supernatural abilities. \newline
 
-**Effect**
-
-When you use the alternate form feat, you may take the features of a
+**Effect:** When you use the alternate form feat, you may take the features of a
 specific creature. For example, instead of merely transforming into an
 elf, you can assume the guise of Galdion the elven king. The disguise is
 near perfect for those examining you visually. If your behavior or other
@@ -2174,25 +1895,16 @@ recognize your disguise.
 ## Multi-Attack Specialist (I – VI)
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 6:** None
 
-**Tier 1 - 6:** None
-
-**Description**
-
-Whether your are delivering flurry of blows, wielding two weapons, or
+**Description:** Whether your are delivering flurry of blows, wielding two weapons, or
 calling a chain of lightning bolts from the sky, you have mastered the
-art of delivering multiple attacks.
+art of delivering multiple attacks. \newline
 
-**Effect**
-
-Before attacking, you may declare that you are multi-attacking, and must
-state how many extra attacks you would like to make. ALL of your attacks
-this round suffer disadvantage equal to 3 times the number of attacks
-you declare (i.e., if you make 2 attacks, you suffer disadvantage 6; 3
-attacks suffers disadvantage 9). For each tier of this feat that you
-possess, reduce the disadvantage penalty by 1.
+**Effect:** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 
 You may use your attacks to make any combination of bane or damaging
 attacks, but you may not invoke boons. Resolve each attack individually,
@@ -2201,9 +1913,9 @@ between each of these attacks and they can be used to target the same
 creature more than once. There is no limit to the number of additional
 attacks you can make using this feat.
 
-**EXAMPLE**
+The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level. \newline
 
-Vax the Deathbringer has Multi Attack Specialist (Tier VI). He declares
+**Example:** Vax the Deathbringer has Multi Attack Specialist (Tier VI). He declares
 that he will be making three attacks this round. Therefore, all of his
 attacks suffer disadvantage 3 (3 x 3 = 9, minus 6 for feat tier 6). His
 first attack is a necromantic burst targeting a 10'-square. Because of
@@ -2218,19 +1930,15 @@ disadvantage 6.
 ## Multi-Target Attack Specialist (I – V)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 5:** None
 
-**Tier 1 - 5:** None
+**Description:** You are a master of felling multiple foes at a time, whether it be with
+a whirlwind of your blade, a hail of arrows, or a ball of flame. \newline
 
-**Description**
-
-You are a master of felling multiple foes at a time, whether it be with
-a whirlwind of your blade, a hail of arrows, or a ball of flame.
-
-**Effect**
-
-When you choose this feat, you must decide to focus in area, projectile,
+**Effect:** When you choose this feat, you must decide to focus in area, projectile,
 or melee attacks. For each tier, you reduce the disadvantage penalty
 associated with multi-attacks for your chosen attack type by 1. Whenever
 you take this feat, you must specify which type of attack you are
@@ -2240,44 +1948,32 @@ multiple types of attack.
 ## Multi-Target Boon Specialist (I – V)
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Any Supernatural 3
-
 -   **Tier 2**: Any Supernatural 5
-
 -   **Tier 3**: Any Supernatural 7
-
 -   **Tier 4**: Any Supernatural 8
-
 -   **Tier 5**: Any Supernatural 9
 
-**Description**
+**Description:** You are a master of invoking boons for more than one target. \newline
 
-You are a master of invoking boons for more than one target.
-
-**Effect**
-
-For each tier of this feat, you reduce the disadvantage penalty
+**Effect:** For each tier of this feat, you reduce the disadvantage penalty
 associated with invoking boons for multiple targets by 1.
 
 ## Multi-Target Boon Expert
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Multi-Target Boon Specialist II
 
-**Description**
+**Description:** You have so mastered the art of aiding groups of allies that you can
+invoke certain boons effortlessly. \newline
 
-You have so mastered the art of aiding groups of allies that you can
-invoke certain boons effortlessly.
-
-**Effect**
-
-When multi-targeting a boon for which you have the Boon Focus feat, you
+**Effect:** When multi-targeting a boon for which you have the Boon Focus feat, you
 do not need to make an action roll if the disadvantage normally incurred
 from multi-targeting is completely negated by your Multi-Target Boon
 Specialist feat. Your invocation automatically succeeds.
@@ -2285,125 +1981,90 @@ Specialist feat. Your invocation automatically succeeds.
 ## Multi-Bane Specialist
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Able to inflict both banes (see description)
 
-**Description**
-
-You have mastered a signature attack that allows you to invoke two banes
+**Description:** You have mastered a signature attack that allows you to invoke two banes
 at once. A blast of ice that blinds and slows your enemy, a thunderous
 shotgun blast that hurls foes back and knocks them to the ground, and a
 wormtongue song that puts targets to sleep and alters their memory are
-all examples of a signature attack that could be created with this feat.
+all examples of a signature attack that could be created with this feat. \newline
 
-**Effect**
+**Effect:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately. \newline
 
-Choose two banes that you are able to inflict and that share a common
-prerequisite attribute. You are able to inflict both banes with a single
-attack. The required attribute score for combining the banes is equal to
-the sum of their power levels (e.g., combining knockdown and slowed,
-both power level 2, would require an attribute score of 4). If the banes
-target different defenses, you choose which defense your attack targets.
-On a successful attack roll, the target is inflicted with both banes.
-They each persist independently of one another and must be resisted
-separately.
-
-**Special**: In order to benefit from the bane focus feat when using a
-multi-bane attack, you must possess bane focus for both banes.
+**Special:** In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 
 ## Overpowering Strike
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Might 4
 
-**Description**
+**Description:** The sheer force of your attacks is so great that you send opponents
+flying. \newline
 
-The sheer force of your attacks is so great that you send opponents
-flying.
-
-**Effect**
-
-Each time you deal damage using a weapon with the forceful property, you
+**Effect:** Each time you deal damage using a weapon with the forceful property, you
 can choose to push the target five feet away from you.
 
 ## Natural Defense (I - III)
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Fortitude 3
-
 -   **Tier 2**: Fortitude 5
-
 -   **Tier 3**: Fortitude 7
 
-**Description**
-
-Whether through draconic heritage, a cyborg exoskeleton, or just a
+**Description:** Whether through draconic heritage, a cyborg exoskeleton, or just a
 lifetime of conditioning, your skin is tough as nails, allowing your
-body to deflect blows that would cripple others.
+body to deflect blows that would cripple others. \newline
 
-**Effect**
-
-When you are not wearing armor, you gain an armor bonus to your
+**Effect:** When you are not wearing armor, you gain an armor bonus to your
 Toughness and Evasion defenses. You may still gain this bonus when
 wielding a shield. Your armor bonus is determined by your tier in this
 feat:
 
--   **Tier 1** - +2 armor bonus
-
--   **Tier 2** - +4 armor bonus
-
--   **Tier 3** - +6 armor bonus
+-   **Tier 1** - +3 armor bonus
+-   **Tier 2** - +5 armor bonus
+-   **Tier 3** - +7 armor bonus
 
 ## Potent Bane
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Ability to invoke the chosen bane
 
-**Description**
-
-You are so adept at a particular form of attack that your foes struggle
+**Description:** You are so adept at a particular form of attack that your foes struggle
 to shake off the effects. Perhaps the flames of your fireballs burn
 hotter. Or maybe you've developed a special chemical to mix in with your
 blinding powder. Whatever the source and whatever the effect, your
-enemies cower before your legendary attack.
+enemies cower before your legendary attack. \newline
 
-**Effect**
-
-Choose one bane that you can invoke and that has a duration of "resist
+**Effect:** Choose one bane that you can invoke and that has a duration of "resist
 ends". When a target makes a resist roll to shake off your invocation of
 the chosen bane, they roll two d20s and use the lower die.
 
 ## Reactionary Berserker
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Will 5
-
     -   Berserker
 
-**Description**
+**Description:** Your berserker nature is ever-present, waiting to be unleashed at a
+moment's notice. \newline
 
-Your berserker nature is ever-present, waiting to be unleashed at a
-moment's notice.
-
-**Effect**
-
-You can enter a rage (as per the berserker feat) as a free action even
+**Effect:** You can enter a rage (as per the berserker feat) as a free action even
 when it is not your turn. You may choose to rage in reaction to another
 action, such as an enemy's attack, spell, or insult. You may even
 declare your intent to rage after the action has been resolved (such as
@@ -2415,19 +2076,15 @@ otherwise incurred.
 ## Reckless Frenzy
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Berserker
 
-**Description**
+**Description:** By willingly punishing your own body, you can enter a raging frenzy that
+allows you to launch a relentless onslaught of attacks. \newline
 
-By willingly punishing your own body, you can enter a raging frenzy that
-allows you to launch a relentless onslaught of attacks.
-
-**Effect**
-
-While you are raging, on your turn you may choose to inflict 5 hit
+**Effect:** While you are raging, on your turn you may choose to inflict 5 hit
 points of damage on yourself to make an additional attack as a minor
 action. Effects that prevent or reduce damage cannot effect this
 self-inflicted damage. You suffer the damage before making your extra
@@ -2437,203 +2094,147 @@ this feat.
 ## Resilient
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Fortitude, Presence, or Will 3
 
--   **Tier 1**: Fortitude , Presence , or Will 3
+**Description:** Whether through luck, extraordinary will, or exceptional courage, you
+are able to shake off banes quicker than others. \newline
 
-**Description**
-
-Whether through luck, extraordinary will, or exceptional courage, you
-are able to shake off banes quicker than others.
-
-**Effect**
-
-Any time you make a Resist roll, you have Advantage on the d20 roll
+**Effect:** Any time you make a Resist roll, you have Advantage on the d20 roll
 (roll 2 d20 and keep the higher, contrary to major action rolls)
 
 ## Ritual Magic (I - III)
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Any Supernatural 4
-
 -   **Tier 2**: Any Supernatural 6
-
 -   **Tier 3**: Any Supernatural 9
 
-**Description**
-
-By channeling your supernatural powers through extensive rituals, such
+**Description:** By channeling your supernatural powers through extensive rituals, such
 as meditation, fasting, blood letting, and sacrifices, you are able to
-increase the strength of your invocations.
+increase the strength of your invocations. \newline
 
-**Effect**
-
-When invoking a bane or boon, you may choose to do so as a ritual. The
+**Effect:** When invoking a bane or boon, you may choose to do so as a ritual. The
 invocation time for a ritual is one increment higher than usual as
 follows:
 
 -   1 action becomes 1 minute
-
 -   1 minute becomes 10 minutes
-
 -   10 minutes becomes 1 hour
-
 -   1 hour becomes 8 hours
-
 -   8 hours becomes 24 hours
 
 **Tier 1** - You may choose one of the following effects to empower your
 bane or boon:
 
 -   Increase the range of the effect as follows:
-
 -   Attribute 5 = 500ft
-
 -   -   Attribute 6 = 1/2 mile
-
 -   -   Attribute 7 = 1 mile
-
 -   -   Attribute 8 = 10 miles
-
 -   -   Attribute 9 = 100 miles
-
 -   -   Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).
-
 -   For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.
 
 **Tier 2** - You gain the following abilities:
 
 -   You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.
-
 -   You gain the following additional option to choose from when empowering your invocations with ritual magic:
-
     -   Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot disrupt the boon through use of a focus action (Though the dispel bane still works).
-
     -   Targets may not make resist rolls against a bane for one minute after it is invokes.
 
 **Tier 3** - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
 
 -   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Boon entry that follows).
-
 -   **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Dispel Bane entry that follows).
-
 -   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.
-
 -   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains special immunity to it.
 
 ## Skill Specialization (I - V)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 5:** None
 
-**Tier 1 - 5:** None
+**Description:** You have the eyes of an eagle, the endurance of an ox, the guile of a
+fox, or some similar exceptional non-combat talent. \newline
 
-**Description**
+**Effect:** Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute. \newline
 
-You have the eyes of an eagle, the endurance of an ox, the guile of a
-fox, or some similar exceptional non-combat talent.
-
-**Effect**
-
-Choose one attribute. Any time you make a non-attack action roll with
-the chosen attribute, you gain advantage 1 on the roll per tier of this
-feat you possess for that attribute.
-
-**Special**: You can take this feat multiple times. Each time, you can
-either apply it to a different attribute or increase the feat tier for
-an attribute you’ve already purchased.
+**Special:** You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
 
 ## Silencing Strike
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Agility 4
 
-**Description**
+**Description:** Like an expert assassin or ninja, you can render your foes completely
+unable to alert others of your presence. \newline
 
-Like an expert assassin or ninja, you can render your foes completely
-unable to alert others of your presence.
-
-**Effect**
-
-Whenever you successfully hit a target that you have advantage against,
+**Effect:** Whenever you successfully hit a target that you have advantage against,
 that target is afflicted by the silenced bane.
 
 ## Superior Concentration (I - III)
 
 **Cost:** 3 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1 - 3:** None
 
-**Tier 1 - 3:** Any Supernatural 3
+**Description:** Your powers of focus are exceptionally honed, allowing you to maintain
+concentration on multiple supernatural effects at once. \newline
 
-**Description**
-
-Your powers of focus are exceptionally honed, allowing you to maintain
-concentration on multiple supernatural effects at once.
-
-**Effect**
-
-When you take the sustain a boon minor action, you may sustain one
-additional boon per tier of this feat which you possess.
+**Effect:** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
 
 ## Supernatural Defense (I - V)
 
 **Cost:** 2 points
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Movement, Prescience, or Protection 2
+-   **Tier 2**: Movement, Prescience, or Protection 3
+-   **Tier 3**: Movement, Prescience, or Protection 4
+-   **Tier 4**: Movement, Prescience, or Protection 5
+-   **Tier 5**: Movement, Prescience, or Protection 6
 
--   **Tier 1**: Movement , Prescience , or Protection 2
-
--   **Tier 2**: Movement , Prescience , or Protection 3
-
--   **Tier 3**: Movement , Prescience , or Protection 4
-
--   **Tier 4**: Movement , Prescience , or Protection 5
-
--   **Tier 5**: Movement , Prescience , or Protection 6
-
-**Description**
-
-Whether by a magical barrier of force, foresight into the future, or
+**Description:** Whether by a magical barrier of force, foresight into the future, or
 preternatural speed, you are gifted with supernatural protection from
-harm.
+harm. \newline
 
-**Effect**
-
-You gain a +1 bonus to all defenses for each tier you have in this feat.
+**Effect:** You gain a +1 bonus to all defenses for each tier you have in this feat.
 This increases your Toughness, Evasion, and Resolve defenses.
 
 ## Supernatural Focus
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Any Supernatural 1
 
-**Description**
+**Description:** Your supernatural power stems from your connection with a particular
+focus, such as a wand, holy symbol, or spellbook. \newline
 
-Your supernatural power stems from your connection with a particular
-focus, such as a wand, holy symbol, or spellbook.
-
-**Effect**
-
-With the approval of your GM, choose a focus from which your power with
+**Effect:** With the approval of your GM, choose a focus from which your power with
 a single supernatural attribute stems. Some possibilities include a
 wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice,
 or an animal familiar. You cannot use the selected supernatural
 attribute without your focus. However, for the purposes of determining
 your attribute dice for action rolls, treat the chosen attribute as if
 it was one greater. For all purposes outside of attribute dice, your
-ability score remains unchanged (feats, banes, boons, etc.).
+ability score remains unchanged (feats, banes, boons, etc.). \newline
 
 **Special:** If you ever lose your supernatural focus, voluntarily or
 involuntarily, you regain the feat points that you have spent on this
@@ -2642,19 +2243,15 @@ feat and may spend them as usual.
 ## Supernatural Healing
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Creation 5
 
-**Description**
+**Description:** Your mastery of supernatural healing is such that you are able to cure
+mortal wounds that are beyond the power of the average healer. \newline
 
-Your mastery of supernatural healing is such that you are able to cure
-mortal wounds that are beyond the power of the average healer.
-
-**Effect**
-
-When invoking the Heal boon, you can choose to take one hour instead of
+**Effect:** When invoking the Heal boon, you can choose to take one hour instead of
 the usual invocation time. If you do, you heal an amount of lethal
 damage equal to the total healing from the successful boon invocation.
 This lethal damage is healed in addition to the normal hit point damage
@@ -2663,80 +2260,76 @@ that your boon heals.
 ## Swimming
 
 **Cost:** 1 point
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: None
 
-**Description**
+**Description:** You are made for the water and can swim at surprising speeds, with the
+aptitude of a fish. \newline
 
-You are made for the water and can swim at surprising speeds, with the
-aptitude of a fish.
-
-**Effect**
-
-You gain a swimming speed equal to your base speed and do not need to
+**Effect:** You gain a swimming speed equal to your base speed and do not need to
 make any special action rolls to maintain this base speed.
 
 ## Tough as Nails (I - II)
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Fortitude 3
-
 -   **Tier 2**: Fortitude 5
 
-**Description**
+**Description:** You have a remarkable ability to shrug off pain and punishment that
+would take down lesser heroes. \newline
 
-You have a remarkable ability to shrug off pain and punishment that
-would take down lesser heroes.
-
-**Effect**
-
-You permanently gain 5 extra hit points per tier of this feat you
+**Effect:** You permanently gain 5 extra hit points per tier of this feat you
 possess.
+
+## Two Weapon Brute
+
+**Cost:** 3 points
+\
+**Prerequisites:**
+
+-   **Tier 1**:
+    -   Agility 4
+    -   Might 5
+    -   Multi-Attack Specialist
+
+
+**Description:**  Being both physically powerful and incredibly agile, as such, you are able to wield a weapon in one-hand that requires two hands for others.
+
+**Effect:** You can wield weapons with the two-handed property in one hand and you gain the benefits of both the two-handed and one-handed property while doing so. This means that you gain a total of Advantage 2 when wielding a two-handed weapon in each hand, Advantage 1 from the power of a two-handed weapon + Advantage 1 from having one weapon in each hand.
+
 
 ## Two Weapon Defense
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**:
-
     -   Agility 4
-
     -   Multi-Attack Specialist
 
-**Description**
+**Description:** Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons. \newline
 
-Your mastery of two weapon fighting allows you not only to come at your
-foes with a flurry of attacks, but also shield yourself exceptionally
-well with your off-hand weapon.
-
-**Effect**
-
-When you have a weapon in each hand, you gain a +2 armor bonus. This
+**Effect:** When you have a weapon in each hand, you gain a +2 armor bonus. This
 feat cannot be used in conjunction with a shield.
 
 ## Unending Charm
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: Influence 4
 
-**Description**
+**Description:** Your charm is so potent that your victims may become permanently
+enthralled by you. \newline
 
-Your charm is so potent that your victims may become permanently
-enthralled by you.
-
-**Effect**
-
-When you invoke the charmed bane, targets who do not make their resist
+**Effect:** When you invoke the charmed bane, targets who do not make their resist
 roll within 24 hours of being afflicted become permanently affected by
 the bane. They do not receive any more resist rolls to shake themselves
 free of the effect. Other supernatural effects like a dispel boon can
@@ -2746,79 +2339,63 @@ discretion).
 ## Untrackable
 
 **Cost:** 1 point
+\
+**Prerequisites:**
 
-**Prerequisites**
+-   **Tier 1**: Alteration, Influence, or Protection 3
 
--   **Tier 1**: Alteration , Influence , or Protection 3
-
-**Description**
-
-Whether this power manifests itself as vines that grow in your wake, a
+**Description:** Whether this power manifests itself as vines that grow in your wake, a
 magical ward against detection, or an illusory veil, the effect is the
-same: you are supernaturally protected from being tracked.
+same: you are supernaturally protected from being tracked. \newline
 
-**Effect**
-
-Your travel is veiled by magic that conceals your tracks and any
+**Effect:** Your travel is veiled by magic that conceals your tracks and any
 evidence of your passage even after you are far away. It is impossible
 to follow your tracks except by supernatural means.
 
 ## Vicious Strike
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: None
 
-**Description**
+**Description:** Whether through brute force, lethal precision, or volatile magic, a
+deadly attack delivered by you is exceptionally vicious. \newline
 
-Whether through brute force, lethal precision, or volatile magic, a
-deadly attack delivered by you is exceptionally vicious.
-
-**Effect**
-
-Any time you roll a natural 20 on the d20 for an attack action roll, you
+**Effect:** Any time you roll a natural 20 on the d20 for an attack action roll, you
 roll twice on the subsequent re-roll of the d20 and take the higher
 result.
 
 ## Well-Rounded
 
 **Cost:** 2 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: None
 
-**Description**
-
-You have a versatile education, a wide range of experiences, or just
+**Description:** You have a versatile education, a wide range of experiences, or just
 plain old good luck. The result is that you're pretty good at things
-you're not specialized in.
+you're not specialized in. \newline
 
-**Effect**
-
-Any time you make a non-attack action roll with an attribute in which
+**Effect:** Any time you make a non-attack action roll with an attribute in which
 you have a score of 2 or less, roll an additional d20 and keep the
 highest of the two d20s.
 
 ## Wealthy
 
 **Cost:** 3 points
-
-**Prerequisites**
+\
+**Prerequisites:**
 
 -   **Tier 1**: None
 
-**Description**
+**Description:** Whether you were born into nobility, heir to a great treasure, or simply
+a well-established merchant, you are wealthier than the average \newline
+adventurer. \newline
 
-Whether you were born into nobility, heir to a great treasure, or simply
-a well-established merchant, you are wealthier than the average
-adventurer.
-
-**Effect**
-
-Your wealth score is increased by 1.
+**Effect:** Your wealth score is increased by 1.
 
 
 
@@ -2855,10 +2432,9 @@ If the object of your purchase is **one level higher than** your Wealth Score an
 
 You cannot make purchases that are more than one level higher than your Wealth Score.
 
+\newpage
 
 #### Wealth Overview
-
-\ \
 
 \NextTableColumns{OCT{.15}OCT{.35}OLT{.50}}
 
@@ -2916,7 +2492,7 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 **Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score plus one.
 
-**One-handed** – The weapon uses a single hand and allows the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
+**One-handed** – The weapon uses a single hand and allows the other hand to be used for carrying a shield, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain Advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target's defense.
 
 **Precise** –  This weapon can be used to make attacks with the Agility attribute.
 
@@ -3030,7 +2606,7 @@ Banes and boons are a huge part of what makes *Open Legend* so open. They repres
 
 Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoket the *Insubstantial* boon for herself or her allies until she gains enough experience to increase her Entropy to 7.
 
-The complete list of available banes can be found in the [banes section](http://www.openlegendrpg.com/banes) and [boons section](http://www.openlegendrpg.com/boons) of the [Open Legend Website]((http://www.openlegendrpg.com/), respectively.
+A list of available banes and boons can be found in this SRD under the [banes section](#banes-list) and [boons section](#boons-list) and a searchable and filterable list of available banes and boons can be found on the [Open Legend Website]((http://www.openlegendrpg.com/), respectively.
 
 ## Telling Your Story with Banes and Boons
 
@@ -3045,8 +2621,6 @@ To invoke a boon, you must succeed at an appropriate attribute roll with a Chall
 Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 6: Combat.
 
 ## Reading a Bane Description
-
-The full listing of banes are available in a searchable list [here](http://www.openlegendrpg.com/banes).
 
 Each bane description includes the following elements.
 
@@ -3070,24 +2644,20 @@ Below is a complete list of banes available to any character that meets the Powe
 
 ## Banished
 
-**Duration:** Instantaneous (special)
-
-**Power Level:** 6
-
+**Duration:** Instantaneous (special) \newline
+\
+**Power Level:** 6 \newline
+\
 **Attack Attributes:** Protection
-
+\
 **Attack:**
 
 -   Protection vs. Resolve
 
-**Description**
+**Description:** Wielding protective magic, you force an extraplanar creature to return
+to its home plane. \newline
 
-Wielding protective magic, you force an extraplanar creature to return
-to its home plane.
-
-**Effect**
-
-The creature is forced to return to its home plane. More powerful
+**Effect:** The creature is forced to return to its home plane. More powerful
 extraplanar beings may have ways of circumventing this banishment.
 However, typical non-legendary beings cannot. While the duration is
 instantaneous, the targeted creature cannot simply attempt to return by
@@ -3099,54 +2669,43 @@ from.
 ## Blinded
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
+\
 **Power Level:** 4
-
+\
 **Attack Attributes:** Agility, Creation, Energy, Entropy
-
+\
 **Attack:**
 
 -   Agility vs. Evasion
-
 -   Creation vs. Evasion
-
 -   Energy vs. Evasion
-
 -   Entropy vs. Toughness
 
-**Description**
+**Description:** You blind your foe with anything from a handful of sand, to an arctic
+blast, to a dazzling flash of light. \newline
 
-You blind your foe with anything from a handful of sand, to an arctic
-blast, to a dazzling flash of light.
-
-**Effect**
-
-The target cannot see as long as the effect persists. The target has a
+**Effect:** The target cannot see as long as the effect persists. The target has a
 50% chance of automatically failing any Perception checks or attack
 rolls. Roll this check before the attack or perception roll.
 
 ## Charmed
 
 **Duration:** Resist ends (special) (Fail x 3 = 24 hours)
-
-**Power Level:** 3/ 4/ 6
-
+\
+**Power Level:** 3, 4, 6
+\
 **Attack Attributes:** Influence
-
+\
 **Attack:**
 
 -   Influence vs. Resolve
 
-**Description**
-
-Charms are one of the great banes of legend, wielded by powerful
+**Description:** Charms are one of the great banes of legend, wielded by powerful
 enchantresses like Circe (in Homer's The Odyssey), nymphs, and other
 enchanters who control the will of others, not through total domination,
-but through a magical spell of love or friendship.
+but through a magical spell of love or friendship. \newline
 
-**Effect**
-
-The charmed bane can only be inflicted via a bane attack. Damaging
+**Effect:** The charmed bane can only be inflicted via a bane attack. Damaging
 attacks that trigger banes cannot trigger this bane. The Charmed bane
 manifests at two levels: minor and major.
 
@@ -3177,10 +2736,7 @@ on the power level of the bane when invoked.
 
 -   **Power Level 6** - You can Major Charm creatures of humanoid intelligence.
 
-
-**Special**
-
-While most banes last until the target actively attempts to resist it,
+**Special:** While most banes last until the target actively attempts to resist it,
 this bane prevents the target from being aware of their affliction and
 thus prevents them from actively attempting to break free. However, the
 targets true mind is magically suppressed but fights to regain control.
@@ -3193,27 +2749,22 @@ hours.
 ## Death
 
 **Duration:** Resist ends (special) (Fail x 3 = Permanent)
-
+\
 **Power Level:** 9
-
+\
 **Attack Attributes:** Agility, Entropy
-
+\
 **Attack:**
 
 -   Agility vs. Toughness
-
 -   Entropy vs. Toughness
 
-**Description**
-
-Utilizing either incredible precision or the power of entropy, the
+**Description:** Utilizing either incredible precision or the power of entropy, the
 target’s life force is snuffed out completely. The most deadly assassins
 and most powerful necromancers are known for such legendary skill at
-snuffing out life.
+snuffing out life. \newline
 
-**Effect**
-
-You attempt to completely snuff the life force of your target. There is
+**Effect:** You attempt to completely snuff the life force of your target. There is
 a brief window of time in which the target can attempt to resist this
 extinguishing force, but once that window closes, the death is permanent
 and can only be reversed with resurrection magic. When the bane is
@@ -3221,11 +2772,9 @@ initially applied, the target is immobile (can’t move from their current
 square) and unconscious. They have disadvantage 5 on all perception
 rolls, and are incapable of moving. As a result of being completely
 incapable of movement, an incapacitated character can be the victim of a
-finishing blow.
+finishing blow. \newline
 
-**Special**
-
-While most banes last until the target actively attempts to resist it,
+**Special:** While most banes last until the target actively attempts to resist it,
 this bane prevents the target from being aware of their affliction and
 thus prevents them from actively attempting to break free. However, the
 targets body fights to regain consciousness and resist the pending
@@ -3240,74 +2789,58 @@ the bane for the next 24 hours.
 ## Demoralized
 
 **Duration:** Resist (minor) ends (Fail x 3 = 1 minute)
-
-**Power Level:** 2
-
-**Attack Attributes:** Agility, Energy, Entropy, Influence, Might,
-Persuasion, Presence
-
+\
+**Power Level:** 3, 6, 8
+\
+**Attack Attributes:** Agility, Energy, Entropy, Influence, Might, Persuasion, Presence
+\
 **Attack:**
 
 -   Agility vs. Resolve
-
 -   Energy vs. Resolve
-
 -   Entropy vs. Resolve
-
 -   Influence vs. Resolve
-
 -   Might vs. Resolve
-
 -   Persuasion vs. Resolve
-
 -   Presence vs. Resolve
 
-**Description**
+**Description:** Using your quick wit, intimidating presence, or even a strong display of
+magical power, you cause your enemies to doubt themselves. \newline
 
-Using your quick wit, intimidating presence, or even a strong display of
-magical power, you cause your enemies to doubt themselves.
+**Effect:** The affected target has disadvantage on all action rolls.
 
-**Effect**
+-  **Power Level 3** - Disadvantage 1
+-  **Power Level 6** - Disadvantage 2
+-  **Power Level 8** - Disadvantage 3
 
-The affected target has disadvantage 1 on all action rolls.
-
-**Special**: Resisting this bane is a minor action.
+**Special:** Resisting this bane is a minor action.
 
 ## Disarmed
 
 **Duration:** Instantaneous
-
-**Power Level:** 3/ 6
-
-**Attack Attributes:** Agility, Alteration, Energy, Entropy, Influence,
-Might, Movement
-
+\
+**Power Level:** 3, 6
+\
+**Attack Attributes:** Agility, Alteration, Energy, Entropy, Influence, Might, Movement
+\
 **Attack:**
 
 -   Agility vs. Evasion
-
 -   Alteration vs. Evasion
-
 -   Energy vs. Toughness
-
 -   Entropy vs. Toughness
-
 -   Influence vs. Resolve
-
 -   Might vs. Toughness
-
 -   Movement vs. Evasion
 
-**Description**
-
-Whether through wrestling it from your opponent, forcefully knocking it
+**Description:** Whether through wrestling it from your opponent, forcefully knocking it
 out of their hand, skilfully parrying a weapon, a precise nerve strike,
 magical summoning of vines, etc., heating or chilling an item in their
 hands, giving a mental command, weakening the muscles they use to grip,
 or warping the shape of the item, you force an opponent to lose control
-of an object they are holding.
+of an object they are holding. \newline
 
-**Effect**
+**Effect:**
 
 -   **Power Level 3** - You force another character to drop an object they are holding. Choose a location within 15’ of the target, the item ends up there.
 
@@ -3317,22 +2850,18 @@ of an object they are holding.
 ## Dispel
 
 **Duration:** Instantaneous
-
-**Power Level:** 1/ 6
-
+\
+**Power Level:** 1, 6
+\
 **Attack Attributes:** Protection
-
+\
 **Attack:**
 
 -   Protection vs. Resolve
 
-**Description**
+**Description:** You cancel boons affecting an enemy. \newline
 
-You cancel boons affecting an enemy.
-
-**Effect**
-
-Make an Protection roll. You can dispel boons affecting the target of a
+**Effect:** Make an Protection roll. You can dispel boons affecting the target of a
 maximum Power Level equal to (Protection roll - 10) ÷ 2. The Power Level
 at which you invoke this bane determines the types of effects you can
 dispel, as follows:
@@ -3345,25 +2874,21 @@ dispel, as follows:
 ## Dominated
 
 **Duration:** Resist ends (Fail x 3 = 1 hour)
-
-**Power Level:** 3/ 5/ 9
-
+\
+**Power Level:** 3, 5, 9
+\
 **Attack Attributes:** Influence
-
+\
 **Attack:**
 
 -   Influence vs. Resolve
 
-**Description**
-
-Though rare, domination is seen from time to time in legendary tales,
+**Description:** Though rare, domination is seen from time to time in legendary tales,
 often wielded by vampires, and sometimes by the most powerful of
 sorcerers who command legions of mindless zombies, completely enslaved
-to their will.
+to their will. \newline
 
-**Effect**
-
-The dominated bane manifests at two levels: lesser and greater.
+**Effect:** The dominated bane manifests at two levels: lesser and greater.
 
 **Lesser Domination** - the target obeys a one word command until the
 end of their next turn.
@@ -3373,13 +2898,13 @@ your control. Unlike the charmed bane, characters under the effect of
 domination lose control of their actions. Their minds, however, can
 think freely, leaving them effectively trapped in their own body. They
 cannot take action of any kind (except thought) unless it is ordered by
-you. Every action which the attacker orders the afflicted character to
+you. Every action which you order the afflicted target to
 perform which is in extreme violation of their nature gives the target a
 Resist roll as a free action to break free from the effect. The attacker
 does not gain special access to the target’s mind and so can only order
-the character to perform actions that they think or know (from prior
-knowledge) that the character is capable of. Lastly, each mental order
-that the attacker gives to the target is a major action, however the
+the target to perform actions that they think or know (from prior
+knowledge) that the target is capable of. Lastly, each mental order
+you give to the target is a major action, however the
 order can be a series of verbal commands like “Attack enemy X unless
 someone comes through the door, in which case flee.”. The dominated
 creature will continue to obey the last mental command they were given
@@ -3392,11 +2917,7 @@ given time, so giving a new command cancels all previous ones.
 
 -   **Power Level 9** - You can target creatures of human intelligence or greater with Greater Domination
 
--
-
-**Special**
-
-While most banes last until the target actively attempts to resist it,
+**Special:** While most banes last until the target actively attempts to resist it,
 this bane prevents the target from being aware of their affliction and
 thus prevents them from actively attempting to break free. However, the
 target's true mind is magically suppressed but fights to regain control.
@@ -3409,25 +2930,33 @@ hours.
 ## Fatigued
 
 **Duration:** Special
-
+\
 **Power Level:** 5
-
+\
 **Attack Attributes:** Entropy
-
+\
 **Attack:**
 
 -   Entropy vs. Toughness
 
-**Description**
+**Description:** Fatigue overcomes the target, causing their body to gradually cease
+normal function until they rest. \newline
 
-Fatigue overcomes the target, causing their body to gradually cease
-normal function until they rest.
-
-**Effect**
-
-This bane has multiple tiers which are applied in succession. Each time
+**Effect:** This bane has multiple tiers which are applied in succession. Each time
 this bane is inflicted, if it is already in effect on the target, the
 severity escalates by one level.
+
+-   Level 1 - The target has Disadvantage 1 on all non-attack  action rolls.
+
+-   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.
+
+-   Level 3 - The target has Disadvantage 1 on all attack rolls.
+
+-   Level 4 - The target is affected by the slowed bane, reducing it's speed to 2. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
+
+-   Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.
+
+-   Level 6 - The target dies.
 
 **Special:** Unlike other banes, canceling this bane takes time and
 rest. Each 24 hour period of rest with little or no exertion, removes
@@ -3439,53 +2968,32 @@ Restoration boon until 24 hours have passed. If the Restoration boon's
 invoker has an attribute score of 7 or greater, all levels of fatigue
 are removed instead of just one.
 
--   Level 1 - The target has Disadvantage 1 on all non-attack  action rolls.
-
--   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.
-
--   Level 3 - The target has Disadvantage 1 on all attack rolls.
-
--   Level 4 - The target is affected by the slowed bane, reducing it's speed to 2. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
-
--   Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.
-
--   Level 6 - The target dies.
-
 
 ## Fear
 
 **Duration:** Special
-
+\
 **Power Level:** 5
-
+\
 **Attack Attributes:** Creation, Entropy, Influence, Might
-
+\
 **Attack:**
 
 -   Creation vs. Resolve
-
 -   Entropy vs. Resolve
-
 -   Influence vs. Resolve
-
 -   Might vs. Toughness
 
-**Description**
-
-You manifest an overwhelming force of physical might or supernatural
+**Description:** You manifest an overwhelming force of physical might or supernatural
 power that strikes terror into the hearts of enemies, causing them to
-flee from your presence.
+flee from your presence. \newline
 
-**Effect**
-
-On its turn, the afflicted target must use its entire turn to get as far
+**Effect:** On its turn, the afflicted target must use its entire turn to get as far
 away as possible from you. It cannot use its actions to do anything
 other than retreat, and it cannot willingly move closer to you while the
-bane persists.
+bane persists. \newline
 
-**Special**
-
-While most banes last until the target actively attempts to resist them,
+**Special:** While most banes last until the target actively attempts to resist them,
 this bane prevents the target from thinking clearly. However, the
 target's logical mind fights to regain control. As such, at the end of
 each of its turns, the target receives a Resist roll as a free action to
@@ -3496,64 +3004,47 @@ you to inflict the bane for the next hour.
 ## Forced Move
 
 **Duration:** Instantaneous
-
-**Power Level:** 2/ 4/ 6/ 8
-
+\
+**Power Level:** 2, 4, 6, 8
+\
 **Attack Attributes:** Energy, Might, Movement
-
+\
 **Attack:**
 
 -   Energy vs. Toughness
-
 -   Might vs. Toughness
-
 -   Movement vs. Toughness
 
-**Description**
+**Description:** With a forceful blow, magical gust of wind, or telekinetic push, you
+move your target against its will. \newline
 
-With a forceful blow, magical gust of wind, or telekinetic push, you
-move your target against its will.
-
-**Effect**
-
-The afflicted target is moved a number of squares equal to the power
+**Effect:** The afflicted target is moved a number of squares equal to the power
 level of the bane divided by 2. The ending square is chosen by the
 attacker.
 
 ## Immobile
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
+\
 **Power Level:** 1
-
-**Attack Attributes:** Agility, Alteration, Creation, Energy, Entropy,
-Influence, Might
-
+\
+**Attack Attributes:** Agility, Alteration, Creation, Energy, Entropy, Influence, Might
+\
 **Attack:**
 
 -   Agility vs. Evasion
-
 -   Alteration vs. Evasion
-
 -   Creation vs. Toughness
-
 -   Energy vs. Toughness
-
 -   Entropy vs. Toughness
-
 -   Influence vs. Resolve
-
 -   Might vs. Toughness
 
-**Description**
-
-Whether through grappling, a precise nerve strike, entangling vines,
+**Description:** Whether through grappling, a precise nerve strike, entangling vines,
 exerting mental control, or a bone-numbing blast of cold, you render
-your foe incapable of movement.
+your foe incapable of movement. \newline
 
-**Effect**
-
-Your target cannot move from its current space. If you invoked the bane
+**Effect:** Your target cannot move from its current space. If you invoked the bane
 with a Might roll, then both you and the target are immobile in your
 current space for the duration of the bane (locked in a grapple). While
 grappling in this manner, you can attempt to inflict this bane again
@@ -3565,39 +3056,32 @@ If you invoked the bane with any attribute other than Might, you can
 move freely while the target remains affected.
 
 You can choose to release the target at any time (a free action that
-immediately ends the bane).
+immediately ends the bane). \newline
 
-**Special**: When an affected target succeeds at a Resist roll to end
-this effect, they can move 15' as a minor action.
+**Special:** When an affected target succeeds at a Resist roll to end this effect, they can move 15' as a minor action.
 
 ## Incapacitated
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
-**Power Level:** 5/ 7/ 9
-
+\
+**Power Level:** 5, 7, 9
+\
 **Attack Attributes:** Agility, Entropy, Influence
-
+\
 **Attack:**
 
 -   Agility vs. Toughness
-
 -   Entropy vs. Toughness
-
 -   Influence vs. Resolve
 
-**Description**
-
-Incapacitation is a catch-all for a variety of effects, including total
+**Description:** Incapacitation is a catch-all for a variety of effects, including total
 paralysis, sleep, petrification, poisoning, being knocked out, or
 fainting. Examples of possible causes of this bane include a martial
 artist’s paralyzing strike, an enchanter's magical song of sleep,
 paralysis by poison, fainting from extreme heat, suffocation, and the
-gaze of a medusa.
+gaze of a medusa. \newline
 
-**Effect**
-
-The target is immobile (can’t move from their current space) and
+**Effect:** The target is immobile (can’t move from their current space) and
 unconscious. They have disadvantage 5 on all perception rolls and are
 incapable of moving. As a result of being completely incapable of
 movement, an incapacitated character can be the victim of a finishing
@@ -3610,9 +3094,7 @@ blow.
 -   **Power Level 9** - The effect cannot be disrupted by external forces, only the afflicted character’s successful resist roll can end the effect.
 
 
-**Special**
-
-While most banes last until the target actively attempts to resist it,
+**Special:** While most banes last until the target actively attempts to resist it,
 this bane prevents the target from being aware of their affliction and
 thus prevents them from actively attempting to break free. However, the
 targets body fights to regain consciousness. As such, at the end of each
@@ -3624,37 +3106,26 @@ you to inflict the bane for the next hour.
 ## Intimidated
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
-**Power Level:** 4/ 5/ 6/ 7/ 8/ 9
-
-**Attack Attributes:** Creation, Deception, Energy, Influence, Might,
-Persuasion, Presence
-
+\
+**Power Level:** 4, 5, 6, 7, 8, 9
+\
+**Attack Attributes:** Creation, Deception, Energy, Influence, Might, Persuasion, Presence
+\
 **Attack:**
 
 -   Creation vs. Resolve
-
 -   Deception vs. Resolve
-
 -   Energy vs. Resolve
-
 -   Influence vs. Resolve
-
 -   Might vs. Resolve
-
 -   Persuasion vs. Resolve
-
 -   Presence vs. Resolve
 
-**Description**
-
-Through a display of awe-inspiring force, intimidation, or leadership,
+**Description:** Through a display of awe-inspiring force, intimidation, or leadership,
 you command attention as the greatest threat, causing others to fear to
-attack your allies.
+attack your allies. \newline
 
-**Effect**
-
-Any attacks made by the target that do not include you as a target
+**Effect:** Any attacks made by the target that do not include you as a target
 suffer disadvantage. If the same target is affected by this bane from
 multiple sources, as long as their attack includes one of those who
 targeted them, they are not affected by the penalty. Unlike other banes,
@@ -3675,33 +3146,27 @@ another).
 
 -   **Power Level 9** - The target suffers disadvantage 6 on attacks that do not include you.
 
--
 
 ## Knockdown
 
 **Duration:** Instantaneous
-
+\
 **Power Level:** 2
-
+\
 **Attack Attributes:** Energy, Might
-
+\
 **Attack:**
 
 -   Energy vs. Toughness
-
 -   Might vs. Toughness
 
-**Description**
-
-Fights are called “knock down, drag out” for a reason. Knocking an
+**Description:** Fights are called “knock down, drag out” for a reason. Knocking an
 opponent prone is a common way for one combatant to gain the upper hand.
 Knockdown can be caused by a thunderous blow from a great axe, an earth
 shattering bolt of supernatural energy, or a well aimed shove in a
-direction where the enemy's balance is weak.
+direction where the enemy's balance is weak. \newline
 
-**Effect**
-
-The target falls prone. Prone targets have disadvantage 1 on all attacks
+**Effect:** The target falls prone. Prone targets have disadvantage 1 on all attacks
 they make. Melee and area attacks against prone characters gain
 advantage 1. Projectile attacks against prone targets suffer
 disadvantage 1.
@@ -3709,24 +3174,20 @@ disadvantage 1.
 ## Memory Alteration
 
 **Duration:** Instantaneous
-
-**Power Level:** 5/ 6/ 8
-
+\
+**Power Level:** 5, 6, 8
+\
 **Attack Attributes:** Influence
-
+\
 **Attack:**
 
 -   Influence vs. Resolve
 
-**Description**
-
-Warping or controlling the mind is one of the most dreaded powers of
+**Description:** Warping or controlling the mind is one of the most dreaded powers of
 enchanters, causing powerful heroes to forget their homes, families, and
-quests.
+quests. \newline
 
-**Effect**
-
-The memory alteration bane can only be inflicted via a bane attack.
+**Effect:** The memory alteration bane can only be inflicted via a bane attack.
 Damaging attacks that trigger banes cannot trigger this bane.
 
 This bane confers no special ability to know about a target's memory.
@@ -3740,32 +3201,26 @@ knowledge, prescience, or other means.
 -   **Power Level 8** - Instead of the immediate past, you can eraseor alter memories from any time.
 
 
-**Special**
-
-When you target an enemy with this bane and your action roll fails to
+**Special:** When you target an enemy with this bane and your action roll fails to
 beat the target's resolve defense, the target is immune to further
 attempts of this bane from you for the next 24 hours.
 
 ## Mind Dredge
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
-**Power Level:** 2/ 4/ 6/ 8/ 9
-
+\
+**Power Level:** 2, 4, 6, 8, 9
+\
 **Attack Attributes:** Prescience
-
+\
 **Attack:**
 
 -   Prescience vs. Resolve
 
-**Description**
+**Description:** Fortune tellers, psychics, and mentalists all use mind dredge to peer
+into the minds of others. \newline
 
-Fortune tellers, psychics, and mentalists all use mind dredge to peer
-into the minds of others.
-
-**Effect**
-
--   **Power Level 2** - This power may only target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.
+**Effect:** -   **Power Level 2** - This power may only target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.
 
 -   **Power Level 4** - This power may target creatures of any intelligence. You gain access to the target’s current thoughts.
 
@@ -3776,53 +3231,39 @@ into the minds of others.
 -   **Power Level 9** - This power may target creatures of any intelligence. You gain access to the target’s current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.
 
 
-**Special**
-
-When your target succeeds at a resist roll against this bane, they
+**Special:** When your target succeeds at a resist roll against this bane, they
 become to immune to all subsequent attempts by you to inflict the bane
 for the next 24 hours.
 
 ## Persistent Damage
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
-**Power Level:** 2/ 4/ 6
-
+\
+**Power Level:** 2, 4, 6
+\
 **Attack Attributes:** Agility, Energy, Entropy
-
+\
 **Attack:**
 
 -   Agility vs. Evasion
-
 -   Energy vs. Toughness
-
 -   Entropy vs. Toughness
 
-**Description**
-
-Whether by setting the target ablaze, covering them in acid, slicing an
+**Description:** Whether by setting the target ablaze, covering them in acid, slicing an
 artery, or cursing them with a wasting disease, you inflict them with a
-lasting and recurring source of damage.
+lasting and recurring source of damage. \newline
 
-**Effect**
-
-At the beginning of the target's turn, before they take any actions, the
+**Effect:** At the beginning of the target's turn, before they take any actions, the
 target suffers damage determined by the power level of the bane. This
 damage automatically bypasses the afflicted character’s defenses but it
 can be reduced by any resistance to damage of a certain type (see the
 Resistance boon). Like all dice rolls, these dice explode.
 
 -  **Power Level 2** - 1d4 damage per round.
-
 -  **Power Level 4** - 1d8 damage per round
-
 -  **Power Level 6** - 2d6 damage per round
 
--
-
-**Special**
-
-Persistent damage comes in a number of different variations: Physical
+**Special:** Persistent damage comes in a number of different variations: Physical
 damage (bleeding damage from a vital strike), Energy damage (lightning,
 fire, cold, acid, etc.) and entropic damage (necromantic energy). Each
 variation has a its own cure. When that cure is applied with a major
@@ -3833,36 +3274,29 @@ given type of persistent damage, but the following examples can help
 with arbitration:
 
 -   Bleeding damage is cured with a successful roll using Knowledge (Medical) or Creation.
-
 -   Lightning damage is cured by a discharge or grounding of the current.
-
 -   Cold damage is countered with warmth, heat, or fire.
-
 -   Acid damage is neutralized with alkalizing agents (powder, milk, etc.).
 
 
 ## Phantasm
 
 **Duration:** Resist ends (Fail x 3 = 10 minutes)
-
-**Power Level:** 1/ 2/ 3/ 6
-
+\
+**Power Level:** 1, 2, 3, 6
+\
 **Attack Attributes:** Influence
-
+\
 **Attack:**
 
 -   Influence vs. Resolve
 
-**Description**
-
-You create an illusory manifestation to deceive the senses of all within
+**Description:** You create an illusory manifestation to deceive the senses of all within
 range. Some examples include making a meal taste rotten, creating the
 sound of a stampede of horses, hiding allies behind a false wall, and
-even manifesting an elven noble who can converse intelligibly.
+even manifesting an elven noble who can converse intelligibly. \newline
 
-**Effect**
-
-You create a phantasm of your choosing. The Power Level at which you
+**Effect:** You create a phantasm of your choosing. The Power Level at which you
 invoke the bane determines which senses you can manifest. Until reaching
 Power Level 6, you can combine sensory illusions by adding the required
 Power Levels together (e.g., mimicking both sight and sound requires
@@ -3874,38 +3308,24 @@ transforming a human into a goblin) require a new invocation of the
 illusion.
 
 -   **Power Level 1** - Taste
-
 -   **Power Level 2** - Sound
-
 -   **Power Level 2** - Smell
-
 -   **Power Level 2** - Touch
-
 -   **Power Level 3** - Sight
-
 -   **Power Level 6** - All Senses
-
 
 Your Influence attribute score determines the maximum area that your
 phantasm can cover as follows. The dimensions are depth, width, and
-height (all squares must touch but can be in any shape/pattern)
+height (all squares must touch but can be in any shape,pattern)
 
 -   Influence 1 - 5' x 5' x 5'
-
 -   Influence 3 - 10' x 10' x 10'
-
 -   Influence 5 - 15' x 15' x 15'
-
 -   Influence 7 - 20' x 20' x 20'
-
 -   Influence 8 - 30' x 30' x 30'
-
 -   Influence 9 - 40' x 40' x 40'
 
-
-**Special**
-
-When you invoke the phantasm bane, your Influence action roll determines
+**Special:** When you invoke the phantasm bane, your Influence action roll determines
 who is convinced by the illusion. Any creatures with a Resolve defense
 score less than or equal to your roll will believe the phantasm to be
 real and will react accordingly. Those with a higher Resolve score will
@@ -3921,24 +3341,20 @@ for the next hour.
 ## Polymorph
 
 **Duration:** Special
-
-**Power Level:** 5/ 6/ 8/ 9
-
+\
+**Power Level:** 5, 6, 8, 9
+\
 **Attack Attributes:** Alteration
-
+\
 **Attack:**
 
 -   Alteration vs. Toughness
 
-**Description**
-
-You alter the size, shape, and composition of another creature. Make an
+**Description:** You alter the size, shape, and composition of another creature. Make an
 enemy larger or smaller. Turn them into a sheep, newt, or whatever your
-imagination desires.
+imagination desires. \newline
 
-**Effect**
-
-Your Power Level determines the extent to which you can transform your
+**Effect:** Your Power Level determines the extent to which you can transform your
 target. If the target is transformed into a different creature, it uses
 the Might, Agility, Fortitude, and Perception attribute scores of the
 new creature.
@@ -3954,24 +3370,20 @@ new creature.
 ## Scrying
 
 **Duration:** 10 minutes (Special)
-
+\
 **Power Level:** 5
-
+\
 **Attack Attributes:** Prescience
-
+\
 **Attack:**
 
 -   Prescience vs. Resolve (Special)
 
-**Description**
-
-Peering into a supernatural conduit such as a hearth, a bubbling
+**Description:** Peering into a supernatural conduit such as a hearth, a bubbling
 cauldron, or a crystal ball, you see can view the target from a
-distance.
+distance. \newline
 
-**Effect**
-
-You can scry on a person or area that you are familiar with. The
+**Effect:** You can scry on a person or area that you are familiar with. The
 Challenge Rating to succeed at this scrying is based on the distance
 between you and the target. If successful, you can see and hear
 everything that goes on within a 60' radius of your target. Anyone
@@ -3982,17 +3394,12 @@ the roll). Certain creatures may be able to identify your scrying if
 they are familiar with such powers.
 
 -   **20** - 1 mile or less
-
 -   **22** - 100 miles or less
-
 -   **24** - More than 100 miles, but on the same dimension or plane of reality
-
 -   **28** - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).
 
 
-**Special**
-
-When you successfully invoke this bane, at the end of it's duration, you
+**Special:** When you successfully invoke this bane, at the end of it's duration, you
 can make a Prescience roll to attempt to persist the bane. If
 successful, the bane persists without requiring the invocation time to
 be repeated. However, you must retest your new roll against the Resolve
@@ -4006,51 +3413,40 @@ hours.
 ## Sickened
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
+\
 **Power Level:** 3
-
+\
 **Attack Attributes:** Entropy
-
+\
 **Attack:**
 
 -   Entropy vs. Toughness
 
-**Description**
+**Description:** Entropic energy overcomes the target, bombarding their system and
+inducing nausea which makes any kind of action difficult. \newline
 
-Entropic energy overcomes the target, bombarding their system and
-inducing nausea which makes any kind of action difficult.
-
-**Effect**
-
-The target suffers disadvantage 2 to all action rolls.
+**Effect:** The target suffers disadvantage 2 to all action rolls.
 
 ## Silenced
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
+\
 **Power Level:** 2
-
+\
 **Attack Attributes:** Agility, Alteration, Entropy, Might
-
+\
 **Attack:**
 
 -   Agility vs. Evasion
-
 -   Alteration vs. Toughness
-
 -   Entropy vs. Toughness
-
 -   Might vs. Toughness
 
-**Description**
-
-Silence overcomes the target (whether from magically warping sound
+**Description:** Silence overcomes the target (whether from magically warping sound
 around the target) or from a physical effect like strangulation or
-suffocation.
+suffocation. \newline
 
-**Effect**
-
-If Might, Agility, or Entropy is used to inflict this bane, then the
+**Effect:** If Might, Agility, or Entropy is used to inflict this bane, then the
 character is suffering strangulation and unable to speak. If the bane is
 inflicted using Alteration, then all sound within 5’ of the target is
 magically suppressed, making their footsteps and the usual clank of
@@ -4059,31 +3455,23 @@ belongings they are carrying inaudible.
 ## Slowed
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
+\
 **Power Level:** 2
-
+\
 **Attack Attributes:** Agility, Energy, Entropy, Might, Movement
-
+\
 **Attack:**
 
 -   Agility vs. Evasion
-
 -   Energy vs. Toughness
-
 -   Entropy vs. Toughness
-
 -   Might vs. Toughness
-
 -   Movement vs. Toughness
 
-**Description**
+**Description:** Slowing an enemy is usually caused by either extreme cold, prolonged
+heat, poison, or injury to one or both legs. \newline
 
-Slowing an enemy is usually caused by either extreme cold, prolonged
-heat, poison, or injury to one or both legs.
-
-**Effect**
-
-The afflicted target’s movement is reduced to 10 feet. This applies to
+**Effect:** The afflicted target’s movement is reduced to 10 feet. This applies to
 all movement that is physical (flight, walking, climbing, etc.). If the
 target is currently under a magical effect that increases speed, the two
 effects are canceled for the duration that both affect the target.
@@ -4091,69 +3479,52 @@ effects are canceled for the duration that both affect the target.
 ## Stunned
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
+\
 **Power Level:** 4
-
+\
 **Attack Attributes:** Agility, Energy, Entropy, Might
-
+\
 **Attack:**
 
 -   Agility vs. Toughness
-
 -   Energy vs. Toughness
-
 -   Entropy vs. Toughness
-
 -   Might vs. Toughness
 
-**Description**
-
-Stunning an enemy can be anything from the pommel of a dagger to the
+**Description:** Stunning an enemy can be anything from the pommel of a dagger to the
 back of the head, to a kick in the groin, to a deafening thunderclap
-that disorients the target.
+that disorients the target. \newline
 
-**Effect**
+**Effect:** During its turn, the target is limited to either a single major action, a single move action, or a single minor action. It cannot take all three, nor can it take a focus action. Note that a target expending it's move action to Resist this bane will receive the remainder of their usual actions if the Resist roll succeeds. Thus they will have their usual Major and Minor actions available this round. \newline
 
-During its turn, the target is limited to either a single major action,
-a single move action, or a single minor action. It cannot take all
-three, nor can it take a focus action.
-
-**Special** - Boss actions are not affected by this bane, and can still
-be used to partially bypass this, though they must use one boss action
-per major, move, or minor action they wish to take.
+**Special:** Boss actions are not affected by this bane, and can still be used to partially bypass this, though they must use one boss action per major, move, or minor action they wish to take.
 
 ## Stupefied
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
-
+\
 **Power Level:** 7
-
+\
 **Attack Attributes:** Influence
-
+\
 **Attack:**
 
 -   Influence vs. Resolve
 
-**Description**
-
-The stupefied bane has examples in many stories and legends: a vampire’s
+**Description:** The stupefied bane has examples in many stories and legends: a vampire’s
 eyes, a siren's song, and a nymph's beauty are all known to cast a
 stupor upon weak-willed mortals. Being stupefied causes the character to
-be lulled into a false sense of security, tranquility, and pacifism.
+be lulled into a false sense of security, tranquility, and pacifism. \newline
 
-**Effect**
-
-The target is in a state of mental fog, lowering their mental defenses.
+**Effect:** The target is in a state of mental fog, lowering their mental defenses.
 While stupefied, the character’s Resolve defense is reduced to 10. In
 addition, the character has the approximate intelligence of a child. If
 attacked, it will defend itself until the attack ceases using its
 natural weapons, but the target will never employ any kind of complex
 tactic or ability, such as spellcasting. If the target sees fire, it
-will run away. If it feels pain, it will flee.
+will run away. If it feels pain, it will flee. \newline
 
-**Special**
-
-While most banes last until the target actively attempts to resist it,
+**Special:** While most banes last until the target actively attempts to resist it,
 this bane prevents the target from actively planning to break free.
 However, the target's true mind is magically suppressed but fights to
 regain control. As such, at the end of each of its turns, the target
@@ -4171,29 +3542,23 @@ attempts by you to inflict the bane for the next 24 hours.
 ## Surprised
 
 **Duration:** 1 Round
-
+\
 **Power Level:** 0
-
+\
 **Attack Attributes:** N/A
-
+\
 **Attack:**
 
 -   N/A
 
-**Description**
-
-Being surprised is being caught flat-footed and scrambling to react to
+**Description:** Being surprised is being caught flat-footed and scrambling to react to
 an enemy that the character was either unaware of or did not realize was
-an enemy.
+an enemy. \newline
 
-**Effect**
+**Effect:** All attackers gain advantage 1 against surprised characters. Surprised
+characters cannot take any actions that are interrupt actions. \newline
 
-All attackers gain advantage 1 against surprised characters. Surprised
-characters cannot take any actions that are interrupt actions.
-
-**Special**
-
-Unlike other banes, surprised cannot by inflicted directly with an
+**Special:** Unlike other banes, surprised cannot by inflicted directly with an
 action roll. Instead, it is determined by situations resulting from the
 story, such as a party being ambushed by a band of thieves hiding in the
 brush.
@@ -4205,31 +3570,25 @@ hiding, invisible, or for some other reason *not perceived as a threat*.
 ## Truthfulness
 
 **Duration:** 10 minutes (Special)
-
+\
 **Power Level:** 5
-
+\
 **Attack Attributes:** Influence
-
+\
 **Attack:**
 
 -   Influence vs. Resolve
 
-**Description**
+**Description:** With supernatural control of the mind, you compel the target to honesty,
+rendering them unable to speak falsely. \newline
 
-With supernatural control of the mind, you compel the target to honesty,
-rendering them unable to speak falsely.
-
-**Effect**
-
-The target answers any question asked with honesty, to the best of their
+**Effect:** The target answers any question asked with honesty, to the best of their
 knowledge. When compelled to reveal something they would not reveal
 outside of duress, the target makes a Will roll and you make an
 Influence roll. If the target's roll is higher than yours, then they
-resist the bane and the effect ends.
+resist the bane and the effect ends. \newline
 
-**Special**
-
-When you successfully invoke this bane, at the end of its duration, you
+**Special:** When you successfully invoke this bane, at the end of its duration, you
 can make another Influence roll to attempt to persist the bane. If
 successful, the bane persists without requiring the invocation time to
 be repeated.
@@ -4251,11 +3610,9 @@ again for 24 hours.
 
 ## Reading a Boon Description
 
-The full listing of boons are available in a searchable list [here](http://www.openlegendrpg.com/boons).
-
 Each boon description includes the following elements.
 
-**Power Level.** This number indicates the required attribute score needed to invoke the boon. If multiple power levels are listed (such as 2 / 4 / 6), then the boon can be invoked at multiple tiers of power. The *Heal* boon, for example, heals more damage as you invoke it at higher power levels. The power level of a boon also determines the Challenge Rating of the attribute roll to invoke the boon. The CR equals 10 + 2 x Power Level.
+**Power Level.** This number indicates the required attribute score needed to invoke the boon. If multiple power levels are listed (such as 2, 4, 6), then the boon can be invoked at multiple tiers of power. The *Heal* boon, for example, heals more damage as you invoke it at higher power levels. The power level of a boon also determines the Challenge Rating of the attribute roll to invoke the boon. The CR equals 10 + 2 x Power Level.
 
 **Attributes.** This is a list of the attribute or attributes that can be used to invoke the boon. As long as you possess at least one of the listed attributes at a score greater than or equal to the Power Level, then you can invoke the boon.
 
@@ -4277,23 +3634,19 @@ Below is a complete list of boons available to any character that meets the Powe
 ## Absorb Object
 
 **Duration:** Instantaneous
-
+\
 **Invocation Time:** 1 Major Action
-
+\
 **Power Level:** 4
+\
+**Attributes:** Alteration, Movement \newline
 
-**Attributes:** Alteration, Movement
-
-**Description**
-
-You are able to supernaturally absorb an object into your body through
+**Description:** You are able to supernaturally absorb an object into your body through
 such means as the mutation or alteration of your body (moving muscles
 and ligaments aside to make room for it) or by creating an
-extradimensional space to hide it.
+extradimensional space to hide it. \newline
 
-**Effect**
-
-The object remains in place, completely hidden from the perception of
+**Effect:** The object remains in place, completely hidden from the perception of
 others, until you summon or recall it (automatically) as a minor action.
 If anything happens to cancel this boon (such as the Dispel bane), the
 object is immediately shunted out of your body as if you had withdrawn
@@ -4302,51 +3655,39 @@ it to your hand.
 ## Aid
 
 **Duration:** Instantaneous
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 3, 6, 8
+\
+**Attributes:** Alteration, Creation, Prescience, Presence \newline
 
-**Power Level:** 4/ 6/ 8
+**Description:** Your bolster an ally's chances of succes via inspiration, augmentation,
+divine blessing, or supernatural insight. \newline
 
-**Attributes:** Alteration, Creation, Prescience, Presence
-
-**Description**
-
-Your bolster an ally's chances of succes via inspiration, augmentation,
-divine blessing, or supernatural insight.
-
-**Effect**
-
-Choose a physical, social, or mental attribute. The target gains
+**Effect:** Choose a physical, social, or mental attribute. The target gains
 advantage on their next action roll according to the Power Level of the
 boon. If the target does not make the roll before your next turn, the
 bonus is lost.
 
--   **Power Level 4** - Advantage 1
-
+-   **Power Level 3** - Advantage 1
 -   **Power Level 6** - Advantage 2
-
 -   **Power Level 8** - Advantage 3
-
--
 
 ## Animation
 
 **Duration:** Permanent
-
+\
 **Invocation Time:** 8 Hours
+\
+**Power Level:** 6, 8
+\
+**Attributes:** Creation, Entropy \newline
 
-**Power Level:** 6
+**Description:** You create life or unlife of subhuman intelligence that persists
+indefinitely and autonomously. \newline
 
-**Attributes:** Creation, Entropy
-
-**Description**
-
-You create life or unlife of subhuman intelligence that persists
-indefinitely and autonomously.
-
-**Effect**
-
-Your are able to imbue life or unlife into inanimate material components
+**Effect:** Your are able to imbue life or unlife into inanimate material components
 such as dirt, bones, water, vines, or sand (the materials used are
 subject to GM discretion). You perform a ritual that last 8 hours. At
 the end of the ritual, make your action roll. If successful, the
@@ -4371,21 +3712,17 @@ creator.
 ## Augury
 
 **Duration:** 1 round
-
+\
 **Invocation Time:** 1 Minute
+\
+**Power Level:** 1, 3, 5, 7
+\
+**Attributes:** Prescience \newline
 
-**Power Level:** 1/ 3/ 5/ 7
+**Description:** You peer into the future to gain insight into a course of action, an
+event, a person, or a place. \newline
 
-**Attributes:** Prescience
-
-**Description**
-
-You peer into the future to gain insight into a course of action, an
-event, a person, or a place.
-
-**Effect**
-
--   **Power Level 1** - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+**Effect:** -   **Power Level 1** - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
 -   **Power Level 3** - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
@@ -4394,27 +3731,49 @@ event, a person, or a place.
 -   **Power Level 7** - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
 
 
+## Aura
+
+**Duration:** Sustain Persists
+\
+**Invocation Time:** 1 Major Action
+\
+**Power Level:** 4, 6, 8
+\
+**Attributes:** Alteration, Creation, Energy, Entropy, Influence, Movement, Presence, Presience, Protection \newline
+
+**Description:** You surround a willing target in an aura that hurts their foes or helps their allies. A shield of flame that burns attackers, a circle of healing, and an aura of elemental protection are all examples of this boon in action. \newline
+
+**Effect:** An aura extends from a willing target to a distance determined by the Power Level of this boon:
+
+-    **Power Level 4**: 5' radius
+-    **Power Level 6**: 10' radius
+-    **Power Level 8**: 15' radius
+
+Choose a single bane or boon which uses the same attribute that you used to invoke Aura. The maximum power level for the chosen bane or boon is one-half the power level of your aura. Your aura radiates the chosen bane or boon as follows:
+
+-   If the aura radiates a bane,</strong> then the target of the aura is not affected by it. All other creatures (friend or foe) who willingly enter the area of the aura or end their turn within it suffer a bane attack to inflict the chosen bane. No creature may be subject to a bane attack from the same creature's aura more than once per round.
+
+-   If the aura radiates a boon,</strong> then the target of the aura is also affected by it. The target and all allies who end their turn within the area of the aura automatically gain the chosen boon. Upon leaving the area of the aura, the boon is immediately removed. No creature may gain a boon from the same creature's aura more than once per round.
+
+**Special:** This boon may require special attention and adjudication from the GM, as not all banes and boons may be an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
+
 
 ## Blindsight
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
-
+\
 **Power Level:** 5
+\
+**Attributes:** Alteration, Entropy, Perception, Prescience \newline
 
-**Attributes:** Alteration, Entropy, Perception, Prescience
-
-**Description**
-
-Even in the absence of light you are able to distinguish your
+**Description:** Even in the absence of light you are able to distinguish your
 surroundings. Some examples of blindsight include tremorsense,
 echolocation, heat vision, divine insight, or supernaturally heightened
-senses.
+senses. \newline
 
-**Effect**
-
-The Blinded bane does not adversely affect you and you are able to see
+**Effect:** The Blinded bane does not adversely affect you and you are able to see
 normally even in conditions of little or no light. Blindsight can also
 potentially counter invisibility, though the GM will have to decide if
 the source creating the blindsight is appropriate to counter the source
@@ -4423,21 +3782,17 @@ creating the invisibility.
 ## Darkness
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 1, 2, 3, 4, 5, 6, 7, 8, 9
+\
+**Attributes:** Entropy, Influence \newline
 
-**Power Level:** 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9
+**Description:** You create an area of illusory darkness or entropic energy that snuffs
+out all light. \newline
 
-**Attributes:** Entropy, Influence
-
-**Description**
-
-You create an area of illusory darkness or entropic energy that snuffs
-out all light.
-
-**Effect**
-
-Choose a space or object within range. Darkness emanates from the target
+**Effect:** Choose a space or object within range. Darkness emanates from the target
 to a radius equal five feet per power level of the boon. The effect
 cancels the effect of all natural light within its radius of effect and
 creatures that depend on light for vision suffer as though they have the
@@ -4450,21 +3805,17 @@ the power level of both is equal, then they cancel each other out.
 ## Detection
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
-
+\
 **Power Level:** 1
+\
+**Attributes:** Prescience \newline
 
-**Attributes:** Prescience
+**Description:** You gain supernatural vision that allows you to see colored auras which
+correlate to magical and spiritual forces. \newline
 
-**Description**
-
-You gain supernatural vision that allows you to see colored auras which
-correlate to magical and spiritual forces.
-
-**Effect**
-
-When calling on this boon, you must choose from the following: **holy**,
+**Effect:** When calling on this boon, you must choose from the following: **holy**,
 **unholy**, **life**, **death**, and **magic**. You can perceive
 invisible auras pertaining to the chosen type of force and have an
 approximate sense of their strength (from weak to overwhelming). These
@@ -4483,26 +3834,24 @@ will give off a radius of death for a time after the killing blow.
 
 -   **Magic** - Magical auras surround objects or places imbued with magical effects. Supernatural creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.
 
-**Special**: Unlike other boons, this boon can not target another
+**Special:** Unlike other boons, this boon can not target another
 character. Only the character invoking the boon can see the auras.
 
 
 ## Flight
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 5, 6, 8
+\
+**Attributes:** Alteration, Movement \newline
 
-**Power Level:** 5/ 6/ 8
+**Description:** The target is propelled by magical force through the air, with
+progressively improving speed and agility. \newline
 
-**Attributes:** Alteration, Movement
-
-**Description**
-
-The target is propelled by magical force through the air, with
-progressively improving speed and agility.
-
-**Effect**
+**Effect:** -
 
 -   **Power Level 5** - The target gains a flight speed of 10’ with low maneuverability.
 
@@ -4517,20 +3866,16 @@ plummet to the ground immediately.
 ## Genesis
 
 **Duration:** Instantaneous
-
+\
 **Invocation Time:** Special
+\
+**Power Level:** 3, 7, 9
+\
+**Attributes:** Creation \newline
 
-**Power Level:** 3/ 7/ 9
+**Description:** You create something from nothing.
 
-**Attributes:** Creation
-
-**Description**
-
-You create something from nothing.
-
-**Effect**
-
--   **Power Level 3** - You can create simple non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.
+**Effect:** -   **Power Level 3** - You can create simple non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour. \newline
 
 -   **Power Level 7** - You can create organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. The invocation time for this application is 8 hours.
 
@@ -4540,19 +3885,17 @@ You create something from nothing.
 ## Haste
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 2, 4, 6, 8
+\
+**Attributes:** Alteration, Movement \newline
 
-**Power Level:** 2/ 4/ 6/ 8
+**Description:** The target moves with supernatural speed, dodging attacks more deftly
+and accomplishing actions at an uncanny rate. \newline
 
-**Attributes:** Alteration, Movement
-
-**Description**
-
-The target moves with supernatural speed, dodging attacks more deftly
-and accomplishing actions at an uncanny rate.
-
-**Effect**
+**Effect:**
 
 -   **Power Level 2** - The target's speed is increased by 5'.
 
@@ -4562,71 +3905,53 @@ and accomplishing actions at an uncanny rate.
 
 -   **Power Level 8** - The target's speed is increased by 25'. Attacks against the target's Evasion defense suffer disadvantage 3. The target gains an extra major action every round.
 
--
 
 ## Heal
 
 **Duration:** Instantaneous
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 1, 2, 3, 4, 5, 6, 7, 8, 9
+\
+**Attributes:** Alteration, Creation, Learning, Logic, Presence \newline
 
-**Power Level:** 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9
-
-**Attributes:** Alteration, Creation, Learning, Logic, Presence
-
-**Description**
-
-Healing can be one of two things: the actual mending of wounds and
+**Description:** Healing can be one of two things: the actual mending of wounds and
 broken bones through various sources like medicine, surgery, or
 supernatural creative life force, OR the inspiration of an ally to carry
-on, even in the face of death.
+on, even in the face of death. \newline
 
-**Effect**
-
-Roll dice according to the boon power level below. These dice explode as
+**Effect:** Roll dice according to the boon power level below. These dice explode as
 normal. The target is healed a number of hit points equal to the total
 roll.
 
-**Special:** This boon does not heal lethal damage.
-
 -   **Power Level 1** - Heal 1d4
-
 -   **Power Level 2** - Heal 1d6
-
 -   **Power Level 3** - Heal 1d8
-
 -   **Power Level 4** - Heal 1d10
-
 -   **Power Level 5** - Heal 2d6
-
 -   **Power Level 6** - Heal 2d8
-
 -   **Power Level 7** - Heal 2d10
-
 -   **Power Level 8** - Heal 3d8
-
 -   **Power Level 9** - Heal 3d10
 
+**Special:** This boon does not heal lethal damage.
 
 ## Insubstantial
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
-
+\
 **Power Level:** 7
+\
+**Attributes:** Alteration, Entropy \newline
 
-**Attributes:** Alteration, Entropy
-
-**Description**
-
-When a creature becomes insubstantial, it is no longer bound by physical
+**Description:** When a creature becomes insubstantial, it is no longer bound by physical
 barriers. Ghosts, wizards assuming gaseous form, and creatures who blink
-between dimensions are all exemplars of the insubstantial boon.
+between dimensions are all exemplars of the insubstantial boon. \newline
 
-**Effect**
-
-The target gains the ability to pass freely through all physical
+**Effect:** The target gains the ability to pass freely through all physical
 barriers as if they were unoccupied spaces. In addition, they gain the
 ability to freely move in any direction in both the horizontal and
 vertical planes at their normal non-magical speed (30' for most
@@ -4644,43 +3969,33 @@ Evasion or Toughness.
 ## Invisible
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
-
+\
 **Power Level:** 6
+\
+**Attributes:** Alteration, Influence \newline
 
-**Attributes:** Alteration, Influence
-
-**Description**
-
-You vanish from the visible spectrum, either through magical control of
+**Description:** You vanish from the visible spectrum, either through magical control of
 light, an illusion of you not being there, or stepping into an
-extradimensional space between the fabric of the planes.
+extradimensional space between the fabric of the planes. \newline
 
-**Effect**
-
-Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.
-
--
+**Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.
 
 ## Life Drain
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
-
+\
 **Power Level:** 5
+\
+**Attributes:** Entropy \newline
 
-**Attributes:** Entropy
+**Description:** Like the bite of a vampire or the soul draining touch of a black mage,
+you can steal the very lifeforce of your foes. \newline
 
-**Description**
-
-Like the bite of a vampire or the soul draining touch of a black mage,
-you can steal the very lifeforce of your foes.
-
-**Effect**
-
-While this boon persists, the target heals half (round up) of the damage
+**Effect:** While this boon persists, the target heals half (round up) of the damage
 he inflicts with each attack. If an attack damages multiple foes, the
 target of this boon heals based on the total damage inflicted against
 all foes.
@@ -4688,20 +4003,16 @@ all foes.
 ## Light
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Minor Action
+\
+**Power Level:** 1, 2, 3, 4, 5, 6, 7, 8, 9
+\
+**Attributes:** Creation, Energy \newline
 
-**Power Level:** 1/ 2/ 3/ 4/ 5/ 6/ 7/ 8/ 9
+**Description:** You light up an area with magical light from a point of your choice. \newline
 
-**Attributes:** Creation, Energy
-
-**Description**
-
-You light up an area with magical light from a point of your choice
-
-**Effect**
-
-Choose a space or object within range. Supernatural light emanates from
+**Effect:** Choose a space or object within range. Supernatural light emanates from
 the target to a radius equal five feet per power level of the boon. If
 the light area overlaps an area affected by the Darkness boon, then the
 one of greater power level supersedes the other. If the power level of
@@ -4710,22 +4021,18 @@ both is equal, then they cancel each other out.
 ## Reading
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 5, 6, 7, 8, 9
+\
+**Attributes:** Prescience \newline
 
-**Power Level:** 5/ 6/ 7/ 8/ 9
-
-**Attributes:** Prescience
-
-**Description**
-
-You reach out and supernaturally connect with an object or place,
+**Description:** You reach out and supernaturally connect with an object or place,
 gaining the ability to read residual information from it and divine what
-has occurred in its vicinity in the past.
+has occurred in its vicinity in the past. \newline
 
-**Effect**
-
-When you successfully invoke this boon, you gain information from an
+**Effect:** When you successfully invoke this boon, you gain information from an
 object or place within range as follows:
 
 -   **Power Level 5** - You can read vague ideas and impressions to learn what took place near the target within the past hour.
@@ -4738,65 +4045,50 @@ object or place within range as follows:
 
 -   **Power Level 9** - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.
 
--
 
 ## Regeneration
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 1, 3, 5, 7, 9
+\
+**Attributes:** Alteration, Creation \newline
 
-**Power Level:** 1/ 3/ 5/ 7/ 9
-
-**Attributes:** Alteration, Creation
-
-**Description**
-
-The target gains a supernatural ability to heal their wounds. Examples
+**Description:** The target gains a supernatural ability to heal their wounds. Examples
 of this include the supernatural regeneration of a troll, or an ability
 to channel energy that results in healing. Regardless of the source,
-wounds close before the very eyes of an onlooker.
+wounds close before the very eyes of an onlooker. \newline
 
-**Effect**
-
-While the regeneration boon is sustained, the target heals hit points at
+**Effect:** While the regeneration boon is sustained, the target heals hit points at
 the beginning of each of the *boon invoker's* turns. The amount of
 healing is determined by the power level of the boon, and the dice
 rolled for healing explode as usual.
 
-**Special:** This boon does not heal lethal damage.
-
 -   **Power Level 1** - 1d4
-
 -   **Power Level 3** - 1d6
-
 -   **Power Level 5** - 1d8
-
 -   **Power Level 7** - 1d10
-
 -   **Power Level 9** - 2d6
 
--
+**Special:** This boon does not heal lethal damage.
 
 ## Resistance
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 3, 5, 7, 9
+\
+**Attributes:** Alteration, Energy, Movement, Protection \newline
 
-**Power Level:** 3/ 5/ 7/ 9
-
-**Attributes:** Alteration, Energy, Movement, Protection
-
-**Description**
-
-Whether through a magical force field, an elemental wall, or a temporary
+**Description:** Whether through a magical force field, an elemental wall, or a temporary
 mutation, the target becomes resistant to the effects of damage from a
-certain type of attack.
+certain type of attack. \newline
 
-**Effect**
-
-When the boon is invoked, the invoker chooses one type of attack and the
+**Effect:** When the boon is invoked, the invoker chooses one type of attack and the
 target gains resistance to that type. The types include finesse,
 forceful, fire, cold, lightning, acid, influence, creation, and entropy
 (other types may be approved by the GM). The effect of the resistance is
@@ -4814,42 +4106,44 @@ cumulative):
 ## Restoration
 
 **Duration:** Instantaneous
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 1, 2, 3, 4, 5, 6, 7, 8, 9
+\
+**Attributes:** Creation, Protection \newline
 
-**Power Level:** 1
+**Description:** Your protective magic cancels all harmful afflictions that are effecting
+an ally. \newline
 
-**Attributes:** Creation, Protection
+**Effect:** You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon.
 
-**Description**
+-   **Power Level 1** - Cancel banes of Power Level 1 or less.
+-   **Power Level 2** - Cancel banes of Power Level 2 or less.
+-   **Power Level 3** - Cancel banes of Power Level 3 or less.
+-   **Power Level 4** - Cancel banes of Power Level 4 or less.
+-   **Power Level 5** - Cancel banes of Power Level 5 or less.
+-   **Power Level 6** - Cancel banes of Power Level 6 or less.
+-   **Power Level 7** - Cancel banes of Power Level 7 or less.
+-   **Power Level 8** - Cancel banes of Power Level 8 or less.
+-   **Power Level 9** - Cancel banes of Power Level 9 or less.
 
-Your protective magic cancels all harmful afflictions that are effecting
-an ally.
-
-**Effect**
-
-Make a roll using the attribute used for invoking this boon. You can
-dispel all banes affecting the target of a maximum Power Level equal to
-(roll - 10) ÷ 2.
+**Special:** You can dispel even higher level banes, but your roll total must be double the banes normal Power Level. So, a Power Level 9 bane can be dispelled on a roll of 46. This is only possible if the boon is invoked by a dice roll.
 
 ## Retributive Barrier
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 4, 5, 6, 7, 8
+\
+**Attributes:** Creation, Energy, Protection \newline
 
-**Power Level:** 4/ 5/ 6/ 7/ 8
+**Description:** You summon a warding barrier of flames, blades, thorns, or similar
+material to damage enemies that dare to approach. \newline
 
-**Attributes:** Creation, Energy, Protection
-
-**Description**
-
-You summon a warding barrier of flames, blades, thorns, or similar
-material to damage enemies that dare to approach.
-
-**Effect**
-
-Designate a willing target or a 5' square that is not occupied by an
+**Effect:** Designate a willing target or a 5' square that is not occupied by an
 enemy. While this boon is active, any enemy that passes within 5' of the
 target takes damage according to the boon's Power Level. Each time this
 boon deals damage, roll a d20. On a 10 or better, the boon persists, on
@@ -4857,13 +4151,9 @@ a lower roll the power of the boon is expended by the retributive
 attack.
 
 -   **Power Level 4** - d4 damage
-
 -   **Power Level 5** - d6 damage
-
 -   **Power Level 6** - d8 damage
-
 -   **Power Level 7** - d10 damage
-
 -   **Power Level 8** - 2d6 damage
 
 
@@ -4871,54 +4161,43 @@ attack.
 ## Seeing
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 4, 5, 6
+\
+**Attributes:** Prescience \newline
 
-**Power Level:** 4/ 5/ 6
+**Description:** You are able to see through the eyes of a willing ally. \newline
 
-**Attributes:** Prescience
-
-**Description**
-
-You are able to see through the eyes of a willing ally.
-
-**Effect**
-
-For as long as you concentrate, you can see through the eyes of the
+**Effect:** For as long as you concentrate, you can see through the eyes of the
 target, a willing ally. The target can be any friendly creature,
 including animals, beasts, and humanoids. The distance of the connection
 depends on your Prescience score.
 
 -   **Power Level 4** - The ally must be within 100'.
-
 -   **Power Level 5** - The ally must be within 1 mile.
-
 -   **Power Level 6** - The ally must be anywhere on the same plane of existence.
 
+**Special:** If your action roll to invoke this boon fails, that ally cannot be targeted for 1 hour.
 
-**Special**: If your action roll to invoke this boon fails, that ally
-cannot be targeted for 1 hour.
 
 ## Shapeshift
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 3, 4, 5, 6, 7, 8, 9
+\
+**Attributes:** Alteration \newline
 
-**Power Level:** 3/ 4/ 6/ 7/ 8/ 9
-
-**Attributes:** Alteration
-
-**Description**
-
-A target's physical structure is temporarily altered, allowing it to
+**Description:** A target's physical structure is temporarily altered, allowing it to
 change form to potentially any creature no matter how fantastic or
 exotic. Common examples of shapeshifting include lyncanthropes (such as
-werewolves), dryads, dopplegangers, and certain types of druids.
+werewolves), dryads, dopplegangers, and certain types of druids. \newline
 
-**Effect**
-
-You or a willing creature you touch transform into a creature whose
+**Effect:** You or a willing creature you touch transform into a creature whose
 highest attribute is less than or equal to your Alteration score. All of
 the target's existing supernatural attribute scores drop to zero, and
 they acquire the Agility, Fortitude, Might, and Perception attributes of
@@ -4926,30 +4205,21 @@ the new form. The following limitations apply at Power Level 2, and are
 gradually removed at higher power levels:
 
 -   The new form cannot be a different size than that of the target.
-
 -   The new form must possess a typical humanoid or animal physiology. Animal-like creatures, such as dragons, are allowed, but plants, elementals, oozes, and similar forms are not.
-
 -   The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.).
-
 -   The target does not gain supernatural attributes of the new form (hence, they cannot inflict banes that rely on the creature’s supernatural attributes).
-
--
 
 These limitations are removed based on the Power Level of the boon.
 
 -   **Power Level 3** - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.
-
 -   **Power Level 4** - Shapeshift into a creature between one quarter and quadruple the target's original size.
-
+-   **Power Level 5** - Gain the flying movement mode of the new form, if applicable.
 -   **Power Level 6** - Gain the flying movement mode of the new form, if applicable.
-
 -   **Power Level 7** - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.
-
 -   **Power Level 8** - Shapeshift into a creature of any size.
-
 -   **Power Level 9** - Gain all supernatural attributes possessed by the target.
 
-**Special**: Shapeshifting into a specific creature (attempting to
+**Special:** Shapeshifting into a specific creature (attempting to
 impersonate them) requires a Deception action roll which is opposed by
 Perception attribute of anyone who sees the shapeshifted creature. In
 addition, at power levels 4 and lower, the target does not gain mastery
@@ -4961,20 +4231,16 @@ swimming in combat, suffer disadvantage on relevant action rolls.
 ## Telekinesis
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 4, 6, 8
+\
+**Attributes:** Movement \newline
 
-**Power Level:** 5/ 6/ 8
+**Description:** You reach out and supernaturally control an unattended inanimate object. \newline
 
-**Attributes:** Movement
-
-**Description**
-
-You reach out and supernaturally control an unattended inanimate object.
-
-**Effect**
-
-Immediately upon invoking the boon, and again each round when you
+**Effect:** Immediately upon invoking the boon, and again each round when you
 sustain the boon, you may move the target object up to 30'. As part of
 moving an object, you may also manipulate it (for example, turning a
 door knob or opening a coin purse). A new invocation of this boon must
@@ -4982,31 +4248,25 @@ be attempted whenever you wish to target a different object. The Power
 Level of the boon determines the size and weight of the objects you may
 target:
 
--   **Power Level 5** - The object must be smaller or lighter than a fist-sized rock.
-
+-   **Power Level 4** - The object must be smaller or lighter than a fist-sized rock.
 -   **Power Level 6** - The object must be smaller or lighter than a large humanoid creature.
-
 -   **Power Level 8** - The object must be smaller or lighter than a small building, such as a hut or shed.
 
 
 ## Telepathy
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 3, 5, 6, 7
+\
+**Attributes:** Prescience \newline
 
-**Power Level:** 3/ 5/ 6/ 7
+**Description:** You reach out mentally to a willing target and speak wordlessly with
+thought-to-thought communication. \newline
 
-**Attributes:** Prescience
-
-**Description**
-
-You reach out mentally to a willing target and speak wordlessly with
-thought-to-thought communication.
-
-**Effect**
-
-You and the target can communicate with each other simply through
+**Effect:** You and the target can communicate with each other simply through
 thought. Note that this telepathy does not bestow intelligence upon
 creatures, so you could not use it to communicate with a squirrel unless
 you already possessed other means of doing so. Additionally, telepathy
@@ -5026,22 +4286,18 @@ the language of your target.
 ## Teleport
 
 **Duration:** Instantaneous
-
+\
 **Invocation Time:** 1 Move Action
+\
+**Power Level:** 3, 5, 7, 9
+\
+**Attributes:** Movement \newline
 
-**Power Level:** 3/ 5/ 7/ 9
-
-**Attributes:** Movement
-
-**Description**
-
-You are able to instantly move from one place to another, either by
+**Description:** You are able to instantly move from one place to another, either by
 stepping into an intermediate realm, projecting yourself magically, or
-other similar means.
+other similar means. \newline
 
-**Effect**
-
--   **Power Level 3** - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
+**Effect:** -   **Power Level 3** - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
 
 -   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see. If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect).
 
@@ -5054,19 +4310,17 @@ other similar means.
 ## Tongues
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 10 Minutes
+\
+**Power Level:** 5, 6
+\
+**Attributes:** Prescience \newline
 
-**Power Level:** 5/ 6
+**Description:** You are able to read, write, and speak languages that you are otherwise
+unfamiliar with. \newline
 
-**Attributes:** Prescience
-
-**Description**
-
-You are able to read, write, and speak languages that you are otherwise
-unfamiliar with.
-
-**Effect**
+**Effect:**
 
 -   **Power Level 5** - You can understand and speak a language of your choice.
 
@@ -5077,22 +4331,18 @@ unfamiliar with.
 ## Transmutation
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Minute
+\
+**Power Level:** 3, 5, 7, 8, 9
+\
+**Attributes:** Alteration \newline
 
-**Power Level:** 3/ 5/ 7/ 8/ 9
-
-**Attributes:** Alteration
-
-**Description**
-
-You are able to change size, shape, and composition of physical matter
+**Description:** You are able to change size, shape, and composition of physical matter
 that you touch. Make an ally larger or smaller, transmute rocks to gold
-or flesh to stone.
+or flesh to stone. \newline
 
-**Effect**
-
-Your Power Level determines the types of matter your can transmute as
+**Effect:** Your Power Level determines the types of matter your can transmute as
 well as the duration of the effect. The duration is either *temporary*
 or *permanent*. A **temporary** transmutation must be sustained every
 round and has a maximum duration of 1 hour per your Alteration attribute
@@ -5112,20 +4362,18 @@ persists until some other effect would cancel it.
 ## Truesight
 
 **Duration:** Sustain Persists
-
+\
 **Invocation Time:** 1 Major Action
+\
+**Power Level:** 5, 7, 9
+\
+**Attributes:** Prescience \newline
 
-**Power Level:** 5/ 7/ 9
-
-**Attributes:** Prescience
-
-**Description**
-
-You are able to supernaturally perceive things through impediments that
+**Description:** You are able to supernaturally perceive things through impediments that
 would block or deceive normal sight, including darkness, illusions, and
-even the barrier between alternate planes of reality.
+even the barrier between alternate planes of reality. \newline
 
-**Effect**
+**Effect:**
 
 -   **Power Level 5** - You can see normally in natural or magical darkness. This supernatural sight extends to 30'.
 
@@ -5183,14 +4431,19 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 
 \NextTableColumns{OCT{1}}
 
-| The Action Roll for Attacks <br /> Roll 1d20 + attribute dice (all dice explode) |
+| The Action Roll for Attacks |
+| :-: |
+| Roll 1d20 + attribute dice (all dice explode) |
 
 \NextTableColumns{OLT{.33}OLT{.67}}
 
 | If the action roll... | then the result is... |
 | :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 5 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10’ w/o opportunity attacks |
+| is less than the Challenge Rating, | The GM and the PC both choose 1: \
+Deal 5 damage \
+Inflict 1 bane of Power Level <= 3 < \
+Move 10’ w/o opportunity attacks |
 
 With these modified rules, a player’s failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect.
 
@@ -5395,7 +4648,7 @@ equal or exceed the appropriate defense for that bane. If your attack targeted m
 **Make a Bane Attack**
 
 Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
-detailed in the [*bane descriptions*](#Banes List).
+detailed in the [*bane descriptions*](#banes-list).
 
 To resolve a bane attack, follow these steps:
 
@@ -5405,11 +4658,11 @@ Bane attacks follow the same rules for determining range and number of targets a
 
 **2. Determine Targeted Defense**
 
-The targeted defense is determined by the type of bane being inflicted. Consult the [*bane descriptions*](#Banes List) to determine which defense to target.
+The targeted defense is determined by the type of bane being inflicted. Consult the [*bane descriptions*](#banes-list) to determine which defense to target.
 
 **3. Roll Your Attack**
 
-The [*bane descriptions*](#Banes List) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target’s defense score, your target suffers the bane.
+The [*bane descriptions*](#banes-list) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target’s defense score, your target suffers the bane.
 
 #### Invoke a Boon
 
@@ -5729,17 +4982,13 @@ Once you have the basic statistics recorded, choose a few of the following feats
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon. Gain the following benefits:
 
     - **Tier 1:** Automatically succeed at invoking the boon to target single creatures (No action roll required). When multi-targeting, gain advantage 2 on the action roll to invoke.
-
-     - **Tier 2:** Invoke the boon one increment faster. If invoking the boon is a normal action, it becomes a minor action. If invocation time is 1 minute, it becomes 1 normal action. If invocation time is 10 minutes, it becomes 1 minute. If invocation time is 1 hour, it becomes 10 minutes. If invocation is 8 hours, it becomes 1 hour. If the invocation has multiple targets, success is not automatic, but you get advantage 3 on the action roll to invoke it.
-
+    - **Tier 2:** Invoke the boon one increment faster. If invoking the boon is a normal action, it becomes a minor action. If invocation time is 1 minute, it becomes 1 normal action. If invocation time is 10 minutes, it becomes 1 minute. If invocation time is 1 hour, it becomes 10 minutes. If invocation is 8 hours, it becomes 1 hour. If the invocation has multiple targets, success is not automatic, but you get advantage 3 on the action roll to invoke it.
     - **Tier 3:** This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If you invoke this boon with multiple targets, success is not automatic, but you get advantage 4 on the action roll to invoke it.
 
 - **Energy Resistance (tier 1 - 3, your choice):** Choose an energy type and gain the following benefits:
 
     - **Tier 1:** Prevent the first 5 damage you would suffer each round from the chosen energy type.
-
     - **Tier 2:** All damage you would suffer from the chosen type is halved.
-
     - **Tier 3:** You are immune to the chosen energy type.
 
 - **Evasive Footwork:** When you move from a square adjacent to an enemy to another square not adjacent to that enemy, the enemy does not get the usual opportunity attack.
