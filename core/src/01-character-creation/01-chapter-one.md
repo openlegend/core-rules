@@ -212,7 +212,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 When an enemy tries to attack you--whether with a breath of flame, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
-| Toughness = 10 + Fortitude + Presence |
+| Toughness = 10 + Fortitude + Will |
 | - |
 | |
 

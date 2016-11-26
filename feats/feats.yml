@@ -29,7 +29,7 @@
   cost:
   - 3
   description: |
-    Alternate form is an ability possessed by lycanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <emphasis>specific</emphasis> forms.
+    Alternate form is an ability possessed by lycanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <em>specific</em> forms.
   effect: |
     You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a Focus action.
     When you take this feat, you build the stats for the alternate form that you can assume.
@@ -163,7 +163,7 @@
   description: |
     You are so well trained with a particular form of attack that you can devastate foes with much more skill than the average combatant.
   effect: |
-    When you take this feat, select one weapon or energy type. You gain Advantage 1 per tier of this feat for any <emphasis>damaging</emphasis> attack made with your choice. This bonus does not apply to bane attacks or boon invocations.
+    When you take this feat, select one weapon or energy type. You gain Advantage 1 per tier of this feat for any <em>damaging</em> attack made with your choice. This bonus does not apply to bane attacks or boon invocations.
     Examples of energy types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
   special: |
     You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
@@ -396,9 +396,9 @@
     You are specialized in the use a particular boon that is iconic to your character.
   effect: |
     <ul>
-    <li>Tier 1 - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
-    <li>Tier 2 - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 major action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
-    <li>Tier 3 - The effect at tier 3 varies based on the duration of the boon:
+    <li><strong>Tier 1</strong> - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. If the invocation has multiple targets, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
+    <li><strong>Tier 2</strong> - When your invocation includes multiple targets, you gain advantage 3 on your action roll to invoke the boon. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action.  If the invocation time is 1 minute, it becomes 1 major action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
+    <li><strong>Tier 3</strong> - The effect at tier 3 varies based on the duration of the boon:
       <br />
       <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke it when multi-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.
       <br />
@@ -673,7 +673,7 @@
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by a melee or projectile attack from you.</li>
-    <li><strong>Tier 2</strong> – Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, provided you have a hand free to cover their mouth or use a garrote (or similar strangling implement), the Silenced bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
+    <li><strong>Tier 2</strong> – Your death blow HP threshold increases from 5 to 10. In addition, on a successful melee Lethal Strike, provided you have a hand free to cover their mouth or use a garrote (or similar strangling implement), the Silenced bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
     <li><strong>Tier 3</strong> – Your death blow HP threshold increases from 10 to 15. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
     </ul>
 - !
@@ -905,7 +905,7 @@
   cost:
   - 2
   description: |
-    Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than the average joe.
+    Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most.
   effect: |
     Your speed is permanently increased by 5' per tier of this feat.
 - !
@@ -1215,7 +1215,7 @@
   description: |
     Like a deadly assassin, a ninja of legend, or a feinting melee dervish, you can devastate your foes with an expertly placed attack when you catch them off guard.
   effect: |
-    Your attacks are considered lethal strikes whenever you fulfill <emphasis>one</emphasis> of the following conditions:
+    Your attacks are considered lethal strikes whenever you fulfill <em>one</em> of the following conditions:
     <ul>
     <li>Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.</li>
     <li>Your target is within melee attack range of an ally.</li>
