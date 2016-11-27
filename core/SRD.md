@@ -2607,7 +2607,7 @@ Banes and boons are a huge part of what makes *Open Legend* so open. They repres
 
 Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoket the *Insubstantial* boon for herself or her allies until she gains enough experience to increase her Entropy to 7.
 
-A list of available banes and boons can be found in this SRD under the [banes section](#banes-list) and [boons section](#boons-list) and a searchable and filterable list of available banes and boons can be found on the [Open Legend Website]((http://www.openlegendrpg.com/), respectively.
+A list of available banes and boons can be found in this SRD under the [banes section](#banes-list) and [boons section](#boons-list) and a searchable and filterable list of available banes and boons can be found on the [Open Legend Website](http://www.openlegendrpg.com/), respectively.
 
 ## Telling Your Story with Banes and Boons
 
@@ -4496,7 +4496,7 @@ When your turn in the initiative order comes, you are allowed one major action, 
 
 ### Major Actions
 
-Major actions are what you take to get big things done in combat. Your major action can be taken to do any of the following:
+Major actions are what you take to get big things done in combat. Your major action can be taken to do one of the following:
 
 -   Make a damaging attack
 
