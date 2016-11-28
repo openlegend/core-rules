@@ -39,6 +39,8 @@
     <li>Tier 1 – Half of your main character's attribute points (rounded up), and 3 feat points.</li>
     <li>Tier 2 – Same attribute points as your main character, and 3 feat points per level.</li>
     </ul>
+  special: |
+    When you build your Alternate Form and select it's feats, you can select any feat except for the <strong>Alternate Form</strong> feat.
 - !
   name: Area Manipulation (I - V)
   prerequisites:
