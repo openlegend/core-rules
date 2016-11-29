@@ -154,7 +154,7 @@ Attack Summary chart, which are explained in further detail below.
 | | |
 | - | - |
 | **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Supernatural** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
-| **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage 1 per 5’ length of square |
+| **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage varies (see below) |
 | **Step 3: Determine Targeted Defense** | Weapon Attacks target Evasion <br /><br /> Supernatural Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Evasion** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
 | **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />On 10+ damage, inflict one bane as well |
 
@@ -180,7 +180,7 @@ Attack Summary chart, which are explained in further detail below.
 
 > **Ranged Attacks in Melee**
 >
-> Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll.
+> Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 >
 
 <br><br>
@@ -199,9 +199,13 @@ You may target up to five foes that fall within a 25' square. When targeting mor
 
 **Area Attacks**
 
-Designate the length of the square you would like to target in increments of 5 feet. For each 5 feet of length, you suffer one level of disadvantage (10’x10’ square = disadvantage 2, 15’x15’ square equals disadvantage 3, etc.).
+You may choose from a variety of shapes when making an area attack as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
 
-Friends and foes alike that fall within the targeted area will be subject to your attack, but you will not. Additionally, if you target at least one square that is adjacent to you, you do not provoke opportunity attacks for this attack.
+**Cube.** You target a cube with equal length, width, and height designated by you. The attack suffers disadvantage 1 per 5' of the cube's side. That is, a 5' cube suffers disadvantage 1, a 10' cube disadvantage 2, and so on.
+
+**Line.** You target a line that is 5' wide, 10' long, and 10' high. You may create several lines as part of a single attack, as long as at least one corner of each line touches. For each line, the attack suffer disadvantage 1.
+
+**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone.
 
 <div class="table-no-body"></div>
 | Multi-Targeting Summary |
@@ -212,7 +216,9 @@ Friends and foes alike that fall within the targeted area will be subject to you
 | - | - |
 | **Melee Attacks** | Disadvantage = number of targets. |
 | **Projectile Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25’ square. |
-| **Area Attacks** | Disadvantage = 1 per 5’ of length of square targeted. |
+| **Cube** | Disadvantage = 1 per 5’ of length of cube. |
+| **Line** | Disadvantage = 1 per 5'x10'x10' line. |
+| **Cone** | Disadvantage = 1 per 5' length of cone. |
 
 ##### 3. Determine Targeted Defense
 
