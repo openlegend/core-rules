@@ -142,8 +142,7 @@ Each of these actions is explained below.
 
 #### Make a Damaging Attack
 
-To attack a foe in an attempt to damage them, follow the steps in the
-Attack Summary chart, which are explained in further detail below.
+To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or supernatural. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Supernatural attacks are those that make use of one of the attacker's supernatural attributes, such as by using Energy to summon a ball of fire. A character can only make a supernatural attack if they possess a score of 1 or higher in the relevant attribute.
 
 <div class="table-no-body"></div>
 | The Action Roll for Attacks <br /> Roll 1d20 + attribute dice (all dice explode) |
