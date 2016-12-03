@@ -8,6 +8,10 @@ interpret the results.
 *Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
 example, you’ll be making plenty of action rolls to clash blades, sling spells, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left the key to your room at the inn.
 
+> ### Supernatural Attribute with Score Zero
+>
+> A score of zero for a supernatural attribute means that you have yet to manifest that power, therefore you can't use it for any type of action roll.
+
 ## Every Roll Matters
 
 Another important point in *Open Legend* is that every action roll should drive the story in a new direction, for better or worse. A failed roll should not let the story stagnate, nor should a failure be easily negated by a successful roll from another character.
@@ -160,7 +164,7 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 
 ### Advantage and Disadvantage Are Only Applied BEFORE Explosions
 
-Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice. 
+Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
 
 > #### Example of Advantage with Exploding Dice
 > Imagine you have attribute score 4 and are rolling with advantage 2, you would roll 1d20 + 3d8 and keep the single highest of the d8s before rolling any exploding dice. Imagine your d20 rolls a 10 and your d8s land on 8, 8, and 3. You would then keep one of the 8s and discard the other two dice. Because the 8 rolled max, you may roll it again and add the result to your total. Imagine that lands on a 5. Your total score is 23 (10 + 8 + 5).
@@ -216,7 +220,7 @@ An additional layer of depth to action resolution comes in the form of legend po
 Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying (see Chapter 1: Character Creation).
 
 > ### Example of Earning a Legend Point
-> 
+>
 > Zaax has the *hot tempered* flaw, causing him to easily lose control of his anger. In the middle of the party’s tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
 
 The GM may also feel free to establish other rules for awarding legend points. For example, some GMs like to allow each player to award another PC one legend point each session. Other tables might have a vote for MVP or best roleplayer at the end of each session, with the winner gaining a legend point.

@@ -90,6 +90,10 @@ around and sweeps Vera to the floor.
 
 Combat in *Open Legend* is a swirl of action rolls as blades clash, traps spring, lightning forks, and arrows fly. However, because of the free-form nature of storytelling in *Open Legend*, you may not always know what attributes can be used to make attacks.
 
+> ### Supernatural Attribute with Score Zero
+>
+> A score of zero for a supernatural attribute means that you have yet to manifest that power, therefore you can't use it for inflicting damage.
+
 ### Always
 
 Some attributes can pretty much always be used to deal damage. These include Might, Agility, Energy, and Entropy. These are the standards for swinging mauls, slinging arrows, raining fire, draining life force, and so on.

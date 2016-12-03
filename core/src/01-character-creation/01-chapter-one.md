@@ -82,6 +82,10 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 In *Open Legend*, you get to define your character’s strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
 
+> ### Supernatural Attribute with Score Zero
+>
+> A score of zero for a supernatural attribute means that you have yet to manifest that power, therefore you can't use it for any type of action roll.
+
 ### Quick Build
 
   If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
@@ -775,4 +779,3 @@ See [*Feats*](http://www.openlegendrpg.com/feats) to view the complete list of f
 ### New Hit Points
 
 In Open Legend, attributes are the means by which your hit points increase. If you want your character to be able to take more hits, increase either your Fortitude, Presence, or Will attribute. As outlined in the default hit point formula, you’ll gain 2 hit points each time you raise any of those attributes by one.
-
