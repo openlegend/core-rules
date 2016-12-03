@@ -155,7 +155,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 | **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Supernatural** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
 | **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage varies (see below) |
 | **Step 3: Determine Targeted Defense** | Weapon Attacks target Evasion <br /><br /> Supernatural Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Evasion** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
-| **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />On 10+ damage, inflict one bane as well |
+| **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />10 over defense, inflict one bane as well |
 
 ##### 1. Determine Range
 
