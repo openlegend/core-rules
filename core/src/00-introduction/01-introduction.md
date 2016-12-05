@@ -1,10 +1,10 @@
 # Introduction: This is Your Story. Tell it. #
 
-*Deep in the bowels of a long forgotten tomb, a pair of treasure seekers huddle around a dusty sarcophagus. One of them, robed in crimson, works to decipher the eldritch runes etched upon the ancient coffin.*
+*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a dusty stasis pod. One of them, covered head to toe in cybernetic implants, attempts to make sense of the alien symbols painted on the pod in dried blood.
 
-*“Hold that torch steady!” he mutters to his companion.*
+*“Hold that light steady!” he mutters to his companion.*
 
-*But his whispers carry far in the deep tunnels of the Pyramid of Amon Ket, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the torchlight, fires of malice that burn for the souls of the intruders. “Therilas,” stutters the torchbearer as he draws a shining blade, “I think you’ve disturbed their sleep.”*
+*But his whispers carry far in the long corridors and endless ventilation shafts of the Zeta class cruiser, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn for the flesh of the intruders. “Spaz,” stutters the lightbearer as he draws a shining six-shooter, “I don't think this freighter is abandoned no more.”*
 
 * * * * *
 
@@ -31,11 +31,11 @@ If you have played roleplaying games in the past, you may be wondering What make
 >
 >**Open Legend**. You get to tell the story that you want to tell, with the characters you want to play. You aren’t tied down to specific class, archetype, or race combinations. The only limit is your imagination (and maybe the GM’s veto power). Rather than a list of set classes with a menu of skills to pick from, you start the game with attribute points that you spend as you wish to give your character the powers she needs
 
-Welcome to Open Legend, a tabletop roleplaying game (or RPG) in which the players take the part of mighty heroes and wicked villains in order to tell stories of epic proportion. As in the vignettes above, every game of Open Legend revolves around intrepid characters performing heroic deeds. They will fight mythic beasts, break ancient curses, solve mind-boggling puzzles, discover untold treasures, and more.
+Welcome to Open Legend, a tabletop roleplaying game (or RPG) in which the players take the part of mighty heroes and wicked villains in order to tell stories of epic proportion. As in the vignettes above, every game of Open Legend revolves around intrepid characters performing heroic deeds. They will fight mythic beasts, outsmart cunning foes, break ancient curses, crack baffling cases, discover untold treasures, and more.
 
 If you have never played a roleplaying game before, you can think of it as a movie in which the actors make up the script (and even much of the plot) as the movie is being shot. One player, called the **Game Master** (or GM), acts as producer, director, and writer. The GM establishes the setting, creates the antagonists, and develops enough plot to get the other players started. The GM also acts out the part of the villains and neutral characters in the story.
 
-The rest of the players take the role of **Player Characters** (or PCs). The PCs are the protagonists of the story. One PC might be a dwarven warrior with a lust for gems, another an immortal elven wizard whose only desire is knowledge, and still another a half-angelic priest who travels the world in order to inspire others to act justly.
+The rest of the players take the role of **Player Characters** (or PCs). The PCs are the protagonists of the story. In a high fantasy setting, one PC might be a dwarven warrior with a lust for gems, another an immortal elven wizard whose only desire is knowledge, and still another a half-angelic priest who travels the world in order to inspire others to act justly. In another game of Open Legend, the players might star as a rag tag crew of space pirates living from score to score on their barely functioning merchant ship. All the common tropes could make an appearance: the reckless pilot, the brash captain with a troubled past, the hired gun, the stowaway, and the engineer who gets along with the ship better than with the crew.
 
 Whatever the motivation of their characters, the players share a common goal: to take the plot and setting established by the GM and have fun. At some tables, this might look like J.R.R Tolkien’s *Lord of the Rings*. In others, it might look more like *Monty Python and the Holy Grail*. Whatever fun looks like at your table, Open Legend will be a part of it.
 
@@ -55,10 +55,10 @@ Without well-defined rules, the decisions made by players and GMs can seem arbit
 
 *Open Legend* was designed to provide enough rules so that players have a clear framework to guide their play, but not so many rules that the game gets bogged down by them. You spend your day job worrying about bookkeeping and policies. We don’t want the gaming table to feel like that, and we designed *Open Legend* to focus on the fun rather than the homework.
 
-For example, you won’t have long lists of resources to manage. Any abilities that you can use or spells you can cast in *Open Legend* can be used at-will. Likewise, spellcasters don’t need to worry about poring over page after page of spell descriptions in order to make the right
+For example, you won’t have long lists of resources to manage. Any abilities that you can use or spells you can cast in *Open Legend* can be used at-will. Likewise, spellcasters, psions, and techies don’t need to worry about poring over page after page of power descriptions in order to make the right
 choices. Instead, *Open Legend* uses a system of **banes** and **boons**, or status effects, that any character can apply if he is built to do so.
 
-Other mechanics that will ensure that you can focus on the story you want to tell include  simplified wealth and encumbrance systems. In *Open Legend*, you’ll never need to record a single gold piece on your character sheet or even think about how many pounds a long sword weighs.
+Other mechanics that will ensure that you can focus on the story you want to tell include simplified wealth and encumbrance systems. In *Open Legend*, you’ll never need to record a single gold piece on your character sheet or even think about how many pounds your revolver weighs.
 
 *Open Legend* straddles the line by giving the best of both worlds, emphasizing both storytelling and strategy at the same time, placing less restrictions on both.
 
