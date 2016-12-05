@@ -174,11 +174,9 @@ The thrill of adventure, the satisfaction of character development, and the joy 
 
 #### How and When to Award XP
 
-In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Officially, there are only 10 levels of play in the game, though, which means that each new level represents a significant increase in a PC’s capabilities.
+In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
-Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain more power. 
-
-Every point of XP you award provides players with 1 feat point and 3 new attribute points to spend, so it is worth thinking about how you will dole this power out to your players. Here are two methods you can use to decide how to award XP:
+Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
 
 **Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. Whenever your players reach one of these milestones, you give them 3 XP and thus a new level. A milestone map might look something like this:
 
@@ -202,7 +200,7 @@ Every point of XP you award provides players with 1 feat point and 3 new attribu
 - **Level 10:** The heroes defeat Dezzer Kai.
 
 
-**Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they’ll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you may need to adapt on the fly to your player’s increasing power.
+**Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they’ll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you may need to adapt on the fly to your players' increasing power.
 
 ##### Beyond 10th Level
 
