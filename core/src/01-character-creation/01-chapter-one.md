@@ -1,6 +1,6 @@
 # Chapter 1: Character Creation #
 
-Before you can start telling your story, you’ll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In *Open Legend*, you typically begin as a level one character. As you complete quests and gain more experience adventuring, you’ll level up and gain more power. These rules explain how to create a character starting at level one. Later, you’ll learn what to do when you level up.
+Before you can start telling your story, you’ll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In *Open Legend*, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you’ll level up and gain more power. These rules explain how to create a character starting at level one. Later, you’ll learn what to do when you level up.
 
 Before reading on, take a minute and think of your favorite movies, books, or video games.
 
@@ -84,7 +84,7 @@ In *Open Legend*, you get to define your character’s strengths and weaknesses 
 
 ### Quick Build
 
-  If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
+If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
 
 <div class="table-centered"></div>
 | ATTRIBUTE QUICK BUILDS |
@@ -211,7 +211,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 
 ## Step 2: Record Defenses, Hit Points, and Speed
 
-When an enemy tries to attack you--whether with a breath of flame, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
+When an enemy tries to attack you--whether with the shot of a rifle, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Toughness = 10 + Fortitude + Will |
@@ -225,7 +225,7 @@ When an enemy tries to attack you--whether with a breath of flame, a deft sword 
 | - |
 | |
 
-**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a fireball, shoot you with an arrow, or smash you with a maul.
+**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Resolve = 10 + Presence + Will  |
@@ -387,7 +387,7 @@ In Open Legend, races do not provide specific mechanical costs and benefits. Ins
 >
 > * * * * *
 >
-> Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.
+> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive > with a number of cybernetic implants that have left her half machine, physically and mentally.
 
 
 ## Step 6: Choose Perks and Flaws
