@@ -190,15 +190,15 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 By default, your attacks target a single foe. However, you may choose to target multiple individual foes or to target an area. Targeting more than one foe causes disadvantage on your attack roll, as described below.
 
-**Melee Multi-Attacks**
+**Melee Multi-targeting**
 
 You may target any number of foes that are within your reach. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted (2 targets = disadvantage 2, 3 targets = disadvantage 3, etc.)
 
-**Projectile Multi-Attacks**
+**Projectile Multi-targeting**
 
 You may target up to five foes that fall within a 25' square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
 
-**Area Attacks**
+**Area Multi-targeting**
 
 You may choose from a variety of shapes when making an area attack as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
 
