@@ -1272,7 +1272,7 @@
   description: |
     You are an expert at using a specific ranged weapon, your familiarity makes you deadlier at longer ranges.
   effect: |
-    Choose a ranged weapon. In your hands, the range of that weapon is increased by 5 squares.
+    Choose a ranged weapon. In your hands, the range of that weapon is increased by 25 feet.
 - !
   name: Martial Focus
   prerequisites:
