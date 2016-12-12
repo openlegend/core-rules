@@ -30,7 +30,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Your bolster an ally's chances of succes via inspiration, augmentation, divine blessing, or supernatural insight.
+    Your bolster a target's chances of succes via inspiration, augmentation, divine blessing, or supernatural insight.
   effect: |
     Choose a physical, social, or mental attribute. The target gains advantage on their next action roll according to the Power Level of the boon. If the target does not make the roll before your next turn, the bonus is lost.
     <ul>
@@ -305,7 +305,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or supernatural creative life force, OR the inspiration of an ally to carry on, even in the face of death.
+    Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or supernatural creative life force, OR inspiring your target to carry on, even in the face of death.
   effect: |
     Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <ul>
@@ -489,7 +489,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Your protective magic cancels all harmful afflictions that are effecting an ally.
+    Your protective magic cancels all harmful afflictions that are effecting your target.
   effect: |
     You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon.
 
@@ -564,7 +564,6 @@
   - 3
   - 4
   - 6
-  - 7
   - 8
   - 9
   attribute:

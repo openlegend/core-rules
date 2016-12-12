@@ -279,7 +279,7 @@ start with the feat selections recommended below:
 <br>
 
 <div class="table-no-stripes table-even-header"></div>
-| Paladin | Elemental Mage | Mind Mage |
+| Paladin | Battle Mage | Mind Mage |
 | :- | :- | :- |
 | Attribute Substitution (Presence > Might)  | Attack Specialization 1 (Cold) | Hallucination |
 | Armor Mastery (Scale Mail) | Area Manipulation 1 | Potent Bane (Phantasm) |

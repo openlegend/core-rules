@@ -13,41 +13,41 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 
-**2016 / 11 / 25**
+#### 2016 / 11 / 25
 -   Updated character creation text to reflect new `Toughness = 10 + Fortitude + Will` formula
 
-**2016 / 11 / 25**
+#### 2016 / 11 / 25
 -   Clarified attribute 9 limitation for `Companion` feat
 -   Removed all prerequisites for `Superior Concentration` to accommodate any boon including those inovoked by non-supernatural attributes
 
-**2016 / 11 / 24**
+#### 2016 / 11 / 24
 -   Added `Two Weapon Brute` feat
 -   Added rules for dual-wielding weapons with the one-handed property for Advantage 1
 -   Close infinite damage loophole in `Multi-Attack Specialist` feat by introducing a limit on the maximum number of additional attacks you can take
 -   Clarify the time increment steps of `Boon Focus`, move OR major actions become minor at tier 2
 -   Removed all prerequisites from `Energy Resistance` to enable characters with no special training to have bloodline-based resistances
 
-**2016 / 11 / 23**
+#### 2016 / 11 / 23
 -   Modified `Natural Defense` feat to better reward unarmored characters who invest in it (#105)
 -   Modified `Craft Beneficial or Baleful Item` feat to allow unlimited invocation at tier 2 and 3x longer creation duration for sentient Tier 3 items. (#143)
 -   `Aid` boon and `Demoralized` bane now mirror each other in Power Level and effect
 -   Tweaks to `Restoration` boon now allow it to function correctly with `Boon Focus` feat
 
-**2016 / 11 / 15**
+#### 2016 / 11 / 15
 -   Added Aura boon.
 
-**2016 / 11 / 13**
+#### 2016 / 11 / 13
 -   Removed attribute prerequisites for Multi-Target Boon Specialist feat.
 -   Decreased first power level of Telekinesis boon from 5 to 4.
 -   Fixed loophole with Boon Access (Shapeshift). Now the Alteration score is limited to character level or 5, whichever is higher.
 
-**2016 / 11 / 12**
+#### 2016 / 11 / 12
 -   Closed loophole in Boon Access. Now if a boon has multiple attribute prerequisite options, you choose one attribute when you take this feat.
 
-**2016 / 11 / 11**
+#### 2016 / 11 / 11
 -   Added Barrier boon.
 
-**2016 / 09 / 07**
+#### 2016 / 09 / 07
 -   Life Drain Bane removed, added to Boons. Heals target for half damage dealt.
 -   New Feats for movement such as Climbing, Swimming and Flying.
 -   Feats that can be lost (Animal Companion, Supernatural Focus, etc) now updated with clause that feat points are regained in the event the item or companion is permanently lost.
