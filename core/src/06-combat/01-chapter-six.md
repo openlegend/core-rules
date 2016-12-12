@@ -71,20 +71,22 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | If the action roll... | then the result is... |
 | :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 5 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10’ w/o opportunity attacks |
+| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10’ w/o opportunity attacks |
 
 
-With these modified rules, a player’s failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect.
-
-Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
+With these modified rules, a player’s failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 
 > ### Example of the Core Mechanic in Combat
 >
 > Vera hurls herself at the red dragon attempting to cut through his
 scaly hide. However, her attack roll fails to hit the dragon’s evasion
-of 25. She chooses to inflict 5 damage, but the GM also gets a choice.
+of 25. She chooses to inflict 3 damage, but the GM also gets a choice.
 He chooses to inflict the knockdown bane: The dragon’s tail lashes
 around and sweeps Vera to the floor.
+
+### Why Succeed on a Failed Roll?
+
+Some players might wonder why a PC still gets a taste of success even when their roll fails to meet the Challenge Rating. This might seem unrealistic because in movies and novels, for example, sometimes the bullet just misses or the sword fails to connect. In Open Legend, the "success with a twist" rules for combat ensure that a fight never gets stagnant. Even when the dice go against the player, the battle still builds to a cinematic conclusion as combatants shift around the battlefield and wear away at each other's reserves. Hit points represent more than just physical endurance and missing a target's defense score can mean more than just a shot going wide. Even if a hail of gunfire fails to penetrate an enemy's body armor, it might still weaken their resolve (*deal 3 damage*), force them to take cover (*inflict knockdown*), or give the attacker an opportunity to gain ground (*move 10'*).
 
 ## Using Attributes to Inflict Damage
 
@@ -142,8 +144,7 @@ Each of these actions is explained below.
 
 #### Make a Damaging Attack
 
-To attack a foe in an attempt to damage them, follow the steps in the
-Attack Summary chart, which are explained in further detail below.
+To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or supernatural. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Supernatural attacks are those that make use of one of the attacker's supernatural attributes, such as by using Energy to summon a ball of fire. A character can only make a supernatural attack if they possess a score of 1 or higher in the relevant attribute.
 
 <div class="table-no-body"></div>
 | The Action Roll for Attacks <br /> Roll 1d20 + attribute dice (all dice explode) |
@@ -154,9 +155,9 @@ Attack Summary chart, which are explained in further detail below.
 | | |
 | - | - |
 | **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Supernatural** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
-| **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage 1 per 5’ length of square |
+| **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage varies (see below) |
 | **Step 3: Determine Targeted Defense** | Weapon Attacks target Evasion <br /><br /> Supernatural Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Evasion** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
-| **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />On 10+ damage, inflict one bane as well |
+| **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />10 over defense, inflict one bane as well |
 
 ##### 1. Determine Range
 
@@ -180,7 +181,7 @@ Attack Summary chart, which are explained in further detail below.
 
 > **Ranged Attacks in Melee**
 >
-> Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll.
+> Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 >
 
 <br><br>
@@ -189,19 +190,23 @@ Attack Summary chart, which are explained in further detail below.
 
 By default, your attacks target a single foe. However, you may choose to target multiple individual foes or to target an area. Targeting more than one foe causes disadvantage on your attack roll, as described below.
 
-**Melee Multi-Attacks**
+**Melee Multi-targeting**
 
 You may target any number of foes that are within your reach. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted (2 targets = disadvantage 2, 3 targets = disadvantage 3, etc.)
 
-**Projectile Multi-Attacks**
+**Projectile Multi-targeting**
 
 You may target up to five foes that fall within a 25' square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
 
-**Area Attacks**
+**Area Multi-targeting**
 
-Designate the length of the square you would like to target in increments of 5 feet. For each 5 feet of length, you suffer one level of disadvantage (10’x10’ square = disadvantage 2, 15’x15’ square equals disadvantage 3, etc.).
+You may choose from a variety of shapes when making an area attack as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
 
-Friends and foes alike that fall within the targeted area will be subject to your attack, but you will not. Additionally, if you target at least one square that is adjacent to you, you do not provoke opportunity attacks for this attack.
+**Cube.** You target a cube with equal length, width, and height designated by you. The attack suffers disadvantage 1 per 5' of the cube's side. That is, a 5' cube suffers disadvantage 1, a 10' cube disadvantage 2, and so on.
+
+**Line.** You target a line that is 5' wide, 10' long, and 10' high. You may create several lines as part of a single attack, as long as at least one corner of each line touches. For each line, the attack suffer disadvantage 1.
+
+**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone.
 
 <div class="table-no-body"></div>
 | Multi-Targeting Summary |
@@ -212,7 +217,9 @@ Friends and foes alike that fall within the targeted area will be subject to you
 | - | - |
 | **Melee Attacks** | Disadvantage = number of targets. |
 | **Projectile Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25’ square. |
-| **Area Attacks** | Disadvantage = 1 per 5’ of length of square targeted. |
+| **Cube** | Disadvantage = 1 per 5’ of length of cube. |
+| **Line** | Disadvantage = 1 per 5'x10'x10' line. |
+| **Cone** | Disadvantage = 1 per 5' length of cone. |
 
 ##### 3. Determine Targeted Defense
 
@@ -423,11 +430,11 @@ As part of your defend action, you may also move up to half of your speed at any
 
 > ##### Defend Examples
 >
-> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Toughness of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Toughness, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
+> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Evasion of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Evasion, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
 >
 > * * * * *
 >
-> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Toughness scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
+> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Evasion scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
 
 #### Improvise
 

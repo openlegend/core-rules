@@ -1,21 +1,4 @@
 - !
-  name: Ageless
-  prerequisites:
-    tier1:
-      Attribute:
-      - Alteration: 9
-      - Creation: 9
-      - Entropy: 9
-      - Protection: 9
-  tags:
-  - Supernatural
-  cost:
-  - 1
-  description: |
-    Ageless and supernatural, you have either unlocked a mystical secret to immortality, become a legendary defender, transformed into an avatar of nature, or been granted immunity to the ravages of time by some higher power.
-  effect: |
-    Rooted in a superantural means of your choice, you become immune to the passage of time and the effects of old age. You do not age and cannot be harmed by magic that causes aging. You can choose to age in appearance, if you wish, but you can also choose to continually appear the same age.
-- !
   name: Alternate Form (I - II)
   prerequisites:
     tier1:
@@ -29,18 +12,20 @@
   cost:
   - 3
   description: |
-    Alternate form is an ability possessed by lycanthropes (werewolves, werebears, wererats), druids, vampires, and other creatures capable of assuming <em>specific</em> forms.
+    You have the ability to transform from one persona to another, whether that be through bodily transformation like a werewolf or through exterior mechinisms, such as a cybernetically enhanced soldier who can call forth a symbiotic mech suit.
   effect: |
-    You gain the ability to shapeshift into a single form (you choose that form when purchasing this feat and it cannot be changed). Assuming your new form is a Focus action.
-    When you take this feat, you build the stats for the alternate form that you can assume.
-    To build your alternate form, you gain a number of Feat and Attribute points, as outlined below. Your new form is otherwise treated as a different character. You retain none of your original feats or attributes, only what you gain for the new form from this feat. You do, however, retain the ability to cancel and revert to your base form.
-    You return to your normal form immediately if you are reduced to zero hit points. You can also choose to voluntarily return to your usual form as a major action. Upon returning to your original form, your physical attributes return to their previous values.
+    Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
     <ul>
-    <li>Tier 1 – Half of your main character's attribute points (rounded up), and 3 feat points.</li>
-    <li>Tier 2 – Same attribute points as your main character, and 3 feat points per level.</li>
+    <li>Tier 1 – Half of your primary form's attribute points (rounded up), and 3 feat points.</li>
+    <li>Tier 2 – Same attribute points as your primary form, and 3 feat points per level.</li>
     </ul>
+    Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
+    You may transform from one form to another as a focus action. Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
+    In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points. 
+        
   special: |
-    When you build your Alternate Form and select it's feats, you can select any feat except for the <strong>Alternate Form</strong> feat.
+    When selecting feats for your alternate form, you may not select the <strong>Alternate Form</strong> feat.
+    You may take this feat multiple times. Each time grants you access to an additional form.
 - !
   name: Area Manipulation (I - V)
   prerequisites:
@@ -210,7 +195,7 @@
   description: |
     You are specialized in the use of a particular bane that is iconic to your character.
   effect: |
-    Choose a bane that you can invoke. When making a damaging attack, you can inflict this bane for free when you deal at least 5 points of damage (as opposed to the usual 10). Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
+    Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
 - !
   name: Battlefield Defender
   prerequisites:
@@ -1287,7 +1272,7 @@
   description: |
     You are an expert at using a specific ranged weapon, your familiarity makes you deadlier at longer ranges.
   effect: |
-    Choose a ranged weapon. In your hands, the range of that weapon is increased by 5 squares.
+    Choose a ranged weapon. In your hands, the range of that weapon is increased by 25 feet.
 - !
   name: Martial Focus
   prerequisites:
@@ -1891,7 +1876,7 @@
   description: |
     You have a versatile education, a wide range of experiences, or just plain old good luck. The result is that you're pretty good at things you're not specialized in.
   effect: |
-    Any time you make a non-attack action roll with an attribute in which you have a score of 2 or less, roll an additional d20 and keep the highest of the two d20s.
+    Any time you use an attribute with a score of 2 or less to make an action roll outside of combat that is not a bane or boon invocation, you gain advantage 1 to the roll.
 - !
   name: Wealthy
   prerequisites:

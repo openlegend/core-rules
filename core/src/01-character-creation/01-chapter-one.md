@@ -1,6 +1,6 @@
 # Chapter 1: Character Creation #
 
-Before you can start telling your story, you’ll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In *Open Legend*, you typically begin as a level one character. As you complete quests and gain more experience adventuring, you’ll level up and gain more power. These rules explain how to create a character starting at level one. Later, you’ll learn what to do when you level up.
+Before you can start telling your story, you’ll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In *Open Legend*, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you’ll level up and gain more power. These rules explain how to create a character starting at level one. Later, you’ll learn what to do when you level up.
 
 Before reading on, take a minute and think of your favorite movies, books, or video games.
 
@@ -23,7 +23,9 @@ Attributes are the backbone of every character in *Open Legend*. They define wha
 In *Open Legend*, attributes are divided into four categories: physical,
 social, mental, and supernatural.
 
-A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Supernatural attributes are generally reserved for characters of power and note.
+A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use a supernatural attribute if they have a score of zero.
+
+The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Supernatural attributes are generally reserved for characters of power and note.
 
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish.
 
@@ -82,7 +84,7 @@ In *Open Legend*, you get to define your character’s strengths and weaknesses 
 
 ### Quick Build
 
-  If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
+If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
 
 <div class="table-centered"></div>
 | ATTRIBUTE QUICK BUILDS |
@@ -209,7 +211,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 
 ## Step 2: Record Defenses, Hit Points, and Speed
 
-When an enemy tries to attack you--whether with a breath of flame, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
+When an enemy tries to attack you--whether with the shot of a rifle, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Toughness = 10 + Fortitude + Will |
@@ -223,7 +225,7 @@ When an enemy tries to attack you--whether with a breath of flame, a deft sword 
 | - |
 | |
 
-**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a fireball, shoot you with an arrow, or smash you with a maul.
+**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Resolve = 10 + Presence + Will  |
@@ -385,7 +387,7 @@ In Open Legend, races do not provide specific mechanical costs and benefits. Ins
 >
 > * * * * *
 >
-> Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.
+> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive > with a number of cybernetic implants that have left her half machine, physically and mentally.
 
 
 ## Step 6: Choose Perks and Flaws
@@ -436,6 +438,10 @@ Flaws are very easy to create, as they simply represent situational triggers tha
 Perks, on the other hand, often grant elaborate benefits and even mechanical bonuses. These require you to work closely with your GM to ensure that your perks are balanced with the other perks available to PCs. The first rule to adhere to is that perks should provide non-combat effects, as feats, banes, and boons are the primary means for PCs to boost their combat expertise. Next, try to make your proposed perk limited to a specific type of task or a relatively rare situation. For example, the *artisan* perk provides expertise for a single craft, and the *attractive* perk is only beneficial in social situations that rely on physical attractiveness. If your perk is more generally applicable, then the effect should be more limited than other perks. For example, the *idol* perk makes you trusted by just about anyone, but it is limited to being used once per game session.
 
 ### Perk List
+
+#### Ageless
+
+Whether you are an android constructed of spaceage material that does not erode over time, the loyal servant of a higher power, or the subject of an arcane ritual, you have unlocked the secret to immortality. You are immune to the passage of time and the effects of old age. Your body does not age and you cannot be harmed by extraordinary effects that cause aging. Based on the source of your agelessness, you can decide whether or not your appearance changes over time.
 
 #### Arcane Bloodline
 
