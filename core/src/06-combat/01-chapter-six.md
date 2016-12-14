@@ -248,7 +248,7 @@ equal or exceed the appropriate defense for that bane. If your attack targeted m
 #### Make a Bane Attack
 
 Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
-detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes). While targets may be effected by multiple banes, you may not *stack* banes; A target cannot be inflicted with a bane it is currently suffering from.
+detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes).
 
 To resolve a bane attack, follow these steps:
 
