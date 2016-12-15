@@ -872,17 +872,17 @@
     tier1:
       Attribute:
       - Agility: 4
-      - Fortitiude: 4
+      - Fortitude: 4
       - Movement: 2
     tier2:
       Attribute:
       - Agility: 5
-      - Fortitiude: 5
+      - Fortitude: 5
       - Movement: 4
     tier3:
       Attribute:
       - Agility: 7
-      - Fortitiude: 7
+      - Fortitude: 7
       - Movement: 6
   tags:
   - Supernatural
