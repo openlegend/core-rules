@@ -474,7 +474,7 @@ Rarely do epic movie fight scenes take place in an empty chamber. There are usua
 
 **Difficult Terrain.** A pool of sludge that cuts movement speed in half or a thin beam that provides a perilous shortcut to the big boss are the sorts of options that allow PCs to make meaningful decisions with their move actions.
 
-**Hazards.** Consider adding an extra count in the initiative for some sort of natural or supernatural hazard, such as a steaming geyser or poisonous mushroom spore. Once per round, randomly choose a PC or two to fall victim to these perils of the battlefield.
+**Hazards.** Consider adding an extra count in the initiative for some sort of natural or extraordinary hazard, such as a steaming geyser or poisonous mushroom spore. Once per round, randomly choose a PC or two to fall victim to these perils of the battlefield.
 
 ### Encounter Consequences
 
