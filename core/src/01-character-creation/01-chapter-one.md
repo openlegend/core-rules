@@ -483,7 +483,7 @@ You serve a higher being and have earned their protection. Once per game session
 
 #### Divine Insight
 
-You possess an extraordinary connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess an supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Ear of the Emperor
 
@@ -563,7 +563,7 @@ You were raised on the streets or at least spent a good deal of time crawling ab
 
 #### Extraordinary Presence
 
-Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you tred. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you tread. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
 
 #### Sylvan Ally
 
