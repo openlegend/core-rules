@@ -172,7 +172,8 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Perception 3 | Persuasion 3 | Learning 3  |
 | Will 1 | Learning 1 | Logic 1  |
 | Entropy 3 | Creation 2 | Will 2  |
-| Movement 3 | Influence 4 | Protection 5  |
+| Movement 3 | Influence 4 | Movement 3  |
+| | | Protection 5 |
 
 
 ### Record Attribute Dice
