@@ -18,16 +18,15 @@ For anyone who feels they could benefit from some inspiration, you can easily ma
 
 ## Step 1: Choose Attributes
 
-Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres he excels in, as well as his greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
+Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres they excels in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
 
-In *Open Legend*, attributes are divided into four categories: physical,
-social, mental, and supernatural.
+In *Open Legend*, attributes are divided into four categories: physical, social, mental, and supernatural.
 
 A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use a supernatural attribute if they have a score of zero.
 
 The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Supernatural attributes are generally reserved for characters of power and note.
 
-The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish.
+The *Attributes at a Glance* tables below provide a quick overview of some of the common actions that each attribute will help you accomplish.
 
 <div class="table-no-body"></div>
 | **Physical Attributes at a Glance** |
@@ -75,7 +74,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Creation** | Channeling higher powers for healing, creation, resurrection, divine might, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
-| **Influence** | Control the minds of others, speak telepathically, instill supernatural fear, create illusory figments, cloak with invisibility |
+| **Influence** | Control the minds of others, speak telepathically, instill supernatural fear, create illusory figments, obfuscate your presence |
 | **Movement** | Teleport, fly, hasten, slow |
 | **Prescience** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
 | **Protection** | Protect from damage, break supernatural influence, dispel magic, bind demons |
