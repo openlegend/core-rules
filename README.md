@@ -12,6 +12,31 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2016 / 12 / 12
+-   Size categories added
+
+#### 2016 / 12 / 9
+-   `Ageless` removed as feat, added as perk
+-   `Elemental Mage` is now called `Battle Mage`
+-   Clarified Multi-Targeting in Chapter 6, no longer says Multi-Attack when hitting multiple foes with a single attack
+-   Missing an attack can now cause 3 damage instead of 5
+-   `Haste` updated, now each power level grants an additional 5' of movement. Attack disadvantage changed to static bonus to target evasion based on power level. Extra major actions are now made with disadvantage, if a roll is required.
+
+#### 2016 / 12 / 5
+-   `Well-Rounded` updated, now you gain advantage 1 on action roll outside of combat that are not invocations (bane or boon) for attributes with a score of 2 or less
+-   XP and level clarified, every XP grants a player 3 attribute points and 1 feat point and every 3 XP results in a level
+
+#### 2016 / 12 / 3
+-   `Alternate Form` updated, now you build your alternate form using the normal character creation rules, though attribute and feat points are determined by the tier level of this feat
+-   Banes are now inflicted for free on `10 over defense` instead of `10+ damage`
+
+#### 2016 / 11 / 29
+-   You can't use a supernatural attribute if the score is zero
+-   Area attacks changed, now disadvantage is based on shapes (Cube, Line and Cone)
+
+#### 2016 / 11 / 28
+-   `Mimic` doesn't require `Alternate Form` anymore, it instead requires `Deception 3`
+-   Can't choose `Alternate Form` when creating the secondary form granted by this feat
 
 #### 2016 / 11 / 25
 -   Updated character creation text to reflect new `Toughness = 10 + Fortitude + Will` formula
