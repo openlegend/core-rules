@@ -21,8 +21,8 @@
     </ul>
     Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
     You may transform from one form to another as a focus action. Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
-    In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points. 
-        
+    In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points.
+
   special: |
     When selecting feats for your alternate form, you may not select the <strong>Alternate Form</strong> feat.
     You may take this feat multiple times. Each time grants you access to an additional form.
@@ -969,7 +969,7 @@
   effect: |
     When you invoke the Phantasm bane, you may choose to create a hallucination within a target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the Power Level of your bane), and are thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature, and thus is not eligible for multi-targeting attacks.
 - !
-  name: Hallucination (Mass)
+  name: Hallucination - Mass
   prerequisites:
     tier1:
       Attribute:
