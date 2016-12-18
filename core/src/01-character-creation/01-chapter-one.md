@@ -159,7 +159,7 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Presence 3 | Persuasion 1 |  Perception 2 |
 | Persuasion 3 | Learning 1 |  Will 2 |
 | Perception 3 | Will 2 |  Alteration 4 |
-| | Protection 4 | |
+| | Protection 4 | Creation 3 |
 | | Creation 5 | Influence 4 |
 
 <br>
