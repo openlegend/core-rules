@@ -4541,7 +4541,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 | | **Toughness** if the attack targets bodily health |
 | | **Resolve** if the attack harms the psyche or will |
 | **Step 4:** | **Damage dealt** = Attack Roll minus Defense |
-| **Roll Attack and Calculate Damage** | On 10+ damage, inflict one bane as well |
+| **Roll Attack and Calculate Damage** | On 10 over defense, inflict one bane as well |
 
 
 
