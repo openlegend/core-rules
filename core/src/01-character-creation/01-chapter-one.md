@@ -159,7 +159,7 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Presence 3 | Persuasion 1 |  Perception 2 |
 | Persuasion 3 | Learning 1 |  Will 2 |
 | Perception 3 | Will 2 |  Alteration 4 |
-| | Protection 4 | |
+| | Protection 4 | Creation 3 |
 | | Creation 5 | Influence 4 |
 
 <br>
@@ -172,7 +172,8 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Perception 3 | Persuasion 3 | Learning 3  |
 | Will 1 | Learning 1 | Logic 1  |
 | Entropy 3 | Creation 2 | Will 2  |
-| Movement 3 | Influence 4 | Protection 5  |
+| Movement 3 | Influence 4 | Movement 3  |
+| | | Protection 5 |
 
 
 ### Record Attribute Dice
@@ -293,7 +294,7 @@ start with the feat selections recommended below:
 | Assassin | Cleric | Druid |
 | :- | :- | :- |
 | Martial Focus (Dagger) | Boon Focus (Heal) | Boon Focus (Shapeshift) |
-| Lethal Strike 1 | Armor Specialization 1 (Scale Mail) | Master Shifter 1 |
+| Lethal Strike 1 | Armor Specialization 1 (Scale Mail) |  |
 
 <br>
 
@@ -784,4 +785,3 @@ See [*Feats*](http://www.openlegendrpg.com/feats) to view the complete list of f
 ### New Hit Points
 
 In Open Legend, attributes are the means by which your hit points increase. If you want your character to be able to take more hits, increase either your Fortitude, Presence, or Will attribute. As outlined in the default hit point formula, you’ll gain 2 hit points each time you raise any of those attributes by one.
-
