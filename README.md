@@ -13,6 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2016 / 12 / 19
+-   Renamed `Aid` boon to `Bolster` and changed it's duration to `Sustain Persists` to accomodate ongoing augmentations that longer than short bursts (formerly `Aid` only lasted 1 round)
 -   Reorder Character Creation steps so that `Description` comes first
 -   Add `Free Actions` to combat section and explain how they work
 -   Clarify that banes do not stack, only one instance of a given bane can be on a target at a given time
