@@ -21,11 +21,11 @@ For anyone who feels they could benefit from some inspiration, you can easily ma
 Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
 
 In *Open Legend*, attributes are divided into four categories: physical,
-social, mental, and supernatural.
+social, mental, and extraordinary.
 
-A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use a supernatural attribute if they have a score of zero.
+A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero.
 
-The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Supernatural attributes are generally reserved for characters of power and note.
+The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
 
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish.
 
@@ -65,7 +65,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Presence** | Give a speech, sing a song, inspire an army, exert your force of personality, have luck smile upon you |
 
 <div class="table-no-body"></div>
-| Supernatural Attributes at a Glance |
+| Extraordinary Attributes at a Glance |
 | - |
 | |
 <div class="table-no-head thirty-seventy"></div>
@@ -233,7 +233,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 | - |
 | |
 
-**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to supernaturally charm you, deceive you with illusions, or frighten you must target your resolve.
+**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to extraordinarily charm you, deceive you with illusions, or frighten you must target your resolve.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Hit Points = 2 x (Fortitude + Presence + Will) + 10 |
@@ -483,7 +483,7 @@ You serve a higher being and have earned their protection. Once per game session
 
 #### Divine Insight
 
-You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess an supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Ear of the Emperor
 
@@ -561,9 +561,9 @@ While underground you may fail to find what you’re looking for, but you can ne
 
 You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you’re down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
 
-#### Supernatural Presence
+#### Extraordinary Presence
 
-Your inherent supernatural nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you tred. Depending on the nature of your supernatural presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your supernatural presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you tread. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
 
 #### Sylvan Ally
 
