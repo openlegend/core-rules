@@ -2605,7 +2605,7 @@ Because *Open Legend* focuses on separating the mechanics from the story, when y
 
 ## Invoking Banes and Boons
 
-To invoke a bane, you must succeed at an appropriate attribute roll using one of your target’s defense scores as the Challenge Rating, as indicated in the bane description. Additionally, whenever you successfully make an attack that deals 10 or more damage to a target, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
+To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target’s defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be effected by multiple banes, you may not *stack* banes; A target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* *Fatigued*).
 
 To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon’s Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke at after making your action roll.
 
@@ -4637,7 +4637,7 @@ equal or exceed the appropriate defense for that bane. If your attack targeted m
 **Make a Bane Attack**
 
 Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
-detailed in the [*bane descriptions*](#banes-list).
+detailed in the [*bane descriptions*](#banes-list). While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* *Fatigued*).
 
 To resolve a bane attack, follow these steps:
 
