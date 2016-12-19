@@ -31,7 +31,9 @@ Attributes are the backbone of every character in *Open Legend*. They define wha
 In *Open Legend*, attributes are divided into four categories: physical,
 social, mental, and supernatural.
 
-A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Supernatural attributes are generally reserved for characters of power and note.
+A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use a supernatural attribute if they have a score of zero.
+
+The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Supernatural attributes are generally reserved for characters of power and note.
 
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish.
 
@@ -4499,8 +4501,7 @@ Each of these actions is explained below.
 
 #### Make a Damaging Attack
 
-To attack a foe in an attempt to damage them, follow the steps in the
-Attack Summary chart, which are explained in further detail below.
+To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or supernatural. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Supernatural attacks are those that make use of one of the attacker's supernatural attributes, such as by using Energy to summon a ball of fire. A character can only make a supernatural attack if they possess a score of 1 or higher in the relevant attribute.
 
 
 **1. Determine Range**
