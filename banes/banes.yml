@@ -253,7 +253,7 @@
   invocationTime: 1 Major Action
   duration: Special
   description: |
-    You manifest an overwhelming force of physical might or extraordinary power that strikes terror into the hearts of enemies, causing them to flee from your presence.
+    You manifest an overwhelming force of physical might or manifest power that strikes terror into the hearts of enemies, causing them to flee from your presence.
   effect: |
     On its turn, the afflicted target must use its entire turn to get as far away as possible from you. It cannot use its actions to do anything other than retreat, and it cannot willingly move closer to you while the bane persists.
   special: |
@@ -566,7 +566,7 @@
   invocationTime: 10 Minutes
   duration: 10 minutes (Special)
   description: |
-    Peering into a extraordinary conduit such as a hearth, a bubbling cauldron, or a crystal ball, you see can view the target from a distance.
+    Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you see can view the target from a distance.
   effect: |
     You can scry on a person or area that you are familiar with. The Challenge Rating to succeed at this scrying is based on the distance between you and the target. If successful, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your scrying if they are familiar with such powers.
     <ul>
@@ -718,7 +718,7 @@
   invocationTime: 10 Minutes
   duration: 10 minutes (Special)
   description: |
-    With extraordinary control of the mind, you compel the target to honesty, rendering them unable to speak falsely.
+    Via control of the target's mind, you compel them to honesty, rendering them unable to deliberately lie.
   effect: |
     The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Influence roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.
   special: |
