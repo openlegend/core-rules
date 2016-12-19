@@ -333,7 +333,7 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Shadowdancer | Bard | Arcane Protector |
 | :- | :- | :- |
-| Lethal Strike 1 | Boon Focus (Aid) | Defensive Reflexes 1 |
+| Lethal Strike 1 | Boon Focus (Bolster) | Defensive Reflexes 1 |
 | Boon Focus 1 (Teleport) | Boon Focus (Heal) | Boon Focus (Teleport) |
 
 <br><br>
