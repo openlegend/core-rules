@@ -16,9 +16,42 @@ For anyone who feels they could benefit from some inspiration, you can easily ma
 
 [**View Pre-generated Character Options**](https://drive.google.com/drive/u/0/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00)
 
-## Step 1: Choose Attributes
+## Step 1: Describe Your Character
 
-Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres he excels in, as well as his greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
+*Open Legend* is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear that we will learn about in later steps. To make your character come to life, add some of the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
+
+**A heroic name.** Be sure to check with your GM to see if they have any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
+
+**Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
+
+As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 6: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
+
+At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
+
+> ### No Racial Abilities or Adjustments?
+> In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you’ll have a chance to further define your character in the a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing the aforementioned psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter’s bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
+
+**Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
+
+**Two defining social traits. **Maybe you stutter when you’re nervous. Maybe you don’t trust anyone until they’ve proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
+
+**A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
+
+> ### Example Character Secrets
+> Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
+>
+> * * * * *
+>
+> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.
+>
+> * * * * *
+>
+> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive > with a number of cybernetic implants that have left her half machine, physically and mentally.
+
+
+## Step 2: Choose Attributes
+
+Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
 
 In *Open Legend*, attributes are divided into four categories: physical,
 social, mental, and extraordinary.
@@ -159,7 +192,7 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Presence 3 | Persuasion 1 |  Perception 2 |
 | Persuasion 3 | Learning 1 |  Will 2 |
 | Perception 3 | Will 2 |  Alteration 4 |
-| | Protection 4 | |
+| | Protection 4 | Creation 3 |
 | | Creation 5 | Influence 4 |
 
 <br>
@@ -172,7 +205,8 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Perception 3 | Persuasion 3 | Learning 3  |
 | Will 1 | Learning 1 | Logic 1  |
 | Entropy 3 | Creation 2 | Will 2  |
-| Movement 3 | Influence 4 | Protection 5  |
+| Movement 3 | Influence 4 | Movement 3  |
+| | | Protection 5 |
 
 
 ### Record Attribute Dice
@@ -232,7 +266,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 | - |
 | |
 
-**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to extraordinarily charm you, deceive you with illusions, or frighten you must target your resolve.
+**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to charm you, deceive you with illusions, or frighten you must target your resolve.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Hit Points = 2 x (Fortitude + Presence + Will) + 10 |
@@ -245,15 +279,14 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 **Speed** indicates how far your character can move using a single move action (see Chapter 6: Combat). Your base speed is 30 feet. Other effects, such as banes, boons, and feats may cause your speed to increase or decrease.
 
-## Step 3: Purchase Feats
+## Step 4: Purchase Feats
 
 While your character’s attributes define his skill at accomplishing
 heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so he takes the *Combat Momentum* feat to allow him to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Berserker* so that she
-can fly into a frenzied rage in order to decimate her foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Berserker* so that they can fly into a frenzied rage in order to decimate their foes.
 
 ### Choose your feats
 
@@ -292,22 +325,22 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Assassin | Cleric | Druid |
 | :- | :- | :- |
-| Martial Focus (Dagger) | Boon Focus (Heal) | Boon Focus (Shapeshift) |
-| Lethal Strike 1 | Armor Specialization 1 (Scale Mail) | Master Shifter 1 |
+| Martial Focus (Dagger) | Boon Focus (Heal) | Boon Focus 2 (Shapeshift) |
+| Lethal Strike 1 | Armor Specialization 1 (Scale Mail) |  |
 
 <br>
 
 <div class="table-no-stripes table-even-header"></div>
 | Shadowdancer | Bard | Arcane Protector |
 | :- | :- | :- |
-| Lethal Strike 1 | Boon Focus (Aid) | Defensive Reflexes 1 |
+| Lethal Strike 1 | Boon Focus (Bolster) | Defensive Reflexes 1 |
 | Boon Focus 1 (Teleport) | Boon Focus (Heal) | Boon Focus (Teleport) |
 
 <br><br>
 
-## Step 4: Choose Starting Equipment
+## Step 5: Choose Starting Equipment
 
-In a typical game of *Open Legend*, your character will start with the gear he needs for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
+In a typical game of *Open Legend*, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
 Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 4 for rules concerning Wealth as well as equipment details.
 
@@ -362,39 +395,6 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 | Leather Armor | Leather Armor | Leather Armor |
 | Rogue’s Pack | Adventurer’s Pack | Mage’s Pack |
 
-## Step 5: Describe Your Character
-
-*Open Legend* is a role playing game, which means your character will need more depth than attributes, feats, and gear. To make your character come to life, add the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
-
-**A heroic name.** Be sure to check with your GM to see if he has any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
-
-**Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
-
-As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 6: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
-
-At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
-
-> ### No Racial Abilities or Adjustments?
-> In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you’ll have a chance to further define your character in the next step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing the aforementioned psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter’s bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
-
-**Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
-
-**Two defining social traits. **Maybe you stutter when you’re nervous. Maybe you don’t trust anyone until they’ve proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
-
-**A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
-
-> ### Example Character Secrets
-> Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
->
-> * * * * *
->
-> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.
->
-> * * * * *
->
-> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive > with a number of cybernetic implants that have left her half machine, physically and mentally.
-
-
 ## Step 6: Choose Perks and Flaws
 In addition to the descriptive details you have just created, you may also choose up to two perks and up to two flaws from the following lists.
 
@@ -411,7 +411,7 @@ Perks provide very specific bonuses or effects in specific situations. Your perk
 
 While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see Chapter 2: Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in the future.
 
-You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that he is usually completely unaffected by his blindness. Only under extreme circumstances does the blindness hinder him.
+You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
 
 To activate a flaw, you should intentionally make a disadvantageous choice based on your flaw that creates an interesting or tense moment in the plot. When you do so, let your GM know that you are activating your flaw and describe how it is hindering your efforts or influencing your decisions. If the GM approves that your flaw is creating a significant disadvantage and advancing the story, you receive one legend point. Sometimes, the GM may recognize that you are roleplaying a flaw without you having to overtly activate it. In such cases, the GM may award you with a legend point as well.
 
@@ -483,7 +483,7 @@ You serve a higher being and have earned their protection. Once per game session
 
 #### Divine Insight
 
-You possess an supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Ear of the Emperor
 
@@ -563,7 +563,7 @@ You were raised on the streets or at least spent a good deal of time crawling ab
 
 #### Extraordinary Presence
 
-Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you tread. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
 
 #### Sylvan Ally
 
@@ -718,7 +718,7 @@ With your character created, you are all ready to start playing *Open Legend*. W
 
 ### Respect the GM
 
-If you’ve never GM’d before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put her campaign together and prep for this session. Go with her storyline, overlook any accidental inconsistencies, and don’t cause a ruckus just for the sake of causing a ruckus. If there’s a dispute over the rules, accept the GM’s final ruling and agree to look it up later for the sake of the game.
+If you’ve never GM’d before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put their campaign together and prep for this session. Go with their storyline, overlook any accidental inconsistencies, and don’t cause a ruckus just for the sake of causing a ruckus. If there’s a dispute over the rules, accept the GM’s final ruling and agree to look it up later for the sake of the game.
 
 ### Respect the Other Players
 
@@ -784,4 +784,3 @@ See [*Feats*](http://www.openlegendrpg.com/feats) to view the complete list of f
 ### New Hit Points
 
 In Open Legend, attributes are the means by which your hit points increase. If you want your character to be able to take more hits, increase either your Fortitude, Presence, or Will attribute. As outlined in the default hit point formula, you’ll gain 2 hit points each time you raise any of those attributes by one.
-

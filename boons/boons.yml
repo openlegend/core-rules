@@ -14,31 +14,6 @@
   effect: |
     The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your body as if you had withdrawn it to your hand.
 - !
-  name: Aid
-  tags:
-  - Extraordinary
-  - Physical
-  power:
-  - 3
-  - 6
-  - 8
-  attribute:
-  - Alteration
-  - Creation
-  - Prescience
-  - Presence
-  invocationTime: 1 Major Action
-  duration: Instantaneous
-  description: |
-    Your bolster a target's chances of succes via inspiration, augmentation, divine blessing, or supernatural insight.
-  effect: |
-    Choose a physical, social, or mental attribute. The target gains advantage on their next action roll according to the Power Level of the boon. If the target does not make the roll before your next turn, the bonus is lost.
-    <ul>
-    <li><strong>Power Level 3</strong> - Advantage 1</li>
-    <li><strong>Power Level 6</strong> - Advantage 2</li>
-    <li><strong>Power Level 8</strong> - Advantage 3</li>
-    </ul>
-- !
   name: Animation
   tags:
   - Extraordinary
@@ -171,6 +146,31 @@
     Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or extraordinarily heightened senses.
   effect: |
     The Blinded bane does not adversely affect you and you are able to see normally even in conditions of little or no light.  Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
+- !
+  name: Bolster
+  tags:
+  - Extraordinary
+  - Physical
+  power:
+  - 3
+  - 6
+  - 8
+  attribute:
+  - Alteration
+  - Creation
+  - Prescience
+  - Presence
+  invocationTime: 1 Major Action
+  duration: Sustain Persists
+  description: |
+    You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
+  effect: |
+    Choose a physical, social, or mental attribute. The target gains advantage on their action rolls according to the Power Level of the boon.
+    <ul>
+    <li><strong>Power Level 3</strong> - Advantage 1</li>
+    <li><strong>Power Level 6</strong> - Advantage 2</li>
+    <li><strong>Power Level 8</strong> - Advantage 3</li>
+    </ul>
 - !
   name: Darkness
   tags:
