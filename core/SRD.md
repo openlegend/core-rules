@@ -2368,9 +2368,7 @@ result.
 plain old good luck. The result is that you're pretty good at things
 you're not specialized in. \newline
 
-**Effect:** Any time you make a non-attack action roll with an attribute in which
-you have a score of 2 or less, roll an additional d20 and keep the
-highest of the two d20s.
+**Effect:** Any time you use an attribute with a score of 2 or less to make an action roll outside of combat that is not a bane or boon invocation, you gain advantage 1 to the roll.
 
 ## Wealthy
 
