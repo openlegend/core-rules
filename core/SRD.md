@@ -4621,20 +4621,6 @@ Supernatural attacks are more open-ended and often require the GM to decide the 
 - **Evasion** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
 - **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
-##### Standard Defense vs. Attack Types
-
-\ \
-
-\NextTableColumns{OCT{.50}OCT{.50}}
-
-| Attack Type | Defense |
-| :- | :- |
-| Precise weapons | Evasion |
-| Forceful weapons | Toughness |
-| Supernatural melee attacks | Toughness |
-| Supernatural area attacks | Toughness |
-| Supernatural projectile attacks | Evasion |
-
 **4. Roll Attack and Calculate Damage**
 
 Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Supernatural attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
