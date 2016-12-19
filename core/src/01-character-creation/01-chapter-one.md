@@ -18,7 +18,7 @@ For anyone who feels they could benefit from some inspiration, you can easily ma
 
 ## Step 1: Choose Attributes
 
-Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres he excels in, as well as his greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
+Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
 
 In *Open Legend*, attributes are divided into four categories: physical,
 social, mental, and supernatural.
@@ -253,8 +253,7 @@ heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so he takes the *Combat Momentum* feat to allow him to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Berserker* so that she
-can fly into a frenzied rage in order to decimate her foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Berserker* so that they can fly into a frenzied rage in order to decimate their foes.
 
 ### Choose your feats
 
@@ -308,7 +307,7 @@ start with the feat selections recommended below:
 
 ## Step 4: Choose Starting Equipment
 
-In a typical game of *Open Legend*, your character will start with the gear he needs for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
+In a typical game of *Open Legend*, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
 Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 4 for rules concerning Wealth as well as equipment details.
 
@@ -367,7 +366,7 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 
 *Open Legend* is a role playing game, which means your character will need more depth than attributes, feats, and gear. To make your character come to life, add the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
 
-**A heroic name.** Be sure to check with your GM to see if he has any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
+**A heroic name.** Be sure to check with your GM to see if they have any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
 
 **Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
 
@@ -412,7 +411,7 @@ Perks provide very specific bonuses or effects in specific situations. Your perk
 
 While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see Chapter 2: Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in the future.
 
-You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that he is usually completely unaffected by his blindness. Only under extreme circumstances does the blindness hinder him.
+You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
 
 To activate a flaw, you should intentionally make a disadvantageous choice based on your flaw that creates an interesting or tense moment in the plot. When you do so, let your GM know that you are activating your flaw and describe how it is hindering your efforts or influencing your decisions. If the GM approves that your flaw is creating a significant disadvantage and advancing the story, you receive one legend point. Sometimes, the GM may recognize that you are roleplaying a flaw without you having to overtly activate it. In such cases, the GM may award you with a legend point as well.
 
@@ -719,7 +718,7 @@ With your character created, you are all ready to start playing *Open Legend*. W
 
 ### Respect the GM
 
-If you’ve never GM’d before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put her campaign together and prep for this session. Go with her storyline, overlook any accidental inconsistencies, and don’t cause a ruckus just for the sake of causing a ruckus. If there’s a dispute over the rules, accept the GM’s final ruling and agree to look it up later for the sake of the game.
+If you’ve never GM’d before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put their campaign together and prep for this session. Go with their storyline, overlook any accidental inconsistencies, and don’t cause a ruckus just for the sake of causing a ruckus. If there’s a dispute over the rules, accept the GM’s final ruling and agree to look it up later for the sake of the game.
 
 ### Respect the Other Players
 

@@ -2,7 +2,7 @@
 
 ## The Game Master’s Calling
 
-If you're reading this chapter, then perhaps you've decided to don the most important mantle among roleplayers: that of the Game Master. Answering the call to be the GM isn't always easy, but your fellow game masters will agree that running a good campaign is perhaps the most satisfying act to be enjoyed within this fine hobby. Sure, the players get to slay dragons, amass wealth, and boast of their tales - but the GM gets to rest his head on the pillow after a late night session knowing that none of that fun would have been possible without him. The buzz of a well-run game is addicting, and we hope you'll answer the call.
+If you're reading this chapter, then perhaps you've decided to don the most important mantle among roleplayers: that of the Game Master. Answering the call to be the GM isn't always easy, but your fellow game masters will agree that running a good campaign is perhaps the most satisfying act to be enjoyed within this fine hobby. Sure, the players get to slay dragons, amass wealth, and boast of their tales - but the GM gets to rest their head on the pillow after a late night session knowing that none of that fun would have been possible without them. The buzz of a well-run game is addicting, and we hope you'll answer the call.
 
 In this chapter, you'll find everything you need to plan and execute legendary adventures and campaigns using the Open Legend rules system. You'll learn how to plan challenges that are both exciting and fair, as well as how to reward the heroes so that they want to come back for more.
 
@@ -48,7 +48,7 @@ All of these examples provide a real threat that needs to be taken care of by re
 
 The **motivation** is the reason that the PCs are getting involved. Sometimes the danger and motivation are wrapped up in one, but imagine how much more invested the party would be in the above scenarios if one of the children was a nephew to a player, or if the Librim went missing on the party’s watch, or if the orc war chief had murdered one of their families.
 
-The **twist** in an adventure is a surprise that throws the party off course or upsets their well laid plans. Or, it could just be an exciting change of plot that makes the story deeper than the players assumed. Maybe the witch is actually the town mayor. What if the players find the Librim Protectis in the hands of a local merchant who swears he has no idea how it fell into his hands. And perhaps the night before the orcs are set to launch their attack, the village scouts discover that a band of gnolls are approaching from the other side of town.
+The **twist** in an adventure is a surprise that throws the party off course or upsets their well laid plans. Or, it could just be an exciting change of plot that makes the story deeper than the players assumed. Maybe the witch is actually the town mayor. What if the players find the Librim Protectis in the hands of a local merchant who swears they have no idea how it fell into their hands. And perhaps the night before the orcs are set to launch their attack, the village scouts discover that a band of gnolls are approaching from the other side of town.
 
 When planning an adventure, it’s usually fine to start with nothing more than a danger to overcome and a motivation to get the PCs invested. You can feel free to come up with a twist ahead of time, but some of the best plot twists occur as a natural result of the party’s actions.
 
@@ -270,11 +270,11 @@ Henchman is a general term to describe any antagonist who simply exists as a sma
 
 The villain of a plotline is the primary antagonist, and your players will likely deal with multiple villains throughout their careers. Examples include the necromancer who has taken up residence in the local graveyard, the demon who pulls the strings from behind the throne, and the bandit king who has united the ruffians of the realm under one banner. Unlike henchmen, your villains will require a good amount of thought to flesh out. To develop strong, convincing villains, consider the following elements.
 
-**Motive.** Every villain should have a realistic motive, or a reason for turning towards their villainous ways. Instead of deciding that your necromancer is simply evil, for example, consider making him fallen. Perhaps he turned to necromancy as a last resort to revive his beloved wife who was killed in a shipwreck.
+**Motive.** Every villain should have a realistic motive, or a reason for turning towards their villainous ways. Instead of deciding that your necromancer is simply evil, for example, consider making them fallen. Perhaps they turned to necromancy as a last resort to revive their beloved partner who was killed in a shipwreck.
 
-**Scheme.** Your villain’s scheme is the evil deed he has set out to complete. The scheme is often tied directly to the motive. For example, rather than the necromancer simply being set on snuffing the life out of the town, his scheme involves sacrificing ten villagers as part of a ritual to return his wife to life.
+**Scheme.** Your villain’s scheme is the evil deed they have set out to complete. The scheme is often tied directly to the motive. For example, rather than the necromancer simply being set on snuffing the life out of the town, their scheme involves sacrificing ten villagers as part of a ritual to return their partner to life.
 
-**Flaw.** A flaw is part of what makes a villain human (even if the villain is an ancient wyrm). A flaw could be a physical vulnerability, such as the bare patch of Smaug’s left breast, or it could be a social, mental, or emotional insufficiency. Our necromancer, for example, could be easily set into a blind rage against anyone who speaks ill of his beloved.
+**Flaw.** A flaw is part of what makes a villain human (even if the villain is an ancient wyrm). A flaw could be a physical vulnerability, such as the bare patch of Smaug’s left breast, or it could be a social, mental, or emotional insufficiency. Our necromancer, for example, could be easily set into a blind rage against anyone who speaks ill of their beloved.
 
 ### Allies
 
