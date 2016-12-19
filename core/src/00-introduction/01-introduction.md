@@ -6,7 +6,7 @@
 
 *But his whispers carry far in the long corridors and endless ventilation shafts of the Zeta class cruiser, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn for the flesh of the intruders. “Spaz,” stutters the lightbearer as he draws a shining six-shooter, “I don't think this freighter is abandoned no more.”*
 
-* * * * *
+* * *
 
 *The death throes of the orcs can be heard two realms over as they fall in waves to the heroes making their last stand upon the Ruins of Ravenwatch. Still, there is no end in sight to the horde that blackens the hills like a swarm of locusts.*
 
@@ -17,7 +17,7 @@
 *As elf and dwarf bicker, a grey haired man, cloaked in emerald, stands tall atop a boulder at the center of the ruins. His eyes stare distantly, like sharp daggers, at the golden sun landing upon the horizon. With a smirk, he raises his gnarled oaken staff to the sky,
 where the gathering storm clouds crackle with the fury of nature’s electric potential. “Gentleman, lady…” speaks the druid with soft confidence, “I think the winds have turned in our favor.”*
 
-* * * * *
+* * *
 
 <div class="sticky-sidebar"></div>
 > ### Why Open Legend?

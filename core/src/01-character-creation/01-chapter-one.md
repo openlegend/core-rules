@@ -16,7 +16,40 @@ For anyone who feels they could benefit from some inspiration, you can easily ma
 
 [**View Pre-generated Character Options**](https://drive.google.com/drive/u/0/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00)
 
-## Step 1: Choose Attributes
+## Step 1: Describe Your Character
+
+*Open Legend* is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear that we will learn about in later steps. To make your character come to life, add some of the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
+
+**A heroic name.** Be sure to check with your GM to see if they have any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
+
+**Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
+
+As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 6: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
+
+At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
+
+> ### No Racial Abilities or Adjustments?
+> In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you’ll have a chance to further define your character in the a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing the aforementioned psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter’s bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
+
+**Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
+
+**Two defining social traits. **Maybe you stutter when you’re nervous. Maybe you don’t trust anyone until they’ve proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
+
+**A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
+
+> ### Example Character Secrets
+> Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
+>
+> * * * * *
+>
+> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.
+>
+> * * * * *
+>
+> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive > with a number of cybernetic implants that have left her half machine, physically and mentally.
+
+
+## Step 2: Choose Attributes
 
 Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
 
@@ -246,7 +279,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 **Speed** indicates how far your character can move using a single move action (see Chapter 6: Combat). Your base speed is 30 feet. Other effects, such as banes, boons, and feats may cause your speed to increase or decrease.
 
-## Step 3: Purchase Feats
+## Step 4: Purchase Feats
 
 While your character’s attributes define his skill at accomplishing
 heroic tasks, his **feats** are what make him unique among other
@@ -305,7 +338,7 @@ start with the feat selections recommended below:
 
 <br><br>
 
-## Step 4: Choose Starting Equipment
+## Step 5: Choose Starting Equipment
 
 In a typical game of *Open Legend*, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
@@ -361,39 +394,6 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 | Hand Crossbow | Longsword | Dagger |
 | Leather Armor | Leather Armor | Leather Armor |
 | Rogue’s Pack | Adventurer’s Pack | Mage’s Pack |
-
-## Step 5: Describe Your Character
-
-*Open Legend* is a role playing game, which means your character will need more depth than attributes, feats, and gear. To make your character come to life, add the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
-
-**A heroic name.** Be sure to check with your GM to see if they have any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
-
-**Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
-
-As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 6: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
-
-At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
-
-> ### No Racial Abilities or Adjustments?
-> In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you’ll have a chance to further define your character in the next step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing the aforementioned psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter’s bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
-
-**Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
-
-**Two defining social traits. **Maybe you stutter when you’re nervous. Maybe you don’t trust anyone until they’ve proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
-
-**A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
-
-> ### Example Character Secrets
-> Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
->
-> * * * * *
->
-> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.
->
-> * * * * *
->
-> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive > with a number of cybernetic implants that have left her half machine, physically and mentally.
-
 
 ## Step 6: Choose Perks and Flaws
 In addition to the descriptive details you have just created, you may also choose up to two perks and up to two flaws from the following lists.
