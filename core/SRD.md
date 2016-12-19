@@ -4570,15 +4570,15 @@ Any time you make a ranged attack (weapon or supernatural) and there is an enemy
 
 By default, your attacks target a single foe. However, you may choose to target multiple individual foes or to target an area. Targeting more than one foe causes disadvantage on your attack roll, as described below.
 
-**Melee Multi-Attacks**
+**Melee Multi-targeting**
 
 You may target any number of foes that are within your reach. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted (2 targets = disadvantage 2, 3 targets = disadvantage 3, etc.)
 
-**Projectile Multi-Attacks**
+**Projectile Multi-targeting**
 
 You may target up to five foes that fall within a 25' square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
 
-**Area Attacks**
+**Area Multi-targeting**
 
 Designate the length of the square you would like to target in increments of 5 feet. For each 5 feet of length, you suffer one level of disadvantage (10’x10’ square = disadvantage 2, 15’x15’ square equals disadvantage 3, etc.).
 
