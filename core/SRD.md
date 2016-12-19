@@ -4536,7 +4536,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 | **Step 2:** | *If more than one target...*  |
 |  **Determine Targets** | **Melee** = Disadvantage equals total # of targets |
 | | **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) |
-| | **Area** = Disadvantage 1 per 5’ length of square |
+| | **Area** = Disadvantage varies (see below) |
 | **Step 3:** | Weapon Attacks target Evasion |
 | **Determine Targeted Defense** | Supernatural Attacks target the most logical defense |
 | | **Evasion** if the attack requires dodging or deflection |
@@ -4564,7 +4564,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 **Ranged Attacks in Melee**
 
-Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll.
+Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 
 **Note:** For supernatural attacks, this penalty does not apply if you are targeting an adjacent enemy, because you would not be making a ranged attack.
 +++
@@ -4583,9 +4583,15 @@ You may target up to five foes that fall within a 25' square. When targeting mor
 
 **Area Multi-targeting**
 
-Designate the length of the square you would like to target in increments of 5 feet. For each 5 feet of length, you suffer one level of disadvantage (10’x10’ square = disadvantage 2, 15’x15’ square equals disadvantage 3, etc.).
+You may choose from a variety of shapes when making an area attack as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
 
 Friends and foes alike that fall within the targeted area will be subject to your attack, but you will not. Additionally, if you target at least one square that is adjacent to you, you do not provoke opportunity attacks for this attack.
+
+**Cube.** You target a cube with equal length, width, and height designated by you. The attack suffers disadvantage 1 per 5' of the cube's side. That is, a 5' cube suffers disadvantage 1, a 10' cube disadvantage 2, and so on.
+
+**Line.** You target a line that is 5' wide, 10' long, and 10' high. You may create several lines as part of a single attack, as long as at least one corner of each line touches. For each line, the attack suffer disadvantage 1.
+
+**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone.
 
 
 ##### Multi-Targeting Summary
@@ -4599,7 +4605,9 @@ Friends and foes alike that fall within the targeted area will be subject to you
 | **Melee Attacks** | Disadvantage = number of targets. |
 | **Projectile Attacks** | Disadvantage = number of targets. |
 | | Max 5 targets. Must be within a 25’ square. |
-| **Area Attacks** | Disadvantage = 1 per 5’ of length of square targeted. |
+| **Cube** | Disadvantage = 1 per 5’ of length of cube. |
+| **Line** | Disadvantage = 1 per 5'x10'x10' line. |
+| **Cone** | Disadvantage = 1 per 5' length of cone. |
 
 **3. Determine Targeted Defense**
 
