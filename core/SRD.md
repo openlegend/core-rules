@@ -3653,27 +3653,6 @@ If anything happens to cancel this boon (such as the Dispel bane), the
 object is immediately shunted out of your body as if you had withdrawn
 it to your hand.
 
-## Aid
-
-**Duration:** Instantaneous
-\
-**Invocation Time:** 1 Major Action
-\
-**Power Level:** 3, 6, 8
-\
-**Attributes:** Alteration, Creation, Prescience, Presence \newline
-
-**Description:** Your bolster an ally's chances of succes via inspiration, augmentation,
-divine blessing, or supernatural insight. \newline
-
-**Effect:** Choose a physical, social, or mental attribute. The target gains
-advantage on their next action roll according to the Power Level of the
-boon. If the target does not make the roll before your next turn, the
-bonus is lost.
-
--   **Power Level 3** - Advantage 1
--   **Power Level 6** - Advantage 2
--   **Power Level 8** - Advantage 3
 
 ## Animation
 
@@ -3779,6 +3758,26 @@ normally even in conditions of little or no light. Blindsight can also
 potentially counter invisibility, though the GM will have to decide if
 the source creating the blindsight is appropriate to counter the source
 creating the invisibility.
+
+
+## Bolster
+
+**Duration:** Sustain Persists
+\
+**Invocation Time:** 1 Major Action
+\
+**Power Level:** 3, 6, 8
+\
+**Attributes:** Alteration, Creation, Prescience, Presence \newline
+
+**Description:** You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier. \newline
+
+**Effect:** Choose a physical, social, or mental attribute. The target gains advantage on their action rolls according to the Power Level of the boon.
+
+-   **Power Level 3** - Advantage 1
+-   **Power Level 6** - Advantage 2
+-   **Power Level 8** - Advantage 3
+
 
 ## Darkness
 
