@@ -267,6 +267,10 @@ Perks, on the other hand, often grant elaborate benefits and even mechanical bon
 
 ### Perk List
 
+#### Ageless
+
+Whether you are an android constructed of spaceage material that does not erode over time, the loyal servant of a higher power, or the subject of an arcane ritual, you have unlocked the secret to immortality. You are immune to the passage of time and the effects of old age. Your body does not age and you cannot be harmed by extraordinary effects that cause aging. Based on the source of your agelessness, you can decide whether or not your appearance changes over time.
+
 #### Arcane Bloodline
 
 Your ancestry can be traced to dragons, fey, or a similarly magical race. As such, you command the respect of those who practice the arcane arts.  You are assumed to have knowledge and a destiny for greatness in the ways of magic, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you an apprenticeship with a famous Archmage, or cause a magic-user who does not know you well to follow a prescribed course of action based on your advice if the question is one of Arcane knowledge.
@@ -764,24 +768,6 @@ Each feat description includes the following elements.
 Below is a complete list of feats available to any character that meets the prerequisites.
 
 
-
-## Ageless
-
-**Cost:** 1 point
-\
-**Prerequisites:**
-
--   **Tier 1**: Alteration, Creation, Entropy, or Protection 9
-
-**Description:** Ageless and supernatural, you have either unlocked a mystical secret to
-immortality, become a legendary defender, transformed into an avatar of
-nature, or been granted immunity to the ravages of time by some higher
-power. \newline
-
-**Effect:** Rooted in a superantural means of your choice, you become immune to the
-passage of time and the effects of old age. You do not age and cannot be
-harmed by magic that causes aging. You can choose to age in appearance,
-if you wish, but you can also choose to continually appear the same age.
 
 ## Alternate Form (I - II)
 
