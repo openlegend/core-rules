@@ -12,6 +12,15 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2016 / 12 / 19
+-   Reorder Character Creation steps so that `Description` comes first
+-   Add `Free Actions` to combat section and explain how they work
+-   Clarify that banes do not stack, only one instance of a given bane can be on a target at a given time
+-   All references to `Supernatural` have been changed to `Extraordinary` to support some genres like far-future and superheroes that sometimes explain the extraordinary with science rather than magic
+-   Fix Druid example missing Creation 3
+-   Fix Arcane Protector example missing Movement 3
+-   Fix Druid example build referencing removed `Master Shifter` feat, replaced with `Boon Focus 2 (Shapeshift)` which accomplishes the same
+
 #### 2016 / 12 / 12
 -   Size categories added
 
