@@ -49,8 +49,6 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 
 #### 2016 / 11 / 25
 -   Updated character creation text to reflect new `Toughness = 10 + Fortitude + Will` formula
-
-#### 2016 / 11 / 25
 -   Clarified attribute 9 limitation for `Companion` feat
 -   Removed all prerequisites for `Superior Concentration` to accommodate any boon including those inovoked by non-supernatural attributes
 
