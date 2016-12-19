@@ -107,7 +107,7 @@ A few attributes can be used for damaging attacks in special circumstances in wh
 
 **Alteration.** Causing a tree branch to strangle a foe.
 
-**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For supernatural compulsion, forcing a dominated enemy to stab himself.
+**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For extraordinary compulsion, forcing a dominated enemy to stab himself.
 
 **Movement.** Using telekinesis to hurl a boulder at a foe.
 
@@ -145,7 +145,7 @@ Each of these actions is explained below.
 
 #### Make a Damaging Attack
 
-To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or supernatural. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Supernatural attacks are those that make use of one of the attacker's supernatural attributes, such as by using Energy to summon a ball of fire. A character can only make a supernatural attack if they possess a score of 1 or higher in the relevant attribute.
+To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or extraordinary. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Extraordinary attacks are those that make use of one of the attacker's extraordinary attributes, such as by using Energy to summon a ball of fire. A character can only make an extraordinary attack if they possess a score of 1 or higher in the relevant attribute.
 
 <div class="table-no-body"></div>
 | The Action Roll for Attacks <br /> Roll 1d20 + attribute dice (all dice explode) |
@@ -155,9 +155,9 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 <div class="table-no-head"></div>
 | | |
 | - | - |
-| **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Supernatural** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
+| **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Extraordinary** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
 | **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage varies (see below) |
-| **Step 3: Determine Targeted Defense** | Weapon Attacks target Evasion <br /><br /> Supernatural Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Evasion** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
+| **Step 3: Determine Targeted Defense** | Weapon Attacks target Evasion <br /><br /> Extraordinary Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Evasion** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
 | **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />10 over defense, inflict one bane as well |
 
 ##### 1. Determine Range
@@ -166,10 +166,10 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 **Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon’s range.
 
-**Supernatural attacks** have a range according to the attribute being used, as detailed in the Supernatural Attack Range table. Unlike projectile weapons, supernatural attacks cannot extend beyond their normal range.
+**Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
 
 <div class="table-no-body"></div>
-| Supernatural Attack Range |
+| Extraordinary Attack Range |
 | - |
 | |
 <div class="table-no-head"></div>
@@ -182,7 +182,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 > **Ranged Attacks in Melee**
 >
-> Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
+> Any time you make a ranged attack (weapon or extraordinary) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 >
 
 <br><br>
@@ -228,7 +228,7 @@ Every attack targets one of your foe’s defenses: toughness, evasion, or resolv
 
 Weapon attacks always target evasion.
 
-Supernatural attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
+Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
 - **Evasion** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
@@ -237,7 +237,7 @@ Supernatural attacks are more open-ended and often require the GM to decide the 
 
 ##### 4. Roll Attack and Calculate Damage
 
-Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Supernatural attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
+Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Extraordinary attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
 
 The Challenge Rating for your roll is the target’s defense score. If you succeed, the target takes damage equal to your action roll minus the targeted defense. This damage is subtracted from the target’s hit points.
 
@@ -249,7 +249,7 @@ equal or exceed the appropriate defense for that bane. If your attack targeted m
 #### Make a Bane Attack
 
 Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
-detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes).
+detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes). While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* [Fatigued](http://www.openlegendrpg.com/banes/fatigued)).
 
 To resolve a bane attack, follow these steps:
 

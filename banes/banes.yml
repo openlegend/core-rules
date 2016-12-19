@@ -1,7 +1,7 @@
 - !
   name: Banished
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 6
   attackAttributes:
@@ -17,7 +17,7 @@
 - !
   name: Blinded
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 4
@@ -40,7 +40,7 @@
 - !
   name: Charmed
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 3
   - 4
@@ -68,7 +68,7 @@
 - !
   name: Death
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 9
@@ -90,7 +90,7 @@
   name: Demoralized
   tags:
   - Physical
-  - Supernatural
+  - Extraordinary
   power:
   - 3
   - 6
@@ -127,7 +127,7 @@
 - !
   name: Disarmed
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 3
@@ -162,7 +162,7 @@
 - !
   name: Dispel
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 1
   - 6
@@ -183,7 +183,7 @@
 - !
   name: Dominated
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 3
   - 5
@@ -210,7 +210,7 @@
 - !
   name: Fatigued
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 5
   attackAttributes:
@@ -225,7 +225,7 @@
     This bane has multiple tiers which are applied in succession. Each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one level.<br/>
     <ul>
     <li>Level 1 - The target has Disadvantage 1 on all non-attack action rolls.</li>
-    <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.</li>
+    <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
     <li>Level 3 - The target has Disadvantage 1 on all attack rolls.</li>
     <li>Level 4 - The target is affected by the slowed bane, reducing it's speed to 2. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
     <li>Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
@@ -236,7 +236,7 @@
 - !
   name: Fear
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 5
@@ -253,7 +253,7 @@
   invocationTime: 1 Major Action
   duration: Special
   description: |
-    You manifest an overwhelming force of physical might or supernatural power that strikes terror into the hearts of enemies, causing them to flee from your presence.
+    You manifest an overwhelming force of physical might or extraordinary power that strikes terror into the hearts of enemies, causing them to flee from your presence.
   effect: |
     On its turn, the afflicted target must use its entire turn to get as far away as possible from you. It cannot use its actions to do anything other than retreat, and it cannot willingly move closer to you while the bane persists.
   special: |
@@ -261,7 +261,7 @@
 - !
   name: Forced Move
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 2
@@ -285,7 +285,7 @@
 - !
   name: Immobile
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 1
@@ -318,7 +318,7 @@
 - !
   name: Incapacitated
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 5
@@ -343,7 +343,7 @@
 - !
   name: Intimidated
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 4
@@ -385,7 +385,7 @@
 - !
   name: Knockdown
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 2
@@ -398,13 +398,13 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak.
+    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering bolt of extraordinary energy, or a well aimed shove in a direction where the enemy's balance is weak.
   effect: |
     The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1.
 - !
   name: Memory Alteration
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 5
   - 6
@@ -430,7 +430,7 @@
 - !
   name: Mind Dredge
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 2
   - 4
@@ -457,7 +457,7 @@
 - !
   name: Persistent Damage
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 2
@@ -493,7 +493,7 @@
 - !
   name: Phantasm
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 1
   - 2
@@ -532,7 +532,7 @@
 - !
   name: Polymorph
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 5
   - 6
@@ -556,7 +556,7 @@
 - !
   name: Scrying
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 5
   attackAttributes:
@@ -566,7 +566,7 @@
   invocationTime: 10 Minutes
   duration: 10 minutes (Special)
   description: |
-    Peering into a supernatural conduit such as a hearth, a bubbling cauldron, or a crystal ball, you see can view the target from a distance.
+    Peering into a extraordinary conduit such as a hearth, a bubbling cauldron, or a crystal ball, you see can view the target from a distance.
   effect: |
     You can scry on a person or area that you are familiar with. The Challenge Rating to succeed at this scrying is based on the distance between you and the target. If successful, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your scrying if they are familiar with such powers.
     <ul>
@@ -581,7 +581,7 @@
 - !
   name: Sickened
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 3
@@ -598,7 +598,7 @@
 - !
   name: Silenced
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 2
@@ -621,7 +621,7 @@
 - !
   name: Slowed
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 2
@@ -646,7 +646,7 @@
 - !
   name: Stunned
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   power:
   - 4
@@ -671,7 +671,7 @@
 - !
   name: Stupefied
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 7
   attackAttributes:
@@ -708,7 +708,7 @@
 - !
   name: Truthfulness
   tags:
-  - Supernatural
+  - Extraordinary
   power:
   - 5
   attackAttributes:
@@ -718,7 +718,7 @@
   invocationTime: 10 Minutes
   duration: 10 minutes (Special)
   description: |
-    With supernatural control of the mind, you compel the target to honesty, rendering them unable to speak falsely.
+    With extraordinary control of the mind, you compel the target to honesty, rendering them unable to speak falsely.
   effect: |
     The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Influence roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.
   special: |

@@ -46,7 +46,7 @@
       - None
   tags:
   - No Prerequisite
-  - Supernatural
+  - Extraordinary
   cost:
   - 1
   description: |
@@ -85,7 +85,7 @@
       Feat:
       - Defensive Reflexes II
   tags:
-  - Supernatural
+  - Extraordinary
   cost:
   - 3
   description: |
@@ -99,51 +99,51 @@
       Attribute:
       - Agility: 1
       - Might: 1
-      - Any Supernatural: 1
+      - Any Extraordinary: 1
     tier2:
       Attribute:
       - Agility: 2
       - Might: 2
-      - Any Supernatural: 2
+      - Any Extraordinary: 2
     tier3:
       Attribute:
       - Agility: 3
       - Might: 3
-      - Any Supernatural: 3
+      - Any Extraordinary: 3
     tier4:
       Attribute:
       - Agility: 4
       - Might: 4
-      - Any Supernatural: 4
+      - Any Extraordinary: 4
     tier5:
       Attribute:
       - Agility: 5
       - Might: 5
-      - Any Supernatural: 5
+      - Any Extraordinary: 5
     tier6:
       Attribute:
       - Agility: 6
       - Might: 6
-      - Any Supernatural: 6
+      - Any Extraordinary: 6
     tier7:
       Attribute:
       - Agility: 7
       - Might: 7
-      - Any Supernatural: 7
+      - Any Extraordinary: 7
     tier8:
       Attribute:
       - Agility: 8
       - Might: 8
-      - Any Supernatural: 8
+      - Any Extraordinary: 8
     tier9:
       Attribute:
       - Agility: 9
       - Might: 9
-      - Any Supernatural: 9
+      - Any Extraordinary: 9
   tags:
   - Passive
   - Weapon
-  - Supernatural
+  - Extraordinary
   - Combat
   cost:
   - 3
@@ -161,13 +161,13 @@
       Attribute:
       - Any Social: 4
       - Any Mental: 4
-      - Any Supernatural: 4
+      - Any Extraordinary: 4
   tags:
   - Any Attribute
   cost:
   - 3
   description: |
-    Your prowess in a supernatural, mental, or social attribute empowers a physical aspect of your character, allowing you to use that attribute for tasks normally reserved for another attribute.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, as well as an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity.
+    Your prowess in an extraordinary, mental, or social attribute empowers a physical aspect of your character, allowing you to use that attribute for tasks normally reserved for another attribute.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, as well as an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity.
   effect: |
     When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for the following situations:
     <ul>
@@ -178,7 +178,7 @@
     </ul>
     The relationship formed by your two attributes is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
   special: |
-    This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
+    This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or extraordinary, while the substituted attribute must be physical.
 - !
   name: Bane Focus
   prerequisites:
@@ -343,7 +343,7 @@
       Other:
       - None
   tags:
-  - Supernatural
+  - Extraordinary
   cost:
   - 1
   - 2
@@ -355,7 +355,7 @@
   - 8
   - 9
   description: |
-    You have a special gift: it might be the result of your heritage, a close encounter with magical energy, or the result of years of training with a master. In any case, although you do not necessarily possess the aptitude to work supernatural powers for yourself or create a desired effect with your physical capabilities alone, you are able to reliably replicate a single boon.
+    You have a special gift: it might be the result of your heritage, a close encounter with magical energy, or the result of years of training with a master. In any case, although you do not necessarily possess the aptitude to work extraordinary powers for yourself or create a desired effect with your physical capabilities alone, you are able to reliably replicate a single boon.
   effect: |
     When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the Power Level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the Power Level of the boon. If the boons has multiple attribute prerequisite options, you choose one attribute when you take this feat. Additionally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the Power Level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a Power Level 6 boon.
     You may acquire this feat multiple times. Each time, select a new boon.
@@ -374,7 +374,7 @@
       Other:
       - Ability to invoke the chosen boon
   tags:
-  - Supernatural
+  - Extraordinary
   - Passive
   - Boon
   cost:
@@ -566,18 +566,18 @@
   prerequisites:
     tier1:
       Attribute:
-      - Any Supernatural: 5
+      - Any Extraordinary: 5
       - Learning: 5
     tier2:
       Attribute:
-      - Any Supernatural: 5
+      - Any Extraordinary: 5
       - Learning: 5
     tier3:
       Attribute:
-      - Any Supernatural: 5
+      - Any Extraordinary: 5
       - Learning: 5
   tags:
-  - Supernatural
+  - Extraordinary
   - Non-Combat
   cost:
   - 3
@@ -596,7 +596,7 @@
       A tier 1 permanent item can be invoked once per hour, after which it has to recharge before it can be used again. <br />
       The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
       <ul>
-      <li><strong>Any Supernatural Attribute</strong> - The item can only be imbued with a bane or boon that is accessible to the creator via the attribute used. </li>
+      <li><strong>Any Extraordinary Attribute</strong> - The item can only be imbued with a bane or boon that is accessible to the creator via the attribute used. </li>
       <li><strong>Learning</strong> - You can imbue an item with only Physical attributes (Might, Agility, Fortitude) and the corresponding banes and boons.</li>
       <li><strong>Creation</strong> - Being capable of manifesting something from nothing via channeling otherworldly energy, you can imbue the item with any attribute, even if you do not have a score in that attribute.</li>
       </ul>
@@ -607,7 +607,7 @@
       <li>The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.</li>
       <li>For expendable items, bane attacks have advantage 2 instead of advantage 1.</li>
       <li>You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a teleportation circle that activates when someone steps on a magical trigger. For those imbuing with non-magical means, this autonomy could be more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).</li>
-      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3.  A non-supernatural example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
+      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3.  A non-extraordinary example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
       </ul>
     </li>
     <li><strong>Tier 3</strong> - You gain the ability to imbue sentience into an item by tripling the time you would have otherwise spent in creating it. The item gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.
@@ -672,7 +672,7 @@
       Feat:
       - Berserker
   tags:
-  - Supernatural
+  - Extraordinary
   cost:
   - 3
   description: |
@@ -688,7 +688,7 @@
       Feat:
       - Berserker
   tags:
-  - Supernatural
+  - Extraordinary
   - Might
   cost:
   - 3
@@ -731,7 +731,7 @@
       - Agility: 3
   tags:
   - Agility
-  - Supernatural
+  - Extraordinary
   cost:
   - 2
   description: |
@@ -785,7 +785,7 @@
       Other:
       - None
   tags:
-  - Supernatural
+  - Extraordinary
   cost:
   - 2
   description: |
@@ -836,7 +836,7 @@
         - Agility: 5
         - Perception: 5
   tags:
-  - Supernatural
+  - Extraordinary
   - Agility
   - Perception
   cost:
@@ -858,7 +858,7 @@
       Attribute:
       - Influence: 7
   tags:
-  - Supernatural
+  - Extraordinary
   - Influence
   cost:
   - 2
@@ -872,20 +872,20 @@
     tier1:
       Attribute:
       - Agility: 4
-      - Fortitiude: 4
+      - Fortitude: 4
       - Movement: 2
     tier2:
       Attribute:
       - Agility: 5
-      - Fortitiude: 5
+      - Fortitude: 5
       - Movement: 4
     tier3:
       Attribute:
       - Agility: 7
-      - Fortitiude: 7
+      - Fortitude: 7
       - Movement: 6
   tags:
-  - Supernatural
+  - Extraordinary
   - Agility
   - Movement
   - Fortitude
@@ -925,7 +925,7 @@
       - Movement: 6
       - Agility: 6
   tags:
-  - Supernatural
+  - Extraordinary
   - Physical
   - Combat
   - Non-Combat
@@ -934,7 +934,7 @@
   cost:
   - 1
   description: |
-    Through supernatural power or exceptional agility, you can jump exceptionally far.
+    Through extraordinary power or exceptional agility, you can jump exceptionally far.
   effect: |
     You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
 - !
@@ -959,7 +959,7 @@
       Attribute:
       - Influence: 5
   tags:
-  - Supernatural
+  - Extraordinary
   - Non-Combat
   - Influence
   cost:
@@ -977,7 +977,7 @@
       Feat:
       - Hallucination
   tags:
-  - Supernatural
+  - Extraordinary
   - Non-Combat
   - Influence
   cost:
@@ -1020,7 +1020,7 @@
       - Protection: 4
   tags:
   - Non-Combat
-  - Supernatural
+  - Extraordinary
   - Social
   - Creation
   - Presence
@@ -1107,7 +1107,7 @@
   description: |
     Your endurance is legendary, allowing you to push on when others would keel over from exhaustion.
   effect: |
-    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Supernatural sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determining the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
+    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Extraordinary sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determining the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
   name: Inspiring Champion (I - III)
   prerequisites:
@@ -1149,7 +1149,7 @@
       - None
   tags:
   - No Prerequisite
-  - Supernatural
+  - Extraordinary
   cost:
   - 2
   description: |
@@ -1194,7 +1194,7 @@
       Attribute:
       - Agility: 9
   tags:
-  - Supernatural
+  - Extraordinary
   - Agility
   - Combat
   cost:
@@ -1244,7 +1244,7 @@
       - Prescience: 6
   tags:
   - Physical
-  - Supernatural
+  - Extraordinary
   - Agility
   - Prescience
   cost:
@@ -1313,13 +1313,13 @@
       - Alteration: 4
       - Deception: 3
   tags:
-  - Supernatural
+  - Extraordinary
   - Feat Chain
   - Alteration
   cost:
   - 2
   description: |
-    You have honed your shapeshifting abilities to be able to not only change your form, but to even imitate specific creatures. Your powers may stem from studying the arts of deceptive magic, from a gene mutation, or even from innate supernatural abilities.
+    You have honed your shapeshifting abilities to be able to not only change your form, but to even imitate specific creatures. Your powers may stem from studying the arts of deceptive magic, from a gene mutation, or even from innate extraordinary abilities.
   effect: |
     When you use the Shapeshift boon, you may take on the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 +  triple your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
 - !
@@ -1403,7 +1403,7 @@
       - None
   tags:
   - Non-Combat
-  - Supernatural
+  - Extraordinary
   cost:
   - 2
   description: |
@@ -1559,20 +1559,20 @@
   prerequisites:
     tier1:
       Attribute:
-      - Any Supernatural: 4
+      - Any Extraordinary: 4
     tier2:
       Attribute:
-      - Any Supernatural: 6
+      - Any Extraordinary: 6
     tier3:
       Attribute:
-      - Any Supernatural: 9
+      - Any Extraordinary: 9
   tags:
-  - Supernatural
+  - Extraordinary
   - Non-Combat
   cost:
   - 2
   description: |
-    By channeling your supernatural powers through extensive rituals, such as meditation, fasting, blood letting, and sacrifices, you are able to increase the strength of your invocations.
+    By channeling your extraordinary powers through extensive rituals, such as meditation, fasting, blood letting, and sacrifices, you are able to increase the strength of your invocations.
   effect: |
     When invoking a bane or boon, you may choose to do so as a ritual. The invocation time for a ritual is one increment higher than usual as follows:
     <ul>
@@ -1668,15 +1668,15 @@
       Other:
       - None
   tags:
-  - Supernatural
+  - Extraordinary
   cost:
   - 3
   description: |
-    Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple supernatural effects at once.
+    Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple extraordinary effects at once.
   effect: |
     When you take the <em>sustain a boon</em> minor action, you may sustain one additional boon per tier of this feat which you possess.
 - !
-  name: Supernatural Defense (I - V)
+  name: Extraordinary Defense (I - V)
   prerequisites:
     tier1:
       Attribute:
@@ -1704,43 +1704,43 @@
       - Prescience: 6
       - Protection: 6
   tags:
-  - Supernatural
+  - Extraordinary
   - Defense
   cost:
   - 2
   description: |
-    Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with supernatural protection from harm.
+    Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm.
   effect: |
     You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
 - !
-  name: Supernatural Focus
+  name: Extraordinary Focus
   prerequisites:
     tier1:
       Attribute:
-      - Any Supernatural: 1
+      - Any Extraordinary: 1
   tags:
-  - Supernatural
+  - Extraordinary
   cost:
   - 3
   description: |
-    Your supernatural power stems from your connection with a particular focus, such as a wand, holy symbol, or spellbook.
+    Your extraordinary power stems from your connection with a particular focus, such as a wand, holy symbol, or spellbook.
   effect: |
-    With the approval of your GM, choose a focus from which your power with a single supernatural attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected supernatural attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
+    With the approval of your GM, choose a focus from which your power with a single extraordinary attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected extraordinary attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
   special: |
-    If you ever lose your supernatural focus, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
+    If you ever lose your extraordinary focus, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
 - !
-  name: Supernatural Healing
+  name: Extraordinary Healing
   prerequisites:
     tier1:
       Attribute:
       - Creation: 5
   tags:
-  - Supernatural
+  - Extraordinary
   - Creation
   cost:
   - 3
   description: |
-    Your mastery of supernatural healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
+    Your mastery of extraordinary healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
   effect: |
     When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
 - !
@@ -1821,7 +1821,7 @@
       Attribute:
       - Influence: 4
   tags:
-  - Supernatural
+  - Extraordinary
   - Non-Combat
   - Influence
   cost:
@@ -1829,7 +1829,7 @@
   description: |
     Your charm is so potent that your victims may become permanently enthralled by you.
   effect: |
-    When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other supernatural effects like a dispel boon can still end the effect (and other methods may work at the GM’s discretion).
+    When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a dispel boon can still end the effect (and other methods may work at the GM’s discretion).
 - !
   name: Untrackable
   prerequisites:
@@ -1846,9 +1846,9 @@
   cost:
   - 1
   description: |
-    Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are supernaturally protected from being tracked.
+    Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are extraordinarily protected from being tracked.
   effect: |
-    Your travel is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by supernatural means.
+    Your travel is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.
 - !
   name: Vicious Strike
   prerequisites:
