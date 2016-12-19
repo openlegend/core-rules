@@ -2,7 +2,7 @@
 
 Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with supernatural speed.
 
-Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoke the *Insubstantial* boon for herself or her allies until she gains enough experience to increase her Entropy to 7.
+Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with their Entropy attribute of 5, but won’t be able to invoke the *Insubstantial* boon for themself or their allies until they gain enough experience to increase their Entropy to 7.
 
 ## Telling Your Story with Banes and Boons
 
