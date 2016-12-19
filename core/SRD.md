@@ -29,11 +29,11 @@ Add all of the dice together to find your total action roll. If your total is eq
 Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres he excels in, as well as his greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
 
 In *Open Legend*, attributes are divided into four categories: physical,
-social, mental, and supernatural.
+social, mental, and extraordinary.
 
-A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use a supernatural attribute if they have a score of zero.
+A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero.
 
-The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Supernatural attributes are generally reserved for characters of power and note.
+The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
 
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish.
 
@@ -71,7 +71,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Presence** | Give a speech, sing a song, inspire an army, exert your force of personality, have luck smile upon you |
 
 
-### Supernatural Attributes at a Glance
+### Extraordinary Attributes at a Glance
 
 \NextTableColumns{OLT{.33}OLT{.67}}
 
@@ -163,7 +163,7 @@ When an enemy tries to attack you--whether with a breath of flame, a deft sword 
 
 | Resolve = 10 + Presence + Will  |
 
-**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to supernaturally charm you, deceive you with illusions, or frighten you must target your resolve.
+**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to charm you, deceive you with illusions, or frighten you must target your resolve.
 
 
 \NextTableColumns{OCT{1}}
@@ -388,9 +388,9 @@ While underground you may fail to find what you’re looking for, but you can ne
 
 You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you’re down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
 
-#### Supernatural Presence
+#### Extraordinary Presence
 
-Your inherent supernatural nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you tred. Depending on the nature of your supernatural presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your supernatural presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
 
 #### Sylvan Ally
 
@@ -2593,7 +2593,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 
 # Banes and Boons
 
-Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with supernatural speed.
+Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
 
 Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoket the *Insubstantial* boon for herself or her allies until she gains enough experience to increase her Entropy to 7.
 
@@ -2939,7 +2939,7 @@ severity escalates by one level.
 
 -   Level 1 - The target has Disadvantage 1 on all non-attack  action rolls.
 
--   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.
+-   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
 
 -   Level 3 - The target has Disadvantage 1 on all attack rolls.
 
@@ -2975,7 +2975,7 @@ are removed instead of just one.
 -   Influence vs. Resolve
 -   Might vs. Toughness
 
-**Description:** You manifest an overwhelming force of physical might or supernatural
+**Description:** You manifest an overwhelming force of physical might or manifest
 power that strikes terror into the hearts of enemies, causing them to
 flee from your presence. \newline
 
@@ -3154,7 +3154,7 @@ another).
 **Description:** Fights are called “knock down, drag out” for a reason. Knocking an
 opponent prone is a common way for one combatant to gain the upper hand.
 Knockdown can be caused by a thunderous blow from a great axe, an earth
-shattering bolt of supernatural energy, or a well aimed shove in a
+shattering bolt of extraordinary energy, or a well aimed shove in a
 direction where the enemy's balance is weak. \newline
 
 **Effect:** The target falls prone. Prone targets have disadvantage 1 on all attacks
@@ -3370,7 +3370,7 @@ new creature.
 
 -   Prescience vs. Resolve (Special)
 
-**Description:** Peering into a supernatural conduit such as a hearth, a bubbling
+**Description:** Either through innate extrasensory perception or a special conduit such as a computer terminal, a bubbling
 cauldron, or a crystal ball, you see can view the target from a
 distance. \newline
 
@@ -3570,8 +3570,8 @@ hiding, invisible, or for some other reason *not perceived as a threat*.
 
 -   Influence vs. Resolve
 
-**Description:** With supernatural control of the mind, you compel the target to honesty,
-rendering them unable to speak falsely. \newline
+**Description:** Via control of the target's mind, you compel them to honesty,
+rendering them unable to deliberately lie. \newline
 
 **Effect:** The target answers any question asked with honesty, to the best of their
 knowledge. When compelled to reveal something they would not reveal
@@ -4459,7 +4459,7 @@ A few attributes can be used for damaging attacks in special circumstances in wh
 
 **Alteration.** Causing a tree branch to strangle a foe.
 
-**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For supernatural compulsion, forcing a dominated enemy to stab himself.
+**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For mental compulsion, forcing a dominated enemy to stab himself.
 
 **Movement.** Using telekinesis to hurl a boulder at a foe.
 
@@ -4503,7 +4503,7 @@ Each of these actions is explained below.
 
 #### Make a Damaging Attack
 
-To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or supernatural. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Supernatural attacks are those that make use of one of the attacker's supernatural attributes, such as by using Energy to summon a ball of fire. A character can only make a supernatural attack if they possess a score of 1 or higher in the relevant attribute.
+To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or extraordinary. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Extraordinary attacks are those that make use of one of the attacker's extraordinary attributes, such as by using Energy to summon a ball of fire. A character can only make an extraordinary attack if they possess a score of 1 or higher in the relevant attribute.
 
 
 **1. Determine Range**
@@ -4512,7 +4512,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 **Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon’s range.
 
-**Supernatural attacks** have a range according to the attribute being used, as detailed in the Supernatural Attack Range table. Unlike projectile weapons, supernatural attacks cannot extend beyond their normal range.
+**Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
 
 \NextTableColumns{OCT{1}}
 
@@ -4529,7 +4529,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 | - | - |
 | **Step 1:** | **Melee** = Within your reach |
 | **Determine Range** | **Projectile** = Weapon range (Disadvantage 1 per extra range increment) |
-| |  **Supernatural** |
+| |  **Extraordinary** |
 | | 1 - 3 = 25’ |
 | | 4 - 6 = 50’ |
 | | 7 - 9 = 75’ |
@@ -4538,7 +4538,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 | | **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) |
 | | **Area** = Disadvantage varies (see below) |
 | **Step 3:** | Weapon Attacks target Evasion |
-| **Determine Targeted Defense** | Supernatural Attacks target the most logical defense |
+| **Determine Targeted Defense** | Extraordinary Attacks target the most logical defense |
 | | **Evasion** if the attack requires dodging or deflection |
 | | **Toughness** if the attack targets bodily health |
 | | **Resolve** if the attack harms the psyche or will |
@@ -4548,7 +4548,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 
 
-#### Supernatural Attack Range
+#### Extraordinary Attack Range
 
 \ \
 
@@ -4564,7 +4564,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 **Ranged Attacks in Melee**
 
-Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
+Any time you make a ranged attack (weapon or extraordinary) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 
 **Note:** For supernatural attacks, this penalty does not apply if you are targeting an adjacent enemy, because you would not be making a ranged attack.
 +++
@@ -4615,7 +4615,7 @@ Every attack targets one of your foe’s defenses: toughness, evasion, or resolv
 
 Weapon attacks always target evasion.
 
-Supernatural attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
+Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
 - **Evasion** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
@@ -4623,7 +4623,7 @@ Supernatural attacks are more open-ended and often require the GM to decide the 
 
 **4. Roll Attack and Calculate Damage**
 
-Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Supernatural attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
+Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Extraordinary attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
 
 The Challenge Rating for your roll is the target’s defense score. If you succeed, the target takes damage equal to your action roll minus the targeted defense. This damage is subtracted from the target’s hit points.
 
