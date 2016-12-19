@@ -107,7 +107,7 @@ A few attributes can be used for damaging attacks in special circumstances in wh
 
 **Alteration.** Causing a tree branch to strangle a foe.
 
-**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For extraordinary compulsion, forcing a dominated enemy to stab himself.
+**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For mental compulsion, forcing a dominated enemy to stab himself.
 
 **Movement.** Using telekinesis to hurl a boulder at a foe.
 
