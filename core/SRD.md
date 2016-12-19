@@ -4843,11 +4843,9 @@ The thrill of adventure, the satisfaction of character development, and the joy 
 
 \ \
 
-In Open Legend, the primary way that players gain more power is by reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Officially, there are only 10 levels of play in the game, though, which means that each new level represents a significant increase in a PC’s capabilities. If you are a GM who enjoys an epic challenge (higher level characters can be difficult to manage and properly challenge), feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of awarding 6 feat points and 9 attribute points for each new level.
+In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
-Rather than constantly tracking experience point gains, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain a new level of experience. This ensures that the GM always knows exactly how powerful the players are so he can plan the campaign accordingly, and it also saves overhead time on tasks like calculating XP totals so that you can focus on what matters most at the table: having fun.
-
-Here are two methods you can use to decide when to award players with a new level:
+Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
 
 **Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. A milestone map might look something like this:
 
