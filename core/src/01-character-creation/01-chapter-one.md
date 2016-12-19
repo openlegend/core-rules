@@ -293,7 +293,7 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Assassin | Cleric | Druid |
 | :- | :- | :- |
-| Martial Focus (Dagger) | Boon Focus (Heal) | Boon Focus (Shapeshift) |
+| Martial Focus (Dagger) | Boon Focus (Heal) | Boon Focus 2 (Shapeshift) |
 | Lethal Strike 1 | Armor Specialization 1 (Scale Mail) |  |
 
 <br>
