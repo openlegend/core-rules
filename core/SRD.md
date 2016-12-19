@@ -3887,13 +3887,13 @@ and accomplishing actions at an uncanny rate. \newline
 
 **Effect:**
 
--   **Power Level 2** - The target's speed is increased by 5'.
+-   **Power Level 2** - The target's speed is increased by 10'.
 
--   **Power Level 4** - The target's speed is increased by 10'. Attacks against the target’s Evasion defense suffer disadvantage 1.
+-   **Power Level 4** - The target's speed is increased by 15', and it gains +2 to Evasion.
 
--   **Power Level 6** - The target's speed is increased by 15'. Attacks against the target's Evasion defense suffer disadvantage 2. The target gains an extra major action every round.
+-   **Power Level 6** - The target's speed is increased by 20', and it gains +3 to Evasion. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.
 
--   **Power Level 8** - The target's speed is increased by 25'. Attacks against the target's Evasion defense suffer disadvantage 3. The target gains an extra major action every round.
+-   **Power Level 8** - The target's speed is increased by 30', and it gains +4 to Evasion. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.
 
 
 ## Heal
