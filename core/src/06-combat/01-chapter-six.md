@@ -441,6 +441,10 @@ As part of your defend action, you may also move up to half of your speed at any
 
 You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
+### Free Actions
+
+If a feat, perk, boon, or other source grants a *Free Action*, that action can be performed without counting against the normal limits to your actions per turn.
+
 ## Damage and Healing
 
 Your hit points (HP) are an abstract measure of your character’s ability to ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. Whenever you take damage, your hit points are reduced, and whenever you receive healing they are increased.

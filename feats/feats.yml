@@ -461,13 +461,10 @@
   name: Combat Follow-through
   prerequisites:
     tier1:
-      Attribute:
-      - Agility: 5
-      - Might: 5
-      Feat:
-      - Combat Momentum
+      Other:
+      - None
   tags:
-  - Feat Chain
+  - Combat
   cost:
   - 2
   description: |
@@ -480,12 +477,10 @@
   name: Combat Momentum
   prerequisites:
     tier1:
-      Attribute:
-      - Agility: 4
-      - Might: 4
-      - Movement: 4
+      Other:
+      - None
   tags:
-  - Feat Chain
+  - Combat
   cost:
   - 1
   description: |
@@ -493,7 +488,7 @@
   effect: |
     Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
   special: |
-    If you meet the Movement 4 prerequisite, you can use the Teleport boon instead of a normal move.
+    If you have the Movement attribute, you can use the Teleport boon instead of a normal move.
 - !
   name: Companion (I - III)
   prerequisites:
