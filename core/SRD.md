@@ -2603,7 +2603,7 @@ Because *Open Legend* focuses on separating the mechanics from the story, when y
 
 ## Invoking Banes and Boons
 
-To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target’s defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be effected by multiple banes, you may not *stack* banes; A target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* *Fatigued*).
+To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target’s defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful damaging attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be effected by multiple banes, you may not *stack* banes; A target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* *Fatigued*).
 
 To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon’s Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke at after making your action roll.
 
@@ -4629,7 +4629,7 @@ The Challenge Rating for your roll is the target’s defense score. If you succe
 
 **Exceptional Success**
 
-If your attack roll exceeds the target’s defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
+If your damaging attack roll exceeds the target’s defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
 equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
 **Make a Bane Attack**
