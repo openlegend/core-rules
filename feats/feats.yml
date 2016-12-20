@@ -824,6 +824,74 @@
   effect: |
     When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 - !
+  name: Extraordinary Defense (I - V)
+  prerequisites:
+    tier1:
+      Attribute:
+      - Movement: 2
+      - Prescience: 2
+      - Protection: 2
+    tier2:
+      Attribute:
+      - Movement: 3
+      - Prescience: 3
+      - Protection: 3
+    tier3:
+      Attribute:
+      - Movement: 4
+      - Prescience: 4
+      - Protection: 4
+    tier4:
+      Attribute:
+      - Movement: 5
+      - Prescience: 5
+      - Protection: 5
+    tier5:
+      Attribute:
+      - Movement: 6
+      - Prescience: 6
+      - Protection: 6
+  tags:
+  - Extraordinary
+  - Defense
+  cost:
+  - 2
+  description: |
+    Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm.
+  effect: |
+    You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
+- !
+  name: Extraordinary Focus
+  prerequisites:
+    tier1:
+      Attribute:
+      - Any Extraordinary: 1
+  tags:
+  - Extraordinary
+  cost:
+  - 3
+  description: |
+    Your extraordinary power stems from your connection with a particular focus, such as a wand, holy symbol, or spellbook.
+  effect: |
+    With the approval of your GM, choose a focus from which your power with a single extraordinary attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected extraordinary attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
+  special: |
+    If you ever lose your extraordinary focus, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
+- !
+  name: Extraordinary Healing
+  prerequisites:
+    tier1:
+      Attribute:
+      - Creation: 5
+  tags:
+  - Extraordinary
+  - Creation
+  cost:
+  - 3
+  description: |
+    Your mastery of extraordinary healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
+  effect: |
+    When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
+- !
   name: Fast Tracker
   prerequisites:
     tier1:
@@ -905,6 +973,21 @@
   effect: |
     You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, an Immobile bane might render your wings immovable, if telekinetic, an application of the Dispel bane may cancel your flight.
 - !
+  name: Fast Draw
+  prerequisites:
+    tier1:
+      Attribute:
+      - Agility: 1
+  tags:
+  - Combat
+  - Agility
+  cost:
+  - 2
+  description: |
+    Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.
+  effect: |
+    Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
+- !
   name: Great Leap (I – III)
   prerequisites:
     tier1:
@@ -932,21 +1015,6 @@
     Through extraordinary power or exceptional agility, you can jump exceptionally far.
   effect: |
     You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
-- !
-  name: Fast Draw
-  prerequisites:
-    tier1:
-      Attribute:
-      - Agility: 1
-  tags:
-  - Combat
-  - Agility
-  cost:
-  - 2
-  description: |
-    Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.
-  effect: |
-    Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
 - !
   name: Hallucination
   prerequisites:
@@ -1670,74 +1738,6 @@
     Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple extraordinary effects at once.
   effect: |
     When you take the <em>sustain a boon</em> minor action, you may sustain one additional boon per tier of this feat which you possess.
-- !
-  name: Extraordinary Defense (I - V)
-  prerequisites:
-    tier1:
-      Attribute:
-      - Movement: 2
-      - Prescience: 2
-      - Protection: 2
-    tier2:
-      Attribute:
-      - Movement: 3
-      - Prescience: 3
-      - Protection: 3
-    tier3:
-      Attribute:
-      - Movement: 4
-      - Prescience: 4
-      - Protection: 4
-    tier4:
-      Attribute:
-      - Movement: 5
-      - Prescience: 5
-      - Protection: 5
-    tier5:
-      Attribute:
-      - Movement: 6
-      - Prescience: 6
-      - Protection: 6
-  tags:
-  - Extraordinary
-  - Defense
-  cost:
-  - 2
-  description: |
-    Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm.
-  effect: |
-    You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
-- !
-  name: Extraordinary Focus
-  prerequisites:
-    tier1:
-      Attribute:
-      - Any Extraordinary: 1
-  tags:
-  - Extraordinary
-  cost:
-  - 3
-  description: |
-    Your extraordinary power stems from your connection with a particular focus, such as a wand, holy symbol, or spellbook.
-  effect: |
-    With the approval of your GM, choose a focus from which your power with a single extraordinary attribute stems. Some possibilities include a wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected extraordinary attribute without your focus. However, for the purposes of determining your attribute dice for action rolls, treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
-  special: |
-    If you ever lose your extraordinary focus, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
-- !
-  name: Extraordinary Healing
-  prerequisites:
-    tier1:
-      Attribute:
-      - Creation: 5
-  tags:
-  - Extraordinary
-  - Creation
-  cost:
-  - 3
-  description: |
-    Your mastery of extraordinary healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
-  effect: |
-    When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
 - !
   name: Swimming
   prerequisites:
