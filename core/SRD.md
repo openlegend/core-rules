@@ -1376,6 +1376,20 @@ you can sustain the rage. When the rage ends, if your hit points are
 below zero, you collapse unconscious. If you are not healed to zero or
 more hit points within 1 round of your rage ending, you die.
 
+## Defensive Reflexes (I - X)
+
+**Cost:** 2 points
+\
+**Prerequisites:**
+
+-   **Tier 1 - 10:** Agility 3
+
+**Description:** You are a master of defense, able to predict exactly where your opponent
+will strike and thwart their attack. \newline
+
+**Effect:** Any time you use the Defend action, you gain advantage 1 on the action
+roll per tier you possess of this feat.
+
 ## Destructive Berserker
 
 **Cost:** 3 points
@@ -1395,19 +1409,6 @@ number 1 below maximum as well (though the total is still the number
 rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or
 6, d8s explode on a 7 or 8, and so on.
 
-## Defensive Reflexes (I - X)
-
-**Cost:** 2 points
-\
-**Prerequisites:**
-
--   **Tier 1 - 10:** Agility 3
-
-**Description:** You are a master of defense, able to predict exactly where your opponent
-will strike and thwart their attack. \newline
-
-**Effect:** Any time you use the Defend action, you gain advantage 1 on the action
-roll per tier you possess of this feat.
 
 ## Diehard
 
@@ -1490,6 +1491,82 @@ that would strike a clumsier combatant. \newline
 adjacent to that enemy, the enemy does not get the usual opportunity
 attack.
 
+## Extraordinary Defense (I - V)
+
+**Cost:** 2 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Movement, Prescience, or Protection 2
+-   **Tier 2**: Movement, Prescience, or Protection 3
+-   **Tier 3**: Movement, Prescience, or Protection 4
+-   **Tier 4**: Movement, Prescience, or Protection 5
+-   **Tier 5**: Movement, Prescience, or Protection 6
+
+**Description:** Whether by a magical barrier of force, foresight into the future, or
+preternatural speed, you are gifted with extraordinary protection from
+harm. \newline
+
+**Effect:** You gain a +1 bonus to all defenses for each tier you have in this feat.
+This increases your Toughness, Evasion, and Resolve defenses.
+
+## Extraordinary Focus
+
+**Cost:** 3 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Any Extraordinary 1
+
+**Description:** Your extraordinary power stems from your connection with a particular
+focus, such as a wand, holy symbol, or spellbook. \newline
+
+**Effect:** With the approval of your GM, choose a focus from which your power with
+a single extraordinary attribute stems. Some possibilities include a
+wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice,
+or an animal familiar. You cannot use the selected extraordinary
+attribute without your focus. However, for the purposes of determining
+your attribute dice for action rolls, treat the chosen attribute as if
+it was one greater. For all purposes outside of attribute dice, your
+ability score remains unchanged (feats, banes, boons, etc.). \newline
+
+**Special:** If you ever lose your extraordinary focus, voluntarily or
+involuntarily, you regain the feat points that you have spent on this
+feat and may spend them as usual.
+
+## Extraordinary Healing
+
+**Cost:** 3 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Creation 5
+
+**Description:** Your mastery of extraordinary healing is such that you are able to cure
+mortal wounds that are beyond the power of the average healer. \newline
+
+**Effect:** When invoking the Heal boon, you can choose to take one hour instead of
+the usual invocation time. If you do, you heal an amount of lethal
+damage equal to the total healing from the successful boon invocation.
+This lethal damage is healed in addition to the normal hit point damage
+that your boon heals.
+
+## Fast Draw
+
+**Cost:** 2 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Agility 1
+
+**Description:** Whether you're a samurai warrior, the fastest draw in the West, or a
+flawlessly trained interstellar soldier, you can get to your weapon
+faster than your opponent can blink. \newline
+
+**Effect:** Once per round, you can draw one additional weapon and sheathe another
+as a free action. Alternately, you could do the same with any small
+sized object in your possession.
+
 ## Fast Tracker
 
 **Cost:** 2 points
@@ -1567,22 +1644,6 @@ exceptionally far. \newline
 **Effect:** You can use your Movement or Agility score instead of your Might score
 when determining how far you can jump. In addition, you gain advantage 1
 per tier on action rolls to jump.
-
-## Fast Draw
-
-**Cost:** 2 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Agility 1
-
-**Description:** Whether you're a samurai warrior, the fastest draw in the West, or a
-flawlessly trained interstellar soldier, you can get to your weapon
-faster than your opponent can blink. \newline
-
-**Effect:** Once per round, you can draw one additional weapon and sheathe another
-as a free action. Alternately, you could do the same with any small
-sized object in your possession.
 
 ## Hallucination
 
@@ -1914,6 +1975,25 @@ touch of death on three foes. Targeting 3 foes incurs an additional
 disadvantage 3, making his final attack roll suffer a total of
 disadvantage 6.
 
+## Multi-Bane Specialist
+
+**Cost:** 3 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Able to inflict both banes (see description)
+
+**Description:** You have mastered a signature attack that allows you to invoke two banes
+at once. A blast of ice that blinds and slows your enemy, a thunderous
+shotgun blast that hurls foes back and knocks them to the ground, and a
+wormtongue song that puts targets to sleep and alters their memory are
+all examples of a signature attack that could be created with this feat. \newline
+
+**Effect:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately. \newline
+
+**Special:** In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
+
+
 ## Multi-Target Attack Specialist (I – V)
 
 **Cost:** 2 points
@@ -1932,23 +2012,6 @@ you take this feat, you must specify which type of attack you are
 focusing on, and you may take the feat multiple times to specialize in
 multiple types of attack.
 
-## Multi-Target Boon Specialist (I – V)
-
-**Cost:** 2 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Any Extraordinary 3
--   **Tier 2**: Any Extraordinary 5
--   **Tier 3**: Any Extraordinary 7
--   **Tier 4**: Any Extraordinary 8
--   **Tier 5**: Any Extraordinary 9
-
-**Description:** You are a master of invoking boons for more than one target. \newline
-
-**Effect:** For each tier of this feat, you reduce the disadvantage penalty
-associated with invoking boons for multiple targets by 1.
-
 ## Multi-Target Boon Expert
 
 **Cost:** 3 points
@@ -1965,23 +2028,22 @@ do not need to make an action roll if the disadvantage normally incurred
 from multi-targeting is completely negated by your Multi-Target Boon
 Specialist feat. Your invocation automatically succeeds.
 
-## Multi-Bane Specialist
+## Multi-Target Boon Specialist (I – V)
 
-**Cost:** 3 points
+**Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Able to inflict both banes (see description)
+-   **Tier 1**: Any Extraordinary 3
+-   **Tier 2**: Any Extraordinary 5
+-   **Tier 3**: Any Extraordinary 7
+-   **Tier 4**: Any Extraordinary 8
+-   **Tier 5**: Any Extraordinary 9
 
-**Description:** You have mastered a signature attack that allows you to invoke two banes
-at once. A blast of ice that blinds and slows your enemy, a thunderous
-shotgun blast that hurls foes back and knocks them to the ground, and a
-wormtongue song that puts targets to sleep and alters their memory are
-all examples of a signature attack that could be created with this feat. \newline
+**Description:** You are a master of invoking boons for more than one target. \newline
 
-**Effect:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately. \newline
-
-**Special:** In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
+**Effect:** For each tier of this feat, you reduce the disadvantage penalty
+associated with invoking boons for multiple targets by 1.
 
 ## Overpowering Strike
 
@@ -2142,6 +2204,20 @@ bane or boon:
 -   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.
 -   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains special immunity to it.
 
+## Silencing Strike
+
+**Cost:** 3 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Agility 4
+
+**Description:** Like an expert assassin or ninja, you can render your foes completely
+unable to alert others of your presence. \newline
+
+**Effect:** Whenever you successfully hit a target that you have advantage against,
+that target is afflicted by the silenced bane.
+
 ## Skill Specialization (I - V)
 
 **Cost:** 2 points
@@ -2157,19 +2233,6 @@ fox, or some similar exceptional non-combat talent. \newline
 
 **Special:** You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
 
-## Silencing Strike
-
-**Cost:** 3 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Agility 4
-
-**Description:** Like an expert assassin or ninja, you can render your foes completely
-unable to alert others of your presence. \newline
-
-**Effect:** Whenever you successfully hit a target that you have advantage against,
-that target is afflicted by the silenced bane.
 
 ## Superior Concentration (I - III)
 
@@ -2183,66 +2246,6 @@ that target is afflicted by the silenced bane.
 concentration on multiple extraordinary effects at once. \newline
 
 **Effect:** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
-
-## Extraordinary Defense (I - V)
-
-**Cost:** 2 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Movement, Prescience, or Protection 2
--   **Tier 2**: Movement, Prescience, or Protection 3
--   **Tier 3**: Movement, Prescience, or Protection 4
--   **Tier 4**: Movement, Prescience, or Protection 5
--   **Tier 5**: Movement, Prescience, or Protection 6
-
-**Description:** Whether by a magical barrier of force, foresight into the future, or
-preternatural speed, you are gifted with extraordinary protection from
-harm. \newline
-
-**Effect:** You gain a +1 bonus to all defenses for each tier you have in this feat.
-This increases your Toughness, Evasion, and Resolve defenses.
-
-## Extraordinary Focus
-
-**Cost:** 3 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Any Extraordinary 1
-
-**Description:** Your extraordinary power stems from your connection with a particular
-focus, such as a wand, holy symbol, or spellbook. \newline
-
-**Effect:** With the approval of your GM, choose a focus from which your power with
-a single extraordinary attribute stems. Some possibilities include a
-wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice,
-or an animal familiar. You cannot use the selected extraordinary
-attribute without your focus. However, for the purposes of determining
-your attribute dice for action rolls, treat the chosen attribute as if
-it was one greater. For all purposes outside of attribute dice, your
-ability score remains unchanged (feats, banes, boons, etc.). \newline
-
-**Special:** If you ever lose your extraordinary focus, voluntarily or
-involuntarily, you regain the feat points that you have spent on this
-feat and may spend them as usual.
-
-## Extraordinary Healing
-
-**Cost:** 3 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Creation 5
-
-**Description:** Your mastery of extraordinary healing is such that you are able to cure
-mortal wounds that are beyond the power of the average healer. \newline
-
-**Effect:** When invoking the Heal boon, you can choose to take one hour instead of
-the usual invocation time. If you do, you heal an amount of lethal
-damage equal to the total healing from the successful boon invocation.
-This lethal damage is healed in addition to the normal hit point damage
-that your boon heals.
 
 ## Swimming
 
@@ -2354,20 +2357,6 @@ deadly attack delivered by you is exceptionally vicious. \newline
 roll twice on the subsequent re-roll of the d20 and take the higher
 result.
 
-## Well-Rounded
-
-**Cost:** 2 points
-\
-**Prerequisites:**
-
--   **Tier 1**: None
-
-**Description:** You have a versatile education, a wide range of experiences, or just
-plain old good luck. The result is that you're pretty good at things
-you're not specialized in. \newline
-
-**Effect:** Any time you use an attribute with a score of 2 or less to make an action roll outside of combat that is not a bane or boon invocation, you gain advantage 1 to the roll.
-
 ## Wealthy
 
 **Cost:** 3 points
@@ -2381,6 +2370,20 @@ a well-established merchant, you are wealthier than the average \newline
 adventurer. \newline
 
 **Effect:** Your wealth score is increased by 1.
+
+## Well-Rounded
+
+**Cost:** 2 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: None
+
+**Description:** You have a versatile education, a wide range of experiences, or just
+plain old good luck. The result is that you're pretty good at things
+you're not specialized in. \newline
+
+**Effect:** Any time you use an attribute with a score of 2 or less to make an action roll outside of combat that is not a bane or boon invocation, you gain advantage 1 to the roll.
 
 
 
