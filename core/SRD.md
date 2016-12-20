@@ -4838,7 +4838,7 @@ For example, a warrior with Fortitude 4 heals 4 lethal damage per day on his own
 
 The thrill of adventure, the satisfaction of character development, and the joy of seeing a plotline come to its fulfillment are all intrinsically rewarding events that keep players coming back to the gaming table week after week. But still, just as players of any game, your players will also enjoy good old-fashioned extrinsic motivators. In Open Legend, these sorts of rewards typically come in two forms: wealth and power.
 
-#### Level Up! How and When to Give Players More Power
+#### How and When to Award XP
 
 \ \
 
