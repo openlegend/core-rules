@@ -407,7 +407,7 @@ Using a focus action involves spending all of your energy and attention on one t
 
 #### Disrupting Attack
 
-Make a damaging attack using the normal attack rules. If your attack deals 10 or more points of damage, then any boons being sustained by your target immediately end.
+Make a damaging attack using the normal attack rules. If your attack exceeds your target defense by 10 or more, then any boons being sustained by your target immediately end.
 
 #### Superior Action
 
