@@ -5080,6 +5080,6 @@ If your encounter includes boss monsters, multiply their level by 4 for purposes
 
 #### Minions
 
-When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four. Essentially, minions
+When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four. Essentially, minions.
 
 For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your monster level budget would only allow you to include six 1st level monsters, but you decide to replace them all with minions, allowing you to include 18 goblins.
