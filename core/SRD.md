@@ -3723,6 +3723,32 @@ Choose a single bane or boon which uses the same attribute that you used to invo
 
 **Special:** This boon may require special attention and adjudication from the GM, as not all banes and boons may be an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
 
+## Barrier
+
+**Duration:** Sustain Persists
+\
+**Invocation Time:** 1 Major Action
+\
+**Power Level:** 3, 5, 7, 9
+\
+**Attributes:** Creation, Energy, Entropy, Protection \newline
+
+**Description:** You summon forth a wall of thorns, ring of fire, entropic fog, or similar barrier to hurt or hinder your foes.
+
+**Effect:** When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level:
+
+-   **Power Level 3** - Choose 1 property: Damaging (1d4), Obscuring, Hindering
+-   **Power Level 5** - Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile
+-   **Power Level 7** - Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable
+-   **Power Level 9** - Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable
+
+**Damaging:** A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.
+**Obscuring:** Creatures cannot see through more than 10' of the barrier.
+**Hindering:** Creatures move at half speed when travelling within the barrier.
+**Impassable:** Creatures and objects cannot move through the barrier.
+**Baneful:** Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
+**Mobile:** You may spend a standard action to move the barrier up to 30 feet.
+
 
 ## Blindsight
 
