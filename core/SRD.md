@@ -212,7 +212,9 @@ In Open Legend, races do not provide specific mechanical costs and benefits. Ins
 
 **A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
 
-\newpage
+\ 
+
+newpage
 
 +++ {.CalloutInformation}
 
