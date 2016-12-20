@@ -85,7 +85,7 @@ A sandbox is so named because, to a certain extent, the players interact with th
 > **Danger:** A remote wilderness known as the Valley of Souls is home to a large collection of soul shards, magical crystals containing the lost souls of those killed in a cataclysmic war centuries ago. A team of angelic servants, called the Collectors, have been charged with retrieving these souls throughout the cosmos and returning them to their proper resting places among the outer planes. Unfortunately, two forces thwart their attempts within the Valley of Souls: a barbarian tribe whose sacred burial grounds contain the soul shards, and a demon named Vargax who seeks to devour the souls for his own.
 >
 > **Motivation:** The party happens upon the valley during their travels and are thrown into the battle when both the Collectors and the barbarians mistake the PCs for members of the opposition.
-> 
+>
 > **Locations**
 >
 > - **The barbarian camps**
@@ -298,7 +298,7 @@ The above example will likely be an intriguing scene enjoyed by all, because the
 
 **Allies can be used to grant knowledge.** In addition to providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader’s guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Ring of Worlds. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs’ hands.
 
-**Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can’t fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place.and, by finding ways to demonstrate your NPCs’ imperfections, you'll further immerse your players in the fantasy.
+**Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can’t fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place, and, by finding ways to demonstrate your NPCs’ imperfections, you'll further immerse your players in the fantasy.
 
 ### Monsters and NPC Statistics
 
@@ -394,7 +394,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 Special: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
 
 > #### Example Simple Monster Build: Swamp Snakes
-> 
+>
 > Returning to the example at the beginning of this section, let’s build our venomous swamp snakes imagining that the party is made up of 3rd level characters, and thus we choose to make the Swamp Snakes using the row for level 3 Monsters. We decide that the snakes aren’t particularly tough to kill, so referencing the Simple Build Table, we’ll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we’ll go with the high range for Evasion: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We’ll only assign one primary attribute, giving the snakes an Agility of 5, and we’ll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
 >
 > When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land an attack that deals at least 5 damage.
