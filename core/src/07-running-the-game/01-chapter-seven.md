@@ -428,7 +428,7 @@ When you decide that one of your monsters or NPCs merits boss status, use the Bo
 
 In addition to its normal allotment of actions, a boss will also receive one or more boss actions on its turn. When rolling initiative for a boss, make an extra number of initiative rolls for each boss action. When arranging the initiative order, there must be at least one PC between each of the boss’s turns. If necessary, move the “boss action” turns lower in the order to accommodate this requirement.
 
-During combat, the boss monster’s highest initiative count indicates its normal turn, during which it gets the usual allotment of normal, move, and minor actions. Each of the boss’s lower counts in the initiative are boss actions, which allow the boss to make one normal action.
+During combat, the boss monster’s highest initiative count indicates its normal turn, during which it gets the usual allotment of major, move, and minor actions. Each of the boss’s lower counts in the initiative are boss actions, which allow the boss to make one major action.
 
 ## Planning Combat Encounters
 
@@ -462,7 +462,7 @@ If your encounter includes boss monsters, multiply their level by 4 for purposes
 
 #### Minions
 
-When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four. Essentially, minions
+When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four. Essentially, minions.
 
 For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your monster level budget would only allow you to include six 1st level monsters, but you decide to replace them all with minions, allowing you to include 18 goblins.
 
