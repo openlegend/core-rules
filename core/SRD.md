@@ -29,9 +29,11 @@ Add all of the dice together to find your total action roll. If your total is eq
 Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres he excels in, as well as his greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
 
 In *Open Legend*, attributes are divided into four categories: physical,
-social, mental, and supernatural.
+social, mental, and extraordinary.
 
-A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Supernatural attributes are generally reserved for characters of power and note.
+A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero.
+
+The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
 
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish.
 
@@ -69,7 +71,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Presence** | Give a speech, sing a song, inspire an army, exert your force of personality, have luck smile upon you |
 
 
-### Supernatural Attributes at a Glance
+### Extraordinary Attributes at a Glance
 
 \NextTableColumns{OLT{.33}OLT{.67}}
 
@@ -161,7 +163,7 @@ When an enemy tries to attack you--whether with a breath of flame, a deft sword 
 
 | Resolve = 10 + Presence + Will  |
 
-**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to supernaturally charm you, deceive you with illusions, or frighten you must target your resolve.
+**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to charm you, deceive you with illusions, or frighten you must target your resolve.
 
 
 \NextTableColumns{OCT{1}}
@@ -204,7 +206,9 @@ Usually, though, you begin with a Wealth Score of 2, and may select up to three 
 
 **Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
 
-In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you’ll have a chance to further define your character in the next step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing the aforementioned psionic humanoid tiger, you might choose the scent perk to highlight your hunter’s bloodline and the observant perk to simulate your extrasensory perception. Likewise, you could select the hot tempered flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
+As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 6: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
+
+At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
 
 **Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
 
@@ -266,6 +270,10 @@ Perks, on the other hand, often grant elaborate benefits and even mechanical bon
 
 
 ### Perk List
+
+#### Ageless
+
+Whether you are an android constructed of spaceage material that does not erode over time, the loyal servant of a higher power, or the subject of an arcane ritual, you have unlocked the secret to immortality. You are immune to the passage of time and the effects of old age. Your body does not age and you cannot be harmed by extraordinary effects that cause aging. Based on the source of your agelessness, you can decide whether or not your appearance changes over time.
 
 #### Arcane Bloodline
 
@@ -380,9 +388,9 @@ While underground you may fail to find what you’re looking for, but you can ne
 
 You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you’re down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
 
-#### Supernatural Presence
+#### Extraordinary Presence
 
-Your inherent supernatural nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you tred. Depending on the nature of your supernatural presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your supernatural presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
 
 #### Sylvan Ally
 
@@ -764,24 +772,6 @@ Each feat description includes the following elements.
 Below is a complete list of feats available to any character that meets the prerequisites.
 
 
-
-## Ageless
-
-**Cost:** 1 point
-\
-**Prerequisites:**
-
--   **Tier 1**: Alteration, Creation, Entropy, or Protection 9
-
-**Description:** Ageless and supernatural, you have either unlocked a mystical secret to
-immortality, become a legendary defender, transformed into an avatar of
-nature, or been granted immunity to the ravages of time by some higher
-power. \newline
-
-**Effect:** Rooted in a superantural means of your choice, you become immune to the
-passage of time and the effects of old age. You do not age and cannot be
-harmed by magic that causes aging. You can choose to age in appearance,
-if you wish, but you can also choose to continually appear the same age.
 
 ## Alternate Form (I - II)
 
@@ -2378,9 +2368,7 @@ result.
 plain old good luck. The result is that you're pretty good at things
 you're not specialized in. \newline
 
-**Effect:** Any time you make a non-attack action roll with an attribute in which
-you have a score of 2 or less, roll an additional d20 and keep the
-highest of the two d20s.
+**Effect:** Any time you use an attribute with a score of 2 or less to make an action roll outside of combat that is not a bane or boon invocation, you gain advantage 1 to the roll.
 
 ## Wealthy
 
@@ -2603,7 +2591,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 
 # Banes and Boons
 
-Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with supernatural speed.
+Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
 
 Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoket the *Insubstantial* boon for herself or her allies until she gains enough experience to increase her Entropy to 7.
 
@@ -2615,7 +2603,7 @@ Because *Open Legend* focuses on separating the mechanics from the story, when y
 
 ## Invoking Banes and Boons
 
-To invoke a bane, you must succeed at an appropriate attribute roll using one of your target’s defense scores as the Challenge Rating, as indicated in the bane description. Additionally, whenever you successfully make an attack that deals 10 or more damage to a target, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
+To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target’s defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be effected by multiple banes, you may not *stack* banes; A target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* *Fatigued*).
 
 To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon’s Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke at after making your action roll.
 
@@ -2949,7 +2937,7 @@ severity escalates by one level.
 
 -   Level 1 - The target has Disadvantage 1 on all non-attack  action rolls.
 
--   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, supernatural, or feat bonuses.
+-   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
 
 -   Level 3 - The target has Disadvantage 1 on all attack rolls.
 
@@ -2985,7 +2973,7 @@ are removed instead of just one.
 -   Influence vs. Resolve
 -   Might vs. Toughness
 
-**Description:** You manifest an overwhelming force of physical might or supernatural
+**Description:** You manifest an overwhelming force of physical might or manifest
 power that strikes terror into the hearts of enemies, causing them to
 flee from your presence. \newline
 
@@ -3164,7 +3152,7 @@ another).
 **Description:** Fights are called “knock down, drag out” for a reason. Knocking an
 opponent prone is a common way for one combatant to gain the upper hand.
 Knockdown can be caused by a thunderous blow from a great axe, an earth
-shattering bolt of supernatural energy, or a well aimed shove in a
+shattering bolt of extraordinary energy, or a well aimed shove in a
 direction where the enemy's balance is weak. \newline
 
 **Effect:** The target falls prone. Prone targets have disadvantage 1 on all attacks
@@ -3380,7 +3368,7 @@ new creature.
 
 -   Prescience vs. Resolve (Special)
 
-**Description:** Peering into a supernatural conduit such as a hearth, a bubbling
+**Description:** Either through innate extrasensory perception or a special conduit such as a computer terminal, a bubbling
 cauldron, or a crystal ball, you see can view the target from a
 distance. \newline
 
@@ -3580,8 +3568,8 @@ hiding, invisible, or for some other reason *not perceived as a threat*.
 
 -   Influence vs. Resolve
 
-**Description:** With supernatural control of the mind, you compel the target to honesty,
-rendering them unable to speak falsely. \newline
+**Description:** Via control of the target's mind, you compel them to honesty,
+rendering them unable to deliberately lie. \newline
 
 **Effect:** The target answers any question asked with honesty, to the best of their
 knowledge. When compelled to reveal something they would not reveal
@@ -3731,9 +3719,9 @@ event, a person, or a place. \newline
 
 Choose a single bane or boon which uses the same attribute that you used to invoke Aura. The maximum power level for the chosen bane or boon is one-half the power level of your aura. Your aura radiates the chosen bane or boon as follows:
 
--   If the aura radiates a bane,</strong> then the target of the aura is not affected by it. All other creatures (friend or foe) who willingly enter the area of the aura or end their turn within it suffer a bane attack to inflict the chosen bane. No creature may be subject to a bane attack from the same creature's aura more than once per round.
+-   If the aura radiates a bane, then the target of the aura is not affected by it. All other creatures (friend or foe) who willingly enter the area of the aura or end their turn within it suffer a bane attack to inflict the chosen bane. No creature may be subject to a bane attack from the same creature's aura more than once per round.
 
--   If the aura radiates a boon,</strong> then the target of the aura is also affected by it. The target and all allies who end their turn within the area of the aura automatically gain the chosen boon. Upon leaving the area of the aura, the boon is immediately removed. No creature may gain a boon from the same creature's aura more than once per round.
+-   If the aura radiates a boon, then the target of the aura is also affected by it. The target and all allies who end their turn within the area of the aura automatically gain the chosen boon. Upon leaving the area of the aura, the boon is immediately removed. No creature may gain a boon from the same creature's aura more than once per round.
 
 **Special:** This boon may require special attention and adjudication from the GM, as not all banes and boons may be an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
 
@@ -3897,13 +3885,13 @@ and accomplishing actions at an uncanny rate. \newline
 
 **Effect:**
 
--   **Power Level 2** - The target's speed is increased by 5'.
+-   **Power Level 2** - The target's speed is increased by 10'.
 
--   **Power Level 4** - The target's speed is increased by 10'. Attacks against the target’s Evasion defense suffer disadvantage 1.
+-   **Power Level 4** - The target's speed is increased by 15', and it gains +2 to Evasion.
 
--   **Power Level 6** - The target's speed is increased by 15'. Attacks against the target's Evasion defense suffer disadvantage 2. The target gains an extra major action every round.
+-   **Power Level 6** - The target's speed is increased by 20', and it gains +3 to Evasion. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.
 
--   **Power Level 8** - The target's speed is increased by 25'. Attacks against the target's Evasion defense suffer disadvantage 3. The target gains an extra major action every round.
+-   **Power Level 8** - The target's speed is increased by 30', and it gains +4 to Evasion. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.
 
 
 ## Heal
@@ -4441,13 +4429,15 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | The GM and the PC both choose 1: \
-Deal 5 damage \
-Inflict 1 bane of Power Level <= 3 < \
+Deal 3 damage \
+Inflict 1 bane of Power Level <= 3 \
 Move 10’ w/o opportunity attacks |
 
-With these modified rules, a player’s failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect.
+With these modified rules, a player’s failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 
-Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
+### Why Succeed on a Failed Roll?
+
+Some players might wonder why a PC still gets a taste of success even when their roll fails to meet the Challenge Rating. This might seem unrealistic because in movies and novels, for example, sometimes the bullet just misses or the sword fails to connect. In Open Legend, the "success with a twist" rules for combat ensure that a fight never gets stagnant. Even when the dice go against the player, the battle still builds to a cinematic conclusion as combatants shift around the battlefield and wear away at each other's reserves. Hit points represent more than just physical endurance and missing a target's defense score can mean more than just a shot going wide. Even if a hail of gunfire fails to penetrate an enemy's body armor, it might still weaken their resolve (*deal 3 damage*), force them to take cover (*inflict knockdown*), or give the attacker an opportunity to gain ground (*move 10'*).
 
 
 
@@ -4469,7 +4459,7 @@ A few attributes can be used for damaging attacks in special circumstances in wh
 
 **Alteration.** Causing a tree branch to strangle a foe.
 
-**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For supernatural compulsion, forcing a dominated enemy to stab himself.
+**Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For mental compulsion, forcing a dominated enemy to stab himself.
 
 **Movement.** Using telekinesis to hurl a boulder at a foe.
 
@@ -4513,8 +4503,7 @@ Each of these actions is explained below.
 
 #### Make a Damaging Attack
 
-To attack a foe in an attempt to damage them, follow the steps in the
-Attack Summary chart, which are explained in further detail below.
+To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or extraordinary. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Extraordinary attacks are those that make use of one of the attacker's extraordinary attributes, such as by using Energy to summon a ball of fire. A character can only make an extraordinary attack if they possess a score of 1 or higher in the relevant attribute.
 
 
 **1. Determine Range**
@@ -4523,7 +4512,7 @@ Attack Summary chart, which are explained in further detail below.
 
 **Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon’s range.
 
-**Supernatural attacks** have a range according to the attribute being used, as detailed in the Supernatural Attack Range table. Unlike projectile weapons, supernatural attacks cannot extend beyond their normal range.
+**Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
 
 \NextTableColumns{OCT{1}}
 
@@ -4540,26 +4529,26 @@ Attack Summary chart, which are explained in further detail below.
 | - | - |
 | **Step 1:** | **Melee** = Within your reach |
 | **Determine Range** | **Projectile** = Weapon range (Disadvantage 1 per extra range increment) |
-| |  **Supernatural** |
+| |  **Extraordinary** |
 | | 1 - 3 = 25’ |
 | | 4 - 6 = 50’ |
 | | 7 - 9 = 75’ |
 | **Step 2:** | *If more than one target...*  |
 |  **Determine Targets** | **Melee** = Disadvantage equals total # of targets |
 | | **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) |
-| | **Area** = Disadvantage 1 per 5’ length of square |
+| | **Area** = Disadvantage varies (see below) |
 | **Step 3:** | Weapon Attacks target Evasion |
-| **Determine Targeted Defense** | Supernatural Attacks target the most logical defense |
+| **Determine Targeted Defense** | Extraordinary Attacks target the most logical defense |
 | | **Evasion** if the attack requires dodging or deflection |
 | | **Toughness** if the attack targets bodily health |
 | | **Resolve** if the attack harms the psyche or will |
 | **Step 4:** | **Damage dealt** = Attack Roll minus Defense |
-| **Roll Attack and Calculate Damage** | On 10+ damage, inflict one bane as well |
+| **Roll Attack and Calculate Damage** | On 10 over defense, inflict one bane as well |
 
 
 
 
-#### Supernatural Attack Range
+#### Extraordinary Attack Range
 
 \ \
 
@@ -4575,7 +4564,7 @@ Attack Summary chart, which are explained in further detail below.
 
 **Ranged Attacks in Melee**
 
-Any time you make a ranged attack (weapon or supernatural) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll.
+Any time you make a ranged attack (weapon or extraordinary) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 
 **Note:** For supernatural attacks, this penalty does not apply if you are targeting an adjacent enemy, because you would not be making a ranged attack.
 +++
@@ -4584,19 +4573,25 @@ Any time you make a ranged attack (weapon or supernatural) and there is an enemy
 
 By default, your attacks target a single foe. However, you may choose to target multiple individual foes or to target an area. Targeting more than one foe causes disadvantage on your attack roll, as described below.
 
-**Melee Multi-Attacks**
+**Melee Multi-targeting**
 
 You may target any number of foes that are within your reach. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted (2 targets = disadvantage 2, 3 targets = disadvantage 3, etc.)
 
-**Projectile Multi-Attacks**
+**Projectile Multi-targeting**
 
 You may target up to five foes that fall within a 25' square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
 
-**Area Attacks**
+**Area Multi-targeting**
 
-Designate the length of the square you would like to target in increments of 5 feet. For each 5 feet of length, you suffer one level of disadvantage (10’x10’ square = disadvantage 2, 15’x15’ square equals disadvantage 3, etc.).
+You may choose from a variety of shapes when making an area attack as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
 
 Friends and foes alike that fall within the targeted area will be subject to your attack, but you will not. Additionally, if you target at least one square that is adjacent to you, you do not provoke opportunity attacks for this attack.
+
+**Cube.** You target a cube with equal length, width, and height designated by you. The attack suffers disadvantage 1 per 5' of the cube's side. That is, a 5' cube suffers disadvantage 1, a 10' cube disadvantage 2, and so on.
+
+**Line.** You target a line that is 5' wide, 10' long, and 10' high. You may create several lines as part of a single attack, as long as at least one corner of each line touches. For each line, the attack suffer disadvantage 1.
+
+**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone.
 
 
 ##### Multi-Targeting Summary
@@ -4610,33 +4605,25 @@ Friends and foes alike that fall within the targeted area will be subject to you
 | **Melee Attacks** | Disadvantage = number of targets. |
 | **Projectile Attacks** | Disadvantage = number of targets. |
 | | Max 5 targets. Must be within a 25’ square. |
-| **Area Attacks** | Disadvantage = 1 per 5’ of length of square targeted. |
+| **Cube** | Disadvantage = 1 per 5’ of length of cube. |
+| **Line** | Disadvantage = 1 per 5'x10'x10' line. |
+| **Cone** | Disadvantage = 1 per 5' length of cone. |
 
 **3. Determine Targeted Defense**
 
 Every attack targets one of your foe’s defenses: toughness, evasion, or resolve.
 
-For weapon attacks, the defense targeted depends on the type of weapon. Weapons with the *forceful* property target the foe’s toughness, while  weapons with the *precise *property target evasion. If you are wielding a weapon that is both *forceful* and *precise*, you get to choose whether to use Agility to target Evasion or Might to target Toughness.
+Weapon attacks always target evasion.
 
-Supernatural attacks are more open-ended and often require the GM to decide the type of defense targeted. In general, however, supernatural melee or area attacks target a foe’s toughness while supernatural projectile attacks target a foe’s evasion.
+Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
-##### Standard Defense vs. Attack Types
-
-\ \
-
-\NextTableColumns{OCT{.50}OCT{.50}}
-
-| Attack Type | Defense |
-| :- | :- |
-| Precise weapons | Evasion |
-| Forceful weapons | Toughness |
-| Supernatural melee attacks | Toughness |
-| Supernatural area attacks | Toughness |
-| Supernatural projectile attacks | Evasion |
+- **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
+- **Evasion** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
+- **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
 **4. Roll Attack and Calculate Damage**
 
-Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Supernatural attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
+Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Extraordinary attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
 
 The Challenge Rating for your roll is the target’s defense score. If you succeed, the target takes damage equal to your action roll minus the targeted defense. This damage is subtracted from the target’s hit points.
 
@@ -4648,7 +4635,7 @@ equal or exceed the appropriate defense for that bane. If your attack targeted m
 **Make a Bane Attack**
 
 Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
-detailed in the [*bane descriptions*](#banes-list).
+detailed in the [*bane descriptions*](#banes-list). While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* *Fatigued*).
 
 To resolve a bane attack, follow these steps:
 
@@ -4856,11 +4843,9 @@ The thrill of adventure, the satisfaction of character development, and the joy 
 
 \ \
 
-In Open Legend, the primary way that players gain more power is by reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Officially, there are only 10 levels of play in the game, though, which means that each new level represents a significant increase in a PC’s capabilities. If you are a GM who enjoys an epic challenge (higher level characters can be difficult to manage and properly challenge), feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of awarding 6 feat points and 9 attribute points for each new level.
+In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
-Rather than constantly tracking experience point gains, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain a new level of experience. This ensures that the GM always knows exactly how powerful the players are so he can plan the campaign accordingly, and it also saves overhead time on tasks like calculating XP totals so that you can focus on what matters most at the table: having fun.
-
-Here are two methods you can use to decide when to award players with a new level:
+Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
 
 **Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. A milestone map might look something like this:
 
