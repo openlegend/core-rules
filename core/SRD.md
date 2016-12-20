@@ -113,10 +113,10 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Creation** | Channeling higher powers for healing, creation, resurrection, divine might, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
-| **Influence** | Control the minds of others, speak telepathically, instill supernatural fear, create illusory figments, cloak with invisibility |
+| **Influence** | Control the minds of others, speak telepathically, instill extraordinary fear, create illusory figments, cloak with invisibility |
 | **Movement** | Teleport, fly, hasten, slow |
 | **Prescience** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
-| **Protection** | Protect from damage, break supernatural influence, dispel magic, bind demons |
+| **Protection** | Protect from damage, break mental influence, dispel magic, bind demons |
 
 In *Open Legend*, you get to define your character’s strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
 
@@ -3638,7 +3638,7 @@ attribute to invoke this boon, then it is a normal living creature. If
 you used Entropy, then the creature is undead. You can use this boon to
 animate existing creatures or undead, such as by creating a live wolf
 from bones and fur or a zombie from an unearthed tomb. However, you
-cannot use this boon to animate supernatural creatures, such as dragons
+cannot use this boon to animate extraordinary creatures, such as dragons
 or basilisks. Your ability to animate the creature grants no special
 control or influence over it. Since it was birthed through magic, it has
 no concept of family, creator, or parent. In the case of aggressive
@@ -3758,7 +3758,7 @@ creating the invisibility.
 \
 **Attributes:** Alteration, Creation, Prescience, Presence \newline
 
-**Description:** You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier. \newline
+**Description:** You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or extraordinary insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier. \newline
 
 **Effect:** Choose a physical, social, or mental attribute. The target gains advantage on their action rolls according to the Power Level of the boon.
 
@@ -3906,7 +3906,7 @@ and accomplishing actions at an uncanny rate. \newline
 
 **Description:** Healing can be one of two things: the actual mending of wounds and
 broken bones through various sources like medicine, surgery, or
-supernatural creative life force, OR the inspiration of an ally to carry
+extraordinary creative life force, OR the inspiration of an ally to carry
 on, even in the face of death. \newline
 
 **Effect:** Roll dice according to the boon power level below. These dice explode as
@@ -4016,7 +4016,7 @@ both is equal, then they cancel each other out.
 \
 **Attributes:** Prescience \newline
 
-**Description:** You reach out and supernaturally connect with an object or place,
+**Description:** You reach out and extraordinarily connect with an object or place,
 gaining the ability to read residual information from it and divine what
 has occurred in its vicinity in the past. \newline
 
@@ -4025,7 +4025,7 @@ object or place within range as follows:
 
 -   **Power Level 5** - You can read vague ideas and impressions to learn what took place near the target within the past hour.
 
--   **Power Level 6** - You can see a vivid vision, similar to a supernatural recording, of what took place near the target within the last hour.
+-   **Power Level 6** - You can see a vivid vision, similar to a recording, of what took place near the target within the last hour.
 
 -   **Power Level 7** - You can ascertain the most recent owner of the object or the people who have most recently been in the place. This knowledge grants enough information for you to use the Scrying bane to magically locate or view those identified.
 
@@ -4044,9 +4044,7 @@ object or place within range as follows:
 \
 **Attributes:** Alteration, Creation \newline
 
-**Description:** The target gains a extraordinary ability to heal their wounds. Examples
-of this include the supernatural regeneration of a troll, or an ability
-to channel energy that results in healing. Regardless of the source,
+**Description:** The target gains a extraordinary ability to heal their wounds. Examples of this include the extraordinary regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source,
 wounds close before the very eyes of an onlooker. \newline
 
 **Effect:** While the regeneration boon is sustained, the target heals hit points at
