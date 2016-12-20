@@ -892,6 +892,21 @@
   effect: |
     When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
 - !
+  name: Fast Draw
+  prerequisites:
+    tier1:
+      Attribute:
+      - Agility: 1
+  tags:
+  - Combat
+  - Agility
+  cost:
+  - 2
+  description: |
+    Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.
+  effect: |
+    Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
+- !
   name: Fast Tracker
   prerequisites:
     tier1:
@@ -972,21 +987,6 @@
     Whether through a pair of celestial or infernal wings, an inherent telekinetic power, or something unexplainable that you're born with, you have an inherent ability to fly
   effect: |
     You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, an Immobile bane might render your wings immovable, if telekinetic, an application of the Dispel bane may cancel your flight.
-- !
-  name: Fast Draw
-  prerequisites:
-    tier1:
-      Attribute:
-      - Agility: 1
-  tags:
-  - Combat
-  - Agility
-  cost:
-  - 2
-  description: |
-    Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.
-  effect: |
-    Once per round, you can draw one additional weapon and sheathe another as a free action. Alternately, you could do the same with any small sized object in your possession.
 - !
   name: Great Leap (I – III)
   prerequisites:
