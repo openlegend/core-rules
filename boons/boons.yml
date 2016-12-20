@@ -28,7 +28,7 @@
   description: |
     You create life or unlife of subhuman intelligence that persists indefinitely and autonomously.
   effect: |
-    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion).  You perform a ritual that last 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature.  If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks.  Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
+    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion).  You perform a ritual that last 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature.  If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate extraordinary creatures, such as dragons or basilisks.  Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
     <ul>
     <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating.</li>
     <li><strong>Power Level 8</strong> - You can animate a group of creatures:  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5.</li>
@@ -163,7 +163,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
+    You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or extraordinary insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
   effect: |
     Choose a physical, social, or mental attribute. The target gains advantage on their action rolls according to the Power Level of the boon.
     <ul>
@@ -305,7 +305,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or supernatural creative life force, OR inspiring your target to carry on, even in the face of death.
+    Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or extraordinary creative life force, OR inspiring your target to carry on, even in the face of death.
   effect: |
     Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <ul>
@@ -405,12 +405,12 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You reach out and supernaturally connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
+    You reach out and extraordinarily connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
   effect: |
     When you successfully invoke this boon, you gain information from an object or place within range as follows:
     <ul>
     <li><strong>Power Level 5</strong> - You can read vague ideas and impressions to learn what took place near the target within the past hour.</li>
-    <li><strong>Power Level 6</strong> - You can see a vivid vision, similar to a supernatural recording, of what took place near the target within the last hour.</li>
+    <li><strong>Power Level 6</strong> - You can see a vivid vision, similar to a recording, of what took place near the target within the last hour.</li>
     <li><strong>Power Level 7</strong> - You can ascertain the most recent owner of the object or the people who have most recently been in the place. This knowledge grants enough information for you to use the Scrying bane to magically locate or view those identified.</li>
     <li><strong>Power Level 8</strong> - Choose one: You see a vision of the most recent significant event that took place in close proximity to the target - OR - you ask whether or not a specific event you are aware of is impressed upon the target.</li>
     <li><strong>Power Level 9</strong> - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.</li>
@@ -431,7 +431,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
+    The target gains an extraordinary ability to heal their wounds. Examples of this include the extraordinary regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
     While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon, and the dice rolled for healing explode as usual.
     <ul>
