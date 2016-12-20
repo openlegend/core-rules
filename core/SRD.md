@@ -1665,7 +1665,7 @@ hallucination is not restricted by size or area. Your hallucination may
 only target a single creature, and thus is not eligible for
 multi-targeting attacks.
 
-## Hallucination (Mass)
+## Hallucination - Mass
 
 **Cost:** 3 points
 \
