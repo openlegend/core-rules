@@ -4870,6 +4870,9 @@ Rather than constantly awarding different experience point values to different m
 
 **Time Played.** An easy way to schedule rewards is simply to allow players to level up after a certain number of sessions. For example, you might decide that every three games, the players will achieve a new level. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you will need to adapt on the fly to your player’s increasing power.
 
+### Beyond 10th Level
+
+Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can’t extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
 
 #### All That Glitters: Giving Players More Wealth
 
