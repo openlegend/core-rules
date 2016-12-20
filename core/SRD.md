@@ -867,15 +867,15 @@ the attacker).
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility, Might, or Any Supernatural 1
--   **Tier 2**: Agility, Might, or Any Supernatural 2
--   **Tier 3**: Agility, Might, or Any Supernatural 3
--   **Tier 4**: Agility, Might, or Any Supernatural 4
--   **Tier 5**: Agility, Might, or Any Supernatural 5
--   **Tier 6**: Agility, Might, or Any Supernatural 6
--   **Tier 7**: Agility, Might, or Any Supernatural 7
--   **Tier 8**: Agility, Might, or Any Supernatural 8
--   **Tier 9**: Agility, Might, or Any Supernatural 9
+-   **Tier 1**: Agility, Might, or Any Extraordinary 1
+-   **Tier 2**: Agility, Might, or Any Extraordinary 2
+-   **Tier 3**: Agility, Might, or Any Extraordinary 3
+-   **Tier 4**: Agility, Might, or Any Extraordinary 4
+-   **Tier 5**: Agility, Might, or Any Extraordinary 5
+-   **Tier 6**: Agility, Might, or Any Extraordinary 6
+-   **Tier 7**: Agility, Might, or Any Extraordinary 7
+-   **Tier 8**: Agility, Might, or Any Extraordinary 8
+-   **Tier 9**: Agility, Might, or Any Extraordinary 9
 
 **Description:** You are so well trained with a particular form of attack that you can
 devastate foes with much more skill than the average combatant. \newline
@@ -901,9 +901,9 @@ Specialization (Tier 4) for Long Sword.
 \
 **Prerequisites:**
 
--   **Tier 1**: Any Social, Any Mental, Any Supernatural 4
+-   **Tier 1**: Any Social, Any Mental, Any Extraordinary 4
 
-**Description:** Your prowess in a supernatural, mental, or social attribute empowers a
+**Description:** Your prowess in a extraordinary, mental, or social attribute empowers a
 physical aspect of your character, allowing you to use that attribute
 for tasks normally reserved for another attribute. Examples of Attribute
 Substitution in play include a martial artist who is physically weak but
@@ -934,7 +934,7 @@ angles, leverage, and physics to substitute Logic for Might, or a
 gunslinger who channels dark energy, giving her deadshot accuracy and
 substituting Entropy for Agility. \newline
 
-**Special:** This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or supernatural, while the substituted attribute must be physical.
+**Special:** This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or extraordinary, while the substituted attribute must be physical.
 
 ## Bane Focus
 
@@ -1068,7 +1068,7 @@ rage ends. When the rage ends, you automatically suffer 1 level of the
 **Description:** You have a special gift: it might be the result of your heritage, a
 close encounter with magical energy, or the result of years of training
 with a master. In any case, although you do not necessarily possess the
-aptitude to work supernatural powers for yourself or create a desired
+aptitude to work extraordinary powers for yourself or create a desired
 effect with your physical capabilities alone, you are able to reliably
 replicate a single boon. \newline
 
@@ -1277,7 +1277,7 @@ your GM to come up with other suitable crafts).
 \
 **Prerequisites:**
 
--   **Tier 1 - 3:** Any Supernatural, or Learning 5
+-   **Tier 1 - 3:** Any Extraordinary, or Learning 5
 
 **Description:** You are studied in the ways of imbuing magical items, brewing potions,
 or building extraordinary devices. Their power is permanent but varies
@@ -1296,7 +1296,7 @@ boon either autonomously or by way of a wielder.
 \ A tier 1 permanent item can be invoked once per hour, after which it has to recharge before it can be used again. \
 \ The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
 
-    -   **Any Supernatural Attribute** - The item can only be imbued with a bane or boon that is accessible to the creator via the attribute used.
+    -   **Any Extraordinary Attribute** - The item can only be imbued with a bane or boon that is accessible to the creator via the attribute used.
     -   **Learning** - You can imbue an item with only Physical attributes (Might, Agility, Fortitude) and the corresponding banes and boons.
     -   **Creation** - Being capable of manifesting something from nothing via channeling otherworldly energy, you can imbue the item with any attribute, even if you do not have a score in that attribute.
 
@@ -1305,7 +1305,7 @@ boon either autonomously or by way of a wielder.
     -   The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.
     -   For expendable items, bane attacks have advantage 2 instead of advantage 1.
     -   You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a teleportation circle that activates when someone steps on a magical trigger. For those imbuing with non-magical means, this autonomy could be more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
-    -   Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3. A non-supernatural example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.
+    -   Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3. A non-extraordinary example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.
 
 -   **Tier 3** - You gain the ability to imbue sentience into an item by tripling the time you would have otherwise spent in creating it. The item gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.
 
@@ -1561,7 +1561,7 @@ application of the Dispel bane may cancel your flight.
 -   **Tier 2**: Movement, or Agility 4
 -   **Tier 3**: Movement, or Agility 6
 
-**Description:** Through supernatural power or exceptional agility, you can jump
+**Description:** Through extraordinary power or exceptional agility, you can jump
 exceptionally far. \newline
 
 **Effect:** You can use your Movement or Agility score instead of your Might score
@@ -1690,7 +1690,7 @@ keel over from exhaustion. \newline
 
 **Effect:** You are immune to the fatigued bane when it is caused by regular,
 natural sources, such as a forced march, starvation, or swimming long
-distances. Supernatural sources of the fatigued bane (such as a
+distances. Extraordinary sources of the fatigued bane (such as a
 necromancer's curse) or irregular sources (such as the Berserker feat)
 still affect you, but at a reduced effect. Treat your fatigue level as
 one lower than it actually is for the purposes of determining the
@@ -1869,7 +1869,7 @@ exceptional cases can cause you to lose your mark.
 **Description:** You have honed your shapeshifting abilities to be able to not only
 change your form, but to even imitate specific creatures. Your powers
 may stem from studying the arts of deceptive magic, from a gene
-mutation, or even from innate supernatural abilities. \newline
+mutation, or even from innate extraordinary abilities. \newline
 
 **Effect:** When you use the alternate form feat, you may take the features of a
 specific creature. For example, instead of merely transforming into an
@@ -1939,11 +1939,11 @@ multiple types of attack.
 \
 **Prerequisites:**
 
--   **Tier 1**: Any Supernatural 3
--   **Tier 2**: Any Supernatural 5
--   **Tier 3**: Any Supernatural 7
--   **Tier 4**: Any Supernatural 8
--   **Tier 5**: Any Supernatural 9
+-   **Tier 1**: Any Extraordinary 3
+-   **Tier 2**: Any Extraordinary 5
+-   **Tier 3**: Any Extraordinary 7
+-   **Tier 4**: Any Extraordinary 8
+-   **Tier 5**: Any Extraordinary 9
 
 **Description:** You are a master of invoking boons for more than one target. \newline
 
@@ -2099,11 +2099,11 @@ are able to shake off banes quicker than others. \newline
 \
 **Prerequisites:**
 
--   **Tier 1**: Any Supernatural 4
--   **Tier 2**: Any Supernatural 6
--   **Tier 3**: Any Supernatural 9
+-   **Tier 1**: Any Extraordinary 4
+-   **Tier 2**: Any Extraordinary 6
+-   **Tier 3**: Any Extraordinary 9
 
-**Description:** By channeling your supernatural powers through extensive rituals, such
+**Description:** By channeling your extraordinary powers through extensive rituals, such
 as meditation, fasting, blood letting, and sacrifices, you are able to
 increase the strength of your invocations. \newline
 
@@ -2181,11 +2181,11 @@ that target is afflicted by the silenced bane.
 -   **Tier 1 - 3:** None
 
 **Description:** Your powers of focus are exceptionally honed, allowing you to maintain
-concentration on multiple supernatural effects at once. \newline
+concentration on multiple extraordinary effects at once. \newline
 
 **Effect:** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
 
-## Supernatural Defense (I - V)
+## Extraordinary Defense (I - V)
 
 **Cost:** 2 points
 \
@@ -2198,37 +2198,37 @@ concentration on multiple supernatural effects at once. \newline
 -   **Tier 5**: Movement, Prescience, or Protection 6
 
 **Description:** Whether by a magical barrier of force, foresight into the future, or
-preternatural speed, you are gifted with supernatural protection from
+preternatural speed, you are gifted with extraordinary protection from
 harm. \newline
 
 **Effect:** You gain a +1 bonus to all defenses for each tier you have in this feat.
 This increases your Toughness, Evasion, and Resolve defenses.
 
-## Supernatural Focus
+## Extraordinary Focus
 
 **Cost:** 3 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Any Supernatural 1
+-   **Tier 1**: Any Extraordinary 1
 
-**Description:** Your supernatural power stems from your connection with a particular
+**Description:** Your extraordinary power stems from your connection with a particular
 focus, such as a wand, holy symbol, or spellbook. \newline
 
 **Effect:** With the approval of your GM, choose a focus from which your power with
-a single supernatural attribute stems. Some possibilities include a
+a single extraordinary attribute stems. Some possibilities include a
 wand, a crystal ball, a spell book, a holy symbol, a weapon, your voice,
-or an animal familiar. You cannot use the selected supernatural
+or an animal familiar. You cannot use the selected extraordinary
 attribute without your focus. However, for the purposes of determining
 your attribute dice for action rolls, treat the chosen attribute as if
 it was one greater. For all purposes outside of attribute dice, your
 ability score remains unchanged (feats, banes, boons, etc.). \newline
 
-**Special:** If you ever lose your supernatural focus, voluntarily or
+**Special:** If you ever lose your extraordinary focus, voluntarily or
 involuntarily, you regain the feat points that you have spent on this
 feat and may spend them as usual.
 
-## Supernatural Healing
+## Extraordinary Healing
 
 **Cost:** 3 points
 \
@@ -2236,7 +2236,7 @@ feat and may spend them as usual.
 
 -   **Tier 1**: Creation 5
 
-**Description:** Your mastery of supernatural healing is such that you are able to cure
+**Description:** Your mastery of extraordinary healing is such that you are able to cure
 mortal wounds that are beyond the power of the average healer. \newline
 
 **Effect:** When invoking the Heal boon, you can choose to take one hour instead of
@@ -2320,7 +2320,7 @@ enthralled by you. \newline
 **Effect:** When you invoke the charmed bane, targets who do not make their resist
 roll within 24 hours of being afflicted become permanently affected by
 the bane. They do not receive any more resist rolls to shake themselves
-free of the effect. Other supernatural effects like a dispel boon can
+free of the effect. Other extraordinary effects like a dispel boon can
 still end the effect (and other methods may work at the GM’s
 discretion).
 
@@ -2334,11 +2334,11 @@ discretion).
 
 **Description:** Whether this power manifests itself as vines that grow in your wake, a
 magical ward against detection, or an illusory veil, the effect is the
-same: you are supernaturally protected from being tracked. \newline
+same: you are extraordinarily protected from being tracked. \newline
 
 **Effect:** Your travel is veiled by magic that conceals your tracks and any
 evidence of your passage even after you are far away. It is impossible
-to follow your tracks except by supernatural means.
+to follow your tracks except by extraordinary means.
 
 ## Vicious Strike
 
@@ -3629,7 +3629,7 @@ Below is a complete list of boons available to any character that meets the Powe
 \
 **Attributes:** Alteration, Movement \newline
 
-**Description:** You are able to supernaturally absorb an object into your body through
+**Description:** You are able to extraordinarily absorb an object into your body through
 such means as the mutation or alteration of your body (moving muscles
 and ligaments aside to make room for it) or by creating an
 extradimensional space to hide it. \newline
@@ -3695,7 +3695,7 @@ event, a person, or a place. \newline
 
 -   **Power Level 5** - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek. You can only ask one question about a given target per week.
 
--   **Power Level 7** - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have supernatural encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
+-   **Power Level 7** - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
 
 
 ## Aura
@@ -3737,7 +3737,7 @@ Choose a single bane or boon which uses the same attribute that you used to invo
 
 **Description:** Even in the absence of light you are able to distinguish your
 surroundings. Some examples of blindsight include tremorsense,
-echolocation, heat vision, divine insight, or supernaturally heightened
+echolocation, heat vision, divine insight, or extraordinarily heightened
 senses. \newline
 
 **Effect:** The Blinded bane does not adversely affect you and you are able to see
@@ -3799,7 +3799,7 @@ the power level of both is equal, then they cancel each other out.
 \
 **Attributes:** Prescience \newline
 
-**Description:** You gain supernatural vision that allows you to see colored auras which
+**Description:** You gain extraordinary vision that allows you to see colored auras which
 correlate to magical and spiritual forces. \newline
 
 **Effect:** When calling on this boon, you must choose from the following: **holy**,
@@ -3819,7 +3819,7 @@ will give off a radius of death for a time after the killing blow.
 
 -   **Death** - Necromancers, undead, and murderers all radiate an aura of death. For undead, the aura is constant, since the power of death and magic is what animates them.
 
--   **Magic** - Magical auras surround objects or places imbued with magical effects. Supernatural creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.
+-   **Magic** - Magical auras surround objects or places imbued with magical effects. Extraordinary creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.
 
 **Special:** Unlike other boons, this boon can not target another
 character. Only the character invoking the boon can see the auras.
@@ -3879,7 +3879,7 @@ plummet to the ground immediately.
 \
 **Attributes:** Alteration, Movement \newline
 
-**Description:** The target moves with supernatural speed, dodging attacks more deftly
+**Description:** The target moves with extraordinary speed, dodging attacks more deftly
 and accomplishing actions at an uncanny rate. \newline
 
 **Effect:**
@@ -3999,7 +3999,7 @@ all foes.
 
 **Description:** You light up an area with magical light from a point of your choice. \newline
 
-**Effect:** Choose a space or object within range. Supernatural light emanates from
+**Effect:** Choose a space or object within range. Extraordinary light emanates from
 the target to a radius equal five feet per power level of the boon. If
 the light area overlaps an area affected by the Darkness boon, then the
 one of greater power level supersedes the other. If the power level of
@@ -4043,7 +4043,7 @@ object or place within range as follows:
 \
 **Attributes:** Alteration, Creation \newline
 
-**Description:** The target gains a supernatural ability to heal their wounds. Examples
+**Description:** The target gains a extraordinary ability to heal their wounds. Examples
 of this include the supernatural regeneration of a troll, or an ability
 to channel energy that results in healing. Regardless of the source,
 wounds close before the very eyes of an onlooker. \newline
@@ -4186,7 +4186,7 @@ werewolves), dryads, dopplegangers, and certain types of druids. \newline
 
 **Effect:** You or a willing creature you touch transform into a creature whose
 highest attribute is less than or equal to your Alteration score. All of
-the target's existing supernatural attribute scores drop to zero, and
+the target's existing extraordinary attribute scores drop to zero, and
 they acquire the Agility, Fortitude, Might, and Perception attributes of
 the new form. The following limitations apply at Power Level 2, and are
 gradually removed at higher power levels:
@@ -4194,7 +4194,7 @@ gradually removed at higher power levels:
 -   The new form cannot be a different size than that of the target.
 -   The new form must possess a typical humanoid or animal physiology. Animal-like creatures, such as dragons, are allowed, but plants, elementals, oozes, and similar forms are not.
 -   The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.).
--   The target does not gain supernatural attributes of the new form (hence, they cannot inflict banes that rely on the creature’s supernatural attributes).
+-   The target does not gain extraordinary attributes of the new form (hence, they cannot inflict banes that rely on the creature’s extraordinary attributes).
 
 These limitations are removed based on the Power Level of the boon.
 
@@ -4204,7 +4204,7 @@ These limitations are removed based on the Power Level of the boon.
 -   **Power Level 6** - Gain the flying movement mode of the new form, if applicable.
 -   **Power Level 7** - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.
 -   **Power Level 8** - Shapeshift into a creature of any size.
--   **Power Level 9** - Gain all supernatural attributes possessed by the target.
+-   **Power Level 9** - Gain all extraordinary attributes possessed by the target.
 
 **Special:** Shapeshifting into a specific creature (attempting to
 impersonate them) requires a Deception action roll which is opposed by
@@ -4225,7 +4225,7 @@ swimming in combat, suffer disadvantage on relevant action rolls.
 \
 **Attributes:** Movement \newline
 
-**Description:** You reach out and supernaturally control an unattended inanimate object. \newline
+**Description:** You reach out and extraordinarily control an unattended inanimate object. \newline
 
 **Effect:** Immediately upon invoking the boon, and again each round when you
 sustain the boon, you may move the target object up to 30'. As part of
@@ -4356,17 +4356,17 @@ persists until some other effect would cancel it.
 \
 **Attributes:** Prescience \newline
 
-**Description:** You are able to supernaturally perceive things through impediments that
+**Description:** You are able to extraordinarily perceive things through impediments that
 would block or deceive normal sight, including darkness, illusions, and
 even the barrier between alternate planes of reality. \newline
 
 **Effect:**
 
--   **Power Level 5** - You can see normally in natural or magical darkness. This supernatural sight extends to 30'.
+-   **Power Level 5** - You can see normally in natural or magical darkness. This extraordinary sight extends to 30'.
 
--   **Power Level 7** - Your supernatural sight pierces through all illusory effects, allowing you to see the illusion for what it is. This supernatural sight extends to 60'.
+-   **Power Level 7** - Your extraordinary sight pierces through all illusory effects, allowing you to see the illusion for what it is. This extraordinary sight extends to 60'.
 
--   **Power Level 9** - Your supernatural sight enables you to peer into alternate planes or dimensions. You can see into dimensional pockets and other planes that overlap with the one you're currently on. This supernatural sight extends to 100'.
+-   **Power Level 9** - Your extraordinary sight enables you to peer into alternate planes or dimensions. You can see into dimensional pockets and other planes that overlap with the one you're currently on. This extraordinary sight extends to 100'.
 
 
 
@@ -4565,7 +4565,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 Any time you make a ranged attack (weapon or extraordinary) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 
-**Note:** For supernatural attacks, this penalty does not apply if you are targeting an adjacent enemy, because you would not be making a ranged attack.
+**Note:** For extraordinary attacks, this penalty does not apply if you are targeting an adjacent enemy, because you would not be making a ranged attack.
 +++
 
 **2. Determine Target(s)**
