@@ -27,6 +27,46 @@
     When selecting feats for your alternate form, you may not select the <strong>Alternate Form</strong> feat.
     You may take this feat multiple times. Each time grants you access to an additional form.
 - !
+ name: Antimagic (I-V)
+  prerequisites:
+  tier1:
+    Attribute:
+    - Will: 3
+    - Presence: 3
+    - Protection: 3
+   tier2:
+    Attribute:
+    - Will: 4
+    - Presence: 4
+    - Protection: 4
+   tier3:
+    Attribute:
+    - Will: 5
+    - Presence: 5
+    - Protection: 5
+   tier4:
+    Attribute:
+    - Will: 6
+    - Presence: 6
+    - Protection: 6
+   tier5:
+    Attribute:
+    - Will: 7
+    - Presence: 7
+    - Protection: 7
+  tags:
+  - Presence
+  - Will
+  - Protection
+  - Combat
+  - Passive
+  cost:
+  - 3
+  description: |
+    You are protected by arcane wards, EMP, luck, or a sheer force of will that allows you to exert influence on the supernatural powers of the universe or cause experimental technology to malfunction when it is directed at you.
+  effect: |
+    For each tier of this feat you possess, attacks, banes, and boons applied to you that originate from supernatural attributes suffer Disadvantage 1. You can choose to activate or deactivate the effects of this feat as a major action.
+- !
   name: Area Manipulation (I - V)
   prerequisites:
     tier1:
@@ -1498,6 +1538,39 @@
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
     Choose one bane that you can invoke and that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
+- !
+  name: Reactive Antimagic (I-II)
+  prerequisites:
+    tier1:
+      Attribute:
+      - Will: 5
+      - Presence: 5
+      - Protection: 5
+      Feat:
+      - Antimagic
+    tier2:
+      Attribute:
+      - Will: 7
+      - Presence: 7
+      - Protection: 7
+      Feat:
+      - Antimagic II
+  tags:
+  - Presence
+  - Will
+  - Protection
+  - Combat
+  - Passive
+  cost:
+  - 3
+  description: |
+    You have mastered controlling your ability to suppress incoming magic, allowing you to activate or deactivate your protection against supernatural abilities more quickly.
+  effect: |
+    For each tier of this feat you possess, attacks, banes, and boons applied to you suffer Disadvantage 1. You can choose to activate or deactivate the effects of this feat as a major action.
+	<ul>
+    <li><strong>Tier 1</strong> - You are able to activate or deactivate your antimagic feat's effects as a minor action.</li>
+    <li><strong>Tier 2</strong> - You are able to choose whether or not your antimagic feat's effects apply to any given supernatural attack, bane, or boon targeted at you.</li>
+    </ul>
 - !
   name: Reactionary Berserker
   prerequisites:
