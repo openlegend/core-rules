@@ -1898,8 +1898,7 @@ You may use your attacks to make any combination of bane or damaging
 attacks, but you may not invoke boons. Resolve each attack individually,
 applying any other multi-targeting options as you wish. You can move
 between each of these attacks and they can be used to target the same
-creature more than once. There is no limit to the number of additional
-attacks you can make using this feat.
+creature more than once.
 
 The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level. \newline
 
