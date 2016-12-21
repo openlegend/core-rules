@@ -781,31 +781,20 @@ Below is a complete list of feats available to any character that meets the prer
 
 -    **Tier 1 - 2:** None
 
-**Description:** Alternate form is an ability possessed by lycanthropes (werewolves,
-werebears, wererats), druids, vampires, and other creatures capable of
-assuming specific forms. \newline
+**Description:** You have the ability to transform from one persona to another, whether that be through bodily transformation like a werewolf or through exterior mechinisms, such as a cybernetically enhanced soldier who can call forth a symbiotic mech suit. \newline
 
-**Effect:** You gain the ability to shapeshift into a single form (you choose that
-form when purchasing this feat and it cannot be changed). Assuming your
-new form is a Focus action.
+**Effect:** Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
 
-When you take this feat, you build the stats for the alternate form that
-you can assume.
+- Tier 1 – Half of your primary form's attribute points (rounded up), and 3 feat points.
 
-To build your alternate form, you gain a number of Feat and Attribute
-points, as outlined below. Your new form is otherwise treated as a
-different character. You retain none of your original feats or
-attributes, only what you gain for the new form from this feat. You do,
-however, retain the ability to cancel and revert to your base form.
+- Tier 2 – Same attribute points as your primary form, and 3 feat points per level.
 
-You return to your normal form immediately if you are reduced to zero
-hit points. You can also choose to voluntarily return to your usual form
-as a major action. Upon returning to your original form, your physical
-attributes return to their previous values.
+Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
+You may transform from one form to another as a focus action. Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
+In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points.
 
--   Tier 1 – Half of your main character's attribute points (rounded up), and 3 feat points.
-
--   Tier 2 – Same attribute points as your main character, and 3 feat points per level.
+**Special:** When selecting feats for your alternate form, you may not select the **Alternate Form** feat.
+You may take this feat multiple times. Each time grants you access to an additional form.
 
 ## Area Manipulation (I - V)
 
