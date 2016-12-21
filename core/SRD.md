@@ -4243,6 +4243,35 @@ movement speed is cut in half for movement modes not native to the
 original form, and the GM may rule that certain actions, such as
 swimming in combat, suffer disadvantage on relevant action rolls.
 
+## Summon Creature
+
+**Duration:** Sustain Persists
+\
+**Invocation Time:** 1 Focus Action
+\
+**Power Level:** 4, 5, 6, 7, 8, 9
+\
+**Attributes:** Alteration, Creation, Entropy, Energy \newline
+
+**Description:** You summon forth creatures to assist your cause, whether they are animals called from the wild, undead minions built from the remains of your foes, or worker bots constructed of spare parts from a salvage yard.
+
+**Effect:** You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: agility, fortitude, might, perception, energy, and entropy. Your minion's attributes do not affect their hit points or defenses.
+
+| Power Level | Hit Points | Defenses | Attributes |
+|:-----------:|:----------:|:--------:|:----------:|
+| 4 | 4 | 11 | 2, 1, 1 |
+| 5 | 5 | 12 | 3, 2, 2 |
+| 6 | 6 | 13 | 4, 3, 3 |
+| 7 | 7 | 14 | 5, 4, 4 |
+| 8 | 8 | 15 | 6, 5, 5 |
+| 9 | 9 | 16 | 7, 6, 6 |
+
+Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions. If you invoke this boon while you already have minions summoned, your current minions are immediately dispelled.
+
+**Permanent Minions:** At Power Levels 6 and above, you may choose to increase the invocation time to 8 hours. If you do so, your minion exists permanently and does not require a sustain action to persist, nor is it dispelled when you invoke this boon to summon temporary minions. The maximum number of permanent minions you may have at any time is equal to your attribute score used for invocation.
+
+**Special:** This boon is not subject to normal multi-targeting rules. However, you may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke.
+
 ## Telekinesis
 
 **Duration:** Sustain Persists
