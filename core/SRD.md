@@ -4966,7 +4966,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier.
 
-- **Bane Focus:** Pick a bane. Whenever you inflict at least five damage with an attack, you may automatically inflict that bane.
+- **Bane Focus:** Pick a bane. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
 - **Superior Bane Focus (not available to PCs):** Pick a bane. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 

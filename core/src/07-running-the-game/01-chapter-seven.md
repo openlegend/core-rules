@@ -342,7 +342,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier.
 
-- **Bane Focus:** Pick a bane. Whenever you inflict at least five damage with an attack, you may automatically inflict that bane.
+- **Bane Focus:** Pick a bane. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
 - **Superior Bane Focus (not available to PCs):** Pick a bane. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 
@@ -397,7 +397,7 @@ Special: This feat can be purchased multiple times (up to a maximum of 3), each 
 >
 > Returning to the example at the beginning of this section, let’s build our venomous swamp snakes imagining that the party is made up of 3rd level characters, and thus we choose to make the Swamp Snakes using the row for level 3 Monsters. We decide that the snakes aren’t particularly tough to kill, so referencing the Simple Build Table, we’ll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we’ll go with the high range for Evasion: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We’ll only assign one primary attribute, giving the snakes an Agility of 5, and we’ll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
 >
-> When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land an attack that deals at least 5 damage.
+> When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land a damaging attack that exceeds the target's defense by 5 or more.
 
 #### Boss Monsters and NPCs
 
