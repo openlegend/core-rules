@@ -4833,7 +4833,7 @@ Many boons have a default duration of *sustain persists*, which means that every
 
 Using a focus action involves spending all of your energy and attention on one task. If you choose to forgo your major, move, and minor actions for a round, you may instead take a focus action. Choose one of the following types of focus action:
 
-**Disrupting Attack.** Make a damaging attack using the normal attack rules.  If your roll exceeds the target's defense by 10 or more, then any boons being sustained by your target immediately end.
+**Disrupting Attack.** Make a damaging attack using the normal attack rules. If your roll exceeds the target's defense by 10 or more, then any boons being sustained by your target immediately end.
 
 **Superior Action.** Make any one action roll with advantage 1.
 
