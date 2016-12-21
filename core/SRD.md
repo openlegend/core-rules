@@ -4807,18 +4807,12 @@ Many banes will persist for a longer duration if you fail three resist rolls to 
 
 Minor actions are tasks that don’t require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
--   Draw a weapon (which forces you to reroll initiative, see above)
-
+-   Draw a weapon
 -   Retrieve an item stored on your person
-
 -   Sustain a boon
-
 -   Make a Perception roll to observe your surroundings
-
 -   Make a Learning roll to recall useful information
-
 -   Open a door, chest, drawer, etc.
-
 -   Make an opportunity attack
 
 #### Opportunity Attacks
