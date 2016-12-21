@@ -34,6 +34,28 @@
     <li><strong>Power Level 8</strong> - You can animate a group of creatures:  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5.</li>
     </ul>
 - !
+  name: Augury
+  tags:
+  - Extraordinary
+  power:
+  - 1
+  - 3
+  - 5
+  - 7
+  attribute:
+  - Prescience
+  invocationTime: 1 Minute
+  duration: 1 round
+  description: |
+    You peer into the future to gain insight into a course of action, an event, a person, or a place.
+  effect: |
+    <ul>
+    <li><strong>Power Level 1</strong> - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
+    <li><strong>Power Level 3</strong> - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
+    <li><strong>Power Level 5</strong> - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek.  You can only ask one question about a given target per week.</li>
+    <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
+    </ul>
+- !
   name: Aura
   tags:
   - Extraordinary
@@ -69,28 +91,6 @@
     </ul>
   special: |
     This boon may require special attention and adjudication from the GM, as not all banes and boons may be an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
-- !
-  name: Augury
-  tags:
-  - Extraordinary
-  power:
-  - 1
-  - 3
-  - 5
-  - 7
-  attribute:
-  - Prescience
-  invocationTime: 1 Minute
-  duration: 1 round
-  description: |
-    You peer into the future to gain insight into a course of action, an event, a person, or a place.
-  effect: |
-    <ul>
-    <li><strong>Power Level 1</strong> - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 3</strong> - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 5</strong> - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek.  You can only ask one question about a given target per week.</li>
-    <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
-    </ul>
 - !
   name: Barrier
   tags:
