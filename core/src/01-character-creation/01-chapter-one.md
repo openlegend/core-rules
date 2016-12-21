@@ -243,7 +243,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 
 <br><br>
 
-## Step 2: Record Defenses, Hit Points, and Speed
+## Step 3: Record Defenses, Hit Points, and Speed
 
 When an enemy tries to attack you--whether with the shot of a rifle, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
