@@ -4791,7 +4791,7 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 **Climb**. You climb at half of your normal speed. The GM may require a Might or Agility check if the situation is particularly dangerous.
 
-**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similar situations..
+**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similar situations.
 
 #### Resist Banes
 
