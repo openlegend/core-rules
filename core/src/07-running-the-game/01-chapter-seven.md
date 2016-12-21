@@ -348,11 +348,11 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon. Gain the following benefits:
 
-    - **Tier 1:** Automatically succeed at invoking the boon to target single creatures (No action roll required). When multi-targeting, gain advantage 2 on the action roll to invoke.
+    - **Tier 1:** When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
 
-     - **Tier 2:** Invoke the boon one increment faster. If invoking the boon is a normal action, it becomes a minor action. If invocation time is 1 minute, it becomes 1 normal action. If invocation time is 10 minutes, it becomes 1 minute. If invocation time is 1 hour, it becomes 10 minutes. If invocation is 8 hours, it becomes 1 hour. If the invocation has multiple targets, success is not automatic, but you get advantage 3 on the action roll to invoke it.
+     - **Tier 2:** You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action.  If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.
 
-    - **Tier 3:** This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If you invoke this boon with multiple targets, success is not automatic, but you get advantage 4 on the action roll to invoke it.
+    - **Tier 3:** This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If the invocation is not a single target, success is not automatic, but you get advantage 4 on the action roll to invoke it.
 
 - **Energy Resistance (tier 1 - 3, your choice):** Choose an energy type and gain the following benefits:
 
