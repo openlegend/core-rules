@@ -1222,7 +1222,7 @@ Presence 1. \newline
 \
 **Prerequisites:**
 
-- **Tier 1 - 2:** Learning 3, OR Knowledge I
+- **Tier 1 - 2:** Learning 3, or Knowledge I
 
 **Description:** You have mastered a particular craft, and given proper time and
 materials, you can create items related to that craft. \newline
