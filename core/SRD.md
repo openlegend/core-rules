@@ -175,7 +175,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 
 
 
-## Step 3: Calculate Defenses and Hit Points
+## Step 3: Record Defenses, Hit Points, and Speed
 
 When an enemy tries to attack you--whether with the shot of a rifle, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
@@ -206,6 +206,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 **Hit Points** (or HP) are an abstract measure of how well you can ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. If they reach zero, you fall unconscious and are at risk of death.
 
+**Speed** indicates how far your character can move using a single move action (see Chapter 6: Combat). Your base speed is 30 feet. Other effects, such as banes, boons, and feats may cause your speed to increase or decrease.
 
 ## Step 4: Purchase Feats
 
