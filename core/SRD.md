@@ -1149,9 +1149,7 @@ and vertical surfaces, even climb upside-down, with no fear of falling.
 \
 **Prerequisites:**
 
--   **Tier 1**:
-    -   Agility, or Might 5
-    -   Combat Momentum
+-   **Tier 1**: None
 
 **Description:** You are able to decimate many enemies in quick succession, like a
 legendary Samurai warrior or matchless elven archer. \newline
@@ -1168,14 +1166,14 @@ action roll.
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility, Might, or Movement 4
+-   **Tier 1**: None
 
 **Description:** Whether through brute strength or lightning reflexes, you are able to
 use the momentum of combat to maneuver around the battlefield with ease. \newline
 
 **Effect:** Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action. \newline
 
-**Special:** If you meet the Movement 4 prerequisite, you can use the Teleport boon instead of a normal move.
+**Special:** If you have the Movement attribute, you can use the Teleport boon instead of a normal move.
 
 ## Companion (I - III)
 
