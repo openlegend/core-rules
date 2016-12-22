@@ -155,7 +155,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 \NextTableColumns{OCT{1}}
 
-| Evasion = 10 + Agility |
+| Evasion = 10 + Agility + Armor |
 
 **Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
