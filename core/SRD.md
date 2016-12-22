@@ -26,7 +26,7 @@ Add all of the dice together to find your total action roll. If your total is eq
 
 ## Step 1: Choose Attributes
 
-Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres he excels in, as well as his greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
+Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
 
 In *Open Legend*, attributes are divided into four categories: physical,
 social, mental, and extraordinary.
@@ -182,8 +182,7 @@ heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so he takes the *Combat Momentum* feat to allow him to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred berserker, takes [*Berserker*](#berserker) so that she
-can fly into a frenzied rage in order to decimate her foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they takes the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred berserker, takes [*Berserker*](#berserker) so that they can fly into a frenzied rage in order to decimate their foes.
 
 ### Choose your feats
 
@@ -194,7 +193,7 @@ A searchable and filterable list of available feats can be found on the [Open Le
 
 ## Step 4: Choose Starting Equipment
 
-In a typical game of *Open Legend*, your character will start with the gear he needs for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
+In a typical game of *Open Legend*, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
 Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 4 for rules concerning Wealth as well as equipment details.
 
@@ -202,7 +201,7 @@ Usually, though, you begin with a Wealth Score of 2, and may select up to three 
 
 *Open Legend *is a role playing game, which means your character will need more depth than attributes, feats, and gear. To make your character come to life, add the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
 
-**A heroic name.** Be sure to check with your GM to see if he has any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
+**A heroic name.** Be sure to check with your GM to see if they have any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
 
 **Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
 
@@ -247,7 +246,7 @@ Perks provide very specific bonuses or effects in specific situations. Your perk
 
 While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see [Actions and Attributes](#Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in the future.
 
-You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that he is usually completely unaffected by his blindness. Only under extreme circumstances does the blindness hinder him.
+You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
 
 To activate a flaw, you should intentionally make a disadvantageous choice based on your flaw that creates an interesting or tense moment in the plot. When you do so, let your GM know that you are activating your flaw and describe how it is hindering your efforts or influencing your decisions. If the GM approves that your flaw is creating a significant disadvantage and advancing the story, you receive one legend point. Sometimes, the GM may recognize that you are roleplaying a flaw without you having to overtly activate it. In such cases, the GM may award you with a legend point as well.
 
@@ -686,7 +685,7 @@ Advantage and Disadvantage only apply to your initial pool of dice for an action
 
 ### Advantage and Disadvantage with Attribute Scores of Zero
 
-When attempting an action with an attribute score of zero you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. Your character is already so inept at the action that he cannot capitalize on cumulative circumstancial help or hindrances.
+When attempting an action with an attribute score of zero you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances.
 
 ### Assigning Advantage and Disadvantage
 
@@ -1095,7 +1094,7 @@ character. \newline
 -   **Tier 1** -  When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
 
 -   **Tier 2** -  You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action.  If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.
-    
+
 -   **Tier 3** - The effect at tier 3 varies based on the duration of the boon:  \
 \ **If the chosen boon has a duration of "sustain persists"**,, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.  \
 \ **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
@@ -2529,13 +2528,13 @@ Armor reduces or negates the damage that your character would suffer from attack
 
 **Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
 
-The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to his Might score plus one.
+The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to their Might score plus one.
 
-**Defense Bonus** indicates the bonus that your character gains to his evasion defense.
+**Defense Bonus** indicates the bonus that your character gains to their evasion defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
-Donning and removing armor takes a number of minutes equal to the total armor bonus. Sleeping in armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of fatigue, which applies disadvantage 1 to all action rolls until he gets a proper night’s rest.
+Donning and removing armor takes a number of minutes equal to the total armor bonus. Sleeping in armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of fatigue, which applies disadvantage 1 to all action rolls until they get a proper night’s rest.
 
 
 \NextTableColumns{OLT{.20}OCT{.16}OCT{.16}OCT{.16}OCT{.16}OCT{.15}}
@@ -2583,7 +2582,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 
 Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
 
-Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoket the *Insubstantial* boon for herself or her allies until she gains enough experience to increase her Entropy to 7.
+Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoke the *Insubstantial* boon for themself or their allies until they gains enough experience to increase their Entropy to 7.
 
 A list of available banes and boons can be found in this SRD under the [banes section](#banes-list) and [boons section](#boons-list) and a searchable and filterable list of available banes and boons can be found on the [Open Legend Website](http://www.openlegendrpg.com/), respectively.
 
@@ -4433,7 +4432,7 @@ even the barrier between alternate planes of reality. \newline
 ## When Combat Ensues
 
 The first thing to realize is that not every instance of violence or fighting in your game needs to be broken down into blow-by-blow, round-by-round narration. The outcome of a simple bar fight, which might be important to the story but not particularly fun to play through,
-could be decided using a few action rolls based around the core mechanic explained in Chapter 2. A final showdown with an evil necromancer fought upon air ships sailing through the clouds, on the other hand, is epic and fun enough to merit a blow-by-blow resolution. The GM is the final arbiter who decides when to start combat, and she does so with three simple words: “Roll for initiative!”.
+could be decided using a few action rolls based around the core mechanic explained in Chapter 2. A final showdown with an evil necromancer fought upon air ships sailing through the clouds, on the other hand, is epic and fun enough to merit a blow-by-blow resolution. The GM is the final arbiter who decides when to start combat, and they can do so with three simple words: “Roll for initiative!”.
 
 ## Starting Combat
 
@@ -4447,17 +4446,17 @@ Surprised characters always act after non-surprised characters, as explained in 
 
 ### Roll for Initiative
 
-After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is his initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
+After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
 
 Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest.
 
-**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, he gains advantage on his initiative roll equal to the weapon’s *swift* value (i.e., *swift* 2 provides advantage 2). A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
+**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage on their initiative roll equal to the weapon’s *swift* value (i.e., *swift* 2 provides advantage 2). A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
 ## The Core Mechanic in Combat
 
-The core mechanic of *Open* *Legend* is meant to inspire creativity in players and GMs so that the story always moves forward and so that no dice roll ever feels wasted. However, in combat, players typically make many more action rolls than usual, so the GM may feel overwhelmed if she is constantly trying to come up with new interpretations of a failed roll on the fly.
+The core mechanic of *Open Legend* is meant to inspire creativity in players and GMs so that the story always moves forward and so that no dice roll ever feels wasted. However, in combat, players typically make many more action rolls than usual, so the GM may feel overwhelmed if they are constantly trying to come up with new interpretations of a failed roll on the fly.
 
 Some GMs might love that kind of challenge, and for them, **the core mechanic can be used in combat in the same way it is in every other part of the game**. GMs who want something a little more streamlined **may use the following modification** to the usual core mechanic in combat:
 
