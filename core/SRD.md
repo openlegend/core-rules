@@ -90,7 +90,7 @@ In *Open Legend*, you get to define your character’s strengths and weaknesses 
 
 ### Quick Build
 
-  If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
+If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
 
 
 \NextTableColumns{OCT{1}}
