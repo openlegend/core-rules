@@ -875,7 +875,7 @@ the attacker).
 devastate foes with much more skill than the average combatant. \newline
 
 **Effect:** When you take this feat, select one weapon or energy type. You gain
-Advantage 1 per tier of this feat for any damagingattack made with your
+Advantage 1 per tier of this feat for any damaging attack made with your
 choice. This bonus does not apply to bane attacks or boon invocations.
 
 Examples of energy types you can choose to specialize in include fire,
