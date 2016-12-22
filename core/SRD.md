@@ -682,6 +682,8 @@ If a situation arises in which you are assigned both advantage and disadvantage,
 
 When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
 
+Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
+
 ### Advantage and Disadvantage Are Only Applied BEFORE Explosions
 
 Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
