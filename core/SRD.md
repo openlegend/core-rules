@@ -145,7 +145,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 
 ## Step 2: Calculate Defenses and Hit Points
 
-When an enemy tries to attack you--whether with a breath of flame, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
+When an enemy tries to attack you--whether with the shot of a rifle, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
 \NextTableColumns{OCT{1}}
 
@@ -157,7 +157,7 @@ When an enemy tries to attack you--whether with a breath of flame, a deft sword 
 
 | Evasion = 10 + Agility |
 
-**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a fireball, shoot you with an arrow, or smash you with a maul.
+**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 \NextTableColumns{OCT{1}}
 
