@@ -708,6 +708,7 @@ Advantage and disadvantage can be assigned by the GM due to situational effects,
 | :- | :- |
 | Attacking a surprised or unaware foe | Attacking while balancing on a beam |
 | Attacking a foe during an acrobatic stunt | Attacking in a confined space |
+| Attacking a flanked foe | Attacking while prone |
 | Negotiating with someone you have leverage over | Negotiating with someone who has leverage over you |
 | Expending a valuable arcane focus when casting a spell | Casting a spell in the midst of a heavy storm |
 | Conducting research in a well-stocked library | Conducting research while sick |
