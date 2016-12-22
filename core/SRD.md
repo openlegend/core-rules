@@ -586,6 +586,9 @@ The complete list of available feats can be found on the [Open Legend Website](h
 | 7 | 28 | 2d10 |
 | 8 | 36 | 3d8 |
 | 9 | 45 | 3d10 |
+| 10 | - | 4d8 |
+
+**Note:** An attribute score of 10 cannot be purchased with attribute points. It can only be obtained through feats, boons, or other special means. No attribute may advance beyond a score of 10.
 
 ### New Hit Points
 
