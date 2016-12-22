@@ -941,11 +941,7 @@ substituting Entropy for Agility. \newline
 **Description:** You are specialized in the use of a particular bane that is iconic to
 your character. \newline
 
-**Effect:** Choose a bane that you can invoke. When making a damaging attack, you
-can inflict this bane for free when you deal at least 5 points of damage
-(as opposed to the usual 10). Each attack is still only capable of
-inflicting a single bane. When making a bane attack, you get Advantage 2
-on the bane attack roll.
+**Effect:** Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
 
 ## Battlefield Defender
 
