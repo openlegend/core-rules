@@ -341,48 +341,6 @@
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness.  As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
-  name: Intimidated
-  tags:
-  - Extraordinary
-  - Physical
-  power:
-  - 4
-  - 5
-  - 6
-  - 7
-  - 8
-  - 9
-  attackAttributes:
-  - Creation
-  - Deception
-  - Energy
-  - Influence
-  - Might
-  - Persuasion
-  - Presence
-  attack:
-  - Creation vs. Resolve
-  - Deception vs. Resolve
-  - Energy vs. Resolve
-  - Influence vs. Resolve
-  - Might vs. Resolve
-  - Persuasion vs. Resolve
-  - Presence vs. Resolve
-  invocationTime: 1 Minor Action
-  duration: Resist ends (Fail x 3 = 1 minute)
-  description: |
-    Through a display of awe-inspiring force, intimidation, or leadership, you command attention as the greatest threat, causing others to fear to attack your allies.
-  effect: |
-    Any attacks made by the target that do not include you as a target suffer disadvantage. If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is equal or greater to their Resolve defense (that is, by striking one foe, you can intimidate another).
-    <ul>
-    <li><strong>Power Level 4</strong> - The target suffers disadvantage 1 on attacks that do not include you.</li>
-    <li><strong>Power Level 5</strong> - The target suffers disadvantage 2 on attacks that do not include you.</li>
-    <li><strong>Power Level 6</strong> - The target suffers disadvantage 3 on attacks that do not include you.</li>
-    <li><strong>Power Level 7</strong> - The target suffers disadvantage 4 on attacks that do not include you.</li>
-    <li><strong>Power Level 8</strong> - The target suffers disadvantage 5 on attacks that do not include you.</li>
-    <li><strong>Power Level 9</strong> - The target suffers disadvantage 6 on attacks that do not include you.</li>
-    </ul>
-- !
   name: Knockdown
   tags:
   - Extraordinary
@@ -553,6 +511,48 @@
     <li><strong>Power Level 6</strong> - Polymorph a creature into another creature double or half the size. The duration is 1 hour per Alteration attribute point. </li>
     <li><strong>Power Level 8</strong> - Polymorph a creature into another creature to quadruple or one-quarter its original size. Alternatively, transform the target into an object of its original size. The duration is 1 hour per Alteration attribute point.</li>
     <li><strong>Power Level 9</strong> - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The duration is permanent.</li></ul>
+- !
+  name: Provoked
+  tags:
+  - Extraordinary
+  - Physical
+  power:
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  attackAttributes:
+  - Creation
+  - Deception
+  - Energy
+  - Influence
+  - Might
+  - Persuasion
+  - Presence
+  attack:
+  - Creation vs. Resolve
+  - Deception vs. Resolve
+  - Energy vs. Resolve
+  - Influence vs. Resolve
+  - Might vs. Resolve
+  - Persuasion vs. Resolve
+  - Presence vs. Resolve
+  invocationTime: 1 Minor Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    Through a display of awe-inspiring force, intimidation, or leadership, you command attention as the greatest threat, causing others to fear attacking your allies.
+  effect: |
+    Any attacks made by the target that do not include you as a target suffer disadvantage. If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is equal or greater to their Resolve defense (that is, by striking one foe, you can provoke another).
+    <ul>
+    <li><strong>Power Level 4</strong> - The target suffers disadvantage 1 on attacks that do not include you.</li>
+    <li><strong>Power Level 5</strong> - The target suffers disadvantage 2 on attacks that do not include you.</li>
+    <li><strong>Power Level 6</strong> - The target suffers disadvantage 3 on attacks that do not include you.</li>
+    <li><strong>Power Level 7</strong> - The target suffers disadvantage 4 on attacks that do not include you.</li>
+    <li><strong>Power Level 8</strong> - The target suffers disadvantage 5 on attacks that do not include you.</li>
+    <li><strong>Power Level 9</strong> - The target suffers disadvantage 6 on attacks that do not include you.</li>
+    </ul>
 - !
   name: Scrying
   tags:
