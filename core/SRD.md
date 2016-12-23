@@ -2865,13 +2865,13 @@ your control. Unlike the charmed bane, characters under the effect of
 domination lose control of their actions. Their minds, however, can
 think freely, leaving them effectively trapped in their own body. They
 cannot take action of any kind (except thought) unless it is ordered by
-you. Every action which you order the afflicted target to
+you.  Every action which the attacker orders the afflicted character to
 perform which is in extreme violation of their nature gives the target a
 Resist roll as a free action to break free from the effect. The attacker
 does not gain special access to the target’s mind and so can only order
-the target to perform actions that they think or know (from prior
-knowledge) that the target is capable of. Lastly, each mental order
-you give to the target is a major action, however the
+the character to perform actions that they think or know (from prior
+knowledge) that the character is capable of. Lastly, each mental order that the attacker
+gives to the target is a major action, however the
 order can be a series of verbal commands like “Attack enemy X unless
 someone comes through the door, in which case flee.”. The dominated
 creature will continue to obey the last mental command they were given
