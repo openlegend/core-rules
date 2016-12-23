@@ -1754,12 +1754,14 @@ subsequent tier allows you to ignore an additional level of fatigue.
 \
 **Prerequisites:**
 
--   **Tier 1**: Presence 6
+-   **Tier 1**: Presence 4
+-   **Tier 2**: Presence 5
+-   **Tier 3**: Presence 6
 
 **Description:** You fight with such bravery, heroism, or bravado that your allies are
 ispired to fight beyond their usual mettle. \newline
 
-**Effect:** -   Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
+**Effect:** Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
 
 -   **Tier 1** - A single ally that can see the attack heals 1d4 HP.
 
