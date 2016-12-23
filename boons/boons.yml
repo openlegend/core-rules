@@ -127,7 +127,7 @@
     <br>
     <strong>Baneful:</strong> Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
     <br>
-    <strong>Mobile:</strong> You may spend a standard action to move the barrier up to 30 feet.
+    <strong>Mobile:</strong> You may spend a major action to move the barrier up to 30 feet.
 - !
   name: Blindsight
   tags:

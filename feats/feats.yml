@@ -392,6 +392,9 @@
       <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
     </li>
     </ul>
+  special: |
+    Note that this feat can give access to high-powered boons with a potential for very dramatic impact on the storyline of a game. As such, using this feat to access a boon of Power Level 6 or higher should be approved by the GM before using it in a game.
+
 - !
   name: Breakfall (I - IX)
   prerequisites:
@@ -1055,25 +1058,6 @@
     <li><strong>Influence 9</strong> - 50 Targets</li>
     </ul>
 - !
-  name: Heavy Weapon Master
-  prerequisites:
-    tier1:
-      Attribute:
-      - Agility: 4
-      Attribute:
-      - Might: 5
-  tags:
-  - Combat
-  - Physical
-  - Agility
-  - Might
-  cost:
-  - 3
-  description: |
-    Due to your strength and training, you are able to wield exceptionally heavy weapons with ease.
-  effect: |
-    You can wield two-handed melee weapons in one hand. When you do, you still gain the usual advantage granted by two-handed weapons.
-- !
   name: Hospitaler
   prerequisites:
     tier1:
@@ -1192,8 +1176,8 @@
   description: |
     You fight with such bravery, heroism, or bravado that your allies are ispired to fight beyond their usual mettle.
   effect: |
+    Once per round, when your damaging roll exceeds an enemy's defense by 10 or more, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
     <ul>
-    <li>Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.</li>
     <li><strong>Tier 1</strong> - A single ally that can see the attack heals 1d4 HP.</li>
     <li><strong>Tier 2</strong> - A number of allies equal to your Presence score who can see the attack heal 1d4 HP.</li>
     <li><strong>Tier 3</strong> - All allies who can see the attack heal 2d4 HP.</li>
@@ -1565,7 +1549,7 @@
   description: |
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
-    Choose one bane that you can invoke and that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
+    Choose one bane that you can invoke and that has a duration of "resist ends". When a target makes uses the Resist action to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
 - !
   name: Reactionary Berserker
   prerequisites:
@@ -1616,7 +1600,7 @@
   description: |
     Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
   effect: |
-    Any time you make a Resist roll, you have Advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to major action rolls)
+    Any time you take the Resist action, you roll the d20 twice and keep the higher result.
 - !
   name: Ritual Magic (I - III)
   prerequisites:
@@ -1663,7 +1647,7 @@
       <li>You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.</li>
       <li>You gain the following additional option to choose from when empowering your invocations with ritual magic:</li>
         <ul>
-        <li>Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot disrupt the boon through use of a focus action (Though the dispel bane still works).</li>
+        <li>Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (Though the dispel bane still works).</li>
         <li>Targets may not make resist rolls against a bane for one minute after it is invokes.</li>
         </ul>
     </ul>
@@ -1841,9 +1825,9 @@
   cost:
   - 1
   description: |
-    Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are extraordinarily protected from being tracked.
+    Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are protected from being tracked.
   effect: |
-    Your travel is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.
+    Your travel is veiled by special means that conceal your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.
 - !
   name: Vicious Strike
   prerequisites:
@@ -1857,7 +1841,7 @@
   description: |
     Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
   effect: |
-    Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on the subsequent re-roll of the d20 and take the higher result.
+    Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on all subsequent d20 re-rolls and take the higher result.
 - !
   name: Wealthy
   prerequisites:
