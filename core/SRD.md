@@ -2085,7 +2085,7 @@ blinding powder. Whatever the source and whatever the effect, your
 enemies cower before your legendary attack. \newline
 
 **Effect:** Choose one bane that you can invoke and that has a duration of "resist
-ends". When a target makes a resist roll to shake off your invocation of
+ends". When a target uses the Resist action to shake off your invocation of
 the chosen bane, they roll two d20s and use the lower die.
 
 ## Reactionary Berserker
@@ -2139,8 +2139,7 @@ this feat.
 **Description:** Whether through luck, extraordinary will, or exceptional courage, you
 are able to shake off banes quicker than others. \newline
 
-**Effect:** Any time you make a Resist roll, you have Advantage on the d20 roll
-(roll 2 d20 and keep the higher, contrary to major action rolls)
+**Effect:** Any time you take the Resist action, you roll the d20 twice and keep the higher result.
 
 ## Ritual Magic (I - III)
 
