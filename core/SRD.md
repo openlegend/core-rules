@@ -1678,20 +1678,6 @@ disadvantage on your action roll.
 -   **Influence 8** - 10 Targets
 -   **Influence 9** - 50 Targets
 
-## Heavy Weapon Master
-
-**Cost:** 3 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Might 5
-
-**Description:** Due to your strength and training, you are able to wield exceptionally
-heavy weapons with ease. \newline
-
-**Effect:** You can wield two-handed melee weapons in one hand. When you do, you
-still gain the usual advantage granted by two-handed weapons.
-
 ## Hospitaler
 
 **Cost:** 2 points
@@ -1762,7 +1748,7 @@ subsequent tier allows you to ignore an additional level of fatigue.
 **Description:** You fight with such bravery, heroism, or bravado that your allies are
 ispired to fight beyond their usual mettle. \newline
 
-**Effect:** Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
+**Effect:** Once per round, when your damaging roll exceeds an enemy's defense by 10 or more, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
 
 -   **Tier 1** - A single ally that can see the attack heals 1d4 HP.
 
@@ -2086,7 +2072,7 @@ blinding powder. Whatever the source and whatever the effect, your
 enemies cower before your legendary attack. \newline
 
 **Effect:** Choose one bane that you can invoke and that has a duration of "resist
-ends". When a target makes a resist roll to shake off your invocation of
+ends". When a target uses the Resist action to shake off your invocation of
 the chosen bane, they roll two d20s and use the lower die.
 
 ## Reactionary Berserker
@@ -2140,8 +2126,7 @@ this feat.
 **Description:** Whether through luck, extraordinary will, or exceptional courage, you
 are able to shake off banes quicker than others. \newline
 
-**Effect:** Any time you make a Resist roll, you have Advantage on the d20 roll
-(roll 2 d20 and keep the higher, contrary to major action rolls)
+**Effect:** Any time you take the Resist action, you roll the d20 twice and keep the higher result.
 
 ## Ritual Magic (I - III)
 
@@ -2183,7 +2168,7 @@ bane or boon:
 
 -   You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.
 -   You gain the following additional option to choose from when empowering your invocations with ritual magic:
-    -   Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot disrupt the boon through use of a focus action (Though the dispel bane still works).
+    -   Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (Though the dispel bane still works).
     -   Targets may not make resist rolls against a bane for one minute after it is invokes.
 
 **Tier 3** - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
@@ -2343,8 +2328,7 @@ to follow your tracks except by extraordinary means.
 deadly attack delivered by you is exceptionally vicious. \newline
 
 **Effect:** Any time you roll a natural 20 on the d20 for an attack action roll, you
-roll twice on the subsequent re-roll of the d20 and take the higher
-result.
+roll twice on all subsequent d20 re-rolls and take the higher result.
 
 ## Wealthy
 
@@ -3739,7 +3723,7 @@ Choose a single bane or boon which uses the same attribute that you used to invo
 **Hindering:** Creatures move at half speed when travelling within the barrier.
 **Impassable:** Creatures and objects cannot move through the barrier.
 **Baneful:** Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
-**Mobile:** You may spend a standard action to move the barrier up to 30 feet.
+**Mobile:** You may spend a major action to move the barrier up to 30 feet.
 
 
 ## Blindsight
@@ -4786,9 +4770,9 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 \ \
 
-Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed.
+Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed. This roll is not considered an action roll, and thus is not affected by advantage or disadvantage.
 
-Many banes will persist for a longer duration if you fail three resist rolls to shake them off. As such, you should keep a tally of any banes which you to fail resist.
+Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you to fail resist.
 
 ### Minor Actions
 
