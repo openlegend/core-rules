@@ -2326,7 +2326,7 @@ discretion).
 magical ward against detection, or an illusory veil, the effect is the
 same: you are protected from being tracked. \newline
 
-**Effect:** Your travel is veiled by special means that conceals your tracks and any
+**Effect:** Your travel is veiled by special means that conceal your tracks and any
 evidence of your passage even after you are far away. It is impossible
 to follow your tracks except by extraordinary means.
 
