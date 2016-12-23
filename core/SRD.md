@@ -1868,7 +1868,7 @@ initiative rolls.
 makes you deadlier at longer ranges. \newline
 
 **Effect:** Choose a ranged weapon. In your hands, the range of that weapon is
-increased by 5 squares.
+increased by 25 feet.
 
 ## Martial Focus
 
