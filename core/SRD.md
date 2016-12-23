@@ -2341,8 +2341,7 @@ to follow your tracks except by extraordinary means.
 deadly attack delivered by you is exceptionally vicious. \newline
 
 **Effect:** Any time you roll a natural 20 on the d20 for an attack action roll, you
-roll twice on the subsequent re-roll of the d20 and take the higher
-result.
+roll twice on all subsequent d20 re-rolls and take the higher result.
 
 ## Wealthy
 
