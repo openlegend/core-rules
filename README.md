@@ -12,8 +12,14 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2016 / 12 / 21
+-   `Boon Focus` wording adjusted in numerous areas, changing references from multi-target to non-single target. Extra text was added to tier 1 to address power level restrictions.
+-   Added Boon: `Summon Creature` ([view](http://www.openlegendrpg.com/boons#summon_creature))
+-   Clarified that only _damaging attacks_ qualify for bane application when exceeding target defenses by 10 or more
+-   Feats reordered alphabetically
+
 #### 2016 / 12 / 19
--   Renamed `Aid` boon to `Bolster` and changed it's duration to `Sustain Persists` to accomodate ongoing augmentations that longer than short bursts (formerly `Aid` only lasted 1 round)
+-   Renamed `Aid` boon to `Bolster` and changed it's duration to `Sustain Persists` to accomodate ongoing augmentations that should last for more than just a short one round burst (formerly `Aid` only lasted 1 round)
 -   Reorder Character Creation steps so that `Description` comes first
 -   Add `Free Actions` to combat section and explain how they work
 -   Clarify that banes do not stack, only one instance of a given bane can be on a target at a given time
