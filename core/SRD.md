@@ -1917,19 +1917,19 @@ exceptional cases can cause you to lose your mark.
 
 -   **Tier 1**:
     -   Alteration 4
-    -   Alternate Form
+    -   Deception 3
 
 **Description:** You have honed your shapeshifting abilities to be able to not only
 change your form, but to even imitate specific creatures. Your powers
 may stem from studying the arts of deceptive magic, from a gene
 mutation, or even from innate extraordinary abilities. \newline
 
-**Effect:** When you use the alternate form feat, you may take the features of a
+**Effect:** When you use the Shapeshift boon, you may take on the features of a
 specific creature. For example, instead of merely transforming into an
 elf, you can assume the guise of Galdion the elven king. The disguise is
 near perfect for those examining you visually. If your behavior or other
 signs provide reasonable suspicion, an onlooker can attempt a Perception
-check with a Challenge Rating equal to 10 + twice your Alteration or
+check with a Challenge Rating equal to 10 + triple your Alteration or
 Deception score, whichever is higher. If they succeed, they will
 recognize your disguise.
 
