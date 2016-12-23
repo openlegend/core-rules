@@ -3736,7 +3736,7 @@ Choose a single bane or boon which uses the same attribute that you used to invo
 **Hindering:** Creatures move at half speed when travelling within the barrier.
 **Impassable:** Creatures and objects cannot move through the barrier.
 **Baneful:** Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
-**Mobile:** You may spend a standard action to move the barrier up to 30 feet.
+**Mobile:** You may spend a major action to move the barrier up to 30 feet.
 
 
 ## Blindsight
