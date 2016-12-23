@@ -12,6 +12,9 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2016 / 12 / 22
+-   `Intimidated` bane renamed to `Provoked` and reordered alphabetically.
+
 #### 2016 / 12 / 21
 -   `Boon Focus` wording adjusted in numerous areas, changing references from multi-target to non-single target. Extra text was added to tier 1 to address power level restrictions.
 -   Added Boon: `Summon Creature` ([view](http://www.openlegendrpg.com/boons#summon_creature))
