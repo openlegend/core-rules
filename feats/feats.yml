@@ -1055,25 +1055,6 @@
     <li><strong>Influence 9</strong> - 50 Targets</li>
     </ul>
 - !
-  name: Heavy Weapon Master
-  prerequisites:
-    tier1:
-      Attribute:
-      - Agility: 4
-      Attribute:
-      - Might: 5
-  tags:
-  - Combat
-  - Physical
-  - Agility
-  - Might
-  cost:
-  - 3
-  description: |
-    Due to your strength and training, you are able to wield exceptionally heavy weapons with ease.
-  effect: |
-    You can wield two-handed melee weapons in one hand. When you do, you still gain the usual advantage granted by two-handed weapons.
-- !
   name: Hospitaler
   prerequisites:
     tier1:
