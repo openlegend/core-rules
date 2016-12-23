@@ -1844,11 +1844,11 @@ heal from (see Chapter 6: Combat).
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility 2
--   **Tier 2**: Agility 3
--   **Tier 3**: Agility 4
--   **Tier 4**: Agility 5
--   **Tier 5**: Agility 6
+-   **Tier 1**: Agility or Prescience 2
+-   **Tier 2**: Agility or Prescience 3
+-   **Tier 3**: Agility or Prescience 4
+-   **Tier 4**: Agility or Prescience 5
+-   **Tier 5**: Agility or Prescience 6
 
 **Description:** You are always ready for danger, allowing you to easily get the drop on
 your foes. \newline
