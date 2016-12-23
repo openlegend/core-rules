@@ -1446,8 +1446,6 @@ type, you gain resistance to the attack as follows:
 -   **Tier 3** - Your defense scores are increased by 9 against the chosen energy type.
 -   **Tier 4** - You are immune to damage from attacks of the chosen energy type.
 
-**Special:** You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
-
 ## Entranced Berserker
 
 **Cost:** 3 points
