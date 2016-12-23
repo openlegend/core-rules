@@ -1955,9 +1955,9 @@ creature more than once.
 
 The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level. \newline
 
-**Example:** Vax the Deathbringer has Multi Attack Specialist (Tier VI). He declares
-that he will be making three attacks this round. Therefore, all of his
-attacks suffer disadvantage 3 (3 x 3 = 9, minus 6 for feat tier 6). His
+**Example:** Vax the Deathbringer has Multi Attack Specialist (Tier III). He declares
+that he will be making three attacks this round (two additional attacks). Therefore, all of his
+attacks suffer disadvantage 3 (3 x 2 = 6, minus 3 for feat tier 3). His
 first attack is a necromantic burst targeting a 10'-square. Because of
 the area of effect, Vax suffers an additional disadvantage 2, making his
 total disadvantage for that attack 5. For his second attack, Vax casts a
