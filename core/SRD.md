@@ -2504,10 +2504,10 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 | Weapon | Wealth Level | Properties | Banes |
 | :- | :- | :--- | :- |
-| Crossbow | 2 | Two-handed, Range 50, Precise | Slowed |
-| Hand Crossbow | 2 | One-handed, Range 35, Precise, Swift 1 | Slowed |
-| Longbow | 2 | Two-handed, Range 100, Precise | Slowed |
-| Shortbow | 1 | Two-handed, Range 50, Precise, Swift 1 | Slowed |
+| Crossbow | 2 | Two-handed, Range 50', Precise | Slowed |
+| Hand Crossbow | 2 | One-handed, Range 35', Precise, Swift 1 | Slowed |
+| Longbow | 2 | Two-handed, Range 100', Precise | Slowed |
+| Shortbow | 1 | Two-handed, Range 50', Precise, Swift 1 | Slowed |
 
 
 ## Armor
