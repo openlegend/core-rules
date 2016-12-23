@@ -2513,7 +2513,7 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 ## Armor
 
 
-Armor reduces or negates the damage that your character would suffer from attacks by adding to your evasion and toughness defense scores. The Armor table summarizes the following properties of each type of armor:
+Armor provides a bonus to your evasion score, thus reducing or negating the damage that you would suffer from many types of attacks. The Armor table summarizes the following properties of each type of armor:
 
 **Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
 
@@ -2530,7 +2530,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 
 \SpanningTable[tbp]
 
-| Armor | Wealth Level | Required Fortitude | Heavy | Defense Bonus | Speed Penalty |
+| Armor | Wealth Level | Required Might | Heavy | Defense Bonus | Speed Penalty |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Small Shield^ | 1 | 1 | no | 1 | 0 |
 | Large Shield^ | 1 | 3 | yes | 2 | 0 |
@@ -2542,7 +2542,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 | Plate Mail | 3 | 5 | yes | 7 | 10’ |
 | Elven Plate Mail | 4 | 3 | yes | 7 | 5’ |
 
-**^** Grants advantage when using the defend or deflect actions.
+**^** Grants advantage 1 when using the defend action.
 
 
 ## Adventuring Gear
