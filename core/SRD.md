@@ -2170,12 +2170,12 @@ follows:
 bane or boon:
 
 -   Increase the range of the effect as follows:
--   Attribute 5 = 500ft
--   -   Attribute 6 = 1/2 mile
--   -   Attribute 7 = 1 mile
--   -   Attribute 8 = 10 miles
--   -   Attribute 9 = 100 miles
--   -   Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).
+    -   Attribute 5 = 500ft
+    -   Attribute 6 = 1/2 mile
+    -   Attribute 7 = 1 mile
+    -   Attribute 8 = 10 miles
+    -   Attribute 9 = 100 miles
+-   Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).
 -   For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.
 
 **Tier 2** - You gain the following abilities:
@@ -2190,7 +2190,7 @@ bane or boon:
 -   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Boon entry that follows).
 -   **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Dispel Bane entry that follows).
 -   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.
--   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains special immunity to it.
+-   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.
 
 ## Silencing Strike
 
