@@ -2324,9 +2324,9 @@ discretion).
 
 **Description:** Whether this power manifests itself as vines that grow in your wake, a
 magical ward against detection, or an illusory veil, the effect is the
-same: you are extraordinarily protected from being tracked. \newline
+same: you are protected from being tracked. \newline
 
-**Effect:** Your travel is veiled by magic that conceals your tracks and any
+**Effect:** Your travel is veiled by special means that conceals your tracks and any
 evidence of your passage even after you are far away. It is impossible
 to follow your tracks except by extraordinary means.
 
@@ -3619,7 +3619,7 @@ Below is a complete list of boons available to any character that meets the Powe
 \
 **Attributes:** Alteration, Movement \newline
 
-**Description:** You are able to extraordinarily absorb an object into your body through
+**Description:** You are able to absorb an object into your body through
 such means as the mutation or alteration of your body (moving muscles
 and ligaments aside to make room for it) or by creating an
 extradimensional space to hide it. \newline
@@ -4270,7 +4270,7 @@ Your minion cannot act on the turn that it is summoned. On each of your followin
 \
 **Attributes:** Movement \newline
 
-**Description:** You reach out and extraordinarily control an unattended inanimate object. \newline
+**Description:** You reach out with extraordinary power and manipulate an unattended inanimate object. \newline
 
 **Effect:** Immediately upon invoking the boon, and again each round when you
 sustain the boon, you may move the target object up to 30'. As part of
@@ -4401,7 +4401,7 @@ persists until some other effect would cancel it.
 \
 **Attributes:** Prescience \newline
 
-**Description:** You are able to extraordinarily perceive things through impediments that
+**Description:** You are able to perceive things through impediments that
 would block or deceive normal sight, including darkness, illusions, and
 even the barrier between alternate planes of reality. \newline
 
