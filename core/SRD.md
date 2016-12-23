@@ -1816,7 +1816,7 @@ chosen sphere.
 you can devastate your foes with an expertly placed attack when you
 catch them off guard. \newline
 
-**Effect:** Your attacks are considered lethal strikes whenever you fulfill one of
+**Effect:** Your attacks are considered lethal strikes whenever you fulfill *one* of
 the following conditions:
 
 -   Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
