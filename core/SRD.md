@@ -2418,7 +2418,7 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
 | 9 | emperor| a castle, an army of 50,000 |
 
-
+**The Rule of Common Sense**. Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can’t buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
 ### Gaining Wealth
 
