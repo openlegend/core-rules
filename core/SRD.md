@@ -3303,7 +3303,7 @@ who is convinced by the illusion. Any creatures with a Resolve defense
 score less than or equal to your roll will believe the phantasm to be
 real and will react accordingly. Those with a higher Resolve score will
 notice that their senses are being deceived somehow. Creatures who are
-convinced by the phantasm can use the resist action as normal in order
+convinced by the phantasm can use the Resist action as normal in order
 to attempt to shake off the bane. If successful, they are no longer
 deceived by the illusion.
 
