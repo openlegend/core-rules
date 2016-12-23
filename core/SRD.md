@@ -4785,9 +4785,9 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 \ \
 
-Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed.
+Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed. This roll is not considered an action roll, and thus is not affected by advantage or disadvantage.
 
-Many banes will persist for a longer duration if you fail three resist rolls to shake them off. As such, you should keep a tally of any banes which you to fail resist.
+Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you to fail resist.
 
 ### Minor Actions
 
