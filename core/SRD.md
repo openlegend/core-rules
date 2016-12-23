@@ -2026,11 +2026,7 @@ Specialist feat. Your invocation automatically succeeds.
 \
 **Prerequisites:**
 
--   **Tier 1**: Any Extraordinary 3
--   **Tier 2**: Any Extraordinary 5
--   **Tier 3**: Any Extraordinary 7
--   **Tier 4**: Any Extraordinary 8
--   **Tier 5**: Any Extraordinary 9
+-   **Tier 1 - 5**: None
 
 **Description:** You are a master of invoking boons for more than one target. \newline
 
