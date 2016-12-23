@@ -1549,7 +1549,7 @@
   description: |
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
-    Choose one bane that you can invoke and that has a duration of "resist ends". When a target makes uses the Resist action to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
+    Choose one bane that you can invoke and that has a duration of "resist ends". When a target uses the Resist action to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
 - !
   name: Reactionary Berserker
   prerequisites:
