@@ -1559,7 +1559,9 @@ sized object in your possession.
 \
 **Prerequisites:**
 
--   **Tier 1**: Perception 5
+-   **Tier 1**:
+    -   Agility 5
+    -   Perception 5
 
 **Description:** Your tracking expertise is so great that you can move at a normal pace
 and still follow a trail. \newline
