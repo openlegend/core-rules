@@ -1841,9 +1841,9 @@
   cost:
   - 1
   description: |
-    Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are extraordinarily protected from being tracked.
+    Whether this power manifests itself as vines that grow in your wake, a magical ward against detection, or an illusory veil, the effect is the same: you are protected from being tracked.
   effect: |
-    Your travel is veiled by magic that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.
+    Your travel is veiled special means that conceals your tracks and any evidence of your passage even after you are far away. It is impossible to follow your tracks except by extraordinary means.
 - !
   name: Vicious Strike
   prerequisites:
