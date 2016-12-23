@@ -1857,7 +1857,7 @@
   description: |
     Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
   effect: |
-    Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on the subsequent re-roll of the d20 and take the higher result.
+    Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on all subsequent d20 re-rolls and take the higher result.
 - !
   name: Wealthy
   prerequisites:
