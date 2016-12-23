@@ -2033,20 +2033,6 @@ Specialist feat. Your invocation automatically succeeds.
 **Effect:** For each tier of this feat, you reduce the disadvantage penalty
 associated with invoking boons for multiple targets by 1.
 
-## Overpowering Strike
-
-**Cost:** 2 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Might 4
-
-**Description:** The sheer force of your attacks is so great that you send opponents
-flying. \newline
-
-**Effect:** Each time you deal damage using a weapon with the forceful property, you
-can choose to push the target five feet away from you.
-
 ## Natural Defense (I - III)
 
 **Cost:** 2 points
@@ -2069,6 +2055,20 @@ feat:
 -   **Tier 1** - +3 armor bonus
 -   **Tier 2** - +5 armor bonus
 -   **Tier 3** - +7 armor bonus
+
+## Overpowering Strike
+
+**Cost:** 2 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Might 4
+
+**Description:** The sheer force of your attacks is so great that you send opponents
+flying. \newline
+
+**Effect:** Each time you deal damage using a weapon with the forceful property, you
+can choose to push the target five feet away from you.
 
 ## Potent Bane
 
