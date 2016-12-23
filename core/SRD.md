@@ -2913,13 +2913,13 @@ normal function until they rest. \newline
 this bane is inflicted, if it is already in effect on the target, the
 severity escalates by one level.
 
--   Level 1 - The target has Disadvantage 1 on all non-attack  action rolls.
+-   Level 1 - The target has Disadvantage 1 on all non-attack action rolls.
 
 -   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
 
 -   Level 3 - The target has Disadvantage 1 on all attack rolls.
 
--   Level 4 - The target is affected by the slowed bane, reducing it's speed to 2. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
+-   Level 4 - The target is affected by the slowed bane, reducing it's speed to 10'. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
 
 -   Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.
 
