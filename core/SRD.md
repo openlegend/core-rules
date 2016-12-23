@@ -1076,7 +1076,8 @@ with access to a Power Level 6 boon.
 
 You may acquire this feat multiple times. Each time, select a new boon. \newline
 
-**Special:** If you ever meet the attribute prerequisite for the chosen
+**Special:** Note that this feat can give access to high-powered boons with a potential for very dramatic impact on the storyline of a game. As such, using this feat to access a boon of Power Level 6 or higher should be approved by the GM before using it in a game.
+If you ever meet the attribute prerequisite for the chosen
 boon, you may choose at that time to lose this feat and regain the feat
 points spent. Re-allocate them as you choose.
 
