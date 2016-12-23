@@ -1592,7 +1592,9 @@ this feat you possess.
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility, Fortitiude, or Movement 2
+-   **Tier 1**: Agility 4, Fortitiude 4, or Movement 2
+-   **Tier 2**: Agility 5, Fortitiude 5, or Movement 4
+-   **Tier 2**: Agility 7, Fortitiude 7, or Movement 6
 
 **Description:** Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. \newline
 
