@@ -1677,20 +1677,6 @@ disadvantage on your action roll.
 -   **Influence 8** - 10 Targets
 -   **Influence 9** - 50 Targets
 
-## Heavy Weapon Master
-
-**Cost:** 3 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Might 5
-
-**Description:** Due to your strength and training, you are able to wield exceptionally
-heavy weapons with ease. \newline
-
-**Effect:** You can wield two-handed melee weapons in one hand. When you do, you
-still gain the usual advantage granted by two-handed weapons.
-
 ## Hospitaler
 
 **Cost:** 2 points
