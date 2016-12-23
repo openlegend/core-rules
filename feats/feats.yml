@@ -1176,8 +1176,8 @@
   description: |
     You fight with such bravery, heroism, or bravado that your allies are ispired to fight beyond their usual mettle.
   effect: |
+    Once per round, when your damaging roll exceeds an enemy's defense by 10 or more, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
     <ul>
-    <li>Once per round, when your damaging roll exceeds an enemy's defense by 10 or more, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.</li>
     <li><strong>Tier 1</strong> - A single ally that can see the attack heals 1d4 HP.</li>
     <li><strong>Tier 2</strong> - A number of allies equal to your Presence score who can see the attack heal 1d4 HP.</li>
     <li><strong>Tier 3</strong> - All allies who can see the attack heal 2d4 HP.</li>
