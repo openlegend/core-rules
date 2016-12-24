@@ -2981,9 +2981,7 @@ you to inflict the bane for the next hour.
 **Description:** With a forceful blow, magical gust of wind, or telekinetic push, you
 move your target against its will. \newline
 
-**Effect:** The afflicted target is moved a number of squares equal to the power
-level of the bane divided by 2. The ending square is chosen by the
-attacker.
+**Effect:** The afflicted target is moved a number of feet equal to 5 x (the power level of the bane ÷ 2). The ending location is chosen by the attacker.
 
 ## Immobile
 
