@@ -158,27 +158,36 @@
   name: Attribute Substitution
   prerequisites:
     tier1:
-      Attribute:
-      - Any Social: 4
-      - Any Mental: 4
-      - Any Extraordinary: 4
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
   tags:
   - Any Attribute
   cost:
   - 3
   description: |
-    Your prowess in an extraordinary, mental, or social attribute empowers a physical aspect of your character, allowing you to use that attribute for tasks normally reserved for another attribute.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, as well as an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity.
+    Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity, or a gunman who's deadshot aim is the result of a dark pact.
   effect: |
-    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for the following situations:
+    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for different purposes depending on which tier of the feat you have:
     <ul>
-    <li>Making action rolls</li>
-    <li>Calculating hit points, defenses, and other secondary statistics</li>
-    <li>Meeting feat, bane, and boon prerequisites</li>
-    <li>Other situations at the GM's discretion</li>
+    <li><strong>Tier 1</strong>
+      <ul>
+      <li>Making non-attack action rolls</li>
+      <li>Calculating hit points, defenses, and other secondary statistics</li>
+      <li>Meeting feat, bane, and boon prerequisites</li>
+      <li>Other situations at the GM's discretion</li>
+      </ul>
+    </li>
+    <li><strong>Tier 2</strong>
+      <ul>
+      <li>Making attack action rolls</li>
+      </ul>
     </ul>
-    The relationship formed by your two attributes is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
+    The relationship formed by your two attributes is subject to case-by-case approval by the GM and must be cleared with them first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
   special: |
-    This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or extraordinary, while the substituted attribute must be physical.
+    This feat cannot be purchased to link attributes beyond the initial two (primary and secondary).
 - !
   name: Bane Focus
   prerequisites:

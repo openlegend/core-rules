@@ -895,31 +895,30 @@ Specialization (Tier 4) for Long Sword.
 \
 **Prerequisites:**
 
--   **Tier 1**: Any Social, Any Mental, Any Extraordinary 4
+-   **Tier 1 - 2**: None
 
-**Description:** Your prowess in a extraordinary, mental, or social attribute empowers a
-physical aspect of your character, allowing you to use that attribute
-for tasks normally reserved for another attribute. Examples of Attribute
-Substitution in play include a martial artist who is physically weak but
-capable of using internal chi to throw and disable opponents, as well as
-an anatomical genius who uses their intelligence to make vital strikes
-rather than their dexterity. \newline
+**Description:** Your prowess in an extraordinary, mental, or social attribute is
+linked in a way that empowers another attribute of your character, allowing you
+to use that attribute for tasks normally reserved for another.  Examples of
+Attribute Substitution in play include a martial artist who is physically weak
+but capable of using internal chi to throw and disable opponents, an anatomical
+genius who uses their intelligence to make vital strikes rather than their
+dexterity, or a gunman who's deadshot aim is the result of a dark pact.
 
-**Effect:** When you purchase this feat, you create a permanent link between two
-attributes: one stronger (the primary attribute) and one weaker (the
-dependent attribute). You may use your score in the primary attribute in
-place of the dependent attribute for the following situations:
+**Effect:** When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for different purposes depending on which tier of the feat you have:
 
--   Making action rolls
--   Calculating hit points, defenses, and other secondary statistics
--   Meeting feat, bane, and boon prerequisites
--   Other situations at the GM's discretion
+-   **Tier 1**:
+    -   Making non-attack action rolls
+    -   Calculating hit points, defenses, and other secondary statistics
+    -   Meeting feat, bane, and boon prerequisites
+    -   Other situations at the GM's discretion
 
-The relationship formed by your two attributes is subject to
-case-by-case approval by the GM. It must be logical and consistent with
-the story you are trying to tell. For example, a bard who subsitutes her
-Presence for her Might to represent her dance-based melee fighting style
-would likely not get to use her Presence Score for determining her
+-   **Tier 2**:
+    -   Making attack action rolls
+
+The relationship formed by your two attributes is subject to case-by-case
+approval by the GM and must be cleared with them first. The link must be logical
+and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her
 carrying capacity. Furthermore, the GM should prevent players from
 creating illogical substitutions that are purely aimed at making their
 characters unreasonably powerful. Two examples of proper uses of this
@@ -928,7 +927,7 @@ angles, leverage, and physics to substitute Logic for Might, or a
 gunslinger who channels dark energy, giving her deadshot accuracy and
 substituting Entropy for Agility. \newline
 
-**Special:** This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or extraordinary, while the substituted attribute must be physical.
+**Special:** This feat cannot be purchased to link attributes beyond the initial two (primary and secondary).
 
 ## Bane Focus
 
