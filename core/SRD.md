@@ -3128,7 +3128,7 @@ knowledge, prescience, or other means.
 
 -   **Power Level 6** - You permanently erase or alter the last 5 minutes of the target’s memory. The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did). Multiple uses of this bane progressively erase consecutive 5 minute increments.
 
--   **Power Level 8** - Instead of the immediate past, you can eraseor alter memories from any time.
+-   **Power Level 8** - Instead of the immediate past, you can erase or alter memories from any time.
 
 
 **Special:** When you target an enemy with this bane and your action roll fails to
