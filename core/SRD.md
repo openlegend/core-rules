@@ -3150,7 +3150,8 @@ attempts of this bane from you for the next 24 hours.
 **Description:** Fortune tellers, psychics, and mentalists all use mind dredge to peer
 into the minds of others. \newline
 
-**Effect:** -   **Power Level 2** - This power may only target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.
+**Effect:**
+-   **Power Level 2** - This power may only target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.
 
 -   **Power Level 4** - This power may target creatures of any intelligence. You gain access to the target’s current thoughts.
 
@@ -3674,7 +3675,8 @@ creator.
 **Description:** You peer into the future to gain insight into a course of action, an
 event, a person, or a place. \newline
 
-**Effect:** -   **Power Level 1** - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+**Effect:**
+-   **Power Level 1** - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
 -   **Power Level 3** - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
@@ -3849,7 +3851,7 @@ character. Only the character invoking the boon can see the auras.
 **Description:** The target is propelled by magical force through the air, with
 progressively improving speed and agility. \newline
 
-**Effect:** -
+**Effect:**
 
 -   **Power Level 5** - The target gains a flight speed of 10’ with low maneuverability.
 
@@ -3873,7 +3875,8 @@ plummet to the ground immediately.
 
 **Description:** You create something from nothing.
 
-**Effect:** -   **Power Level 3** - You can create simple non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour. \newline
+**Effect:**
+-   **Power Level 3** - You can create simple non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour. \newline
 
 -   **Power Level 7** - You can create organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. The invocation time for this application is 8 hours.
 
@@ -4297,7 +4300,8 @@ the language of your target.
 stepping into an intermediate realm, projecting yourself magically, or
 other similar means. \newline
 
-**Effect:** -   **Power Level 3** - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
+**Effect:**
+-   **Power Level 3** - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
 
 -   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see. If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect).
 
