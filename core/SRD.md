@@ -3247,7 +3247,7 @@ illusion.
 
 Your Influence attribute score determines the maximum area that your
 phantasm can cover as follows. The dimensions are depth, width, and
-height (all squares must touch but can be in any shape,pattern)
+height (all squares must touch but can be in any shape/pattern)
 
 -   Influence 1 - 5' x 5' x 5'
 -   Influence 3 - 10' x 10' x 10'
