@@ -1313,7 +1313,7 @@ them off their feet completely. \newline
 
 **Effect:** Any time that you deal damage to an enemy, in addition to pushing them 5
 feet (if you choose) from the Overpowering Strike feat, you can also
-knock them down in the square where the forced move ends; the target
+knock them down in the space where the forced move ends; the target
 suffers the effects of the knockdown bane.
 
 ## Death Blow (I – III)
