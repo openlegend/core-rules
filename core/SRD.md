@@ -3076,49 +3076,6 @@ break free from the effect. When your target succeeds at a resist roll
 against this bane, they become to immune to all subsequent attempts by
 you to inflict the bane for the next hour.
 
-## Intimidated
-
-**Duration:** Resist ends (Fail x 3 = 1 minute)
-\
-**Power Level:** 4, 5, 6, 7, 8, 9
-\
-**Attack Attributes:** Creation, Deception, Energy, Influence, Might, Persuasion, Presence
-\
-**Attack:**
-
--   Creation vs. Resolve
--   Deception vs. Resolve
--   Energy vs. Resolve
--   Influence vs. Resolve
--   Might vs. Resolve
--   Persuasion vs. Resolve
--   Presence vs. Resolve
-
-**Description:** Through a display of awe-inspiring force, intimidation, or leadership,
-you command attention as the greatest threat, causing others to fear to
-attack your allies. \newline
-
-**Effect:** Any attacks made by the target that do not include you as a target
-suffer disadvantage. If the same target is affected by this bane from
-multiple sources, as long as their attack includes one of those who
-targeted them, they are not affected by the penalty. Unlike other banes,
-your damaging attack against one target can trigger this bane in a
-different target, provided your roll is equal or greater to their
-Resolve defense (that is, by striking one foe, you can intimidate
-another).
-
--   **Power Level 4** - The target suffers disadvantage 1 on attacks that do not include you.
-
--   **Power Level 5** - The target suffers disadvantage 2 on attacks that do not include you.
-
--   **Power Level 6** - The target suffers disadvantage 3 on attacks that do not include you.
-
--   **Power Level 7** - The target suffers disadvantage 4 on attacks that do not include you.
-
--   **Power Level 8** - The target suffers disadvantage 5 on attacks that do not include you.
-
--   **Power Level 9** - The target suffers disadvantage 6 on attacks that do not include you.
-
 
 ## Knockdown
 
@@ -3339,6 +3296,49 @@ new creature.
 -   **Power Level 8** - Polymorph a creature into another creature to quadruple or one-quarter its original size. Alternatively, transform the target into an object of its original size. The duration is 1 hour per Alteration attribute point.
 
 -   **Power Level 9** - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The duration is permanent.
+
+## Provoked
+
+**Duration:** Resist ends (Fail x 3 = 1 minute)
+\
+**Power Level:** 4, 5, 6, 7, 8, 9
+\
+**Attack Attributes:** Creation, Deception, Energy, Influence, Might, Persuasion, Presence
+\
+**Attack:**
+
+-   Creation vs. Resolve
+-   Deception vs. Resolve
+-   Energy vs. Resolve
+-   Influence vs. Resolve
+-   Might vs. Resolve
+-   Persuasion vs. Resolve
+-   Presence vs. Resolve
+
+**Description:** Through a display of awe-inspiring force, intimidation, or leadership,
+you command attention as the greatest threat, causing others to fear to
+attack your allies. \newline
+
+**Effect:** Any attacks made by the target that do not include you as a target
+suffer disadvantage. If the same target is affected by this bane from
+multiple sources, as long as their attack includes one of those who
+targeted them, they are not affected by the penalty. Unlike other banes,
+your damaging attack against one target can trigger this bane in a
+different target, provided your roll is equal or greater to their
+Resolve defense (that is, by striking one foe, you can provoke
+another).
+
+-   **Power Level 4** - The target suffers disadvantage 1 on attacks that do not include you.
+
+-   **Power Level 5** - The target suffers disadvantage 2 on attacks that do not include you.
+
+-   **Power Level 6** - The target suffers disadvantage 3 on attacks that do not include you.
+
+-   **Power Level 7** - The target suffers disadvantage 4 on attacks that do not include you.
+
+-   **Power Level 8** - The target suffers disadvantage 5 on attacks that do not include you.
+
+-   **Power Level 9** - The target suffers disadvantage 6 on attacks that do not include you.
 
 ## Scrying
 
