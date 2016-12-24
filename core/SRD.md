@@ -1027,7 +1027,7 @@ melee combat. \newline
 **Effect:** You may make an additional opportunity attack per round for each tier of
 this feat your possess. You can only make one opportunity attack per
 triggering action (e.g., you cannot make multiple attacks against the
-same foe when they leave your threatened square).
+same foe when they leave your threatened space).
 
 ## Berserker
 
