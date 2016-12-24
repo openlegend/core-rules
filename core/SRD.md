@@ -991,7 +991,7 @@ blows with your defensive strikes. \newline
 
 **Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Slowed bane. If the attack hits
-and the target has already moved more than 2 squares, the remainder of
+and the target has already moved more than 10', the remainder of
 their movement is cancelled until the start of their next turn.
 
 ## Battlefield Punisher - Stunned
