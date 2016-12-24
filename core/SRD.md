@@ -2732,7 +2732,7 @@ a brief window of time in which the target can attempt to resist this
 extinguishing force, but once that window closes, the death is permanent
 and can only be reversed with resurrection magic. When the bane is
 initially applied, the target is immobile (can’t move from their current
-square) and unconscious. They have disadvantage 5 on all perception
+space) and unconscious. They have disadvantage 5 on all perception
 rolls, and are incapable of moving. As a result of being completely
 incapable of movement, an incapacitated character can be the victim of a
 finishing blow. \newline
