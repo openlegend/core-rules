@@ -891,7 +891,7 @@ Specialization (Tier 4) for Long Sword.
 
 ## Attribute Substitution
 
-**Cost:** 3 points
+**Cost:** 2 points
 \
 **Prerequisites:**
 
