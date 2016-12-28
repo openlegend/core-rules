@@ -3607,7 +3607,7 @@ Below is a complete list of boons available to any character that meets the Powe
 
 ## Absorb Object
 
-**Duration:** Instantaneous
+**Duration:** Permanent
 \
 **Invocation Time:** 1 Major Action
 \
