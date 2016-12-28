@@ -1,4 +1,5 @@
-# Introduction & Character Creation
+# Introduction & Character \
+Creation
 
 Most meaningful tasks that a character attempts in *Open Legend* will be determined by the roll of dice.
 
@@ -12,14 +13,15 @@ Add all of the dice together to find your total action roll. If your total is eq
 | :-: |
 | Roll 1d20 + attribute dice (all dice explode) |
 
-\NextTableColumns{OCT{.50}OCT{.50}}
+\NextTableColumns{OCT{.40}OCT{.60}}
 
-| If the action roll... | then the result is... |
-| :- | :-- |
-| equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | the player succeeds with a twist. \
- - OR - \
-*the player fails but the story progresses*. (GM’s Choice) |
+| **If the action roll...** | **then the result is...** |
+| :- | :--: |
+| equals or exceeds Challenge Rating | the player succeeds. |
+| is less than Challenge Rating | the player succeeds with a twist. \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  - *OR* - \
+\ \ \ the player fails but the story \
+\ \ \ \ \ \ progresses. *(GM's Choice)* |
 
 # Character Creation
 
@@ -41,7 +43,11 @@ At the GM's discretion, you may choose to be even smaller or larger than the siz
 
 **A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
 
-\newpage
+\ \
+
+\ \
+
+\ \
 
 +++ {.CalloutInformation}
 
@@ -55,6 +61,8 @@ Sir Thomas Tuckburrough served as an assassin for the local thieves guild until 
 
 Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.
 +++
+
+\newpage
 
 ## Step 2: Choose Attributes
 
@@ -541,6 +549,8 @@ As the legend you are creating unfolds and grows in danger and magnitude, your c
 
 Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters, NPCs, and monsters. Until you reach 5th level, the maximum attribute score is 5. From levels 6 to 9, the maximum is equal to your level.
 
+\newpage
+
 #### Player Character Level Advancement
 
 \ \
@@ -615,21 +625,19 @@ If you look back to the Core Mechanic, you can see that a simple failure is not 
 
 \NextTableColumns{OCT{1}}
 
-| The Action Roll  |
-| - |
+| THE ACTION ROLL |
+| :-: |
 | Roll 1d20 + attribute dice (all dice explode) |
 
-\NextTableColumns{OCT{.50}OCT{.50}}
+\NextTableColumns{OCT{.40}OCT{.60}}
 
-| If the action roll... | then the result is... |
-| :- | :- |
-| equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | the player succeeds with a \
-twist. \
-**- OR -** \
-the player fails, but the story \
-progresses. \
-*(GM’s Choice)* |
+| **If the action roll...** | **then the result is...** |
+| :- | :--: |
+| equals or exceeds Challenge Rating | the player succeeds. |
+| is less than Challenge Rating | the player succeeds with a twist. \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  - *OR* - \
+\ \ \ the player fails but the story \
+\ \ \ \ \ \ progresses. *(GM's Choice)* |
 
 
 ### Keep It Simple: Every Roll Matters for the GM
@@ -4213,6 +4221,8 @@ swimming in combat, suffer disadvantage on relevant action rolls.
 
 **Effect:** You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: agility, fortitude, might, perception, energy, and entropy. Your minion's attributes do not affect their hit points or defenses.
 
+\NextTableColumns{OCT{.25}OCT{.25}OCT{.25}OCT{.25}}
+
 | Power Level | Hit Points | Defenses | Attributes |
 |:-----------:|:----------:|:--------:|:----------:|
 | 4 | 4 | 11 | 2, 1, 1 |
@@ -4953,8 +4963,6 @@ The simple build option is useful when you need to come up with statistics on th
 
 Use the NPC Simple Build Table to determine the monster’s most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster’s attacks and actions, and then choose as many secondary attributes as you need in order to define the monster’s other capabilities.
 
-\newpage
-
 #### NPC Simple Build
 
 \ \
@@ -5066,13 +5074,6 @@ The build rules just explained help you create individual monsters or NPCs for t
 When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn’t present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
 
 Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
-
-
-\newpage
-
-#### Encounter Difficulty
-
-\ \
 
 \NextTableColumns{OLT{.40}OCT{.60}}
 
