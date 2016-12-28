@@ -905,9 +905,9 @@ but capable of using internal chi to throw and disable opponents, an anatomical
 genius who uses their intelligence to make vital strikes rather than their
 dexterity, or a gunman who's deadshot aim is the result of a dark pact.
 
-**Effect:** When you purchase this feat, you create a permanent link between two 
-attributes: one stronger (the primary attribute) and one weaker (the dependent 
-attribute). You may use your score in the primary attribute in place of the dependent 
+**Effect:** When you purchase this feat, you create a permanent link between two
+attributes: one stronger (the primary attribute) and one weaker (the dependent
+attribute). You may use your score in the primary attribute in place of the dependent
 attribute for different purposes depending on which tier of the feat you have:
 
 -   **Tier 1**:
@@ -921,8 +921,8 @@ attribute for different purposes depending on which tier of the feat you have:
 
 The relationship formed by your two attributes is subject to case-by-case
 approval by the GM and must be cleared with them first. The link must be logical
-and consistent with the story you are trying to tell. For example, a bard who 
-subsitutes her Presence for her Might to represent her dance-based melee fighting style 
+and consistent with the story you are trying to tell. For example, a bard who
+subsitutes her Presence for her Might to represent her dance-based melee fighting style
 would likely not get to use her Presence Score for determining her
 carrying capacity. Furthermore, the GM should prevent players from
 creating illogical substitutions that are purely aimed at making their
