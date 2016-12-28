@@ -3366,10 +3366,10 @@ unseen presence in the area (regardless of whether or not you succeed at
 the roll). Certain creatures may be able to identify your scrying if
 they are familiar with such powers.
 
--   **20** - 1 mile or less
--   **22** - 100 miles or less
--   **24** - More than 100 miles, but on the same dimension or plane of reality
--   **28** - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).
+-   **CR 20** - 1 mile or less
+-   **CR 22** - 100 miles or less
+-   **CR 24** - More than 100 miles, but on the same dimension or plane of reality
+-   **CR 28** - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).
 
 
 **Special:** When you successfully invoke this bane, at the end of it's duration, you

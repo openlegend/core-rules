@@ -576,10 +576,10 @@
   effect: |
     You can scry on a person or area that you are familiar with. The Challenge Rating to succeed at this scrying is based on the distance between you and the target. If successful, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your scrying if they are familiar with such powers.
     <ul>
-    <li><strong>20</strong> - 1 mile or less</li>
-    <li><strong>22</strong> - 100 miles or less</li>
-    <li><strong>24</strong> - More than 100 miles, but on the same dimension or plane of reality</li>
-    <li><strong>28</strong> - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).</li>
+    <li><strong>CR 20</strong> - 1 mile or less</li>
+    <li><strong>CR 22</strong> - 100 miles or less</li>
+    <li><strong>CR 24</strong> - More than 100 miles, but on the same dimension or plane of reality</li>
+    <li><strong>CR 28</strong> - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).</li>
     </ul>
   special: |
     When you successfully invoke this bane, at the end of it's duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.
