@@ -281,7 +281,13 @@
   description: |
     With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will.
   effect: |
-    The afflicted target is moved a number of feet equal to 5 x (the power level of the bane ÷ 2). The ending location is chosen by the attacker.
+    The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.
+    <ul>
+    <li><strong>Power Level 2</strong> - The target is moved 5'.</li>
+    <li><strong>Power Level 4</strong> - The target is moved 10'.</li>
+    <li><strong>Power Level 6</strong> - The target is moved 15'.</li>
+    <li><strong>Power Level 8</strong> - The target is moved 20'.</li>
+    </ul>
 - !
   name: Immobile
   tags:
