@@ -2981,7 +2981,15 @@ you to inflict the bane for the next hour.
 **Description:** With a forceful blow, magical gust of wind, or telekinetic push, you
 move your target against its will. \newline
 
-**Effect:** The afflicted target is moved a number of feet equal to 5 x (the power level of the bane ÷ 2). The ending location is chosen by the attacker.
+**Effect:** The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.
+
+-   **Power Level 2** - The target is moved 5'.
+
+-   **Power Level 4** - The target is moved 10'.
+
+-   **Power Level 6** - The target is moved 15'.
+
+-   **Power Level 8** - The target is moved 20'.
 
 ## Immobile
 
