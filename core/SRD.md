@@ -991,7 +991,7 @@ blows with your defensive strikes. \newline
 
 **Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Slowed bane. If the attack hits
-and the target has already moved more than 2 squares, the remainder of
+and the target has already moved more than 10', the remainder of
 their movement is cancelled until the start of their next turn.
 
 ## Battlefield Punisher - Stunned
@@ -2981,9 +2981,15 @@ you to inflict the bane for the next hour.
 **Description:** With a forceful blow, magical gust of wind, or telekinetic push, you
 move your target against its will. \newline
 
-**Effect:** The afflicted target is moved a number of squares equal to the power
-level of the bane divided by 2. The ending square is chosen by the
-attacker.
+**Effect:** The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.
+
+-   **Power Level 2** - The target is moved 5'.
+
+-   **Power Level 4** - The target is moved 10'.
+
+-   **Power Level 6** - The target is moved 15'.
+
+-   **Power Level 8** - The target is moved 20'.
 
 ## Immobile
 
