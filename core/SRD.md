@@ -3353,7 +3353,7 @@ new creature.
 -   Prescience vs. Resolve (Special)
 
 **Description:** Either through innate extrasensory perception or a special conduit such as a computer terminal, a bubbling
-cauldron, or a crystal ball, you see can view the target from a
+cauldron, or a crystal ball, you can view the target from a
 distance. \newline
 
 **Effect:** You can scry on a person or area that you are familiar with. The
