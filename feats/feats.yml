@@ -321,7 +321,7 @@
   description: |
     Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat.
   effect: |
-    You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened square).
+    You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).
 - !
   name: Berserker
   prerequisites:
@@ -627,7 +627,7 @@
   description: |
     Your relentless blows not only knock your opponents back, but also knock them off their feet completely.
   effect: |
-    Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the square where the forced move ends; the target suffers the effects of the knockdown bane.
+    Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the knockdown bane.
 - !
   name: Death Blow (I – III)
   prerequisites:
