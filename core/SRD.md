@@ -4128,33 +4128,6 @@ an ally. \newline
 
 **Special:** You can dispel even higher level banes, but your roll total must be double the banes normal Power Level. So, a Power Level 9 bane can be dispelled on a roll of 46. This is only possible if the boon is invoked by a dice roll.
 
-## Retributive Barrier
-
-**Duration:** Sustain Persists
-\
-**Invocation Time:** 1 Major Action
-\
-**Power Level:** 4, 5, 6, 7, 8
-\
-**Attributes:** Creation, Energy, Protection \newline
-
-**Description:** You summon a warding barrier of flames, blades, thorns, or similar
-material to damage enemies that dare to approach. \newline
-
-**Effect:** Designate a willing target or a 5' square that is not occupied by an
-enemy. While this boon is active, any enemy that passes within 5' of the
-target takes damage according to the boon's Power Level. Each time this
-boon deals damage, roll a d20. On a 10 or better, the boon persists, on
-a lower roll the power of the boon is expended by the retributive
-attack.
-
--   **Power Level 4** - d4 damage
--   **Power Level 5** - d6 damage
--   **Power Level 6** - d8 damage
--   **Power Level 7** - d10 damage
--   **Power Level 8** - 2d6 damage
-
-
 
 ## Seeing
 
