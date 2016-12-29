@@ -4115,7 +4115,7 @@ cumulative):
 **Attributes:** Creation, Protection \newline
 
 **Description:** Your protective magic cancels all harmful afflictions that are effecting
-an ally. \newline
+your target. \newline
 
 **Effect:** You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon.
 
