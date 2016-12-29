@@ -4709,7 +4709,7 @@ Some boons only possess a single power level, while others can be invoked at mul
 
 \ \
 
-You can assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally gets advantage 1 on that roll.
+You can use your major action to assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally automatically gets advantage 1 on their roll.
 
 #### Take an Extra Move Action
 
