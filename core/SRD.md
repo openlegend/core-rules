@@ -4244,7 +4244,7 @@ Your minion cannot act on the turn that it is summoned. On each of your followin
 \
 **Attributes:** Movement \newline
 
-**Description:** You reach out with extraordinary power and manipulate an unattended inanimate object. \newline
+**Description:** You reach out and extraordinarily control an unattended inanimate object. \newline
 
 **Effect:** Immediately upon invoking the boon, and again each round when you
 sustain the boon, you may move the target object up to 30'. As part of
