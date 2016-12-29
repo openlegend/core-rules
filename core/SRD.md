@@ -913,9 +913,9 @@ but capable of using internal chi to throw and disable opponents, an anatomical
 genius who uses their intelligence to make vital strikes rather than their
 dexterity, or a gunman who's deadshot aim is the result of a dark pact.
 
-**Effect:** When you purchase this feat, you create a permanent link between two 
-attributes: one stronger (the primary attribute) and one weaker (the dependent 
-attribute). You may use your score in the primary attribute in place of the dependent 
+**Effect:** When you purchase this feat, you create a permanent link between two
+attributes: one stronger (the primary attribute) and one weaker (the dependent
+attribute). You may use your score in the primary attribute in place of the dependent
 attribute for different purposes depending on which tier of the feat you have:
 
 -   **Tier 1**:
@@ -929,8 +929,8 @@ attribute for different purposes depending on which tier of the feat you have:
 
 The relationship formed by your two attributes is subject to case-by-case
 approval by the GM and must be cleared with them first. The link must be logical
-and consistent with the story you are trying to tell. For example, a bard who 
-subsitutes her Presence for her Might to represent her dance-based melee fighting style 
+and consistent with the story you are trying to tell. For example, a bard who
+subsitutes her Presence for her Might to represent her dance-based melee fighting style
 would likely not get to use her Presence Score for determining her
 carrying capacity. Furthermore, the GM should prevent players from
 creating illogical substitutions that are purely aimed at making their
@@ -2426,7 +2426,7 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
 | 9 | emperor| a castle, an army of 50,000 |
 
-
+**The Rule of Common Sense**. Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can’t buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
 ### Gaining Wealth
 
@@ -2512,16 +2512,16 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 
 | Weapon | Wealth Level | Properties | Banes |
 | :- | :- | :--- | :- |
-| Crossbow | 2 | Two-handed, Range 50, Precise | Slowed |
-| Hand Crossbow | 2 | One-handed, Range 35, Precise, Swift 1 | Slowed |
-| Longbow | 2 | Two-handed, Range 100, Precise | Slowed |
-| Shortbow | 1 | Two-handed, Range 50, Precise, Swift 1 | Slowed |
+| Crossbow | 2 | Two-handed, Range 50', Precise | Slowed |
+| Hand Crossbow | 2 | One-handed, Range 35', Precise, Swift 1 | Slowed |
+| Longbow | 2 | Two-handed, Range 100', Precise | Slowed |
+| Shortbow | 1 | Two-handed, Range 50', Precise, Swift 1 | Slowed |
 
 
 ## Armor
 
 
-Armor reduces or negates the damage that your character would suffer from attacks by adding to your evasion and toughness defense scores. The Armor table summarizes the following properties of each type of armor:
+Armor provides a bonus to your evasion score, thus reducing or negating the damage that you would suffer from many types of attacks. The Armor table summarizes the following properties of each type of armor:
 
 **Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
 
@@ -2538,7 +2538,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 
 \SpanningTable[tbp]
 
-| Armor | Wealth Level | Required Fortitude | Heavy | Defense Bonus | Speed Penalty |
+| Armor | Wealth Level | Required Might | Heavy | Defense Bonus | Speed Penalty |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Small Shield^ | 1 | 1 | no | 1 | 0 |
 | Large Shield^ | 1 | 3 | yes | 2 | 0 |
@@ -2550,7 +2550,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 | Plate Mail | 3 | 5 | yes | 7 | 10’ |
 | Elven Plate Mail | 4 | 3 | yes | 7 | 5’ |
 
-**^** Grants advantage when using the defend or deflect actions.
+**^** Grants advantage 1 when using the defend action.
 
 
 ## Adventuring Gear
@@ -2579,7 +2579,7 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 
 Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
 
-Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with her Entropy attribute of 5, but won’t be able to invoke the *Insubstantial* boon for themself or their allies until they gains enough experience to increase their Entropy to 7.
+Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with their Entropy attribute of 5, but won’t be able to invoke the *Insubstantial* boon for themself or their allies until they gain enough experience to increase their Entropy to 7.
 
 A list of available banes and boons can be found in this SRD under the [banes section](#banes-list) and [boons section](#boons-list) and a searchable and filterable list of available banes and boons can be found on the [Open Legend Website](http://www.openlegendrpg.com/), respectively.
 
@@ -2873,13 +2873,13 @@ your control. Unlike the charmed bane, characters under the effect of
 domination lose control of their actions. Their minds, however, can
 think freely, leaving them effectively trapped in their own body. They
 cannot take action of any kind (except thought) unless it is ordered by
-you. Every action which you order the afflicted target to
+you.  Every action which the attacker orders the afflicted character to
 perform which is in extreme violation of their nature gives the target a
 Resist roll as a free action to break free from the effect. The attacker
 does not gain special access to the target’s mind and so can only order
-the target to perform actions that they think or know (from prior
-knowledge) that the target is capable of. Lastly, each mental order
-you give to the target is a major action, however the
+the character to perform actions that they think or know (from prior
+knowledge) that the character is capable of. Lastly, each mental order that the attacker
+gives to the target is a major action, however the
 order can be a series of verbal commands like “Attack enemy X unless
 someone comes through the door, in which case flee.”. The dominated
 creature will continue to obey the last mental command they were given
@@ -2921,13 +2921,13 @@ normal function until they rest. \newline
 this bane is inflicted, if it is already in effect on the target, the
 severity escalates by one level.
 
--   Level 1 - The target has Disadvantage 1 on all non-attack  action rolls.
+-   Level 1 - The target has Disadvantage 1 on all non-attack action rolls.
 
 -   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
 
 -   Level 3 - The target has Disadvantage 1 on all attack rolls.
 
--   Level 4 - The target is affected by the slowed bane, reducing it's speed to 2. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
+-   Level 4 - The target is affected by the slowed bane, reducing it's speed to 10'. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
 
 -   Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.
 
@@ -3084,49 +3084,6 @@ break free from the effect. When your target succeeds at a resist roll
 against this bane, they become to immune to all subsequent attempts by
 you to inflict the bane for the next hour.
 
-## Intimidated
-
-**Duration:** Resist ends (Fail x 3 = 1 minute)
-\
-**Power Level:** 4, 5, 6, 7, 8, 9
-\
-**Attack Attributes:** Creation, Deception, Energy, Influence, Might, Persuasion, Presence
-\
-**Attack:**
-
--   Creation vs. Resolve
--   Deception vs. Resolve
--   Energy vs. Resolve
--   Influence vs. Resolve
--   Might vs. Resolve
--   Persuasion vs. Resolve
--   Presence vs. Resolve
-
-**Description:** Through a display of awe-inspiring force, intimidation, or leadership,
-you command attention as the greatest threat, causing others to fear to
-attack your allies. \newline
-
-**Effect:** Any attacks made by the target that do not include you as a target
-suffer disadvantage. If the same target is affected by this bane from
-multiple sources, as long as their attack includes one of those who
-targeted them, they are not affected by the penalty. Unlike other banes,
-your damaging attack against one target can trigger this bane in a
-different target, provided your roll is equal or greater to their
-Resolve defense (that is, by striking one foe, you can intimidate
-another).
-
--   **Power Level 4** - The target suffers disadvantage 1 on attacks that do not include you.
-
--   **Power Level 5** - The target suffers disadvantage 2 on attacks that do not include you.
-
--   **Power Level 6** - The target suffers disadvantage 3 on attacks that do not include you.
-
--   **Power Level 7** - The target suffers disadvantage 4 on attacks that do not include you.
-
--   **Power Level 8** - The target suffers disadvantage 5 on attacks that do not include you.
-
--   **Power Level 9** - The target suffers disadvantage 6 on attacks that do not include you.
-
 
 ## Knockdown
 
@@ -3179,7 +3136,7 @@ knowledge, prescience, or other means.
 
 -   **Power Level 6** - You permanently erase or alter the last 5 minutes of the target’s memory. The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did). Multiple uses of this bane progressively erase consecutive 5 minute increments.
 
--   **Power Level 8** - Instead of the immediate past, you can eraseor alter memories from any time.
+-   **Power Level 8** - Instead of the immediate past, you can erase or alter memories from any time.
 
 
 **Special:** When you target an enemy with this bane and your action roll fails to
@@ -3201,7 +3158,8 @@ attempts of this bane from you for the next 24 hours.
 **Description:** Fortune tellers, psychics, and mentalists all use mind dredge to peer
 into the minds of others. \newline
 
-**Effect:** -   **Power Level 2** - This power may only target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.
+**Effect:**
+-   **Power Level 2** - This power may only target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.
 
 -   **Power Level 4** - This power may target creatures of any intelligence. You gain access to the target’s current thoughts.
 
@@ -3297,7 +3255,7 @@ illusion.
 
 Your Influence attribute score determines the maximum area that your
 phantasm can cover as follows. The dimensions are depth, width, and
-height (all squares must touch but can be in any shape,pattern)
+height (all squares must touch but can be in any shape/pattern)
 
 -   Influence 1 - 5' x 5' x 5'
 -   Influence 3 - 10' x 10' x 10'
@@ -3311,7 +3269,7 @@ who is convinced by the illusion. Any creatures with a Resolve defense
 score less than or equal to your roll will believe the phantasm to be
 real and will react accordingly. Those with a higher Resolve score will
 notice that their senses are being deceived somehow. Creatures who are
-convinced by the phantasm can use the resist action as normal in order
+convinced by the phantasm can use the Resist action as normal in order
 to attempt to shake off the bane. If successful, they are no longer
 deceived by the illusion.
 
@@ -3347,6 +3305,49 @@ new creature.
 -   **Power Level 8** - Polymorph a creature into another creature to quadruple or one-quarter its original size. Alternatively, transform the target into an object of its original size. The duration is 1 hour per Alteration attribute point.
 
 -   **Power Level 9** - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The duration is permanent.
+
+## Provoked
+
+**Duration:** Resist ends (Fail x 3 = 1 minute)
+\
+**Power Level:** 4, 5, 6, 7, 8, 9
+\
+**Attack Attributes:** Creation, Deception, Energy, Influence, Might, Persuasion, Presence
+\
+**Attack:**
+
+-   Creation vs. Resolve
+-   Deception vs. Resolve
+-   Energy vs. Resolve
+-   Influence vs. Resolve
+-   Might vs. Resolve
+-   Persuasion vs. Resolve
+-   Presence vs. Resolve
+
+**Description:** Through a display of awe-inspiring force, intimidation, or leadership,
+you command attention as the greatest threat, causing others to fear to
+attack your allies. \newline
+
+**Effect:** Any attacks made by the target that do not include you as a target
+suffer disadvantage. If the same target is affected by this bane from
+multiple sources, as long as their attack includes one of those who
+targeted them, they are not affected by the penalty. Unlike other banes,
+your damaging attack against one target can trigger this bane in a
+different target, provided your roll is equal or greater to their
+Resolve defense (that is, by striking one foe, you can provoke
+another).
+
+-   **Power Level 4** - The target suffers disadvantage 1 on attacks that do not include you.
+
+-   **Power Level 5** - The target suffers disadvantage 2 on attacks that do not include you.
+
+-   **Power Level 6** - The target suffers disadvantage 3 on attacks that do not include you.
+
+-   **Power Level 7** - The target suffers disadvantage 4 on attacks that do not include you.
+
+-   **Power Level 8** - The target suffers disadvantage 5 on attacks that do not include you.
+
+-   **Power Level 9** - The target suffers disadvantage 6 on attacks that do not include you.
 
 ## Scrying
 
@@ -3614,7 +3615,7 @@ Below is a complete list of boons available to any character that meets the Powe
 
 ## Absorb Object
 
-**Duration:** Instantaneous
+**Duration:** Permanent
 \
 **Invocation Time:** 1 Major Action
 \
@@ -3682,7 +3683,8 @@ creator.
 **Description:** You peer into the future to gain insight into a course of action, an
 event, a person, or a place. \newline
 
-**Effect:** -   **Power Level 1** - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+**Effect:**
+-   **Power Level 1** - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
 -   **Power Level 3** - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
@@ -3711,9 +3713,9 @@ event, a person, or a place. \newline
 
 Choose a single bane or boon which uses the same attribute that you used to invoke Aura. The maximum power level for the chosen bane or boon is one-half the power level of your aura. Your aura radiates the chosen bane or boon as follows:
 
--   If the aura radiates a bane, then the target of the aura is not affected by it. All other creatures (friend or foe) who willingly enter the area of the aura or end their turn within it suffer a bane attack to inflict the chosen bane. No creature may be subject to a bane attack from the same creature's aura more than once per round.
+-   **If the aura radiates a bane,** then the target of the aura is not affected by it. All other creatures (friend or foe) who willingly enter the area of the aura or end their turn within it suffer a bane attack to inflict the chosen bane. No creature may be subject to a bane attack from the same creature's aura more than once per round.
 
--   If the aura radiates a boon, then the target of the aura is also affected by it. The target and all allies who end their turn within the area of the aura automatically gain the chosen boon. Upon leaving the area of the aura, the boon is immediately removed. No creature may gain a boon from the same creature's aura more than once per round.
+-   **If the aura radiates a boon,** then the target of the aura is also affected by it. The target and all allies who end their turn within the area of the aura automatically gain the chosen boon. Upon leaving the area of the aura, the boon is immediately removed. No creature may gain a boon from the same creature's aura more than once per round.
 
 **Special:** This boon may require special attention and adjudication from the GM, as not all banes and boons may be an appropriate fit for an aura. Telekinesis, for example, is not a boon that can be granted to allies and thus does not work well as an aura.
 
@@ -3857,7 +3859,7 @@ character. Only the character invoking the boon can see the auras.
 **Description:** The target is propelled by magical force through the air, with
 progressively improving speed and agility. \newline
 
-**Effect:** -
+**Effect:**
 
 -   **Power Level 5** - The target gains a flight speed of 10’ with low maneuverability.
 
@@ -3881,7 +3883,8 @@ plummet to the ground immediately.
 
 **Description:** You create something from nothing.
 
-**Effect:** -   **Power Level 3** - You can create simple non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour. \newline
+**Effect:**
+-   **Power Level 3** - You can create simple non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour. \newline
 
 -   **Power Level 7** - You can create organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. The invocation time for this application is 8 hours.
 
@@ -4120,7 +4123,7 @@ cumulative):
 **Attributes:** Creation, Protection \newline
 
 **Description:** Your protective magic cancels all harmful afflictions that are effecting
-an ally. \newline
+your target. \newline
 
 **Effect:** You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon.
 
@@ -4167,7 +4170,7 @@ depends on your Prescience score.
 \
 **Invocation Time:** 1 Major Action
 \
-**Power Level:** 3, 4, 5, 6, 7, 8, 9
+**Power Level:** 3, 4, 5, 6, 8, 9
 \
 **Attributes:** Alteration \newline
 
@@ -4177,8 +4180,12 @@ exotic. Common examples of shapeshifting include lyncanthropes (such as
 werewolves), dryads, dopplegangers, and certain types of druids. \newline
 
 **Effect:** You or a willing creature you touch transform into a creature whose
-highest attribute is less than or equal to your Alteration score. All of
-the target's existing extraordinary attribute scores drop to zero, and
+highest attribute is less than or equal to your
+Alteration score. Your Alteration score for the
+ purpose of this feat is limited to your level
+ or 5, whichever is higher.
+All of the target's existing extraordinary
+ attribute scores drop to zero, and
 they acquire the Agility, Fortitude, Might, and Perception attributes of
 the new form. The following limitations apply at Power Level 2, and are
 gradually removed at higher power levels:
@@ -4193,8 +4200,7 @@ These limitations are removed based on the Power Level of the boon.
 -   **Power Level 3** - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.
 -   **Power Level 4** - Shapeshift into a creature between one quarter and quadruple the target's original size.
 -   **Power Level 5** - Gain the flying movement mode of the new form, if applicable.
--   **Power Level 6** - Gain the flying movement mode of the new form, if applicable.
--   **Power Level 7** - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.
+-   **Power Level 6** - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.
 -   **Power Level 8** - Shapeshift into a creature of any size.
 -   **Power Level 9** - Gain all extraordinary attributes possessed by the target.
 
@@ -4248,7 +4254,7 @@ Your minion cannot act on the turn that it is summoned. On each of your followin
 \
 **Attributes:** Movement \newline
 
-**Description:** You reach out with extraordinary power and manipulate an unattended inanimate object. \newline
+**Description:** You reach out and extraordinarily control an unattended inanimate object. \newline
 
 **Effect:** Immediately upon invoking the boon, and again each round when you
 sustain the boon, you may move the target object up to 30'. As part of
@@ -4307,7 +4313,8 @@ the language of your target.
 stepping into an intermediate realm, projecting yourself magically, or
 other similar means. \newline
 
-**Effect:** -   **Power Level 3** - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
+**Effect:**
+-   **Power Level 3** - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
 
 -   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see. If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect).
 
@@ -4363,7 +4370,7 @@ persists until some other effect would cancel it.
 
 -   **Power Level 5** - *Temporarily* transmute an object into another object of the same size and 50% greater or lesser weight. *Temporarily* transmute an object into another object of the same weight and 50% greater or lesser size.
 
--   **Power Level 7** - *Permanently* transmute an object into another object of the same size and weight. *Temporarily*transmute an object into another object of the same size and 200% greater or lesser weight. *Temporarily* transmute an object into another object of the same weight and 200% greater or lesser size.
+-   **Power Level 7** - *Permanently* transmute an object into another object of the same size and weight. *Temporarily* transmute an object into another object of the same size and 200% greater or lesser weight. *Temporarily* transmute an object into another object of the same weight and 200% greater or lesser size.
 
 -   **Power Level 8** - *Permanently* transmute an object into another object of up to 200% difference in size or weight. *Temporarily* transmute a living creature into another creature of the same size.
 
@@ -4379,7 +4386,7 @@ persists until some other effect would cancel it.
 \
 **Attributes:** Prescience \newline
 
-**Description:** You are able to perceive things through impediments that
+**Description:** You are able to extraordinarily perceive things through impediments that
 would block or deceive normal sight, including darkness, illusions, and
 even the barrier between alternate planes of reality. \newline
 
@@ -4587,8 +4594,6 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 **Ranged Attacks in Melee**
 
 Any time you make a ranged attack (weapon or extraordinary) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
-
-**Note:** For extraordinary attacks, this penalty does not apply if you are targeting an adjacent enemy, because you would not be making a ranged attack.
 +++
 
 **2. Determine Target(s)**
@@ -4606,8 +4611,6 @@ You may target up to five foes that fall within a 25' square. When targeting mor
 **Area Multi-targeting**
 
 You may choose from a variety of shapes when making an area attack as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
-
-Friends and foes alike that fall within the targeted area will be subject to your attack, but you will not. Additionally, if you target at least one square that is adjacent to you, you do not provoke opportunity attacks for this attack.
 
 **Cube.** You target a cube with equal length, width, and height designated by you. The attack suffers disadvantage 1 per 5' of the cube's side. That is, a 5' cube suffers disadvantage 1, a 10' cube disadvantage 2, and so on.
 
@@ -4654,7 +4657,7 @@ The Challenge Rating for your roll is the target’s defense score. If you succe
 If your damaging attack roll exceeds the target’s defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
 equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
-**Make a Bane Attack**
+#### Make a Bane Attack
 
 Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
 detailed in the [*bane descriptions*](#banes-list). While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* *Fatigued*).
@@ -4684,11 +4687,13 @@ You can invoke boons in order to aid yourself or allies. In order to invoke a bo
 
 Boon invocations follow the same rules for determining range and number of targets as damaging attacks.
 
-**2. Determine Power Level and Challenge Rating**
+**2. Roll to Invoke**
 
-Before rolling to invoke a boon, you must choose the power level at which you are attempting to invoke. Some boons only possess a single power level, while others can be invoked at multiple power levels. You cannot invoke a boon at a power level higher than the attribute you are using to invoke the boon.
+Make an action roll using the appropriate attribute, as determined by the [*boon descriptions*](#Boons List).
 
-The Challenge Rating for your action roll equals 10 + (2 x Power Level), as shown in the Boon Challenge Ratings Table.
+**3. Determine Power Level**
+
+Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
 
 ##### Boon Challenge Ratings
 
@@ -4709,15 +4714,12 @@ The Challenge Rating for your action roll equals 10 + (2 x Power Level), as show
 | 8 | 26 |
 | 9 | 28 |
 
-**3. Roll to Invoke**
-
-Make an action roll using the appropriate attribute, as determined by the [*boon descriptions*](#Boons List). If your total equals or exceeds the Challenge Rating, the targeted creatures gain the chosen boon.
 
 #### Assist an Ally
 
 \ \
 
-You can assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally gets advantage 1 on that roll.
+You can use your major action to assist an ally with an action roll if they are using an attribute you have a score of 1 or greater in. The ally automatically gets advantage 1 on their roll.
 
 #### Take an Extra Move Action
 
@@ -4741,7 +4743,7 @@ Move actions are typically what you take in order to maneuver around the battlef
 
 \ \
 
-You may move up to your speed. This movement may be broken up by other actions. For example, you may move 10 feet, use a minor action to open a door, move 10 more feet, and then use your major action to attack a foe.
+You may move up to your speed. The base speed for characters is 30'. This movement may be broken up by other actions. For example, you may move 10 feet, use a minor action to open a door, move 10 more feet, and then use your major action to attack a foe.
 
 #### Take Special Movement
 
@@ -4757,7 +4759,7 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 **Climb**. You climb at half of your normal speed. The GM may require a Might or Agility check if the situation is particularly dangerous.
 
-**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similar situations.
+**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similarly challenging situations.
 
 #### Resist Banes
 
@@ -4867,7 +4869,7 @@ In Open Legend, the primary way that players gain more power is by gaining exper
 
 Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
 
-**Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. A milestone map might look something like this:
+**Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. Whenever your players reach one of these milestones, you give them 3 XP and thus a new level. A milestone map might look something like this:
 
 - **Level 2:** The heroes thwart one of the three foes threatening Woodshold.
 
@@ -4889,7 +4891,7 @@ Rather than constantly awarding different experience point values to different m
 - **Level 10:** The heroes defeat Dezzer Kai.
 
 
-**Time Played.** An easy way to schedule rewards is simply to allow players to level up after a certain number of sessions. For example, you might decide that every three games, the players will achieve a new level. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you will need to adapt on the fly to your player’s increasing power.
+**Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they’ll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you may need to adapt on the fly to your players' increasing power.
 
 ### Beyond 10th Level
 
@@ -4924,10 +4926,6 @@ However you plan to award wealth, you can see that the general recommendation on
 | 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
 | 9 | emperor| a castle, an army of 50,000 |
 
-
-You can use this table as a rough guideline for when to give players more wealth, particularly if you have also created an outline of milestones for granting experience levels. For example, the table shows that by 4th level, a typical character should have progressed to wealth score 4. Using the experience level milestone plan detailed previously, we could decide that after stopping the first threat to Woodshold, the people of the town take up a collection to reward the heroes. We can also plan to give the Cult of the Dragon a horde of treasure that will again increase the party’s wealth score.
-
-However you plan to award wealth, you can see that the general recommendation on the table is for a PC’s wealth score to increase twice every three levels.
 
 If you or your players have a background with other game systems, in which they may have regularly looted every corpse, scavenged every piece of equipment, and dutifully tracked every single gold piece, then Open Legend’s wealth system might initially feel a bit awkward. If it does, consider some of the following tips:
 
