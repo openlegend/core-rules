@@ -4917,10 +4917,6 @@ However you plan to award wealth, you can see that the general recommendation on
 | 9 | emperor| a castle, an army of 50,000 |
 
 
-You can use this table as a rough guideline for when to give players more wealth, particularly if you have also created an outline of milestones for granting experience levels. For example, the table shows that by 4th level, a typical character should have progressed to wealth score 4. Using the experience level milestone plan detailed previously, we could decide that after stopping the first threat to Woodshold, the people of the town take up a collection to reward the heroes. We can also plan to give the Cult of the Dragon a horde of treasure that will again increase the party’s wealth score.
-
-However you plan to award wealth, you can see that the general recommendation on the table is for a PC’s wealth score to increase twice every three levels.
-
 If you or your players have a background with other game systems, in which they may have regularly looted every corpse, scavenged every piece of equipment, and dutifully tracked every single gold piece, then Open Legend’s wealth system might initially feel a bit awkward. If it does, consider some of the following tips:
 
 **NPCs still have stuff on them.** Just because you don’t need to spend hours tracking every piece of loot that the players cut from a corpse doesn’t mean that they don’t have stuff on them. It just fades into the background so that you can focus on the story.
