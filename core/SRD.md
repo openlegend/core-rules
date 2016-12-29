@@ -4360,7 +4360,7 @@ persists until some other effect would cancel it.
 
 -   **Power Level 5** - *Temporarily* transmute an object into another object of the same size and 50% greater or lesser weight. *Temporarily* transmute an object into another object of the same weight and 50% greater or lesser size.
 
--   **Power Level 7** - *Permanently* transmute an object into another object of the same size and weight. *Temporarily*transmute an object into another object of the same size and 200% greater or lesser weight. *Temporarily* transmute an object into another object of the same weight and 200% greater or lesser size.
+-   **Power Level 7** - *Permanently* transmute an object into another object of the same size and weight. *Temporarily* transmute an object into another object of the same size and 200% greater or lesser weight. *Temporarily* transmute an object into another object of the same weight and 200% greater or lesser size.
 
 -   **Power Level 8** - *Permanently* transmute an object into another object of up to 200% difference in size or weight. *Temporarily* transmute a living creature into another creature of the same size.
 
