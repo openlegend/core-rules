@@ -4733,7 +4733,7 @@ Move actions are typically what you take in order to maneuver around the battlef
 
 \ \
 
-You may move up to your speed. This movement may be broken up by other actions. For example, you may move 10 feet, use a minor action to open a door, move 10 more feet, and then use your major action to attack a foe.
+You may move up to your speed. The base speed for characters is 30'. This movement may be broken up by other actions. For example, you may move 10 feet, use a minor action to open a door, move 10 more feet, and then use your major action to attack a foe.
 
 #### Take Special Movement
 
