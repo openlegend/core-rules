@@ -195,7 +195,7 @@ By default, your attacks target a single foe. However, you may choose to target 
 
 You may target any number of foes that are within your reach. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted (2 targets = disadvantage 2, 3 targets = disadvantage 3, etc.)
 
-**Projectile Multi-targeting**
+**Ranged Multi-targeting**
 
 You may target up to five foes that fall within a 25' square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
 
@@ -217,7 +217,7 @@ You may choose from a variety of shapes when making an area attack as described 
 | | |
 | - | - |
 | **Melee Attacks** | Disadvantage = number of targets. |
-| **Projectile Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25’ square. |
+| **Ranged Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25’ square. |
 | **Cube** | Disadvantage = 1 per 5’ of length of cube. |
 | **Line** | Disadvantage = 1 per 5'x10'x10' line. |
 | **Cone** | Disadvantage = 1 per 5' length of cone. |

@@ -12,6 +12,12 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2016 / 12 / 28
+-   Removed `Retributive Barrier` in favor of `Barrier` boon
+-   `Forced Move` now moves the target a distance in feet based on power level
+-   `Projectile Multi-Targeting` is now `Ranged Multi-Targeting`
+-   `Attribute Substitution` cost reduced to 2. This feat has now two tiers. Attack rolls with the primary attribute are only available at tier 2. Restrictions about primary and secondary attribute category lifted.
+
 #### 2016 / 12 / 22
 -   `Intimidated` bane renamed to `Provoked` and reordered alphabetically.
 

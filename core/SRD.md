@@ -1,4 +1,5 @@
-# Introduction & Character Creation
+# Introduction & Character \
+Creation
 
 Most meaningful tasks that a character attempts in *Open Legend* will be determined by the roll of dice.
 
@@ -12,14 +13,15 @@ Add all of the dice together to find your total action roll. If your total is eq
 | :-: |
 | Roll 1d20 + attribute dice (all dice explode) |
 
-\NextTableColumns{OCT{.50}OCT{.50}}
+\NextTableColumns{OCT{.40}OCT{.60}}
 
-| If the action roll... | then the result is... |
-| :- | :-- |
-| equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | the player succeeds with a twist. \
- - OR - \
-*the player fails but the story progresses*. (GM’s Choice) |
+| **If the action roll...** | **then the result is...** |
+| :- | :--: |
+| equals or exceeds Challenge Rating | the player succeeds. |
+| is less than Challenge Rating | the player succeeds with a twist. \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  - *OR* - \
+\ \ \ the player fails but the story \
+\ \ \ \ \ \ progresses. *(GM's Choice)* |
 
 # Character Creation
 
@@ -41,7 +43,11 @@ At the GM's discretion, you may choose to be even smaller or larger than the siz
 
 **A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
 
-\newpage
+\ \
+
+\ \
+
+\ \
 
 +++ {.CalloutInformation}
 
@@ -55,6 +61,8 @@ Sir Thomas Tuckburrough served as an assassin for the local thieves guild until 
 
 Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.
 +++
+
+\newpage
 
 ## Step 2: Choose Attributes
 
@@ -541,6 +549,8 @@ As the legend you are creating unfolds and grows in danger and magnitude, your c
 
 Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters, NPCs, and monsters. Until you reach 5th level, the maximum attribute score is 5. From levels 6 to 9, the maximum is equal to your level.
 
+\newpage
+
 #### Player Character Level Advancement
 
 \ \
@@ -615,21 +625,19 @@ If you look back to the Core Mechanic, you can see that a simple failure is not 
 
 \NextTableColumns{OCT{1}}
 
-| The Action Roll  |
-| - |
+| THE ACTION ROLL |
+| :-: |
 | Roll 1d20 + attribute dice (all dice explode) |
 
-\NextTableColumns{OCT{.50}OCT{.50}}
+\NextTableColumns{OCT{.40}OCT{.60}}
 
-| If the action roll... | then the result is... |
-| :- | :- |
-| equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | the player succeeds with a \
-twist. \
-**- OR -** \
-the player fails, but the story \
-progresses. \
-*(GM’s Choice)* |
+| **If the action roll...** | **then the result is...** |
+| :- | :--: |
+| equals or exceeds Challenge Rating | the player succeeds. |
+| is less than Challenge Rating | the player succeeds with a twist. \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  - *OR* - \
+\ \ \ the player fails but the story \
+\ \ \ \ \ \ progresses. *(GM's Choice)* |
 
 
 ### Keep It Simple: Every Roll Matters for the GM
@@ -891,34 +899,38 @@ Specialization (Tier 4) for Long Sword.
 
 ## Attribute Substitution
 
-**Cost:** 3 points
+**Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Any Social, Any Mental, Any Extraordinary 4
+-   **Tier 1 - 2**: None
 
-**Description:** Your prowess in a extraordinary, mental, or social attribute empowers a
-physical aspect of your character, allowing you to use that attribute
-for tasks normally reserved for another attribute. Examples of Attribute
-Substitution in play include a martial artist who is physically weak but
-capable of using internal chi to throw and disable opponents, as well as
-an anatomical genius who uses their intelligence to make vital strikes
-rather than their dexterity. \newline
+**Description:** Your prowess in an extraordinary, mental, or social attribute is
+linked in a way that empowers another attribute of your character, allowing you
+to use that attribute for tasks normally reserved for another.  Examples of
+Attribute Substitution in play include a martial artist who is physically weak
+but capable of using internal chi to throw and disable opponents, an anatomical
+genius who uses their intelligence to make vital strikes rather than their
+dexterity, or a gunman who's deadshot aim is the result of a dark pact.
 
-**Effect:** When you purchase this feat, you create a permanent link between two
-attributes: one stronger (the primary attribute) and one weaker (the
-dependent attribute). You may use your score in the primary attribute in
-place of the dependent attribute for the following situations:
+**Effect:** When you purchase this feat, you create a permanent link between two 
+attributes: one stronger (the primary attribute) and one weaker (the dependent 
+attribute). You may use your score in the primary attribute in place of the dependent 
+attribute for different purposes depending on which tier of the feat you have:
 
--   Making action rolls
--   Calculating hit points, defenses, and other secondary statistics
--   Meeting feat, bane, and boon prerequisites
--   Other situations at the GM's discretion
+-   **Tier 1**:
+    -   Making non-attack action rolls
+    -   Calculating hit points, defenses, and other secondary statistics
+    -   Meeting feat, bane, and boon prerequisites
+    -   Other situations at the GM's discretion
 
-The relationship formed by your two attributes is subject to
-case-by-case approval by the GM. It must be logical and consistent with
-the story you are trying to tell. For example, a bard who subsitutes her
-Presence for her Might to represent her dance-based melee fighting style
+-   **Tier 2**:
+    -   Making attack action rolls
+
+The relationship formed by your two attributes is subject to case-by-case
+approval by the GM and must be cleared with them first. The link must be logical
+and consistent with the story you are trying to tell. For example, a bard who 
+subsitutes her Presence for her Might to represent her dance-based melee fighting style 
 would likely not get to use her Presence Score for determining her
 carrying capacity. Furthermore, the GM should prevent players from
 creating illogical substitutions that are purely aimed at making their
@@ -928,7 +940,7 @@ angles, leverage, and physics to substitute Logic for Might, or a
 gunslinger who channels dark energy, giving her deadshot accuracy and
 substituting Entropy for Agility. \newline
 
-**Special:** This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or extraordinary, while the substituted attribute must be physical.
+**Special:** This feat cannot be purchased to link attributes beyond the initial two (primary and secondary).
 
 ## Bane Focus
 
@@ -991,7 +1003,7 @@ blows with your defensive strikes. \newline
 
 **Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Slowed bane. If the attack hits
-and the target has already moved more than 2 squares, the remainder of
+and the target has already moved more than 10', the remainder of
 their movement is cancelled until the start of their next turn.
 
 ## Battlefield Punisher - Stunned
@@ -1027,7 +1039,7 @@ melee combat. \newline
 **Effect:** You may make an additional opportunity attack per round for each tier of
 this feat your possess. You can only make one opportunity attack per
 triggering action (e.g., you cannot make multiple attacks against the
-same foe when they leave your threatened square).
+same foe when they leave your threatened space).
 
 ## Berserker
 
@@ -1076,7 +1088,8 @@ with access to a Power Level 6 boon.
 
 You may acquire this feat multiple times. Each time, select a new boon. \newline
 
-**Special:** If you ever meet the attribute prerequisite for the chosen
+**Special:** Note that this feat can give access to high-powered boons with a potential for very dramatic impact on the storyline of a game. As such, using this feat to access a boon of Power Level 6 or higher should be approved by the GM before using it in a game.
+If you ever meet the attribute prerequisite for the chosen
 boon, you may choose at that time to lose this feat and regain the feat
 points spent. Re-allocate them as you choose.
 
@@ -1312,7 +1325,7 @@ them off their feet completely. \newline
 
 **Effect:** Any time that you deal damage to an enemy, in addition to pushing them 5
 feet (if you choose) from the Overpowering Strike feat, you can also
-knock them down in the square where the forced move ends; the target
+knock them down in the space where the forced move ends; the target
 suffers the effects of the knockdown bane.
 
 ## Death Blow (I – III)
@@ -1677,20 +1690,6 @@ disadvantage on your action roll.
 -   **Influence 8** - 10 Targets
 -   **Influence 9** - 50 Targets
 
-## Heavy Weapon Master
-
-**Cost:** 3 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Might 5
-
-**Description:** Due to your strength and training, you are able to wield exceptionally
-heavy weapons with ease. \newline
-
-**Effect:** You can wield two-handed melee weapons in one hand. When you do, you
-still gain the usual advantage granted by two-handed weapons.
-
 ## Hospitaler
 
 **Cost:** 2 points
@@ -1761,7 +1760,7 @@ subsequent tier allows you to ignore an additional level of fatigue.
 **Description:** You fight with such bravery, heroism, or bravado that your allies are
 ispired to fight beyond their usual mettle. \newline
 
-**Effect:** Once per round, when you deal 10 or more points of damage to an enemy, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
+**Effect:** Once per round, when your damaging roll exceeds an enemy's defense by 10 or more, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
 
 -   **Tier 1** - A single ally that can see the attack heals 1d4 HP.
 
@@ -2085,7 +2084,7 @@ blinding powder. Whatever the source and whatever the effect, your
 enemies cower before your legendary attack. \newline
 
 **Effect:** Choose one bane that you can invoke and that has a duration of "resist
-ends". When a target makes a resist roll to shake off your invocation of
+ends". When a target uses the Resist action to shake off your invocation of
 the chosen bane, they roll two d20s and use the lower die.
 
 ## Reactionary Berserker
@@ -2139,8 +2138,7 @@ this feat.
 **Description:** Whether through luck, extraordinary will, or exceptional courage, you
 are able to shake off banes quicker than others. \newline
 
-**Effect:** Any time you make a Resist roll, you have Advantage on the d20 roll
-(roll 2 d20 and keep the higher, contrary to major action rolls)
+**Effect:** Any time you take the Resist action, you roll the d20 twice and keep the higher result.
 
 ## Ritual Magic (I - III)
 
@@ -2182,7 +2180,7 @@ bane or boon:
 
 -   You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.
 -   You gain the following additional option to choose from when empowering your invocations with ritual magic:
-    -   Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot disrupt the boon through use of a focus action (Though the dispel bane still works).
+    -   Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (Though the dispel bane still works).
     -   Targets may not make resist rolls against a bane for one minute after it is invokes.
 
 **Tier 3** - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
@@ -2342,8 +2340,7 @@ to follow your tracks except by extraordinary means.
 deadly attack delivered by you is exceptionally vicious. \newline
 
 **Effect:** Any time you roll a natural 20 on the d20 for an attack action roll, you
-roll twice on the subsequent re-roll of the d20 and take the higher
-result.
+roll twice on all subsequent d20 re-rolls and take the higher result.
 
 ## Wealthy
 
@@ -2747,7 +2744,7 @@ a brief window of time in which the target can attempt to resist this
 extinguishing force, but once that window closes, the death is permanent
 and can only be reversed with resurrection magic. When the bane is
 initially applied, the target is immobile (can’t move from their current
-square) and unconscious. They have disadvantage 5 on all perception
+space) and unconscious. They have disadvantage 5 on all perception
 rolls, and are incapable of moving. As a result of being completely
 incapable of movement, an incapacitated character can be the victim of a
 finishing blow. \newline
@@ -2996,9 +2993,15 @@ you to inflict the bane for the next hour.
 **Description:** With a forceful blow, magical gust of wind, or telekinetic push, you
 move your target against its will. \newline
 
-**Effect:** The afflicted target is moved a number of squares equal to the power
-level of the bane divided by 2. The ending square is chosen by the
-attacker.
+**Effect:** The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.
+
+-   **Power Level 2** - The target is moved 5'.
+
+-   **Power Level 4** - The target is moved 10'.
+
+-   **Power Level 6** - The target is moved 15'.
+
+-   **Power Level 8** - The target is moved 20'.
 
 ## Immobile
 
@@ -3738,7 +3741,7 @@ Choose a single bane or boon which uses the same attribute that you used to invo
 **Hindering:** Creatures move at half speed when travelling within the barrier.
 **Impassable:** Creatures and objects cannot move through the barrier.
 **Baneful:** Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
-**Mobile:** You may spend a standard action to move the barrier up to 30 feet.
+**Mobile:** You may spend a major action to move the barrier up to 30 feet.
 
 
 ## Blindsight
@@ -4133,33 +4136,6 @@ an ally. \newline
 
 **Special:** You can dispel even higher level banes, but your roll total must be double the banes normal Power Level. So, a Power Level 9 bane can be dispelled on a roll of 46. This is only possible if the boon is invoked by a dice roll.
 
-## Retributive Barrier
-
-**Duration:** Sustain Persists
-\
-**Invocation Time:** 1 Major Action
-\
-**Power Level:** 4, 5, 6, 7, 8
-\
-**Attributes:** Creation, Energy, Protection \newline
-
-**Description:** You summon a warding barrier of flames, blades, thorns, or similar
-material to damage enemies that dare to approach. \newline
-
-**Effect:** Designate a willing target or a 5' square that is not occupied by an
-enemy. While this boon is active, any enemy that passes within 5' of the
-target takes damage according to the boon's Power Level. Each time this
-boon deals damage, roll a d20. On a 10 or better, the boon persists, on
-a lower roll the power of the boon is expended by the retributive
-attack.
-
--   **Power Level 4** - d4 damage
--   **Power Level 5** - d6 damage
--   **Power Level 6** - d8 damage
--   **Power Level 7** - d10 damage
--   **Power Level 8** - 2d6 damage
-
-
 
 ## Seeing
 
@@ -4244,6 +4220,8 @@ swimming in combat, suffer disadvantage on relevant action rolls.
 **Description:** You summon forth creatures to assist your cause, whether they are animals called from the wild, undead minions built from the remains of your foes, or worker bots constructed of spare parts from a salvage yard.
 
 **Effect:** You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: agility, fortitude, might, perception, energy, and entropy. Your minion's attributes do not affect their hit points or defenses.
+
+\NextTableColumns{OCT{.25}OCT{.25}OCT{.25}OCT{.25}}
 
 | Power Level | Hit Points | Defenses | Attributes |
 |:-----------:|:----------:|:--------:|:----------:|
@@ -4621,7 +4599,7 @@ By default, your attacks target a single foe. However, you may choose to target 
 
 You may target any number of foes that are within your reach. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted (2 targets = disadvantage 2, 3 targets = disadvantage 3, etc.)
 
-**Projectile Multi-targeting**
+**Ranged Multi-targeting**
 
 You may target up to five foes that fall within a 25' square. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted, as with melee attacks.
 
@@ -4647,7 +4625,7 @@ Friends and foes alike that fall within the targeted area will be subject to you
 | | |
 | - | - |
 | **Melee Attacks** | Disadvantage = number of targets. |
-| **Projectile Attacks** | Disadvantage = number of targets. |
+| **Ranged Attacks** | Disadvantage = number of targets. |
 | | Max 5 targets. Must be within a 25’ square. |
 | **Cube** | Disadvantage = 1 per 5’ of length of cube. |
 | **Line** | Disadvantage = 1 per 5'x10'x10' line. |
@@ -4785,9 +4763,9 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 \ \
 
-Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed.
+Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed. This roll is not considered an action roll, and thus is not affected by advantage or disadvantage.
 
-Many banes will persist for a longer duration if you fail three resist rolls to shake them off. As such, you should keep a tally of any banes which you to fail resist.
+Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you to fail resist.
 
 ### Minor Actions
 
@@ -4985,8 +4963,6 @@ The simple build option is useful when you need to come up with statistics on th
 
 Use the NPC Simple Build Table to determine the monster’s most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster’s attacks and actions, and then choose as many secondary attributes as you need in order to define the monster’s other capabilities.
 
-\newpage
-
 #### NPC Simple Build
 
 \ \
@@ -5098,13 +5074,6 @@ The build rules just explained help you create individual monsters or NPCs for t
 When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn’t present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
 
 Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
-
-
-\newpage
-
-#### Encounter Difficulty
-
-\ \
 
 \NextTableColumns{OLT{.40}OCT{.60}}
 

@@ -83,7 +83,7 @@
   description: |
     Utilizing either incredible precision or the power of entropy, the target’s life force is snuffed out completely. The most deadly assassins and most powerful necromancers are known for such legendary skill at snuffing out life.
   effect: |
-    You attempt to completely snuff the life force of your target.  There is a brief window of time in which the target can attempt to resist this extinguishing force, but once that window closes, the death is permanent and can only be reversed with resurrection magic.  When the bane is initially applied, the target is immobile (can’t move from their current square) and unconscious. They have disadvantage 5 on all perception rolls, and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow.
+    You attempt to completely snuff the life force of your target.  There is a brief window of time in which the target can attempt to resist this extinguishing force, but once that window closes, the death is permanent and can only be reversed with resurrection magic.  When the bane is initially applied, the target is immobile (can’t move from their current space) and unconscious. They have disadvantage 5 on all perception rolls, and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow.
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the pending death.  As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect.  Whereas 3 failed resist rolls would usually persist the effects of the bane, this bane extinguishes the life force of the target on 3 failed saves, thus it is permanent. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
@@ -225,9 +225,9 @@
     This bane has multiple tiers which are applied in succession. Each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one level.<br/>
     <ul>
     <li>Level 1 - The target has Disadvantage 1 on all non-attack action rolls.</li>
-    <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
+    <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
     <li>Level 3 - The target has Disadvantage 1 on all attack rolls.</li>
-    <li>Level 4 - The target is affected by the slowed bane, reducing it's speed to 2. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
+    <li>Level 4 - The target is affected by the slowed bane, reducing it's speed to 10'. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
     <li>Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
     <li>Level 6 - The target dies.</li>
     </ul>
@@ -281,7 +281,13 @@
   description: |
     With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will.
   effect: |
-    The afflicted target is moved a number of squares equal to the power level of the bane divided by 2. The ending square is chosen by the attacker.
+    The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.
+    <ul>
+    <li><strong>Power Level 2</strong> - The target is moved 5'.</li>
+    <li><strong>Power Level 4</strong> - The target is moved 10'.</li>
+    <li><strong>Power Level 6</strong> - The target is moved 15'.</li>
+    <li><strong>Power Level 8</strong> - The target is moved 20'.</li>
+    </ul>
 - !
   name: Immobile
   tags:

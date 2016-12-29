@@ -158,27 +158,36 @@
   name: Attribute Substitution
   prerequisites:
     tier1:
-      Attribute:
-      - Any Social: 4
-      - Any Mental: 4
-      - Any Extraordinary: 4
+      Other:
+      - None
+    tier2:
+      Other:
+      - None
   tags:
   - Any Attribute
   cost:
-  - 3
+  - 2
   description: |
-    Your prowess in an extraordinary, mental, or social attribute empowers a physical aspect of your character, allowing you to use that attribute for tasks normally reserved for another attribute.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, as well as an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity.
+    Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity, or a gunman who's deadshot aim is the result of a dark pact.
   effect: |
-    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for the following situations:
+    When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for different purposes depending on which tier of the feat you have:
     <ul>
-    <li>Making action rolls</li>
-    <li>Calculating hit points, defenses, and other secondary statistics</li>
-    <li>Meeting feat, bane, and boon prerequisites</li>
-    <li>Other situations at the GM's discretion</li>
+    <li><strong>Tier 1</strong>
+      <ul>
+      <li>Making non-attack action rolls</li>
+      <li>Calculating hit points, defenses, and other secondary statistics</li>
+      <li>Meeting feat, bane, and boon prerequisites</li>
+      <li>Other situations at the GM's discretion</li>
+      </ul>
+    </li>
+    <li><strong>Tier 2</strong>
+      <ul>
+      <li>Making attack action rolls</li>
+      </ul>
     </ul>
-    The relationship formed by your two attributes is subject to case-by-case approval by the GM. It must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
+    The relationship formed by your two attributes is subject to case-by-case approval by the GM and must be cleared with them first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
   special: |
-    This feat can only be purchased once. In addition, the primary attribute must be either social, mental, or extraordinary, while the substituted attribute must be physical.
+    This feat cannot be purchased to link attributes beyond the initial two (primary and secondary).
 - !
   name: Bane Focus
   prerequisites:
@@ -255,7 +264,7 @@
   description: |
     Not only are your battle reflexes uncanny, but you can deal slowing blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane.  If the attack hits and the target has already moved more than 2 squares, the remainder of their movement is cancelled until the start of their next turn.
+    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane. If the attack hits and the target has already moved more than 10', the remainder of their movement is cancelled until the start of their next turn.
 - !
   name: Battlefield Punisher - Stunned
   prerequisites:
@@ -321,7 +330,7 @@
   description: |
     Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat.
   effect: |
-    You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened square).
+    You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).
 - !
   name: Berserker
   prerequisites:
@@ -360,6 +369,7 @@
     When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the Power Level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the Power Level of the boon. If the boons has multiple attribute prerequisite options, you choose one attribute when you take this feat. Additionally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the Power Level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a Power Level 6 boon.
     You may acquire this feat multiple times. Each time, select a new boon.
   special: |
+    Note that this feat can give access to high-powered boons with a potential for very dramatic impact on the storyline of a game. As such, using this feat to access a boon of Power Level 6 or higher should be approved by the GM before using it in a game.
     If you ever meet the attribute prerequisite for the chosen boon, you may choose at that time to lose this feat and regain the feat points spent. Re-allocate them as you choose.
 - !
   name: Boon Focus (I - III)
@@ -392,9 +402,6 @@
       <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
     </li>
     </ul>
-  special: |
-    Note that this feat can give access to high-powered boons with a potential for very dramatic impact on the storyline of a game. As such, using this feat to access a boon of Power Level 6 or higher should be approved by the GM before using it in a game.
-
 - !
   name: Breakfall (I - IX)
   prerequisites:
@@ -629,7 +636,7 @@
   description: |
     Your relentless blows not only knock your opponents back, but also knock them off their feet completely.
   effect: |
-    Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the square where the forced move ends; the target suffers the effects of the knockdown bane.
+    Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the knockdown bane.
 - !
   name: Death Blow (I – III)
   prerequisites:
@@ -1116,7 +1123,7 @@
   description: |
     You are expertly focused on dealing with a particular species, race, or faction.
   effect: |
-    Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, You gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
+    Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, you gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
 - !
   name: Indomitable Endurance (I - IX)
   prerequisites:
