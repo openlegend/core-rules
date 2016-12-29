@@ -4162,7 +4162,7 @@ depends on your Prescience score.
 \
 **Invocation Time:** 1 Major Action
 \
-**Power Level:** 3, 4, 5, 6, 7, 8, 9
+**Power Level:** 3, 4, 5, 6, 8, 9
 \
 **Attributes:** Alteration \newline
 
@@ -4172,8 +4172,12 @@ exotic. Common examples of shapeshifting include lyncanthropes (such as
 werewolves), dryads, dopplegangers, and certain types of druids. \newline
 
 **Effect:** You or a willing creature you touch transform into a creature whose
-highest attribute is less than or equal to your Alteration score. All of
-the target's existing extraordinary attribute scores drop to zero, and
+highest attribute is less than or equal to your
+Alteration score. Your Alteration score for the
+ purpose of this feat is limited to your level
+ or 5, whichever is higher.
+All of the target's existing extraordinary
+ attribute scores drop to zero, and
 they acquire the Agility, Fortitude, Might, and Perception attributes of
 the new form. The following limitations apply at Power Level 2, and are
 gradually removed at higher power levels:
@@ -4188,8 +4192,7 @@ These limitations are removed based on the Power Level of the boon.
 -   **Power Level 3** - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.
 -   **Power Level 4** - Shapeshift into a creature between one quarter and quadruple the target's original size.
 -   **Power Level 5** - Gain the flying movement mode of the new form, if applicable.
--   **Power Level 6** - Gain the flying movement mode of the new form, if applicable.
--   **Power Level 7** - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.
+-   **Power Level 6** - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.
 -   **Power Level 8** - Shapeshift into a creature of any size.
 -   **Power Level 9** - Gain all extraordinary attributes possessed by the target.
 
