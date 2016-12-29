@@ -155,7 +155,7 @@
   special: |
     You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
 - !
-  name: Attribute Substitution
+  name: Attribute Substitution (I - II)
   prerequisites:
     tier1:
       Other:
@@ -934,7 +934,7 @@
   effect: |
     You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred at the GM's discretion.
 - !
-  name: Ferocious Minions
+  name: Ferocious Minions (I - III)
   prerequisites:
     tier1:
       Attribute:
