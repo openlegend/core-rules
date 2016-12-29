@@ -4584,8 +4584,6 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 **Ranged Attacks in Melee**
 
 Any time you make a ranged attack (weapon or extraordinary) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
-
-**Note:** For extraordinary attacks, this penalty does not apply if you are targeting an adjacent enemy, because you would not be making a ranged attack.
 +++
 
 **2. Determine Target(s)**
