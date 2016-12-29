@@ -16,8 +16,8 @@
   effect: |
     Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
     <ul>
-    <li>Tier 1 – Half of your primary form's attribute points (rounded up), and 3 feat points.</li>
-    <li>Tier 2 – Same attribute points as your primary form, and 3 feat points per level.</li>
+    <li>Tier 1 - Half of your primary form's attribute points (rounded up), and 3 feat points.</li>
+    <li>Tier 2 - Same attribute points as your primary form, and 3 feat points per level.</li>
     </ul>
     Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
     You may transform from one form to another as a focus action. Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
@@ -155,7 +155,7 @@
   special: |
     You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
 - !
-  name: Attribute Substitution
+  name: Attribute Substitution (I - II)
   prerequisites:
     tier1:
       Other:
@@ -638,7 +638,7 @@
   effect: |
     Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the knockdown bane.
 - !
-  name: Death Blow (I – III)
+  name: Death Blow (I - III)
   prerequisites:
     tier1:
       Attribute:
@@ -665,8 +665,8 @@
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by a melee or projectile attack from you.</li>
-    <li><strong>Tier 2</strong> – Your death blow HP threshold increases from 5 to 10. In addition, on a successful melee Lethal Strike, provided you have a hand free to cover their mouth or use a garrote (or similar strangling implement), the Silenced bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
-    <li><strong>Tier 3</strong> – Your death blow HP threshold increases from 10 to 15. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
+    <li><strong>Tier 2</strong> - Your death blow HP threshold increases from 5 to 10. In addition, on a successful melee Lethal Strike, provided you have a hand free to cover their mouth or use a garrote (or similar strangling implement), the Silenced bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
+    <li><strong>Tier 3</strong> - Your death blow HP threshold increases from 10 to 15. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
     </ul>
 - !
   name: Deathless Berserker
@@ -934,7 +934,7 @@
   effect: |
     You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred at the GM's discretion.
 - !
-  name: Ferocious Minions
+  name: Ferocious Minions (I - III)
   prerequisites:
     tier1:
       Attribute:
@@ -955,7 +955,7 @@
   effect: |
     Creatures under the effects of your Charmed or Dominated bane gain advantage 1 on all attack rolls to defend or help you for each tier of this feat you possess.
 - !
-  name: Fleet of Foot (I – III)
+  name: Fleet of Foot (I - III)
   prerequisites:
     tier1:
       Attribute:
@@ -998,7 +998,7 @@
   effect: |
     You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, an Immobile bane might render your wings immovable, if telekinetic, an application of the Dispel bane may cancel your flight.
 - !
-  name: Great Leap (I – III)
+  name: Great Leap (I - III)
   prerequisites:
     tier1:
       Attribute:
@@ -1218,7 +1218,7 @@
     <li><strong>Tier 3</strong> -  You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 26 or lower. For higher CRs, your Learning attribute is considered to be 8 for the action roll unless your Learning score is already 8 or higher, in which case you gain advantage 1 on the roll.</li>
     </ul>
 - !
-  name: Lethal Strike (I – IX)
+  name: Lethal Strike (I - IX)
   prerequisites:
     tier1:
       Attribute:
@@ -1377,7 +1377,7 @@
   effect: |
     When you use the Shapeshift boon, you may take on the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 +  triple your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
 - !
-  name: Multi-Attack Specialist (I – VI)
+  name: Multi-Attack Specialist (I - VI)
   prerequisites:
     tier1:
       Other:
@@ -1429,7 +1429,7 @@
   special: |
     In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 - !
-  name: Multi-Target Attack Specialist (I – V)
+  name: Multi-Target Attack Specialist (I - V)
   prerequisites:
     tier1:
       Other:
@@ -1472,7 +1472,7 @@
   effect: |
     When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
 - !
-  name: Multi-Target Boon Specialist (I – V)
+  name: Multi-Target Boon Specialist (I - V)
   prerequisites:
     tier1:
       Other:
