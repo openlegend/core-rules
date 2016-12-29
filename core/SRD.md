@@ -3362,7 +3362,7 @@ another).
 -   Prescience vs. Resolve (Special)
 
 **Description:** Either through innate extrasensory perception or a special conduit such as a computer terminal, a bubbling
-cauldron, or a crystal ball, you see can view the target from a
+cauldron, or a crystal ball, you can view the target from a
 distance. \newline
 
 **Effect:** You can scry on a person or area that you are familiar with. The
@@ -3375,10 +3375,10 @@ unseen presence in the area (regardless of whether or not you succeed at
 the roll). Certain creatures may be able to identify your scrying if
 they are familiar with such powers.
 
--   **20** - 1 mile or less
--   **22** - 100 miles or less
--   **24** - More than 100 miles, but on the same dimension or plane of reality
--   **28** - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).
+-   **CR 20** - 1 mile or less
+-   **CR 22** - 100 miles or less
+-   **CR 24** - More than 100 miles, but on the same dimension or plane of reality
+-   **CR 28** - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).
 
 
 **Special:** When you successfully invoke this bane, at the end of it's duration, you
@@ -4318,7 +4318,7 @@ other similar means. \newline
 
 -   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see. If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect).
 
--   **Power Level 7** - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleoport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.
+-   **Power Level 7** - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.
 
 -   **Power Level 9** - Using the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.
 
@@ -4849,7 +4849,7 @@ GMs who want to create a grim and gritty setting can elect to use the option let
 
 Whenever you roll a natural 20 on the d20 used in a damaging attack roll, your attack inflicts some lethal damage. The amount of lethal damage is equal to the total of subsequent d20 rolls for that attack (i.e., the d20 explosion total). A creature’s maximum hit points are reduced by the amount of lethal damage it suffers.
 
-Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point).  With the full-time attendance of a capable healer, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score.  Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
+Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point).  With the full-time attendance of a capable healer, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
 
 For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
 +++
