@@ -461,12 +461,18 @@ When you reach zero HP, you fall unconscious. Your hit points cannot be reduced 
 
 After a combat encounter ends and you have at least ten minutes to rest and catch your breath, your hit points return to their maximum if you are already conscious. If you are unconscious, you regain consciousness and all hit points after 2d4 hours.
 
-> ### Lethal Damage (Optional Rule)
+### Lethal Damage
+
+Lethal damage is used sparingly in Open Legend as a way for GMs to paint a picture of injury consequences over time. This is especially helpful for grim and gritty storylines where effects of injury should extend beyond a combat encounter. A GM might incorporate a trap or environmental hazard that deals lethal damage. Since these situations occur outside of combat, normal damage would othewise have no long term effect on the story.
+
+A creature's maximum hit point toal is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to it's maximum hit points. If a creature sustains lethal damage greater than or equal to it's maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
+
+Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
+
+For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
+
+> ### Critical Hits (Optional Rule)
 >
-> GMs who want to create a grim and gritty setting can elect to use the option lethal damage rule to inflict wounds that persist beyond a combat encounter.
+> To add a more gritty realism to to a game, GMs can implement the optional critical hits rule.
 >
-> Whenever you roll a natural 20 on the d20 used in a damaging attack roll, your attack inflicts some lethal damage. The amount of lethal damage is equal to the total of subsequent d20 rolls for that attack (i.e., the d20 explosion total). A creature’s maximum hit points are reduced by the amount of lethal damage it suffers.
->
-> Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point).  With the full-time attendance of a capable healer, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
->
-> For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
+> Under this rule, whenever a natural 20 is rolled on the d20 used in a damaging attack roll, the attack inflicts some lethal damage. The amount of lethal damage is equal to the total of subsequent d20 rolls for that attack (i.e., the d20 explosion total), with a maximum equal to the damage dealt by the attack.
