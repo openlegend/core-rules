@@ -6,7 +6,7 @@ If you're reading this chapter, then perhaps you've decided to don the most impo
 
 In this chapter, you'll find everything you need to plan and execute legendary adventures and campaigns using the Open Legend rules system. You'll learn how to plan challenges that are both exciting and fair, as well as how to reward the heroes so that they want to come back for more.
 
-Before we get into all of  that good stuff, though, let's take a moment and explore what a good GM is, and perhaps more importantly, what a good GM isn't.
+Before we get into all of that good stuff, though, let's take a moment and explore what a good GM is, and perhaps more importantly, what a good GM isn't.
 
 **A good GM likes to tell a story.** If you spent hours as a child developing elaborate worlds in your backyard or writing tales of adventure, or even drawing epic scenes, then you're on the right track. Watching a story unfold based on your inspiration is perhaps one of the most enjoyable aspects of running a game.
 
@@ -292,7 +292,7 @@ Whatever sorts of allies the party has acquired, it’s important for the GM to 
 
 There are no hard and fast rules, however. If you find NPCs in your game frequently doing the above, then there's a good chance your players might become frustrated.
 
-But sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a powerful enemy mage controls the minds of a group of soldiers with the *Dominated* bane and commands them to attack the players. A powerful ally NPC might use Protection magic to call upon the *Restoration* boon to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn’t capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing)  the *Dominated* soldiers and preventing them from killing anyone.
+But sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a powerful enemy mage controls the minds of a group of soldiers with the *Dominated* bane and commands them to attack the players. A powerful ally NPC might use Protection magic to call upon the *Restoration* boon to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn’t capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the *Dominated* soldiers and preventing them from killing anyone.
 
 The above example will likely be an intriguing scene enjoyed by all, because the ally NPC can’t prevail without the help of the players.
 
@@ -350,7 +350,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
     - **Tier 1:** When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
 
-     - **Tier 2:** You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action.  If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.
+     - **Tier 2:** You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour.
 
     - **Tier 3:** This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If the invocation is not a single target, success is not automatic, but you get advantage 4 on the action roll to invoke it.
 
