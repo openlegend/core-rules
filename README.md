@@ -12,6 +12,10 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2016 / 12 / 30
+-   `Lethal Damage` is now part of the `Core Rules`
+-   `Critical Hits` are now optional
+
 #### 2016 / 12 / 28
 -   Removed `Retributive Barrier` in favor of `Barrier` boon
 -   `Forced Move` now moves the target a distance in feet based on power level
