@@ -616,6 +616,8 @@ interpret the results.
 *Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
 example, you’ll be making plenty of action rolls to clash blades, sling spells, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left the key to your room at the inn.
 
+*Open Legend* includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a  minimum score of 1 in order to attempt a roll.
+
 ## Every Roll Matters
 
 Another important point in *Open Legend* is that every action roll should drive the story in a new direction, for better or worse. A failed roll should not let the story stagnate, nor should a failure be easily negated by a successful roll from another character.
@@ -696,9 +698,9 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 
 Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
 
-### Advantage and Disadvantage with Attribute Scores of Zero
+### Advantage and Disadvantage Without Attribute Dice
 
-When attempting an action with an attribute score of zero you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances.
+When attempting any roll that does not include attribute dice, you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. This applies to both actions performed with attribute score of zero, as well as non-action rolls (like the d20 rolled for a Resist action). Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances. In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus you cannot multi-target attack if you have an attribute score of zero.
 
 ### Assigning Advantage and Disadvantage
 
@@ -3184,7 +3186,7 @@ for the next 24 hours.
 \
 **Attack:**
 
--   Agility vs. Evasion
+-   Agility vs. EvasionWhen
 -   Energy vs. Toughness
 -   Entropy vs. Toughness
 
