@@ -454,7 +454,7 @@
     Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy). Each variation has a its own cure. When that cure is applied with a major action (either by the afflicted character or another), the target
     receives a resist roll (as a free action) with advantage 1 to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the  following examples can help with arbitration:
     <ul>
-      <li>Bleeding damage is cured with a successful roll Learning, Logic, or Creation.</li>
+      <li>Bleeding damage is cured with a successful roll using Learning, Logic, or Creation.</li>
       <li>Lightning damage is cured by a discharge or grounding of the current.</li>
       <li>Cold damage is countered with warmth, heat, or fire.</li>
       <li>Acid damage is neutralized with alkalizing agents (powder, milk, etc.).</li>
