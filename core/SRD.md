@@ -3186,7 +3186,7 @@ for the next 24 hours.
 \
 **Attack:**
 
--   Agility vs. EvasionWhen
+-   Agility vs. Evasion
 -   Energy vs. Toughness
 -   Entropy vs. Toughness
 
