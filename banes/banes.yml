@@ -59,7 +59,7 @@
     <strong>Major Charm</strong> - The attacker chooses whether the major charm is platonic or romantic. If platonic, the bane causes the target to consider the attacker their best friend and one of the most trustworthy and noble people they have met in all their lives. Alternatively, the attacker can choose for this trust and admiration to manifest as romantic love. The attacker is unable to do anything to plot against the one who afflicted them, and will (at the earliest possible opportunity) tell their charmer of any rumored harm or danger coming their way. The afflicted character becomes immediately suspicious of anyone who speaks ill of their attacker.
     The target is mentally compelled to like and trust you more, depending on the power level of the bane when invoked.
       <ul>
-      <li><strong>Power Level 3</strong> - You can Minor Charm creatures of animal level intelligence or lower</li>
+      <li><strong>Power Level 3</strong> - You can Minor Charm creatures of animal level intelligence or lower.</li>
       <li><strong>Power Level 4</strong> - You can Minor Charm, creatures of humanoid intelligence. You can Major Charm creatures of animal level intelligence or lower.</li>
       <li><strong>Power Level 6</strong> - You can Major Charm creatures of humanoid intelligence.</li>
       </ul>
@@ -203,7 +203,7 @@
       <ul>
       <li><strong>Power Level 3</strong> - You can target creatures of subhuman intelligence (animals, some elementals, certain undead, etc.) with Lesser Domination.</li>
       <li><strong>Power Level 5</strong> - You can target creatures of human intelligence or better with Lesser Domination. You can target creatures of subhuman intelligence (animals, some elementals, etc.) with Greater Domination.</li>
-      <li><strong>Power Level 9</strong> - You can target creatures of human intelligence or greater with Greater Domination</li>
+      <li><strong>Power Level 9</strong> - You can target creatures of human intelligence or greater with Greater Domination.</li>
       </ul>
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
@@ -427,6 +427,8 @@
   - 2
   - 4
   - 6
+  - 8
+  - 9
   attackAttributes:
   - Agility
   - Energy
@@ -443,13 +445,16 @@
     At the beginning of the target's turn, before they take any actions, the target suffers damage determined by the power level of the bane. This damage automatically bypasses the afflicted character’s defenses but it can be reduced by any resistance to damage of a certain type (see the Resistance boon). Like all dice rolls, these dice explode.
     <ul>
       <li><strong>Power Level 2</strong> - 1d4 damage per round.</li>
-      <li><strong>Power Level 4</strong> - 1d8 damage per round</li>
-      <li><strong>Power Level 6</strong> - 2d6 damage per round</li>
+      <li><strong>Power Level 4</strong> - 1d6 damage per round.</li>
+      <li><strong>Power Level 6</strong> - 1d8 damage per round.</li>
+      <li><strong>Power Level 8</strong> - 1d10 damage per round.</li>
+      <li><strong>Power Level 9</strong> - 2d6 damage per round.</li>
     </ul>
   special: |
-    Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy). Each variation has a its own cure. When that cure is applied with a major action (either by the afflicted character or another), the target receives a resist roll with advantage 1 (as a free action) to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the following examples can help with arbitration:
+    Persistent damage comes in a number of different variations: Physical damage (bleeding damage from a vital strike), Energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy). Each variation has a its own cure. When that cure is applied with a major action (either by the afflicted character or another), the target
+    receives a resist roll (as a free action) with advantage 1 to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the  following examples can help with arbitration:
     <ul>
-      <li>Bleeding damage is cured with a successful roll using Knowledge (Medical) or Creation.</li>
+      <li>Bleeding damage is cured with a successful roll Learning, Logic, or Creation.</li>
       <li>Lightning damage is cured by a discharge or grounding of the current.</li>
       <li>Cold damage is countered with warmth, heat, or fire.</li>
       <li>Acid damage is neutralized with alkalizing agents (powder, milk, etc.).</li>

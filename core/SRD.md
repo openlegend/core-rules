@@ -3178,7 +3178,7 @@ for the next 24 hours.
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
 \
-**Power Level:** 2, 4, 6
+**Power Level:** 2, 4, 6, 8, 9
 \
 **Attack Attributes:** Agility, Energy, Entropy
 \
@@ -3199,20 +3199,21 @@ can be reduced by any resistance to damage of a certain type (see the
 Resistance boon). Like all dice rolls, these dice explode.
 
 -  **Power Level 2** - 1d4 damage per round.
--  **Power Level 4** - 1d8 damage per round
--  **Power Level 6** - 2d6 damage per round
+-  **Power Level 4** - 1d6 damage per round.
+-  **Power Level 6** - 1d8 damage per round.
+-  **Power Level 8** - 1d10 damage per round.
+-  **Power Level 9** - 2d6 damage per round.
 
 **Special:** Persistent damage comes in a number of different variations: Physical
 damage (bleeding damage from a vital strike), Energy damage (lightning,
 fire, cold, acid, etc.) and entropic damage (necromantic energy). Each
 variation has a its own cure. When that cure is applied with a major
-action (either by the afflicted character or another), the target
-receives a resist roll with advantage 1 (as a free action) to end the
-effect. The GM has the final word on whether a proposed cure can help a
-given type of persistent damage, but the following examples can help
-with arbitration:
+action (either by the afflicted character or another), the target receives a resist
+roll (as a free action) with advantage 1 to end the effect. The GM has the final
+word on whether a proposed cure can help a given type of persistent damage, but the
+following examples can help with arbitration:
 
--   Bleeding damage is cured with a successful roll using Knowledge (Medical) or Creation.
+-   Bleeding damage is cured with a successful roll using Learning, Logic, or Creation.
 -   Lightning damage is cured by a discharge or grounding of the current.
 -   Cold damage is countered with warmth, heat, or fire.
 -   Acid damage is neutralized with alkalizing agents (powder, milk, etc.).
