@@ -223,7 +223,7 @@ heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they takes the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred berserker, takes [*Berserker*](#berserker) so that they can fly into a frenzied rage in order to decimate their foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they takes the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred berserker, takes [*Battle Trance*](#battle-trance) so that they can fly into a frenzied rage in order to decimate their foes.
 
 ### Choose your feats
 
@@ -958,6 +958,22 @@ your character. \newline
 
 **Effect:** Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
 
+## Battle Trance
+
+**Cost:** 3 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Fortitude, or Will 3
+
+**Description:** You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian, or an unstoppable samurai with laser focus in the heat of battle. \newline
+
+**Effect:** As a free action on your turn, you may enter a battle trance. While
+entranced, you have advantage 1 on all attacks. Additionally, if you are not wearing
+armor, all of your defense scores are increased by 5. If you take three consecutive
+turns without making an attack roll against a creature, the battle trance ends. When
+the battle trance ends, you automatically suffer 1 level of the [*fatigue bane*](#fatigued).
+
 ## Battlefield Defender
 
 **Cost:** 2 points
@@ -1044,23 +1060,6 @@ this feat your possess. You can only make one opportunity attack per
 triggering action (e.g., you cannot make multiple attacks against the
 same foe when they leave your threatened space).
 
-## Berserker
-
-**Cost:** 3 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Fortitude, or Will 3
-
-**Description:** You can enter a rage-induced, trance-like state in which your body is
-strengthened and your mind transcends fear and pain. \newline
-
-**Effect:** As a free action on your turn, you may enter a rage. While raging, you
-have advantage 1 on all attacks. Additionally, if you are not wearing
-armor, all of your defense scores are increased by 5. If you take three
-consecutive turns without making an attack roll against a creature, the
-rage ends. When the rage ends, you automatically suffer 1 level of the
-[*fatigue bane*](#fatigued).
 
 ## Boon Access
 
@@ -1350,7 +1349,7 @@ being detected. \newline
 
 -   **Tier 3** – Your death blow HP threshold increases from 10 to 15. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.
 
-## Deathless Berserker
+## Deathless Trance
 
 **Cost:** 3 points
 \
@@ -1358,17 +1357,16 @@ being detected. \newline
 
 -   **Tier 1**:
     -   Fortitude 7
-    -   Berserker
+    -   Battle Trance
 
-**Description:** Your battle fury is legendary, allowing you to fight on long after your
-body should have given up. \newline
+**Description:** Your battle fury is legendary, allowing you to fight on long after your body should have given up. \newline
 
-**Effect:** While you are raging you cannot be knocked unconscious. All damage dealt
-to you should be recorded, possibly resulting in a negative hit point
-total. Despite any amount of damage, you remain conscious for as long as
-you can sustain the rage. When the rage ends, if your hit points are
-below zero, you collapse unconscious. If you are not healed to zero or
-more hit points within 1 round of your rage ending, you die.
+**Effect:** While in a battle trance you cannot be knocked unconscious. All
+damage dealt to you should be recorded, possibly resulting in a negative hit point
+total. Despite any amount of damage, you remain conscious for as long as you can
+sustain the battle trance. When the battle trance ends, if your hit points are below
+zero, you collapse unconscious. If you are not healed to zero or more hit points
+within 1 round of your battle trance ending, you die.
 
 ## Defensive Reflexes (I - X)
 
@@ -1384,7 +1382,7 @@ will strike and thwart their attack. \newline
 **Effect:** Any time you use the Defend action, you gain advantage 1 on the action
 roll per tier you possess of this feat.
 
-## Destructive Berserker
+## Destructive Trance
 
 **Cost:** 3 points
 \
@@ -1392,16 +1390,16 @@ roll per tier you possess of this feat.
 
 -   **Tier 1**:
     -   Might 7
-    -   Berserker
+    -   Battle Trance
 
-**Description:** Your rage not only puts you into a fearless trance, but enables you to
+**Description:** Your battle trance not only makes you fearless but enables you to
 strike down your enemies with ferocious blows. \newline
 
-**Effect:** While you are raging, in addition to dice exploding on any maximum die
-roll (as normal), all of the dice in your dice pool explode on the
-number 1 below maximum as well (though the total is still the number
-rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or
-6, d8s explode on a 7 or 8, and so on.
+**Effect:** While you are in a battle trance, in addition to dice exploding on any
+maximum die roll (as normal), all of the dice in your dice pool explode on the
+number 1 below maximum as well (though the total is still the number rolled).
+This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on
+a 7 or 8, and so on.
 
 
 ## Diehard
@@ -1451,22 +1449,6 @@ type, you gain resistance to the attack as follows:
 -   **Tier 2** - Your defense scores are increased by 6 against the chosen energy type.
 -   **Tier 3** - Your defense scores are increased by 9 against the chosen energy type.
 -   **Tier 4** - You are immune to damage from attacks of the chosen energy type.
-
-## Entranced Berserker
-
-**Cost:** 3 points
-\
-**Prerequisites:**
-
--   **Tier 1**:
-    -   Will 7
-    -   Berserker
-
-**Description:** In the heat of combat, your will becomes indomitable. \newline
-
-**Effect:** While you are raging, you are immune to banes that target your Resolve.
-If you were already under the affect of such a bane, it is negated for
-the duration of your rage and returns when your rage ends.
 
 ## Evasive Footwork
 
@@ -1719,12 +1701,26 @@ Mental attribute rolls (Learning, Logic, Perception, and Will)
 pertaining to your chosen group.
 
 ## Indomitable Endurance (I - IX)
+## Impervious Trance
+
+**Cost:** 3 points
+\
+**Prerequisites:**
+
+-   **Tier 1**:
+    -   Will 7
+    -   Battle Trance
+
+**Description:** In the heat of combat, your will becomes indomitable. \newline
+
+**Effect:** While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.
+
 
 **Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1 - 9:** Fortitude 5
+-   **Tier 1 - 5:** Fortitude 5
 
 **Description:** Your endurance is legendary, allowing you to push on when others would
 keel over from exhaustion. \newline
@@ -1732,7 +1728,7 @@ keel over from exhaustion. \newline
 **Effect:** You are immune to the fatigued bane when it is caused by regular,
 natural sources, such as a forced march, starvation, or swimming long
 distances. Extraordinary sources of the fatigued bane (such as a
-necromancer's curse) or irregular sources (such as the Berserker feat)
+necromancer's curse) or irregular sources (such as the Battle Trance feat)
 still affect you, but at a reduced effect. Treat your fatigue level as
 one lower than it actually is for the purposes of determining the
 effects of the bane. You may take this feat multiple times. Each
@@ -2078,7 +2074,7 @@ enemies cower before your legendary attack. \newline
 ends". When a target uses the Resist action to shake off your invocation of
 the chosen bane, they have disadvantage 1.
 
-## Reactionary Berserker
+## Reactionary Trance
 
 **Cost:** 2 points
 \
@@ -2086,19 +2082,17 @@ the chosen bane, they have disadvantage 1.
 
 -   **Tier 1**:
     -   Will 5
-    -   Berserker
+    -   Battle Trance
 
-**Description:** Your berserker nature is ever-present, waiting to be unleashed at a
-moment's notice. \newline
+**Description:** Your battle trance lies dormant just below the surface, waiting to be unleashed at a moment's notice. \newline
 
-**Effect:** You can enter a rage (as per the berserker feat) as a free action even
-when it is not your turn. You may choose to rage in reaction to another
-action, such as an enemy's attack, spell, or insult. You may even
-declare your intent to rage after the action has been resolved (such as
-after the attack has already been rolled). The benefits granted from
-your rage take place before the triggering action is resolved,
-potentially negating damage or harmful effects that you would have
-otherwise incurred.
+**Effect:** You can enter a battle trance (as per the Battle Trance feat) as a
+free action even when it is not your turn. You may choose to do so in reaction to
+another action, such as an enemy's attack, spell, or insult. You may even declare
+your intent to enter a battle trance after the action has been resolved (such as
+after the attack has already been rolled). The benefits granted from your battle
+trance take place before the triggering action is resolved, potentially negating
+damage or harmful effects that you would have otherwise incurred.
 
 ## Reckless Frenzy
 
@@ -2106,17 +2100,15 @@ otherwise incurred.
 \
 **Prerequisites:**
 
--   **Tier 1**: Berserker
+-   **Tier 1**: Battle Trance
 
-**Description:** By willingly punishing your own body, you can enter a raging frenzy that
-allows you to launch a relentless onslaught of attacks. \newline
+**Description:** By willingly punishing your own body, you can enter a frenzy that allows you to launch a relentless onslaught of attacks. \newline
 
-**Effect:** While you are raging, on your turn you may choose to inflict 5 hit
-points of damage on yourself to make an additional attack as a minor
-action. Effects that prevent or reduce damage cannot effect this
-self-inflicted damage. You suffer the damage before making your extra
-attack, so you must have at least 6 hit points remaining to make use of
-this feat.
+**Effect:** While you are in a battle trance, on your turn you may choose to
+inflict 5 hit points of damage on yourself to make an additional attack as a minor
+action. Effects that prevent or reduce damage cannot effect this self-inflicted damage.
+You suffer the damage before making your extra attack, so you must have at least 6 hit
+points remaining to make use of this feat.
 
 ## Resilient
 

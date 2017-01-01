@@ -206,6 +206,20 @@
   effect: |
     Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
 - !
+  name: Battle Trance
+  prerequisites:
+    tier1:
+      Attribute:
+      - Fortitude: 3
+      - Will: 3
+  tags:
+  cost:
+  - 3
+  description: |
+    You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian, or an unstoppable samurai with laser focus in the heat of battle.
+  effect: |
+    As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, if you are not wearing armor, all of your defense scores are increased by 5. If you take three consecutive turns without making an attack roll against a creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
+- !
   name: Battlefield Defender
   prerequisites:
     tier1:
@@ -331,20 +345,6 @@
     Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat.
   effect: |
     You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).
-- !
-  name: Berserker
-  prerequisites:
-    tier1:
-      Attribute:
-      - Fortitude: 3
-      - Will: 3
-  tags:
-  cost:
-  - 3
-  description: |
-    You can enter a rage-induced, trance-like state in which your body is strengthened and your mind transcends fear and pain.
-  effect: |
-    As a free action on your turn, you may enter a rage. While raging, you have advantage 1 on all attacks. Additionally, if you are not wearing armor, all of your defense scores are increased by 5. If you take three consecutive turns without making an attack roll against a creature, the rage ends. When the rage ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
   name: Boon Access
   prerequisites:
@@ -669,13 +669,13 @@
     <li><strong>Tier 3</strong> - Your death blow HP threshold increases from 10 to 15. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
     </ul>
 - !
-  name: Deathless Berserker
+  name: Deathless Trance
   prerequisites:
     tier1:
       Attribute:
       - Fortitude: 7
       Feat:
-      - Berserker
+      - Battle Trance
   tags:
   - Extraordinary
   cost:
@@ -683,7 +683,7 @@
   description: |
     Your battle fury is legendary, allowing you to fight on long after your body should have given up.
   effect: |
-    While you are raging you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the rage. When the rage ends, if your hit points are below zero, you collapse unconscious. If you are not healed to zero or more hit points within 1 round of your rage ending, you die.
+    While in a battle trance you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the battle trance. When the battle trance ends, if your hit points are below zero, you collapse unconscious. If you are not healed to zero or more hit points within 1 round of your battle trance ending, you die.
 - !
   name: Defensive Reflexes (I - X)
   prerequisites:
@@ -727,22 +727,22 @@
   effect: |
     Any time you use the Defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
 - !
-  name: Destructive Berserker
+  name: Destructive Trance
   prerequisites:
     tier1:
       Attribute:
       - Might: 7
       Feat:
-      - Berserker
+      - Battle Trance
   tags:
   - Extraordinary
   - Might
   cost:
   - 3
   description: |
-    Your rage not only puts you into a fearless trance, but enables you to strike down your enemies with ferocious blows.
+    Your battle trance not only makes you fearless but enables you to strike down your enemies with ferocious blows.
   effect: |
-    While you are raging, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
+    While you are in a battle trance, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
 - !
   name: Diehard
   prerequisites:
@@ -803,22 +803,6 @@
     <li><strong>Tier 3</strong> - Your defense scores are increased by 9 against the chosen energy type.</li>
     <li><strong>Tier 4</strong> - You are immune to damage and harmful effects from the chosen energy type.</li>
     </ul>
-- !
-  name: Entranced Berserker
-  prerequisites:
-    tier1:
-      Attribute:
-      - Will: 7
-      Feat:
-      - Berserker
-  tags:
-  - Combat
-  cost:
-  - 3
-  description: |
-    In the heat of combat, your will becomes indomitable.
-  effect: |
-    While you are raging, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your rage and returns when your rage ends.
 - !
   name: Evasive Footwork
   prerequisites:
@@ -1125,7 +1109,23 @@
   effect: |
     Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, you gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
 - !
-  name: Indomitable Endurance (I - IX)
+  name: Impervious Trance
+  prerequisites:
+    tier1:
+      Attribute:
+      - Will: 7
+      Feat:
+      - Battle Trance
+  tags:
+  - Combat
+  cost:
+  - 3
+  description: |
+    In the heat of combat, your will becomes indomitable.
+  effect: |
+    While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.
+- !
+  name: Indomitable Endurance (I - V)
   prerequisites:
     tier1:
       Attribute:
@@ -1558,13 +1558,13 @@
   effect: |
     Choose one bane that you can invoke that has a duration of "resist ends". When a target uses the Resist action to shake off your invocation of the chosen bane, they have disadvantage 1.
 - !
-  name: Reactionary Berserker
+  name: Reactionary Trance
   prerequisites:
     tier1:
       Attribute:
       - Will: 5
       Feat:
-      - Berserker
+      - Battle Trance
   tags:
   - Combat
   - Mental
@@ -1573,23 +1573,23 @@
   cost:
   - 2
   description: |
-    Your berserker nature is ever-present, waiting to be unleashed at a moment's notice.
+    Your battle trance lies dormant just below the surface, waiting to be unleashed at a moment's notice.
   effect: |
-    You can enter a rage (as per the berserker feat) as a free action even when it is not your turn. You may choose to rage in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to rage after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your rage take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
+    You can enter a battle trance (as per the Battle Trance feat) as a free action even when it is not your turn. You may choose to do so in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to enter a battle trance after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your battle trance take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
 - !
   name: Reckless Frenzy
   prerequisites:
     tier1:
       Feat:
-      - Berserker
+      - Battle Trance
   tags:
   - Combat
   cost:
   - 3
   description: |
-    By willingly punishing your own body, you can enter a raging frenzy that allows you to launch a relentless onslaught of attacks.
+    By willingly punishing your own body, you can enter a frenzy that allows you to launch a relentless onslaught of attacks.
   effect: |
-    While you are raging, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action. Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
+    While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action. Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
 - !
   name: Resilient
   prerequisites:

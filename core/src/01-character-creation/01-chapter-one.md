@@ -286,7 +286,7 @@ heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Berserker* so that they can fly into a frenzied rage in order to decimate their foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Battle Trance* so that they can fly into a frenzied rage in order to decimate their foes.
 
 ### Choose your feats
 
@@ -307,7 +307,7 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Barbarian | Ranger | Monk |
 | :- | :- | :- |
-| Berserker | Master Tracker | Multi-target Attack Specialist 1 (melee) |
+| Battle Trance | Master Tracker | Multi-target Attack Specialist 1 (melee) |
 | Reckless Frenzy | Fleet of Foot 1 |  Martial Focus (Unarmed) |
 | | Attack Specialization 1 (Longbow) | Combat Momentum |
 
