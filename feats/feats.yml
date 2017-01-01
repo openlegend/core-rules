@@ -1130,38 +1130,31 @@
     tier1:
       Attribute:
       - Fortitude: 5
+      - Will: 5
     tier2:
       Attribute:
       - Fortitude: 5
+      - Will: 5
     tier3:
       Attribute:
       - Fortitude: 5
+      - Will: 5
     tier4:
       Attribute:
       - Fortitude: 5
+      - Will: 5
     tier5:
       Attribute:
       - Fortitude: 5
-    tier6:
-      Attribute:
-      - Fortitude: 5
-    tier7:
-      Attribute:
-      - Fortitude: 5
-    tier8:
-      Attribute:
-      - Fortitude: 5
-    tier9:
-      Attribute:
-      - Fortitude: 5
+      - Will: 5
   tags:
   - Physical
   cost:
   - 2
   description: |
-    Your endurance is legendary, allowing you to push on when others would keel over from exhaustion.
+    Your endurance and willpower are legendary, allowing you to push  on when others would keel over from exhaustion.
   effect: |
-    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Extraordinary sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determining the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
+    You are able to shrug off the effects of the Fatigued bane. Treat your fatigue level (per the Fatigued bane description) as one lower than it actually is for the purposes of determining the bane's effects. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
   name: Inspiring Champion (I - III)
   prerequisites:

@@ -1700,7 +1700,6 @@ signals). Furthermore, you gain advantage 1 per tier of this feat to all
 Mental attribute rolls (Learning, Logic, Perception, and Will)
 pertaining to your chosen group.
 
-## Indomitable Endurance (I - IX)
 ## Impervious Trance
 
 **Cost:** 3 points
@@ -1715,24 +1714,20 @@ pertaining to your chosen group.
 
 **Effect:** While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.
 
+## Indomitable Endurance (I - V)
 
 **Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1 - 5:** Fortitude 5
+-   **Tier 1 - 5:** Fortitude or Will 5
 
-**Description:** Your endurance is legendary, allowing you to push on when others would
-keel over from exhaustion. \newline
+**Description:** Your endurance and willpower are legendary, allowing you to push
+on when others would keel over from exhaustion. \newline
 
-**Effect:** You are immune to the fatigued bane when it is caused by regular,
-natural sources, such as a forced march, starvation, or swimming long
-distances. Extraordinary sources of the fatigued bane (such as a
-necromancer's curse) or irregular sources (such as the Battle Trance feat)
-still affect you, but at a reduced effect. Treat your fatigue level as
-one lower than it actually is for the purposes of determining the
-effects of the bane. You may take this feat multiple times. Each
-subsequent tier allows you to ignore an additional level of fatigue.
+**Effect:** You are able to shrug off the effects of the Fatigued bane. Treat your
+fatigue level (per the Fatigued bane description) as one lower than it actually is
+for the purposes of determining the bane's effects. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 
 ## Inspiring Champion (I - III)
 
