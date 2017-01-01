@@ -1,29 +1,5 @@
-# Introduction & Character \
-Creation
-
-Most meaningful tasks that a character attempts in *Open Legend* will be determined by the roll of dice.
-
-To determine the outcome, you roll 1d20 plus any bonus dice granted by your character's attribute that is most relevant to the task. Any dice that roll the maximum possible explode, which means you can roll them again and add the new total to your action roll as well. Continue rerolling dice until none of them explode.
-
-Add all of the dice together to find your total action roll. If your total is equal to or greater than the action’s Challenge Rating, then you succeed. Otherwise, the GM decides that you either succeed with a twist or fail in a way that allows the story to progress.
-
-\NextTableColumns{OCT{1}}
-
-| THE ACTION ROLL |
-| :-: |
-| Roll 1d20 + attribute dice (all dice explode) |
-
-\NextTableColumns{OCT{.40}OCT{.60}}
-
-| **If the action roll...** | **then the result is...** |
-| :- | :--: |
-| equals or exceeds Challenge Rating | the player succeeds. |
-| is less than Challenge Rating | the player succeeds with a twist. \
-\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  - *OR* - \
-\ \ \ the player fails but the story \
-\ \ \ \ \ \ progresses. *(GM's Choice)* |
-
 # Character Creation
+
 
 ## Step 1: Describe Your Character
 
@@ -43,12 +19,6 @@ At the GM's discretion, you may choose to be even smaller or larger than the siz
 
 **A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
 
-\ \
-
-\ \
-
-\ \
-
 +++ {.CalloutInformation}
 
 Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
@@ -62,7 +32,30 @@ Sir Thomas Tuckburrough served as an assassin for the local thieves guild until 
 Talia was raised as a Druid of the Briar Rose, but she fled the Order out of distaste for their violent ways. Now, she fears the reprisal of her ex-brethren at every turn.
 +++
 
-\newpage
+Most meaningful tasks that a character attempts in *Open Legend* will be determined by the roll of dice.
+
+To determine the outcome, you roll 1d20 plus any bonus dice granted by your character's attribute that is most relevant to the task. Any dice that roll the maximum possible explode, which means you can roll them again and add the new total to your action roll as well. Continue rerolling dice until none of them explode.
+
+Add all of the dice together to find your total action roll. If your total is equal to or greater than the action’s Challenge Rating, then you succeed. Otherwise, the GM decides that you either succeed with a twist or fail in a way that allows the story to progress.
+
+\ \
+
+\NextTableColumns{OCT{1}}
+
+| THE ACTION ROLL |
+| :-: |
+| Roll 1d20 + attribute dice (all dice explode) |
+
+\NextTableColumns{OCT{.40}OCT{.60}}
+
+| **If the action roll...** | **then the result is...** |
+| :- | :--: |
+| equals or exceeds Challenge Rating | the player succeeds. |
+| is less than Challenge Rating | the player succeeds with a twist. \
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  - *OR* - \
+\ \ \ the player fails but the story \
+\ \ \ \ \ \ progresses. *(GM's Choice)* |
+
 
 ## Step 2: Choose Attributes
 
@@ -80,6 +73,8 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 ### Physical Attributes at a Glance
 
+\ \
+
 \NextTableColumns{OLT{.33}OLT{.67}}
 
 |||
@@ -90,6 +85,8 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 
 ### Mental Attributes at a Glance
+
+\ \
 
 \NextTableColumns{OLT{.33}OLT{.67}}
 
@@ -102,6 +99,8 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 ### Social Attributes at a Glance
 
+\ \
+
 \NextTableColumns{OLT{.33}OLT{.67}}
 
 | | |
@@ -112,6 +111,8 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 
 ### Extraordinary Attributes at a Glance
+
+\ \
 
 \NextTableColumns{OLT{.33}OLT{.67}}
 
@@ -189,26 +190,36 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 \NextTableColumns{OCT{1}}
 
+| |
+| - |
 | Toughness = 10 + Fortitude + Will |
 
 **Toughness** protects you from attacks that test your endurance, bodily health, sturdiness, and survivability. For example, foes attempting to poison you, drain your life force, or push you off a cliff will target your toughness.
 
 \NextTableColumns{OCT{1}}
 
+| |
+| - |
 | Evasion = 10 + Agility + Armor |
 
 **Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 \NextTableColumns{OCT{1}}
 
+| |
+| - |
 | Resolve = 10 + Presence + Will  |
+
 
 **Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to charm you, deceive you with illusions, or frighten you must target your resolve.
 
 
 \NextTableColumns{OCT{1}}
 
+| |
+| - |
 | Hit Points = 2 x (Fortitude + Presence + Will) + 10 |
+
 
 *That is, add your Fortitude, Presence, and Will scores. Multiply the total by 2. Finally, add 10.*
 
@@ -230,7 +241,8 @@ For example, two different characters who specialize in melee combat might both 
 Feats are purchased using feat points. At 1st level, you have 6 feat
 points to spend. Any leftover feat points may be saved for the future.
 
-A searchable and filterable list of available feats can be found on the [Open Legend Website](http://www.openlegendrpg.com/feats).
+A list of available feats can be found in this SRD under the [feats section](#feats-list) and a searchable and filterable list of available banes and boons can be found on the [Open Legend Website](http://www.openlegendrpg.com/feats).
+
 
 ## Step 5: Choose Starting Equipment
 
@@ -252,7 +264,7 @@ Perks provide very specific bonuses or effects in specific situations. Your perk
 
 ### Activating Flaws
 
-While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see [Actions and Attributes](#Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in the future.
+While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see [Actions & Attributes](#actions-&-attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in the future.
 
 You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
 
@@ -284,7 +296,7 @@ Whether you are an android constructed of spaceage material that does not erode 
 
 #### Arcane Bloodline
 
-Your ancestry can be traced to dragons, fey, or a similarly magical race. As such, you command the respect of those who practice the arcane arts. You are assumed to have knowledge and a destiny for greatness in the ways of magic, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you an apprenticeship with a famous Archmage, or cause a magic-user who does not know you well to follow a prescribed course of action based on your advice if the question is one of Arcane knowledge.
+Your ancestry can be traced to dragons, fey, or a similarly magical race. As such, you command the respect of those who practice the arcane arts.  You are assumed to have knowledge and a destiny for greatness in the ways of magic, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you an apprenticeship with a famous Archmage, or cause a magic-user who does not know you well to follow a prescribed course of action based on your advice if the question is one of Arcane knowledge.
 
 #### Artisan
 
@@ -310,13 +322,14 @@ Your heart is brave beyond bounds. Once per game session, as a free action you c
 
 Whether you are an actor, musician, storyteller, magician, or some other type of performer, the common folk love your work. They adore you for your ability to use your art to transport them to a world beyond their daily drudgery, and you can always find a place to perform and make money at the local tavern or inn.
 
+
 #### Divine Agent
 
 You serve a higher being and have earned their protection. Once per game session, when you are subject to a *Finishing Blow* while your hit points are below 1, you automatically heal to a hit point total of 1.
 
 #### Divine Insight
 
-You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Ear of the Emperor
 
@@ -326,17 +339,13 @@ You have done something in the past to earn the favor of someone in a high place
 
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
 
-#### Inner Strength
-
-Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
-
 #### Innocent
 
-Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts. Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
+Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts.  Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
 
 #### Jack of All Trades
 
-You have a knack for picking up new skills. Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
+You have a knack for picking up new skills.  Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
 
 #### Local Hero
 
@@ -352,11 +361,11 @@ You know the art of economics as well as the best of businessmen. A master of su
 
 #### Noble
 
-Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts. You are also treated as a peer by lesser nobles and can typically request an audience with them. In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
+Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts.  You are also treated as a peer by lesser nobles and can typically request an audience with them.  In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
 
 #### Observant
 
-Your keen senses allow you to notice details that others typically miss. Once per game session, you can use this ability to notice something out of the ordinary. For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing. If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
+Your keen senses allow you to notice details that others typically miss.  Once per game session, you can use this ability to notice something out of the ordinary.  For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing.  If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
 
 #### Outlaw
 
@@ -368,9 +377,11 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 
 #### Pure-hearted
 
-Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
+Any goodly-natured creature you encounter is friendly toward you by default rather than neutral.  Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
 
-You serve a higher being and have earned their protection. Once per game session, when you are subject to a *Finishing Blow* while your hit points are below 1, you automatically heal to a hit point total of 1.
+#### Resilient
+
+Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
 
 #### Scavenger
 
@@ -378,7 +389,7 @@ You have lived a life of need, and thus know how to make do when others would go
 
 #### Scent
 
-Your sense of smell is similar to that of a wild beast. As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
+Your sense of smell is similar to that of a wild beast.  As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
 
 #### Scholar
 
@@ -410,11 +421,11 @@ Having spent significant time fending for yourself in the wilderness, you excel 
 
 #### Warrior’s Code
 
-As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
+As a veteran warrior, you command respect even from foes.  Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
 
 #### Whisperer of the Wild
 
-Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot. The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
+Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot.  The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
 
 
 
@@ -607,7 +618,7 @@ In Open Legend, attributes are the means by which your hit points increase. If y
 
 
 
-# Actions and Attributes #
+# Actions & Attributes
 
 The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to
 interpret the results.
@@ -659,11 +670,9 @@ Many actions that you will undertake in *Open Legend* have a Challenge Rating (C
 Oftentimes, though, the GM will need to determine the CR for actions that aren’t spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
 
 
-#### Challenge Ratings by Difficulty
+\NextTableColumns{OLT{.25}OCT{.25}OLT{.50}}
 
-\ \
-
-\NextTableColumns{OLT{.25}OLT{.25}OLT{.50}}
+\FloatingTable[t]
 
 | Difficulty | Challenge Rating | Example Actions |
 | :-: | :-: | :------ |
@@ -707,15 +716,12 @@ When attempting any roll that does not include attribute dice, you roll 2 d20 an
 
 Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Tables provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
 
-\newpage
-
-#### Advantage and Disadvantage Examples
-
-\ \
 
 \NextTableColumns{OLT{.50}OLT{.50}}
 
-| Situations Meriting Advantage | Situations Meriting Disadvantage |
+\FloatingTable[b]
+
+| **Situations Meriting Advantage** | **Situations Meriting Disadvantage** |
 | :- | :- |
 | Attacking a surprised or unaware foe | Attacking while balancing on a beam |
 | Attacking a foe during an acrobatic stunt | Attacking in a confined space |
@@ -726,6 +732,8 @@ Advantage and disadvantage can be assigned by the GM due to situational effects,
 | Tracking a large group | Tracking a creature smaller than a child |
 
 The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed attribute can be expected to succeed at the listed Challenge Rating close to **50%** of the time.
+
+\newpage
 
 #### Average Challenge Ratings vs. Attribute Scores
 
@@ -4371,7 +4379,7 @@ persists until some other effect would cancel it.
 \
 **Attributes:** Prescience \newline
 
-**Description:** You are able to extraordinarily perceive things through impediments that
+**Description:** You are able to perceive things through impediments that
 would block or deceive normal sight, including darkness, illusions, and
 even the barrier between alternate planes of reality. \newline
 
