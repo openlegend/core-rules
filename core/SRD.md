@@ -1202,23 +1202,13 @@ use the momentum of combat to maneuver around the battlefield with ease. \newlin
 follows you everywhere, you have the constant and unflinching loyalty of
 one particular companion character.  \newline
 
-**Effect:** You gain a companion character that acts independently from you. During
-combat, your companion acts on its own initiative count and gains the
-usual assortment of actions, which you may choose. You also get to
-assign your companion's attributes. The companion's highest attribute is
-determined by your level and your tier in this feat (see below). Your
-companion also possesses attributes at each number lower than its
-highest score. For example, if the companion's highest score is 6, then
-it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains
-no feats or abilities, only attributes and the corresponding access to
-banes and boons. Whenever you gain a level or purchase a new tier in
-this feat, you may reassign your companion's attributes.
+**Effect:** You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no special abilities beyond the feat granted per tier. Whenever you gain a level or purchase a new tier in this feat, you may reassign your companion's attributes and feats.
 
--   **Tier 1** - Your companion's highest attribute equals your level minus 2 (minimum of 3, maximum of 9).
+-   **Tier 1** - Your companion's highest attribute equals your level minus 2 (minimum of 3, maximum of 9). Your companion gains 1 feat, selected from the "Simple Build" NPC feat list in Chapter 7: Running the Game.
 
--   **Tier 2** - Your companion's highest attribute equals your level minus 1 (minimum of 4, maximum of 9).
+-   **Tier 2** - Your companion's highest attribute equals your level minus 1 (minimum of 4, maximum of 9). Your companion gains a 2nd feat from the same list.
 
--   **Tier 3** - Your companion's highest attribute equals your level (minimum of 5, maximum of 9).
+-   **Tier 3** - Your companion's highest attribute equals your level (minimum of 5, maximum of 9).  Your companion gains a 3rd feat from the same list.
 
 **Example:** Fezzy starts at level one with Companion (Tier II), choosing a wolf for
 his companion. Based on Fezzy's level and feat tier, his wolf's highest
@@ -3667,6 +3657,11 @@ no concept of family, creator, or parent. In the case of aggressive
 creatures, the GM would handle interaction normally, but there is a
 strong possibility that the creature would immediately attack its
 creator.
+
+The GM, not the player, is responsible for deciding the attributes and
+abilities of this animated creature and it should follow the guidelines
+established by the "Simple Build" section for creating NPCs / monsters in
+Chapter 7: Running the Game.
 
 -   **Power Level 6** - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating.
 
