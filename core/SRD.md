@@ -1695,10 +1695,8 @@ you are exceptionally skilled at helping others shake off baneful
 afflictions. \newline
 
 **Effect:** You can use a major action to give an ally an immediate Resist roll (a
-free action for the ally). The ally gains a special form of advantage on
-this roll, allowing them to roll 2d20 and keep the highest.
-Additionally, you gain advantage 1 any time you attempt to invoke the
-Restoration boon.
+free action for the ally) with advantage 1. Additionally, you gain advantage 1
+any time you attempt to invoke the Restoration boon.
 
 ## Hunter's Foe (I - IX)
 
@@ -2075,9 +2073,9 @@ hotter. Or maybe you've developed a special chemical to mix in with your
 blinding powder. Whatever the source and whatever the effect, your
 enemies cower before your legendary attack. \newline
 
-**Effect:** Choose one bane that you can invoke and that has a duration of "resist
+**Effect:** Choose one bane that you can invoke that has a duration of "resist
 ends". When a target uses the Resist action to shake off your invocation of
-the chosen bane, they roll two d20s and use the lower die.
+the chosen bane, they have disadvantage 1.
 
 ## Reactionary Berserker
 
@@ -2127,10 +2125,9 @@ this feat.
 
 -   **Tier 1**: Fortitude, Presence, or Will 3
 
-**Description:** Whether through luck, extraordinary will, or exceptional courage, you
-are able to shake off banes quicker than others. \newline
+**Description:** Any time you take the Resist action, you have advantage 1 on the roll. \newline
 
-**Effect:** Any time you take the Resist action, you roll the d20 twice and keep the higher result.
+**Effect:** Any time you make a Resist roll, you have advantage 1 on the roll.
 
 ## Ritual Magic (I - III)
 
@@ -2332,7 +2329,7 @@ to follow your tracks except by extraordinary means.
 deadly attack delivered by you is exceptionally vicious. \newline
 
 **Effect:** Any time you roll a natural 20 on the d20 for an attack action roll, you
-roll twice on all subsequent d20 re-rolls and take the higher result.
+get advantage 1 on all subsequent d20 re-rolls.
 
 ## Wealthy
 
@@ -5032,7 +5029,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Potent Bane:** Choose a bane. When you invoke the chosen bane on a target, Resist rolls to shake off the bane have Disadvantage (the target rolls 2d20 and keeps the lowest, contrary to normal action rolls).
 
-- **Resilient:** Any time you make a Resist roll, you have advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to normal action rolls).
+- **Resilient:** Any time you take the Resist action, you have advantage 1 on the roll.
 
 - **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on.
 Special: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.

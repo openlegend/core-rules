@@ -386,9 +386,9 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Multi Bane Specialist:** Choose two banes that you are able to inflict. You are able to make attacks that inflict your targets with both banes at once. Your attribute score must be equal to or greater than the power level of both banes combined. If the two banes use different key attributes, provided your key attributes for both banes is sufficient, you use the higher of the two attributes for both the attack and determining if you are powerful enough to combine them.
 
-- **Potent Bane:** Choose a bane. When you invoke the chosen bane on a target, Resist rolls to shake off the bane have Disadvantage (the target rolls 2d20 and keeps the lowest, contrary to normal action rolls).
+- **Potent Bane:** Choose a bane. When you invoke the chosen bane on a target, Resist rolls to shake off the bane have disadvantage 1.
 
-- **Resilient:** Any time you make a Resist roll, you have advantage on the d20 roll (roll 2 d20 and keep the higher, contrary to normal action rolls).
+- **Resilient:** Any time you take the Resist action, you have advantage 1 on the roll.
 
 - **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on. \
 **Special**: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.

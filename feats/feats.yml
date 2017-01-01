@@ -1084,7 +1084,7 @@
   description: |
     Through inspiring words, magical healing, or advanced medical technique, you are exceptionally skilled at helping others shake off baneful afflictions.
   effect: |
-    You can use a major action to give an ally an immediate Resist roll (a free action for the ally). The ally gains a special form of advantage on this roll, allowing them to roll 2d20 and keep the highest. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
+    You can use a major action to give an ally an immediate Resist roll (a free action for the ally) with advantage 1. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
 - !
   name: Hunter's Foe (I - IX)
   prerequisites:
@@ -1556,7 +1556,7 @@
   description: |
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
-    Choose one bane that you can invoke and that has a duration of "resist ends". When a target uses the Resist action to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
+    Choose one bane that you can invoke that has a duration of "resist ends". When a target uses the Resist action to shake off your invocation of the chosen bane, they have disadvantage 1.
 - !
   name: Reactionary Berserker
   prerequisites:
@@ -1607,7 +1607,7 @@
   description: |
     Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
   effect: |
-    Any time you take the Resist action, you roll the d20 twice and keep the higher result.
+    Any time you take the Resist action, you have advantage 1 on the roll.
 - !
   name: Ritual Magic (I - III)
   prerequisites:
@@ -1848,7 +1848,7 @@
   description: |
     Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
   effect: |
-    Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on all subsequent d20 re-rolls and take the higher result.
+    Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls.
 - !
   name: Wealthy
   prerequisites:
