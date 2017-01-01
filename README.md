@@ -13,6 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2016 / 12 / 31
+-   Close loophole in `Summon Creature` boon that allowed them to recursively summon others of their type. Also clarified that summoned creatures cannot be revived from zero hit points.
 -   `Indomitable Endurance` feat was tweaked to allow access via a Will attribute prerequisite, also removed the immunity to natural fatigue since the feat already shields against the first level of fatigue and 2 feat points for such a potent effect is overpowered.
 -   Rename `Berserker` feat to `Battle Trance`, and associated feat name updates (`Deathless Berserker` => `Deathless Trance`, `Destructive Berserker` => `Destructive Trance`, `Entranced Berserker` => `Impervious Trance`, `Reactionary Berserker` => `Reactionary Trance`)
 -   `Resilient` was both a feat and a perk, the `Resilient` perk was renamed to `Inner Strength` for clarity
