@@ -493,6 +493,10 @@ You have done something in the past to earn the favor of someone in a high place
 
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
 
+#### Inner Strength
+
+Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
+
 #### Innocent
 
 Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts. Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
@@ -532,10 +536,6 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 #### Pure-hearted
 
 Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
-
-#### Resilient
-
-Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
 
 #### Scavenger
 

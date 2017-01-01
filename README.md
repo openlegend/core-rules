@@ -13,6 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2016 / 12 / 31
+-   `Resilient` was both a feat and a perk, the `Resilient` perk was renamed to `Inner Strength` for clarity
 -   `Companion` feat now grants access to 1 feat per tier, selected from the "Simple Build" NPC creation list in Chapter 7: Running the Game
 -   Changed wording around handling “advantage zero”, other non-action rolls, and the ability to say “advantage x” for any type of die roll. You can now apply "advantage 1" to a Resist roll, for example, but a roll without attribute dice can not be modified beyond Advantage 1 or Disadvantage 1
 -   Tweaked the Power Levels of `Persistent Damage` bane, they are now: 4 (d6) / 6 (d8) / 8 (d10) / 9 (2d6)

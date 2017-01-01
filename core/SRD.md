@@ -310,7 +310,6 @@ Your heart is brave beyond bounds. Once per game session, as a free action you c
 
 Whether you are an actor, musician, storyteller, magician, or some other type of performer, the common folk love your work. They adore you for your ability to use your art to transport them to a world beyond their daily drudgery, and you can always find a place to perform and make money at the local tavern or inn.
 
-
 #### Divine Agent
 
 You serve a higher being and have earned their protection. Once per game session, when you are subject to a *Finishing Blow* while your hit points are below 1, you automatically heal to a hit point total of 1.
@@ -326,6 +325,10 @@ You have done something in the past to earn the favor of someone in a high place
 #### Idol
 
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
+
+#### Inner Strength
+
+Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
 
 #### Innocent
 
@@ -367,9 +370,7 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 
 Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
 
-#### Resilient
-
-Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
+You serve a higher being and have earned their protection. Once per game session, when you are subject to a *Finishing Blow* while your hit points are below 1, you automatically heal to a hit point total of 1.
 
 #### Scavenger
 
