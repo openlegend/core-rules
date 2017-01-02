@@ -125,8 +125,8 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed, Forced Move |
 | Blow Gun, Dart | Close Ranged | 1 | Precise, Forceful | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 1 | Precise, Forceful, Swift | Persistent Damage, Disarmed |
-| Short Spear | Versatile Melee, Close Ranged | 1 | Precise, Forceful, Defensive 1 | Persistent Damage, Disarmed, Immobile |
-| Long Spear | Versatile Melee, Short Ranged | 1 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
+| Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful, Defensive 1 | Persistent Damage, Disarmed, Immobile |
+| Long Spear | Two-handed Melee, Short Ranged | 1 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
 | Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
 | Plasma Blade, Enchanted Longsword | One-handed Melee | 4 | Precise, Deadly 2 | Persistent Damage, Disarmed, Stunned |
 | Sawed-off Shotgun | Medium Ranged | 2 | Precise | Persistent Damage, | Stunned, Forced Move |

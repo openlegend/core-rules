@@ -809,9 +809,9 @@ Below is a complete list of feats available to any character that meets the prer
 
 **Effect:** Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
 
-- Tier 1 – Half of your primary form's attribute points (rounded up), and 3 feat points.
+- **Tier 1** – Half of your primary form's attribute points (rounded up), and 3 feat points.
 
-- Tier 2 – Same attribute points as your primary form, and 3 feat points per level.
+- **Tier 2** – Same attribute points as your primary form, and 3 feat points per level.
 
 Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
 You may transform from one form to another as a focus action. Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
@@ -834,26 +834,22 @@ avoid allies who would otherwise be caught in the line of fire. \newline
 **Effect:** For each tier of this feat you possess, you can omit a single 5-foot
 square from being targeted as part of an area attack.
 
-## Armor Mastery (I - III)
+## Armor Mastery (I - II)
 
-**Cost:** 2 points
+**Cost:** 3 points
 \
 **Prerequisites:**
 
 -   **Tier 1 - 3:** None
 
-**Description:** You are specially trained with particular armor type, allowing you to
+**Description:** You are specially trained to wear armor into battle, allowing you to
 maximize its protection and minimize its drawbacks. \newline
 
-**Effect:** Choose an armor type to specialize in. Your training allows you to sleep
-in that armor type without becoming fatigued. In addition, while wearing
-armor of that type, you gain the following benefits.
+**Effect:** Your training allows you to sleep in armor without becoming fatigued. In addition, while wearing armor, you gain the following benefits.
 
--   Tier 1 - The Might prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.
+-   **Tier 1** - The Might prerequisite for wearing armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.
 
--   Tier 2 - The Might prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.
-
--   Tier 3 - The Might prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3. Any movement penalty is reduced by 10 feet.
+-   **Tier 2** - The Might prerequisite for wearing armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.
 
 ## Attack Redirection
 
@@ -977,9 +973,10 @@ your character. \newline
 **Description:** You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian, or an unstoppable samurai with laser focus in the heat of battle. \newline
 
 **Effect:** As a free action on your turn, you may enter a battle trance. While
-entranced, you have advantage 1 on all attacks. Additionally, if you are not wearing
-armor, all of your defense scores are increased by 5. If you take three consecutive
-turns without making an attack roll against a creature, the battle trance ends. When
+entranced, you have advantage 1 on all attacks. Additionally, your Toughness and
+Resolve defenses are increased by 3. If you are not wearing armor, your Resilience
+defense is also increased by 3. If you take three consecutive turns without
+making an attack roll against an enemy creature, the battle trance ends. When
 the battle trance ends, you automatically suffer 1 level of the [*fatigue bane*](#fatigued).
 
 ## Battlefield Defender
@@ -1376,13 +1373,32 @@ sustain the battle trance. When the battle trance ends, if your hit points are b
 zero, you collapse unconscious. If you are not healed to zero or more hit points
 within 1 round of your battle trance ending, you die.
 
-## Defensive Reflexes (I - X)
+
+## Defensive Mastery
+
+**Cost:** 3 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: None
+
+**Description:** You are specially trained in the use of defensive implements and
+can get more protective use out of them. Examples include a martial artist's
+defensive kata or a soldier with a riot shield. \newline
+
+**Effect:** When wielding a weapon or implement with the Defensive property, you
+gain a +1 armor bonus. In addition, the Defensive value of the item is increased
+by 1 when you wield it. So Defensive 1 becomes Defensive 2 and Defensive 2 becomes
+Defensive 3.
+
+
+## Defensive Reflexes (I - IX)
 
 **Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1 - 10:** Agility 3
+-   **Tier 1 - 9:** Agility 3
 
 **Description:** You are a master of defense, able to predict exactly where your opponent
 will strike and thwart their attack. \newline
@@ -2024,13 +2040,13 @@ associated with invoking boons for multiple targets by 1.
 
 ## Natural Defense (I - III)
 
-**Cost:** 2 points
+**Cost:** 3 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Fortitude 3
--   **Tier 2**: Fortitude 5
--   **Tier 3**: Fortitude 7
+-   **Tier 1**: Fortitude 2
+-   **Tier 2**: Fortitude 3
+-   **Tier 3**: Fortitude 5
 
 **Description:** Whether through draconic heritage, a cyborg exoskeleton, or just a
 lifetime of conditioning, your skin is tough as nails, allowing your
@@ -2041,9 +2057,9 @@ Toughness and Resilience defenses. You may still gain this bonus when
 wielding a shield. Your armor bonus is determined by your tier in this
 feat:
 
--   **Tier 1** - +3 armor bonus
--   **Tier 2** - +5 armor bonus
--   **Tier 3** - +7 armor bonus
+-   **Tier 1** - +1 armor bonus
+-   **Tier 2** - +2 armor bonus
+-   **Tier 3** - +3 armor bonus
 
 ## Overpowering Strike
 
@@ -2266,7 +2282,7 @@ possess.
 
 ## Two Weapon Defense
 
-**Cost:** 2 points
+**Cost:** 3 points
 \
 **Prerequisites:**
 
@@ -2276,8 +2292,7 @@ possess.
 
 **Description:** Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons. \newline
 
-**Effect:** When you have a weapon in each hand, you gain a +2 armor bonus. This
-feat cannot be used in conjunction with a shield.
+**Effect:** When you have a weapon in each hand, you gain a +1 armor bonus.
 
 ## Unending Charm
 

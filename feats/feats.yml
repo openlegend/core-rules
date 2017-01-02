@@ -54,7 +54,7 @@
   effect: |
     For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.
 - !
-  name: Armor Mastery (I - III)
+  name: Armor Mastery (I - II)
   prerequisites:
     tier1:
       Other:
@@ -62,21 +62,17 @@
     tier2:
       Other:
       - None
-    tier3:
-      Other:
-      - None
   tags:
   - No Prerequisite
   cost:
   - 2
   description: |
-    You are specially trained with particular armor type, allowing you to maximize its protection and minimize its drawbacks.
+    You are specially trained to wear armor into battle, allowing you to maximize its protection and minimize its drawbacks.
   effect: |
-    Choose an armor type to specialize in. Your training allows you to sleep in that armor type without becoming fatigued. In addition, while wearing armor of that type, you gain the following benefits.
+    Your training allows you to sleep in armor without becoming fatigued. In addition, while wearing armor, you gain the following benefits.
     <ul>
-    <li>Tier 1 - The Might prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
-    <li>Tier 2 - The Might prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
-    <li>Tier 3 - The Might prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3. Any movement penalty is reduced by 10 feet.</li>
+    <li><strong>Tier 1</strong> - The Might prerequisite for wearing armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
+    <li><strong>Tier 2</strong> - The Might prerequisite for wearing armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
     </ul>
 - !
   name: Attack Redirection
@@ -218,7 +214,7 @@
   description: |
     You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian, or an unstoppable samurai with laser focus in the heat of battle.
   effect: |
-    As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, if you are not wearing armor, all of your defense scores are increased by 5. If you take three consecutive turns without making an attack roll against a creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
+    As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, your Toughness and Resolve defenses are increased by 3. If you are not wearing armor, your Resilience defense is also increased by 3. If you take three consecutive turns without  making an attack roll against an enemy creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
   name: Battlefield Defender
   prerequisites:
@@ -685,7 +681,21 @@
   effect: |
     While in a battle trance you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the battle trance. When the battle trance ends, if your hit points are below zero, you collapse unconscious. If you are not healed to zero or more hit points within 1 round of your battle trance ending, you die.
 - !
-  name: Defensive Reflexes (I - X)
+  name: Defensive Mastery
+  prerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Combat
+  cost:
+  - 3
+  description: |
+    You are specially trained in the use of defensive implements and can get more protective use out of them. Examples include a martial artist's defensive kata or a soldier with a riot shield.
+  effect: |
+    When wielding a weapon or implement with the Defensive property, you gain a +1 armor bonus. In addition, the Defensive value of the item is increased by 1 when you wield it. So Defensive 1 becomes Defensive 2 and Defensive 2 becomes Defensive 3.
+- !
+  name: Defensive Reflexes (I - IX)
   prerequisites:
     tier1:
       Attribute:
@@ -712,9 +722,6 @@
       Attribute:
       - Agility: 3
     tier9:
-      Attribute:
-      - Agility: 3
-    tier10:
       Attribute:
       - Agility: 3
   tags:
@@ -1496,28 +1503,28 @@
   prerequisites:
     tier1:
       Attribute:
-      - Fortitude: 3
+      - Fortitude: 2
     tier2:
       Attribute:
-      - Fortitude: 5
+      - Fortitude: 3
     tier3:
       Attribute:
-      - Fortitude: 7
+      - Fortitude: 5
   tags:
   - Combat
   - Physical
   - Defense
   - Fortitude
   cost:
-  - 2
+  - 3
   description: |
     Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.
   effect: |
-    When you are not wearing armor, you gain an armor bonus to your Toughness and Resilience defenses. You may still gain this bonus when wielding a shield. Your armor bonus is determined by your tier in this feat:
+    When you are not wearing armor, you gain an armor bonus to your Toughness and Resilience defenses. Your armor bonus is determined by your tier in this feat:
     <ul>
-    <li><strong>Tier 1</strong> - +3 armor bonus</li>
-    <li><strong>Tier 2</strong> - +5 armor bonus</li>
-    <li><strong>Tier 3</strong> - +7 armor bonus</li>
+    <li><strong>Tier 1</strong> - +1 armor bonus</li>
+    <li><strong>Tier 2</strong> - +2 armor bonus</li>
+    <li><strong>Tier 3</strong> - +3 armor bonus</li>
     </ul>
 - !
   name: Overpowering Strike
@@ -1788,11 +1795,11 @@
   - Physical
   - Agility
   cost:
-  - 2
+  - 3
   description: |
     Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons.
   effect: |
-    When you have a weapon in each hand, you gain a +2 armor bonus. This feat cannot be used in conjunction with a shield.
+    When you have a weapon in each hand, you gain a +1 armor bonus.
 - !
   name: Unending Charm
   prerequisites:
