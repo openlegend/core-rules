@@ -2793,10 +2793,10 @@ magical power, you cause your enemies to doubt themselves. \newline
 
 -   Agility vs. Resilience
 -   Alteration vs. Resilience
--   Energy vs. Toughness
+-   Energy vs. Resilience
 -   Entropy vs. Toughness
 -   Influence vs. Resolve
--   Might vs. Toughness
+-   Might vs. Resilience
 -   Movement vs. Resilience
 
 **Description:** Whether through wrestling it from your opponent, forcefully knocking it
@@ -2948,7 +2948,7 @@ are removed instead of just one.
 -   Creation vs. Resolve
 -   Entropy vs. Resolve
 -   Influence vs. Resolve
--   Might vs. Toughness
+-   Might vs. Resolve
 
 **Description:** You manifest an overwhelming force of physical might or manifest
 power that strikes terror into the hearts of enemies, causing them to
@@ -2977,9 +2977,9 @@ you to inflict the bane for the next hour.
 \
 **Attack:**
 
--   Energy vs. Toughness
--   Might vs. Toughness
--   Movement vs. Toughness
+-   Energy vs. Resilience
+-   Might vs. Resilience
+-   Movement vs. Resilience
 
 **Description:** With a forceful blow, magical gust of wind, or telekinetic push, you
 move your target against its will. \newline
@@ -3006,11 +3006,11 @@ move your target against its will. \newline
 
 -   Agility vs. Resilience
 -   Alteration vs. Resilience
--   Creation vs. Toughness
--   Energy vs. Toughness
--   Entropy vs. Toughness
+-   Creation vs. Resilience
+-   Energy vs. Resilience
+-   Entropy vs. Resilience
 -   Influence vs. Resolve
--   Might vs. Toughness
+-   Might vs. Resilience
 
 **Description:** Whether through grappling, a precise nerve strike, entangling vines,
 exerting mental control, or a bone-numbing blast of cold, you render
@@ -3086,8 +3086,8 @@ you to inflict the bane for the next hour.
 \
 **Attack:**
 
--   Energy vs. Toughness
--   Might vs. Toughness
+-   Energy vs. Resilience
+-   Might vs. Resilience
 
 **Description:** Fights are called “knock down, drag out” for a reason. Knocking an
 opponent prone is a common way for one combatant to gain the upper hand.
@@ -3176,7 +3176,7 @@ for the next 24 hours.
 **Attack:**
 
 -   Agility vs. Resilience
--   Energy vs. Toughness
+-   Energy vs. Resilience
 -   Entropy vs. Toughness
 
 **Description:** Whether by setting the target ablaze, covering them in acid, slicing an
@@ -3411,14 +3411,13 @@ inducing nausea which makes any kind of action difficult. \newline
 \
 **Attack:**
 
--   Agility vs. Resilience
+-   Agility vs. Toughness
 -   Alteration vs. Toughness
 -   Entropy vs. Toughness
 -   Might vs. Toughness
 
-**Description:** Silence overcomes the target (whether from magically warping sound
-around the target) or from a physical effect like strangulation or
-suffocation. \newline
+**Description:** Silence overcomes the target (whether from extroardinary of warping
+sound around the target) or from a physical effect like strangulation or suffocation. \newline
 
 **Effect:** If Might, Agility, or Entropy is used to inflict this bane, then the
 character is suffering strangulation and unable to speak. If the bane is
@@ -3439,8 +3438,8 @@ belongings they are carrying inaudible.
 -   Agility vs. Resilience
 -   Energy vs. Toughness
 -   Entropy vs. Toughness
--   Might vs. Toughness
--   Movement vs. Toughness
+-   Might vs. Resilience
+-   Movement vs. Resilience
 
 **Description:** Slowing an enemy is usually caused by either extreme cold, prolonged
 heat, poison, or injury to one or both legs. \newline

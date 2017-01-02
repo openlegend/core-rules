@@ -143,10 +143,10 @@
   attack:
   - Agility vs. Resilience
   - Alteration vs. Resilience
-  - Energy vs. Toughness
+  - Energy vs. Resilience
   - Entropy vs. Toughness
   - Influence vs. Resolve
-  - Might vs. Toughness
+  - Might vs. Resilience
   - Movement vs. Resilience
   invocationTime: 1 Major Action
   duration: Instantaneous
@@ -249,7 +249,7 @@
   - Creation vs. Resolve
   - Entropy vs. Resolve
   - Influence vs. Resolve
-  - Might vs. Toughness
+  - Might vs. Resolve
   invocationTime: 1 Major Action
   duration: Special
   description: |
@@ -273,9 +273,9 @@
   - Might
   - Movement
   attack:
-  - Energy vs. Toughness
-  - Might vs. Toughness
-  - Movement vs. Toughness
+  - Energy vs. Resilience
+  - Might vs. Resilience
+  - Movement vs. Resilience
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
@@ -306,11 +306,11 @@
   attack:
   - Agility vs. Resilience
   - Alteration vs. Resilience
-  - Creation vs. Toughness
-  - Energy vs. Toughness
-  - Entropy vs. Toughness
+  - Creation vs. Resilience
+  - Energy vs. Resilience
+  - Entropy vs. Resilience
   - Influence vs. Resolve
-  - Might vs. Toughness
+  - Might vs. Resilience
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
@@ -357,8 +357,8 @@
   - Energy
   - Might
   attack:
-  - Energy vs. Toughness
-  - Might vs. Toughness
+  - Energy vs. Resilience
+  - Might vs. Resilience
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
@@ -435,7 +435,7 @@
   - Entropy
   attack:
   - Agility vs. Resilience
-  - Energy vs. Toughness
+  - Energy vs. Resilience
   - Entropy vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
@@ -619,14 +619,14 @@
   - Entropy
   - Might
   attack:
-  - Agility vs. Resilience
+  - Agility vs. Toughness
   - Alteration vs. Toughness
   - Entropy vs. Toughness
   - Might vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Silence overcomes the target (whether from magically warping sound around the target) or from a physical effect like strangulation or suffocation.
+    Silence overcomes the target (whether from extroardinary of warping sound around the target) or from a physical effect like strangulation or suffocation.
   effect: |
     If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5’ of the target is magically suppressed, making their footsteps and the usual clank of belongings they are carrying inaudible.
 - !
@@ -646,8 +646,8 @@
   - Agility vs. Resilience
   - Energy vs. Toughness
   - Entropy vs. Toughness
-  - Might vs. Toughness
-  - Movement vs. Toughness
+  - Might vs. Resilience
+  - Movement vs. Resilience
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
