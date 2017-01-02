@@ -1348,7 +1348,7 @@
   prerequisites:
     tier1:
       Attribute:
-      - Perception: 5
+      - Perception: 4
   tags:
   - Non-Combat
   - Mental

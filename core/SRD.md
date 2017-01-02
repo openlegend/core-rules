@@ -1902,7 +1902,7 @@ you make which do not use your martial focus suffer disadvantage 1.
 \
 **Prerequisites:**
 
--   **Tier 1**: Perception 5
+-   **Tier 1**: Perception 4
 
 **Description:** Your skill at tracking and hunting your quarry is unmatched, allowing
 you to follow trails long after others would have lost them. \newline
