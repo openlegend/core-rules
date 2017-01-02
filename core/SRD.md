@@ -840,7 +840,7 @@ square from being targeted as part of an area attack.
 \
 **Prerequisites:**
 
--   **Tier 1 - 3:** None
+-   **Tier 1 - 2:** None
 
 **Description:** You are specially trained to wear armor into battle, allowing you to
 maximize its protection and minimize its drawbacks. \newline
