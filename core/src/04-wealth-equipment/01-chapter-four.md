@@ -73,106 +73,168 @@ Some items have the *heavy* property. You can carry a number of *heavy* items eq
 
 Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5’.
 
-## Weapons
 
-In this section, several tables present the melee and ranged weapons that your character will use in battle. Each table presents several columns of information.
 
-**Wealth Level** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
+## Weapons & Implements
+
+In this section you will find the tools needed to pick weapons and armor that your character will use in battle. The first half is a simplified weapon and armor creation table that can help to guide you to the right choice that makes the most sense for your Character. The second half is a more complex area for making more specific weapons.
+
+*Open Legend does not insist that every weapon be equal in terms of the mechanical benefits in using it, thus some weapons will be seen more often, since they offer more advantages to the wielder than other weapons.*
+
+**Examples** are a few weapons or armor that could reflect this category. It is not an exhaustive list by any means, but simply something to get your brain working. Feel free to discuss with your GM about other items that would make sense.
+
+**Category** is the general group that the weapon falls into. Some weapons may fall into multiple categories. If a weapon falls into multiple categories, for each attack, the wielder must choose the mode being used and the attack gains the benefits of that category. For example a dagger is both “Close Ranged” and “Light Melee”. On each attack, the wielder chooses the mode.
+
+
+* **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
+
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying a shield, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target’s defense.
+    * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
+    * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
+
+* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you. A weapon like a grenade or rocket launcher should be handled as one-time use, consumable extraordinary item.
+    * **Range Increments**
+
+        * **Close Ranged** - Range increment of 25’.
+        * **Short Ranged** - Range increment of 50’.
+        * **Medium Ranged** - Range increment of 75’.
+        * **Long Ranged** - Range increment of 125’.
+        * **Extreme Ranged** - Range increment of 300’.
+
+    * **Close** and **Short** Ranged weapons are built to be compact and effective in close quarters, so they are less bulky. They can be wielded with a single hand, allowing the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
+    * **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
+    * **Extreme** Ranged weapons are built for distance and given their specialized calibration, cannot be used to attack a target closer than 50’.
+
+**WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting attribute prerequisites.
-In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting attribute prerequisites. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
-### Weapon Properties
-
-**Forceful** – This weapon can be used to make attacks with the Might attribute.
-
-**Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score plus one.
-
-**One-handed** – The weapon uses a single hand and allows the other hand to be used for carrying a shield, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain Advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target's defense.
-
-**Precise** –  This weapon can be used to make attacks with the Agility attribute.
-
-**Range** – This weapon can be used to make ranged attacks with no penalty up to the indicated distance (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made.
-
-**Reach** – The weapon can be used to attack enemies 10 feet away.
-
-**Swift** – If you are wielding this weapon at the beginning of combat, you gain advantage on your initiative roll equal to the weapons *swift* value (i.e., *swift* 2 provides advantage 2). You may also gain this benefit even if you are not wielding the weapon at the beginning of combat, but in doing so you commit yourself to drawing the weapon on your first turn. If you are wielding multiple weapons, the provided bonus is limited to the lowest among the weapons you wield.
-
-**Two-handed** – The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly. Note that ranged attacks do not grant advantage when made with two hands.
-
-**Versatile** – The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
 <div class="table-no-body"></div>
-| Melee Weapons |
+| Weapons & Implements |
 | - |
 | |
 
-| Weapon | Wealth Level | Properties | Banes |
-| :- | :- | :--- | :-- |
-| Unarmed Strike | 0 | One-handed, Precise, Forceful, Swift 2 | Stunned |
-| Dagger | 1 | One-handed, Precise, Swift 2, Range 25' | Persistent Damage |
-| Longsword | 2 | Versatile, Forceful, Precise | – |
-| Battle Axe | 2 | Versatile, Forceful | – |
-| Spear | 1 | Two-handed, Reach, Range 35', Forceful, Precise | – |
-| Mace | 1 | One-handed, Forceful | Knockdown |
-| Quarterstaff | 1 | Two-handed, Reach, Forceful, Precise | Knockdown |
-| Flail | 2 | Two-handed, Forceful, Precise | Knockdown, Immobile, Forced Move |
-| Hatchet | 1 | One-handed, Range 25', Swift 1, Forceful, Precise | – |
-| Scimitar | 2 | Versatile, Precise, Swift 1 | – |
-| Short Sword | 2 | One-handed, Precise, Swift 1 | Slowed |
-| Warhammer | 2 | One-Handed, Forceful | Knockdown |
-| Maul | 2 | Forceful, Two-handed, Heavy | Knockdown, Forced Move, Stunned |
-| Glaive | 2 | Two-handed, Reach, Forceful, Precise | Knockdown, Immobile |
-| Greataxe | 2 | Two-handed, Forceful, Heavy | Knockdown, Forced Move |
-| Greatsword | 2 | Two-handed, Forceful, Precise, Heavy | Knockdown, Forced Move |
 
-<div class="table-no-body"></div>
-| Ranged Weapons |
-| - |
-| |
+| Examples | Category | WL | Properties | Banes |
+| :---- | :-: | :-: | :---- | :---- |
+| Unarmed Strike | One-handed Melee | 0  | Precise, Forceful, Swift | Stunned, Knockdown |
+| Bowie Knife, Shiv, Multi-tool, Sai | One-handed Melee | 1 | Precise, Swift | Persistent Damage, Disarmed |
+| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed, Forced Move |
+| Blow Gun, Dart | Close Ranged | 1 | Precise, Forceful | Immobile |
+| Hatchet, Dagger | Close Ranged, One-handed Melee | 1 | Precise, Forceful, Swift | Persistent Damage, Disarmed |
+| Short Spear | Versatile Melee, Close Ranged | 1 | Precise, Forceful, Defensive 1 | Persistent Damage, Disarmed, Immobile |
+| Long Spear | Versatile Melee, Short Ranged | 1 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
+| Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
+| Plasma Blade, Enchanted Longsword | One-handed Melee | 4 | Precise, Deadly 2 | Persistent Damage, Disarmed, Stunned |
+| Sawed-off Shotgun | Medium Ranged | 2 | Precise | Persistent Damage, | Stunned, Forced Move |
+| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach, Defensive 1 | Knockdown, Immobile, Forced Move |
+| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Persistent Damage, Stunned |
+| Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
+| Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
+| Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
+| Heavy Crossbow, Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
+| Longbow, Rifle | Long Ranged | 2 | Precise | Slowed, Persistent Damage, Stunned |
+| Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
+| Sniper Rifle | Extreme Ranged | 3 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
+| Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
+| Laser Cannon | Extreme Ranged | 5 | Slow, Deadly 3, Delayed Ready | Persistent Damage, Forced Move, Stunned |
+| Small Shield | One-handed Melee | 1 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
+| Riot Shield, Tower Shield | One-handed Melee | 2 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
-| Weapon | Wealth Level | Properties | Banes |
-| :- | :- | :--- | :- |
-| Crossbow | 2 | Two-handed, Range 50', Precise | Slowed |
-| Hand Crossbow | 2 | One-handed, Range 35', Precise, Swift 1 | Slowed |
-| Longbow | 2 | Two-handed, Range 100', Precise | Slowed |
-| Shortbow | 1 | Two-handed, Range 50', Precise, Swift 1 | Slowed |
+
+### Properties
+
+
+**Deadly** - Some weapons are so highly effective that they significantly increase damage potential beyond what the wielder would typically be capable of. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
+
+**Defensive** - A defensive weapon grants advantage equal to it’s value when it’s wielder takes the Defend action.
+
+**Delayed Ready** - the weapon cannot be used more than once per round. In addition, after using the weapon, the wielder must spend a move action to ready the weapon before it can be used again.
+
+**Forceful** - This weapon can be used to make attacks with the Might attribute.
+
+**Immobile** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
+
+**Precise** - This weapon can be used to make attacks with the Agility attribute.
+
+**Reach** - The weapon can be used to attack enemies 10’ away.
+
+**Slow** -  If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+
+**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
 
 ## Armor
 
-Armor provides a bonus to your evasion score, thus reducing or negating the damage that you would suffer from many types of attacks. The Armor table summarizes the following properties of each type of armor:
+Armor provides a bonus to your Resilience defense, thus reducing or negating the damage that you would suffer from many types of attacks.
+
+Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
+
+The Armor table summarizes the following properties of each type of armor:
 
 **Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
 
-The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to their Might score plus one.
-
-**Defense Bonus** indicates the bonus that your character gains to their evasion defense.
+**Defense Bonus** indicates the bonus that your character gains to their Resilience defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
-Donning and removing armor takes a number of minutes equal to the total armor bonus. Sleeping in armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of fatigue, which applies disadvantage 1 to all action rolls until they get a proper night’s rest.
+Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night’s rest.
 
 <div class="table-no-body"></div>
 | Armor |
 | - |
 | |
 
-| Armor | Wealth Level | Required Might | Heavy | Defense Bonus | Speed Penalty |
-| :-- | :-: | :-: | :-: | :-: | :-: |
-| Small Shield^ | 1 | 1 | no | 1 | 0 |
-| Large Shield^ | 1 | 3 | yes | 2 | 0 |
-| Leather | 1 | 0 | no | 2 | 0 |
-| Chain Shirt | 2 | 2 | no | 3 | 0 |
-| Scale Shirt | 2 | 2 | yes | 4 | 0 |
-| Chainmail | 2 | 3 | yes | 5 | 5’ |
-| Scale Mail | 2 | 4 | yes | 6 | 5’ |
-| Plate Mail | 3 | 5 | yes | 7 | 10’ |
-| Elven Plate Mail | 4 | 3 | yes | 7 | 5’ |
+| Examples | Type | Wealth Level | Required Might | Defense Bonus | Speed Penalty |
+| :----- | :-: | :-: | :-: | :-: |
+| Leather, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
+| Chain Shirt, Kevlar Vest, Bioweave | Medium | 2 | 3 | 2 | 0 |
+| Yoroi Armor, Plate Mail | Heavy | 2 | 5 | 3 | 5’ |
+| Power Armor, Elven Plate Mail | Heavy | 4 | 2 | 3 | 0 |
 
-**^** Grants advantage 1 when using the defend action.
+## Building Your Own Weapons
+
+Open Legend is all about freeform creativity, so we’ve given you lots of examples with the Weapons table, but the list is by no means exhaustive. If  you want to build your own custom weapon, follow the steps below
+
+### Step 1: Choose a Category
+
+Typically a weapon belongs to one category, however some weapons, such as a dagger or a hybrid sword-gun might fall into two categories. No weapon should fall into more than two categories, but selecting either one or two categories is at the discretion of the player and GM. This step has no impact on the weapon’s cost.
+
+### Step 2: Choose Properties
+
+Every weapon must have either the Forceful or Precise property and some weapons have both. Choose one or both.
+
+Next, you will may select a number of properties that have significant game impact, just like Forceful and Precise, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon by 1.
+
+The Deadly property increases an item’s Wealth Level by 2 per tier. So a Deadly 2 item has a starting Wealth Level 4.
+
+Defensive, Reach, and Swift properties all increase the Wealth Level of the item by 1. Slow, Immobile, and Delayed Read properties reduce the Wealth Level of the item by 1.
+
+If a weapon has a Deadly value of 2 or more and no drawback properties (e.g. Slow, Delayed Ready, etc.), then it’s Wealth Level is increased by 1 above and beyond the Wealth Level increases from other beneficial properties.
+
+### Step 3: Choose Banes
+
+Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact Wealth Level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
+
+### Step 4: Calculate Wealth Level
+
+Based on the decisions from your choices in Step 2 and Step 3, figure out the Wealth Level of the weapon.
+
+**Weapon Building Example: Kusari-Gama (Chain & Sickle)**
+
+Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
+
+**Step 1 (Choose a Category)** - While the kusari-gama, might typically be used as a short bladed melee weapon, it can also be swung via it's long chain. As such, we will give it both the  **One-handed Melee** and **Close Ranged** properties.
+
+**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance.
+
+**Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
+
+**Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
+
 
 ## Adventuring Gear
 

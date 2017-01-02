@@ -12,6 +12,12 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 01 / 02
+-   **Major Change to Weapons** - Weapons now include multiple examples of each type that shares the same properties and now have a `Category` which determines the various ways it can be used.
+-   Added a `Building Your Own Weapons` table that shows the process for building a balanced weapon
+-   **Major Change to Evasion** - the `Evasion` defense score has been changed and renamed to `Resilience` which is calculated as: `Resilience = 10 + Agility + Might + Armor` and bane defense targets have been changed to accommodate the difference
+-   **Major Change to Armor** - For multi-genre purposes, and coinciding with the change from `Evasion` => `Resilience`, Armor now has three categories: `Light`, `Medium`, and `Heavy` and is simplified in the interest of making it easier to understand where armor that is not accounted for on the table should fall on the spectrum
+
 #### 2017 / 01 / 01
 -   Fix `Invisible` and `Blinded` banes so they don’t violate Open Legend’s "one roll" principle. Also clean up various other issues with both and add a “lesser” Invisible at PL 5.
 
