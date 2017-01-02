@@ -2500,22 +2500,24 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed, Forced Move |
 | Blow Gun, Dart | Close Ranged | 1 | Precise, Forceful | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 1 | Precise, Forceful, Swift | Persistent Damage, Disarmed |
-| Short Spear | Versatile Melee, Close Ranged | 1 | Precise, Forceful, Defensive 1 | Persistent Damage, Disarmed, Immobile |
-| Long Spear | Versatile Melee, Short Ranged | 1 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
-| Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
 | Plasma Blade, Enchanted Longsword | One-handed Melee | 4 | Precise, Deadly 2 | Persistent Damage, Disarmed, Stunned |
-| Sawed-off Shotgun | Medium Ranged | 2 | Precise | Persistent Damage, | Stunned, Forced Move |
-| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach, Defensive 1 | Knockdown, Immobile, Forced Move |
-| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Persistent Damage, Stunned |
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
+| Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful, Defensive 1 | Persistent Damage, Disarmed, Immobile |
+| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Persistent Damage, Stunned |
+| Long Spear | Two-handed Melee, Short Ranged | 1 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
+| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach, Defensive 1 | Knockdown, Immobile, Forced Move |
+| Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
+| Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Burst 2 | Persistent Damage, Knockdown, Forced Move |
+| Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
+| Sawed-off Shotgun | Medium Ranged | 2 | Precise | Persistent Damage, Stunned, Forced Move |
 | Heavy Crossbow, Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
 | Longbow, Rifle | Long Ranged | 2 | Precise | Slowed, Persistent Damage, Stunned |
-| Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
-| Sniper Rifle | Extreme Ranged | 3 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Laser Cannon | Extreme Ranged | 5 | Slow, Deadly 3, Delayed Ready | Persistent Damage, Forced Move, Stunned |
+| Sniper Rifle, Phase Rifle | Extreme Ranged | 3 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
+| Laser Cannon | Extreme Ranged | 5 | Slow, Deadly 3, Delayed Ready, Heavy | Persistent Damage, Forced Move, Stunned |
+| Rocket Launcher, Mech Warhead | Extreme Ranged | 4 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Burst 3 | Persistent Damage, Stunned, Forced Move |
 | Small Shield | One-handed Melee | 1 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 2 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
@@ -2525,13 +2527,19 @@ In this section you will find the tools needed to pick weapons and armor that yo
 ### Properties
 
 
+**Burst** - A burst weapon grants advantage equal to it’s value when it’s wielder takes makes a multi-target attack.
+
+**Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
+
 **Deadly** - Some weapons are so highly effective that they significantly increase damage potential beyond what the wielder would typically be capable of. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to it’s value when it’s wielder takes the Defend action.
+**Defensive** - A defensive weapon grants advantage equal to it’s value when it’s wielder takes the Defend action. A weapon cannot have a Defensive value greater than 3.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, after using the weapon, the wielder must spend a move action to ready the weapon before it can be used again.
 
 **Forceful** - This weapon can be used to make attacks with the Might attribute.
+
+**Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score plus one.
 
 **Immobile** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
 
