@@ -308,7 +308,7 @@ start with the feat selections recommended below:
 | Barbarian | Ranger | Monk |
 | :- | :- | :- |
 | Battle Trance | Master Tracker | Multi-target Attack Specialist 1 (melee) |
-| Reckless Frenzy | Fleet of Foot 1 |  Martial Focus (Unarmed) |
+| Reckless Frenzy | Fleet of Foot 1 | Martial Focus (Unarmed) |
 | | Attack Specialization 1 (Longbow) | Combat Momentum |
 
 <br>
@@ -316,16 +316,16 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Paladin | Battle Mage | Mind Mage |
 | :- | :- | :- |
-| Attribute Substitution (Presence > Might)  | Attack Specialization 1 (Cold) | Hallucination |
-| Armor Mastery (Scale Mail) | Area Manipulation 1 | Potent Bane (Phantasm) |
-| | Multi-target Attack Specialist (Area) | |
+| Attribute Substitution 2 (Presence > Might)  | Attack Specialization 1 (Cold) | Hallucination |
+| Hospitaler | Area Manipulation 1 | Potent Bane (Phantasm) |
+| | Multi-target Attack Specialist 1 (Area) | |
 
 <br>
 
 <div class="table-no-stripes table-even-header"></div>
 | Assassin | Cleric | Druid |
 | :- | :- | :- |
-| Martial Focus (Dagger) | Boon Focus (Heal) | Boon Focus 2 (Shapeshift) |
+| Martial Focus (Dagger) | Boon Focus 1 (Heal) | Boon Focus 2 (Shapeshift) |
 | Lethal Strike 1 | Armor Mastery 1 (Scale Mail) |  |
 
 <br>
@@ -333,8 +333,8 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Shadowdancer | Bard | Arcane Protector |
 | :- | :- | :- |
-| Lethal Strike 1 | Boon Focus (Bolster) | Defensive Reflexes 1 |
-| Boon Focus 1 (Teleport) | Boon Focus (Heal) | Boon Focus (Teleport) |
+| Lethal Strike 1 | Boon Focus 1 (Bolster) | Defensive Reflexes 1 |
+| Boon Focus 1 (Teleport) | Boon Focus 1 (Heal) | Boon Focus 1 (Teleport) |
 
 <br><br>
 
