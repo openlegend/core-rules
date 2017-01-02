@@ -255,11 +255,11 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 **Toughness** protects you from attacks that test your endurance, bodily health, sturdiness, and survivability. For example, foes attempting to poison you, drain your life force, or push you off a cliff will target your toughness.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
-| Evasion = 10 + Agility + Armor |
+| Resilience = 10 + Agility + Might + Armor |
 | - |
 | |
 
-**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
+**Resilience** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your resilience in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Resolve = 10 + Presence + Will  |

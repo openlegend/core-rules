@@ -853,7 +853,7 @@
   description: |
     Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm.
   effect: |
-    You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
+    You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Resilience, and Resolve defenses.
 - !
   name: Extraordinary Focus
   prerequisites:
@@ -1513,7 +1513,7 @@
   description: |
     Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.
   effect: |
-    When you are not wearing armor, you gain an armor bonus to your Toughness and Evasion defenses. You may still gain this bonus when wielding a shield. Your armor bonus is determined by your tier in this feat:
+    When you are not wearing armor, you gain an armor bonus to your Toughness and Resilience defenses. You may still gain this bonus when wielding a shield. Your armor bonus is determined by your tier in this feat:
     <ul>
     <li><strong>Tier 1</strong> - +3 armor bonus</li>
     <li><strong>Tier 2</strong> - +5 armor bonus</li>

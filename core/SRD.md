@@ -200,9 +200,9 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 | |
 | - |
-| Evasion = 10 + Agility + Armor |
+| Resilience = 10 + Agility + Might + Armor |
 
-**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
+**Resilience** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your resilience in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 \NextTableColumns{OCT{1}}
 
@@ -1490,7 +1490,7 @@ preternatural speed, you are gifted with extraordinary protection from
 harm. \newline
 
 **Effect:** You gain a +1 bonus to all defenses for each tier you have in this feat.
-This increases your Toughness, Evasion, and Resolve defenses.
+This increases your Toughness, Resilience, and Resolve defenses.
 
 ## Extraordinary Focus
 
@@ -2037,7 +2037,7 @@ lifetime of conditioning, your skin is tough as nails, allowing your
 body to deflect blows that would cripple others. \newline
 
 **Effect:** When you are not wearing armor, you gain an armor bonus to your
-Toughness and Evasion defenses. You may still gain this bonus when
+Toughness and Resilience defenses. You may still gain this bonus when
 wielding a shield. Your armor bonus is determined by your tier in this
 feat:
 
@@ -2506,13 +2506,13 @@ In addition, if you make a bane attack with the weapon, you get advantage 1 on t
 ## Armor
 
 
-Armor provides a bonus to your evasion score, thus reducing or negating the damage that you would suffer from many types of attacks. The Armor table summarizes the following properties of each type of armor:
+Armor provides a bonus to your Resilience defense, thus reducing or negating the damage that you would suffer from many types of attacks. The Armor table summarizes the following properties of each type of armor:
 
 **Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
 
 The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to their Might score plus one.
 
-**Defense Bonus** indicates the bonus that your character gains to their evasion defense.
+**Defense Bonus** indicates the bonus that your character gains to their Resilience defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
@@ -4568,9 +4568,9 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 |  **Determine Targets** | **Melee** = Disadvantage equals total # of targets |
 | | **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) |
 | | **Area** = Disadvantage varies (see below) |
-| **Step 3:** | Weapon Attacks target Evasion |
+| **Step 3:** | Weapon Attacks target Resilience |
 | **Determine Targeted Defense** | Extraordinary Attacks target the most logical defense |
-| | **Evasion** if the attack requires dodging or deflection |
+| | **Resilience** if the attack requires dodging or deflection |
 | | **Toughness** if the attack targets bodily health |
 | | **Resolve** if the attack harms the psyche or will |
 | **Step 4:** | **Damage dealt** = Attack Roll minus Defense |
@@ -4638,14 +4638,14 @@ You may choose from a variety of shapes when making an area attack as described 
 
 **3. Determine Targeted Defense**
 
-Every attack targets one of your foe’s defenses: toughness, evasion, or resolve.
+Every attack targets one of your foe’s defenses: Toughness, Resilience, or Resolve.
 
-Weapon attacks always target evasion.
+Weapon attacks always target Resilience.
 
 Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
-- **Evasion** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
+- **Resilience** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
 - **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
 **4. Roll Attack and Calculate Damage**
