@@ -2630,7 +2630,7 @@ from.
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
 \
-**Power Level:** 4
+**Power Level:** 5
 \
 **Attack Attributes:** Agility, Creation, Energy, Entropy
 \
@@ -2641,12 +2641,12 @@ from.
 -   Energy vs. Evasion
 -   Entropy vs. Toughness
 
-**Description:** You blind your foe with anything from a handful of sand, to an arctic
-blast, to a dazzling flash of light. \newline
+**Description:** You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, or a dazzling flash of light. \newline
 
-**Effect:** The target cannot see as long as the effect persists. The target has a
-50% chance of automatically failing any Perception checks or attack
-rolls. Roll this check before the attack or perception roll.
+**Effect:** The target cannot see as long as the effect persists. The target
+automatically fails any Perception rolls based solely on normal sight. Attack
+rolls and Perception rolls based partially on sight that can be supplementd by
+another sense suffer disadvantage 5. The target's Evasion defense is reduced by 3.
 
 ## Charmed
 
@@ -3972,15 +3972,19 @@ Evasion or Toughness.
 \
 **Invocation Time:** 1 Major Action
 \
-**Power Level:** 6
+**Power Level:** 5, 6
 \
 **Attributes:** Alteration, Influence \newline
 
-**Description:** You vanish from the visible spectrum, either through magical control of
-light, an illusion of you not being there, or stepping into an
-extradimensional space between the fabric of the planes. \newline
+**Description:** You vanish from the visible spectrum, either through bending light,
+an illusion of you not being there, or stepping into an extradimensional space between
+the fabric of the planes. \newline
 
-**Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.
+**Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Evasion defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Evasion defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
+
+-   **Power Level 5** - Advantage 3 to hide, +3 to Evasion against ranged and melee attacks, and -2 to Evasion for target's that can't see you.
+
+-   **Power Level 6** - Advantage 5 to hide, +5 to Evasion against ranged and melee attacks, and -4 to Evasion for target's that can't see you.
 
 ## Life Drain
 

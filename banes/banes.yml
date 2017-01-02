@@ -20,7 +20,7 @@
   - Extraordinary
   - Physical
   power:
-  - 4
+  - 5
   attackAttributes:
   - Agility
   - Creation
@@ -34,9 +34,9 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    You blind your foe with anything from a handful of sand, to an arctic blast, to a dazzling flash of light.
+    You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, or a dazzling flash of light.
   effect: |
-    The target cannot see as long as the effect persists. The target has a 50% chance of automatically failing any Perception checks or attack rolls. Roll this check before the attack or perception roll.
+    The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplementd by another sense suffer disadvantage 5. The target's Evasion defense is reduced by 3.
 - !
   name: Charmed
   tags:
