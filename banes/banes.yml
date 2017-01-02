@@ -27,16 +27,16 @@
   - Energy
   - Entropy
   attack:
-  - Agility vs. Evasion
-  - Creation vs. Evasion
-  - Energy vs. Evasion
+  - Agility vs. Resilience
+  - Creation vs. Resilience
+  - Energy vs. Resilience
   - Entropy vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, or a dazzling flash of light.
   effect: |
-    The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplementd by another sense suffer disadvantage 5. The target's Evasion defense is reduced by 3.
+    The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplementd by another sense suffer disadvantage 5. The target's Resilience defense is reduced by 3.
 - !
   name: Charmed
   tags:
@@ -141,13 +141,13 @@
   - Might
   - Movement
   attack:
-  - Agility vs. Evasion
-  - Alteration vs. Evasion
+  - Agility vs. Resilience
+  - Alteration vs. Resilience
   - Energy vs. Toughness
   - Entropy vs. Toughness
   - Influence vs. Resolve
   - Might vs. Toughness
-  - Movement vs. Evasion
+  - Movement vs. Resilience
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
@@ -225,7 +225,7 @@
     This bane has multiple tiers which are applied in succession. Each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one level.<br/>
     <ul>
     <li>Level 1 - The target has Disadvantage 1 on all non-attack action rolls.</li>
-    <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
+    <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Resilience, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
     <li>Level 3 - The target has Disadvantage 1 on all attack rolls.</li>
     <li>Level 4 - The target is affected by the slowed bane, reducing it's speed to 10'. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
     <li>Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
@@ -304,8 +304,8 @@
   - Influence
   - Might
   attack:
-  - Agility vs. Evasion
-  - Alteration vs. Evasion
+  - Agility vs. Resilience
+  - Alteration vs. Resilience
   - Creation vs. Toughness
   - Energy vs. Toughness
   - Entropy vs. Toughness
@@ -434,7 +434,7 @@
   - Energy
   - Entropy
   attack:
-  - Agility vs. Evasion
+  - Agility vs. Resilience
   - Energy vs. Toughness
   - Entropy vs. Toughness
   invocationTime: 1 Major Action
@@ -619,7 +619,7 @@
   - Entropy
   - Might
   attack:
-  - Agility vs. Evasion
+  - Agility vs. Resilience
   - Alteration vs. Toughness
   - Entropy vs. Toughness
   - Might vs. Toughness
@@ -643,7 +643,7 @@
   - Might
   - Movement
   attack:
-  - Agility vs. Evasion
+  - Agility vs. Resilience
   - Energy vs. Toughness
   - Entropy vs. Toughness
   - Might vs. Toughness

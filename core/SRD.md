@@ -2642,9 +2642,9 @@ from.
 \
 **Attack:**
 
--   Agility vs. Evasion
--   Creation vs. Evasion
--   Energy vs. Evasion
+-   Agility vs. Resilience
+-   Creation vs. Resilience
+-   Energy vs. Resilience
 -   Entropy vs. Toughness
 
 **Description:** You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, or a dazzling flash of light. \newline
@@ -2652,7 +2652,7 @@ from.
 **Effect:** The target cannot see as long as the effect persists. The target
 automatically fails any Perception rolls based solely on normal sight. Attack
 rolls and Perception rolls based partially on sight that can be supplementd by
-another sense suffer disadvantage 5. The target's Evasion defense is reduced by 3.
+another sense suffer disadvantage 5. The target's Resilience defense is reduced by 3.
 
 ## Charmed
 
@@ -2791,13 +2791,13 @@ magical power, you cause your enemies to doubt themselves. \newline
 \
 **Attack:**
 
--   Agility vs. Evasion
--   Alteration vs. Evasion
+-   Agility vs. Resilience
+-   Alteration vs. Resilience
 -   Energy vs. Toughness
 -   Entropy vs. Toughness
 -   Influence vs. Resolve
 -   Might vs. Toughness
--   Movement vs. Evasion
+-   Movement vs. Resilience
 
 **Description:** Whether through wrestling it from your opponent, forcefully knocking it
 out of their hand, skilfully parrying a weapon, a precise nerve strike,
@@ -2914,7 +2914,7 @@ severity escalates by one level.
 
 -   Level 1 - The target has Disadvantage 1 on all non-attack action rolls.
 
--   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Evasion, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
+-   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Resilience, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
 
 -   Level 3 - The target has Disadvantage 1 on all attack rolls.
 
@@ -3004,8 +3004,8 @@ move your target against its will. \newline
 \
 **Attack:**
 
--   Agility vs. Evasion
--   Alteration vs. Evasion
+-   Agility vs. Resilience
+-   Alteration vs. Resilience
 -   Creation vs. Toughness
 -   Energy vs. Toughness
 -   Entropy vs. Toughness
@@ -3175,7 +3175,7 @@ for the next 24 hours.
 \
 **Attack:**
 
--   Agility vs. Evasion
+-   Agility vs. Resilience
 -   Energy vs. Toughness
 -   Entropy vs. Toughness
 
@@ -3411,7 +3411,7 @@ inducing nausea which makes any kind of action difficult. \newline
 \
 **Attack:**
 
--   Agility vs. Evasion
+-   Agility vs. Resilience
 -   Alteration vs. Toughness
 -   Entropy vs. Toughness
 -   Might vs. Toughness
@@ -3436,7 +3436,7 @@ belongings they are carrying inaudible.
 \
 **Attack:**
 
--   Agility vs. Evasion
+-   Agility vs. Resilience
 -   Energy vs. Toughness
 -   Entropy vs. Toughness
 -   Might vs. Toughness
