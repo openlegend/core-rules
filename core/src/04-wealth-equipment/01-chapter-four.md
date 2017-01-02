@@ -83,7 +83,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Examples** are a few weapons or armor that could reflect this category. It is not an exhaustive list by any means, but simply something to get your brain working. Feel free to discuss with your GM about other items that would make sense.
 
-**Category** is the general group that the weapon falls into. Some weapons may fall into multiple categories. If a weapon falls into multiple categories, for each attack, the wielder must choose the mode being used and the attack gains the benefits of that category. For example a dagger is both “Close Ranged” and “Light Melee”. On each attack, the wielder chooses the mode.
+**Category** is the general group that the weapon falls into. Some weapons may fall into multiple categories. If a weapon falls into multiple categories, for each attack, the wielder must choose the mode being used and the attack gains the benefits of that category. For example a dagger is both “Close Ranged” and “One-handed Melee”. On each attack, the wielder chooses the mode.
 
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
@@ -198,7 +198,7 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 ## Building Your Own Weapons
 
-Open Legend is all about freeform creativity, so we’ve given you lots of examples with the Weapons table, but the list is by no means exhaustive. If  you want to build your own custom weapon, follow the steps below
+Open Legend is all about freeform creativity, so we’ve given you lots of examples with the Weapons table, but the list is by no means exhaustive. If you want to build your own custom weapon, follow the steps below
 
 ### Step 1: Choose a Category
 
@@ -261,5 +261,3 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 **Mage’s Pack** bedroll, 1 weeks rations, 3 days water, parchment, quill, ink, box of chalk, pouch of sand, 5 empty vials, 5 candles, flint and steel.
 
 **Rogue’s Pack** - bedroll, 1 weeks rations, 3 days water, lockpicks, trap kit, bag of marbles, small mirror, 50’ rope, grappling hook, crowbar, flint and steel, 5 torches.
-
-
