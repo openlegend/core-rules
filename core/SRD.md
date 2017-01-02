@@ -3905,11 +3905,11 @@ and accomplishing actions at an uncanny rate. \newline
 
 -   **Power Level 2** - The target's speed is increased by 10'.
 
--   **Power Level 4** - The target's speed is increased by 15', and it gains +2 to Evasion.
+-   **Power Level 4** - The target's speed is increased by 15', and it gains +2 to Resilience.
 
--   **Power Level 6** - The target's speed is increased by 20', and it gains +3 to Evasion. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.
+-   **Power Level 6** - The target's speed is increased by 20', and it gains +3 to Resilience. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.
 
--   **Power Level 8** - The target's speed is increased by 30', and it gains +4 to Evasion. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.
+-   **Power Level 8** - The target's speed is increased by 30', and it gains +4 to Resilience. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.
 
 
 ## Heal
@@ -3968,9 +3968,9 @@ inside of a solid structure, then the target is forcibly transported to
 the alternate plane they were traveling by way of at the time (typically
 the Astral or Ethereal plane).
 
-The target becomes immune to all attacks that target either Evasion or
+The target becomes immune to all attacks that target either Resilience or
 Toughness, however, they also cannot deliver any attacks that target
-Evasion or Toughness.
+Resilience or Toughness.
 
 ## Invisible
 
@@ -3986,11 +3986,11 @@ Evasion or Toughness.
 an illusion of you not being there, or stepping into an extradimensional space between
 the fabric of the planes.  \newline
 
-**Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Evasion defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Evasion defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
+**Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Resilience defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Resilience defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
 
--   **Power Level 5** - Advantage 3 to hide, +3 to Evasion against ranged and melee attacks, and -2 to Evasion for target's that can't see you.
+-   **Power Level 5** - Advantage 3 to hide, +3 to Resilience against ranged and melee attacks, and -2 to Resilience for target's that can't see you.
 
--   **Power Level 6** - Advantage 5 to hide, +5 to Evasion against ranged and melee attacks, and -4 to Evasion for target's that can't see you.
+-   **Power Level 6** - Advantage 5 to hide, +5 to Resilience against ranged and melee attacks, and -4 to Resilience for target's that can't see you.
 
 ## Life Drain
 
