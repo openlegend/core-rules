@@ -2547,19 +2547,19 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ## Armor
 
+Armor provides a bonus to your Resilience defense, thus reducing or negating the damage that you would suffer from many types of attacks.
 
-Armor provides a bonus to your Resilience defense, thus reducing or negating the damage that you would suffer from many types of attacks. The Armor table summarizes the following properties of each type of armor:
+Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to your Resilience defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
+
+The Armor table summarizes the following properties of each type of armor:
 
 **Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
-
-The **Heavy** column specifies whether or not the armor has the *heavy* property. Your character can carry a maximum number of *heavy* items equal to their Might score plus one.
 
 **Defense Bonus** indicates the bonus that your character gains to their Resilience defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
-Donning and removing armor takes a number of minutes equal to the total armor bonus. Sleeping in armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of fatigue, which applies disadvantage 1 to all action rolls until they get a proper night’s rest.
-
+Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night’s rest.
 
 \NextTableColumns{OLT{.25}OCT{.15}OCT{.15}OCT{.15}OCT{.15}OCT{.15}}
 
@@ -2567,10 +2567,12 @@ Donning and removing armor takes a number of minutes equal to the total armor bo
 
 | Examples | Type | Wealth Level | Required Might | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: |
-| Leather, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
-| Chain Shirt, Kevlar Vest, Bioweave | Medium | 2 | 3 | 2 | 0 |
+| Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
+| Kevlar Vest, Bioweave | Medium | 2 | 1 | 2 | 0 |
+| Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
 | Yoroi Armor, Plate Mail | Heavy | 2 | 5 | 3 | 5’ |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 2 | 3 | 0 |
+
 
 
 ## Building Your Own Weapons

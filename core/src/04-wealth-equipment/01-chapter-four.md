@@ -171,7 +171,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 Armor provides a bonus to your Resilience defense, thus reducing or negating the damage that you would suffer from many types of attacks.
 
-Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
+Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to your Resilience defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
 
 The Armor table summarizes the following properties of each type of armor:
 
@@ -190,8 +190,9 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 | Examples | Type | Wealth Level | Required Might | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: |
-| Leather, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
-| Chain Shirt, Kevlar Vest, Bioweave | Medium | 2 | 3 | 2 | 0 |
+| Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
+| Kevlar Vest, Bioweave | Medium | 2 | 1 | 2 | 0 |
+| Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
 | Yoroi Armor, Plate Mail | Heavy | 2 | 5 | 3 | 5’ |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 2 | 3 | 0 |
 
