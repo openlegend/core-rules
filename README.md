@@ -12,6 +12,9 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 01 / 01
+-   Fix `Invisible` and `Blinded` banes so they don’t violate Open Legend’s "one roll" principle. Also clean up various other issues with both and add a “lesser” Invisible at PL 5.
+
 #### 2016 / 12 / 31
 -   Close loophole in `Summon Creature` boon that allowed them to recursively summon others of their type. Also clarified that summoned creatures cannot be revived from zero hit points.
 -   `Indomitable Endurance` feat was tweaked to allow access via a Will attribute prerequisite, also removed the immunity to natural fatigue since the feat already shields against the first level of fatigue and 2 feat points for such a potent effect is overpowered.
