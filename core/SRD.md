@@ -3984,7 +3984,7 @@ Evasion or Toughness.
 
 **Description:** You vanish from the visible spectrum, either through bending light,
 an illusion of you not being there, or stepping into an extradimensional space between
-the fabric of the planes. \newline
+the fabric of the planes.  \newline
 
 **Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Evasion defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Evasion defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
 
