@@ -317,7 +317,7 @@ start with the feat selections recommended below:
 | Paladin | Battle Mage | Mind Mage |
 | :- | :- | :- |
 | Attribute Substitution 2 (Presence > Might)  | Attack Specialization 1 (Cold) | Hallucination |
-| | Area Manipulation 1 | Potent Bane (Phantasm) |
+| Hospitaler | Area Manipulation 1 | Potent Bane (Phantasm) |
 | | Multi-target Attack Specialist 1 (Area) | |
 
 <br>
