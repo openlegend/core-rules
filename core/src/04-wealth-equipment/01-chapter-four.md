@@ -167,6 +167,10 @@ In this section you will find the tools needed to pick weapons and armor that yo
 **Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
 
+\
+\
+
+
 ## Armor
 
 Armor provides a bonus to your Resilience defense, thus reducing or negating the damage that you would suffer from many types of attacks.
@@ -191,10 +195,14 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 | Examples | Type | Wealth Level | Required Might | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: |
 | Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
-| Kevlar Vest, Bioweave | Medium | 2 | 1 | 2 | 0 |
+| Kevlar Vest, Bioweave | Medium | 2 | 2 | 2 | 0 |
 | Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
 | Yoroi Armor, Plate Mail | Heavy | 2 | 5 | 3 | 5’ |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 2 | 3 | 0 |
+
+\
+\
+
 
 ## Building Your Own Weapons
 
@@ -235,6 +243,10 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 **Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
 
 **Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
+
+
+\
+\
 
 
 ## Adventuring Gear
