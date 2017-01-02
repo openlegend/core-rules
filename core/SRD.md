@@ -845,7 +845,7 @@ square from being targeted as part of an area attack.
 **Description:** You are specially trained to wear armor into battle, allowing you to
 maximize its protection and minimize its drawbacks. \newline
 
-**Effect:** Your training allows you to sleep in armor without becoming fatigued. In addition, while wearing armor, you gain the following benefits.
+**Effect:** Your training allows you to sleep in armor without gaining one level of the Fatigued bane. In addition, while wearing armor, you gain the following benefits.
 
 -   **Tier 1** - The Might prerequisite for wearing armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.
 

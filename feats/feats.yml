@@ -69,7 +69,7 @@
   description: |
     You are specially trained to wear armor into battle, allowing you to maximize its protection and minimize its drawbacks.
   effect: |
-    Your training allows you to sleep in armor without becoming fatigued. In addition, while wearing armor, you gain the following benefits.
+    Your training allows you to sleep in armor without gaining one level of the Fatigued bane. In addition, while wearing armor, you gain the following benefits.
     <ul>
     <li><strong>Tier 1</strong> - The Might prerequisite for wearing armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
     <li><strong>Tier 2</strong> - The Might prerequisite for wearing armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
