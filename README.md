@@ -18,6 +18,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   **Major Change to Evasion** - the `Evasion` defense score has been changed and renamed to `Resilience` which is calculated as: `Resilience = 10 + Agility + Might + Armor` and bane defense targets have been changed to accommodate the difference
 -   **Major Change to Armor** - For multi-genre purposes, and coinciding with the change from `Evasion` => `Resilience`, Armor now has three categories: `Light`, `Medium`, and `Heavy` and is simplified in the interest of making it easier to understand where armor that is not accounted for on the table should fall on the spectrum
 -   `Battle Trance`, `Armor Mastery`, `Natural Defense`, `Two Weapon Defense` are updated to accommodate the new Armor rules
+-   `Armor Mastery` cost increased to 3. Tier III removed.
 -   `Defensive Mastery` feat added to accompany shields and new weapons with the `Defensive` property
 
 #### 2017 / 01 / 01
