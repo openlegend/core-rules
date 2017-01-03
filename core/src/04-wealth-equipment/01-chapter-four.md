@@ -230,9 +230,7 @@ Next, you will may select a number of properties that have significant game impa
 
 The Deadly property increases an item’s Wealth Level by 2 per tier. So a Deadly 2 item has a starting Wealth Level 4.
 
-Defensive, Reach, and Swift properties all increase the Wealth Level of the item by 1. Slow, Immobile, and Delayed Read properties reduce the Wealth Level of the item by 1.
-
-If a weapon has a Deadly value of 2 or more and no drawback properties (e.g. Slow, Delayed Ready, etc.), then it’s Wealth Level is increased by 1 above and beyond the Wealth Level increases from other beneficial properties.
+Burst, Defensive, Reach, and Swift properties all increase the Wealth Level of the item by 1. Consumable, Slow, Immobile, and Delayed Read properties reduce the Wealth Level of the item by 1.
 
 ### Step 3: Choose Banes
 
@@ -242,7 +240,7 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 Based on the decisions from your choices in Step 2 and Step 3, figure out the Wealth Level of the weapon.
 
-**Weapon Building Example: Kusari-Gama (Chain & Sickle)**
+#### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 
 Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
 
