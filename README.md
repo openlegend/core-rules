@@ -20,6 +20,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   `Battle Trance`, `Armor Mastery`, `Natural Defense`, `Two Weapon Defense` are updated to accommodate the new Armor rules
 -   `Armor Mastery` cost increased to 3. Tier III removed.
 -   `Defensive Mastery` feat added to accompany shields and new weapons with the `Defensive` property
+-   Clarify shifting between multiple `Alternate Form`s
 
 #### 2017 / 01 / 01
 -   Fix `Invisible` and `Blinded` banes so they don’t violate Open Legend’s "one roll" principle. Also clean up various other issues with both and add a “lesser” Invisible at PL 5.
