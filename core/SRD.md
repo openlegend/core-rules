@@ -2596,13 +2596,17 @@ Typically a weapon belongs to one category, however some weapons, such as a dagg
 
 ### Step 2: Choose Properties
 
-Every weapon must have either the Forceful or Precise property and some weapons have both. Choose one or both.
+Every weapon must have either the *Forceful* or *Precise* property and some weapons have both. Choose one or both.
 
-Next, you will may select a number of properties that have significant game impact, just like Forceful and Precise, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon by 1.
+Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon.
 
-The Deadly property increases an item’s Wealth Level by 2 per tier. So a Deadly 2 item has a starting Wealth Level 4.
+The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level 4.
 
-Burst, Defensive, Reach, and Swift properties all increase the Wealth Level of the item by 1. Consumable, Slow, Immobile, and Delayed Read properties reduce the Wealth Level of the item by 1.
+The *Defensive* and *Burst* properties increase the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
+
+The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
+
+The *Consumable*, *Slow*, *Immobile*, and *Delayed Ready* properties reduce the Wealth Level of the item by 1.
 
 ### Step 3: Choose Banes
 
