@@ -152,13 +152,13 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-**Burst** - A burst weapon grants advantage equal to it’s value when it’s wielder makes a multi-target attack.
+**Burst** - A burst weapon grants advantage equal to its value when its wielder makes a multi-target attack.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
 **Deadly** - Some weapons are so highly effective that they significantly increase damage potential beyond what the wielder would typically be capable of. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to it’s value when it’s wielder takes the Defend action. A weapon cannot have a Defensive value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. A weapon cannot have a Defensive value greater than 3.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, after using the weapon, the wielder must spend a move action to ready the weapon before it can be used again.
 
