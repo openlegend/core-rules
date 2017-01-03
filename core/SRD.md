@@ -2578,7 +2578,7 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 \SpanningTable[tbp]
 
 | Examples | Type | Wealth Level | Required Might | Defense Bonus | Speed Penalty |
-| :----- | :-: | :-: | :-: | :-: |
+| :----- | :-: | :-: | :-: | :-: | :-: |
 | Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
 | Kevlar Vest, Bioweave | Medium | 2 | 1 | 2 | 0 |
 | Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
