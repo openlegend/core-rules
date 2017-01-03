@@ -65,9 +65,11 @@ Typical situations of when the GM would grant you an increase in your Wealth Sco
 
 You can carry up to twenty pieces of gear. No more. Only track the items that will actually affect the game. So, no, you don’t need to record your pants and shirt on your character sheet. But, your armor does count.
 
+Multiple items of a similar nature that can be stowed together, such as twenty arrows in a quiver or a belt of healing potions, only count as a single item. The GM can use their own discretion to apply common sense limits if necessary. For example, even though technically 1000 clips of ammo would count as a single item, the GM is free to rule that a PC can't carry them or that they would count as a *bulky* item (see below).
+
 ### Maximum *Heavy* Items Equals Might Score
 
-Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score plus one. Once you’re carrying your maximum number of *heavy* items, your speed is cut in half.
+Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score. Once you’re carrying your maximum number of *heavy* items, your speed is cut in half. A character with a zero Might score cannot carry any heavy items.
 
 ### One (Maybe Two) *Bulky* Items
 
