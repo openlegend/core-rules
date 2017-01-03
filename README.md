@@ -2,7 +2,7 @@
 
 # Open Legend Core Rules
 
-Included here in [YAML format](https://en.wikipedia.org/wiki/YAML) are the rules which are published to the [www.openlegendrpg.com](http://www.openlegendrpg.com) website. Feel free to open a pull request to propose improvements to any of the rules, add new feats, or otherwise start a discussion pertaining to the rules text. Note that any contribution will require that you preserve the valid YAML syntax, otherwise the website will break as a result of your changes.  If you're not sure, use [this site](http://yaml-online-parser.appspot.com/) to validate your YAML outputs valid JSON.
+Included here in [YAML format](https://en.wikipedia.org/wiki/YAML) are the rules which are published to the [www.openlegendrpg.com](http://www.openlegendrpg.com) website. Feel free to open a pull request to propose improvements to any of the rules, add new feats, or otherwise start a discussion pertaining to the rules text. Note that any contribution will require that you preserve the valid YAML syntax, otherwise the website will break as a result of your changes. If you're not sure, use [this site](http://yaml-online-parser.appspot.com/) to validate your YAML outputs valid JSON.
 
 ## License
 
@@ -11,6 +11,38 @@ The game rules content of this repository are released under a special open-sour
 ## Changelog
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
+
+#### 2017 / 01 / 02
+-   **Major Change to Weapons** - Weapons now include multiple examples of each type that shares the same properties and now have a `Category` which determines the various ways it can be used.
+-   Added a `Building Your Own Weapons` table that shows the process for building a balanced weapon
+-   **Major Change to Evasion** - the `Evasion` defense score has been changed and renamed to `Resilience` which is calculated as: `Resilience = 10 + Agility + Might + Armor` and bane defense targets have been changed to accommodate the difference
+-   **Major Change to Armor** - For multi-genre purposes, and coinciding with the change from `Evasion` => `Resilience`, Armor now has three categories: `Light`, `Medium`, and `Heavy` and is simplified in the interest of making it easier to understand where armor that is not accounted for on the table should fall on the spectrum
+-   `Battle Trance`, `Armor Mastery`, `Natural Defense`, `Two Weapon Defense` are updated to accommodate the new Armor rules
+-   `Armor Mastery` cost increased to 3. Tier III removed.
+-   `Defensive Mastery` feat added to accompany shields and new weapons with the `Defensive` property
+-   Clarify shifting between multiple `Alternate Form`s
+
+#### 2017 / 01 / 01
+-   Fix `Invisible` and `Blinded` banes so they don’t violate Open Legend’s "one roll" principle. Also clean up various other issues with both and add a “lesser” Invisible at PL 5.
+
+#### 2016 / 12 / 31
+-   Close loophole in `Summon Creature` boon that allowed them to recursively summon others of their type. Also clarified that summoned creatures cannot be revived from zero hit points.
+-   `Indomitable Endurance` feat was tweaked to allow access via a Will attribute prerequisite, also removed the immunity to natural fatigue since the feat already shields against the first level of fatigue and 2 feat points for such a potent effect is overpowered.
+-   Rename `Berserker` feat to `Battle Trance`, and associated feat name updates (`Deathless Berserker` => `Deathless Trance`, `Destructive Berserker` => `Destructive Trance`, `Entranced Berserker` => `Impervious Trance`, `Reactionary Berserker` => `Reactionary Trance`)
+-   `Resilient` was both a feat and a perk, the `Resilient` perk was renamed to `Inner Strength` for clarity
+-   `Companion` feat now grants access to 1 feat per tier, selected from the "Simple Build" NPC creation list in Chapter 7: Running the Game
+-   Changed wording around handling “advantage zero”, other non-action rolls, and the ability to say “advantage x” for any type of die roll. You can now apply "advantage 1" to a Resist roll, for example, but a roll without attribute dice can not be modified beyond Advantage 1 or Disadvantage 1
+-   Tweaked the Power Levels of `Persistent Damage` bane, they are now: 4 (d6) / 6 (d8) / 8 (d10) / 9 (2d6)
+
+#### 2016 / 12 / 30
+-   `Lethal Damage` is now part of the `Core Rules`
+-   `Critical Hits` are now optional
+
+#### 2016 / 12 / 28
+-   Removed `Retributive Barrier` in favor of `Barrier` boon
+-   `Forced Move` now moves the target a distance in feet based on power level
+-   `Projectile Multi-Targeting` is now `Ranged Multi-Targeting`
+-   `Attribute Substitution` cost reduced to 2. This feat has now two tiers. Attack rolls with the primary attribute are only available at tier 2. Restrictions about primary and secondary attribute category lifted.
 
 #### 2016 / 12 / 22
 -   `Intimidated` bane renamed to `Provoked` and reordered alphabetically.
