@@ -144,7 +144,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Sniper Rifle, Phase Rifle | Extreme Ranged | 3 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy | Persistent Damage, Forced Move, Stunned |
+| Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Unmovable | Persistent Damage, Forced Move, Stunned |
 | Rocket Launcher, Mech Warhead | Extreme Ranged | 4 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Burst 3 | Persistent Damage, Stunned, Forced Move |
 | Small Shield | One-handed Melee | 1 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 2 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
@@ -166,8 +166,6 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score plus one.
 
-**Immobile** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
-
 **Precise** - This weapon can be used to make attacks with the Agility attribute.
 
 **Reach** - The weapon can be used to attack enemies 10’ away.
@@ -176,6 +174,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
+**Unmovable** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
 
 \
 \
@@ -234,7 +233,7 @@ The *Defensive* and *Burst* properties increase the Wealth Level of the item by 
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 
-The *Consumable*, *Slow*, *Immobile*, and *Delayed Ready* properties reduce the Wealth Level of the item by 1.
+The *Consumable*, *Delayed Ready*, *Slow*, and *Unmovable* properties reduce the Wealth Level of the item by 1.
 
 ### Step 3: Choose Banes
 

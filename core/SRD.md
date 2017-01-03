@@ -2529,7 +2529,6 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-
 **Burst** - A burst weapon grants advantage equal to it’s value when it’s wielder takes makes a multi-target attack.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
@@ -2544,8 +2543,6 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score plus one.
 
-**Immobile** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
-
 **Precise** - This weapon can be used to make attacks with the Agility attribute.
 
 **Reach** - The weapon can be used to attack enemies 10’ away.
@@ -2553,6 +2550,9 @@ In this section you will find the tools needed to pick weapons and armor that yo
 **Slow** -  If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
 **Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+
+**Unmovable** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
+
 
 
 
@@ -2606,7 +2606,7 @@ The *Defensive* and *Burst* properties increase the Wealth Level of the item by 
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 
-The *Consumable*, *Slow*, *Immobile*, and *Delayed Ready* properties reduce the Wealth Level of the item by 1.
+The *Consumable*, *Delayed Ready*, *Slow*, and *Unmovable* properties reduce the Wealth Level of the item by 1.
 
 ### Step 3: Choose Banes
 
