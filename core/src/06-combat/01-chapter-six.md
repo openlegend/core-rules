@@ -143,6 +143,9 @@ Major actions are what you take to get big things done in combat. Your major act
 
 Each of these actions is explained below.
 
+> #### Combat on a Grid
+> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
+
 #### Make a Damaging Attack
 
 To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or extraordinary. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Extraordinary attacks are those that make use of one of the attacker's extraordinary attributes, such as by using Energy to summon a ball of fire. A character can only make an extraordinary attack if they possess a score of 1 or higher in the relevant attribute.
