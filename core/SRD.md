@@ -2520,7 +2520,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Sniper Rifle, Phase Rifle | Extreme Ranged | 3 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy | Persistent Damage, Forced Move, Stunned |
+| Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Unmovable | Persistent Damage, Forced Move, Stunned |
 | Rocket Launcher, Mech Warhead | Extreme Ranged | 4 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Burst 3 | Persistent Damage, Stunned, Forced Move |
 | Small Shield | One-handed Melee | 1 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 2 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
