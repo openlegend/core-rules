@@ -2530,7 +2530,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-**Burst** - A burst weapon grants advantage equal to it’s value when it’s wielder takes makes a multi-target attack.
+**Burst** - A burst weapon grants advantage equal to it’s value when it’s wielder makes a multi-target attack.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
