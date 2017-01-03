@@ -2549,7 +2549,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Forceful** - This weapon can be used to make attacks with the Might attribute.
 
-**Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score plus one.
+**Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
 **Precise** - This weapon can be used to make attacks with the Agility attribute.
 
