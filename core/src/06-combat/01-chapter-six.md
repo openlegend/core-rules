@@ -242,7 +242,7 @@ Extraordinary attacks are more open-ended and often require the GM to decide the
 
 Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Extraordinary attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
 
-The Challenge Rating for your roll is the target’s defense score. If you succeed, the target takes damage equal to your action roll minus the targeted defense. This damage is subtracted from the target’s hit points.
+You deal damage equal to your action roll minus the target's defense, ignoring negative results. This damage is subtracted from the target's hit points. If your attack roll exactly equals the target's defense, the attack should be interpreted as a *success with a twist* (differing slightly from the usual core mechanic).
 
 **Exceptional Success**
 
