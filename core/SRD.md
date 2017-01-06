@@ -202,7 +202,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 | - |
 | Guard = 10 + Agility + Might + Armor |
 
-**Guard** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your resilience in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
+**Guard** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your guard in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 \NextTableColumns{OCT{1}}
 
