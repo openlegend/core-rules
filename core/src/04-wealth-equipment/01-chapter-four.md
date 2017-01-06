@@ -90,7 +90,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying a shield, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target’s defense.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target’s defense. If both weapons you are wielding have passive benefits such as the Deadly or Defensive properties, your benefit is the best of the two but does not stack.
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
@@ -123,17 +123,18 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Examples | Category | WL | Properties | Banes |
 | :---- | :-: | :-: | :---- | :---- |
 | Unarmed Strike | One-handed Melee | 0  | Precise, Forceful, Swift | Stunned, Knockdown |
-| Bowie Knife, Shiv, Multi-tool, Sai | One-handed Melee | 1 | Precise, Swift | Persistent Damage, Disarmed |
-| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed, Forced Move |
+| Bowie Knife, Shiv, Multi-tool | One-handed Melee | 1 | Precise, Swift | Persistent Damage, Disarmed |
+| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
 | Blow Gun, Dart | Close Ranged | 1 | Precise, Forceful | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 1 | Precise, Forceful, Swift | Persistent Damage, Disarmed |
-| Katana, Enchanted Longsword | One-handed Melee | 3 | Precise, Forceful, Deadly 1 | Persistent Damage, Disarmed, Stunned |
+| Longsword, Falchion | Versatile Melee | 2 | Precise, Forceful | Persistent Damage, Disarmed |
+| Katana, Enchanted Longsword | Versatile Melee | 3 | Precise, Forceful, Deadly 1 | Persistent Damage, Disarmed |
 | Plasmablade, Vorpal Sword | One-handed Melee | 4 | Precise, Forceful, Deadly 2 | Persistent Damage, Disarmed, Stunned |
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
 | Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful, Defensive 1 | Persistent Damage, Disarmed, Immobile |
-| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Persistent Damage, Stunned |
+| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
 | Long Spear | Two-handed Melee, Short Ranged | 1 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
 | Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach, Defensive 1 | Knockdown, Immobile, Forced Move |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 2 | Precise | Persistent Damage, Slowed |

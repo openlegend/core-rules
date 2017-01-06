@@ -13,8 +13,9 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 01 / 06
+-   Fix a number of weapon properties and add missing `Longsword` example
 -   Fix incorrect cost of `Extraordinary Defense` (now 3 feat points) and `Natural Defense` (now 2 feat points)
--   **Major Change to Evasion / Resilience Defense** - due to the words `Resilience` and `Toughness` being too similar, `Resilience` (formerlyl `Evasion`) is not called `Guard`.
+-   **Major Change to Evasion / Resilience Defense** - due to the words `Resilience` and `Toughness` being too similar, `Resilience` (formerly `Evasion`) is now called `Guard
 
 #### 2017 / 01 / 02
 -   **Major Change to Weapons** - Weapons now include multiple examples of each type that shares the same properties and now have a `Category` which determines the various ways it can be used.
