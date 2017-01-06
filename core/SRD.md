@@ -1495,7 +1495,7 @@ that would strike a clumsier combatant. \newline
 adjacent to that enemy, the enemy does not get the usual opportunity
 attack.
 
-## Extraordinary Defense (I - V)
+## Extraordinary Defense (I - III)
 
 **Cost:** 2 points
 \
@@ -1504,8 +1504,6 @@ attack.
 -   **Tier 1**: Movement, Prescience, or Protection 2
 -   **Tier 2**: Movement, Prescience, or Protection 3
 -   **Tier 3**: Movement, Prescience, or Protection 4
--   **Tier 4**: Movement, Prescience, or Protection 5
--   **Tier 5**: Movement, Prescience, or Protection 6
 
 **Description:** Whether by a magical barrier of force, foresight into the future, or
 preternatural speed, you are gifted with extraordinary protection from
@@ -2059,9 +2057,8 @@ lifetime of conditioning, your skin is tough as nails, allowing your
 body to deflect blows that would cripple others. \newline
 
 **Effect:** When you are not wearing armor, you gain an armor bonus to your
-Toughness and Guard defenses. You may still gain this bonus when
-wielding a shield. Your armor bonus is determined by your tier in this
-feat:
+Toughness defense. You may still gain this bonus when wielding a shield. Your
+armor bonus is determined by your tier in this feat:
 
 -   **Tier 1** - +1 armor bonus
 -   **Tier 2** - +2 armor bonus
