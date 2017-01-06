@@ -279,9 +279,9 @@
   effect: |
     <ul>
     <li><strong>Power Level 2</strong> - The target's speed is increased by 10'. </li>
-    <li><strong>Power Level 4</strong> - The target's speed is increased by 15', and it gains +2 to Resilience. </li>
-    <li><strong>Power Level 6</strong> - The target's speed is increased by 20', and it gains +3 to Resilience. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.</li>
-    <li><strong>Power Level 8</strong> - The target's speed is increased by 30', and it gains +4 to Resilience. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.</li>
+    <li><strong>Power Level 4</strong> - The target's speed is increased by 15', and it gains +2 to Guard. </li>
+    <li><strong>Power Level 6</strong> - The target's speed is increased by 20', and it gains +3 to Guard. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.</li>
+    <li><strong>Power Level 8</strong> - The target's speed is increased by 30', and it gains +4 to Guard. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.</li>
     </ul>
 - !
   name: Heal
@@ -338,7 +338,7 @@
   effect: |
     The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (30' for most characters).
     If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
-    The target becomes immune to all attacks that target either Resilience or Toughness, however, they also cannot deliver any attacks that target Resilience or Toughness.
+    The target becomes immune to all attacks that target either Guard or Toughness, however, they also cannot deliver any attacks that target Guard or Toughness.
 - !
   name: Invisible
   tags:
@@ -354,10 +354,10 @@
   description: |
     You vanish from the visible spectrum, either through bending light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
   effect: |
-    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Resilience defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Resilience defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
+    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
     <ul>
-    <li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 to Resilience against ranged and melee attacks, and -2 to Resilience for target's that can't see you.</li>
-    <li><strong>Power Level 6</strong> - Advantage 5 to hide, +5 to Resilience against ranged and melee attacks, and -4 to Resilience for target's that can't see you.</li>
+    <li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for target's that can't see you.</li>
+    <li><strong>Power Level 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for target's that can't see you.</li>
     </ul>
 - !
   name: Life Drain

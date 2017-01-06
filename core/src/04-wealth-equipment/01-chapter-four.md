@@ -182,15 +182,15 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ## Armor
 
-Armor provides a bonus to your Resilience defense, thus reducing or negating the damage that you would suffer from many types of attacks.
+Armor provides a bonus to your Guard defense, thus reducing or negating the damage that you would suffer from many types of attacks.
 
-Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to your Resilience defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
+Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to your Guard defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
 
 The Armor table summarizes the following properties of each type of armor:
 
 **Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
 
-**Defense Bonus** indicates the bonus that your character gains to their Resilience defense.
+**Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 

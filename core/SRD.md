@@ -200,9 +200,9 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 | |
 | - |
-| Resilience = 10 + Agility + Might + Armor |
+| Guard = 10 + Agility + Might + Armor |
 
-**Resilience** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your resilience in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
+**Guard** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your resilience in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 \NextTableColumns{OCT{1}}
 
@@ -975,7 +975,7 @@ your character. \newline
 
 **Effect:** As a free action on your turn, you may enter a battle trance. While
 entranced, you have advantage 1 on all attacks. Additionally, your Toughness and
-Resolve defenses are increased by 3. If you are not wearing armor, your Resilience
+Resolve defenses are increased by 3. If you are not wearing armor, your Guard
 defense is also increased by 3. If you take three consecutive turns without
 making an attack roll against an enemy creature, the battle trance ends. When
 the battle trance ends, you automatically suffer 1 level of the [*fatigue bane*](#fatigued).
@@ -1507,7 +1507,7 @@ preternatural speed, you are gifted with extraordinary protection from
 harm. \newline
 
 **Effect:** You gain a +1 bonus to all defenses for each tier you have in this feat.
-This increases your Toughness, Resilience, and Resolve defenses.
+This increases your Toughness, Guard, and Resolve defenses.
 
 ## Extraordinary Focus
 
@@ -2054,7 +2054,7 @@ lifetime of conditioning, your skin is tough as nails, allowing your
 body to deflect blows that would cripple others. \newline
 
 **Effect:** When you are not wearing armor, you gain an armor bonus to your
-Toughness and Resilience defenses. You may still gain this bonus when
+Toughness and Guard defenses. You may still gain this bonus when
 wielding a shield. Your armor bonus is determined by your tier in this
 feat:
 
@@ -2559,15 +2559,15 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ## Armor
 
-Armor provides a bonus to your Resilience defense, thus reducing or negating the damage that you would suffer from many types of attacks.
+Armor provides a bonus to your Guard defense, thus reducing or negating the damage that you would suffer from many types of attacks.
 
-Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to your Resilience defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
+Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to your Guard defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
 
 The Armor table summarizes the following properties of each type of armor:
 
 **Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
 
-**Defense Bonus** indicates the bonus that your character gains to their Resilience defense.
+**Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
@@ -2735,9 +2735,9 @@ from.
 \
 **Attack:**
 
--   Agility vs. Resilience
--   Creation vs. Resilience
--   Energy vs. Resilience
+-   Agility vs. Guard
+-   Creation vs. Guard
+-   Energy vs. Guard
 -   Entropy vs. Toughness
 
 **Description:** You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, or a dazzling flash of light. \newline
@@ -2745,7 +2745,7 @@ from.
 **Effect:** The target cannot see as long as the effect persists. The target
 automatically fails any Perception rolls based solely on normal sight. Attack
 rolls and Perception rolls based partially on sight that can be supplementd by
-another sense suffer disadvantage 5. The target's Resilience defense is reduced by 3.
+another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.
 
 ## Charmed
 
@@ -2884,13 +2884,13 @@ magical power, you cause your enemies to doubt themselves. \newline
 \
 **Attack:**
 
--   Agility vs. Resilience
--   Alteration vs. Resilience
--   Energy vs. Resilience
+-   Agility vs. Guard
+-   Alteration vs. Guard
+-   Energy vs. Guard
 -   Entropy vs. Toughness
 -   Influence vs. Resolve
--   Might vs. Resilience
--   Movement vs. Resilience
+-   Might vs. Guard
+-   Movement vs. Guard
 
 **Description:** Whether through wrestling it from your opponent, forcefully knocking it
 out of their hand, skilfully parrying a weapon, a precise nerve strike,
@@ -3007,7 +3007,7 @@ severity escalates by one level.
 
 -   Level 1 - The target has Disadvantage 1 on all non-attack action rolls.
 
--   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Resilience, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
+-   Level 2 - The target loses their attribute bonus to their defense scores (Agility for Guard, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
 
 -   Level 3 - The target has Disadvantage 1 on all attack rolls.
 
@@ -3070,9 +3070,9 @@ you to inflict the bane for the next hour.
 \
 **Attack:**
 
--   Energy vs. Resilience
--   Might vs. Resilience
--   Movement vs. Resilience
+-   Energy vs. Guard
+-   Might vs. Guard
+-   Movement vs. Guard
 
 **Description:** With a forceful blow, magical gust of wind, or telekinetic push, you
 move your target against its will. \newline
@@ -3097,13 +3097,13 @@ move your target against its will. \newline
 \
 **Attack:**
 
--   Agility vs. Resilience
--   Alteration vs. Resilience
--   Creation vs. Resilience
--   Energy vs. Resilience
--   Entropy vs. Resilience
+-   Agility vs. Guard
+-   Alteration vs. Guard
+-   Creation vs. Guard
+-   Energy vs. Guard
+-   Entropy vs. Guard
 -   Influence vs. Resolve
--   Might vs. Resilience
+-   Might vs. Guard
 
 **Description:** Whether through grappling, a precise nerve strike, entangling vines,
 exerting mental control, or a bone-numbing blast of cold, you render
@@ -3179,8 +3179,8 @@ you to inflict the bane for the next hour.
 \
 **Attack:**
 
--   Energy vs. Resilience
--   Might vs. Resilience
+-   Energy vs. Guard
+-   Might vs. Guard
 
 **Description:** Fights are called “knock down, drag out” for a reason. Knocking an
 opponent prone is a common way for one combatant to gain the upper hand.
@@ -3268,8 +3268,8 @@ for the next 24 hours.
 \
 **Attack:**
 
--   Agility vs. Resilience
--   Energy vs. Resilience
+-   Agility vs. Guard
+-   Energy vs. Guard
 -   Entropy vs. Toughness
 
 **Description:** Whether by setting the target ablaze, covering them in acid, slicing an
@@ -3528,11 +3528,11 @@ belongings they are carrying inaudible.
 \
 **Attack:**
 
--   Agility vs. Resilience
+-   Agility vs. Guard
 -   Energy vs. Toughness
 -   Entropy vs. Toughness
--   Might vs. Resilience
--   Movement vs. Resilience
+-   Might vs. Guard
+-   Movement vs. Guard
 
 **Description:** Slowing an enemy is usually caused by either extreme cold, prolonged
 heat, poison, or injury to one or both legs. \newline
@@ -3997,11 +3997,11 @@ and accomplishing actions at an uncanny rate. \newline
 
 -   **Power Level 2** - The target's speed is increased by 10'.
 
--   **Power Level 4** - The target's speed is increased by 15', and it gains +2 to Resilience.
+-   **Power Level 4** - The target's speed is increased by 15', and it gains +2 to Guard.
 
--   **Power Level 6** - The target's speed is increased by 20', and it gains +3 to Resilience. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.
+-   **Power Level 6** - The target's speed is increased by 20', and it gains +3 to Guard. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.
 
--   **Power Level 8** - The target's speed is increased by 30', and it gains +4 to Resilience. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.
+-   **Power Level 8** - The target's speed is increased by 30', and it gains +4 to Guard. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.
 
 
 ## Heal
@@ -4060,9 +4060,9 @@ inside of a solid structure, then the target is forcibly transported to
 the alternate plane they were traveling by way of at the time (typically
 the Astral or Ethereal plane).
 
-The target becomes immune to all attacks that target either Resilience or
+The target becomes immune to all attacks that target either Guard or
 Toughness, however, they also cannot deliver any attacks that target
-Resilience or Toughness.
+Guard or Toughness.
 
 ## Invisible
 
@@ -4078,11 +4078,11 @@ Resilience or Toughness.
 an illusion of you not being there, or stepping into an extradimensional space between
 the fabric of the planes.  \newline
 
-**Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Resilience defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Resilience defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
+**Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
 
--   **Power Level 5** - Advantage 3 to hide, +3 to Resilience against ranged and melee attacks, and -2 to Resilience for target's that can't see you.
+-   **Power Level 5** - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for target's that can't see you.
 
--   **Power Level 6** - Advantage 5 to hide, +5 to Resilience against ranged and melee attacks, and -4 to Resilience for target's that can't see you.
+-   **Power Level 6** - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for target's that can't see you.
 
 ## Life Drain
 
@@ -4661,9 +4661,9 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 |  **Determine Targets** | **Melee** = Disadvantage equals total # of targets |
 | | **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) |
 | | **Area** = Disadvantage varies (see below) |
-| **Step 3:** | Weapon Attacks target Resilience |
+| **Step 3:** | Weapon Attacks target Guard |
 | **Determine Targeted Defense** | Extraordinary Attacks target the most logical defense |
-| | **Resilience** if the attack requires dodging or deflection |
+| | **Guard** if the attack requires dodging or deflection |
 | | **Toughness** if the attack targets bodily health |
 | | **Resolve** if the attack harms the psyche or will |
 | **Step 4:** | **Damage dealt** = Attack Roll minus Defense |
@@ -4731,14 +4731,14 @@ You may choose from a variety of shapes when making an area attack as described 
 
 **3. Determine Targeted Defense**
 
-Every attack targets one of your foe’s defenses: Toughness, Resilience, or Resolve.
+Every attack targets one of your foe’s defenses: Toughness, Guard, or Resolve.
 
-Weapon attacks always target Resilience.
+Weapon attacks always target Guard.
 
 Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
-- **Resilience** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
+- **Guard** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
 - **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
 **4. Roll Attack and Calculate Damage**

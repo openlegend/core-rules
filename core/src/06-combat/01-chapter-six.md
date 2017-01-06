@@ -79,7 +79,7 @@ With these modified rules, a player’s failed attack roll means that the player
 > ### Example of the Core Mechanic in Combat
 >
 > Vera hurls herself at the red dragon attempting to cut through his
-scaly hide. However, her attack roll fails to hit the dragon’s Resilience
+scaly hide. However, her attack roll fails to hit the dragon’s Guard
 of 25. She chooses to inflict 3 damage, but the GM also gets a choice.
 >
 > He chooses to inflict the knockdown bane: The dragon’s tail lashes
@@ -157,7 +157,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 | - | - |
 | **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Extraordinary** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
 | **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage varies (see below) |
-| **Step 3: Determine Targeted Defense** | Weapon Attacks target Resilience <br /><br /> Extraordinary Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Resilience** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
+| **Step 3: Determine Targeted Defense** | Weapon Attacks target Guard <br /><br /> Extraordinary Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Guard** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
 | **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />10 over defense, inflict one bane as well |
 
 ##### 1. Determine Range
@@ -224,14 +224,14 @@ You may choose from a variety of shapes when making an area attack as described 
 
 ##### 3. Determine Targeted Defense
 
-Every attack targets one of your foe’s defenses: Toughness, Resilience, or Resolve.
+Every attack targets one of your foe’s defenses: Toughness, Guard, or Resolve.
 
-Weapon attacks always target Resilience.
+Weapon attacks always target Guard.
 
 Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
-- **Resilience** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
+- **Guard** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
 - **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
 
@@ -267,7 +267,7 @@ The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate whic
 
 > ##### Example Bane Attacks
 >
-> Setting Sun is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Setting Sun is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Resilience of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+> Setting Sun is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Setting Sun is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
 >
 > * * * * *
 >
@@ -431,11 +431,11 @@ As part of your defend action, you may also move up to half of your speed at any
 
 > ##### Defend Examples
 >
-> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Resilience of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Resilience, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
+> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Guard of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Guard, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
 >
 > * * * * *
 >
-> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Resilience scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
+> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Guard scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
 
 #### Improvise
 
