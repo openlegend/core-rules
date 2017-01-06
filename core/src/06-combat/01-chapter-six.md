@@ -27,9 +27,9 @@ Surprised characters always act after non-surprised characters, as explained in 
 
 After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
 
-Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest.
+Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine order randomly.
 
-**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage on their initiative roll equal to the weapon’s *swift* value (i.e., *swift* 2 provides advantage 2). A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
+**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage 2 on their initiative. A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
@@ -37,7 +37,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >
 > Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of Mugworm Griblicks.
 >
-> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift 1* property, granting her advantage 1 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 >
 >> Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
@@ -143,6 +143,9 @@ Major actions are what you take to get big things done in combat. Your major act
 
 Each of these actions is explained below.
 
+> #### Combat on a Grid
+> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
+
 #### Make a Damaging Attack
 
 To attack a foe in an attempt to damage them, follow the steps in the Attack Summary chart, which are explained in further detail below. Every attack is either physical or extraordinary. Physical attacks typically involve weapons, claws, teeth, or other natural means of inflicting damage that rely on the attacker's Might or Agility attribute. Extraordinary attacks are those that make use of one of the attacker's extraordinary attributes, such as by using Energy to summon a ball of fire. A character can only make an extraordinary attack if they possess a score of 1 or higher in the relevant attribute.
@@ -239,7 +242,7 @@ Extraordinary attacks are more open-ended and often require the GM to decide the
 
 Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Extraordinary attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
 
-The Challenge Rating for your roll is the target’s defense score. If you succeed, the target takes damage equal to your action roll minus the targeted defense. This damage is subtracted from the target’s hit points.
+You deal damage equal to your action roll minus the target's defense, ignoring negative results. This damage is subtracted from the target's hit points. If your attack roll exactly equals the target's defense, the attack should be interpreted as a *success with a twist* (differing slightly from the usual core mechanic).
 
 **Exceptional Success**
 

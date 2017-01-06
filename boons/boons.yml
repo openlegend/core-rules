@@ -166,7 +166,7 @@
   description: |
     You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
   effect: |
-    Choose a physical, social, or mental attribute. The target gains advantage on their action rolls according to the Power Level of the boon.
+    Choose a single attribute. The target gains advantage on their action rolls with that attribute according to the Power Level of the boon.
     <ul>
     <li><strong>Power Level 3</strong> - Advantage 1</li>
     <li><strong>Power Level 6</strong> - Advantage 2</li>

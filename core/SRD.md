@@ -662,6 +662,11 @@ The “every roll matters” rule was designed to make player actions meaningful
 
 This is for the sake of simplicity and fun. When a player fails a roll, it’s not very fun if something doesn’t come out of it. When the GM fails a roll, though, there is usually much rejoicing at the table.
 
+### Group Action Rolls
+
+Sometimes, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures then successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
+
+The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
 
 ## Determining Challenge Rating
 
@@ -2443,9 +2448,11 @@ Typical situations of when the GM would grant you an increase in your Wealth Sco
 
 You can carry up to twenty pieces of gear. No more. Only track the items that will actually affect the game. So, no, you don’t need to record your pants and shirt on your character sheet. But, your armor does count.
 
+Multiple items of a similar nature that can be stowed together, such as twenty arrows in a quiver or a belt of healing potions, only count as a single item. The GM can use their own discretion to apply common sense limits if necessary. For example, even though technically 1000 clips of ammo would count as a single item, the GM is free to rule that a PC can't carry them or that they would count as a *bulky* item (see below).
+
 ### Maximum *Heavy* Items Equals Might Score
 
-Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score plus one. Once you’re carrying your maximum number of *heavy* items, your speed is cut in half.
+Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score. Once you’re carrying your maximum number of *heavy* items, your speed is cut in half. A character with a zero Might score cannot carry any heavy items.
 
 ### One (Maybe Two) *Bulky* Items
 
@@ -2542,7 +2549,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Forceful** - This weapon can be used to make attacks with the Might attribute.
 
-**Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score plus one.
+**Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
 **Precise** - This weapon can be used to make attacks with the Agility attribute.
 
@@ -3869,7 +3876,7 @@ creating the invisibility.
 
 **Description:** You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier. \newline
 
-**Effect:** Choose a physical, social, or mental attribute. The target gains advantage on their action rolls according to the Power Level of the boon.
+**Effect:** Choose a single attribute. The target gains advantage on their action rolls with that attribute according to the Power Level of the boon.
 
 -   **Power Level 3** - Advantage 1
 -   **Power Level 6** - Advantage 2
@@ -4528,9 +4535,9 @@ Surprised characters always act after non-surprised characters, as explained in 
 
 After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
 
-Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest.
+Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine order randomly.
 
-**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage on their initiative roll equal to the weapon’s *swift* value (i.e., *swift* 2 provides advantage 2). A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
+**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage 2 on their initiative roll. A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
@@ -4624,6 +4631,8 @@ Major actions are what you take to get big things done in combat. Your major act
 
 Each of these actions is explained below.
 
+> #### Combat on a Grid
+> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
 
 #### Make a Damaging Attack
 
@@ -4745,7 +4754,7 @@ Extraordinary attacks are more open-ended and often require the GM to decide the
 
 Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Extraordinary attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
 
-The Challenge Rating for your roll is the target’s defense score. If you succeed, the target takes damage equal to your action roll minus the targeted defense. This damage is subtracted from the target’s hit points.
+You deal damage equal to your action roll minus the target's defense, ignoring negative results. This damage is subtracted from the target's hit points. If your attack roll exactly equals the target's defense, the attack should be interpreted as a *success with a twist* (differing slightly from the usual core mechanic).
 
 **Exceptional Success**
 
