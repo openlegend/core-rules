@@ -28,7 +28,8 @@
   description: |
     You create life or unlife of subhuman intelligence that persists indefinitely and autonomously.
   effect: |
-    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion).  You perform a ritual that last 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature.  If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks.  Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
+    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that last 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
+    The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and it should follow the guidelines established by the "Simple Build" section for creating NPCs / monsters in Chapter 7: Running the Game.
     <ul>
     <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating.</li>
     <li><strong>Power Level 8</strong> - You can animate a group of creatures:  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5.</li>
@@ -52,7 +53,7 @@
     <ul>
     <li><strong>Power Level 1</strong> - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
     <li><strong>Power Level 3</strong> - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 5</strong> - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek.  You can only ask one question about a given target per week.</li>
+    <li><strong>Power Level 5</strong> - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek. You can only ask one question about a given target per week.</li>
     <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
     </ul>
 - !
@@ -145,7 +146,7 @@
   description: |
     Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or extraordinarily heightened senses.
   effect: |
-    The Blinded bane does not adversely affect you and you are able to see normally even in conditions of little or no light.  Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
+    The Blinded bane does not adversely affect you and you are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
 - !
   name: Bolster
   tags:
@@ -165,7 +166,7 @@
   description: |
     You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
   effect: |
-    Choose a physical, social, or mental attribute. The target gains advantage on their action rolls according to the Power Level of the boon.
+    Choose a single attribute. The target gains advantage on their action rolls with that attribute according to the Power Level of the boon.
     <ul>
     <li><strong>Power Level 3</strong> - Advantage 1</li>
     <li><strong>Power Level 6</strong> - Advantage 2</li>
@@ -193,7 +194,7 @@
   description: |
     You create an area of illusory darkness or entropic energy that snuffs out all light.
   effect: |
-    Choose a space or object within range. Darkness emanates from the target to a radius equal five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc) are unaffected. If the darkness area overlaps an area affected by the Light boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+    Choose a space or object within range. Darkness emanates from the target to a radius equal five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc) are unaffected. If the darkness area overlaps an area affected by the Light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 - !
   name: Detection
   tags:
@@ -207,12 +208,12 @@
   description: |
     You gain extraordinary vision that allows you to see colored auras which correlate to magical and spiritual forces.
   effect: |
-    When calling on this boon, you must choose from the following: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, and <strong>magic</strong>.  You can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming).  These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone.  Even a Paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
+    When calling on this boon, you must choose from the following: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, and <strong>magic</strong>. You can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming). These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone. Even a Paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
     <ul>
     <li><strong>Holy</strong> - Holy energy surrounds extraplanar beings from the heavens or similar good-aligned dimensions where pure goodness is embodied. </li>
     <li><strong>Unholy</strong> - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.</li>
     <li><strong>Life</strong> - Beings from heavenly dimensions, clerics wielding the power of healing, resurrection, or protection radiate an aura of life for a time after wielding such powers.</li>
-    <li><strong>Death</strong> - Necromancers, undead, and murderers all radiate an aura of death.  For undead, the aura is constant, since the power of death and magic is what animates them.</li>
+    <li><strong>Death</strong> - Necromancers, undead, and murderers all radiate an aura of death. For undead, the aura is constant, since the power of death and magic is what animates them.</li>
     <li><strong>Magic</strong> - Magical auras surround objects or places imbued with magical effects. Extraordinary creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.</li>
     </ul>
   special: |
@@ -278,9 +279,9 @@
   effect: |
     <ul>
     <li><strong>Power Level 2</strong> - The target's speed is increased by 10'. </li>
-    <li><strong>Power Level 4</strong> - The target's speed is increased by 15', and it gains +2 to Evasion. </li>
-    <li><strong>Power Level 6</strong> - The target's speed is increased by 20', and it gains +3 to Evasion. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.</li>
-    <li><strong>Power Level 8</strong> - The target's speed is increased by 30', and it gains +4 to Evasion. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.</li>
+    <li><strong>Power Level 4</strong> - The target's speed is increased by 15', and it gains +2 to Guard. </li>
+    <li><strong>Power Level 6</strong> - The target's speed is increased by 20', and it gains +3 to Guard. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 2.</li>
+    <li><strong>Power Level 8</strong> - The target's speed is increased by 30', and it gains +4 to Guard. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes one extra action, it suffers disadvantage 2 if it requires a roll. If the target takes two extra actions, both of these actions suffer disadvantage 4 if they require a roll.</li>
     </ul>
 - !
   name: Heal
@@ -337,12 +338,13 @@
   effect: |
     The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (30' for most characters).
     If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
-    The target becomes immune to all attacks that target either Evasion or Toughness, however, they also cannot deliver any attacks that target Evasion or Toughness.
+    The target becomes immune to all attacks that target either Guard or Toughness, however, they also cannot deliver any attacks that target Guard or Toughness.
 - !
   name: Invisible
   tags:
   - Extraordinary
   power:
+  - 5
   - 6
   attribute:
   - Alteration
@@ -350,9 +352,13 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You vanish from the visible spectrum, either through magical control of light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
+    You vanish from the visible spectrum, either through bending light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
   effect: |
-    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage 3 on all Agility rolls to hide. If completely still, this bonus increases to advantage 5 instead. Attacks against the target have a 50% chance of missing completely, though area attacks still effect the target normally. The target has advantage 1 on attacks against all enemies that can’t see them. The target can not be the target of opportunity attacks unless the enemy can see them through non-visual means.
+    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
+    <ul>
+    <li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for target's that can't see you.</li>
+    <li><strong>Power Level 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for target's that can't see you.</li>
+    </ul>
 - !
   name: Life Drain
   tags:
@@ -389,7 +395,7 @@
   description: |
     You light up an area with magical light from a point of your choice
   effect: |
-    Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other.  If the power level of both is equal, then they cancel each other out.
+    Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 - !
   name: Reading
   tags:
@@ -547,7 +553,7 @@
   description: |
     A target's physical structure is temporarily altered, allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
   effect: |
-    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this feat is limited to your level or 5, whichever is higher. All of the target's existing extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.  The following limitations apply at Power Level 2, and are gradually removed at higher power levels:
+    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this feat is limited to your level or 5, whichever is higher. All of the target's existing extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form. The following limitations apply at Power Level 2, and are gradually removed at higher power levels:
     <ul>
     <li>The new form cannot be a different size than that of the target.</li>
     <li>The new form must possess a typical humanoid or animal physiology. Animal-like creatures, such as dragons, are allowed, but plants, elementals, oozes, and similar forms are not.
@@ -592,6 +598,7 @@
 
     <strong>Permanent Minions</strong>: At Power Levels 6 and above, you may choose to increase the invocation time to 8 hours. If you do so, your minion exists permanently and does not require a sustain action to persist, nor is it dispelled when you invoke this boon to summon temporary minions. The maximum number of permanent minions you may have at any time is equal to your attribute score used for invocation.
   special: |
+    Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.
     This boon is not subject to normal multi-targeting rules. However, you may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke.
 
 - !
@@ -655,8 +662,8 @@
   effect: |
     <ul>
     <li><strong>Power Level 3</strong> - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
-    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see.  If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect). </li>
-    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleoport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
+    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see. If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect). </li>
+    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
     <li><strong>Power Level 9</strong> - Using the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
     </ul>
 - !

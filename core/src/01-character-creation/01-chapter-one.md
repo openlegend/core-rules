@@ -70,7 +70,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | ---- |
 | **Agility** | Dodge attacks, move with stealth, perform acrobatics, shoot a bow, pick a pocket |
-| **Fortitude** | Resist poison, shrug off pain, exert yourself physically |
+| **Fortitude** | Resist poison, shrug off pain, survive in a desert, wear heavy armor |
 | **Might** | Wear heavy armor, swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
 
 <div class="table-no-body"></div>
@@ -255,11 +255,11 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 **Toughness** protects you from attacks that test your endurance, bodily health, sturdiness, and survivability. For example, foes attempting to poison you, drain your life force, or push you off a cliff will target your toughness.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
-| Evasion = 10 + Agility + Armor |
+| Guard = 10 + Agility + Might + Armor |
 | - |
 | |
 
-**Evasion** protects you from attacks that test your ability to dodge, deflect, and take cover from attacks. Your enemies would need to overcome your evasion in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
+**Guard** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your guard in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Resolve = 10 + Presence + Will  |
@@ -286,7 +286,7 @@ heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Berserker* so that they can fly into a frenzied rage in order to decimate their foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Battle Trance* so that they can fly into a frenzied rage in order to decimate their foes.
 
 ### Choose your feats
 
@@ -307,8 +307,8 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Barbarian | Ranger | Monk |
 | :- | :- | :- |
-| Berserker | Master Tracker | Multi-target Attack Specialist 1 (melee) |
-| Reckless Frenzy | Fleet of Foot 1 |  Martial Focus (Unarmed) |
+| Battle Trance | Master Tracker | Multi-target Attack Specialist 1 (melee) |
+| Reckless Frenzy | Fleet of Foot 1 | Martial Focus (Unarmed) |
 | | Attack Specialization 1 (Longbow) | Combat Momentum |
 
 <br>
@@ -316,25 +316,25 @@ start with the feat selections recommended below:
 <div class="table-no-stripes table-even-header"></div>
 | Paladin | Battle Mage | Mind Mage |
 | :- | :- | :- |
-| Attribute Substitution (Presence > Might)  | Attack Specialization 1 (Cold) | Hallucination |
-| Armor Mastery (Scale Mail) | Area Manipulation 1 | Potent Bane (Phantasm) |
-| | Multi-target Attack Specialist (Area) | |
+| Attribute Substitution 2 (Presence > Might)  | Attack Specialization 1 (Cold) | Hallucination |
+| Hospitaler | Area Manipulation 1 | Potent Bane (Phantasm) |
+| | Multi-target Attack Specialist 1 (Area) | |
 
 <br>
 
 <div class="table-no-stripes table-even-header"></div>
 | Assassin | Cleric | Druid |
 | :- | :- | :- |
-| Martial Focus (Dagger) | Boon Focus (Heal) | Boon Focus 2 (Shapeshift) |
-| Lethal Strike 1 | Armor Specialization 1 (Scale Mail) |  |
+| Martial Focus (Dagger) | Boon Focus 1 (Heal) | Boon Focus 2 (Shapeshift) |
+| Lethal Strike 1 | Armor Mastery 1 (Scale Mail) |  |
 
 <br>
 
 <div class="table-no-stripes table-even-header"></div>
 | Shadowdancer | Bard | Arcane Protector |
 | :- | :- | :- |
-| Lethal Strike 1 | Boon Focus (Bolster) | Defensive Reflexes 1 |
-| Boon Focus 1 (Teleport) | Boon Focus (Heal) | Boon Focus (Teleport) |
+| Lethal Strike 1 | Boon Focus 1 (Bolster) | Defensive Reflexes 1 |
+| Boon Focus 1 (Teleport) | Boon Focus 1 (Heal) | Boon Focus 1 (Teleport) |
 
 <br><br>
 
@@ -450,7 +450,7 @@ Whether you are an android constructed of spaceage material that does not erode 
 
 #### Arcane Bloodline
 
-Your ancestry can be traced to dragons, fey, or a similarly magical race. As such, you command the respect of those who practice the arcane arts.  You are assumed to have knowledge and a destiny for greatness in the ways of magic, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you an apprenticeship with a famous Archmage, or cause a magic-user who does not know you well to follow a prescribed course of action based on your advice if the question is one of Arcane knowledge.
+Your ancestry can be traced to dragons, fey, or a similarly magical race. As such, you command the respect of those who practice the arcane arts. You are assumed to have knowledge and a destiny for greatness in the ways of magic, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you an apprenticeship with a famous Archmage, or cause a magic-user who does not know you well to follow a prescribed course of action based on your advice if the question is one of Arcane knowledge.
 
 #### Artisan
 
@@ -466,7 +466,7 @@ You are just really darn good looking. This plays to your favor more than just r
 
 #### Brute
 
-While others might convince with a silver tongue, you speak the universal language of fear.  Once per game session, if you make a show of physical force, you can use your *Might* attribute for a *Persuasion* roll.  If your *Persuasion* score is already equal to or greater than your *Might* score, you get advantage 1 on the roll.
+While others might convince with a silver tongue, you speak the universal language of fear. Once per game session, if you make a show of physical force, you can use your *Might* attribute for a *Persuasion* roll. If your *Persuasion* score is already equal to or greater than your *Might* score, you get advantage 1 on the roll.
 
 #### Courageous
 
@@ -483,7 +483,7 @@ You serve a higher being and have earned their protection. Once per game session
 
 #### Divine Insight
 
-You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Ear of the Emperor
 
@@ -493,13 +493,17 @@ You have done something in the past to earn the favor of someone in a high place
 
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
 
+#### Inner Strength
+
+Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
+
 #### Innocent
 
-Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts.  Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
+Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts. Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
 
 #### Jack of All Trades
 
-You have a knack for picking up new skills.  Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
+You have a knack for picking up new skills. Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
 
 #### Local Hero
 
@@ -515,11 +519,11 @@ You know the art of economics as well as the best of businessmen. A master of su
 
 #### Noble
 
-Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts.  You are also treated as a peer by lesser nobles and can typically request an audience with them.  In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
+Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts. You are also treated as a peer by lesser nobles and can typically request an audience with them. In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
 
 #### Observant
 
-Your keen senses allow you to notice details that others typically miss.  Once per game session, you can use this ability to notice something out of the ordinary.  For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing.  If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
+Your keen senses allow you to notice details that others typically miss. Once per game session, you can use this ability to notice something out of the ordinary. For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing. If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
 
 #### Outlaw
 
@@ -531,11 +535,7 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 
 #### Pure-hearted
 
-Any goodly-natured creature you encounter is friendly toward you by default rather than neutral.  Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
-
-#### Resilient
-
-Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
+Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
 
 #### Scavenger
 
@@ -543,7 +543,7 @@ You have lived a life of need, and thus know how to make do when others would go
 
 #### Scent
 
-Your sense of smell is similar to that of a wild beast.  As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
+Your sense of smell is similar to that of a wild beast. As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
 
 #### Scholar
 
@@ -575,11 +575,11 @@ Having spent significant time fending for yourself in the wilderness, you excel 
 
 #### Warrior’s Code
 
-As a veteran warrior, you command respect even from foes.  Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
+As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
 
 #### Whisperer of the Wild
 
-Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot.  The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
+Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot. The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
 
 
 ### Flaw List

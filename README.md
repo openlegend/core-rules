@@ -2,15 +2,52 @@
 
 # Open Legend Core Rules
 
-Included here in [YAML format](https://en.wikipedia.org/wiki/YAML) are the rules which are published to the [www.openlegendrpg.com](http://www.openlegendrpg.com) website. Feel free to open a pull request to propose improvements to any of the rules, add new feats, or otherwise start a discussion pertaining to the rules text. Note that any contribution will require that you preserve the valid YAML syntax, otherwise the website will break as a result of your changes.  If you're not sure, use [this site](http://yaml-online-parser.appspot.com/) to validate your YAML outputs valid JSON.
+Included here in [YAML format](https://en.wikipedia.org/wiki/YAML) are the rules which are published to the [www.openlegendrpg.com](http://www.openlegendrpg.com) website. Feel free to open a pull request to propose improvements to any of the rules, add new feats, or otherwise start a discussion pertaining to the rules text. Note that any contribution will require that you preserve the valid YAML syntax, otherwise the website will break as a result of your changes. If you're not sure, use [this site](http://yaml-online-parser.appspot.com/) to validate your YAML outputs valid JSON.
 
-## License
+## Open Legend Community License
 
-The game rules content of this repository are released under a special open-source license that offers third party publishers either a [commercial terms license](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-commercial-terms) or a [non-commercial terms license](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-non-commercial-terms)
+The game rules content of this repository are released under a special open-source license that offers third party publishers the opportunity to use the game rules as well as designated Open Legend logo royalty-free in their own commercial or non-commercial projects via the [Open Legend Community License](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-community-license).
 
 ## Changelog
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
+
+#### 2017 / 01 / 06
+-   Changed armor prerequisites to `Fortitude` instead of `Might`. This addresses a balance concern about `Might` characters having an unfair advantage with their `Guard` defense since armor had a `Might` prerequisite that made it difficult for `Agility` based characters to qualify for. `Fortitude` is useful for ALL characters as it makes you harder to kill with higher `Toughness`, HP, and now armor as well.
+-   `Battle Trance` feat modified to provide bonus to armor for characters with an armor bonus less than 3.
+-   Removed `Defensive` property from a few weapons since it would prevent them from getting the two-handed bonus to attacks
+-   **Unmovable Weapons** are now called `Stationary` since they are ... well ... not unmovable.
+-   **Deadly Weapons** now require a minimum wealth level of 4, and `Deadly` does not stack with itself. Only the greatest value among items you wield applies.
+-   **Defensive Weapons** no longer gain advantage on attack rolls for dual wielding or being used two-handed. This property no longer stacks.
+-   Fix a number of weapon properties and add missing `Longsword` example
+-   Fix incorrect cost of `Extraordinary Defense` (now 3 feat points) and `Natural Defense` (now 2 feat points)
+-   **Major Change to Evasion / Resilience Defense** - due to the words `Resilience` and `Toughness` being too similar, `Resilience` (formerly `Evasion`) is now called `Guard
+
+#### 2017 / 01 / 02
+-   **Major Change to Weapons** - Weapons now include multiple examples of each type that shares the same properties and now have a `Category` which determines the various ways it can be used.
+-   Added a `Building Your Own Weapons` table that shows the process for building a balanced weapon
+-   **Major Change to Evasion** - the `Evasion` defense score has been changed and renamed to `Resilience` which is calculated as: `Resilience = 10 + Agility + Might + Armor` and bane defense targets have been changed to accommodate the difference
+-   **Major Change to Armor** - For multi-genre purposes, and coinciding with the change from `Evasion` => `Resilience`, Armor now has three categories: `Light`, `Medium`, and `Heavy` and is simplified in the interest of making it easier to understand where armor that is not accounted for on the table should fall on the spectrum
+-   `Battle Trance`, `Armor Mastery`, `Natural Defense`, `Two Weapon Defense` are updated to accommodate the new Armor rules
+-   `Armor Mastery` cost increased to 3. Tier III removed.
+-   `Defensive Mastery` feat added to accompany shields and new weapons with the `Defensive` property
+-   Clarify shifting between multiple `Alternate Form`s
+
+#### 2017 / 01 / 01
+-   Fix `Invisible` and `Blinded` banes so they don’t violate Open Legend’s "one roll" principle. Also clean up various other issues with both and add a “lesser” Invisible at PL 5.
+
+#### 2016 / 12 / 31
+-   Close loophole in `Summon Creature` boon that allowed them to recursively summon others of their type. Also clarified that summoned creatures cannot be revived from zero hit points.
+-   `Indomitable Endurance` feat was tweaked to allow access via a Will attribute prerequisite, also removed the immunity to natural fatigue since the feat already shields against the first level of fatigue and 2 feat points for such a potent effect is overpowered.
+-   Rename `Berserker` feat to `Battle Trance`, and associated feat name updates (`Deathless Berserker` => `Deathless Trance`, `Destructive Berserker` => `Destructive Trance`, `Entranced Berserker` => `Impervious Trance`, `Reactionary Berserker` => `Reactionary Trance`)
+-   `Resilient` was both a feat and a perk, the `Resilient` perk was renamed to `Inner Strength` for clarity
+-   `Companion` feat now grants access to 1 feat per tier, selected from the "Simple Build" NPC creation list in Chapter 7: Running the Game
+-   Changed wording around handling “advantage zero”, other non-action rolls, and the ability to say “advantage x” for any type of die roll. You can now apply "advantage 1" to a Resist roll, for example, but a roll without attribute dice can not be modified beyond Advantage 1 or Disadvantage 1
+-   Tweaked the Power Levels of `Persistent Damage` bane, they are now: 4 (d6) / 6 (d8) / 8 (d10) / 9 (2d6)
+
+#### 2016 / 12 / 30
+-   `Lethal Damage` is now part of the `Core Rules`
+-   `Critical Hits` are now optional
 
 #### 2016 / 12 / 28
 -   Removed `Retributive Barrier` in favor of `Barrier` boon

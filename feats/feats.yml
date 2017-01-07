@@ -20,7 +20,8 @@
     <li>Tier 2 - Same attribute points as your primary form, and 3 feat points per level.</li>
     </ul>
     Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
-    You may transform from one form to another as a focus action. Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
+    As a focus action, you may change between any two forms (including your primary form or any alternate form). You maintain this capability in all of your forms.
+    Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
     In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points.
 
   special: |
@@ -54,7 +55,7 @@
   effect: |
     For each tier of this feat you possess, you can omit a single 5-foot square from being targeted as part of an area attack.
 - !
-  name: Armor Mastery (I - III)
+  name: Armor Mastery (I - II)
   prerequisites:
     tier1:
       Other:
@@ -62,21 +63,17 @@
     tier2:
       Other:
       - None
-    tier3:
-      Other:
-      - None
   tags:
   - No Prerequisite
   cost:
-  - 2
+  - 3
   description: |
-    You are specially trained with particular armor type, allowing you to maximize its protection and minimize its drawbacks.
+    You are specially trained to wear armor into battle, allowing you to maximize its protection and minimize its drawbacks.
   effect: |
-    Choose an armor type to specialize in. Your training allows you to sleep in that armor type without becoming fatigued. In addition, while wearing armor of that type, you gain the following benefits.
+    Your training allows you to sleep in armor without gaining one level of the Fatigued bane. In addition, while wearing armor, you gain the following benefits.
     <ul>
-    <li>Tier 1 - The Might prerequisite for wearing the selected armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
-    <li>Tier 2 - The Might prerequisite for wearing the selected armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
-    <li>Tier 3 - The Might prerequisite for wearing the selected armor is reduced by 3. The Armor Bonus granted by the armor is increased by 3. Any movement penalty is reduced by 10 feet.</li>
+    <li><strong>Tier 1</strong> - The Might prerequisite for wearing armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.</li>
+    <li><strong>Tier 2</strong> - The Might prerequisite for wearing armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.</li>
     </ul>
 - !
   name: Attack Redirection
@@ -153,7 +150,7 @@
     When you take this feat, select one weapon or energy type. You gain Advantage 1 per tier of this feat for any <em>damaging</em> attack made with your choice. This bonus does not apply to bane attacks or boon invocations.
     Examples of energy types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
   special: |
-    You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode.  You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
+    You may take this feat multiple times for the same type of attack. Your total advantage to attacks with the attack is equal to your tier for that particular attack mode. You can also specialize in different attacks by purchasing the feat again. For example, a character might have Attack Specialization (Tier 2) for Fire attacks and Attack Specialization (Tier 4) for Long Sword.
 - !
   name: Attribute Substitution (I - II)
   prerequisites:
@@ -168,7 +165,7 @@
   cost:
   - 2
   description: |
-    Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another.  Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity, or a gunman who's deadshot aim is the result of a dark pact.
+    Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another. Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity, or a gunman who's deadshot aim is the result of a dark pact.
   effect: |
     When you purchase this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for different purposes depending on which tier of the feat you have:
     <ul>
@@ -205,6 +202,20 @@
     You are specialized in the use of a particular bane that is iconic to your character.
   effect: |
     Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
+- !
+  name: Battle Trance
+  prerequisites:
+    tier1:
+      Attribute:
+      - Fortitude: 3
+      - Will: 3
+  tags:
+  cost:
+  - 3
+  description: |
+    You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian, or an unstoppable samurai with laser focus in the heat of battle.
+  effect: |
+    As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, your Toughness and Resolve defenses are increased by 3. If your armor bonus is less than 3, it becomes 3. If you take three consecutive turns without  making an attack roll against an enemy creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
   name: Battlefield Defender
   prerequisites:
@@ -332,20 +343,6 @@
   effect: |
     You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).
 - !
-  name: Berserker
-  prerequisites:
-    tier1:
-      Attribute:
-      - Fortitude: 3
-      - Will: 3
-  tags:
-  cost:
-  - 3
-  description: |
-    You can enter a rage-induced, trance-like state in which your body is strengthened and your mind transcends fear and pain.
-  effect: |
-    As a free action on your turn, you may enter a rage. While raging, you have advantage 1 on all attacks. Additionally, if you are not wearing armor, all of your defense scores are increased by 5. If you take three consecutive turns without making an attack roll against a creature, the rage ends. When the rage ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
-- !
   name: Boon Access
   prerequisites:
     tier1:
@@ -394,7 +391,7 @@
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
-    <li><strong>Tier 2</strong> - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action.  If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action.  If the invocation time is 10 minutes, it becomes 1 minute.  If the invocation time is 1 hour, it becomes 10 minutes.  If the invocation time is 8 hours, it becomes 1 hour.</li>
+    <li><strong>Tier 2</strong> - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour.</li>
     <li><strong>Tier 3</strong> - The effect at tier 3 varies based on the duration of the boon:
       <br />
       <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.
@@ -518,11 +515,11 @@
   description: |
     Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
   effect: |
-    You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no feats or abilities, only attributes and the corresponding access to banes and boons. Whenever you gain a level or purchase a new tier in this feat, you may reassign your companion's attributes.
+    You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no special abilities beyond the feat granted per tier. Whenever you gain a level or purchase a new tier in this feat, you may reassign your companion's attributes and feats.
     <ul>
-    <li><strong>Tier 1</strong> - Your companion's highest attribute equals your level minus 2 (minimum of 3, maximum of 9).</li>
-    <li><strong>Tier 2</strong> - Your companion's highest attribute equals your level minus 1 (minimum of 4, maximum of 9).</li>
-    <li><strong>Tier 3</strong> - Your companion's highest attribute equals your level (minimum of 5, maximum of 9).</li>
+    <li><strong>Tier 1</strong> - Your companion's highest attribute equals your level minus 2 (minimum of 3, maximum of 9). Your companion gains 1 feat, selected from the "Simple Build" NPC feat list in Chapter 7: Running the Game.</li>
+    <li><strong>Tier 2</strong> - Your companion's highest attribute equals your level minus 1 (minimum of 4, maximum of 9). Your companion gains a 2nd feat from the same list.</li>
+    <li><strong>Tier 3</strong> - Your companion's highest attribute equals your level (minimum of 5, maximum of 9). Your companion gains a 3rd feat from the same list.</li>
     </ul>
     <strong>Example</strong>
     Fezzy starts at level one with Companion (Tier II), choosing a wolf for his companion. Based on Fezzy's level and feat tier, his wolf's highest attribute is 4, so he can assign the wolf four attributes at scores 4, 3, 2, and 1. He assigns the following: Agility 4, Perception 3, Might 2, and Fortitude 1. Upon reaching level 2, Fezzy purchases Companion (Tier III), raising the wolf's highest attribute to 5, so Fezzy reassigns the attributes as follows: Perception 5, Agility 4, Might 3, Fortitude 2, Presence 1.
@@ -612,7 +609,7 @@
       <li>The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.</li>
       <li>For expendable items, bane attacks have advantage 2 instead of advantage 1.</li>
       <li>You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a teleportation circle that activates when someone steps on a magical trigger. For those imbuing with non-magical means, this autonomy could be more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).</li>
-      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3.  A non-extraordinary example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
+      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3. A non-extraordinary example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
       </ul>
     </li>
     <li><strong>Tier 3</strong> - You gain the ability to imbue sentience into an item by tripling the time you would have otherwise spent in creating it. The item gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.
@@ -669,13 +666,13 @@
     <li><strong>Tier 3</strong> - Your death blow HP threshold increases from 10 to 15. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
     </ul>
 - !
-  name: Deathless Berserker
+  name: Deathless Trance
   prerequisites:
     tier1:
       Attribute:
       - Fortitude: 7
       Feat:
-      - Berserker
+      - Battle Trance
   tags:
   - Extraordinary
   cost:
@@ -683,9 +680,23 @@
   description: |
     Your battle fury is legendary, allowing you to fight on long after your body should have given up.
   effect: |
-    While you are raging you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the rage. When the rage ends, if your hit points are below zero, you collapse unconscious.  If you are not healed to zero or more hit points within 1 round of your rage ending, you die.
+    While in a battle trance you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the battle trance. When the battle trance ends, if your hit points are below zero, you collapse unconscious. If you are not healed to zero or more hit points within 1 round of your battle trance ending, you die.
 - !
-  name: Defensive Reflexes (I - X)
+  name: Defensive Mastery
+  prerequisites:
+    tier1:
+      Other:
+      - None
+  tags:
+  - Combat
+  cost:
+  - 3
+  description: |
+    You are specially trained in the use of defensive implements and can get more protective use out of them. Examples include a martial artist's defensive kata or a soldier with a riot shield.
+  effect: |
+    When wielding a weapon or implement with the Defensive property, you gain a +1 armor bonus. In addition, the Defensive value of the item is increased by 1 when you wield it. So Defensive 1 becomes Defensive 2 and Defensive 2 becomes Defensive 3.
+- !
+  name: Defensive Reflexes (I - IX)
   prerequisites:
     tier1:
       Attribute:
@@ -714,9 +725,6 @@
     tier9:
       Attribute:
       - Agility: 3
-    tier10:
-      Attribute:
-      - Agility: 3
   tags:
   - Agility
   - Extraordinary
@@ -727,22 +735,22 @@
   effect: |
     Any time you use the Defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
 - !
-  name: Destructive Berserker
+  name: Destructive Trance
   prerequisites:
     tier1:
       Attribute:
       - Might: 7
       Feat:
-      - Berserker
+      - Battle Trance
   tags:
   - Extraordinary
   - Might
   cost:
   - 3
   description: |
-    Your rage not only puts you into a fearless trance, but enables you to strike down your enemies with ferocious blows.
+    Your battle trance not only makes you fearless but enables you to strike down your enemies with ferocious blows.
   effect: |
-    While you are raging, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
+    While you are in a battle trance, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
 - !
   name: Diehard
   prerequisites:
@@ -796,29 +804,13 @@
   description: |
     Your specialization in a particular type of energy or general protection causes you to be resistant to that type of energy.
   effect: |
-    Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion).  When you are attacked with that energy type, you gain resistance to the attack as follows:
+    Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion). When you are attacked with that energy type, you gain resistance to the attack as follows:
     <ul>
     <li><strong>Tier 1</strong> - Your defense scores are increased by 3 against the chosen energy type.</li>
     <li><strong>Tier 2</strong> - Your defense scores are increased by 6 against the chosen energy type.</li>
     <li><strong>Tier 3</strong> - Your defense scores are increased by 9 against the chosen energy type.</li>
     <li><strong>Tier 4</strong> - You are immune to damage and harmful effects from the chosen energy type.</li>
     </ul>
-- !
-  name: Entranced Berserker
-  prerequisites:
-    tier1:
-      Attribute:
-      - Will: 7
-      Feat:
-      - Berserker
-  tags:
-  - Combat
-  cost:
-  - 3
-  description: |
-    In the heat of combat, your will becomes indomitable.
-  effect: |
-    While you are raging, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your rage and returns when your rage ends.
 - !
   name: Evasive Footwork
   prerequisites:
@@ -834,7 +826,7 @@
   effect: |
     When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 - !
-  name: Extraordinary Defense (I - V)
+  name: Extraordinary Defense (I - III)
   prerequisites:
     tier1:
       Attribute:
@@ -851,25 +843,15 @@
       - Movement: 4
       - Prescience: 4
       - Protection: 4
-    tier4:
-      Attribute:
-      - Movement: 5
-      - Prescience: 5
-      - Protection: 5
-    tier5:
-      Attribute:
-      - Movement: 6
-      - Prescience: 6
-      - Protection: 6
   tags:
   - Extraordinary
   - Defense
   cost:
-  - 2
+  - 3
   description: |
     Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm.
   effect: |
-    You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Evasion, and Resolve defenses.
+    You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Guard, and Resolve defenses.
 - !
   name: Extraordinary Focus
   prerequisites:
@@ -1084,7 +1066,7 @@
   description: |
     Through inspiring words, magical healing, or advanced medical technique, you are exceptionally skilled at helping others shake off baneful afflictions.
   effect: |
-    You can use a major action to give an ally an immediate Resist roll (a free action for the ally). The ally gains a special form of advantage on this roll, allowing them to roll 2d20 and keep the highest. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
+    You can use a major action to give an ally an immediate Resist roll (a free action for the ally) with advantage 1. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
 - !
   name: Hunter's Foe (I - IX)
   prerequisites:
@@ -1125,43 +1107,52 @@
   effect: |
     Choose a species, race, or faction (e.g., dragons, gnolls, or the Red Knights). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, you gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
 - !
-  name: Indomitable Endurance (I - IX)
+  name: Impervious Trance
+  prerequisites:
+    tier1:
+      Attribute:
+      - Will: 7
+      Feat:
+      - Battle Trance
+  tags:
+  - Combat
+  cost:
+  - 3
+  description: |
+    In the heat of combat, your will becomes indomitable.
+  effect: |
+    While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.
+- !
+  name: Indomitable Endurance (I - V)
   prerequisites:
     tier1:
       Attribute:
       - Fortitude: 5
+      - Will: 5
     tier2:
       Attribute:
       - Fortitude: 5
+      - Will: 5
     tier3:
       Attribute:
       - Fortitude: 5
+      - Will: 5
     tier4:
       Attribute:
       - Fortitude: 5
+      - Will: 5
     tier5:
       Attribute:
       - Fortitude: 5
-    tier6:
-      Attribute:
-      - Fortitude: 5
-    tier7:
-      Attribute:
-      - Fortitude: 5
-    tier8:
-      Attribute:
-      - Fortitude: 5
-    tier9:
-      Attribute:
-      - Fortitude: 5
+      - Will: 5
   tags:
   - Physical
   cost:
   - 2
   description: |
-    Your endurance is legendary, allowing you to push on when others would keel over from exhaustion.
+    Your endurance and willpower are legendary, allowing you to push  on when others would keel over from exhaustion.
   effect: |
-    You are immune to the fatigued bane when it is caused by regular, natural sources, such as a forced march, starvation, or swimming long distances. Extraordinary sources of the fatigued bane (such as a necromancer's curse) or irregular sources (such as the Berserker feat) still affect you, but at a reduced effect. Treat your fatigue level as one lower than it actually is for the purposes of determining the effects of the bane. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
+    You are able to shrug off the effects of the Fatigued bane. Treat your fatigue level (per the Fatigued bane description) as one lower than it actually is for the purposes of determining the bane's effects. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
   name: Inspiring Champion (I - III)
   prerequisites:
@@ -1348,7 +1339,7 @@
   prerequisites:
     tier1:
       Attribute:
-      - Perception: 5
+      - Perception: 4
   tags:
   - Non-Combat
   - Mental
@@ -1358,7 +1349,7 @@
   description: |
     Your skill at tracking and hunting your quarry is unmatched, allowing you to follow trails long after others would have lost them.
   effect: |
-    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up.  Only magically concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
+    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only magically concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
 - !
   name: Mimic
   prerequisites:
@@ -1453,7 +1444,7 @@
   description: |
     You are a master of felling multiple foes at a time, whether it be with a whirlwind of your blade, a hail of arrows, or a ball of flame.
   effect: |
-    When you choose this feat, you must decide to focus in area, projectile, or melee attacks.  For each tier, you reduce the disadvantage penalty associated with multi-attacks for your chosen attack type by 1. Whenever you take this feat, you must specify which type of attack you are focusing on, and you may take the feat multiple times to specialize in multiple types of attack.
+    When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-attacks for your chosen attack type by 1. Whenever you take this feat, you must specify which type of attack you are focusing on, and you may take the feat multiple times to specialize in multiple types of attack.
 - !
   name: Multi-Target Boon Expert
   prerequisites:
@@ -1503,13 +1494,13 @@
   prerequisites:
     tier1:
       Attribute:
-      - Fortitude: 3
+      - Fortitude: 2
     tier2:
       Attribute:
-      - Fortitude: 5
+      - Fortitude: 3
     tier3:
       Attribute:
-      - Fortitude: 7
+      - Fortitude: 5
   tags:
   - Combat
   - Physical
@@ -1520,11 +1511,11 @@
   description: |
     Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.
   effect: |
-    When you are not wearing armor, you gain an armor bonus to your Toughness and Evasion defenses. You may still gain this bonus when wielding a shield. Your armor bonus is determined by your tier in this feat:
+    When you are not wearing armor, you gain an armor bonus to your Guard defense. Your armor bonus is determined by your tier in this feat:
     <ul>
-    <li><strong>Tier 1</strong> - +3 armor bonus</li>
-    <li><strong>Tier 2</strong> - +5 armor bonus</li>
-    <li><strong>Tier 3</strong> - +7 armor bonus</li>
+    <li><strong>Tier 1</strong> - +1 armor bonus</li>
+    <li><strong>Tier 2</strong> - +2 armor bonus</li>
+    <li><strong>Tier 3</strong> - +3 armor bonus</li>
     </ul>
 - !
   name: Overpowering Strike
@@ -1556,15 +1547,15 @@
   description: |
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
-    Choose one bane that you can invoke and that has a duration of "resist ends". When a target uses the Resist action to shake off your invocation of the chosen bane, they roll two d20s and use the lower die.
+    Choose one bane that you can invoke that has a duration of "resist ends". When a target uses the Resist action to shake off your invocation of the chosen bane, they have disadvantage 1.
 - !
-  name: Reactionary Berserker
+  name: Reactionary Trance
   prerequisites:
     tier1:
       Attribute:
       - Will: 5
       Feat:
-      - Berserker
+      - Battle Trance
   tags:
   - Combat
   - Mental
@@ -1573,23 +1564,23 @@
   cost:
   - 2
   description: |
-    Your berserker nature is ever-present, waiting to be unleashed at a moment's notice.
+    Your battle trance lies dormant just below the surface, waiting to be unleashed at a moment's notice.
   effect: |
-    You can enter a rage (as per the berserker feat) as a free action even when it is not your turn. You may choose to rage in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to rage after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your rage take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
+    You can enter a battle trance (as per the Battle Trance feat) as a free action even when it is not your turn. You may choose to do so in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to enter a battle trance after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your battle trance take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
 - !
   name: Reckless Frenzy
   prerequisites:
     tier1:
       Feat:
-      - Berserker
+      - Battle Trance
   tags:
   - Combat
   cost:
   - 3
   description: |
-    By willingly punishing your own body, you can enter a raging frenzy that allows you to launch a relentless onslaught of attacks.
+    By willingly punishing your own body, you can enter a frenzy that allows you to launch a relentless onslaught of attacks.
   effect: |
-    While you are raging, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action.  Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
+    While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action. Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
 - !
   name: Resilient
   prerequisites:
@@ -1607,7 +1598,7 @@
   description: |
     Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
   effect: |
-    Any time you take the Resist action, you roll the d20 twice and keep the higher result.
+    Any time you take the Resist action, you have advantage 1 on the roll.
 - !
   name: Ritual Magic (I - III)
   prerequisites:
@@ -1740,7 +1731,7 @@
   cost:
   - 1
   description: |
-    You are made for the  water and can swim at surprising speeds, with the aptitude of a fish.
+    You are made for the water and can swim at surprising speeds, with the aptitude of a fish.
   effect: |
     You gain a swimming speed equal to your base speed and do not need to make any special action rolls to maintain this base speed.
 - !
@@ -1795,11 +1786,11 @@
   - Physical
   - Agility
   cost:
-  - 2
+  - 3
   description: |
     Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons.
   effect: |
-    When you have a weapon in each hand, you gain a +2 armor bonus. This feat cannot be used in conjunction with a shield.
+    When you have a weapon in each hand, you gain a +1 armor bonus.
 - !
   name: Unending Charm
   prerequisites:
@@ -1848,7 +1839,7 @@
   description: |
     Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
   effect: |
-    Any time you roll a natural 20 on the d20 for an attack action roll, you roll twice on all subsequent d20 re-rolls and take the higher result.
+    Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls.
 - !
   name: Wealthy
   prerequisites:
