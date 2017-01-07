@@ -192,7 +192,7 @@ Armor comes in 3 types: light, medium, and heavy in terms of the protection they
 
 The Armor table summarizes the following properties of each type of armor:
 
-**Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
+**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the appropriate Fortitude score, a character cannot benefit from the protection afforded by the armor.
 
 **Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
@@ -205,13 +205,13 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 | - |
 | |
 
-| Examples | Type | Wealth Level | Required Might | Defense Bonus | Speed Penalty |
+| Examples | Type | Wealth Level | Required Fortitude | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: | :-: |
 | Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
 | Kevlar Vest, Bioweave | Medium | 2 | 2 | 2 | 0 |
 | Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
-| Yoroi Armor, Plate Mail | Heavy | 2 | 5 | 3 | 5’ |
-| Power Armor, Elven Plate Mail | Heavy | 4 | 2 | 3 | 0 |
+| Yoroi Armor, Plate Mail | Heavy | 2 | 3 | 3 | 5’ |
+| Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
 
 \
 \

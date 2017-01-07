@@ -80,7 +80,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 |||
 | - | - |
 | **Agility** | Dodge attacks, move with stealth, perform acrobatics, shoot a bow, pick a pocket |
-| **Fortitude** | Resist poison, shrug off pain, exert yourself physically |
+| **Fortitude** | Resist poison, shrug off pain, survive in a desert, wear heavy armor |
 | **Might** | Wear heavy armor, swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
 
 
@@ -980,10 +980,10 @@ your character. \newline
 
 **Effect:** As a free action on your turn, you may enter a battle trance. While
 entranced, you have advantage 1 on all attacks. Additionally, your Toughness and
-Resolve defenses are increased by 3. If you are not wearing armor, your Guard
-defense is also increased by 3. If you take three consecutive turns without
-making an attack roll against an enemy creature, the battle trance ends. When
-the battle trance ends, you automatically suffer 1 level of the [*fatigue bane*](#fatigued).
+Resolve defenses are increased by 3. If your armor bonus is less than 3, it
+becomes 3. If you take three consecutive turns without making an attack roll
+against an enemy creature, the battle trance ends. When the battle trance ends,
+you automatically suffer 1 level of the [*fatigue bane*](#fatigued).
 
 ## Battlefield Defender
 
@@ -2569,8 +2569,7 @@ Armor comes in 3 types: light, medium, and heavy in terms of the protection they
 
 The Armor table summarizes the following properties of each type of armor:
 
-**Required Might** lists the minimum Might attribute score that a character requires in order to wear the armor. Without the appropriate Might score, a character cannot benefit from the protection afforded by the armor. When using multiple armor types, such as plate mail and a shield, you only need to meet the highest Might requirement.
-
+**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the appropriate Fortitude score, a character cannot benefit from the protection afforded by the armor.
 **Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
@@ -2581,13 +2580,13 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 \SpanningTable[tbp]
 
-| Examples | Type | Wealth Level | Required Might | Defense Bonus | Speed Penalty |
+| Examples | Type | Wealth Level | Required Fortitude | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: | :-: |
 | Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
-| Kevlar Vest, Bioweave | Medium | 2 | 1 | 2 | 0 |
+| Kevlar Vest, Bioweave | Medium | 2 | 2 | 2 | 0 |
 | Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
-| Yoroi Armor, Plate Mail | Heavy | 2 | 5 | 3 | 5’ |
-| Power Armor, Elven Plate Mail | Heavy | 4 | 2 | 3 | 0 |
+| Yoroi Armor, Plate Mail | Heavy | 2 | 3 | 3 | 5’ |
+| Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
 
 
 

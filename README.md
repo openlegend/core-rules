@@ -13,6 +13,8 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 01 / 06
+-   Changed armor prerequisites to `Fortitude` instead of `Might`. This addresses a balance concern about `Might` characters having an unfair advantage with their `Guard` defense since armor had a `Might` prerequisite that made it difficult for `Agility` based characters to qualify for. `Fortitude` is useful for ALL characters as it makes you harder to kill with higher `Toughness`, HP, and now armor as well.
+-   `Battle Trance` feat modified to provide bonus to armor for characters with an armor bonus less than 3.
 -   Removed `Defensive` property from a few weapons since it would prevent them from getting the two-handed bonus to attacks
 -   **Unmovable Weapons** are now called `Stationary` since they are ... well ... not unmovable.
 -   **Deadly Weapons** now require a minimum wealth level of 4, and `Deadly` does not stack with itself. Only the greatest value among items you wield applies.
