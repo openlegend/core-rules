@@ -2469,7 +2469,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target’s defense. If both weapons you are wielding have passive benefits such as the Deadly or Defensive properties, your benefit is the best of the two but does not stack.Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target’s defense. If both weapons you are wielding have passive benefits such as the Deadly or Defensive properties, your benefit is the best of the two but does not stack.
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
@@ -2511,10 +2511,10 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
-| Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful, Defensive 1 | Persistent Damage, Disarmed, Immobile |
+| Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful | Persistent Damage, Disarmed, Immobile |
 | Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
 | Long Spear | Two-handed Melee, Short Ranged | 1 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
-| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach, Defensive 1 | Knockdown, Immobile, Forced Move |
+| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Burst 2 | Persistent Damage, Knockdown, Forced Move |
 | Colt 45, .357 Magnum | Medium Ranged | 3 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
@@ -2525,7 +2525,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Sniper Rifle, Phase Rifle | Extreme Ranged | 3 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Unmovable | Persistent Damage, Forced Move, Stunned |
+| Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
 | Rocket Launcher, Mech Warhead | Extreme Ranged | 4 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Burst 3 | Persistent Damage, Stunned, Forced Move |
 | Small Shield | One-handed Melee | 1 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 2 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
@@ -2534,7 +2534,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-**Burst** - A burst weapon grants advantage equal to its value when its wielder makes a multi-target attack.
+***Burst** - A burst weapon grants advantage equal to its value when its wielder makes a cube multi-target attack.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
@@ -2554,9 +2554,9 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Slow** -  If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
-**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+**Stationary** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
 
-**Unmovable** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
+**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
 
 
@@ -2611,7 +2611,9 @@ The *Defensive* and *Burst* properties increase the Wealth Level of the item by 
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 
-The *Consumable*, *Delayed Ready*, *Slow*, and *Unmovable* properties reduce the Wealth Level of the item by 1.
+The *Consumable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
+
+If the item has the *Deadly* property, it's Wealth Level cannot be lower than 4.  Depending on the story, a GM may wish to lower this threshold if they want their game to be more dangerous or it takes place in a world where high-tech weapons or firearms are common.
 
 ### Step 3: Choose Banes
 

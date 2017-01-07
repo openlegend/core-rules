@@ -133,10 +133,10 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
-| Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful, Defensive 1 | Persistent Damage, Disarmed, Immobile |
+| Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful | Persistent Damage, Disarmed, Immobile |
 | Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
 | Long Spear | Two-handed Melee, Short Ranged | 1 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
-| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach, Defensive 1 | Knockdown, Immobile, Forced Move |
+| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Burst 2 | Persistent Damage, Knockdown, Forced Move |
 | Colt 45, .357 Magnum | Medium Ranged | 3 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
@@ -147,7 +147,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Sniper Rifle, Phase Rifle | Extreme Ranged | 3 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Unmovable | Persistent Damage, Forced Move, Stunned |
+| Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
 | Rocket Launcher, Mech Warhead | Extreme Ranged | 4 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Burst 3 | Persistent Damage, Stunned, Forced Move |
 | Small Shield | One-handed Melee | 1 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 2 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
@@ -155,13 +155,13 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-**Burst** - A burst weapon grants advantage equal to its value when its wielder makes a multi-target attack.
+**Burst** - A burst weapon grants advantage equal to its value when its wielder makes a cube multi-target attack.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
 **Deadly** - Some weapons are so highly effective that they significantly increase damage potential beyond what the wielder would typically be capable of. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. A weapon cannot have a Defensive value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, after using the weapon, the wielder must spend a move action to ready the weapon before it can be used again.
 
@@ -175,9 +175,10 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Slow** -  If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
+**Stationary** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
+
 **Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
-**Unmovable** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
 
 \
 \
@@ -236,7 +237,9 @@ The *Defensive* and *Burst* properties increase the Wealth Level of the item by 
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 
-The *Consumable*, *Delayed Ready*, *Slow*, and *Unmovable* properties reduce the Wealth Level of the item by 1.
+The *Consumable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
+
+If the item has the *Deadly* property, it's Wealth Level cannot be lower than 4.  Depending on the story, a GM may wish to lower this threshold if they want their game to be more dangerous or it takes place in a world where high-tech weapons or firearms are common.
 
 ### Step 3: Choose Banes
 

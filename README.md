@@ -13,6 +13,10 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 01 / 06
+-   Removed `Defensive` property from a few weapons since it would prevent them from getting the two-handed bonus to attacks
+-   **Unmovable Weapons** are now called `Stationary` since they are ... well ... not unmovable.
+-   **Deadly Weapons** now require a minimum wealth level of 4, and `Deadly` does not stack with itself. Only the greatest value among items you wield applies.
+-   **Defensive Weapons** no longer gain advantage on attack rolls for dual wielding or being used two-handed. This property no longer stacks.
 -   Fix a number of weapon properties and add missing `Longsword` example
 -   Fix incorrect cost of `Extraordinary Defense` (now 3 feat points) and `Natural Defense` (now 2 feat points)
 -   **Major Change to Evasion / Resilience Defense** - due to the words `Resilience` and `Toughness` being too similar, `Resilience` (formerly `Evasion`) is now called `Guard
