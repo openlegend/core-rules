@@ -128,7 +128,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Blow Gun, Dart | Close Ranged | 1 | Precise, Forceful | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 1 | Precise, Forceful, Swift | Persistent Damage, Disarmed |
 | Longsword, Falchion | Versatile Melee | 2 | Precise, Forceful | Persistent Damage, Disarmed |
-| Katana, Enchanted Longsword | Versatile Melee | 3 | Precise, Forceful, Deadly 1 | Persistent Damage, Disarmed |
+| Katana, Enchanted Longsword | Versatile Melee | 4 | Precise, Forceful, Deadly 1 | Persistent Damage, Disarmed |
 | Plasmablade, Vorpal Sword | One-handed Melee | 4 | Precise, Forceful, Deadly 2 | Persistent Damage, Disarmed, Stunned |
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
@@ -139,14 +139,14 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Burst 2 | Persistent Damage, Knockdown, Forced Move |
-| Colt 45, .357 Magnum | Medium Ranged | 3 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
+| Colt 45, .357 Magnum | Medium Ranged | 4 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
 | Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
 | Sawed-off Shotgun | Medium Ranged | 2 | Precise | Persistent Damage, Stunned, Forced Move |
 | Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 2 | Precise, Swift, Burst 2 | Persistent Damage, Provoked, Demoralized |
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Sniper Rifle, Phase Rifle | Extreme Ranged | 3 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
+| Sniper Rifle, Phase Rifle | Extreme Ranged | 4 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Laser Cannon | Extreme Ranged | 5 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
 | Rocket Launcher, Mech Warhead | Extreme Ranged | 4 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Burst 3 | Persistent Damage, Stunned, Forced Move |
 | Small Shield | One-handed Melee | 1 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
@@ -229,7 +229,7 @@ Typically a weapon belongs to one category, however some weapons, such as a dagg
 
 Every weapon must have either the *Forceful* or *Precise* property and some weapons have both. Choose one or both.
 
-Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon.
+Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon. The Wealth Level of all weapons begins at 1.
 
 The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level 4.
 
