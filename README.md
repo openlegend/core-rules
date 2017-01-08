@@ -12,6 +12,9 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 01 / 08
+-   Tweak `Delayed Ready` property to require the ready action before use, so that weapons with `Consumable` property don’t get the free benefit of bypassing the ready action
+
 #### 2017 / 01 / 06
 -   Changed armor prerequisites to `Fortitude` instead of `Might`. This addresses a balance concern about `Might` characters having an unfair advantage with their `Guard` defense since armor had a `Might` prerequisite that made it difficult for `Agility` based characters to qualify for. `Fortitude` is useful for ALL characters as it makes you harder to kill with higher `Toughness`, HP, and now armor as well.
 -   `Battle Trance` feat modified to provide bonus to armor for characters with an armor bonus less than 3.

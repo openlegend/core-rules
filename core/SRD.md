@@ -2542,7 +2542,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. A weapon cannot have a Defensive value greater than 3.
 
-**Delayed Ready** - the weapon cannot be used more than once per round. In addition, after using the weapon, the wielder must spend a move action to ready the weapon before it can be used again.
+**Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
 **Forceful** - This weapon can be used to make attacks with the Might attribute.
 
