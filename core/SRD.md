@@ -2610,7 +2610,7 @@ The *Defensive* and *Burst* properties increase the Wealth Level of the item by 
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 
-The *Consumable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
+The *Consumable*, *Delayed Ready*, *Heavy*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
 
 If the item has the *Deadly* property, it's Wealth Level cannot be lower than 4.  Depending on the story, a GM may wish to lower this threshold if they want their game to be more dangerous or it takes place in a world where high-tech weapons or firearms are common.
 
