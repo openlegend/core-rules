@@ -34,7 +34,7 @@ Each bane description includes the following elements.
 
 **Attack.** This list indicates what type of attack roll to make when inflicting the bane. Each entry consists of an attribute that the attacking player should roll and the defense score targeted by the attack. If the attacker’s roll equals or exceeds the target’s defense score, then the bane is inflicted.
 
-**Duration.** A bane typically remains in effect until the target resists it using a *resist action*, hence most banes have a duration of “resist ends”. If a target fails three resist rolls against a bane, the bane can no longer be resisted. It persists for an extended duration indicated in parentheses.
+**Duration.** A bane typically remains in effect until the target resists it with a *Resist* roll, hence most banes have a duration of “resist ends”. If a target fails three resist rolls against a bane, the bane can no longer be resisted. It persists for an extended duration indicated in parentheses.
 
 **Description.** This entry simply provides a general idea of what the bane could look like in the story.
 

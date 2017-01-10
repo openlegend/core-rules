@@ -1547,7 +1547,7 @@
   description: |
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
-    Choose one bane that you can invoke that has a duration of "resist ends". When a target uses the Resist action to shake off your invocation of the chosen bane, they have disadvantage 1.
+    Choose one bane that you can invoke that has a duration of "resist ends". a target rolls Resist to shake off your invocation of the chosen bane, they have disadvantage 1.
 - !
   name: Reactionary Trance
   prerequisites:
@@ -1598,7 +1598,7 @@
   description: |
     Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
   effect: |
-    Any time you take the Resist action, you have advantage 1 on the roll.
+    Any time you make a Resist roll, you have advantage 1 on the roll.
 - !
   name: Ritual Magic (I - III)
   prerequisites:

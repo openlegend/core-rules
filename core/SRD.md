@@ -715,7 +715,7 @@ Advantage and Disadvantage only apply to your initial pool of dice for an action
 
 ### Advantage and Disadvantage Without Attribute Dice
 
-When attempting any roll that does not include attribute dice, you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. This applies to both actions performed with attribute score of zero, as well as non-action rolls (like the d20 rolled for a Resist action). Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances. In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus you cannot multi-target attack if you have an attribute score of zero.
+When attempting any roll that does not include attribute dice, you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. This applies to both actions performed with attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances. In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus you cannot multi-target attack if you have an attribute score of zero.
 
 ### Assigning Advantage and Disadvantage
 
@@ -2093,7 +2093,7 @@ blinding powder. Whatever the source and whatever the effect, your
 enemies cower before your legendary attack. \newline
 
 **Effect:** Choose one bane that you can invoke that has a duration of "resist
-ends". When a target uses the Resist action to shake off your invocation of
+ends". When a target rolls Resist to shake off your invocation of
 the chosen bane, they have disadvantage 1.
 
 ## Reactionary Trance
@@ -2140,7 +2140,8 @@ points remaining to make use of this feat.
 
 -   **Tier 1**: Fortitude, Presence, or Will 3
 
-**Description:** Any time you take the Resist action, you have advantage 1 on the roll. \newline
+**Description:** Whether through luck, extraordinary will, or exceptional courage,
+you are able to shake off banes quicker than others.
 
 **Effect:** Any time you make a Resist roll, you have advantage 1 on the roll.
 
@@ -2694,7 +2695,7 @@ Each bane description includes the following elements.
 
 **Attack.** This list indicates what type of attack roll to make when inflicting the bane. Each entry consists of an attribute that the attacking player should roll and the defense score targeted by the attack. If the attacker’s roll equals or exceeds the target’s defense score, then the bane is inflicted.
 
-**Duration.** A bane typically remains in effect until the target resists it using a *resist action*, hence most banes have a duration of “resist ends”. If a target fails three resist rolls against a bane, the bane can no longer be resisted. It persists for an extended duration indicated in parentheses.
+**Duration.** A bane typically remains in effect until the target resists it with a *Resist* roll, hence most banes have a duration of “resist ends”. If a target fails three resist rolls against a bane, the bane can no longer be resisted. It persists for an extended duration indicated in parentheses.
 
 **Description.** This entry simply provides a general idea of what the bane could look like in the story.
 
@@ -3359,7 +3360,7 @@ who is convinced by the illusion. Any creatures with a Resolve defense
 score less than or equal to your roll will believe the phantasm to be
 real and will react accordingly. Those with a higher Resolve score will
 notice that their senses are being deceived somehow. Creatures who are
-convinced by the phantasm can use the Resist action as normal in order
+convinced by the phantasm can roll Resist as normal in order
 to attempt to shake off the bane. If successful, they are no longer
 deceived by the illusion.
 
@@ -5136,7 +5137,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Potent Bane:** Choose a bane. When you invoke the chosen bane on a target, Resist rolls to shake off the bane have Disadvantage (the target rolls 2d20 and keeps the lowest, contrary to normal action rolls).
 
-- **Resilient:** Any time you take the Resist action, you have advantage 1 on the roll.
+- **Resilient:** Any time you roll to Resist, you have advantage 1 on the roll.
 
 - **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on.
 Special: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
