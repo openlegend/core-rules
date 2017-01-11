@@ -12,7 +12,7 @@
   description: |
     You are able to absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space to hide it.
   effect: |
-    The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your body as if you had withdrawn it to your hand.
+    The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your target's body as if it had been withdrawn.
 - !
   name: Animation
   tags:
@@ -51,10 +51,10 @@
     You peer into the future to gain insight into a course of action, an event, a person, or a place.
   effect: |
     <ul>
-    <li><strong>Power Level 1</strong> - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 3</strong> - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 5</strong> - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek. You can only ask one question about a given target per week.</li>
-    <li><strong>Power Level 7 </strong> - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
+    <li><strong>Power Level 1</strong> - Your target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
+    <li><strong>Power Level 3</strong> - Your target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
+    <li><strong>Power Level 5</strong> - Your target asks a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.</li>
+    <li><strong>Power Level 7 </strong> - Your target can choose a particular event, decision, person, place, etc. After invoking this boon, your target begins to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target with detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
     </ul>
 - !
   name: Aura
@@ -146,7 +146,7 @@
   description: |
     Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or extraordinarily heightened senses.
   effect: |
-    The Blinded bane does not adversely affect you and you are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
+    The Blinded bane does not adversely affect your target and is able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
 - !
   name: Bolster
   tags:
@@ -208,7 +208,7 @@
   description: |
     You gain extraordinary vision that allows you to see colored auras which correlate to magical and spiritual forces.
   effect: |
-    When calling on this boon, you must choose from the following: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, and <strong>magic</strong>. You can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming). These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone. Even a Paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
+    When calling on this boon, you must choose from the following: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, and <strong>magic</strong>. Your target can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming). These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone. Even a Paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
     <ul>
     <li><strong>Holy</strong> - Holy energy surrounds extraplanar beings from the heavens or similar good-aligned dimensions where pure goodness is embodied. </li>
     <li><strong>Unholy</strong> - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.</li>
@@ -470,10 +470,10 @@
   effect: |
     When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include finesse, forceful, fire, cold, lightning, acid, influence, creation, and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
     <ul>
-    <li><strong>Power Level 3</strong> - Your defense scores are increased by 3 against the chosen attack type.</li>
-    <li><strong>Power Level 5</strong> - Your defense scores are increased by 6 against the chosen attack type.</li>
-    <li><strong>Power Level 7</strong> - Your defense scores are increased by 9 against the chosen attack type.</li>
-    <li><strong>Power Level 9</strong> - You are immune to damage and harmful effects from the chosen attack type.</li>
+    <li><strong>Power Level 3</strong> - The targets defense scores are increased by 3 against the chosen attack type.</li>
+    <li><strong>Power Level 5</strong> - The targets defense scores are increased by 6 against the chosen attack type.</li>
+    <li><strong>Power Level 7</strong> - The targets defense scores are increased by 9 against the chosen attack type.</li>
+    <li><strong>Power Level 9</strong> - The target is immune to damage and harmful effects from the chosen attack type.</li>
     </ul>
 - !
   name: Restoration
@@ -661,10 +661,10 @@
     You are able to instantly move from one place to another, either by stepping into an intermediate realm, projecting yourself magically, or other similar means.
   effect: |
     <ul>
-    <li><strong>Power Level 3</strong> - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
-    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see. If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect). </li>
-    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
-    <li><strong>Power Level 9</strong> - Using the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.</li>
+    <li><strong>Power Level 3</strong> - You can teleport your target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
+    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can’t see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (you don’t have to make a resist roll to end the effect). </li>
+    <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport the target 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put your target many miles in an unfavorable direction. You simply choose a direction (relative to your starting location) and teleport your target a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
+    <li><strong>Power Level 9</strong> - Using the same longer invocation time from Power Level 7, you can now teleport your target to any location without range limit, provided you have personally seen (through magical or normal means) the destination.</li>
     </ul>
 - !
   name: Tongues
@@ -681,8 +681,8 @@
     You are able to read, write, and speak languages that you are otherwise unfamiliar with.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - You can understand and speak a language of your choice.</li>
-    <li><strong>Power Level 6</strong> - You can read a language of your choice.</li>
+    <li><strong>Power Level 5</strong> - Your target can understand and speak a language of your choice.</li>
+    <li><strong>Power Level 6</strong> - Your target can read a language of your choice.</li>
     </ul>
 - !
   name: Transmutation
