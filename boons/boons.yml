@@ -146,7 +146,7 @@
   description: |
     Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or extraordinarily heightened senses.
   effect: |
-    The Blinded bane does not adversely affect your target and is able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
+    The Blinded bane does not adversely affect your target and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
 - !
   name: Bolster
   tags:
