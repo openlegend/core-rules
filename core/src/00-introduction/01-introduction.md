@@ -51,7 +51,7 @@ As storytellers, we love intricate plotlines that feature characters of depth an
 
 What we want to do is game. And that means we need rules.
 
-Without well-defined rules, the decisions made by players and GMs can seem arbitrary or inconsistent. The GM may feel overburdened by a constant need to recall past rulings that they have made, and the players may feel like their decisions don’t actually matter because the GM can interpret them however they want. This is the opposite of how a baseball ref operates. The ref doesn’t need to create new rules for every play that theu call. The rules of the game are already spelled out. They just need to interpret and apply them.
+Without well-defined rules, the decisions made by players and GMs can seem arbitrary or inconsistent. The GM may feel overburdened by a constant need to recall past rulings that they have made, and the players may feel like their decisions don’t actually matter because the GM can interpret them however they want. This is the opposite of how a baseball ref operates. The ref doesn’t need to create new rules for every play that they call. The rules of the game are already spelled out. They just need to interpret and apply them.
 
 *Open Legend* was designed to provide enough rules so that players have a clear framework to guide their play, but not so many rules that the game gets bogged down by them. You spend your day job worrying about bookkeeping and policies. We don’t want the gaming table to feel like that, and we designed *Open Legend* to focus on the fun rather than the homework.
 
