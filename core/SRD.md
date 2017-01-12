@@ -3721,8 +3721,7 @@ extradimensional space to hide it. \newline
 **Effect:** The object remains in place, completely hidden from the perception of
 others, until you summon or recall it (automatically) as a minor action.
 If anything happens to cancel this boon (such as the Dispel bane), the
-object is immediately shunted out of your body as if you had withdrawn
-it to your hand.
+object is immediately shunted out of your target's body as if the object had withdrawn.
 
 
 ## Animation
@@ -3779,13 +3778,13 @@ Chapter 7: Running the Game.
 event, a person, or a place. \newline
 
 **Effect:**
--   **Power Level 1** - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+-   **Power Level 1** - Your target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
--   **Power Level 3** - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+-   **Power Level 3** - Your target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
--   **Power Level 5** - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek. You can only ask one question about a given target per week.
+-   **Power Level 5** - Your target asks ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.
 
--   **Power Level 7** - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
+-   **Power Level 7** - Your target can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
 
 
 ## Aura
@@ -3856,7 +3855,7 @@ surroundings. Some examples of blindsight include tremorsense,
 echolocation, heat vision, divine insight, or extraordinarily heightened
 senses. \newline
 
-**Effect:** The Blinded bane does not adversely affect you and you are able to see
+**Effect:** The Blinded bane does not adversely affect your target and they are able to see
 normally even in conditions of little or no light. Blindsight can also
 potentially counter invisibility, though the GM will have to decide if
 the source creating the blindsight is appropriate to counter the source
@@ -3919,7 +3918,7 @@ the power level of both is equal, then they cancel each other out.
 correlate to magical and spiritual forces. \newline
 
 **Effect:** When calling on this boon, you must choose from the following: **holy**,
-**unholy**, **life**, **death**, and **magic**. You can perceive
+**unholy**, **life**, **death**, and **magic**. Your target can perceive
 invisible auras pertaining to the chosen type of force and have an
 approximate sense of their strength (from weak to overwhelming). These
 auras are usually based on an action that is deliberate, so an otherwise
@@ -4143,15 +4142,15 @@ has occurred in its vicinity in the past. \newline
 **Effect:** When you successfully invoke this boon, you gain information from an
 object or place within range as follows:
 
--   **Power Level 5** - You can read vague ideas and impressions to learn what took place near the target within the past hour.
+-   **Power Level 5** - Your target can read vague ideas and impressions to learn what took place near the target within the past hour.
 
--   **Power Level 6** - You can see a vivid vision, similar to a supernatural recording, of what took place near the target within the last hour.
+-   **Power Level 6** - Your target can see a vivid vision, similar to a supernatural recording, of what took place near the target within the last hour.
 
--   **Power Level 7** - You can ascertain the most recent owner of the object or the people who have most recently been in the place. This knowledge grants enough information for you to use the Scrying bane to magically locate or view those identified.
+-   **Power Level 7** - Your target can ascertain the most recent owner of the object or the people who have most recently been in the place. This knowledge grants enough information for you to use the Scrying bane to magically locate or view those identified.
 
--   **Power Level 8** - Choose one: You see a vision of the most recent significant event that took place in close proximity to the target - OR - you ask whether or not a specific event you are aware of is impressed upon the target.
+-   **Power Level 8** - Choose one: Your target sees a vision of the most recent significant event that took place in close proximity to the object or place - OR - your target asks whether or not a specific event you are aware of is impressed upon the object or place.
 
--   **Power Level 9** - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.
+-   **Power Level 9** - Your target is able, given sufficient time, to access all memories impressed upon the object or place. You must maintain concentration, with each 10 minutes yielding a new vision from the object's or place's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.
 
 
 ## Regeneration
@@ -4203,13 +4202,13 @@ forceful, fire, cold, lightning, acid, influence, creation, and entropy
 determined by the power level of the boon (the following are not
 cumulative):
 
--   **Power Level 3** - Your defense scores are increased by 3 against the chosen attack type.
+-   **Power Level 3** - Your target's defense scores are increased by 3 against the chosen attack type.
 
--   **Power Level 5** - Your defense scores are increased by 6 against the chosen attack type.
+-   **Power Level 5** - Your target's defense scores are increased by 6 against the chosen attack type.
 
--   **Power Level 7** - Your defense scores are increased by 9 against the chosen attack type.
+-   **Power Level 7** - Your target's defense scores are increased by 9 against the chosen attack type.
 
--   **Power Level 9** - You are immune to damage and harmful effects from the chosen attack type.
+-   **Power Level 9** - Your target is immune to damage and harmful effects from the chosen attack type.
 
 ## Restoration
 
@@ -4415,13 +4414,13 @@ stepping into an intermediate realm, projecting yourself magically, or
 other similar means. \newline
 
 **Effect:**
--   **Power Level 3** - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
+-   **Power Level 3** - You can teleport your target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
 
--   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see. If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect).
+-   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can’t see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect).
 
--   **Power Level 7** - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.
+-   **Power Level 7** - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport the target 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put your target many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleport your target a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.
 
--   **Power Level 9** - Using the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.
+-   **Power Level 9** - Using the same longer invocation time from Power Level 7, you can now teleport your target to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.
 
 
 
@@ -4440,9 +4439,9 @@ unfamiliar with. \newline
 
 **Effect:**
 
--   **Power Level 5** - You can understand and speak a language of your choice.
+-   **Power Level 5** - Your target can understand and speak a language of your choice.
 
--   **Power Level 6** - You can read a language of your choice.
+-   **Power Level 6** - Your target can read a language of your choice.
 
 
 
