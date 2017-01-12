@@ -4142,11 +4142,11 @@ has occurred in its vicinity in the past. \newline
 **Effect:** When you successfully invoke this boon, you gain information from an
 object or place within range as follows:
 
--   **Power Level 5** - Your target can read vague ideas and impressions to learn what took place near the target within the past hour.
+-   **Power Level 5** - Your target can read vague ideas and impressions to learn what occurred near the object or place within the past hour.
 
--   **Power Level 6** - Your target can see a vivid vision, similar to a supernatural recording, of what took place near the target within the last hour.
+-   **Power Level 6** - Your target can see a vivid vision, similar to a supernatural recording, of what took place near the object or place within the last hour.
 
--   **Power Level 7** - Your target can ascertain the most recent owner of the object or the people who have most recently been in the place. This knowledge grants enough information for you to use the Scrying bane to magically locate or view those identified.
+-   **Power Level 7** - Your target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the Scrying bane to magically locate or view those identified.
 
 -   **Power Level 8** - Choose one: Your target sees a vision of the most recent significant event that took place in close proximity to the object or place - OR - your target asks whether or not a specific event you are aware of is impressed upon the object or place.
 
