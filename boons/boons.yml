@@ -12,7 +12,7 @@
   description: |
     You are able to absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space to hide it.
   effect: |
-    The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your target's body as if it had been withdrawn.
+    The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your targets body as if it had been withdrawn.
 - !
   name: Animation
   tags:
