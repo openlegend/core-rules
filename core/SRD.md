@@ -1127,19 +1127,21 @@ character. \newline
 \ **If the chosen boon has a duration of "sustain persists"**,, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.  \
 \ **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
-## Breakfall (I - IX)
+## Breakfall (I - II)
 
-**Cost:** 1 point
+**Cost:** 2 point
 \
 **Prerequisites:**
 
--   **Tier 1 - 9:** Agility 4
+-   **Tier 1 - 2:** Agility 4
 
 **Description:** Your agility enables you to fall from deadly heights unharmed. \newline
 
-**Effect:** When calculating falling damage, reduce the falling distance by 10 feet
-per tier of this feat that you possess. Once you reach tier 9, you can
-fall any distance without taking damage.
+**Effect:**
+
+-   **Tier 1** - As long as you are conscious and able to act, reduce all falling damage by half.
+
+-   **Tier 2** - As long as you are conscious and able to act, you do not suffer falling damage.
 
 ## Brutal Intimidation
 
