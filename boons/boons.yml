@@ -164,7 +164,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or extraordinary insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
+    You bolster an ally's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
   effect: |
     Choose a physical, social, or mental attribute. The target gains advantage on their action rolls according to the Power Level of the boon.
     <ul>
@@ -306,7 +306,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or extraordinary creative life force, OR inspiring your target to carry on, even in the face of death.
+    Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or supernatural creative life force, OR inspiring your target to carry on, even in the face of death.
   effect: |
     Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <ul>
@@ -411,7 +411,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You reach out and extraordinarily connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
+    Through supernatural magic or extrasensory perception, you reach out and connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
   effect: |
     When you successfully invoke this boon, you gain information from an object or place within range as follows:
     <ul>
@@ -437,7 +437,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    The target gains an extraordinary ability to heal their wounds. Examples of this include the extraordinary regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
+    The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
     While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon, and the dice rolled for healing explode as usual.
     <ul>
