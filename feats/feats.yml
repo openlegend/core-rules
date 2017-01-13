@@ -414,8 +414,10 @@
   description: |
     Your agility enables you to fall from deadly heights unharmed.
   effect: |
-    Tier 1: As long as you are conscious and able to act, reduce all falling damage by half.
-    Tier 2: As long as you are conscious and able to act, you do not suffer falling damage.
+    <ul>
+    <li><strong>Tier 1</strong> - As long as you are conscious and able to act, reduce all falling damage by half.</li>
+    <li><strong>Tier 2</strong> - As long as you are conscious and able to act, you do not suffer falling damage.</li>
+    </ul>
 - !
   name: Brutal Intimidation
   prerequisites:
