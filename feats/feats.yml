@@ -400,7 +400,7 @@
     </li>
     </ul>
 - !
-  name: Breakfall (I - IX)
+  name: Breakfall (I - II)
   prerequisites:
     tier1:
       Attribute:
@@ -408,34 +408,14 @@
     tier2:
       Attribute:
       - Agility: 4
-    tier3:
-      Attribute:
-      - Agility: 4
-    tier4:
-      Attribute:
-      - Agility: 4
-    tier5:
-      Attribute:
-      - Agility: 4
-    tier6:
-      Attribute:
-      - Agility: 4
-    tier7:
-      Attribute:
-      - Agility: 4
-    tier8:
-      Attribute:
-      - Agility: 4
-    tier9:
-      Attribute:
-      - Agility: 4
   tags:
   cost:
-  - 1
+  - 2
   description: |
     Your agility enables you to fall from deadly heights unharmed.
   effect: |
-    When calculating falling damage, reduce the falling distance by 10 feet per tier of this feat that you possess. Once you reach tier 9, you can fall any distance without taking damage.
+    Tier 1: As long as you are conscious and able to act, reduce all falling damage by half.
+    Tier 2: As long as you are conscious and able to act, you do not suffer falling damage.
 - !
   name: Brutal Intimidation
   prerequisites:
