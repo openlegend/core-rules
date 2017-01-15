@@ -12,6 +12,11 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 01 / 15
+-   Added Power Level 2 to `Shapeshift` boon
+-   You can now move your `Phantasm` as a free action on your turn, but it must remain within your invocation range.
+-   `Defend` action clarified. A single defend action can only be used to defend one target. Movement granted by this action doesn't provoke attack of opportunity, nor does it negate the original attack.
+
 #### 2017 / 01 / 13
 -   `Breakfall` now works in two tier. Tier 1 reduces all falling damage if you are not incapacitated. Tier 2 renders you immune to falling damage if you are not incapacitated. Cost increased to 2.
 
