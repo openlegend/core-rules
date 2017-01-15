@@ -3346,9 +3346,7 @@ illusion.
 -   **Power Level 3** - Sight
 -   **Power Level 6** - All Senses
 
-Your Influence attribute score determines the maximum area that your
-phantasm can cover as follows. The dimensions are depth, width, and
-height (all squares must touch but can be in any shape/pattern)
+Your Influence attribute score determines the maximum area that your phantasm can cover as follows. On your turn, you may move the illusion as a free action, but it must remain within your usual invocation range.
 
 -   Influence 1 - 5' x 5' x 5'
 -   Influence 3 - 10' x 10' x 10'
