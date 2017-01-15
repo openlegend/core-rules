@@ -4916,12 +4916,11 @@ Using a focus action involves spending all of your energy and attention on one t
 
 In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
-**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Protection, Agility, and Might are all
-typical examples of attributes used to defend).
+**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. Describe how you are defending and then make an action roll using an appropriate attribute (Protection, Agility, and Might are all typical examples of attributes used to defend). A single defend action can only be used to defend one target.
 
-If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. A single defend action can only be used to defend one target. (**Note:** Characters wielding a shield gain advantage 1 on defend actions when appropriate).
+If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. (**Note:** Characters wielding a weapon with the *defensive* property gain advantage equal to the weapon's *defensive* value on their defend action roll).
 
-As part of your defend action, you may also move up to half of your speed at any time during your action. If you are adjacent to your ally when moving, the ally may choose to move with you.
+As part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the orginal attack, even if it takes the defended character out of the reach or area of the attack.
 
 **Improvise.** You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
