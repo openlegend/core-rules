@@ -2021,7 +2021,9 @@ multiple types of attack.
 \
 **Prerequisites:**
 
--   **Tier 1**: Multi-Target Boon Specialist II
+-   **Tier 1**:
+    - Boon Focus
+    - Multi-Target Boon Specialist II
 
 **Description:** You have so mastered the art of aiding groups of allies that you can
 invoke certain boons effortlessly. \newline
