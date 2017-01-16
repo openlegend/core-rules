@@ -29,7 +29,7 @@ If you have played roleplaying games in the past, you may be wondering What make
 >
 >**Open Dice**. In Open Legend, dice explode! That means that whenever ANY die rolls maximum, you get to reroll it and add the new roll to your total, ad infinitum. The volatile nature of dice rolling makes every roll count, and each session of Open Legend is full of tense moments when the tides can turn at a moment’s notice, for better or worse.
 >
->**Open Legend**. You get to tell the story that you want to tell, with the characters you want to play. You aren’t tied down to specific class, archetype, or race combinations. The only limit is your imagination (and maybe the GM’s veto power). Rather than a list of set classes with a menu of skills to pick from, you start the game with attribute points that you spend as you wish to give your character the powers she needs
+>**Open Legend**. You get to tell the story that you want to tell, with the characters you want to play. You aren’t tied down to specific class, archetype, or race combinations. The only limit is your imagination (and maybe the GM’s veto power). Rather than a list of set classes with a menu of skills to pick from, you start the game with attribute points that you spend as you wish to give your character the powers they need.
 
 Welcome to Open Legend, a tabletop roleplaying game (or RPG) in which the players take the part of mighty heroes and wicked villains in order to tell stories of epic proportion. As in the vignettes above, every game of Open Legend revolves around intrepid characters performing heroic deeds. They will fight mythic beasts, outsmart cunning foes, break ancient curses, crack baffling cases, discover untold treasures, and more.
 
@@ -51,7 +51,7 @@ As storytellers, we love intricate plotlines that feature characters of depth an
 
 What we want to do is game. And that means we need rules.
 
-Without well-defined rules, the decisions made by players and GMs can seem arbitrary or inconsistent. The GM may feel overburdened by a constant need to recall past rulings that she’s made, and the players may feel like their decisions don’t actually matter because the GM can interpret them however she wants. This is the opposite of how a baseball ref operates. The ref doesn’t need to create new rules for every play that he calls. The rules of the game are already spelled out. He just needs to interpret and apply them.
+Without well-defined rules, the decisions made by players and GMs can seem arbitrary or inconsistent. The GM may feel overburdened by a constant need to recall past rulings that they have made, and the players may feel like their decisions don’t actually matter because the GM can interpret them however they want. This is the opposite of how a baseball ref operates. The ref doesn’t need to create new rules for every play that they call. The rules of the game are already spelled out. They just need to interpret and apply them.
 
 *Open Legend* was designed to provide enough rules so that players have a clear framework to guide their play, but not so many rules that the game gets bogged down by them. You spend your day job worrying about bookkeeping and policies. We don’t want the gaming table to feel like that, and we designed *Open Legend* to focus on the fun rather than the homework.
 
@@ -89,9 +89,9 @@ Add all of the dice together to find your total action roll. If your total is eq
 >
 > An adventuring party is traveling through the Darkwood, a forest cursed with malignant energy and cast in shadows at every turn. The party spies a gathering of lights in the distance ahead. At the same time, though, a Shade Demon has crept up behind the heroes. The GM tells Imladril, the elven ranger who is at the back of the marching order, to make a Perception roll against a Challenge Rating of 18. Imladril’s Perception score of 5 grants him a 2d6 bonus to Perception action rolls, so he grabs 1d20 + 2d6 and lets them fly.
 >
-> He rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, Imladril rolls it again and gets a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so she rules that he hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger’s bow out of his hands.
+> Imladril rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, the die is rolled again and it comes up a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so the GM rules that Imladril hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger’s bow out of his hands.
 >
-> Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, she rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
+> Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, the GM rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
 
 ## Greater Treasures Lie Within
 

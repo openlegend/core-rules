@@ -372,7 +372,7 @@
   description: |
     Like the bite of a vampire or the soul draining touch of a black mage, you can steal the very lifeforce of your foes.
   effect: |
-    While this boon persists, the target heals half (round up) of the damage he inflicts with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.
+    While this boon persists, the target heals half (round up) of the damage they inflict with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.
 - !
   name: Light
   tags:
