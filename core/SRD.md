@@ -353,7 +353,7 @@ You are well-known and respected as a protector of the common folk in a small re
 
 #### Lucky
 
-Once per game session, in a moment of need, you can call on luck shine to upon you. The GM decides what form this luck takes. For example, an attack that was meant for you might target an ally instead, you may discover a secret passage to escape from a rolling boulder, or a town guardsman decides to overlook your crime because you happen to have grown up on the same street.
+Once per game session, in a moment of need, you can call on luck to shine upon you. The GM decides what form this luck takes. For example, an attack that was meant for you might target an ally instead, you may discover a secret passage to escape from a rolling boulder, or a town guardsman decides to overlook your crime because you happen to have grown up on the same street.
 
 #### Merchant
 
