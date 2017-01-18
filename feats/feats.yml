@@ -676,7 +676,7 @@
   description: |
     You are specially trained in the use of defensive implements and can get more protective use out of them. Examples include a martial artist's defensive kata or a soldier with a riot shield.
   effect: |
-    When wielding a weapon or implement with the Defensive property, you gain a +1 armor bonus. In addition, the Defensive value of the item is increased by 1 when you wield it. So Defensive 1 becomes Defensive 2 and Defensive 2 becomes Defensive 3.
+    When wielding a weapon or implement with the Defensive property, you gain an additional +1 armor bonus. In addition, the Defensive value of the item is increased by 1 when you wield it. So Defensive 1 becomes Defensive 2 and Defensive 2 becomes Defensive 3.
 - !
   name: Defensive Reflexes (I - IX)
   prerequisites:
