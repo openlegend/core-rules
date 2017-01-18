@@ -80,7 +80,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 <div class="table-no-head thirty-seventy"></div>
 | | |
 | - | - |
-| **Learning** |  Recall facts about history, arcane magic, the natural world, etc. |
+| **Learning** | Recall facts about history, arcane magic, the natural world, etc. |
 | **Logic** | Solve riddles, decipher a code, improvise a tool, understand the enemy’s strategy, find a loophole |
 | **Perception** | Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door |
 | **Will** | Maintain your resolve, overcome adversity, resist torture, stay awake on watch, stave off insanity |
@@ -499,11 +499,11 @@ Your reputation for some outstanding virtue precedes you, and people tend to hol
 
 #### Innocent
 
-Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts.  Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
+Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts. Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
 
 #### Jack of All Trades
 
-You have a knack for picking up new skills.  Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
+You have a knack for picking up new skills. Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
 
 #### Local Hero
 
@@ -523,11 +523,11 @@ Creatures of nature can sense your deep respect for the natural order. Wild anim
 
 #### Noble
 
-Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts.  You are also treated as a peer by lesser nobles and can typically request an audience with them.  In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
+Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts. You are also treated as a peer by lesser nobles and can typically request an audience with them. In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
 
 #### Observant
 
-Your keen senses allow you to notice details that others typically miss.  Once per game session, you can use this ability to notice something out of the ordinary.  For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing.  If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
+Your keen senses allow you to notice details that others typically miss. Once per game session, you can use this ability to notice something out of the ordinary. For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing. If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
 
 #### Outlaw
 
@@ -539,7 +539,7 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 
 #### Pure-hearted
 
-Any goodly-natured creature you encounter is friendly toward you by default rather than neutral.  Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
+Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
 
 #### Resilient
 
@@ -551,7 +551,7 @@ You have lived a life of need, and thus know how to make do when others would go
 
 #### Scent
 
-Your sense of smell is similar to that of a wild beast.  As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
+Your sense of smell is similar to that of a wild beast. As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
 
 #### Scholar
 

@@ -329,15 +329,15 @@ You serve a higher being and have earned their protection. Once per game session
 
 #### Divine Insight
 
-You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Warrior’s Code
 
-As a veteran warrior, you command respect even from foes.  Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
+As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
 
 #### Whisperer of the Wild
 
-Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot.  The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
+Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot. The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
 
 
 
