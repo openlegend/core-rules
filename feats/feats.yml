@@ -1475,14 +1475,14 @@
   name: Natural Defense (I - III)
   prerequisites:
     tier1:
-      Attribute:
-      - Fortitude: 2
+      Other:
+      - None
     tier2:
       Attribute:
-      - Fortitude: 3
+      - Fortitude: 1
     tier3:
       Attribute:
-      - Fortitude: 5
+      - Fortitude: 2
   tags:
   - Combat
   - Physical
