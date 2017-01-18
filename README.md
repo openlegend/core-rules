@@ -19,6 +19,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   `Defensive` property of weapons now grants a non-stacking +1 armor bonus, regardless of Defensive level. `Defensive Mastery` feat wording clarified for its bonus to stack an addition +1 armor bonus.
 -   NPCs now have a new feat open to them (GM Only): Bane Resistance, with two tiers (+5 defense and immunity to a specific bane).
 -   `Sylvan Ally` perk renamed `Nature's Ally`.
+-   `Shapeshift` boon effect layout clarified for Power Level 2. Also, wording improved for multiple genres.
 
 #### 2017 / 01 / 15
 -   Added Power Level 2 to `Shapeshift` boon
