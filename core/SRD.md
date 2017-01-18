@@ -331,7 +331,6 @@ You serve a higher being and have earned their protection. Once per game session
 
 You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
-bane resi
 #### Warrior’s Code
 
 As a veteran warrior, you command respect even from foes.  Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
