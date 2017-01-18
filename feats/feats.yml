@@ -1772,7 +1772,7 @@
   description: |
     Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons.
   effect: |
-    When you have a weapon in each hand, you gain a +1 armor bonus.
+    When you have a weapon in each hand, you gain a +1 armor bonus to your Guard defense.
 - !
   name: Unending Charm
   prerequisites:
