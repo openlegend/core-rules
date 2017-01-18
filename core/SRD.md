@@ -2545,7 +2545,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Deadly** - Some weapons are so highly effective that they significantly increase damage potential beyond what the wielder would typically be capable of. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3. 
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a non-stacking +1 armor bonus, regardless of Defensive value.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a non-stacking +1 armor bonus, regardless of Defensive value.ev
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -5097,6 +5097,11 @@ Once you have the basic statistics recorded, choose a few of the following feats
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier.
 
 - **Bane Focus:** Pick a bane. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
+
+- **Bane Resistance (tier 1-2, your choice): Choose a bane and gain the following benefits:**
+
+	- **Tier 1:** Gain +5 to your defense against the chosen bane.
+	- **Tier 2:** You are immune to the chosen bane.
 
 - **Superior Bane Focus (not available to PCs):** Pick a bane. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 
