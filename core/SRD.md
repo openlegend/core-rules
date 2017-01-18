@@ -81,7 +81,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | - | - |
 | **Agility** | Dodge attacks, move with stealth, perform acrobatics, shoot a bow, pick a pocket |
 | **Fortitude** | Resist poison, shrug off pain, survive in a desert, wear heavy armor |
-| **Might** | Wear heavy armor, swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
+| **Might** | Swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
 
 
 ### Mental Attributes at a Glance
@@ -774,7 +774,7 @@ Before making an action roll, a PC may spend a maximum number of legend points e
 
 # Feats #
 
-In this chapter, you’ll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character’s specializations, the actions, tasks, and abilities she excels at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
+In this chapter, you’ll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character’s specializations, the actions, tasks, and abilities they excel at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
 
 ## Acquiring Feats
 
@@ -2021,7 +2021,9 @@ multiple types of attack.
 \
 **Prerequisites:**
 
--   **Tier 1**: Multi-Target Boon Specialist II
+-   **Tier 1**:
+    - Boon Focus
+    - Multi-Target Boon Specialist II
 
 **Description:** You have so mastered the art of aiding groups of allies that you can
 invoke certain boons effortlessly. \newline
@@ -3346,9 +3348,7 @@ illusion.
 -   **Power Level 3** - Sight
 -   **Power Level 6** - All Senses
 
-Your Influence attribute score determines the maximum area that your
-phantasm can cover as follows. The dimensions are depth, width, and
-height (all squares must touch but can be in any shape/pattern)
+Your Influence attribute score determines the maximum area that your phantasm can cover as follows. On your turn, you may move the illusion as a free action, but it must remain within your usual invocation range.
 
 -   Influence 1 - 5' x 5' x 5'
 -   Influence 3 - 10' x 10' x 10'
@@ -4106,7 +4106,7 @@ the fabric of the planes.  \newline
 you can steal the very lifeforce of your foes. \newline
 
 **Effect:** While this boon persists, the target heals half (round up) of the damage
-he inflicts with each attack. If an attack damages multiple foes, the
+they inflict with each attack. If an attack damages multiple foes, the
 target of this boon heals based on the total damage inflicted against
 all foes.
 
@@ -4271,7 +4271,7 @@ depends on your Prescience score.
 \
 **Invocation Time:** 1 Major Action
 \
-**Power Level:** 3, 4, 5, 6, 8, 9
+**Power Level:** 2, 3, 4, 5, 6, 8, 9
 \
 **Attributes:** Alteration \newline
 
@@ -4916,12 +4916,11 @@ Using a focus action involves spending all of your energy and attention on one t
 
 In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
-**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Protection, Agility, and Might are all
-typical examples of attributes used to defend).
+**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. Describe how you are defending and then make an action roll using an appropriate attribute (Protection, Agility, and Might are all typical examples of attributes used to defend). A single defend action can only be used to defend one target.
 
-If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. A single defend action can only be used to defend one target. (**Note:** Characters wielding a shield gain advantage 1 on defend actions when appropriate).
+If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. (**Note:** Characters wielding a weapon with the *defensive* property gain advantage equal to the weapon's *defensive* value on their defend action roll).
 
-As part of your defend action, you may also move up to half of your speed at any time during your action. If you are adjacent to your ally when moving, the ally may choose to move with you.
+As part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the orginal attack, even if it takes the defended character out of the reach or area of the attack.
 
 **Improvise.** You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
