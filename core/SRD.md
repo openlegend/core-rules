@@ -344,6 +344,7 @@ Your inherent extraordinary nature manifests itself in a tangible way of your ch
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
 
 #### Inner Strength
+
 Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
 
 #### Innocent
