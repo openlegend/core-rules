@@ -20,6 +20,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   NPCs now have a new feat open to them (GM Only): Bane Resistance, with two tiers (+5 defense and immunity to a specific bane).
 -   `Sylvan Ally` perk renamed `Nature's Ally`.
 -   `Shapeshift` boon effect layout clarified for Power Level 2. Also, wording improved for multiple genres.
+-   `Multi-Target Attack Specialist` wording fixed to refer to **multi-targeting**, not multi-attacks.
 
 #### 2017 / 01 / 15
 -   Added Power Level 2 to `Shapeshift` boon

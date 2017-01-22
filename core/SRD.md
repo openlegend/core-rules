@@ -2014,7 +2014,7 @@ a whirlwind of your blade, a hail of arrows, or a ball of flame. \newline
 
 **Effect:** When you choose this feat, you must decide to focus in area, projectile,
 or melee attacks. For each tier, you reduce the disadvantage penalty
-associated with multi-attacks for your chosen attack type by 1. Whenever
+associated with multi-targeting for your chosen attack type by 1. Whenever
 you take this feat, you must specify which type of attack you are
 focusing on, and you may take the feat multiple times to specialize in
 multiple types of attack.
@@ -5141,7 +5141,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Multi-Attack Specialist (tier equals NPC level, max 6):** When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
 
-- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with multi-targeting by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
 
 - **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
 
