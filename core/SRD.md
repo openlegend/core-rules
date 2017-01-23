@@ -2640,29 +2640,6 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 
 **Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
 
-
-## Adventuring Gear
-
-\NextTableColumns{OLT{.33}OCT{.33}OLT{.34}}
-
-| Gear | Wealth Level | Properties |
-| :- | :-: | :-: |
-| Adventurer’s Pack | 1 | bulky |
-| Healer’s Pack | 1 | bulky |
-| Mage’s Pack | 1 | bulky |
-| Rogue’s Pack | 1 | bulky |
-
-
-**Gear Packs.** The following packs are well-contained and efficiently stored, counting as only one item in your inventory. Each pack contains an assortment of specialized gear.
-
-**Adventurer’s Pack** - bedroll, personal tent, 2 weeks rations, 3 days water, hammer, 6 pitons, 50’ rope, grappling hook, flint and steel, 10 torches.
-
-**Healer’s Pack** - bedroll, 2 weeks rations, 6 days water, bandages, herbs, mortar and pestle, 25’ rope, 3 flasks oil, flint and steel, lantern.
-
-**Mage’s Pack** bedroll, 1 weeks rations, 3 days water, parchment, quill, ink, box of chalk, pouch of sand, 5 empty vials, 5 candles, flint and steel.
-
-**Rogue’s Pack** - bedroll, 1 weeks rations, 3 days water, lockpicks, trap kit, bag of marbles, small mirror, 50’ rope, grappling hook, crowbar, flint and steel, 5 torches.
-
 # Banes and Boons
 
 Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
