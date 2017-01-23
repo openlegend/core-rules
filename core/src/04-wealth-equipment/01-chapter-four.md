@@ -265,28 +265,3 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 \
 \
 
-
-## Adventuring Gear
-
-<div class="table-no-body"></div>
-| Adventuring Gear |
-| - |
-| |
-
-| Gear | Wealth Level | Properties |
-| :- | :-: | :-: |
-| Adventurer’s Pack | 1 | bulky |
-| Healer’s Pack | 1 | bulky |
-| Mage’s Pack | 1 | bulky |
-| Rogue’s Pack | 1 | bulky |
-
-
-**Gear Packs.** The following packs are well-contained and efficiently stored, counting as only one item in your inventory. Each pack contains an assortment of specialized gear.
-
-**Adventurer’s Pack** - bedroll, personal tent, 2 weeks rations, 3 days water, hammer, 6 pitons, 50’ rope, grappling hook, flint and steel, 10 torches.
-
-**Healer’s Pack** - bedroll, 2 weeks rations, 6 days water, bandages, herbs, mortar and pestle, 25’ rope, 3 flasks oil, flint and steel, lantern.
-
-**Mage’s Pack** bedroll, 1 weeks rations, 3 days water, parchment, quill, ink, box of chalk, pouch of sand, 5 empty vials, 5 candles, flint and steel.
-
-**Rogue’s Pack** - bedroll, 1 weeks rations, 3 days water, lockpicks, trap kit, bag of marbles, small mirror, 50’ rope, grappling hook, crowbar, flint and steel, 5 torches.
