@@ -6,7 +6,7 @@ interpret the results.
 ## When to Roll the Dice
 
 *Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
-example, you’ll be making plenty of action rolls to clash blades, sling spells, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left the key to your room at the inn.
+example, you’ll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left your multi-pass.
 
 *Open Legend* includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a  minimum score of 1 in order to attempt a roll.
 
@@ -83,7 +83,7 @@ There are two primary factors to consider when adjudicating a success:
 
 **Don’t roll if there’s nothing to succeed at.** For example, if a character wants to search a corridor for secret passages, but the GM knows there aren’t any, they don't need to have the character roll a Perception check, because there’s nothing to find; the roll doesn’t matter.
 
-**Describe your success.** Whenever the situation allows, the player should show the rest of the table what success looks like. It’s their turn in the spotlight, so let them shine. If your rogue successfully disarms a trap, describe how the scything blade just barely nicked your cheek before you finished the job. If your barbarian makes a successful leap attack against the orc chieftain, narrate how you knock their shield aside with your first blow before coming down on their skull with your axe. Sometimes, of course, the GM has privileged information, so they need to be the one to describe things. Whenever possible, though, the players should describe their own success.
+**Describe your success.** Whenever the situation allows, the player should show the rest of the table what success looks like. It’s their turn in the spotlight, so let them shine. If your rogue successfully disarms a trap, describe how the scything blade just barely nicked your cheek before you finished the job. If your mech knight makes a successful leap attack against an enemy tank, narrate how you use the extra momentum provided by the leap to dig your servo-blades through the tank's hull. Sometimes, of course, the GM has privileged information, so they need to be the one to describe things. Whenever possible, though, the players should describe their own success.
 
 ### Interpreting Success with a Twist
 
@@ -97,7 +97,7 @@ When a player fails an action roll, the GM may choose to allow the player’s ac
 - **Attract attention**
 - **Find something you weren’t looking for**
 
-The important thing to realize is that a success with a twist is still a success. It just comes at some sort of a cost: You find the trail of the hydra you’re tracking, but it leads you through a swamp infested with undead. You sense that the merchant is overcharging you, but you fail to realize that he’s also distracting you from the thugs sneaking up behind you. You are able to hit the wyvern with your bow, but it costs you your last arrow.
+The important thing to realize is that a success with a twist is still a success. It just comes at some sort of a cost: You find the trail of the hydra you’re tracking, but it leads you through a swamp infested with undead. You sense that the merchant is overcharging you, but you fail to realize that he’s also distracting you from the thugs sneaking up behind you. You are able to land a shot against the zombie, but it costs you the last bullet in your magazine.
 
 ### Interpreting Failure, but the Story Progresses
 
@@ -109,7 +109,7 @@ Progress, though, can mean a lot of things. When the GM selects this option, the
 
 **The danger snowballs.** You fail to jump a chasm while fleeing a band of cannibals. You fall along the cliffside, taking some damage. When you gather your senses, you realize that you aren’t only separated from the rest of your party, but you’ve also fallen into the nest of a Roc.
 
-**The information is false.** You think you’ve got a good read on the mayor during your negotiations. It seems like they're completely in favor of your plan to negotiate an alliance with the neighboring dwarves. When you set out the next day, however, it turns out you were wrong, and the guards they sent to ensure your safe passage turn out to be your assassins.
+**The information is false.** You think you’ve got a good read on the mayor during your negotiations. It seems like she's completely in favor of your plan to negotiate an alliance among the neighboring survivor settlements. When you set out the next day, however, it turns out you were wrong, and the guards the mayor sent to ensure your safe passage turn out to be your assassins.
 
 The GM gets to decide how bad a failed action roll turns out to be, and sometimes, it’s really bad. While some of these examples are harsher than others, they all share one common factor: they steer the narrative forward. Failure is never just a failure.
 
@@ -136,13 +136,13 @@ It’s important to note that Challenge Ratings are not typically set to be rela
 
 ### Contested Actions
 
-Sometimes, two or more characters are directly opposing each other in a test of strength, wits, or charm. For example, a mighty barbarian wrestles with a minotaur to get hold of a magical gem. Or three representatives of different kingdoms attempt to persuade the outlander chieftain to join their forces. Or a stealthy rogue attempts to sneak unseen past the watch of the town guard. These sorts of situations are called **contested actions**.
+Sometimes, two or more characters are directly opposing each other in a test of strength, wits, or charm. For example, a mighty barbarian wrestles with a minotaur to get hold of a magical gem. Or three representatives of different star systems attempt to persuade the warleader of the intergalactic reavers to join their forces. Or a stealthy ninja attempts to sneak unseen past the watch of the monks on guard. These sorts of situations are called **contested actions**.
 
 To resolve such contests, each character involved makes an action roll using an appropriate attribute. Whoever rolls the highest succeeds at the action. Sometimes, all parties use the same attribute for their action rolls, but often, each character will use a different attribute, as in the case of the rogue attempting to sneak (Agility) past the guard’s watch (Perception).
 
 > #### Example Contested Action
 >
-> As the Unnamed Necromancer attempts to open a portal to release a shade demon upon the land, the Uldric the Protector attempts to exert every ounce of his magical will to close the portal. The GM calls for a contested action between the two. The Necromancer makes an Entropy roll and gets a 25, while Uldric gets a 20 on his Protection roll. Unfortunately for the rest of the world, the demon has been unleashed.
+> As the Unnamed Necromancer attempts to open a portal to release a shade demon upon the land, Uldric the Protector attempts to exert every ounce of his magical will to close the portal. The GM calls for a contested action between the two. The Necromancer makes an Entropy roll and gets a 25, while Uldric gets a 20 on his Protection roll. Unfortunately for the rest of the world, the demon has been unleashed.
 
 ## Advantage and Disadvantage
 
@@ -164,7 +164,7 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 
 > #### Example of Disadvantage
 >
-> Therilas attempts to invoke his elemental magic to call a lightning bolt down from a foe. However, he is currently being distracted by a swarm of wasps summoned by an enemy spellcaster, granting him disadvantage 1. Furthermore, he has also been subject to the fatigue bane, adding on an additional disadvantage 1. Therilas’s Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two highest rolling d6s.
+> Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand’s Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two highest rolling d6s.
 
 ### Advantage and Disadvantage Are Only Applied BEFORE Explosions
 
