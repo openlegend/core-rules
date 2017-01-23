@@ -683,8 +683,8 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren�
 | :-: | :-: | :------ |
 | Everyday | 10 | leap a 5’ gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
 | Challenging | 15 | climb a rough surface, catch the drift of a text in an unfamiliar language, break down a strong wooden door |
-| Very Hard | 20 | climb a smooth surface, leap a 15’ gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
-| Heroic | 25 | translate a text in an alien language, break down an iron door |
+| Heroic | 20 | climb a smooth surface, leap a 15’ gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
+| Epic | 25 | translate a text in an alien language, break down an iron door |
 | Legendary | 30 | leap a 25’ chasm, climb a flat surface, befriend an enemy with a vendetta against you |
 
 It’s important to note that Challenge Ratings are not typically set to be relative to the party’s level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth.
