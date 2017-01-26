@@ -714,7 +714,7 @@ With your character created, you are all ready to start playing *Open Legend*. W
 
 ### Relax
 
-*Open Legend * gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your life depends on it and have fun. If you’re playing a dwarf, maybe pull out your best Scottish accent. If your character’s a witch, squint your eyes and speak in riddles. If you’re no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party’s escapades, and so on.
+*Open Legend* gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your life depends on it and have fun. If you’re playing a dwarf, maybe pull out your best Scottish accent. If your character’s a witch, squint your eyes and speak in riddles. If you’re no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party’s escapades, and so on.
 
 ### Respect the GM
 
