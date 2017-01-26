@@ -80,7 +80,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 <div class="table-no-head thirty-seventy"></div>
 | | |
 | - | - |
-| **Learning** |  Recall facts about history, arcane magic, the natural world, etc. |
+| **Learning** | Recall facts about history, arcane magic, the natural world, etc. |
 | **Logic** | Solve riddles, decipher a code, improvise a tool, understand the enemy’s strategy, find a loophole |
 | **Perception** | Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door |
 | **Will** | Maintain your resolve, overcome adversity, resist torture, stay awake on watch, stave off insanity |
@@ -485,6 +485,10 @@ You possess a supernatural connection to a deity, demi-god, or other divine bein
 
 You have done something in the past to earn the favor of someone in a high place: a senator, the general of an army, a merchant lord, etc. Perhaps you saved their life or spared them from significant monetary loss. Whatever you did, they owe you, and they are willing to help you with minor favors as long as the favors do not subject them to any risk or cost. Once during the campaign, you can call in a large favor that does put your contact in risk or cost them something significant. They will perform the favor, but you immediately lose this trait, as their debt has been repaid.
 
+#### Extraordinary Presence
+
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+
 #### Idol
 
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
@@ -513,6 +517,10 @@ Once per game session, in a moment of need, you can call on luck shine to upon y
 
 You know the art of economics as well as the best of businessmen. A master of supply and demand, you have a knack for knowing when to buy and when to sell. You cannot be swindled when it comes to bartering, and you always know whether or not you are getting a fair price. Furthermore, you have friends in merchant circles and guilds in your home city, and you can easily gain them in new locations.
 
+#### Nature's Ally
+
+Creatures of nature can sense your deep respect for the natural order. Wild animals give you a wide berth, Druids give you the benefit of a doubt by assuming that you do not have destructive intentions, and you can typically gain an audience with the chief of a small local tribe by virtue of your reputation for defending nature.
+
 #### Noble
 
 Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts. You are also treated as a peer by lesser nobles and can typically request an audience with them. In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
@@ -532,6 +540,10 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 #### Pure-hearted
 
 Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
+
+#### Resilient
+
+Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
 
 #### Scavenger
 
@@ -556,14 +568,6 @@ While underground you may fail to find what you’re looking for, but you can ne
 #### Street Rat
 
 You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you’re down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
-
-#### Extraordinary Presence
-
-Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
-
-#### Sylvan Ally
-
-Creatures of nature can sense your deep respect for the natural order. Wild animals give you a wide berth, Druids give you the benefit of a doubt by assuming that you do not have destructive intentions, and you can typically gain an audience with the chief of a small local tribe by virtue of your reputation for defending nature.
 
 #### Vagabond
 

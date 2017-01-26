@@ -329,23 +329,31 @@ You serve a higher being and have earned their protection. Once per game session
 
 #### Divine Insight
 
-You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Ear of the Emperor
 
 You have done something in the past to earn the favor of someone in a high place: a senator, the general of an army, a merchant lord, etc. Perhaps you saved their life or spared them from significant monetary loss. Whatever you did, they owe you, and they are willing to help you with minor favors as long as the favors do not subject them to any risk or cost. Once during the campaign, you can call in a large favor that does put your contact in risk or cost them something significant. They will perform the favor, but you immediately lose this trait, as their debt has been repaid.
 
+#### Extraordinary Presence
+
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+
 #### Idol
 
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
 
+#### Inner Strength
+
+Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
+
 #### Innocent
 
-Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts.  Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
+Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts. Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
 
 #### Jack of All Trades
 
-You have a knack for picking up new skills.  Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
+You have a knack for picking up new skills. Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
 
 #### Local Hero
 
@@ -359,13 +367,17 @@ Once per game session, in a moment of need, you can call on luck shine to upon y
 
 You know the art of economics as well as the best of businessmen. A master of supply and demand, you have a knack for knowing when to buy and when to sell. You cannot be swindled when it comes to bartering, and you always know whether or not you are getting a fair price. Furthermore, you have friends in merchant circles and guilds in your home city, and you can easily gain them in new locations.
 
+#### Nature's Ally
+
+Creatures of nature can sense your deep respect for the natural order. Wild animals give you a wide berth, Druids give you the benefit of a doubt by assuming that you do not have destructive intentions, and you can typically gain an audience with the chief of a small local tribe by virtue of your reputation for defending nature.
+
 #### Noble
 
-Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts.  You are also treated as a peer by lesser nobles and can typically request an audience with them.  In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
+Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts. You are also treated as a peer by lesser nobles and can typically request an audience with them. In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
 
 #### Observant
 
-Your keen senses allow you to notice details that others typically miss.  Once per game session, you can use this ability to notice something out of the ordinary.  For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing.  If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
+Your keen senses allow you to notice details that others typically miss. Once per game session, you can use this ability to notice something out of the ordinary. For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing. If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
 
 #### Outlaw
 
@@ -377,7 +389,7 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 
 #### Pure-hearted
 
-Any goodly-natured creature you encounter is friendly toward you by default rather than neutral.  Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
+Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
 
 #### Resilient
 
@@ -389,7 +401,7 @@ You have lived a life of need, and thus know how to make do when others would go
 
 #### Scent
 
-Your sense of smell is similar to that of a wild beast.  As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
+Your sense of smell is similar to that of a wild beast. As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
 
 #### Scholar
 
@@ -407,25 +419,17 @@ While underground you may fail to find what you’re looking for, but you can ne
 
 You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you’re down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
 
-#### Extraordinary Presence
-
-Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
-
-#### Sylvan Ally
-
-Creatures of nature can sense your deep respect for the natural order. Wild animals give you a wide berth, Druids give you the benefit of a doubt by assuming that you do not have destructive intentions, and you can typically gain an audience with the chief of a small local tribe by virtue of your reputation for defending nature.
-
 #### Vagabond
 
 Having spent significant time fending for yourself in the wilderness, you excel at surviving and navigating in the wild. You always know the direction of true north and you can automatically find enough food to feed yourself plus a number of additional people equal to your Learning attribute score.
 
 #### Warrior’s Code
 
-As a veteran warrior, you command respect even from foes.  Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
+As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
 
 #### Whisperer of the Wild
 
-Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot.  The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
+Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot. The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
 
 
 
@@ -2010,7 +2014,7 @@ a whirlwind of your blade, a hail of arrows, or a ball of flame. \newline
 
 **Effect:** When you choose this feat, you must decide to focus in area, projectile,
 or melee attacks. For each tier, you reduce the disadvantage penalty
-associated with multi-attacks for your chosen attack type by 1. Whenever
+associated with multi-targeting for your chosen attack type by 1. Whenever
 you take this feat, you must specify which type of attack you are
 focusing on, and you may take the feat multiple times to specialize in
 multiple types of attack.
@@ -2543,9 +2547,9 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
-**Deadly** - Some weapons are so effective that their potenecy makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
+**Deadly** - Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a non-stacking +1 armor bonus, regardless of Defensive value.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -5075,6 +5079,11 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Bane Focus:** Pick a bane. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
+- **Bane Resistance (tier 1-2, your choice, available only to GMs): Choose a bane and gain the following benefits:**
+
+	- **Tier 1:** Gain +5 to your defense against the chosen bane.
+	- **Tier 2:** You are immune to the chosen bane.
+
 - **Superior Bane Focus (not available to PCs):** Pick a bane. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon. Gain the following benefits:
@@ -5109,7 +5118,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Multi-Attack Specialist (tier equals NPC level, max 6):** When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
 
-- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with multi-targeting by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
 
 - **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
 
