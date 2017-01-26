@@ -281,7 +281,7 @@ Agility is a measure of your character’s dexterity, nimbleness, motor skills, 
 
 As Terri chases Gizmo the Gnomtorious bounty hunter through the narrow corridors of the space station, her quarry releases his patented Slip Slime Bomb, covering the ground between them with a slippery greenish grease. Terri attempts to slide nimbly through the slime instead of letting it slow her down.
 
-**Success with a twist:** Terri glides gracefully across the grease, but fails to notice the broken exhaust pipe hanging from the ceiling until the last minute. She manages to dodge the pipe only by grabbing hold of it and swinging around it, which forces her to drop her shot gun. If she’s going to keep up with Gizmo, she’ll have to do it unarmed.
+**Success with a twist:** Terri glides gracefully across the grease, but fails to notice the broken exhaust pipe hanging from the ceiling until the last minute. She manages to dodge the pipe only by grabbing hold of it and swinging around it, which forces her to drop her shotgun. If she’s going to keep up with Gizmo, she’ll have to do it unarmed.
 
 **Failure, but the story progresses:** With all the grace and agility of a drunken elephant, Terri falls on her face in a pile of green goo. By the time she struggles to the other edge of the slime, Gizmo is nowhere in sight, and she’ll have to think fast to decide which direction to take at the T-intersection up ahead if she doesn’t want to lose her quarry.
 
