@@ -269,7 +269,7 @@ While fighting atop a raft amid a surging river, Lily is knocked into the rapids
 
 While his party is busy strategizing about back doors, secret passages, and disguises to gain entrance to the Iron Fortress, Krund steps up to the iron portcullis and girds his loins for a deadlift of epic proportions.
 
-**Success with a twist:** Krund lifts the gate, and several members of his party get through. However, his strength gives way before they all manage, and now the party is divided.
+**Success with a twist:** Krund lifts the gate, and several members of his party get through. However, his strength gives way before they all escape, and now the party is divided.
 
 **Failure, but the story progresses:** Despite all his might and main, Krund cannot lift the gate more than a foot. When he releases it, the loud clang alerts several guards within.
 
