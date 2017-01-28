@@ -159,9 +159,9 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
-**Deadly** - Some weapons are so highly effective that they significantly increase damage potential beyond what the wielder would typically be capable of. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
+**Deadly** - Some weapons are so effective that their potenecy makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of it's Defensive value. This bonus does not stack with multiple Defensive weapons.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -265,28 +265,3 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 \
 \
 
-
-## Adventuring Gear
-
-<div class="table-no-body"></div>
-| Adventuring Gear |
-| - |
-| |
-
-| Gear | Wealth Level | Properties |
-| :- | :-: | :-: |
-| Adventurer’s Pack | 1 | bulky |
-| Healer’s Pack | 1 | bulky |
-| Mage’s Pack | 1 | bulky |
-| Rogue’s Pack | 1 | bulky |
-
-
-**Gear Packs.** The following packs are well-contained and efficiently stored, counting as only one item in your inventory. Each pack contains an assortment of specialized gear.
-
-**Adventurer’s Pack** - bedroll, personal tent, 2 weeks rations, 3 days water, hammer, 6 pitons, 50’ rope, grappling hook, flint and steel, 10 torches.
-
-**Healer’s Pack** - bedroll, 2 weeks rations, 6 days water, bandages, herbs, mortar and pestle, 25’ rope, 3 flasks oil, flint and steel, lantern.
-
-**Mage’s Pack** bedroll, 1 weeks rations, 3 days water, parchment, quill, ink, box of chalk, pouch of sand, 5 empty vials, 5 candles, flint and steel.
-
-**Rogue’s Pack** - bedroll, 1 weeks rations, 3 days water, lockpicks, trap kit, bag of marbles, small mirror, 50’ rope, grappling hook, crowbar, flint and steel, 5 torches.

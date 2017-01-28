@@ -344,6 +344,11 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Bane Focus:** Pick a bane. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
+- **Bane Resistance (tier 1 - 2, your choice, available only to GMs): Choose a bane and gain the following benefits:**
+
+	- **Tier 1:** Gain +5 to your defense against the chosen bane.
+	- **Tier 2:** You are immune to the chosen bane.
+
 - **Superior Bane Focus (available only to GMs):** Pick a bane. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon. Gain the following benefits:
