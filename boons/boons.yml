@@ -212,9 +212,9 @@
     <ul>
     <li><strong>Holy</strong> - Holy energy surrounds extraplanar beings from the heavens or similar good-aligned dimensions where pure goodness is embodied. </li>
     <li><strong>Unholy</strong> - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.</li>
-    <li><strong>Life</strong> - Beings from heavenly dimensions, clerics wielding the power of healing, resurrection, or protection radiate an aura of life for a time after wielding such powers.</li>
+    <li><strong>Life</strong> - Beings from heavenly dimensions, far-future regenerative nanotech, and clerics wielding the power of healing or protection radiate an aura of life for a time after wielding such capabilities.</li>
     <li><strong>Death</strong> - Necromancers, undead, and murderers all radiate an aura of death. For undead, the aura is constant, since the power of death and magic is what animates them.</li>
-    <li><strong>Magic</strong> - Magical auras surround objects or places imbued with magical effects. Extraordinary creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.</li>
+    <li><strong>Magic</strong> - Extraordinary auras surround objects or places imbued with such effects. Extraordinary creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.</li>
     </ul>
   special: |
     Unlike other boons, this boon can not target another character. Only the character invoking the boon can see the auras.

@@ -119,7 +119,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Creation** | Channeling higher powers for healing, creation, resurrection, divine might, etc. |
+| **Creation** | Channeling higher powers for healing, creation, regeneration, divine might, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill supernatural fear, create illusory figments, cloak with invisibility |
@@ -2814,15 +2814,15 @@ target’s life force is snuffed out completely. The most deadly assassins
 and most powerful necromancers are known for such legendary skill at
 snuffing out life. \newline
 
-**Effect:** You attempt to completely snuff the life force of your target. There is
-a brief window of time in which the target can attempt to resist this
-extinguishing force, but once that window closes, the death is permanent
-and can only be reversed with resurrection magic. When the bane is
-initially applied, the target is immobile (can’t move from their current
-space) and unconscious. They have disadvantage 5 on all perception
-rolls, and are incapable of moving. As a result of being completely
-incapable of movement, an incapacitated character can be the victim of a
-finishing blow. \newline
+**Effect:** You attempt to completely snuff the life force of your target. There
+is a brief window of time in which the target can attempt to resist this
+extinguishing force, but once that window closes, the death is permanent and can
+only be reversed if the GM allows a special mission to use rare technology or
+long-forgotten magic to restore the target. When the bane is initially applied,
+the target is immobile (can’t move from their current space) and unconscious.
+They have disadvantage 5 on all perception rolls, and are incapable of moving.
+As a result of being completely incapable of movement, an incapacitated character
+can be the victim of a finishing blow. \newline
 
 **Special:** While most banes last until the target actively attempts to resist it,
 this bane prevents the target from being aware of their affliction and
@@ -3913,7 +3913,7 @@ will give off a radius of death for a time after the killing blow.
 
 -   **Unholy** - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.
 
--   **Life** - Beings from heavenly dimensions, clerics wielding the power of healing, resurrection, or protection radiate an aura of life for a time after wielding such powers.
+-   **Life** - Beings from heavenly dimensions, clerics wielding the power of healing, regeneration, or protection radiate an aura of life for a time after wielding such powers.
 
 -   **Death** - Necromancers, undead, and murderers all radiate an aura of death. For undead, the aura is constant, since the power of death and magic is what animates them.
 
