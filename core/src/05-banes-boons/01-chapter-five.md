@@ -6,7 +6,7 @@ Banes and boons are not tied to specific spells, attacks, or items. Any characte
 
 ## Telling Your Story with Banes and Boons
 
-Because *Open Legend* focuses on separating the mechanics from the story, when you invoke a bane or boon, you get to decide what it looks like in the narrative. For example, did you *Knockdown* a foe with an agile sweep kick, a herculean shove, or a telekinetic thrust? When you grant your allies *Resistance*, do they become coated in armor of ice or are they protected by a swarm of celestial insects that hover around their body?
+Because *Open Legend* focuses on separating the mechanics from the story, when you invoke a bane or boon, you get to decide what it looks like in the narrative. For example, did you *Knockdown* a foe with an agile sweep kick, a herculean shove, or a telekinetic thrust? When you grant your allies *Resistance*, do they become coated in armor of ice or are they protected by a swarm of robotic droids that hover around their body and deflect attacks?
 
 ### With Great Power Comes Great Responsibility
 
