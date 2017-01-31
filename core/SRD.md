@@ -81,7 +81,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | - | - |
 | **Agility** | Dodge attacks, move with stealth, perform acrobatics, shoot a bow, pick a pocket |
 | **Fortitude** | Resist poison, shrug off pain, survive in a desert, wear heavy armor |
-| **Might** | Wear heavy armor, swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
+| **Might** | Swing a maul, jump over a chasm, break down a door, wrestle a foe to submission |
 
 
 ### Mental Attributes at a Glance
@@ -119,7 +119,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Creation** | Channeling higher powers for healing, creation, resurrection, divine might, etc. |
+| **Creation** | Channeling higher powers for healing, creation, regeneration, divine might, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill supernatural fear, create illusory figments, cloak with invisibility |
@@ -329,23 +329,31 @@ You serve a higher being and have earned their protection. Once per game session
 
 #### Divine Insight
 
-You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story.  The GM shares some information about that topic which might be useful.  If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Ear of the Emperor
 
 You have done something in the past to earn the favor of someone in a high place: a senator, the general of an army, a merchant lord, etc. Perhaps you saved their life or spared them from significant monetary loss. Whatever you did, they owe you, and they are willing to help you with minor favors as long as the favors do not subject them to any risk or cost. Once during the campaign, you can call in a large favor that does put your contact in risk or cost them something significant. They will perform the favor, but you immediately lose this trait, as their debt has been repaid.
 
+#### Extraordinary Presence
+
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+
 #### Idol
 
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
 
+#### Inner Strength
+
+Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
+
 #### Innocent
 
-Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts.  Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
+Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts. Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
 
 #### Jack of All Trades
 
-You have a knack for picking up new skills.  Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
+You have a knack for picking up new skills. Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
 
 #### Local Hero
 
@@ -353,19 +361,23 @@ You are well-known and respected as a protector of the common folk in a small re
 
 #### Lucky
 
-Once per game session, in a moment of need, you can call on luck shine to upon you. The GM decides what form this luck takes. For example, an attack that was meant for you might target an ally instead, you may discover a secret passage to escape from a rolling boulder, or a town guardsman decides to overlook your crime because you happen to have grown up on the same street.
+Once per game session, in a moment of need, you can call on luck to shine upon you. The GM decides what form this luck takes. For example, an attack that was meant for you might target an ally instead, you may discover a secret passage to escape from a rolling boulder, or a town guardsman decides to overlook your crime because you happen to have grown up on the same street.
 
 #### Merchant
 
 You know the art of economics as well as the best of businessmen. A master of supply and demand, you have a knack for knowing when to buy and when to sell. You cannot be swindled when it comes to bartering, and you always know whether or not you are getting a fair price. Furthermore, you have friends in merchant circles and guilds in your home city, and you can easily gain them in new locations.
 
+#### Nature's Ally
+
+Creatures of nature can sense your deep respect for the natural order. Wild animals give you a wide berth, Druids give you the benefit of a doubt by assuming that you do not have destructive intentions, and you can typically gain an audience with the chief of a small local tribe by virtue of your reputation for defending nature.
+
 #### Noble
 
-Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts.  You are also treated as a peer by lesser nobles and can typically request an audience with them.  In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
+Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts. You are also treated as a peer by lesser nobles and can typically request an audience with them. In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
 
 #### Observant
 
-Your keen senses allow you to notice details that others typically miss.  Once per game session, you can use this ability to notice something out of the ordinary.  For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing.  If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
+Your keen senses allow you to notice details that others typically miss. Once per game session, you can use this ability to notice something out of the ordinary. For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing. If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
 
 #### Outlaw
 
@@ -377,7 +389,7 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 
 #### Pure-hearted
 
-Any goodly-natured creature you encounter is friendly toward you by default rather than neutral.  Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
+Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
 
 #### Resilient
 
@@ -389,7 +401,7 @@ You have lived a life of need, and thus know how to make do when others would go
 
 #### Scent
 
-Your sense of smell is similar to that of a wild beast.  As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
+Your sense of smell is similar to that of a wild beast. As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
 
 #### Scholar
 
@@ -407,25 +419,17 @@ While underground you may fail to find what you’re looking for, but you can ne
 
 You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you’re down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
 
-#### Extraordinary Presence
-
-Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
-
-#### Sylvan Ally
-
-Creatures of nature can sense your deep respect for the natural order. Wild animals give you a wide berth, Druids give you the benefit of a doubt by assuming that you do not have destructive intentions, and you can typically gain an audience with the chief of a small local tribe by virtue of your reputation for defending nature.
-
 #### Vagabond
 
 Having spent significant time fending for yourself in the wilderness, you excel at surviving and navigating in the wild. You always know the direction of true north and you can automatically find enough food to feed yourself plus a number of additional people equal to your Learning attribute score.
 
 #### Warrior’s Code
 
-As a veteran warrior, you command respect even from foes.  Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
+As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
 
 #### Whisperer of the Wild
 
-Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot.  The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
+Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot. The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
 
 
 
@@ -521,7 +525,7 @@ You are terrified and incapable of rational thought when you are presented with 
 
 #### Proud
 
-Some call it an inflated ego. Others call it conceit. But you know that you really are just that good. The rabble are inferior, and you’re not afraid to let them know. Your pride may be a universal sense of self-worth, or it may only manifest itself within certain spheres or situations. For example, your rank in the Royal Space Marines leads you to look down upon anyone trained in less illustrious armed forces.
+Some call it an inflated ego. Others call it conceit. But you know that you really are just that good. The rabble are inferior, and you’re not afraid to let them know. Your pride may be a universal sense of self-worth, or it may only manifest itself within certain spheres or situations. For example, your rank in the Royal Star Force leads you to look down upon anyone trained in less illustrious armed forces.
 
 #### Psychotic
 
@@ -683,8 +687,8 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren�
 | :-: | :-: | :------ |
 | Everyday | 10 | leap a 5’ gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
 | Challenging | 15 | climb a rough surface, catch the drift of a text in an unfamiliar language, break down a strong wooden door |
-| Very Hard | 20 | climb a smooth surface, leap a 15’ gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
-| Heroic | 25 | translate a text in an alien language, break down an iron door |
+| Heroic | 20 | climb a smooth surface, leap a 15’ gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
+| Epic | 25 | translate a text in an alien language, break down an iron door |
 | Legendary | 30 | leap a 25’ chasm, climb a flat surface, befriend an enemy with a vendetta against you |
 
 It’s important to note that Challenge Ratings are not typically set to be relative to the party’s level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth.
@@ -774,7 +778,7 @@ Before making an action roll, a PC may spend a maximum number of legend points e
 
 # Feats #
 
-In this chapter, you’ll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character’s specializations, the actions, tasks, and abilities she excels at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
+In this chapter, you’ll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character’s specializations, the actions, tasks, and abilities they excel at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
 
 ## Acquiring Feats
 
@@ -2010,7 +2014,7 @@ a whirlwind of your blade, a hail of arrows, or a ball of flame. \newline
 
 **Effect:** When you choose this feat, you must decide to focus in area, projectile,
 or melee attacks. For each tier, you reduce the disadvantage penalty
-associated with multi-attacks for your chosen attack type by 1. Whenever
+associated with multi-targeting for your chosen attack type by 1. Whenever
 you take this feat, you must specify which type of attack you are
 focusing on, and you may take the feat multiple times to specialize in
 multiple types of attack.
@@ -2021,7 +2025,9 @@ multiple types of attack.
 \
 **Prerequisites:**
 
--   **Tier 1**: Multi-Target Boon Specialist II
+-   **Tier 1**:
+    - Boon Focus
+    - Multi-Target Boon Specialist II
 
 **Description:** You have so mastered the art of aiding groups of allies that you can
 invoke certain boons effortlessly. \newline
@@ -2541,9 +2547,9 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
-**Deadly** - Some weapons are so highly effective that they significantly increase damage potential beyond what the wielder would typically be capable of. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
+**Deadly** - Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of it's Defensive value. This bonus does not stack with multiple Defensive weapons.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -2637,29 +2643,6 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 **Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
 
 **Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
-
-
-## Adventuring Gear
-
-\NextTableColumns{OLT{.33}OCT{.33}OLT{.34}}
-
-| Gear | Wealth Level | Properties |
-| :- | :-: | :-: |
-| Adventurer’s Pack | 1 | bulky |
-| Healer’s Pack | 1 | bulky |
-| Mage’s Pack | 1 | bulky |
-| Rogue’s Pack | 1 | bulky |
-
-
-**Gear Packs.** The following packs are well-contained and efficiently stored, counting as only one item in your inventory. Each pack contains an assortment of specialized gear.
-
-**Adventurer’s Pack** - bedroll, personal tent, 2 weeks rations, 3 days water, hammer, 6 pitons, 50’ rope, grappling hook, flint and steel, 10 torches.
-
-**Healer’s Pack** - bedroll, 2 weeks rations, 6 days water, bandages, herbs, mortar and pestle, 25’ rope, 3 flasks oil, flint and steel, lantern.
-
-**Mage’s Pack** bedroll, 1 weeks rations, 3 days water, parchment, quill, ink, box of chalk, pouch of sand, 5 empty vials, 5 candles, flint and steel.
-
-**Rogue’s Pack** - bedroll, 1 weeks rations, 3 days water, lockpicks, trap kit, bag of marbles, small mirror, 50’ rope, grappling hook, crowbar, flint and steel, 5 torches.
 
 # Banes and Boons
 
@@ -2831,15 +2814,15 @@ target’s life force is snuffed out completely. The most deadly assassins
 and most powerful necromancers are known for such legendary skill at
 snuffing out life. \newline
 
-**Effect:** You attempt to completely snuff the life force of your target. There is
-a brief window of time in which the target can attempt to resist this
-extinguishing force, but once that window closes, the death is permanent
-and can only be reversed with resurrection magic. When the bane is
-initially applied, the target is immobile (can’t move from their current
-space) and unconscious. They have disadvantage 5 on all perception
-rolls, and are incapable of moving. As a result of being completely
-incapable of movement, an incapacitated character can be the victim of a
-finishing blow. \newline
+**Effect:** You attempt to completely snuff the life force of your target. There
+is a brief window of time in which the target can attempt to resist this
+extinguishing force, but once that window closes, the death is permanent and can
+only be reversed if the GM allows a special mission to use rare technology or
+long-forgotten magic to restore the target. When the bane is initially applied,
+the target is immobile (can’t move from their current space) and unconscious.
+They have disadvantage 5 on all perception rolls, and are incapable of moving.
+As a result of being completely incapable of movement, an incapacitated character
+can be the victim of a finishing blow. \newline
 
 **Special:** While most banes last until the target actively attempts to resist it,
 this bane prevents the target from being aware of their affliction and
@@ -3346,9 +3329,7 @@ illusion.
 -   **Power Level 3** - Sight
 -   **Power Level 6** - All Senses
 
-Your Influence attribute score determines the maximum area that your
-phantasm can cover as follows. The dimensions are depth, width, and
-height (all squares must touch but can be in any shape/pattern)
+Your Influence attribute score determines the maximum area that your phantasm can cover as follows. On your turn, you may move the illusion as a free action, but it must remain within your usual invocation range.
 
 -   Influence 1 - 5' x 5' x 5'
 -   Influence 3 - 10' x 10' x 10'
@@ -3723,8 +3704,7 @@ extradimensional space to hide it. \newline
 **Effect:** The object remains in place, completely hidden from the perception of
 others, until you summon or recall it (automatically) as a minor action.
 If anything happens to cancel this boon (such as the Dispel bane), the
-object is immediately shunted out of your body as if you had withdrawn
-it to your hand.
+object is immediately shunted out of your target's body as if the object had withdrawn.
 
 
 ## Animation
@@ -3781,13 +3761,13 @@ Chapter 7: Running the Game.
 event, a person, or a place. \newline
 
 **Effect:**
--   **Power Level 1** - You ask a question about a course of action you plan to take within the next five minutes. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+-   **Power Level 1** - Your target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
--   **Power Level 3** - You ask a question about a course of action you plan to take within the next hour. The GM communicates your insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+-   **Power Level 3** - Your target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
--   **Power Level 5** - You ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge you seek. You can only ask one question about a given target per week.
+-   **Power Level 5** - Your target asks ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.
 
--   **Power Level 7** - You can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide you detailed information about the target of your prescience. You can only maintain one such target at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
+-   **Power Level 7** - Your target can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
 
 
 ## Aura
@@ -3858,7 +3838,7 @@ surroundings. Some examples of blindsight include tremorsense,
 echolocation, heat vision, divine insight, or extraordinarily heightened
 senses. \newline
 
-**Effect:** The Blinded bane does not adversely affect you and you are able to see
+**Effect:** The Blinded bane does not adversely affect your target and they are able to see
 normally even in conditions of little or no light. Blindsight can also
 potentially counter invisibility, though the GM will have to decide if
 the source creating the blindsight is appropriate to counter the source
@@ -3921,7 +3901,7 @@ the power level of both is equal, then they cancel each other out.
 correlate to magical and spiritual forces. \newline
 
 **Effect:** When calling on this boon, you must choose from the following: **holy**,
-**unholy**, **life**, **death**, and **magic**. You can perceive
+**unholy**, **life**, **death**, and **magic**. Your target can perceive
 invisible auras pertaining to the chosen type of force and have an
 approximate sense of their strength (from weak to overwhelming). These
 auras are usually based on an action that is deliberate, so an otherwise
@@ -3933,7 +3913,7 @@ will give off a radius of death for a time after the killing blow.
 
 -   **Unholy** - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.
 
--   **Life** - Beings from heavenly dimensions, clerics wielding the power of healing, resurrection, or protection radiate an aura of life for a time after wielding such powers.
+-   **Life** - Beings from heavenly dimensions, clerics wielding the power of healing, regeneration, or protection radiate an aura of life for a time after wielding such powers.
 
 -   **Death** - Necromancers, undead, and murderers all radiate an aura of death. For undead, the aura is constant, since the power of death and magic is what animates them.
 
@@ -4106,7 +4086,7 @@ the fabric of the planes.  \newline
 you can steal the very lifeforce of your foes. \newline
 
 **Effect:** While this boon persists, the target heals half (round up) of the damage
-he inflicts with each attack. If an attack damages multiple foes, the
+they inflict with each attack. If an attack damages multiple foes, the
 target of this boon heals based on the total damage inflicted against
 all foes.
 
@@ -4145,15 +4125,15 @@ has occurred in its vicinity in the past. \newline
 **Effect:** When you successfully invoke this boon, you gain information from an
 object or place within range as follows:
 
--   **Power Level 5** - You can read vague ideas and impressions to learn what took place near the target within the past hour.
+-   **Power Level 5** - Your target can read vague ideas and impressions to learn what occurred near the object or place within the past hour.
 
--   **Power Level 6** - You can see a vivid vision, similar to a supernatural recording, of what took place near the target within the last hour.
+-   **Power Level 6** - Your target can see a vivid vision, similar to a supernatural recording, of what took place near the object or place within the last hour.
 
--   **Power Level 7** - You can ascertain the most recent owner of the object or the people who have most recently been in the place. This knowledge grants enough information for you to use the Scrying bane to magically locate or view those identified.
+-   **Power Level 7** - Your target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the Scrying bane to magically locate or view those identified.
 
--   **Power Level 8** - Choose one: You see a vision of the most recent significant event that took place in close proximity to the target - OR - you ask whether or not a specific event you are aware of is impressed upon the target.
+-   **Power Level 8** - Choose one: Your target sees a vision of the most recent significant event that took place in close proximity to the object or place - OR - your target asks whether or not a specific event you are aware of is impressed upon the object or place.
 
--   **Power Level 9** - You are able, given sufficient time, to access all memories impressed upon the target. You must maintain concentration, with each 10 minutes yielding a new vision from the target's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.
+-   **Power Level 9** - Your target is able, given sufficient time, to access all memories impressed upon the object or place. You must maintain concentration, with each 10 minutes yielding a new vision from the object's or place's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.
 
 
 ## Regeneration
@@ -4205,13 +4185,13 @@ forceful, fire, cold, lightning, acid, influence, creation, and entropy
 determined by the power level of the boon (the following are not
 cumulative):
 
--   **Power Level 3** - Your defense scores are increased by 3 against the chosen attack type.
+-   **Power Level 3** - Your target's defense scores are increased by 3 against the chosen attack type.
 
--   **Power Level 5** - Your defense scores are increased by 6 against the chosen attack type.
+-   **Power Level 5** - Your target's defense scores are increased by 6 against the chosen attack type.
 
--   **Power Level 7** - Your defense scores are increased by 9 against the chosen attack type.
+-   **Power Level 7** - Your target's defense scores are increased by 9 against the chosen attack type.
 
--   **Power Level 9** - You are immune to damage and harmful effects from the chosen attack type.
+-   **Power Level 9** - Your target is immune to damage and harmful effects from the chosen attack type.
 
 ## Restoration
 
@@ -4271,7 +4251,7 @@ depends on your Prescience score.
 \
 **Invocation Time:** 1 Major Action
 \
-**Power Level:** 3, 4, 5, 6, 8, 9
+**Power Level:** 2, 3, 4, 5, 6, 8, 9
 \
 **Attributes:** Alteration \newline
 
@@ -4417,13 +4397,13 @@ stepping into an intermediate realm, projecting yourself magically, or
 other similar means. \newline
 
 **Effect:**
--   **Power Level 3** - You can teleport to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
+-   **Power Level 3** - You can teleport your target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
 
--   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport to spaces that you can’t see. If you choose an occupied space, you land in the nearest adjacent space (roll randomly to decide if there are multiple options) and you are stunned for 1 round (you don’t have to make a resist roll to end the effect).
+-   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can’t see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect).
 
--   **Power Level 7** - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put you many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleport a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.
+-   **Power Level 7** - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport the target 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put your target many miles in an unfavorable direction. You simply choose a direction to travel in (relative to your starting location) and you teleport your target a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.
 
--   **Power Level 9** - Using the same longer invocation time from Power Level 7, you can now teleport to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.
+-   **Power Level 9** - Using the same longer invocation time from Power Level 7, you can now teleport your target to any location without range limit, provided you have personally seen (through magical or normal means) the target destination.
 
 
 
@@ -4442,9 +4422,9 @@ unfamiliar with. \newline
 
 **Effect:**
 
--   **Power Level 5** - You can understand and speak a language of your choice.
+-   **Power Level 5** - Your target can understand and speak a language of your choice.
 
--   **Power Level 6** - You can read a language of your choice.
+-   **Power Level 6** - Your target can read a language of your choice.
 
 
 
@@ -4916,12 +4896,11 @@ Using a focus action involves spending all of your energy and attention on one t
 
 In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
-**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Protection, Agility, and Might are all
-typical examples of attributes used to defend).
+**Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. Describe how you are defending and then make an action roll using an appropriate attribute (Protection, Agility, and Might are all typical examples of attributes used to defend). A single defend action can only be used to defend one target.
 
-If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. A single defend action can only be used to defend one target. (**Note:** Characters wielding a shield gain advantage 1 on defend actions when appropriate).
+If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. (**Note:** Characters wielding a weapon with the *defensive* property gain advantage equal to the weapon's *defensive* value on their defend action roll).
 
-As part of your defend action, you may also move up to half of your speed at any time during your action. If you are adjacent to your ally when moving, the ally may choose to move with you.
+As part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the orginal attack, even if it takes the defended character out of the reach or area of the attack.
 
 **Improvise.** You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
@@ -5099,6 +5078,11 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Bane Focus:** Pick a bane. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
+- **Bane Resistance (tier 1-2, your choice, available only to GMs): Choose a bane and gain the following benefits:**
+
+	- **Tier 1:** Gain +5 to your defense against the chosen bane.
+	- **Tier 2:** You are immune to the chosen bane.
+
 - **Superior Bane Focus (not available to PCs):** Pick a bane. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon. Gain the following benefits:
@@ -5133,7 +5117,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Multi-Attack Specialist (tier equals NPC level, max 6):** When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
 
-- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with multi-targeting by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
 
 - **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
 

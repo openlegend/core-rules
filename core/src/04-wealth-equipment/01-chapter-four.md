@@ -1,21 +1,21 @@
 
 # Chapter 4: Wealth & Equipment #
 
-No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you’ll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you capture dragon hoards and seize kingdoms.
+No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you’ll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you claim space pirate bounties and dip your hands in the coffers of kings.
 
 ## Wealth
-Rather than tracking every gold piece, gem, and fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
+Rather than tracking every gold piece, credit, or fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
 
 Every character has a Wealth Score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each Wealth Score.
 
 ### Acquiring Goods and Services
-When you are trying to buy new equipment, construct an inn, or hire a craftsman, your wealth score determines whether you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
+When you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines whether you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
 
 If the good you want to purchase has a level lower than your Wealth Score, you can acquire the item easily without taxing your time and resources.
 
 If the item’s level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
 
-If the object of your purchase is **one level higher than** your Wealth Score and your wealth score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
+If the object of your purchase is **one level higher than** your Wealth Score and your Wealth Score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
 
 You cannot make purchases that are more than one level higher than your Wealth Score.
 
@@ -29,13 +29,13 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
 | 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
-| 3 | master artisan, village mayor | full plate armor, silver weapons, a small boat, a fine horse |
+| 3 | master artisan, village mayor | full plate armor, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
-| 5 | lord of a realm, thieves’ guild master in a large city | a large cargo ship, a city wall |
+| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, weapons to outfit a small militia |
 | 6 | 7th level hero | a large warship |
-| 7 | king | a stronghold, startup funding for a new town |
+| 7 | king, president | a stronghold, startup funding for a new town |
 | 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
-| 9 | emperor| a castle, an army of 50,000 |
+| 9 | emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 > #### Examples of Acquiring Goods and Services
 >
@@ -53,9 +53,9 @@ You cannot make purchases that are more than one level higher than your Wealth S
 
 ### Gaining Wealth
 
-As you adventure throughout the realm, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character’s wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
+As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character’s wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
 
-Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster’s lair, finding a buyer for a great and powerful magical item, or being rewarded by a great ruler.
+Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster’s lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
 
 ## Carrying Capacity
 
@@ -159,9 +159,9 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
-**Deadly** - Some weapons are so highly effective that they significantly increase damage potential beyond what the wielder would typically be capable of. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
+**Deadly** - Some weapons are so effective that their potenecy makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of it's Defensive value. This bonus does not stack with multiple Defensive weapons.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -265,28 +265,3 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 \
 \
 
-
-## Adventuring Gear
-
-<div class="table-no-body"></div>
-| Adventuring Gear |
-| - |
-| |
-
-| Gear | Wealth Level | Properties |
-| :- | :-: | :-: |
-| Adventurer’s Pack | 1 | bulky |
-| Healer’s Pack | 1 | bulky |
-| Mage’s Pack | 1 | bulky |
-| Rogue’s Pack | 1 | bulky |
-
-
-**Gear Packs.** The following packs are well-contained and efficiently stored, counting as only one item in your inventory. Each pack contains an assortment of specialized gear.
-
-**Adventurer’s Pack** - bedroll, personal tent, 2 weeks rations, 3 days water, hammer, 6 pitons, 50’ rope, grappling hook, flint and steel, 10 torches.
-
-**Healer’s Pack** - bedroll, 2 weeks rations, 6 days water, bandages, herbs, mortar and pestle, 25’ rope, 3 flasks oil, flint and steel, lantern.
-
-**Mage’s Pack** bedroll, 1 weeks rations, 3 days water, parchment, quill, ink, box of chalk, pouch of sand, 5 empty vials, 5 candles, flint and steel.
-
-**Rogue’s Pack** - bedroll, 1 weeks rations, 3 days water, lockpicks, trap kit, bag of marbles, small mirror, 50’ rope, grappling hook, crowbar, flint and steel, 5 torches.

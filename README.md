@@ -12,6 +12,21 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 01 / 18
+-   `Armory Mastery` feat effect wording changed from Might to Fortitude to match recent armor changes.
+-   `Natural Defense` feat Fortitude prerequisites reduced for each tier from 2/3/5 to 0/1/2.
+-   `Two Weapon Defense` feat wording clarifies the armor bonus is for the Guard defense.
+-   `Defensive` property of weapons now grants a non-stacking +1 armor bonus, regardless of Defensive level. `Defensive Mastery` feat wording clarified for its bonus to stack an addition +1 armor bonus.
+-   NPCs now have a new feat open to them (GM Only): Bane Resistance, with two tiers (+5 defense and immunity to a specific bane).
+-   `Sylvan Ally` perk renamed `Nature's Ally`.
+-   `Shapeshift` boon effect layout clarified for Power Level 2. Also, wording improved for multiple genres.
+-   `Multi-Target Attack Specialist` wording fixed to refer to **multi-targeting**, not multi-attacks.
+
+#### 2017 / 01 / 15
+-   Added Power Level 2 to `Shapeshift` boon
+-   You can now move your `Phantasm` as a free action on your turn, but it must remain within your invocation range.
+-   `Defend` action clarified. A single defend action can only be used to defend one target. Movement granted by this action doesn't provoke attack of opportunity, nor does it negate the original attack.
+
 #### 2017 / 01 / 13
 -   `Breakfall` now works in two tier. Tier 1 reduces all falling damage if you are not incapacitated. Tier 2 renders you immune to falling damage if you are not incapacitated. Cost increased to 2.
 
