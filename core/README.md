@@ -1,3 +1,16 @@
+**SRD Markdown Style Reference**
+--------------------------------------------------
+
+| Header | Meaning                               |
+|--------|---------------------------------------|
+| #      | Chapter                               |
+| ##     | Section                               |
+| ###    | Paragraph with header (or subsection) |
+| ####   | Paragraph                             |
+| #####  | Table                                 |
+
+--------------------------------------------------
+
 ```
 pandoc --epub-cover-image=`*FILE*
 ```
