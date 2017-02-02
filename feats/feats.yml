@@ -1183,7 +1183,7 @@
     You have knowledge of a particular area of study which far surpasses your general intelligence.
   effect: |
     When you purchase this feat, choose a sphere of knowledge from the list below or, with the GM’s approval, create a new one. <br />
-    Example Spheres of knowledge include alchemy, arcane, supernatural, engineering, geography, history, location (must specify), anatomy, medicine, explosives, computers, herbalism, and wilderness.<br />
+    Example spheres of knowledge include alchemy, arcane, supernatural, engineering, geography, history, location (must specify), anatomy, medicine, explosives, computers, herbalism, and wilderness.<br />
     Your tier in this feat determines how knowledgeable you are within your chosen sphere.
     <ul>
     <li><strong>Tier 1</strong> - You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 16 or lower. For higher CRs, your Learning attribute is considered to be 3 for the action roll unless your Learning score is already 3 or higher, in which case you gain advantage 1 on the roll.</li>

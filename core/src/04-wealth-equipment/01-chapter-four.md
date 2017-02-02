@@ -129,23 +129,23 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 2 | Precise, Forceful, Swift | Persistent Damage, Disarmed |
 | Longsword, Falchion | Versatile Melee | 1 | Precise, Forceful | Persistent Damage, Disarmed |
 | Katana, Enchanted Longsword | Versatile Melee | 4 | Precise, Forceful, Deadly 1 | Persistent Damage, Disarmed |
-| Plasmablade, Vorpal Sword | One-handed Melee | 4 | Precise, Forceful, Deadly 2 | Persistent Damage, Disarmed, Stunned |
+| Plasmablade, Vorpal Sword | One-handed Melee | 5 | Precise, Forceful, Deadly 2 | Persistent Damage, Disarmed, Stunned |
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 1 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 1 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
 | Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful | Persistent Damage, Disarmed, Immobile |
 | Sledge Hammer, Maul, Great Axe | Two-handed Melee | 1 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
 | Long Spear | Two-handed Melee, Short Ranged | 2 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
-| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach | Knockdown, Immobile, Forced Move |
+| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Burst 2 | Persistent Damage, Knockdown, Forced Move |
 | Colt 45, .357 Magnum | Medium Ranged | 4 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
 | Light Crossbow | Medium Ranged | 1 | Precise | Persistent Damage, Immobile |
-| Sawed-off Shotgun | Medium Ranged | 1 | Precise | Persistent Damage, Stunned, Forced Move |
+| Sawed-off Shotgun | Medium Ranged | 2 | Burst 1, Precise | Persistent Damage, Stunned, Forced Move |
 | Shortbow, Pump Shotgun | Medium Ranged | 1 | Precise | Slowed, Persistent Damage, Knockdown |
-| Submachine Gun, M16 | Medium Ranged | 4 | Precise, Swift, Burst 2 | Persistent Damage, Provoked, Demoralized |
+| Submachine Gun, M16 | Medium Ranged | 3 | Precise, Burst 2 | Persistent Damage, Provoked, Demoralized |
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
+| Laser Rifle | Long Ranged | 4 | Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Sniper Rifle, Phase Rifle | Extreme Ranged | 4 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Laser Cannon | Extreme Ranged | 4 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
 | Rocket Launcher, Mech Warhead | Extreme Ranged | 6 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Burst 3 | Persistent Damage, Stunned, Forced Move |
@@ -247,7 +247,7 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 ### Step 4: Calculate Wealth Level
 
-Based on the decisions from your choices in Step 2 and Step 3, figure out the Wealth Level of the weapon.
+All weapons (with the exception of unarmed strike), begin with a base Wealth Level of 1. From there, calculate the Wealth Level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
 #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 
@@ -255,7 +255,7 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 
 **Step 1 (Choose a Category)** - While the kusari-gama, might typically be used as a short bladed melee weapon, it can also be swung via it's long chain. As such, we will give it both the  **One-handed Melee** and **Close Ranged** properties.
 
-**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance.
+**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
 
 **Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
 
