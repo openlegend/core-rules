@@ -4324,7 +4324,7 @@ Your minion cannot act on the turn that it is summoned. On each of your followin
 
 **Special:** Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.
 
-This boon is not subject to normal multi-targeting rules. However, you may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke.
+Multi-targeting for this boon does not work as it does for other effects. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Feats that offset multi-targeting penalties have can be used to offset this disadvantage.
 
 ## Telekinesis
 
