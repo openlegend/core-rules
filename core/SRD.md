@@ -4178,12 +4178,11 @@ rolled for healing explode as usual.
 mutation, the target becomes resistant to the effects of damage from a
 certain type of attack. \newline
 
-**Effect:** When the boon is invoked, the invoker chooses one type of attack and the
-target gains resistance to that type. The types include finesse,
-forceful, fire, cold, lightning, acid, influence, creation, and entropy
-(other types may be approved by the GM). The effect of the resistance is
-determined by the power level of the boon (the following are not
-cumulative):
+**Effect:** When the boon is invoked, the invoker chooses one type of attack and
+the target gains resistance to that type. The types include precise, forceful,
+fire, cold, lightning, acid, influence,  and entropy (other types may be approved
+by the GM). The effect of the resistance is determined by the power level of the
+boon (the following are not cumulative):
 
 -   **Power Level 3** - Your target's defense scores are increased by 3 against the chosen attack type.
 
