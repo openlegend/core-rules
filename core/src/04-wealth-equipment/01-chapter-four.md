@@ -232,7 +232,7 @@ Every weapon must have either the *Forceful* or *Precise* property and some weap
 
 Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon. The Wealth Level of all weapons begins at 1.
 
-The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level 4.
+The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level of 5.
 
 The *Defensive* and *Burst* properties increase the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
 
