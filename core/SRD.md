@@ -857,9 +857,9 @@ maximize its protection and minimize its drawbacks. \newline
 
 **Effect:** Your training allows you to sleep in armor without gaining one level of the Fatigued bane. In addition, while wearing armor, you gain the following benefits.
 
--   **Tier 1** - The Might prerequisite for wearing armor is reduced by 1. The Armor Bonus granted by the armor is increased by 1.
+-   **Tier 1** - The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 bonus to your Guard defense.
 
--   **Tier 2** - The Might prerequisite for wearing armor is reduced by 2. The Armor Bonus granted by the armor is increased by 2. Any movement penalty is reduced by 5 feet.
+-   **Tier 2** - The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 bonus to your Guard defense. Any movement penalty is reduced by 5 feet.
 
 ## Attack Redirection
 
