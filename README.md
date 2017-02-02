@@ -12,6 +12,10 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 02 / 02
+-   `Summon Creature` no longer has a permanent option, creating permanent creatures is reserved as an effect for only the `Animation` boon.
+-   `Animation` boon now has the additional effect of automatically invoking the `Charmed` bane on a newly created creature.
+
 #### 2017 / 01 / 18
 -   `Armory Mastery` feat effect wording changed from Might to Fortitude to match recent armor changes.
 -   `Natural Defense` feat Fortitude prerequisites reduced for each tier from 2/3/5 to 0/1/2.
