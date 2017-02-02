@@ -136,7 +136,8 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful | Persistent Damage, Disarmed, Immobile |
 | Sledge Hammer, Maul, Great Axe | Two-handed Melee | 1 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
 | Long Spear | Two-handed Melee, Short Ranged | 2 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
-| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
+| Pitchfork, Staff | Two-handed Melee | 2 | Forceful | Knockdown, Immobile, Forced Move |
+| Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Burst 2 | Persistent Damage, Knockdown, Forced Move |
 | Colt 45, .357 Magnum | Medium Ranged | 4 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |

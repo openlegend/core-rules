@@ -1302,7 +1302,7 @@ boon either autonomously or by way of a wielder.
 \ At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item. \
 \ When using this item, you expend your own actions to make action rolls or sustain a boon, but you otherwise treat the item as the one rolling dice, using an attribute, etc. \
 \ Next, choose a bane or boon of power level less than or equal to the item's attribute score from the previous step. This item is forever linked to that particular bane or boon. \
-\ An expendable item used to invoke a boon automatically succeeds at invocation. An expendable item used to invoke a bane grants advantage 1 to the attribute roll to invoke. \
+\ An expendable item used to invoke a boon automatically succeeds at invocation and cannot be used for multi-target invocation. An expendable item used to invoke a bane grants advantage 1 to the attribute roll to invoke. \
 \ A tier 1 permanent item can be invoked once per hour, after which it has to recharge before it can be used again. \
 \ The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
 
@@ -2523,7 +2523,8 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful | Persistent Damage, Disarmed, Immobile |
 | Sledge Hammer, Maul, Great Axe | Two-handed Melee | 1 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
 | Long Spear | Two-handed Melee, Short Ranged | 2 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
-| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
+| Pitchfork, Staff | Two-handed Melee | 2 | Forceful | Knockdown, Immobile, Forced Move |
+| Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Burst 2 | Persistent Damage, Knockdown, Forced Move |
 | Colt 45, .357 Magnum | Medium Ranged | 4 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
