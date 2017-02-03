@@ -4263,7 +4263,7 @@ werewolves), dryads, dopplegangers, and certain types of druids. \newline
 **Effect:** You or a willing creature you touch transform into a creature whose
 highest attribute is less than or equal to your
 Alteration score. Your Alteration score for the
- purpose of this feat is limited to your level
+ purpose of this boon is limited to your level
  or 5, whichever is higher.
 All of the target's existing extraordinary
  attribute scores drop to zero, and
