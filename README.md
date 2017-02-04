@@ -13,6 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 02 / 03
+-   Add `Agility` as an optional attribute for invoking `Knockdown` and `Forced Move` banes
 -   Clarify how hit points are tracked for `Polymorph` bane and `Shapeshift` boon
 -   `Polymorph` bane is fixed. Previously had variable and overpowered durations as well as being easily abused to transform the target into a form with all attribute scores being 0.
 -   `Banished` bane is removed. An effect so permanent should be part of the GM's discretion and a story choice rather than automatic and permanent exile from a successful roll (done at-will)

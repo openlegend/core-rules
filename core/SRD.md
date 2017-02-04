@@ -3038,6 +3038,7 @@ you to inflict the bane for the next hour.
 \
 **Attack:**
 
+-   Agility vs. Guard
 -   Energy vs. Guard
 -   Might vs. Guard
 -   Movement vs. Guard
@@ -3147,6 +3148,7 @@ you to inflict the bane for the next hour.
 \
 **Attack:**
 
+-   Agility vs. Guard
 -   Energy vs. Guard
 -   Might vs. Guard
 

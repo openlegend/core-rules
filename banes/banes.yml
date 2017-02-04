@@ -253,6 +253,7 @@
   - 6
   - 8
   attackAttributes:
+  - Agility
   - Energy
   - Might
   - Movement
@@ -338,6 +339,7 @@
   power:
   - 2
   attackAttributes:
+  - Agility
   - Energy
   - Might
   attack:
