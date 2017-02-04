@@ -825,7 +825,7 @@ Below is a complete list of feats available to any character that meets the prer
 Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
 As a focus action, you may change between any two forms (including your primary form or any alternate form). You maintain this capability in all of your forms.
 Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
-In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points.
+In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points. Additionally, when changing forms, if your hit points would be reduced to less than 1, your hit point total becomes 1 instead.
 
 **Special:** When selecting feats for your alternate form, you may not select the **Alternate Form** feat.
 You may take this feat multiple times. Each time grants you access to an additional form.
@@ -3349,6 +3349,8 @@ target. If the target is transformed into a different creature, it uses
 the Might, Agility, Fortitude, and Perception attribute scores of the
 new creature.
 
+In order to keep track of hit points, the target should record the total damage they have suffered. When transforming,  damage remains with the character even if their maximum hit points change. For example, Agent Walker has a max HP of 20 but is turned into a sheep and has her Fortitude reduced by 2, leaving her at 16 hit points. During combat, she suffers 10 damage. When she later transforms back into Agent Walker, the 10 damage remains and is subtracted from her new maximum, leaving her doctor with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
+
 -   **Power Level 5** - Polymorph a creature into another creature of the same size. This new form can reduce the target's attribute scores by up to 2. If the new form would have higher attributes, the target becomes an exceptional version of that creature. For example, transforming a deadly sniper with Agility 5 into a clumsy ogre with Agility 0, would leave the target with an Agility of 3 instead of the 0 typical for the new form.
 
 -   **Power Level 6** - Polymorph a creature into another creature between double and half the size. The new form can reduce the target's attribute scores by up to 3.
@@ -4241,7 +4243,11 @@ highest attribute is less than or equal to your Alteration score. Your Alteratio
 score for the purpose of this boon is limited to your level or 5, whichever is higher.
 With the exception of Alteration, all of the target's extraordinary attribute scores
 drop to zero, and they acquire the Agility, Fortitude, Might, and Perception
-attributes of the new form. Limitations are applied starting at Power Level 2
+attributes of the new form.
+
+In order to keep track of hit points, the target should record the total damage they have suffered. When transforming,  damage remains with the character even if their maximum hit points change. For example, Vera has a max HP of 20 but is turned into a dragon and her Fortitude increases from 5 to 9, increasing her hit points to 28. During combat, she suffers 10 damage. When she later transforms back into Vera, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
+
+Limitations are applied starting at Power Level 2
 and are gradually removed at higher power levels:
 
 -   The new form cannot be a different size than that of the target.
