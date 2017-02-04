@@ -1,21 +1,21 @@
 
 # Chapter 4: Wealth & Equipment #
 
-No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you’ll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you capture dragon hoards and seize kingdoms.
+No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you’ll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you claim space pirate bounties and dip your hands in the coffers of kings.
 
 ## Wealth
-Rather than tracking every gold piece, gem, and fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
+Rather than tracking every gold piece, credit, or fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
 
 Every character has a Wealth Score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each Wealth Score.
 
 ### Acquiring Goods and Services
-When you are trying to buy new equipment, construct an inn, or hire a craftsman, your wealth score determines whether you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
+When you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines whether you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
 
 If the good you want to purchase has a level lower than your Wealth Score, you can acquire the item easily without taxing your time and resources.
 
 If the item’s level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
 
-If the object of your purchase is **one level higher than** your Wealth Score and your wealth score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
+If the object of your purchase is **one level higher than** your Wealth Score and your Wealth Score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
 
 You cannot make purchases that are more than one level higher than your Wealth Score.
 
@@ -29,13 +29,13 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
 | 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
-| 3 | master artisan, village mayor | full plate armor, silver weapons, a small boat, a fine horse |
+| 3 | master artisan, village mayor | full plate armor, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
-| 5 | lord of a realm, thieves’ guild master in a large city | a large cargo ship, a city wall |
+| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, weapons to outfit a small militia |
 | 6 | 7th level hero | a large warship |
-| 7 | king | a stronghold, startup funding for a new town |
+| 7 | king, president | a stronghold, startup funding for a new town |
 | 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
-| 9 | emperor| a castle, an army of 50,000 |
+| 9 | emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 > #### Examples of Acquiring Goods and Services
 >
@@ -53,9 +53,9 @@ You cannot make purchases that are more than one level higher than your Wealth S
 
 ### Gaining Wealth
 
-As you adventure throughout the realm, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character’s wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
+As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character’s wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
 
-Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster’s lair, finding a buyer for a great and powerful magical item, or being rewarded by a great ruler.
+Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster’s lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
 
 ## Carrying Capacity
 
@@ -111,7 +111,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting attribute prerequisites. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 
 <div class="table-no-body"></div>
@@ -129,39 +129,42 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 2 | Precise, Forceful, Swift | Persistent Damage, Disarmed |
 | Longsword, Falchion | Versatile Melee | 1 | Precise, Forceful | Persistent Damage, Disarmed |
 | Katana, Enchanted Longsword | Versatile Melee | 4 | Precise, Forceful, Deadly 1 | Persistent Damage, Disarmed |
-| Plasmablade, Vorpal Sword | One-handed Melee | 4 | Precise, Forceful, Deadly 2 | Persistent Damage, Disarmed, Stunned |
+| Plasmablade, Vorpal Sword | One-handed Melee | 5 | Precise, Forceful, Deadly 2 | Persistent Damage, Disarmed, Stunned |
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 1 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 1 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
 | Short Spear | Two-handed Melee, Close Ranged | 1 | Precise, Forceful | Persistent Damage, Disarmed, Immobile |
 | Sledge Hammer, Maul, Great Axe | Two-handed Melee | 1 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
 | Long Spear | Two-handed Melee, Short Ranged | 2 | Precise, Forceful, Reach | Persistent Damage, Disarmed, Immobile |
-| Glaive, Halberd, Naginata, Pitchfork, Staff | Two-handed Melee | 1 | Forceful, Reach | Knockdown, Immobile, Forced Move |
+| Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
+| Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Burst 2 | Persistent Damage, Knockdown, Forced Move |
+| Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
 | Colt 45, .357 Magnum | Medium Ranged | 4 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
 | Light Crossbow | Medium Ranged | 1 | Precise | Persistent Damage, Immobile |
-| Sawed-off Shotgun | Medium Ranged | 1 | Precise | Persistent Damage, Stunned, Forced Move |
+| Sawed-off Shotgun | Medium Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
 | Shortbow, Pump Shotgun | Medium Ranged | 1 | Precise | Slowed, Persistent Damage, Knockdown |
-| Submachine Gun, M16 | Medium Ranged | 4 | Precise, Swift, Burst 2 | Persistent Damage, Provoked, Demoralized |
+| Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (cube 10') | Persistent Damage, Provoked, Demoralized |
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Laser Rifle | Long Ranged | 4 | Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
+| Laser Rifle | Long Ranged | 4 | Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Sniper Rifle, Phase Rifle | Extreme Ranged | 4 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
 | Laser Cannon | Extreme Ranged | 4 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
-| Rocket Launcher, Mech Warhead | Extreme Ranged | 6 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Burst 3 | Persistent Damage, Stunned, Forced Move |
+| Rocket Launcher, Mech Warhead | Extreme Ranged | 6 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Area (cube 15') | Persistent Damage, Stunned, Forced Move |
 | Small Shield | One-handed Melee | 2 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 3 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
 
+
+
 ### Properties
 
-**Burst** - A burst weapon grants advantage equal to its value when its wielder makes a cube multi-target attack.
+**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. These attacks do not incur the any of the disadvantage penalties associated with multi-target attacks.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
 **Deadly** - Some weapons are so effective that their potenecy makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a non-stacking +1 armor bonus, regardless of Defensive value.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of it's Defensive value. This bonus does not stack with multiple Defensive weapons.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -231,7 +234,7 @@ Every weapon must have either the *Forceful* or *Precise* property and some weap
 
 Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon. The Wealth Level of all weapons begins at 1.
 
-The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level 4.
+The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level of 5.
 
 The *Defensive* and *Burst* properties increase the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
 
@@ -247,7 +250,7 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 ### Step 4: Calculate Wealth Level
 
-Based on the decisions from your choices in Step 2 and Step 3, figure out the Wealth Level of the weapon.
+All weapons (with the exception of unarmed strike), begin with a base Wealth Level of 1. From there, calculate the Wealth Level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
 #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 
@@ -255,7 +258,7 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 
 **Step 1 (Choose a Category)** - While the kusari-gama, might typically be used as a short bladed melee weapon, it can also be swung via it's long chain. As such, we will give it both the  **One-handed Melee** and **Close Ranged** properties.
 
-**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance.
+**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
 
 **Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
 

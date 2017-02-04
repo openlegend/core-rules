@@ -2,7 +2,7 @@
 
 Sometimes, the well-meaning but far too honest paladin blows your cover.
 
-Sometimes, the trigger-happy sorcerer gives away your position.
+Sometimes, the trigger-happy gunslinger gives away your position.
 
 Sometimes, negotiations fail.
 
@@ -41,7 +41,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >
 >> Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
->> Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d10), and gets a 25.
+>> Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
 >>
 >> The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
 >
@@ -56,6 +56,16 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >> **Surprised Combatants**
 >>
 >>  Spaz 14
+
+
+### Waiting to Act
+
+If you do not wish to act when your turn comes, you may choose to defer your turn, either by waiting or by preparing to react in response to some sort of situation. If you wait, you may take your turn at any time after another character has finished their turn but before another character has begun.
+
+If you are preparing to react, then you should give a general description of what you are preparing for, such as "I'll act when a threat to come through the door" or "I'm readying my bow to shoot at an enemy who goes for the altar." When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
+
+If, by the end of the round, your triggering conditions were not met, you may take your turn as usual.
+
 
 ## The Core Mechanic in Combat
 
@@ -91,11 +101,11 @@ Some players might wonder why a PC still gets a taste of success even when their
 
 ## Using Attributes to Inflict Damage
 
-Combat in *Open Legend* is a swirl of action rolls as blades clash, traps spring, lightning forks, and arrows fly. However, because of the free-form nature of storytelling in *Open Legend*, you may not always know what attributes can be used to make attacks.
+Combat in *Open Legend* is a swirl of action rolls as blades clash, traps spring, lightning forks, and lasers fly. However, because of the free-form nature of storytelling in *Open Legend*, you may not always know what attributes can be used to make attacks.
 
 ### Always
 
-Some attributes can pretty much always be used to deal damage. These include Might, Agility, Energy, and Entropy. These are the standards for swinging mauls, slinging arrows, raining fire, draining life force, and so on.
+Some attributes can pretty much always be used to deal damage. These include Might, Agility, Energy, and Entropy. These are the standards for swinging mauls, shooting guns, raining fire, draining life force, and so on.
 
 ### Sometimes
 
@@ -366,7 +376,7 @@ Many banes will persist for a longer duration after three failed resist attempts
 
 Minor actions are tasks that don’t require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
--   Draw a weapon
+-   Draw or sheathe a weapon
 -   Retrieve an item stored on your person
 -   Sustain a boon
 -   Make a Perception roll to observe your surroundings
@@ -468,7 +478,7 @@ After a combat encounter ends and you have at least ten minutes to rest and catc
 
 Lethal damage is used sparingly in Open Legend as a way for GMs to paint a picture of injury consequences over time. This is especially helpful for grim and gritty storylines where effects of injury should extend beyond a combat encounter. A GM might incorporate a trap or environmental hazard that deals lethal damage. Since these situations occur outside of combat, normal damage would othewise have no long term effect on the story.
 
-A creature's maximum hit point toal is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to it's maximum hit points. If a creature sustains lethal damage greater than or equal to it's maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
+A creature's maximum hit point toal is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to its maximum hit points. If a creature sustains lethal damage greater than or equal to its maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
 
 Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
 

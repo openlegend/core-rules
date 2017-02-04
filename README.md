@@ -12,6 +12,21 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 02 / 03
+-   Added rules for `Waiting to Act` that allow for preparing to react to a given trigger and waiting in general
+-   Clarify that boons don't stack
+-   Renamed `Burst` weapon property to `Area` and significantly changed how it works. These weapons always make attacks in their listed size and shape areas, and suffer no penalties for doing so
+-   Add `Agility` as an optional attribute for invoking `Knockdown` and `Forced Move` banes
+-   Clarify how hit points are tracked for `Polymorph` bane and `Shapeshift` boon
+-   `Polymorph` bane is fixed. Previously had variable and overpowered durations as well as being easily abused to transform the target into a form with all attribute scores being 0.
+-   `Banished` bane is removed. An effect so permanent should be part of the GM's discretion and a story choice rather than automatic and permanent exile from a successful roll (done at-will)
+-   `Shapeshift` now allows the target to keep their `Alteration` attribute score when they shift.
+-   `Shapeshift` is changed so that gaining access to the new forms extraordinary attributes happens at power level 7
+
+#### 2017 / 02 / 02
+-   `Summon Creature` no longer has a permanent option, creating permanent creatures is reserved as an effect for only the `Animation` boon.
+-   `Animation` boon now has the additional effect of automatically invoking the `Charmed` bane on a newly created creature.
+
 #### 2017 / 01 / 18
 -   `Armory Mastery` feat effect wording changed from Might to Fortitude to match recent armor changes.
 -   `Natural Defense` feat Fortitude prerequisites reduced for each tier from 2/3/5 to 0/1/2.

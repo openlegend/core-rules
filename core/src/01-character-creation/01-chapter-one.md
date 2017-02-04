@@ -105,7 +105,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Creation** | Channeling higher powers for healing, creation, resurrection, divine might, etc. |
+| **Creation** | Channeling higher powers for healing, creation, regeneration, divine might, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill supernatural fear, create illusory figments, cloak with invisibility |
@@ -159,11 +159,10 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Barbarian | Ranger | Monk |
 | - | - | - |
 | Agility 2 | Agility 5 | Agility 5 |
-| Fortitude 4 | Deception 2 | Fortitude 2 |
-| Might 5 | Perception 4 | Logic 1 |
-| Perception 3 | Will 3 | Perception 3 |
-| Will 3 | Influence 3 | Will 2 |
-| | | Movement 4 |
+| Fortitude 4 | Deception 2 | Fortitude 3 |
+| Might 5 | Perception 4 | Perception 3 |
+| Perception 3 | Will 3 | Will 2 |
+| Will 3 | Influence 3 | Movement 4 |
 
 <br>
 
@@ -511,7 +510,7 @@ You are well-known and respected as a protector of the common folk in a small re
 
 #### Lucky
 
-Once per game session, in a moment of need, you can call on luck shine to upon you. The GM decides what form this luck takes. For example, an attack that was meant for you might target an ally instead, you may discover a secret passage to escape from a rolling boulder, or a town guardsman decides to overlook your crime because you happen to have grown up on the same street.
+Once per game session, in a moment of need, you can call on luck to shine upon you. The GM decides what form this luck takes. For example, an attack that was meant for you might target an ally instead, you may discover a secret passage to escape from a rolling boulder, or a town guardsman decides to overlook your crime because you happen to have grown up on the same street.
 
 #### Merchant
 
@@ -714,7 +713,7 @@ With your character created, you are all ready to start playing *Open Legend*. W
 
 ### Relax
 
-*Open Legend *gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your life depends on it and have fun. If you’re playing a dwarf, maybe pull out your best Scottish accent. If your character’s a witch, squint your eyes and speak in riddles. If you’re no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party’s escapades, and so on.
+*Open Legend* gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your life depends on it and have fun. If you’re playing a dwarf, maybe pull out your best Scottish accent. If your character’s a witch, squint your eyes and speak in riddles. If you’re no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party’s escapades, and so on.
 
 ### Respect the GM
 
