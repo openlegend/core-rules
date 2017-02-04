@@ -554,15 +554,15 @@
   description: |
     A target's physical structure is temporarily altered, allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
   effect: |
-    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this feat is limited to your level or 5, whichever is higher. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form. Limitations are applied starting at Power Level 2 and are gradually removed at higher power levels:
+    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this boon is limited to your level or 5, whichever is higher. All of the target's existing extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form. Limitations are applied starting at Power Level 2 and are gradually removed at higher power levels:
     <ul>
     <li><strong>Power Level 2</strong> - The new form cannot be a different size than that of the target. It must possess similar physiology to the target, so humanoids and animals are both mammals and therefore can be shifted between. However animals, dragons, plants, elementals, and oozes all have different physiologies, so they cannot be shifted between. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form (hence, they cannot inflict banes that rely on the creature's extraordinary attributes).</li>
     <li><strong>Power Level 3</strong> - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.</li>
     <li><strong>Power Level 4</strong> - Shapeshift into a creature between one quarter and quadruple the target's original size. </li>
     <li><strong>Power Level 5</strong> - Gain the flying movement mode of the new form, if applicable.</li>
     <li><strong>Power Level 6</strong> - Shapeshift into a living creature of a different physiology, such as an elemental, ooze, or a plant.</li>
-    <li><strong>Power Level 7</strong> - Gain all extraordinary attributes possessed by the new form. If both forms have an Alteration attribute, the target chooses between the two scores.</li>
     <li><strong>Power Level 8</strong> - Shapeshift into a creature of any size. </li>
+    <li><strong>Power Level 9</strong> - Gain all extraordinary attributes possessed by the target.</li>
     </ul>
   special: |
     Shapeshifting into a specific creature (attempting to impersonate them) requires a Deception action roll which is opposed by Perception attribute of anyone who sees the shapeshifted creature. In addition, at power levels 4 and lower, the target does not gain mastery over any special movement modes granted by the new form. As such, the movement speed is cut in half for movement modes not native to the original form, and the GM may rule that certain actions, such as swimming in combat, suffer disadvantage on relevant action rolls.
