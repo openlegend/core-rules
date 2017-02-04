@@ -13,6 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 02 / 03
+-   Clarify that boons don't stack
 -   Renamed `Burst` weapon property to `Area` and significantly changed how it works. These weapons always make attacks in their listed size and shape areas, and suffer no penalties for doing so
 -   Add `Agility` as an optional attribute for invoking `Knockdown` and `Forced Move` banes
 -   Clarify how hit points are tracked for `Polymorph` bane and `Shapeshift` boon
