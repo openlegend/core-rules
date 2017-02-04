@@ -258,6 +258,7 @@
   - Might
   - Movement
   attack:
+  - Agility vs. Guard
   - Energy vs. Guard
   - Might vs. Guard
   - Movement vs. Guard
@@ -343,6 +344,7 @@
   - Energy
   - Might
   attack:
+  - Agility vs. Guard
   - Energy vs. Guard
   - Might vs. Guard
   invocationTime: 1 Major Action
