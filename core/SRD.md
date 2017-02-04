@@ -3349,13 +3349,13 @@ target. If the target is transformed into a different creature, it uses
 the Might, Agility, Fortitude, and Perception attribute scores of the
 new creature.
 
--   **Power Level 5** - Polymorph a creature into another creature of the same size and 50% greater OR lesser weight. The duration is 1 hour per Alteration attribute point.
+-   **Power Level 5** - Polymorph a creature into another creature of the same size. This new form can reduce the target's attribute scores by up to 2. If the new form would have higher attributes, the target becomes an exceptional version of that creature. For example, transforming a deadly sniper with Agility 5 into a clumsy ogre with Agility 0, would leave the target with an Agility of 3 instead of the 0 typical for the new form.
 
--   **Power Level 6** - Polymorph a creature into another creature double or half the size. The duration is 1 hour per Alteration attribute point.
+-   **Power Level 6** - Polymorph a creature into another creature between double and half the size. The new form can reduce the target's attribute scores by up to 3.
 
--   **Power Level 8** - Polymorph a creature into another creature to quadruple or one-quarter its original size. Alternatively, transform the target into an object of its original size. The duration is 1 hour per Alteration attribute point.
+-   **Power Level 8** - Polymorph a creature into another creature between quadruple and one-quarter its original size. Alternatively, transform the target into an object of its original size. The new form can reduce the target's attribute scores by up to 5.
 
--   **Power Level 9** - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The duration is permanent.
+-   **Power Level 9** - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The new form can reduce the target's attribute scores by up to 7.
 
 ## Provoked
 
