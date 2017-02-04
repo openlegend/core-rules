@@ -2693,30 +2693,6 @@ Each bane description includes the following elements.
 Below is a complete list of banes available to any character that meets the Power Level prerequisite.
 
 
-## Banished
-
-**Duration:** Instantaneous (special) \newline
-\
-**Power Level:** 6 \newline
-\
-**Attack Attributes:** Protection
-\
-**Attack:**
-
--   Protection vs. Resolve
-
-**Description:** Wielding protective magic, you force an extraplanar creature to return
-to its home plane. \newline
-
-**Effect:** The creature is forced to return to its home plane. More powerful
-extraplanar beings may have ways of circumventing this banishment.
-However, typical non-legendary beings cannot. While the duration is
-instantaneous, the targeted creature cannot simply attempt to return by
-plane shifting immediately after being banished. The creature can
-attempt a Resist roll once per week to end the banishment and once again
-be capable of plane shifting to the plane they were previously banished
-from.
-
 ## Blinded
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
@@ -4261,15 +4237,12 @@ exotic. Common examples of shapeshifting include lyncanthropes (such as
 werewolves), dryads, dopplegangers, and certain types of druids. \newline
 
 **Effect:** You or a willing creature you touch transform into a creature whose
-highest attribute is less than or equal to your
-Alteration score. Your Alteration score for the
- purpose of this feat is limited to your level
- or 5, whichever is higher.
-All of the target's existing extraordinary
- attribute scores drop to zero, and
-they acquire the Agility, Fortitude, Might, and Perception attributes of
-the new form. The following limitations apply at Power Level 2, and are
-gradually removed at higher power levels:
+highest attribute is less than or equal to your Alteration score. Your Alteration
+score for the purpose of this feat is limited to your level or 5, whichever is higher.
+With the exception of Alteration, all of the target's extraordinary attribute scores
+drop to zero, and they acquire the Agility, Fortitude, Might, and Perception
+attributes of the new form. Limitations are applied starting at Power Level 2
+and are gradually removed at higher power levels:
 
 -   The new form cannot be a different size than that of the target.
 -   The new form must possess a typical humanoid or animal physiology. Animal-like creatures, such as dragons, are allowed, but plants, elementals, oozes, and similar forms are not.
@@ -4282,8 +4255,9 @@ These limitations are removed based on the Power Level of the boon.
 -   **Power Level 4** - Shapeshift into a creature between one quarter and quadruple the target's original size.
 -   **Power Level 5** - Gain the flying movement mode of the new form, if applicable.
 -   **Power Level 6** - Shapeshift into a living creature that lacks a typical physiology, such as an elemental, ooze, or a plant.
+-   **Power Level 7** - Gain all extraordinary attributes possessed by the target. If both forms have an Alteration attribute, the target chooses between the two scores.
 -   **Power Level 8** - Shapeshift into a creature of any size.
--   **Power Level 9** - Gain all extraordinary attributes possessed by the target.
+
 
 **Special:** Shapeshifting into a specific creature (attempting to
 impersonate them) requires a Deception action roll which is opposed by
