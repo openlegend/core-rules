@@ -41,7 +41,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >
 >> Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
->> Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d10), and gets a 25.
+>> Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
 >>
 >> The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
 >

@@ -159,11 +159,10 @@ In the Archetype Attribute Builds table, several common fantasy archetypes are l
 | Barbarian | Ranger | Monk |
 | - | - | - |
 | Agility 2 | Agility 5 | Agility 5 |
-| Fortitude 4 | Deception 2 | Fortitude 2 |
-| Might 5 | Perception 4 | Logic 1 |
-| Perception 3 | Will 3 | Perception 3 |
-| Will 3 | Influence 3 | Will 2 |
-| | | Movement 4 |
+| Fortitude 4 | Deception 2 | Fortitude 3 |
+| Might 5 | Perception 4 | Perception 3 |
+| Perception 3 | Will 3 | Will 2 |
+| Will 3 | Influence 3 | Movement 4 |
 
 <br>
 

@@ -788,7 +788,7 @@ During your adventurers, the GM will award you Experience Points (or XP) for acc
 
 Each feat description includes the following elements.
 
-**Title.** The name of the feat. Some feats contain multiple tiers, rising in power with each new tier. If a feat contains multiple tiers, these will be indicated in parentheses after the title (e.g., “Alternate Form (I - III)” ).
+**Title.** The name of the feat. Some feats contain multiple tiers, rising in power with each new tier. If a feat contains multiple tiers, these will be indicated in parentheses after the title (e.g., “Alternate Form (I - II)” ).
 
 **Cost.** This is the number of feat points required to purchase the feat. If the feat has multiple tiers, the cost is the same for each tier and must be paid every time the feat is purchased at a new tier *unless otherwise noted in the feat description*.
 
