@@ -2,15 +2,11 @@
   name: Alternate Form (I - II)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - No Prerequisite
   cost:
@@ -34,30 +30,20 @@
   name: Area Manipulation (I - V)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier4:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier5:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - No Prerequisite
   - Extraordinary
@@ -71,15 +57,11 @@
   name: Armor Mastery (I - II)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - No Prerequisite
   cost:
@@ -96,9 +78,8 @@
   name: Attack Redirection
   prerequisites:
     tier1:
-      all:
-        Feat:
-        - Defensive Reflexes II
+      Feat:
+      - Defensive Reflexes II
   tags:
   - Extraordinary
   cost:
@@ -111,68 +92,59 @@
   name: Attack Specialization (I - IX)
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 1
-          - Might: 1
-          - Any Extraordinary: 1
+        - Agility: 1
+        - Might: 1
+        - Any Extraordinary: 1
     tier2:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 2
-          - Might: 2
-          - Any Extraordinary: 2
+        - Agility: 2
+        - Might: 2
+        - Any Extraordinary: 2
     tier3:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 3
-          - Might: 3
-          - Any Extraordinary: 3
+        - Agility: 3
+        - Might: 3
+        - Any Extraordinary: 3
     tier4:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 4
-          - Might: 4
-          - Any Extraordinary: 4
+        - Agility: 4
+        - Might: 4
+        - Any Extraordinary: 4
     tier5:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Might: 5
-          - Any Extraordinary: 5
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
     tier6:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 6
-          - Might: 6
-          - Any Extraordinary: 6
+        - Agility: 6
+        - Might: 6
+        - Any Extraordinary: 6
     tier7:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 7
-          - Might: 7
-          - Any Extraordinary: 7
+        - Agility: 7
+        - Might: 7
+        - Any Extraordinary: 7
     tier8:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 8
-          - Might: 8
-          - Any Extraordinary: 8
+        - Agility: 8
+        - Might: 8
+        - Any Extraordinary: 8
     tier9:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 9
-          - Might: 9
-          - Any Extraordinary: 9
+        - Agility: 9
+        - Might: 9
+        - Any Extraordinary: 9
   tags:
   - Passive
   - Weapon
@@ -191,15 +163,11 @@
   name: Attribute Substitution (I - II)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Any Attribute
   cost:
@@ -229,10 +197,8 @@
   name: Bane Focus
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          -  Ability to invoke the chosen bane
+      Other:
+      -  Ability to invoke the chosen bane
   tags:
   - Might
   - Passive
@@ -248,11 +214,10 @@
   name: Battle Trance
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Fortitude: 3
-          - Will: 3
+        - Fortitude: 3
+        - Will: 3
   tags:
   cost:
   - 3
@@ -264,12 +229,11 @@
   name: Battlefield Defender
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 4
-          - Might: 4
-          - Protection: 4
+        - Agility: 4
+        - Might: 4
+        - Protection: 4
   tags:
   - Might
   - Agility
@@ -286,13 +250,10 @@
   name: Battlefield Punisher - Knockdown
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Might: 5
-        Feat:
-          all:
-          - Battlefield Defender
+      Attribute:
+      - Might: 5
+      Feat:
+      - Battlefield Defender
   tags:
   - Might
   - Passive
@@ -308,14 +269,12 @@
   name: Battlefield Punisher - Slowed
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Might: 5
-        Feat:
-          all:
-          - Battlefield Defender
+        - Agility: 5
+        - Might: 5
+      Feat:
+      - Battlefield Defender
   tags:
   - Might
   - Agility
@@ -332,14 +291,12 @@
   name: Battlefield Punisher - Stunned
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 7
-          - Might: 7
-        Feat:
-          all:
-          - Battlefield Defender
+        - Agility: 7
+        - Might: 7
+      Feat:
+      - Battlefield Defender
   tags:
   - Might
   - Agility
@@ -356,50 +313,40 @@
   name: Battlefield Sentinel (I - V)
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Might: 5
-        Feat:
-          all:
-          - Battlefield Defender
+        - Agility: 5
+        - Might: 5
+      Feat:
+      - Battlefield Defender
     tier2:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Might: 5
-        Feat:
-          all:
-          - Battlefield Defender
+        - Agility: 5
+        - Might: 5
+      Feat:
+      - Battlefield Defender
     tier3:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Might: 5
-        Feat:
-          all:
-          - Battlefield Defender
+        - Agility: 5
+        - Might: 5
+      Feat:
+      - Battlefield Defender
     tier4:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Might: 5
-        Feat:
-          all:
-          - Battlefield Defender
+        - Agility: 5
+        - Might: 5
+      Feat:
+      - Battlefield Defender
     tier5:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Might: 5
-        Feat:
-          all:
-          - Battlefield Defender
+        - Agility: 5
+        - Might: 5
+      Feat:
+      - Battlefield Defender
   tags:
   - Might
   - Agility
@@ -416,10 +363,8 @@
   name: Boon Access
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Extraordinary
   cost:
@@ -444,20 +389,14 @@
   name: Boon Focus (I - III)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - Ability to invoke the chosen boon
+      Other:
+      - Ability to invoke the chosen boon
     tier2:
-      all:
-        Other:
-          all:
-          - Ability to invoke the chosen boon
+      Other:
+      - Ability to invoke the chosen boon
     tier3:
-      all:
-        Other:
-          all:
-          - Ability to invoke the chosen boon
+      Other:
+      - Ability to invoke the chosen boon
   tags:
   - Extraordinary
   - Passive
@@ -481,15 +420,11 @@
   name: Breakfall (I - II)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 4
+      Attribute:
+      - Agility: 4
     tier2:
-      all:
-        Attribute:
-          all:
-          - Agility: 4
+      Attribute:
+      - Agility: 4
   tags:
   cost:
   - 2
@@ -504,10 +439,8 @@
   name: Brutal Intimidation
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Might: 2
+      Attribute:
+      - Might: 2
   tags:
   - Non-Combat
   cost:
@@ -520,10 +453,8 @@
   name: Climbing
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Non-Combat
   cost:
@@ -536,10 +467,8 @@
   name: Combat Follow-through
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Combat
   cost:
@@ -554,10 +483,8 @@
   name: Combat Momentum
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Combat
   cost:
@@ -572,20 +499,14 @@
   name: Companion (I - III)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Non-Combat
   cost:
@@ -609,19 +530,15 @@
     tier1:
       any:
         Attribute:
-          all:
-          - Learning: 3
+        - Learning: 3
         Feat:
-          all:
-          - Knowledge I
+        - Knowledge I
     tier2:
       any:
         Attribute:
-          all:
-          - Learning: 3
+        - Learning: 3
         Feat:
-          all:
-          - Knowledge I
+        - Knowledge I
   tags:
   - Non-Combat
   cost:
@@ -649,23 +566,20 @@
   name: Craft Beneficial or Baleful Item (I - III)
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Any Extraordinary: 5
-          - Learning: 5
+        - Any Extraordinary: 5
+        - Learning: 5
     tier2:
-      all:
+      any:
         Attribute:
-          any:
-          - Any Extraordinary: 5
-          - Learning: 5
+        - Any Extraordinary: 5
+        - Learning: 5
     tier3:
-      all:
+      any:
         Attribute:
-          any:
-          - Any Extraordinary: 5
-          - Learning: 5
+        - Any Extraordinary: 5
+        - Learning: 5
   tags:
   - Extraordinary
   - Non-Combat
@@ -707,13 +621,10 @@
   name: Crushing Blow
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Might: 6
-        Feat:
-          all:
-          - Overpowering Strike
+      Attribute:
+      - Might: 6
+      Feat:
+      - Overpowering Strike
   tags:
   - Physical
   - Combat
@@ -729,29 +640,20 @@
   name: Death Blow (I - III)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 6
-        Feat:
-          all:
-          - Lethal Strike I
+      Attribute:
+      - Agility: 6
+      Feat:
+      - Lethal Strike I
     tier2:
-      all:
-        Attribute:
-          all:
-          - Agility: 7
-        Feat:
-          all:
-          - Lethal Strike III
+      Attribute:
+      - Agility: 7
+      Feat:
+      - Lethal Strike III
     tier3:
-      all:
-        Attribute:
-          all:
-          - Agility: 8
-        Feat:
-          all:
-          - Lethal Strike VI
+      Attribute:
+      - Agility: 8
+      Feat:
+      - Lethal Strike VI
   tags:
   - Combat
   - Physical
@@ -769,13 +671,10 @@
   name: Deathless Trance
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Fortitude: 7
-        Feat:
-          all:
-          - Battle Trance
+      Attribute:
+      - Fortitude: 7
+      Feat:
+      - Battle Trance
   tags:
   - Extraordinary
   cost:
@@ -788,10 +687,8 @@
   name: Defensive Mastery
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Combat
   cost:
@@ -804,50 +701,32 @@
   name: Defensive Reflexes (I - IX)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier2:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier3:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier4:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier5:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier6:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier7:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier8:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier9:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
   tags:
   - Agility
   - Extraordinary
@@ -861,13 +740,10 @@
   name: Destructive Trance
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Might: 7
-        Feat:
-          all:
-          - Battle Trance
+      Attribute:
+      - Might: 7
+      Feat:
+      - Battle Trance
   tags:
   - Extraordinary
   - Might
@@ -881,11 +757,10 @@
   name: Diehard
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Presence: 3
-          - Fortitude: 3
+        - Presence: 3
+        - Fortitude: 3
   tags:
   - Social
   - Combat
@@ -899,11 +774,10 @@
   name: Disease Immunity
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Creation: 5
-          - Protection: 5
+        - Creation: 5
+        - Protection: 5
   tags:
   - Non-Combat
   cost:
@@ -916,25 +790,17 @@
   name: Energy Resistance (I - IV)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier4:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Extraordinary
   cost:
@@ -953,10 +819,8 @@
   name: Evasive Footwork
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 4
+      Attribute:
+      - Agility: 4
   tags:
   - Agility
   cost:
@@ -969,26 +833,23 @@
   name: Extraordinary Defense (I - III)
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Movement: 2
-          - Prescience: 2
-          - Protection: 2
+        - Movement: 2
+        - Prescience: 2
+        - Protection: 2
     tier2:
-      all:
+      any:
         Attribute:
-          any:
-          - Movement: 3
-          - Prescience: 3
-          - Protection: 3
+        - Movement: 3
+        - Prescience: 3
+        - Protection: 3
     tier3:
-      all:
+      any:
         Attribute:
-          any:
-          - Movement: 4
-          - Prescience: 4
-          - Protection: 4
+        - Movement: 4
+        - Prescience: 4
+        - Protection: 4
   tags:
   - Extraordinary
   - Defense
@@ -1002,10 +863,8 @@
   name: Extraordinary Focus
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Any Extraordinary: 1
+      Attribute:
+      - Any Extraordinary: 1
   tags:
   - Extraordinary
   cost:
@@ -1020,10 +879,8 @@
   name: Extraordinary Healing
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Creation: 5
+      Attribute:
+      - Creation: 5
   tags:
   - Extraordinary
   - Creation
@@ -1037,10 +894,8 @@
   name: Fast Draw
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 1
+      Attribute:
+      - Agility: 1
   tags:
   - Combat
   - Agility
@@ -1054,11 +909,9 @@
   name: Fast Tracker
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 5
-          - Perception: 5
+      Attribute:
+      - Agility: 5
+      - Perception: 5
   tags:
   - Extraordinary
   - Agility
@@ -1073,20 +926,14 @@
   name: Ferocious Minions (I - III)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Influence: 3
+      Attribute:
+      - Influence: 3
     tier2:
-      all:
-        Attribute:
-          all:
-          - Influence: 5
+      Attribute:
+      - Influence: 5
     tier3:
-      all:
-        Attribute:
-          all:
-          - Influence: 7
+      Attribute:
+      - Influence: 7
   tags:
   - Extraordinary
   - Influence
@@ -1100,26 +947,23 @@
   name: Fleet of Foot (I - III)
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 4
-          - Fortitude: 4
-          - Movement: 2
+        - Agility: 4
+        - Fortitude: 4
+        - Movement: 2
     tier2:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Fortitude: 5
-          - Movement: 4
+        - Agility: 5
+        - Fortitude: 5
+        - Movement: 4
     tier3:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 7
-          - Fortitude: 7
-          - Movement: 6
+        - Agility: 7
+        - Fortitude: 7
+        - Movement: 6
   tags:
   - Extraordinary
   - Agility
@@ -1135,10 +979,8 @@
   name: Flying
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Non-Combat
   cost:
@@ -1151,23 +993,20 @@
   name: Great Leap (I - III)
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Movement: 2
-          - Agility: 2
+        - Movement: 2
+        - Agility: 2
     tier2:
-      all:
+      any:
         Attribute:
-          any:
-          - Movement: 4
-          - Agility: 4
+        - Movement: 4
+        - Agility: 4
     tier3:
-      all:
+      any:
         Attribute:
-          any:
-          - Movement: 6
-          - Agility: 6
+        - Movement: 6
+        - Agility: 6
   tags:
   - Extraordinary
   - Physical
@@ -1185,10 +1024,8 @@
   name: Hallucination
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Influence: 5
+      Attribute:
+      - Influence: 5
   tags:
   - Extraordinary
   - Non-Combat
@@ -1203,13 +1040,10 @@
   name: Hallucination - Mass
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Influence: 7
-        Feat:
-          all:
-          - Hallucination
+      Attribute:
+      - Influence: 7
+      Feat:
+      - Hallucination
   tags:
   - Extraordinary
   - Non-Combat
@@ -1229,12 +1063,11 @@
   name: Hospitaler
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Creation: 4
-          - Presence: 4
-          - Protection: 4
+        - Creation: 4
+        - Presence: 4
+        - Protection: 4
   tags:
   - Non-Combat
   - Extraordinary
@@ -1252,50 +1085,32 @@
   name: Hunter's Foe (I - IX)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier4:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier5:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier6:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier7:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier8:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier9:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Non-Combat
   - Combat
@@ -1309,13 +1124,10 @@
   name: Impervious Trance
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Will: 7
-        Feat:
-          all:
-          - Battle Trance
+      Attribute:
+      - Will: 7
+      Feat:
+      - Battle Trance
   tags:
   - Combat
   cost:
@@ -1328,35 +1140,30 @@
   name: Indomitable Endurance (I - V)
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Fortitude: 5
-          - Will: 5
+        - Fortitude: 5
+        - Will: 5
     tier2:
-      all:
+      any:
         Attribute:
-          any:
-          - Fortitude: 5
-          - Will: 5
+        - Fortitude: 5
+        - Will: 5
     tier3:
-      all:
+      any:
         Attribute:
-          any:
-          - Fortitude: 5
-          - Will: 5
+        - Fortitude: 5
+        - Will: 5
     tier4:
-      all:
+      any:
         Attribute:
-          any:
-          - Fortitude: 5
-          - Will: 5
+        - Fortitude: 5
+        - Will: 5
     tier5:
-      all:
+      any:
         Attribute:
-          any:
-          - Fortitude: 5
-          - Will: 5
+        - Fortitude: 5
+        - Will: 5
   tags:
   - Physical
   cost:
@@ -1369,20 +1176,14 @@
   name: Inspiring Champion (I - III)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Presence: 4
+      Attribute:
+      - Presence: 4
     tier2:
-      all:
-        Attribute:
-          all:
-          - Presence: 5
+      Attribute:
+      - Presence: 5
     tier3:
-      all:
-        Attribute:
-          all:
-          - Presence: 6
+      Attribute:
+      - Presence: 6
   tags:
   - Social
   - Combat
@@ -1402,20 +1203,14 @@
   name: Knowledge (I - III)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - No Prerequisite
   - Extraordinary
@@ -1436,50 +1231,32 @@
   name: Lethal Strike (I - IX)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 1
+      Attribute:
+      - Agility: 1
     tier2:
-      all:
-        Attribute:
-          all:
-          - Agility: 2
+      Attribute:
+      - Agility: 2
     tier3:
-      all:
-        Attribute:
-          all:
-          - Agility: 3
+      Attribute:
+      - Agility: 3
     tier4:
-      all:
-        Attribute:
-          all:
-          - Agility: 4
+      Attribute:
+      - Agility: 4
     tier5:
-      all:
-        Attribute:
-          all:
-          - Agility: 5
+      Attribute:
+      - Agility: 5
     tier6:
-      all:
-        Attribute:
-          all:
-          - Agility: 6
+      Attribute:
+      - Agility: 6
     tier7:
-      all:
-        Attribute:
-          all:
-          - Agility: 7
+      Attribute:
+      - Agility: 7
     tier8:
-      all:
-        Attribute:
-          all:
-          - Agility: 8
+      Attribute:
+      - Agility: 8
     tier9:
-      all:
-        Attribute:
-          all:
-          - Agility: 9
+      Attribute:
+      - Agility: 9
   tags:
   - Extraordinary
   - Agility
@@ -1510,35 +1287,30 @@
   name: Lightning Reflexes (I - V)
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 2
-          - Prescience: 2
+        - Agility: 2
+        - Prescience: 2
     tier2:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 3
-          - Prescience: 3
+        - Agility: 3
+        - Prescience: 3
     tier3:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 4
-          - Prescience: 4
+        - Agility: 4
+        - Prescience: 4
     tier4:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 5
-          - Prescience: 5
+        - Agility: 5
+        - Prescience: 5
     tier5:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 6
-          - Prescience: 6
+        - Agility: 6
+        - Prescience: 6
   tags:
   - Physical
   - Extraordinary
@@ -1554,20 +1326,14 @@
   name: Marksman (I - III)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 5
+      Attribute:
+      - Agility: 5
     tier2:
-      all:
-        Attribute:
-          all:
-          - Agility: 5
+      Attribute:
+      - Agility: 5
     tier3:
-      all:
-        Attribute:
-          all:
-          - Agility: 5
+      Attribute:
+      - Agility: 5
   tags:
   - Combat
   cost:
@@ -1580,11 +1346,10 @@
   name: Martial Focus
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Agility: 1
-          - Might: 1
+        - Agility: 1
+        - Might: 1
   tags:
   - Combat
   - Physical
@@ -1598,10 +1363,8 @@
   name: Master Tracker
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Perception: 4
+      Attribute:
+      - Perception: 4
   tags:
   - Non-Combat
   - Mental
@@ -1616,11 +1379,9 @@
   name: Mimic
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Alteration: 4
-          - Deception: 3
+      Attribute:
+      - Alteration: 4
+      - Deception: 3
   tags:
   - Extraordinary
   - Feat Chain
@@ -1635,35 +1396,23 @@
   name: Multi-Attack Specialist (I - VI)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier4:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier5:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier6:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Any Attribute
   cost:
@@ -1682,10 +1431,8 @@
   name: Multi-Bane Specialist
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - Able to inflict both banes (see description)
+      Other:
+      - Able to inflict both banes (see description)
   tags:
   - Bane
   - Combat
@@ -1701,30 +1448,20 @@
   name: Multi-Target Attack Specialist (I - V)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier4:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier5:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Any Attribute
   cost:
@@ -1737,11 +1474,9 @@
   name: Multi-Target Boon Expert
   prerequisites:
     tier1:
-      all:
-        Feat:
-          all:
-          - Boon Focus
-          - Multi-Target Boon Specialist II
+      Feat:
+      - Boon Focus
+      - Multi-Target Boon Specialist II
   tags:
   - Non-Combat
   - Any Attribute
@@ -1755,30 +1490,20 @@
   name: Multi-Target Boon Specialist (I - V)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier4:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier5:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Non-Combat
   - Extraordinary
@@ -1792,20 +1517,14 @@
   name: Natural Defense (I - III)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Attribute:
-          all:
-          - Fortitude: 1
+      Attribute:
+      - Fortitude: 1
     tier3:
-      all:
-        Attribute:
-          all:
-          - Fortitude: 2
+      Attribute:
+      - Fortitude: 2
   tags:
   - Combat
   - Physical
@@ -1826,10 +1545,8 @@
   name: Overpowering Strike
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Might: 4
+      Attribute:
+      - Might: 4
   tags:
   - Physical
   - Feat Chain
@@ -1844,10 +1561,8 @@
   name: Potent Bane
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - Ability to invoke the chosen bane
+      Other:
+      - Ability to invoke the chosen bane
   tags:
   - Bane
   - Combat
@@ -1861,13 +1576,10 @@
   name: Reactionary Trance
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Will: 5
-        Feat:
-          all:
-          - Battle Trance
+      Attribute:
+      - Will: 5
+      Feat:
+      - Battle Trance
   tags:
   - Combat
   - Mental
@@ -1883,10 +1595,8 @@
   name: Reckless Frenzy
   prerequisites:
     tier1:
-      all:
-        Feat:
-          all:
-          - Battle Trance
+      Feat:
+      - Battle Trance
   tags:
   - Combat
   cost:
@@ -1899,12 +1609,11 @@
   name: Resilient
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Fortitude: 3
-          - Presence: 3
-          - Will: 3
+        - Fortitude: 3
+        - Presence: 3
+        - Will: 3
   tags:
   - Mental
   - Physical
@@ -1919,20 +1628,14 @@
   name: Ritual Magic (I - III)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Any Extraordinary: 4
+      Attribute:
+      - Any Extraordinary: 4
     tier2:
-      all:
-        Attribute:
-          all:
-          - Any Extraordinary: 6
+      Attribute:
+      - Any Extraordinary: 6
     tier3:
-      all:
-        Attribute:
-          all:
-          - Any Extraordinary: 9
+      Attribute:
+      - Any Extraordinary: 9
   tags:
   - Extraordinary
   - Non-Combat
@@ -1983,10 +1686,8 @@
   name: Silencing Strike
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 4
+      Attribute:
+      - Agility: 4
   tags:
   - Agility
   - Physical
@@ -2000,30 +1701,20 @@
   name: Skill Specialization (I - V)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier4:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier5:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - No Prerequisite
   cost:
@@ -2038,20 +1729,14 @@
   name: Superior Concentration (I - III)
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier2:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
     tier3:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Extraordinary
   cost:
@@ -2064,10 +1749,8 @@
   name: Swimming
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Non-Combat
   cost:
@@ -2080,15 +1763,11 @@
   name: Tough as Nails (I - II)
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Fortitude: 3
+      Attribute:
+      - Fortitude: 3
     tier2:
-      all:
-        Attribute:
-          all:
-          - Fortitude: 5
+      Attribute:
+      - Fortitude: 5
   tags:
   - Defense
   - Physical
@@ -2103,14 +1782,11 @@
   name: Two Weapon Brute
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 4
-          - Might: 5
-        Feat:
-          all:
-          - Multi-Attack Specialist
+      Attribute:
+      - Agility: 4
+      - Might: 5
+      Feat:
+      - Multi-Attack Specialist
   tags:
   - Combat
   - Physical
@@ -2126,13 +1802,10 @@
   name: Two Weapon Defense
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Agility: 4
-        Feat:
-          all:
-          - Multi-Attack Specialist
+      Attribute:
+      - Agility: 4
+      Feat:
+      - Multi-Attack Specialist
   tags:
   - Combat
   - Physical
@@ -2147,10 +1820,8 @@
   name: Unending Charm
   prerequisites:
     tier1:
-      all:
-        Attribute:
-          all:
-          - Influence: 4
+      Attribute:
+      - Influence: 4
   tags:
   - Extraordinary
   - Non-Combat
@@ -2165,12 +1836,11 @@
   name: Untrackable
   prerequisites:
     tier1:
-      all:
+      any:
         Attribute:
-          any:
-          - Alteration: 3
-          - Influence: 3
-          - Protection: 3
+        - Alteration: 3
+        - Influence: 3
+        - Protection: 3
   tags:
   - Non-Combat
   - Protection
@@ -2186,10 +1856,8 @@
   name: Vicious Strike
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Combat
   cost:
@@ -2202,10 +1870,8 @@
   name: Wealthy
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Non-Combat
   cost:
@@ -2218,10 +1884,8 @@
   name: Well-Rounded
   prerequisites:
     tier1:
-      all:
-        Other:
-          all:
-          - None
+      Other:
+      - None
   tags:
   - Non-Combat
   cost:
