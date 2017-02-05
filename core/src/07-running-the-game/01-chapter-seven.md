@@ -10,13 +10,13 @@ Before we get into all of that good stuff, though, let's take a moment and explo
 
 **A good GM likes to tell a story.** If you spent hours as a child developing elaborate worlds in your backyard or writing tales of adventure, or even drawing epic scenes, then you're on the right track. Watching a story unfold based on your inspiration is perhaps one of the most enjoyable aspects of running a game.
 
-**A good GM doesn't railroad the players.** While it is important for you to be well prepared with your story (or skilled at improvisation), you also need to remember that the players should have a meaningful role in how the story unfolds. Players will feel like they are stuck on a railroad from which the can't escape, for example, if no matter what they do the princess still gets kidnapped, the city destroyed, or the ancient artifact stolen.
+**A good GM doesn't railroad the players.** While it is important for you to be well prepared with your story (or skilled at improvisation), you also need to remember that the players should have a meaningful role in how the story unfolds. Players will feel like they are stuck on a railroad from which the can't escape, for example, if no matter what they do the princess still gets kidnapped, the planet destroyed, or the ancient artifact stolen.
 
 **A good GM knows the rules.** As the game master, you may very well be the only one at the table who has read this rule book. That means you need to act as a teacher, director, and referee all at once. In particular, you should be prepared to know what each of the attributes can be used for, as well as the banes and boons that your players will be most likely to invoke.
 
 **A good GM doesn't let the rules slow the game down.** Even though the rules are important, they are never more important than the fun being had at the table. Especially when you are first getting started with Open Legend, you may be tempted to pause the game every ten minutes to check the rule book. Ignore that urge. Epic stories can be told with the core mechanic alone. For your first few sessions, do your best working from your memory and take note of anything that you need to check up on later. If disputes arise, designate one player to look up the rules while the rest of the game goes on.
 
-**A good GM knows when the players are having fun.** Being a game master is an important job. It's a lot like hosting a party. For 2 to 6 hours or so, you are the primary person responsible for entertaining a group of friends. So while you are running a game, it's a good idea to take a moment, look around the room, and ask yourself Is everyone here enjoying themselves?
+**A good GM knows when the players are having fun.** Being a game master is an important job. It's a lot like hosting a party. For 2 to 6 hours or so, you are the primary person responsible for entertaining a group of friends. So while you are running a game, it's a good idea to take a moment, look around the room, and ask yourself *Is everyone here enjoying themselves?*
 
 **A good GM doesn't think that everyone defines fun in the same way.** As you look around the room and gauge your table’s fun, it's also important to realize that each person may come to the game for different reasons. Some just like to slay evil, others to make tactical chess-like decisions, others to tell epic stories, and still others to take on the role of realistic characters and watch them grow. Some players aren't even all that into roleplaying games, but they love the social aspect of getting together. A good GM realizes that all of these play styles are acceptable. And, while you can't please everyone all of the time you can try to make sure that everyone is having fun at some point during your games.
 
@@ -40,15 +40,15 @@ The **danger** is the bad stuff that will happen if the players don't intervene:
 
 - *Five children have been kidnapped by a witch who plans to cook them in a stew by sundown.*
 
-- *The Librim Protectis has gone missing from the royal library, and in it are the words of a spell that can unwind the magics which defend the city.*
+- *The Librim Protectis has gone missing from her Majesty's University, and in it are the words of a ritual that can summon forth unfathomable evils from an alien dimension.*
 
-- *A host of orcs is sweeping the countryside, and the players’ village is next in their wake.*
+- *A fleet of Bogan Destroyers is sweeping the galaxy, and the players’ star system is next in their wake.*
 
 All of these examples provide a real threat that needs to be taken care of by real heroes.
 
-The **motivation** is the reason that the PCs are getting involved. Sometimes the danger and motivation are wrapped up in one, but imagine how much more invested the party would be in the above scenarios if one of the children was a nephew to a player, or if the Librim went missing on the party’s watch, or if the orc war chief had murdered one of their families.
+The **motivation** is the reason that the PCs are getting involved. Sometimes the danger and motivation are wrapped up in one, but imagine how much more invested the party would be in the above scenarios if one of the children was a nephew to a player, or if the Librim went missing on the party’s watch, or if the Bogan general had murdered one of their families.
 
-The **twist** in an adventure is a surprise that throws the party off course or upsets their well laid plans. Or, it could just be an exciting change of plot that makes the story deeper than the players assumed. Maybe the witch is actually the town mayor. What if the players find the Librim Protectis in the hands of a local merchant who swears they have no idea how it fell into their hands. And perhaps the night before the orcs are set to launch their attack, the village scouts discover that a band of gnolls are approaching from the other side of town.
+The **twist** in an adventure is a surprise that throws the party off course or upsets their well laid plans. Or, it could just be an exciting change of plot that makes the story deeper than the players assumed. Maybe the witch is actually the town mayor. What if the players find the Librim Protectis in the hands of a local book dealer who swears he has no idea how it fell into his hands. And perhaps the night before the Bogans are set to launch their attack, the planetary defense matrix uncovers a swarm of interdimensional space mites that have just phased into existence for no apparent reason.
 
 When planning an adventure, it’s usually fine to start with nothing more than a danger to overcome and a motivation to get the PCs invested. You can feel free to come up with a twist ahead of time, but some of the best plot twists occur as a natural result of the party’s actions.
 
@@ -56,7 +56,7 @@ Once you’ve got the starting pieces of your adventure sketched out, you can de
 
 ### The Sequential Adventure
 
-In this sort of quest, the GM plans out a logical sequence of encounters and scenes that the party will work their way through. These events could be location-based (such as exploring a series of chambers in the Ziggurat of Kings), or they could be time-based (such as negotiating a peace treaty with the barbarian tribes). An adventure often contains a healthy mix of both location- and time-based scenes, as in the example adventure sketched out below.
+In this sort of quest, the GM plans out a logical sequence of encounters and scenes that the party will work their way through. These events could be location-based (such as exploring a series of chambers in the Ziggurat of Kings), or they could be time-based (such as negotiating a peace treaty between two survivor outposts in the zombie apocalypse). An adventure often contains a healthy mix of both location- and time-based scenes, as in the example adventure sketched out below.
 
 > #### Sample Sequential Adventure Outline: The Kidnappings of Granny Maggot
 > **Danger:** The children of Woodshold are disappearing one-by-one! Unbeknownst to the town, they are being collected by an evil hag named Granny Maggot for a dark ritual to cast the village into a deep malaise.
@@ -131,14 +131,14 @@ More often than not, though, the players (and especially the GM) will want more 
 
 One of the best ways to keep a story interesting and keep yourself inspired is to create one or more big secrets that slowly unfold throughout the campaign. Consider the following examples of big campaign secrets:
 
-- *The wizardly patron who advises the party throughout the campaign is actually an imprisoned red dragon manipulating them to win his freedom.*
+- *The sagely university professor who advises the investigators throughout the campaign is actually an imprisoned interdimensional demon manipulating them to win his freedom.*
 
 - *The world is cast in an endless darkness, not because of an ancient curse as legends tell, but because human civilization was forced underground eons ago. No one has ever discovered the “roof” of the world, so they assume that the sun is dead.*
 
 - *A world tree is the source of the planet’s life. When it dies, the world will not die, but instead be reborn in a new form.
 Every intelligent being is tied to an invisible spirit. A very few sinister mages, known as the Warlocks, have discovered how to see and bargain with these spirits in order to manipulate the world to their advantage.*
 
-- *The queen who sits on the throne has a twin sister who was cast out and left for dead at birth because she was prophesied to lead the kingdom to ruin. The twin survived, raised by an evil sorceress, and she will soon return to claim the half of the realm that is her birthright.*
+- *The galactic empress who sits on the throne has a twin sister who was cast out and left for dead at birth because she was prophesied to lead the galaxy to ruin. The twin survived, raised by an evil alien entity, and she will soon return to claim the half of the empire that is her birthright.*
 
 The big secret is an ideal way to start planning your campaign because it will provide you with a common thread to weave every adventure together. Think of your favorite books, movies, or games if you are struggling to come up with a big secret.
 
@@ -242,9 +242,9 @@ If you or your players have a background with other game systems, in which they 
 
 Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it’s usually to serve the plot.
 
-So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it’s still not enough to increase their wealth score. If a player does legitimately need bolts or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
+So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it’s still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
 
-**Wealth represents influence.** Since players aren’t tracking individual gold pieces and gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can easily use money to influence someone else of a lower wealth score.
+**Wealth represents influence.** Since players aren’t tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can easily use money to influence someone else of a lower wealth score.
 
 If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can’t be acquired for two weeks. If the bribe recipient is **one wealth level higher** than the character’s Wealth Score, the cost is so great that the character’s Wealth Score is permanently reduced by 1. Bribing someone more than one Wealth level higher is impossible without other factors in play.
 
@@ -264,11 +264,11 @@ No campaign or adventure is complete without monsters for the heroes to defeat o
 
 ### Henchmen
 
-Henchman is a general term to describe any antagonist who simply exists as a small obstacle to the party’s short term plans. Examples of henchmen include a wandering band of orcs that waylays the party during their travels, a mindless ooze roaming the deep corners of a cavernous dungeon, and a team of assassins dispatched by the local thieves’ guild to put an end to the heroes’ meddling. While henchmen typically have realistic motives, their influence on the plot is small enough that you don’t need to spend as much energy to make your henchmen deep and convincing. The orcs are motivated by greed, the ooze by hunger, and the assassins by loyalty to their guild.
+Henchman is a general term to describe any antagonist who simply exists as a small obstacle to the party’s short term plans. Examples of henchmen include a wandering band of space pirates that waylays the party mid-flight, a mindless ooze roaming the deep corners of a cavernous dungeon, and a team of assassins dispatched by the local mob boss to put an end to the heroes’ meddling. While henchmen typically have realistic motives, their influence on the plot is small enough that you don’t need to spend as much energy to make your henchmen deep and convincing. The orcs are motivated by greed, the ooze by hunger, and the assassins by loyalty to their guild.
 
 ### Villains
 
-The villain of a plotline is the primary antagonist, and your players will likely deal with multiple villains throughout their careers. Examples include the necromancer who has taken up residence in the local graveyard, the demon who pulls the strings from behind the throne, and the bandit king who has united the ruffians of the realm under one banner. Unlike henchmen, your villains will require a good amount of thought to flesh out. To develop strong, convincing villains, consider the following elements.
+The villain of a plotline is the primary antagonist, and your players will likely deal with multiple villains throughout their careers. Examples include the necromancer who has taken up residence in the local graveyard, the sentient interdimensional cloud who pulls the strings from behind the galactic senate, and the bandit king who has united the ruffians of the realm under one banner. Unlike henchmen, your villains will require a good amount of thought to flesh out. To develop strong, convincing villains, consider the following elements.
 
 **Motive.** Every villain should have a realistic motive, or a reason for turning towards their villainous ways. Instead of deciding that your necromancer is simply evil, for example, consider making them fallen. Perhaps they turned to necromancy as a last resort to revive their beloved partner who was killed in a shipwreck.
 
@@ -292,11 +292,11 @@ Whatever sorts of allies the party has acquired, it’s important for the GM to 
 
 There are no hard and fast rules, however. If you find NPCs in your game frequently doing the above, then there's a good chance your players might become frustrated.
 
-But sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a powerful enemy mage controls the minds of a group of soldiers with the *Dominated* bane and commands them to attack the players. A powerful ally NPC might use Protection magic to call upon the *Restoration* boon to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn’t capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the *Dominated* soldiers and preventing them from killing anyone.
+But sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a powerful mad scientist uses a poisonous gas to control the minds of a group of soldiers and commands them to attack the players. A powerful ally NPC might use his medical knowledge to create an anti-toxin to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn’t capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the dominated soldiers and preventing them from harming anyone.
 
 The above example will likely be an intriguing scene enjoyed by all, because the ally NPC can’t prevail without the help of the players.
 
-**Allies can be used to grant knowledge.** In addition to providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader’s guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Ring of Worlds. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs’ hands.
+**Allies can be used to grant knowledge.** In addition to providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader’s guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Universe Portal. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs’ hands.
 
 **Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can’t fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place, and, by finding ways to demonstrate your NPCs’ imperfections, you'll further immerse your players in the fantasy.
 
@@ -406,7 +406,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 #### Boss Monsters and NPCs
 
-A Boss is a single monster or NPC that is capable of taking on a group of characters due to extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary swordsman, a dragon, or an orc warchief.
+A Boss is a single monster or NPC that is capable of taking on a group of characters due to extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
 
 When you decide that one of your monsters or NPCs merits boss status, use the Boss Monster Build Table to generate statistics in the same way you would if using the simple build rules described previously. You’ll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain’s hit points and defenses based on this table to better represent the appropriate strength of a boss.
 
