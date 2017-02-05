@@ -50,6 +50,27 @@
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control. As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
+  name: Deafened
+  tags:
+  - Extraordinary
+  - Physical
+  power:
+  - 5
+  attackAttributes:
+  - Agility
+  - Energy
+  - Entropy
+  attack:
+  - Agility vs. Guard
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
+  invocationTime: 1 Major Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    You deafen your foe with a clap of thunder, a deafening clap of hands to their ears, or a dark energy that disables their hearing.
+  effect: |
+    The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplementd by another sense suffer disadvantage 3.
+- !
   name: Death
   tags:
   - Extraordinary
@@ -616,7 +637,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Silence overcomes the target (whether from extroardinary of warping sound around the target) or from a physical effect like strangulation or suffocation.
+    Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation.
   effect: |
     If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5’ of the target is magically suppressed, making their footsteps and the usual clank of belongings they are carrying inaudible.
 - !

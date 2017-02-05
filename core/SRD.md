@@ -2772,6 +2772,28 @@ succeeds at a resist roll against this bane, they become to immune to
 all subsequent attempts by you to inflict the bane for the next 24
 hours.
 
+## Deafened
+
+**Duration:** Resist ends (Fail x 3 = 1 minute)
+\
+**Power Level:** 2
+\
+**Attack Attributes:** Agility, Energy, Entropy
+\
+**Attack:**
+
+-   Agility vs. Guard
+-   Energy vs. Guard
+-   Entropy vs. Toughness
+
+**Description:** You deafen your foe with a clap of thunder, a deafening clap of hands to their ears, or a dark energy that disables their hearing. \newline
+
+**Effect:** The target cannot hear as long as the effect persists. The target
+automatically fails any Perception rolls based solely on hearing. Perception rolls
+based partially on hearing that can be supplementd by another sense suffer
+disadvantage 3.
+
+
 ## Death
 
 **Duration:** Resist ends (special) (Fail x 3 = Permanent)
@@ -3478,8 +3500,8 @@ inducing nausea which makes any kind of action difficult. \newline
 -   Entropy vs. Toughness
 -   Might vs. Toughness
 
-**Description:** Silence overcomes the target (whether from extroardinary of warping
-sound around the target) or from a physical effect like strangulation or suffocation. \newline
+**Description:** Silence overcomes the target, whether from the warping of sound
+around the target, or from a physical effect like strangulation or suffocation.
 
 **Effect:** If Might, Agility, or Entropy is used to inflict this bane, then the
 character is suffering strangulation and unable to speak. If the bane is
