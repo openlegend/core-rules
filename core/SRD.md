@@ -2738,7 +2738,7 @@ Resolve: 17 |
 | Griffin | 4 | 0 | 50’ | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
 Guard: 19 \
 Resolve: 13 |
-| Horse | 3 | 0 | 40’ | | | Might 4 | | 28 | 1 | Toughness: 15 \
+| Horse | 3 | 0 | 40’ | | Might 4 | | 28 | 1 | Toughness: 15 \
 Guard: 15 \
 Resolve: 10 |
 | Mech Unit | 4 | 2 | 40’ | Guided Weapons | Energy 5 \
