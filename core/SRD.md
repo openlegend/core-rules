@@ -4372,7 +4372,7 @@ depends on your Prescience score.
 \
 **Invocation Time:** 1 Major Action
 \
-**Power Level:** 2, 3, 4, 5, 6, 8, 9
+**Power Level:** 2, 3, 4, 5, 6, 7, 8
 \
 **Attributes:** Alteration \newline
 
