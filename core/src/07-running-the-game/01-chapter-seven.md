@@ -502,3 +502,34 @@ Video games are balanced: they are designed to present players with incremental 
 Role playing games, on the other hand, aren’t meant to be balanced all of the time. They are meant to be immersive. They are meant to allow players to push the limits of possibility in fantastical worlds. This level of freedom means that sometimes the heroes will come face to face with threats that they cannot overcome.
 
 As a GM, you don’t need to have any anxiety over putting an impossible challenge before your party. But you do have to be fair about it. You are responsible for warning the party to the danger that lies ahead. It would be unfair, for example, to drop an ancient red wyrm upon an unsuspecting party of first level PCs with no option to escape. It would be perfectly fair, however, if the party encounters the dragon after exploring the ancient ruins that make his lair despite warnings from the locals and tremors that grow stronger with every step deeper into the ruins.
+
+### Ad Hoc Damage
+
+Sometimes in your encounters and adventures, you might have the party take damage from sources other than enemy attacks. For example, the party fails to scour an old battlefield and ends up setting off a chain of land mines. Or maybe someone gets knocked into a pool of lava while invading the red dragon's volcanic lair. Other common sources of ad hoc damage include falling, acid, and frostbite. 
+
+In situations like these, in which the damage dealt isn't tied to an attack roll targeting a specific defense, you can roll straight damage dice against the affected characters. Simply pick an appropriate severity level from the Ad Hoc Damage table and roll the dice indicated, calculating exploding dice as usual. You can use the descriptions in the table to help you choose a severity level, or you can use these rough guidelines:
+
+**Light Damage (Severity Level 1 - 4):** The damage is likely to be a minor nuisance, but not particularly threatening to the character.
+
+**Moderate Damage (Severity Level 5 - 7):** The damage is serious, but probably won't knock the character out of action.
+
+**Heavy Damage (Severity Level 8 - 9):** The damage is life threatening, and could easily knock a character out of action in the right circumstances.
+
+<div class="table-no-body"></div>
+| AD HOC DAMAGE |
+| - |
+| |
+
+| Severity Level | Damage | Examples |
+| :-:            |  :-:   | :-:      |
+| 1              | 1d4    | Falling 10', falling into a small campfire|
+| 2              | 1d6    | Falling 20', 24 hours exposure to extreme temperature|
+| 3              | 1d8    | Falling 30', spiked pit trap|
+| 4              | 1d10   | Falling 40', catching on fire|
+| 5              | 2d6    | Falling 50', a small cave-in|
+| 6              | 2d8    | Falling 60', a car crash|
+| 7              | 2d10   | Falling 70', falling into acid|
+| 8              | 3d8    | Falling 80', a plane crash|
+| 9              | 3d10   | Falling 90'+, falling into lava |
+
+The GM has the option to make any ad hoc damage *lethal damage*. Typically, this is the case with damage that occurs outside of combat, such as by a trap or environmental hazard.
