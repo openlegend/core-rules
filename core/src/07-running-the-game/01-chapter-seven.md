@@ -58,21 +58,22 @@ Once you’ve got the starting pieces of your adventure sketched out, you can de
 
 In this sort of quest, the GM plans out a logical sequence of encounters and scenes that the party will work their way through. These events could be location-based (such as exploring a series of chambers in the Ziggurat of Kings), or they could be time-based (such as negotiating a peace treaty between two survivor outposts in the zombie apocalypse). An adventure often contains a healthy mix of both location- and time-based scenes, as in the example adventure sketched out below.
 
-> #### Sample Sequential Adventure Outline: The Kidnappings of Granny Maggot
-> **Danger:** The children of Woodshold are disappearing one-by-one! Unbeknownst to the town, they are being collected by an evil hag named Granny Maggot for a dark ritual to cast the village into a deep malaise.
+> #### Sample Sequential Adventure Outline: The System is Down
+> **Danger:** A cyber attack has destabilized the life support system of the Iota One space station, leaving them with only 48 hours of emergency life support.
 >
-> **Motivation:** The first child to go missing is Wort, nephew to one of the PCs.
+> **Motivation:** The PCs are stationed on Iota One, and at least one of them has family there as well.
 >
 > **Events**
 >
-> 1. *Hunters hanging around the tavern complain that Hunter’s Hill has gone completely barren of wildlife (as a result of Granny’s malicious but unknown presence).*
+ >1. *The Iota’s cyber response team traces the source of the attack to a small crater of a nearby moon. The PCs are dispatched to investigate and eliminate the threat while the cyber team continues its attempt to thwart the attack electronically.*
+> 
+> 1. *The PCs discover a small outpost hidden within the crater. A battle with automated defense bots ensues, and the team discovers and shuts down the terminal originating the cyber attack.*
 >
-> 1. *A hunting party goes missing while exploring Hunter's Hill.
-Granny's lifeless scarecrows appear east of town after sunrise. The distraction caused to the town is the perfect opportunity for her to kidnap her first victim.*
->
-> 1. *The party investigates the scene of the kidnapping, learning that the kidnapper left virtually no physical trace. Consulting a loremaster or simply via their own knowledge, the party surmises that a hag is the culprit.*
->
-> 1. *Putting two and two together, the party investigates Hunter’s Hill and discovers Granny Maggot’s lair, carved out of a giant pumpkin in the deep of the wood. If they are successful in overcoming her minions and defeating the hag, the party may be able to free Wort.*
+> 1. *Returning to the Iota, the PCs learn troubling information from an ensign on the cyber response team: During the life support hub-bub, a separate hack occurred in which the location of the Alliance’s secret weapon facilities was leaked. Investigation reveals that the data was taken internally, and that it hasn’t left the Iota yet.*
+> 
+> 1. *The PCs discover that the hack came from Commander Zap’s terminal, but they don’t have enough evidence to confront him outright.*
+> 
+> 1. *Tailing Zap for a few days, they learn that he has taken a transport craft to the nearby planet Dagaan. They follow him to a secret meeting with several enemy Bogans, and a battle erupts as the PCs attempt to stop the sensitive data from entering enemy hands.*
 
 To develop a sequential adventure, you just have to plot out the most logical sequence of events that will occur based on the party’s actions. Start with a simple list like the one above. It’s best not to get too specific, lest you fall into the trap of forcing the PCs into a single direction. Instead, leave your plan loose enough to redirect it according to how your players interact with the world. For example, what if the party never puts two and two together during their investigations in event 4 above? Maybe then a second child is kidnapped a few days later, but this time there is a witness who catches a glimpse of the hag.
 
@@ -148,17 +149,17 @@ Once you have your secret (or secrets) sketched out, you can begin to divide the
 
 > #### Sample Campaign Outline
 >
-> **Secret:** The wizardly patron, Magus, who advises the party throughout the campaign is actually an imprisoned red dragon manipulating them to win his freedom.
->
+> **Secret:** The sagely university professor, Dr. Livingston, who advises the investigators throughout the campaign is actually an imprisoned interdimensional demon manipulating them to win his freedom.
+> 
 > **Campaign Arcs**
+> 
+> - **Part 1:** The investigators befriend Dr. Livingston while conducting research on a string of ritualistic murders that have taken place throughout London.
 >
-> **Part 1:** The party discovers Magus while exploring the Ruins of Excelsius.
+> - **Part 2:** The PCs assist Dr. Livingston in recovering several artifacts of power scattered throughout the countryside.
 >
-> **Part 2:** The party assists Magus in recovering several items of power throughout the realm.
+> - **Part 3:** The investigators accidentally free the doctor. He reveals his true form and begins laying waste to London. The PCs work to gather the components for a ritual to banish the demon from the Earth.
 >
-> **Part 3:** The party accidentally frees Magus. He reveals his true form and begins laying waste to the realm. The PCs work to gather allies to combat the army of giants the dragon is acquiring.
->
-> **Part 4:** A final war erupts between Magus’s giants and the alliance of good. The party hunts Magus down to his volcanic lair.
+> - **Part 4:** The PCs hunt Livingston down to his subterranean lair and attempt to complete the ritual.
 
 Like most of the steps laid out in this guide to GMing, your campaign arcs should be planned relatively loosely to allow for players to shape the story by their own actions.
 
