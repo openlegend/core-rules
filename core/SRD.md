@@ -2705,13 +2705,15 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 #### Properties
 
-**FTL (Faster than Light)** - The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.
+**Faster than Light** - The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.
 
 **Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target an opponent’s Guard defense.
 
 **Multi-Pilot** - The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.
 
 **Independent** - A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.
+
+**Targeted Weapons** - A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.
 
 
 \NextTableColumns{OLT{.10}OLT{.10}OLT{.10}OLT{.10}OLT{.10}OLT{.10}OLT{.10}OLT{.10}OLT{.10}OLT{.10}}
@@ -2722,19 +2724,19 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 | :----- | :-: | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
 | All-Terrain Jeep | 2 | 1 | 80’ | | Agility 4 | | 20 | 2 | Toughness: 14 \
 Guard: 14 \
-Resolve: 12 |
-| Battle Cruiser | 9 | 3 | 1,000’ | FTL, Guided Weapons, Independent 2 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
+Resolve: Immune |
+| Battle Cruiser | 9 | 3 | 1,000’ | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
 Guard: 25 \
-Resolve: 20 |
+Resolve: Immune |
 | Drake | 5 | 0 | 50’ | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
 Guard: 20 \
 Resolve: 15 |
-| Fighter Ship | 5 | 3 | 2,000’ | FTL, Guided Weapons | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
+| Fighter Ship | 5 | 3 | 2,000’ | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
 Guard: 22 \
-Resolve: 17 |
-| Galleon | 6 | 0 | 70’ | | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
+Resolve: Immune |
+| Galleon | 6 | 0 | 70’ | | Agility 6 | Multi-Pilot 10, Targeted Weapons, Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
 Guard: 19 \
-Resolve: 17 |
+Resolve: Immune |
 | Griffin | 4 | 0 | 50’ | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
 Guard: 19 \
 Resolve: 13 |
@@ -2742,9 +2744,9 @@ Resolve: 13 |
 Guard: 15 \
 Resolve: 10 |
 | Mech Unit | 4 | 2 | 40’ | Guided Weapons | Energy 5 \
-Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
+Agility 6 | Targeted Weapons, Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
 Guard: 22 \
-Resolve: 18 |
+Resolve: Immune |
 | Phoenix | 5 | 0 | 50’ | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
 Guard: 20 \
 Resolve: 19 |
@@ -2763,6 +2765,7 @@ Resolve: 15 |
 Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 \
 Guard: 15 \
 Resolve: 18 |
+
 
 # Banes and Boons
 

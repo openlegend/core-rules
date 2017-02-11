@@ -12,11 +12,13 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 02 / 11
+-   Modified certain Vehicles to have `Resolve: Immune` to represent mind-influencing banes don't effect them
+
 #### 2017 / 02 / 05
 -   Added `Vehicles & Mounts` section at the end of chapter 4
 -   Added `Tech Level` callout before Weapons section in chapter 4
 -   Add `Deafened` bane to mirror `Blinded` and `Silenced`
-
 
 #### 2017 / 02 / 03
 -   Added rules for `Waiting to Act` that allow for preparing to react to a given trigger and waiting in general
