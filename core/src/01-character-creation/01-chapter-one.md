@@ -535,10 +535,6 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 
 Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
 
-#### Resilient
-
-Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
-
 #### Scavenger
 
 You have lived a life of need, and thus know how to make do when others would go without. Once per game session, you can easily acquire a single mundane item even though it would otherwise take time to get or be completely unattainable. Depending on the circumstances, the GM may decide that your acquisition is only temporary or subject to reasonable conditions. For example, you might use this perk to acquire a rope in the middle of a desert, but the GM may rule that it is so sun-baked and ancient that it will likely snap after a few uses.
