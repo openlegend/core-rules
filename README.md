@@ -13,7 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 02 / 11
--   Removed redundant `Inner Strength` perk (was a duplicate of `Resilent` perk)
+-   Removed redundant `Inner Strength` perk (was a duplicate of `Resilient` perk)
 -   Added `Targeted Weapons` property to manually targeted vehicular weapons
 -   Modified certain Vehicles to have `Resolve: Immune` to represent mind-influencing banes don't effect them
 
