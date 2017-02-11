@@ -2696,7 +2696,7 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 **DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the it’s new hit point total, thus a vehicle can suffer multiple damage levels from a single attack if it deals enough damage. A mount has disadvantage equal to its damage level on all action rolls. Once the mount’s damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
 
-**Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount.
+**Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If "Immune" is listed for a given defense, then attacks targeting that defense have no effect.
 
 
 #### Properties
