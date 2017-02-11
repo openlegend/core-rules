@@ -76,6 +76,21 @@ Some items have the *heavy* property. You can carry a number of *heavy* items eq
 Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5’.
 
 
+> #### Tech Levels
+> \
+> Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make: \
+> \
+> TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age \
+> TL 1 - Modern Age \
+> TL 2 - Near Future (mechs, cyborgs, laser weapons) \
+> TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology) \
+> \
+> When planning a campaign, the GM can specify which tech level (or levels) the campaign will use. For example, a typical sword and sorcery campaign would be set at tech level 0, while a steampunk campaign would probably use a good mix of tech levels 0 and 1.
+> \
+> \
+> **Mixing Tech Levels** \
+> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
+
 
 ## Weapons & Implements
 
@@ -267,4 +282,110 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 
 \
 \
+
+
+## Mounts & Vehicles
+
+In this section, you’ll find rules for mounting upon your battle-bred warhorse or piloting your trusty old fighter ship. For mechanical purposes, mounts and vehicles are handled the same. These rules will apply whenever a character is riding upon or within another creature or object as their primary form of movement. You will move with your mount (see mount actions below), but otherwise you are considered separate for purposes of targeting, boons, banes, and similar situations.
+
+Throughout this text, the words “mount” and “vehicle” are used interchangeably. Mechanically speaking, the rules are the same whether you are riding a pony or a star fighter, so any references to “mount” also apply to “vehicles”, and vice-versa.
+
+### Mount Actions
+
+When mounted, you may allocate any of your actions to your mount instead of yourself. For example, while riding a velociraptor, you could spend your move action to have your raptor move 40’. Whenever your mount moves, you move with it. Likewise, instead of attacking with your own weapons, you could spend your major action to let your raptor make an attack. Your mount will have its own attributes and feats, so it will not benefit from your feats or attributes.
+
+Typically, mounts and vehicles cannot act independently of their riders, and so they will only get to take actions when their rider allocates actions to them.
+
+### Example Mounts & Vehicles
+
+Detailed below are a variety of mounts and vehicles for characters to carry characters across land, sea, and sky. These samples represent multiple genres and are not meant to be an exhaustive list. GMs and players should use these examples as guidelines and work together to create stats for additional mounts as necessary to fit their campaigns.
+
+
+**WL (Wealth Level)** indicates the Wealth Level associated with this particular mount or vehicle. Acquiring one requires a sufficient Wealth Level and follows all of the rules for Wealth established in Chapter 6 Weapons & Equipment.
+
+**TL (Tech Level)** indicates the minimum level of technology for a society in which this type of mount or vehicle can be found.
+
+**Speed** indicates the number of feet the mount or vehicle moves with a single move action.
+
+**Properties** are the descriptors that make each mount unique from others. These properties translate to specific game mechanics described below.
+
+**Attributes** indicates the notable attributes possessed by the vehicle or mount. At the GM’s discretion, other attributes can be granted on an as-needed basis.
+
+**Feats** indicates the feats which the mount or vehicle possesses to highlight its unique capabilities. These feats only apply to actions taken by the mount, not actions made by the rider.
+
+**HP (Hit Points)** indicates the total hit points possessed by the vehicle or mount.
+
+**DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the it’s new hit point total, thus a vehicle can suffer multiple damage levels from a single attack if it deals enough damage. A mount has disadvantage equal to its damage level on all action rolls. Once the mount’s damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
+
+**Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If "Immune" is listed for a given defense, then attacks targeting that defense have no effect.
+
+
+#### Properties
+
+**Faster than Light** - The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.
+
+**Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target an opponent’s Guard defense.
+
+**Multi-Pilot** - The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.
+
+**Independent** - A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.
+
+**Targeted Weapons** - A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.
+
+
+
+<div class="table-no-body"></div>
+| Mounts & Vehicles |
+| - |
+| |
+
+| Examples | WL | TL | Speed | Properties | Attributes | Feats | HP | DT | Defenses |
+| :----- | :-: | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
+| All-Terrain Jeep | 2 | 1 | 80’ | | Agility 4 | | 20 | 2 | Toughness: 14 \
+Guard: 14 \
+Resolve: Immune |
+| Battle Cruiser | 9 | 3 | 1,000’ | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
+Guard: 25 \
+Resolve: Immune |
+| Drake | 5 | 0 | 50’ | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
+Guard: 20 \
+Resolve: 15 |
+| Fighter Ship | 5 | 3 | 2,000’ | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
+Guard: 22 \
+Resolve: Immune |
+| Galleon | 6 | 0 | 70’ | | Agility 6 | Multi-Pilot 10, Targeted Weapons, Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
+Guard: 19 \
+Resolve: Immune |
+| Griffin | 4 | 0 | 50’ | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
+Guard: 19 \
+Resolve: 13 |
+| Horse | 3 | 0 | 40’ | | Might 4 | | 28 | 1 | Toughness: 15 \
+Guard: 15 \
+Resolve: 10 |
+| Mech Unit | 4 | 2 | 40’ | Guided Weapons | Energy 5 \
+Agility 6 | Targeted Weapons, Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
+Guard: 22 \
+Resolve: Immune |
+| Phoenix | 5 | 0 | 50’ | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
+Guard: 20 \
+Resolve: 19 |
+| Pegasus | 4 | 0 | 50’ | | Might 4 \
+Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 \
+Guard: 18 \
+Resolve: 17 |
+| Velociraptor, Dire Wolf | 3 | 0 | 40’ | | Agility 5 \
+Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 \
+Guard: 17 \
+Resolve: 15 |
+| T-Rex | 5 | 0 | 50’ | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 \
+Guard: 20 \
+Resolve: 15 |
+| Giant Scorpion | 4 | 0 | 35’ | Independent 1 | Agility 5 \
+Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 \
+Guard: 15 \
+Resolve: 18 |
+
+
+
+
 
