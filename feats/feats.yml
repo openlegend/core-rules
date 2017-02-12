@@ -1226,17 +1226,20 @@
   name: Indomitable Resolve (I - III)
   prerequisites:
     tier1:
-      Attribute:
-      - Will: 3
-      - Presence: 3
+      any:
+        Attribute:
+        - Will: 3
+        - Presence: 3
     tier2:
-      Attribute:
-      - Will: 4
-      - Presence: 4
+      any:
+        Attribute:
+        - Will: 4
+        - Presence: 4
     tier3:
-      Attribute:
-      - Will: 5
-      - Presence: 5
+      any:
+        Attribute:
+        - Will: 5
+        - Presence: 5
   tags:
   - Combat
   - Presence
