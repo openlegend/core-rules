@@ -953,8 +953,6 @@ angles, leverage, and physics to substitute Logic for Might, or a
 gunslinger who channels dark energy, giving her deadshot accuracy and
 substituting Entropy for Agility. \newline
 
-**Special:** This feat cannot be purchased to link attributes beyond the initial two (primary and secondary).
-
 ## Bane Focus
 
 **Cost:** 3 points
@@ -1124,7 +1122,7 @@ character. \newline
 -   **Tier 2** -  You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour.
 
 -   **Tier 3** - The effect at tier 3 varies based on the duration of the boon:  \
-\ **If the chosen boon has a duration of "sustain persists"**,, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.  \
+\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled (such as by the Nullify bane), you can invoke it at the start of your next turn as a free action.  \
 \ **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
 ## Breakfall (I - II)
@@ -1159,17 +1157,15 @@ attribute in place of Persuasion for the action roll.
 
 ## Climbing
 
-**Cost:** 2 points
+**Cost:** 1 points
 \
 **Prerequisites:**
 
 -   **Tier 1**: None
 
-**Description:** You gain the ability to climb effortlessly, as is found in certain
-vampires, aberrant creatures, and insects. \newline
+**Description:** You gain the ability to climb or parkour perfectly, as is seen in certain vampires, aberrant creatures, ninjas, and insects. \newline
 
-**Effect:** You gain a climb speed equal to your base speed and can scale horizontal
-and vertical surfaces, even climb upside-down, with no fear of falling.
+**Effect:** You gain the ability to climb or parkour perfectly, as is seen in certain vampires, aberrant creatures, ninjas, and insects.
 
 ## Combat Follow-through
 
@@ -1333,7 +1329,7 @@ feet (if you choose) from the Overpowering Strike feat, you can also
 knock them down in the space where the forced move ends; the target
 suffers the effects of the knockdown bane.
 
-## Death Blow (I – III)
+## Death Blow (I – II)
 
 **Cost:** 3 points
 \
@@ -1345,9 +1341,6 @@ suffers the effects of the knockdown bane.
 -   **Tier 2**:
     -   Agility 7
     -   Lethal Strike III
--   **Tier 3**:
-    -   Agility 8
-    -   Lethal Strike VI
 
 **Description:** You are able to quickly finish off enemies that are near death and
 silence them before they cry out. This attack is one that is commonly
@@ -1356,11 +1349,9 @@ being detected. \newline
 
 **Effect:**
 
--   **Tier 1** - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by a melee or projectile attack from you.
+-   **Tier 1** - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.
 
--   **Tier 2** – Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, provided you have a hand free to cover their mouth or use a garrote (or similar strangling implement), the Silenced bane is automatically inflicted without counting against your usual 1 bane per attack limit.
-
--   **Tier 3** – Your death blow HP threshold increases from 10 to 15. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.
+-   **Tier 2** – Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.
 
 ## Deathless Trance
 
@@ -1695,6 +1686,56 @@ disadvantage on your action roll.
 -   **Influence 8** - 10 Targets
 -   **Influence 9** - 50 Targets
 
+## Heightened Invocation (I - III)
+
+**Cost:** 2 points
+\
+**Prerequisites:**
+
+-   **Tier 1**: Any Extraordinary 4
+-   **Tier 2**: Any Extraordinary 6
+-   **Tier 3**: Any Extraordinary 9
+
+**Description:** By channeling your extraordinary powers through extensive rituals, such
+as meditation, fasting, blood letting, and sacrifices, you are able to
+increase the strength of your invocations. \newline
+
+**Effect:** When invoking a bane or boon, you may choose to do so as a ritual. The
+invocation time for a ritual is one increment higher than usual as
+follows:
+
+-   1 action becomes 1 minute
+-   1 minute becomes 10 minutes
+-   10 minutes becomes 1 hour
+-   1 hour becomes 8 hours
+-   8 hours becomes 24 hours
+
+**Tier 1** - You may choose one of the following effects to empower your
+bane or boon:
+
+-   Increase the range of the effect as follows:
+    -   Attribute 5 = 500ft
+    -   Attribute 6 = 1/2 mile
+    -   Attribute 7 = 1 mile
+    -   Attribute 8 = 10 miles
+    -   Attribute 9 = 100 miles
+-   Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).
+-   For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.
+
+**Tier 2** - You gain the following abilities:
+
+-   You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.
+-   You gain the following additional option to choose from when empowering your invocations with ritual magic:
+    -   Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (Though the nullify bane still works).
+    -   Targets may not make resist rolls against a bane for one minute after it is invokes.
+
+**Tier 3** - You gain the ability to permanently bestow or nullify banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
+
+-   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the Dispel bane, or permanently with the Heightened Invocation feat (see the Remove Boon entry that follows).
+-   **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be nullified either temporarily with the Dispel bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
+-   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to nullify. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.
+-   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to nullify. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.
+
 ## Hospitaler
 
 **Cost:** 2 points
@@ -1758,6 +1799,20 @@ on when others would keel over from exhaustion. \newline
 **Effect:** You are able to shrug off the effects of the Fatigued bane. Treat your
 fatigue level (per the Fatigued bane description) as one lower than it actually is
 for the purposes of determining the bane's effects. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
+
+## Indomitable Resolve (I - III)
+
+**Cost:** 1 points
+\
+**Prerequisites:**
+
+-   **Tier 1:** Presence or Will 3
+-   **Tier 2:** Presence or Will 4
+-   **Tier 3:** Presence or Will 5
+
+**Description:** Your resolve is exceptional, making your more resilient to mental effects that would overwhelm those of lesser mettle. \newline
+
+**Effect:** Your Resolve defense is increased by 1.
 
 ## Inspiring Champion (I - III)
 
@@ -1969,7 +2024,7 @@ The number of additional attacks you can make with this feat is limited to 1 + h
 **Example:** Vax the Deathbringer has Multi Attack Specialist (Tier III). He declares
 that he will be making three attacks this round (two additional attacks). Therefore, all of his
 attacks suffer disadvantage 3 (3 x 2 = 6, minus 3 for feat tier 3). His
-first attack is a necromantic burst targeting a 10'-square. Because of
+first attack is a necromantic burst targeting a 10' square. Because of
 the area of effect, Vax suffers an additional disadvantage 2, making his
 total disadvantage for that attack 5. For his second attack, Vax casts a
 spell of blindness on a single foe, making an action roll at
@@ -2149,56 +2204,6 @@ you are able to shake off banes quicker than others.
 
 **Effect:** Any time you make a Resist roll, you have advantage 1 on the roll.
 
-## Ritual Magic (I - III)
-
-**Cost:** 2 points
-\
-**Prerequisites:**
-
--   **Tier 1**: Any Extraordinary 4
--   **Tier 2**: Any Extraordinary 6
--   **Tier 3**: Any Extraordinary 9
-
-**Description:** By channeling your extraordinary powers through extensive rituals, such
-as meditation, fasting, blood letting, and sacrifices, you are able to
-increase the strength of your invocations. \newline
-
-**Effect:** When invoking a bane or boon, you may choose to do so as a ritual. The
-invocation time for a ritual is one increment higher than usual as
-follows:
-
--   1 action becomes 1 minute
--   1 minute becomes 10 minutes
--   10 minutes becomes 1 hour
--   1 hour becomes 8 hours
--   8 hours becomes 24 hours
-
-**Tier 1** - You may choose one of the following effects to empower your
-bane or boon:
-
--   Increase the range of the effect as follows:
-    -   Attribute 5 = 500ft
-    -   Attribute 6 = 1/2 mile
-    -   Attribute 7 = 1 mile
-    -   Attribute 8 = 10 miles
-    -   Attribute 9 = 100 miles
--   Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).
--   For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.
-
-**Tier 2** - You gain the following abilities:
-
--   You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.
--   You gain the following additional option to choose from when empowering your invocations with ritual magic:
-    -   Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (Though the dispel bane still works).
-    -   Targets may not make resist rolls against a bane for one minute after it is invokes.
-
-**Tier 3** - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or dispelled. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
-
--   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Remove Boon entry that follows).
--   **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be dispelled either temporarily with the Dispel bane, or permanently with the Ritual Magic feat (see the Dispel Bane entry that follows).
--   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.
--   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.
-
 ## Silencing Strike
 
 **Cost:** 3 points
@@ -2316,7 +2321,7 @@ enthralled by you. \newline
 **Effect:** When you invoke the charmed bane, targets who do not make their resist
 roll within 24 hours of being afflicted become permanently affected by
 the bane. They do not receive any more resist rolls to shake themselves
-free of the effect. Other extraordinary effects like a dispel boon can
+free of the effect. Other extraordinary effects like a Nullify bane can
 still end the effect (and other methods may work at the GM’s
 discretion).
 
@@ -2570,11 +2575,11 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
-**Forceful** - This weapon can be used to make attacks with the Might attribute.
+**Forceful** - This weapon can be used to make attacks with the Might attribute and invoke banes accessible via Might.
 
 **Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
-**Precise** - This weapon can be used to make attacks with the Agility attribute.
+**Precise** - This weapon can be used to make attacks with the Agility attribute  and invoke banes accessible via Agility.
 
 **Reach** - The weapon can be used to attack enemies 10’ away.
 
@@ -2632,7 +2637,9 @@ Next, you will may select a number of properties that have significant game impa
 
 The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level of 5.
 
-The *Defensive* and *Burst* properties increase the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
+The *Defensive* property increases the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
+
+The *Area* property increases the Wealth Level of the item by 1 per 5' of area.
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 
@@ -3014,30 +3021,6 @@ of an object they are holding. \newline
 -   **Power Level 6** - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute (typically Might) roll with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
 
 
-## Dispel
-
-**Duration:** Instantaneous
-\
-**Power Level:** 1, 6
-\
-**Attack Attributes:** Protection
-\
-**Attack:**
-
--   Protection vs. Resolve
-
-**Description:** You cancel boons affecting an enemy. \newline
-
-**Effect:** Make an Protection roll. You can dispel boons affecting the target of a
-maximum Power Level equal to (Protection roll - 10) ÷ 2. The Power Level
-at which you invoke this bane determines the types of effects you can
-dispel, as follows:
-
--   **Power Level 1** - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.
-
--   **Power Level 6** - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.
-
-
 ## Dominated
 
 **Duration:** Resist ends (Fail x 3 = 1 hour)
@@ -3198,7 +3181,7 @@ move your target against its will. \newline
 
 ## Immobile
 
-**Duration:** Resist ends (Fail x 3 = 1 minute)
+**Duration:** Resist ends (special) (Fail x 3 = 1 minute)
 \
 **Power Level:** 1
 \
@@ -3206,13 +3189,13 @@ move your target against its will. \newline
 \
 **Attack:**
 
--   Agility vs. Guard
--   Alteration vs. Guard
--   Creation vs. Guard
--   Energy vs. Guard
--   Entropy vs. Guard
+-   Agility vs. Toughness
+-   Alteration vs. Toughness
+-   Creation vs. Toughness
+-   Energy vs. Toughness
+-   Entropy vs. Toughness
 -   Influence vs. Resolve
--   Might vs. Guard
+-   Might vs. Toughness
 
 **Description:** Whether through grappling, a precise nerve strike, entangling vines,
 exerting mental control, or a bone-numbing blast of cold, you render
@@ -3282,7 +3265,7 @@ you to inflict the bane for the next hour.
 
 **Duration:** Instantaneous
 \
-**Power Level:** 2
+**Power Level:** 1
 \
 **Attack Attributes:** Energy, Might
 \
@@ -3292,16 +3275,9 @@ you to inflict the bane for the next hour.
 -   Energy vs. Guard
 -   Might vs. Guard
 
-**Description:** Fights are called “knock down, drag out” for a reason. Knocking an
-opponent prone is a common way for one combatant to gain the upper hand.
-Knockdown can be caused by a thunderous blow from a great axe, an earth
-shattering bolt of extraordinary energy, or a well aimed shove in a
-direction where the enemy's balance is weak. \newline
+**Description:** Whether via a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak, you knock the target off their feet. \newline
 
-**Effect:** The target falls prone. Prone targets have disadvantage 1 on all attacks
-they make. Melee and area attacks against prone characters gain
-advantage 1. Projectile attacks against prone targets suffer
-disadvantage 1.
+**Effect:** The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1. To stand up from prone, the target can expend a move action to both stand up and also move half their speed, rounded down.
 
 ## Memory Alteration
 
@@ -3367,6 +3343,28 @@ into the minds of others. \newline
 **Special:** When your target succeeds at a resist roll against this bane, they
 become to immune to all subsequent attempts by you to inflict the bane
 for the next 24 hours.
+
+
+## Nullify
+
+**Duration:** Instantaneous
+\
+**Power Level:** 1, 2, 3, 4, 5, 6, 7, 8, 9
+\
+**Attack Attributes:** Protection
+\
+**Attack:**
+
+-   Protection vs. Resolve
+
+**Description:** You cancel boons affecting an enemy. \newline
+
+**Effect:** You nullify boons affecting the target of a maximum Power Level equal to the Power Level of this bane. The Power Level at which you invoke this bane determines the types of effects you can nullify, as follows:
+
+-   **Power Level 1** - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.
+
+-   **Power Level 6** - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.
+
 
 ## Persistent Damage
 
@@ -3546,7 +3544,7 @@ another).
 
 ## Scrying
 
-**Duration:** 10 minutes (Special)
+**Duration:** 10 minutes (special)
 \
 **Power Level:** 5
 \
@@ -3554,7 +3552,7 @@ another).
 \
 **Attack:**
 
--   Prescience vs. Resolve (Special)
+-   Prescience vs. Resolve (special)
 
 **Description:** Either through innate extrasensory perception or a special conduit such as a computer terminal, a bubbling
 cauldron, or a crystal ball, you can view the target from a
@@ -3632,22 +3630,21 @@ belongings they are carrying inaudible.
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
 \
-**Power Level:** 2
+**Power Level:** 1
 \
 **Attack Attributes:** Agility, Energy, Entropy, Might, Movement
 \
 **Attack:**
 
 -   Agility vs. Guard
--   Energy vs. Toughness
+-   Energy vs. Guard
 -   Entropy vs. Toughness
 -   Might vs. Guard
 -   Movement vs. Guard
 
-**Description:** Slowing an enemy is usually caused by either extreme cold, prolonged
-heat, poison, or injury to one or both legs. \newline
+**Description:** The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. \newline
 
-**Effect:** The afflicted target’s movement is reduced to 10 feet. This applies to
+**Effect:** The afflicted target’s speed is reduced to half it's current speed, rounded down to the nearest 5' increment. This applies to
 all movement that is physical (flight, walking, climbing, etc.). If the
 target is currently under a magical effect that increases speed, the two
 effects are canceled for the duration that both affect the target.
@@ -3745,7 +3742,7 @@ hiding, invisible, or for some other reason *not perceived as a threat*.
 
 ## Truthfulness
 
-**Duration:** 10 minutes (Special)
+**Duration:** 10 minutes (special)
 \
 **Power Level:** 5
 \
@@ -3794,7 +3791,7 @@ Each boon description includes the following elements.
 
 **Invocation Time.** The required time that it takes to invoke the boon. Most boons have an invocation time of 1 major action. For boons that have a longer time, you must spend the entire invocation time concentrating on nothing other than invoking the boon. If you are interrupted, you must start the casting over.
 
-**Duration.** Most boons have a duration of “sustain persists”, which indicates that the caster must use a sustain action every round in order to keep the boon in effect. If you have a boon in effect and don’t sustain it, the boon is dispelled at the end of your turn. Because sustaining a boon is a minor action, which can only be taken once per turn, you can typically sustain only one boon at a time.
+**Duration.** Most boons have a duration of “sustain persists”, which indicates that the invoker must use a sustain action every round in order to keep the boon in effect. If you have a boon in effect and don’t sustain it, the boon's effects cease at the end of your turn. Because sustaining a boon is a minor action, which can only be taken once per turn, you can typically sustain only one boon at a time.
 
 **Description.** This entry simply provides a general idea of what the boon could look like in the story.
 
@@ -3866,29 +3863,6 @@ Chapter 7: Running the Game.
 -   **Power Level 6** - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating. With a successful invocation, the creature comes into existence with the **Charmed** (Minor Charm) bane already in effect (no roll is required).
 
 -   **Power Level 8** - You can animate a group of creatures: Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <strong>Charmed</strong> bane is a Major Charm instead of Minor Charm.
-
-
-## Augury
-
-**Duration:** 1 round
-\
-**Invocation Time:** 1 Minute
-\
-**Power Level:** 1, 3, 5, 7
-\
-**Attributes:** Prescience \newline
-
-**Description:** You peer into the future to gain insight into a course of action, an
-event, a person, or a place. \newline
-
-**Effect:**
--   **Power Level 1** - Your target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
-
--   **Power Level 3** - Your target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
-
--   **Power Level 5** - Your target asks ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.
-
--   **Power Level 7** - Your target can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
 
 
 ## Aura
@@ -4228,6 +4202,28 @@ the target to a radius equal five feet per power level of the boon. If
 the light area overlaps an area affected by the Darkness boon, then the
 one of greater power level supersedes the other. If the power level of
 both is equal, then they cancel each other out.
+
+## Precognition
+
+**Duration:** 1 round
+\
+**Invocation Time:** 1 Minute
+\
+**Power Level:** 1, 3, 5, 7
+\
+**Attributes:** Prescience \newline
+
+**Description:** You peer into the future to gain insight into a course of action, an
+event, a person, or a place. \newline
+
+**Effect:**
+-   **Power Level 1** - Your target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+
+-   **Power Level 3** - Your target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
+
+-   **Power Level 5** - Your target asks ask a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.
+
+-   **Power Level 7** - Your target can choose a particular event, decision, person, place, etc. After invoking this boon, you begin to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.
 
 ## Reading
 

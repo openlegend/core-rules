@@ -165,27 +165,6 @@
     </li>
     </ul>
 - !
-  name: Dispel
-  tags:
-  - Extraordinary
-  power:
-  - 1
-  - 6
-  attackAttributes:
-  - Protection
-  attack:
-  - Protection vs. Resolve
-  invocationTime: 1 Major Action
-  duration: Instantaneous
-  description: |
-    You cancel boons affecting an enemy.
-  effect: |
-    Make an Protection roll. You can dispel boons affecting the target of a maximum Power Level equal to (Protection roll - 10) ÷ 2. The Power Level at which you invoke this bane determines the types of effects you can dispel, as follows:
-    <ul>
-      <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.</li>
-      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
-    </ul>
-- !
   name: Dominated
   tags:
   - Extraordinary
@@ -311,15 +290,15 @@
   - Influence
   - Might
   attack:
-  - Agility vs. Guard
-  - Alteration vs. Guard
-  - Creation vs. Guard
-  - Energy vs. Guard
-  - Entropy vs. Guard
+  - Agility vs. Toughness
+  - Alteration vs. Toughness
+  - Creation vs. Toughness
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
   - Influence vs. Resolve
-  - Might vs. Guard
+  - Might vs. Toughness
   invocationTime: 1 Major Action
-  duration: Resist ends (Fail x 3 = 1 minute)
+  duration: Resist ends (special) (Fail x 3 = 1 minute)
   description: |
     Whether through grappling, a precise nerve strike, entangling vines, exerting mental control, or a bone-numbing blast of cold, you render your foe incapable of movement.
   effect: |
@@ -359,7 +338,7 @@
   - Extraordinary
   - Physical
   power:
-  - 2
+  - 1
   attackAttributes:
   - Agility
   - Energy
@@ -371,9 +350,9 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering bolt of extraordinary energy, or a well aimed shove in a direction where the enemy's balance is weak.
+    Whether via a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak, you knock the target off their feet.
   effect: |
-    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1.
+    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1. To stand up from prone, the target can expend a move action to both stand up and also move half their speed, rounded down.
 - !
   name: Memory Alteration
   tags:
@@ -427,6 +406,35 @@
     </ul>
   special: |
     When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- !
+  name: Nullify
+  tags:
+  - Extraordinary
+  power:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 8
+  - 9
+  attackAttributes:
+  - Protection
+  attack:
+  - Protection vs. Resolve
+  invocationTime: 1 Major Action
+  duration: Instantaneous
+  description: |
+    You cancel boons affecting an enemy.
+  effect: |
+    You nullify boons affecting the target of a maximum Power Level equal to the Power Level of this bane. The Power Level at which you invoke this bane determines the types of effects you can nullify, as follows:
+    <ul>
+      <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.</li>
+      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
+    </ul>
 - !
   name: Persistent Damage
   tags:
@@ -584,9 +592,9 @@
   attackAttributes:
   - Prescience
   attack:
-  - Prescience vs. Resolve (Special)
+  - Prescience vs. Resolve (special)
   invocationTime: 10 Minutes
-  duration: 10 minutes (Special)
+  duration: 10 minutes (special)
   description: |
     Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you can view the target from a distance.
   effect: |
@@ -646,7 +654,7 @@
   - Extraordinary
   - Physical
   power:
-  - 2
+  - 1
   attackAttributes:
   - Agility
   - Energy
@@ -655,16 +663,16 @@
   - Movement
   attack:
   - Agility vs. Guard
-  - Energy vs. Toughness
+  - Energy vs. Guard
   - Entropy vs. Toughness
   - Might vs. Guard
   - Movement vs. Guard
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Slowing an enemy is usually caused by either extreme cold, prolonged heat, poison, or injury to one or both legs.
+    The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs.
   effect: |
-    The afflicted target’s movement is reduced to 10 feet. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
+    The afflicted target’s speed is reduced to half it's current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
 - !
   name: Stunned
   tags:
@@ -738,7 +746,7 @@
   attack:
   - Influence vs. Resolve
   invocationTime: 10 Minutes
-  duration: 10 minutes (Special)
+  duration: 10 minutes (special)
   description: |
     Via control of the target's mind, you compel them to honesty, rendering them unable to deliberately lie.
   effect: |
