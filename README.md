@@ -13,12 +13,14 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 02 / 12
--   Clarified that `Forceful` and `Precise` weapons can only be used for bane attacks with that particular attribute.
+-   Clarify `Area` property's Wealth Level impact
+-   Added `Indomitable Resolve` feat that increases your Resolve defense by 1.
+-   Clarified that `Forceful` and `Precise` weapons can only be used for bane attacks with that particular attribute
 -   `Natural Defense` feat now increases both Guard and Toughness defenses
 -   `Immobile` bane now targets Toughness for most bane attacks
 -   `Augury` renamed to `Precognition` because augury by definition has ties to the divine. `Precognition` represents
--   `Boon Focus III` clarified to allow boon invocation as a free action, meaning that it only persists if you're conscious to spend an action.
--   `Death Blow` feat's tier 3 is removed, 15 HP death threshold is too powerful, and the tier 2 Silenced effect was overly complex. There are now 2 tiers.
+-   `Boon Focus III` clarified to allow boon invocation as a free action, meaning that it only persists if you're conscious to spend an action
+-   `Death Blow` feat's tier 3 is removed, 15 HP death threshold is too powerful, and the tier 2 Silenced effect was overly complex. There are now 2 tiers
 -   `Ritual Magic` feat is renamed to `Heightened Invocation` to more effectively span non-magically oriented genres
 -   `Dispel` bane is renamed to `Nullify` to more effectively span non-magically oriented genres
 

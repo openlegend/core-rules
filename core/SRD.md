@@ -2746,8 +2746,8 @@ Resolve: 13 |
 | Horse | 3 | 0 | 40’ | | Might 4 | | 28 | 1 | Toughness: 15 \
 Guard: 15 \
 Resolve: 10 |
-| Mech Unit | 4 | 2 | 40’ | Guided Weapons | Energy 5 \
-Agility 6 | Targeted Weapons, Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
+| Mech Unit | 4 | 2 | 40’ | Guided Weapons, Targeted Weapons | Energy 5 \
+Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
 Guard: 22 \
 Resolve: Immune |
 | Phoenix | 5 | 0 | 50’ | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
