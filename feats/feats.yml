@@ -1228,18 +1228,18 @@
     tier1:
       any:
         Attribute:
-        - Will: 3
         - Presence: 3
+        - Will: 3
     tier2:
       any:
         Attribute:
-        - Will: 4
         - Presence: 4
+        - Will: 4
     tier3:
       any:
         Attribute:
-        - Will: 5
         - Presence: 5
+        - Will: 5
   tags:
   - Combat
   - Presence
