@@ -183,11 +183,11 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
-**Forceful** - This weapon can be used to make attacks with the Might attribute.
+**Forceful** - This weapon can be used to make attacks with the Might attribute and invoke banes accessible via Might.
 
 **Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
-**Precise** - This weapon can be used to make attacks with the Agility attribute.
+**Precise** - This weapon can be used to make attacks with the Agility attribute  and invoke banes accessible via Agility.
 
 **Reach** - The weapon can be used to attack enemies 10’ away.
 
@@ -251,7 +251,9 @@ Next, you will may select a number of properties that have significant game impa
 
 The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level of 5.
 
-The *Defensive* and *Burst* properties increase the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
+The *Defensive* property increases the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
+
+The *Area* property increases the Wealth Level of the item by 1 per 5' of area.
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 

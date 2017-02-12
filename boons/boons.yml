@@ -12,7 +12,7 @@
   description: |
     You are able to absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space to hide it.
   effect: |
-    The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Dispel bane), the object is immediately shunted out of your target's body as if the object had been withdrawn.
+    The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Nullify bane), the object is immediately shunted out of your target's body as if the object had been withdrawn.
 - !
   name: Animation
   tags:
@@ -33,28 +33,6 @@
     <ul>
     <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating. With a successful invocation, the creature comes into existence with the <strong>Charmed</strong> (Minor Charm) bane already in effect (no roll is required).</li>
     <li><strong>Power Level 8</strong> - You can animate a group of creatures:  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <strong>Charmed</strong> bane is a Major Charm instead of Minor Charm.</li>
-    </ul>
-- !
-  name: Augury
-  tags:
-  - Extraordinary
-  power:
-  - 1
-  - 3
-  - 5
-  - 7
-  attribute:
-  - Prescience
-  invocationTime: 1 Minute
-  duration: 1 round
-  description: |
-    You peer into the future to gain insight into a course of action, an event, a person, or a place.
-  effect: |
-    <ul>
-    <li><strong>Power Level 1</strong> - The target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 3</strong> - The target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 5</strong> - The target asks a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.</li>
-    <li><strong>Power Level 7 </strong> - The target can choose a particular event, decision, person, place, etc. After invoking this boon, your target begins to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target with detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
     </ul>
 - !
   name: Aura
@@ -396,6 +374,28 @@
     You light up an area with magical light from a point of your choice
   effect: |
     Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
+- !
+  name: Precognition
+  tags:
+  - Extraordinary
+  power:
+  - 1
+  - 3
+  - 5
+  - 7
+  attribute:
+  - Prescience
+  invocationTime: 1 Minute
+  duration: 1 round
+  description: |
+    You peer into the future to gain insight into a course of action, an event, a person, or a place.
+  effect: |
+    <ul>
+    <li><strong>Power Level 1</strong> - The target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
+    <li><strong>Power Level 3</strong> - The target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
+    <li><strong>Power Level 5</strong> - The target asks a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.</li>
+    <li><strong>Power Level 7 </strong> - The target can choose a particular event, decision, person, place, etc. After invoking this boon, your target begins to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target with detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
+    </ul>
 - !
   name: Reading
   tags:

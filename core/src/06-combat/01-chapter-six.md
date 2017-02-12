@@ -280,7 +280,11 @@ The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate whic
 
 > ##### Example Bane Attacks
 >
-> Setting Sun is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Setting Sun is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+> Shu Jin is heavily wounded and needs a chance to escape from the Mandarin who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Shu Jin is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the Mandarin's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+>
+> * * * * *
+>
+> Surrounded by a rapidly growing horde of zombies, Selene pumps her sawed-off shotgun and prepares to blast a number out of the way and make a run for her life. Her weapon gives her two benefits in this situation: the ability to make a 10' cone attack without penalty, advantage 1 on Forced Move bane attacks, and access to Forced Move bane tiers 1 above her attribute. Since she is only trying to move the zombies rather than damage them, she attacks 3 (the number of targets for a 10' cone) of them with a Forced Move bane attack. Selene's Agility is 5, so she would normally roll 1d20 + 2d6, but the sawed-off shotgun's Forced Move bane property gives advantage 1, so she rolls 1d20 + 3d6 (keeping 2 of the d6's) and gets a total of 23. Since the sawed-off shotgun has the Forced Move bane property, Selene also has that bane's Power Level reduced by 1, so she is able to invoke Forced Move at Power Level 6, which is normally not available to Selene with her Agility of 5. Selene blasts all 3 zombies back 15' and begins running for her life.
 >
 > * * * * *
 >
