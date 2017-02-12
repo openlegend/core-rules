@@ -1,4 +1,4 @@
-Thanks for your interest in Open Legend!
+### Thanks for your interest in Open Legend!
 
 Please note that Github is a place for specific, actionable feedback that focus on solutions to problems.
 

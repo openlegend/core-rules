@@ -1,20 +1,4 @@
 - !
-  name: Banished
-  tags:
-  - Extraordinary
-  power:
-  - 6
-  attackAttributes:
-  - Protection
-  attack:
-  - Protection vs. Resolve
-  invocationTime: 1 Minute
-  duration: Instantaneous (special)
-  description: |
-    Wielding protective magic, you force an extraplanar creature to return to its home plane.
-  effect: |
-    The creature is forced to return to its home plane. More powerful extraplanar beings may have ways of circumventing this banishment. However, typical non-legendary beings cannot. While the duration is instantaneous, the targeted creature cannot simply attempt to return by plane shifting immediately after being banished. The creature can attempt a Resist roll once per week to end the banishment and once again be capable of plane shifting to the plane they were previously banished from.
-- !
   name: Blinded
   tags:
   - Extraordinary
@@ -27,16 +11,16 @@
   - Energy
   - Entropy
   attack:
-  - Agility vs. Resilience
-  - Creation vs. Resilience
-  - Energy vs. Resilience
+  - Agility vs. Guard
+  - Creation vs. Guard
+  - Energy vs. Guard
   - Entropy vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, or a dazzling flash of light.
   effect: |
-    The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplementd by another sense suffer disadvantage 5. The target's Resilience defense is reduced by 3.
+    The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplementd by another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.
 - !
   name: Charmed
   tags:
@@ -65,6 +49,27 @@
       </ul>
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control. As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- !
+  name: Deafened
+  tags:
+  - Extraordinary
+  - Physical
+  power:
+  - 5
+  attackAttributes:
+  - Agility
+  - Energy
+  - Entropy
+  attack:
+  - Agility vs. Guard
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
+  invocationTime: 1 Major Action
+  duration: Resist ends (Fail x 3 = 1 minute)
+  description: |
+    You deafen your foe with a clap of thunder, a deafening clap of hands to their ears, or a dark energy that disables their hearing.
+  effect: |
+    The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplementd by another sense suffer disadvantage 3.
 - !
   name: Death
   tags:
@@ -141,13 +146,13 @@
   - Might
   - Movement
   attack:
-  - Agility vs. Resilience
-  - Alteration vs. Resilience
-  - Energy vs. Resilience
+  - Agility vs. Guard
+  - Alteration vs. Guard
+  - Energy vs. Guard
   - Entropy vs. Toughness
   - Influence vs. Resolve
-  - Might vs. Resilience
-  - Movement vs. Resilience
+  - Might vs. Guard
+  - Movement vs. Guard
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
@@ -158,27 +163,6 @@
     </li>
     <li><strong>Power Level 6</strong> - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute (typically Might) roll with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
     </li>
-    </ul>
-- !
-  name: Dispel
-  tags:
-  - Extraordinary
-  power:
-  - 1
-  - 6
-  attackAttributes:
-  - Protection
-  attack:
-  - Protection vs. Resolve
-  invocationTime: 1 Major Action
-  duration: Instantaneous
-  description: |
-    You cancel boons affecting an enemy.
-  effect: |
-    Make an Protection roll. You can dispel boons affecting the target of a maximum Power Level equal to (Protection roll - 10) ÷ 2. The Power Level at which you invoke this bane determines the types of effects you can dispel, as follows:
-    <ul>
-      <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.</li>
-      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
     </ul>
 - !
   name: Dominated
@@ -224,12 +208,12 @@
   effect: |
     This bane has multiple tiers which are applied in succession. Each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one level.<br/>
     <ul>
-    <li>Level 1 - The target has Disadvantage 1 on all non-attack action rolls.</li>
-    <li>Level 2 - The target loses their attribute bonus to their defense scores (Agility for Resilience, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
-    <li>Level 3 - The target has Disadvantage 1 on all attack rolls.</li>
-    <li>Level 4 - The target is affected by the slowed bane, reducing it's speed to 10'. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
-    <li>Level 5 - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
-    <li>Level 6 - The target dies.</li>
+    <li><strong>Level 1</strong> - The target has Disadvantage 1 on all non-attack action rolls.</li>
+    <li><strong>Level 2</strong> - The target loses their attribute bonuses to their defense scores (Agility and Might for Guard, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
+    <li><strong>Level 3</strong> - The target has Disadvantage 1 on all attack rolls.</li>
+    <li><strong>Level 4</strong> - The target is affected by the slowed bane, reducing it's speed to 10'. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
+    <li><strong>Level 5</strong> - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
+    <li><strong>Level 6</strong> - The target dies.</li>
     </ul>
   special: |
     Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion, removes one level of fatigue. If the Restoration boon is invoked, the character invoking it can remove one level of Fatigue (in addition to that removed by natural rest) if their attribute used to invoke Restoration is between 1 and 6. A target cannot benefit from another invocation of the Restoration boon until 24 hours have passed. If the Restoration boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one.
@@ -269,13 +253,15 @@
   - 6
   - 8
   attackAttributes:
+  - Agility
   - Energy
   - Might
   - Movement
   attack:
-  - Energy vs. Resilience
-  - Might vs. Resilience
-  - Movement vs. Resilience
+  - Agility vs. Guard
+  - Energy vs. Guard
+  - Might vs. Guard
+  - Movement vs. Guard
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
@@ -304,15 +290,15 @@
   - Influence
   - Might
   attack:
-  - Agility vs. Resilience
-  - Alteration vs. Resilience
-  - Creation vs. Resilience
-  - Energy vs. Resilience
-  - Entropy vs. Resilience
+  - Agility vs. Toughness
+  - Alteration vs. Toughness
+  - Creation vs. Toughness
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
   - Influence vs. Resolve
-  - Might vs. Resilience
+  - Might vs. Toughness
   invocationTime: 1 Major Action
-  duration: Resist ends (Fail x 3 = 1 minute)
+  duration: Resist ends (special) (Fail x 3 = 1 minute)
   description: |
     Whether through grappling, a precise nerve strike, entangling vines, exerting mental control, or a bone-numbing blast of cold, you render your foe incapable of movement.
   effect: |
@@ -352,19 +338,21 @@
   - Extraordinary
   - Physical
   power:
-  - 2
+  - 1
   attackAttributes:
+  - Agility
   - Energy
   - Might
   attack:
-  - Energy vs. Resilience
-  - Might vs. Resilience
+  - Agility vs. Guard
+  - Energy vs. Guard
+  - Might vs. Guard
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering bolt of extraordinary energy, or a well aimed shove in a direction where the enemy's balance is weak.
+    Whether via a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak, you knock the target off their feet.
   effect: |
-    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1.
+    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1. To stand up from prone, the target can expend a move action to both stand up and also move half their speed, rounded down.
 - !
   name: Memory Alteration
   tags:
@@ -419,6 +407,35 @@
   special: |
     When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
+  name: Nullify
+  tags:
+  - Extraordinary
+  power:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 8
+  - 9
+  attackAttributes:
+  - Protection
+  attack:
+  - Protection vs. Resolve
+  invocationTime: 1 Major Action
+  duration: Instantaneous
+  description: |
+    You cancel boons affecting an enemy.
+  effect: |
+    You nullify boons affecting the target of a maximum Power Level equal to the Power Level of this bane. The Power Level at which you invoke this bane determines the types of effects you can nullify, as follows:
+    <ul>
+      <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.</li>
+      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
+    </ul>
+- !
   name: Persistent Damage
   tags:
   - Extraordinary
@@ -434,8 +451,8 @@
   - Energy
   - Entropy
   attack:
-  - Agility vs. Resilience
-  - Energy vs. Resilience
+  - Agility vs. Guard
+  - Energy vs. Guard
   - Entropy vs. Toughness
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
@@ -486,7 +503,7 @@
     <li><strong>Power Level 3</strong> - Sight</li>
     <li><strong>Power Level 6</strong> - All Senses</li>
     </ul>
-    Your Influence attribute score determines the maximum area that your phantasm can cover as follows. The dimensions are depth, width, and height (all squares must touch but can be in any shape/pattern)
+    Your Influence attribute score determines the maximum area that your phantasm can cover as follows. On your turn, you may move the illusion as a free action, but it must remain within your usual invocation range.
     <ul>
     <li>Influence 1 - 5' x 5' x 5'</li>
     <li>Influence 3 - 10' x 10' x 10'</li>
@@ -496,7 +513,7 @@
     <li>Influence 9 - 40' x 40' x 40'</li>
     </ul>
   special: |
-    When you invoke the phantasm bane, your Influence action roll determines who is convinced by the illusion. Any creatures with a Resolve defense score less than or equal to your roll will believe the phantasm to be real and will react accordingly. Those with a higher Resolve score will notice that their senses are being deceived somehow. Creatures who are convinced by the phantasm can use the resist action as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the illusion.
+    When you invoke the phantasm bane, your Influence action roll determines who is convinced by the illusion. Any creatures with a Resolve defense score less than or equal to your roll will believe the phantasm to be real and will react accordingly. Those with a higher Resolve score will notice that their senses are being deceived somehow. Creatures who are convinced by the phantasm can roll Resist as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the illusion.
     When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
   name: Polymorph
@@ -512,16 +529,18 @@
   attack:
   - Alteration vs. Toughness
   invocationTime: 1 Minute
-  duration: Special
+  duration: Resist ends (Fail x 3 = 1 hour)
   description: |
     You alter the size, shape, and composition of another creature. Make an enemy larger or smaller. Turn them into a sheep, newt, or whatever your imagination desires.
   effect: |
     Your Power Level determines the extent to which you can transform your target. If the target is transformed into a different creature, it uses the Might, Agility, Fortitude, and Perception attribute scores of the new creature.
+    In order to keep track of hit points, the target should record the total damage they have suffered. When transforming,  damage remains with the character even if their maximum hit points change. For example, Agent Walker has a max HP of 20 but is turned into a sheep and has her Fortitude reduced by 2, leaving her at 16 hit points. During combat, she suffers 10 damage. When she later transforms back into Agent Walker, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
     <ul>
-    <li><strong>Power Level 5</strong> - Polymorph a creature into another creature of the same size and 50% greater OR lesser weight. The duration is 1 hour per Alteration attribute point. </li>
-    <li><strong>Power Level 6</strong> - Polymorph a creature into another creature double or half the size. The duration is 1 hour per Alteration attribute point. </li>
-    <li><strong>Power Level 8</strong> - Polymorph a creature into another creature to quadruple or one-quarter its original size. Alternatively, transform the target into an object of its original size. The duration is 1 hour per Alteration attribute point.</li>
-    <li><strong>Power Level 9</strong> - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The duration is permanent.</li></ul>
+    <li><strong>Power Level 5</strong> - Polymorph a creature into another creature of the same size. This new form can reduce the target's attribute scores by up to 2. If the new form would have higher attributes, the target becomes an exceptional version of that creature. For example, transforming a deadly sniper with Agility 5 into a clumsy ogre with Agility 0, would leave the target with an Agility of 3 instead of the 0 typical for the new form.</li>
+    <li><strong>Power Level 6</strong> - Polymorph a creature into another creature between double and half the size. The new form can reduce the target's attribute scores by up to 3.</li>
+    <li><strong>Power Level 8</strong> - Polymorph a creature into another creature between quadruple and one-quarter its original size. Alternatively, transform the target into an object of its original size. The new form can reduce the target's attribute scores by up to 5.</li>
+    <li><strong>Power Level 9</strong> - Polymorph a creature into another creature of any size. Alternatively, transform the target into an object of its original size. The new form can reduce the target's attribute scores by up to 7.</li>
+    </ul>
 - !
   name: Provoked
   tags:
@@ -573,9 +592,9 @@
   attackAttributes:
   - Prescience
   attack:
-  - Prescience vs. Resolve (Special)
+  - Prescience vs. Resolve (special)
   invocationTime: 10 Minutes
-  duration: 10 minutes (Special)
+  duration: 10 minutes (special)
   description: |
     Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you can view the target from a distance.
   effect: |
@@ -626,7 +645,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Silence overcomes the target (whether from extroardinary of warping sound around the target) or from a physical effect like strangulation or suffocation.
+    Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation.
   effect: |
     If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5’ of the target is magically suppressed, making their footsteps and the usual clank of belongings they are carrying inaudible.
 - !
@@ -635,7 +654,7 @@
   - Extraordinary
   - Physical
   power:
-  - 2
+  - 1
   attackAttributes:
   - Agility
   - Energy
@@ -643,17 +662,17 @@
   - Might
   - Movement
   attack:
-  - Agility vs. Resilience
-  - Energy vs. Toughness
+  - Agility vs. Guard
+  - Energy vs. Guard
   - Entropy vs. Toughness
-  - Might vs. Resilience
-  - Movement vs. Resilience
+  - Might vs. Guard
+  - Movement vs. Guard
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Slowing an enemy is usually caused by either extreme cold, prolonged heat, poison, or injury to one or both legs.
+    The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs.
   effect: |
-    The afflicted target’s movement is reduced to 10 feet. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
+    The afflicted target’s speed is reduced to half it's current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
 - !
   name: Stunned
   tags:
@@ -727,7 +746,7 @@
   attack:
   - Influence vs. Resolve
   invocationTime: 10 Minutes
-  duration: 10 minutes (Special)
+  duration: 10 minutes (special)
   description: |
     Via control of the target's mind, you compel them to honesty, rendering them unable to deliberately lie.
   effect: |

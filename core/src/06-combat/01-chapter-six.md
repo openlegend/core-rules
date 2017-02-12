@@ -2,7 +2,7 @@
 
 Sometimes, the well-meaning but far too honest paladin blows your cover.
 
-Sometimes, the trigger-happy sorcerer gives away your position.
+Sometimes, the trigger-happy gunslinger gives away your position.
 
 Sometimes, negotiations fail.
 
@@ -29,7 +29,7 @@ After surprise has been determined, each combatant makes an Agility action roll.
 
 Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine order randomly.
 
-**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage on their initiative roll equal to the weapon’s *swift* value (i.e., *swift* 2 provides advantage 2). A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
+**Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage 2 on their initiative. A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
@@ -37,11 +37,11 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >
 > Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of Mugworm Griblicks.
 >
-> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift 1* property, granting her advantage 1 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 >
 >> Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
->> Jalani (Agility 4) rolls 1d20 + 2d10 (keeping the highest d10), and gets a 25.
+>> Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
 >>
 >> The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
 >
@@ -56,6 +56,16 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >> **Surprised Combatants**
 >>
 >>  Spaz 14
+
+
+### Waiting to Act
+
+If you do not wish to act when your turn comes, you may choose to defer your turn, either by waiting or by preparing to react in response to some sort of situation. If you wait, you may take your turn at any time after another character has finished their turn but before another character has begun.
+
+If you are preparing to react, then you should give a general description of what you are preparing for, such as "I'll act when a threat to come through the door" or "I'm readying my bow to shoot at an enemy who goes for the altar." When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
+
+If, by the end of the round, your triggering conditions were not met, you may take your turn as usual.
+
 
 ## The Core Mechanic in Combat
 
@@ -79,7 +89,7 @@ With these modified rules, a player’s failed attack roll means that the player
 > ### Example of the Core Mechanic in Combat
 >
 > Vera hurls herself at the red dragon attempting to cut through his
-scaly hide. However, her attack roll fails to hit the dragon’s Resilience
+scaly hide. However, her attack roll fails to hit the dragon’s Guard
 of 25. She chooses to inflict 3 damage, but the GM also gets a choice.
 >
 > He chooses to inflict the knockdown bane: The dragon’s tail lashes
@@ -91,11 +101,11 @@ Some players might wonder why a PC still gets a taste of success even when their
 
 ## Using Attributes to Inflict Damage
 
-Combat in *Open Legend* is a swirl of action rolls as blades clash, traps spring, lightning forks, and arrows fly. However, because of the free-form nature of storytelling in *Open Legend*, you may not always know what attributes can be used to make attacks.
+Combat in *Open Legend* is a swirl of action rolls as blades clash, traps spring, lightning forks, and lasers fly. However, because of the free-form nature of storytelling in *Open Legend*, you may not always know what attributes can be used to make attacks.
 
 ### Always
 
-Some attributes can pretty much always be used to deal damage. These include Might, Agility, Energy, and Entropy. These are the standards for swinging mauls, slinging arrows, raining fire, draining life force, and so on.
+Some attributes can pretty much always be used to deal damage. These include Might, Agility, Energy, and Entropy. These are the standards for swinging mauls, shooting guns, raining fire, draining life force, and so on.
 
 ### Sometimes
 
@@ -160,7 +170,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 | - | - |
 | **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Extraordinary** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
 | **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage varies (see below) |
-| **Step 3: Determine Targeted Defense** | Weapon Attacks target Resilience <br /><br /> Extraordinary Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Resilience** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
+| **Step 3: Determine Targeted Defense** | Weapon Attacks target Guard <br /><br /> Extraordinary Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Guard** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
 | **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />10 over defense, inflict one bane as well |
 
 ##### 1. Determine Range
@@ -227,14 +237,14 @@ You may choose from a variety of shapes when making an area attack as described 
 
 ##### 3. Determine Targeted Defense
 
-Every attack targets one of your foe’s defenses: Toughness, Resilience, or Resolve.
+Every attack targets one of your foe’s defenses: Toughness, Guard, or Resolve.
 
-Weapon attacks always target Resilience.
+Weapon attacks always target Guard.
 
 Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
-- **Resilience** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
+- **Guard** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
 - **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
 
@@ -242,7 +252,7 @@ Extraordinary attacks are more open-ended and often require the GM to decide the
 
 Make an action roll using the appropriate Attribute to determine the effectiveness of your attack. Forceful weapons use Might while Precise weapons use Agility. Extraordinary attacks use an attribute appropriate to the story (e.g., Energy for a fiery blast, Entropy for a disintegration ray).
 
-The Challenge Rating for your roll is the target’s defense score. If you succeed, the target takes damage equal to your action roll minus the targeted defense. This damage is subtracted from the target’s hit points.
+You deal damage equal to your action roll minus the target's defense, ignoring negative results. This damage is subtracted from the target's hit points. If your attack roll exactly equals the target's defense, the attack should be interpreted as a *success with a twist* (differing slightly from the usual core mechanic).
 
 **Exceptional Success**
 
@@ -270,7 +280,11 @@ The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate whic
 
 > ##### Example Bane Attacks
 >
-> Setting Sun is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Setting Sun is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Resilience of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+> Shu Jin is heavily wounded and needs a chance to escape from the Mandarin who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Shu Jin is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the Mandarin's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+>
+> * * * * *
+>
+> Surrounded by a rapidly growing horde of zombies, Selene pumps her sawed-off shotgun and prepares to blast a number out of the way and make a run for her life. Her weapon gives her two benefits in this situation: the ability to make a 10' cone attack without penalty, advantage 1 on Forced Move bane attacks, and access to Forced Move bane tiers 1 above her attribute. Since she is only trying to move the zombies rather than damage them, she attacks 3 (the number of targets for a 10' cone) of them with a Forced Move bane attack. Selene's Agility is 5, so she would normally roll 1d20 + 2d6, but the sawed-off shotgun's Forced Move bane property gives advantage 1, so she rolls 1d20 + 3d6 (keeping 2 of the d6's) and gets a total of 23. Since the sawed-off shotgun has the Forced Move bane property, Selene also has that bane's Power Level reduced by 1, so she is able to invoke Forced Move at Power Level 6, which is normally not available to Selene with her Agility of 5. Selene blasts all 3 zombies back 15' and begins running for her life.
 >
 > * * * * *
 >
@@ -366,7 +380,7 @@ Many banes will persist for a longer duration after three failed resist attempts
 
 Minor actions are tasks that don’t require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
--   Draw a weapon
+-   Draw or sheathe a weapon
 -   Retrieve an item stored on your person
 -   Sustain a boon
 -   Make a Perception roll to observe your surroundings
@@ -426,19 +440,19 @@ In some situations, you may want to take an action in response to another combat
 
 #### Defend
 
-You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. (Protection, Agility, and Might are all typical examples of attributes used to defend).
+You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. Describe how you are defending and then make an action roll using an appropriate attribute (Protection, Agility, and Might are all typical examples of attributes used to defend). A single defend action can only be used to defend one target.
 
-If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. A single defend action can only be used to defend one target. (**Note:** Characters wielding a shield gain advantage 1 on defend actions when appropriate).
+If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. (**Note:** Characters wielding a weapon with the *defensive* property gain advantage equal to the weapon's *defensive* value on their defend action roll).
 
-As part of your defend action, you may also move up to half of your speed at any time during your action. If you are adjacent to your ally when moving, the ally may choose to move with you.
+As part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the orginal attack, even if it takes the defended character out of the reach or area of the attack.
 
 > ##### Defend Examples
 >
-> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Resilience of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Resilience, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
+> Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Guard of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Guard, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
 >
 > * * * * *
 >
-> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Resilience scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
+> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Guard scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
 
 #### Improvise
 
@@ -454,7 +468,7 @@ Your hit points (HP) are an abstract measure of your character’s ability to ig
 
 ### Finishing Blows
 
-When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a **finishing blow** and may cause immediate death. Your defense against a finishing blow does not include your Fortitude or Agility attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you are dead.
+When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a **finishing blow** and may cause immediate death. Your defense against a finishing blow does not include any bonus from your attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you are dead.
 
 ### Reaching Zero Hit Points
 
@@ -468,7 +482,7 @@ After a combat encounter ends and you have at least ten minutes to rest and catc
 
 Lethal damage is used sparingly in Open Legend as a way for GMs to paint a picture of injury consequences over time. This is especially helpful for grim and gritty storylines where effects of injury should extend beyond a combat encounter. A GM might incorporate a trap or environmental hazard that deals lethal damage. Since these situations occur outside of combat, normal damage would othewise have no long term effect on the story.
 
-A creature's maximum hit point toal is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to it's maximum hit points. If a creature sustains lethal damage greater than or equal to it's maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
+A creature's maximum hit point toal is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to its maximum hit points. If a creature sustains lethal damage greater than or equal to its maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
 
 Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
 

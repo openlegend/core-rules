@@ -4,13 +4,83 @@
 
 Included here in [YAML format](https://en.wikipedia.org/wiki/YAML) are the rules which are published to the [www.openlegendrpg.com](http://www.openlegendrpg.com) website. Feel free to open a pull request to propose improvements to any of the rules, add new feats, or otherwise start a discussion pertaining to the rules text. Note that any contribution will require that you preserve the valid YAML syntax, otherwise the website will break as a result of your changes. If you're not sure, use [this site](http://yaml-online-parser.appspot.com/) to validate your YAML outputs valid JSON.
 
-## License
+## Open Legend Community License
 
-The game rules content of this repository are released under a special open-source license that offers third party publishers either a [commercial terms license](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-commercial-terms) or a [non-commercial terms license](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-non-commercial-terms)
+The game rules content of this repository are released under a special open-source license that offers third party publishers the opportunity to use the game rules as well as designated Open Legend logo royalty-free in their own commercial or non-commercial projects via the [Open Legend Community License](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-community-license).
 
 ## Changelog
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
+
+#### 2017 / 02 / 12
+-   Clarified that `Forceful` and `Precise` weapons can only be used for bane attacks with that particular attribute.
+-   `Natural Defense` feat now increases both Guard and Toughness defenses
+-   `Immobile` bane now targets Toughness for most bane attacks
+-   `Augury` renamed to `Precognition` because augury by definition has ties to the divine. `Precognition` represents
+-   `Boon Focus III` clarified to allow boon invocation as a free action, meaning that it only persists if you're conscious to spend an action.
+-   `Death Blow` feat's tier 3 is removed, 15 HP death threshold is too powerful, and the tier 2 Silenced effect was overly complex. There are now 2 tiers.
+-   `Ritual Magic` feat is renamed to `Heightened Invocation` to more effectively span non-magically oriented genres
+-   `Dispel` bane is renamed to `Nullify` to more effectively span non-magically oriented genres
+
+#### 2017 / 02 / 11
+-   Removed redundant `Inner Strength` perk (was a duplicate of `Resilient` perk)
+-   Added `Targeted Weapons` property to manually targeted vehicular weapons
+-   Modified certain Vehicles to have `Resolve: Immune` to represent mind-influencing banes don't effect them
+
+#### 2017 / 02 / 05
+-   Added `Vehicles & Mounts` section at the end of chapter 4
+-   Added `Tech Level` callout before Weapons section in chapter 4
+-   Add `Deafened` bane to mirror `Blinded` and `Silenced`
+
+#### 2017 / 02 / 03
+-   Added rules for `Waiting to Act` that allow for preparing to react to a given trigger and waiting in general
+-   Clarify that boons don't stack
+-   Renamed `Burst` weapon property to `Area` and significantly changed how it works. These weapons always make attacks in their listed size and shape areas, and suffer no penalties for doing so
+-   Add `Agility` as an optional attribute for invoking `Knockdown` and `Forced Move` banes
+-   Clarify how hit points are tracked for `Polymorph` bane and `Shapeshift` boon
+-   `Polymorph` bane is fixed. Previously had variable and overpowered durations as well as being easily abused to transform the target into a form with all attribute scores being 0.
+-   `Banished` bane is removed. An effect so permanent should be part of the GM's discretion and a story choice rather than automatic and permanent exile from a successful roll (done at-will)
+-   `Shapeshift` now allows the target to keep their `Alteration` attribute score when they shift.
+-   `Shapeshift` is changed so that gaining access to the new forms extraordinary attributes happens at power level 7
+
+#### 2017 / 02 / 02
+-   `Summon Creature` no longer has a permanent option, creating permanent creatures is reserved as an effect for only the `Animation` boon.
+-   `Animation` boon now has the additional effect of automatically invoking the `Charmed` bane on a newly created creature.
+
+#### 2017 / 01 / 18
+-   `Armory Mastery` feat effect wording changed from Might to Fortitude to match recent armor changes.
+-   `Natural Defense` feat Fortitude prerequisites reduced for each tier from 2/3/5 to 0/1/2.
+-   `Two Weapon Defense` feat wording clarifies the armor bonus is for the Guard defense.
+-   `Defensive` property of weapons now grants a non-stacking +1 armor bonus, regardless of Defensive level. `Defensive Mastery` feat wording clarified for its bonus to stack an addition +1 armor bonus.
+-   NPCs now have a new feat open to them (GM Only): Bane Resistance, with two tiers (+5 defense and immunity to a specific bane).
+-   `Sylvan Ally` perk renamed `Nature's Ally`.
+-   `Shapeshift` boon effect layout clarified for Power Level 2. Also, wording improved for multiple genres.
+-   `Multi-Target Attack Specialist` wording fixed to refer to **multi-targeting**, not multi-attacks.
+
+#### 2017 / 01 / 15
+-   Added Power Level 2 to `Shapeshift` boon
+-   You can now move your `Phantasm` as a free action on your turn, but it must remain within your invocation range.
+-   `Defend` action clarified. A single defend action can only be used to defend one target. Movement granted by this action doesn't provoke attack of opportunity, nor does it negate the original attack.
+
+#### 2017 / 01 / 13
+-   `Breakfall` now works in two tier. Tier 1 reduces all falling damage if you are not incapacitated. Tier 2 renders you immune to falling damage if you are not incapacitated. Cost increased to 2.
+
+#### 2017 / 01 / 10
+-   Recalculated weapon's Wealth Level
+
+#### 2017 / 01 / 08
+-   Tweak `Delayed Ready` property to require the ready action before use, so that weapons with `Consumable` property don’t get the free benefit of bypassing the ready action
+
+#### 2017 / 01 / 06
+-   Changed armor prerequisites to `Fortitude` instead of `Might`. This addresses a balance concern about `Might` characters having an unfair advantage with their `Guard` defense since armor had a `Might` prerequisite that made it difficult for `Agility` based characters to qualify for. `Fortitude` is useful for ALL characters as it makes you harder to kill with higher `Toughness`, HP, and now armor as well.
+-   `Battle Trance` feat modified to provide bonus to armor for characters with an armor bonus less than 3.
+-   Removed `Defensive` property from a few weapons since it would prevent them from getting the two-handed bonus to attacks
+-   **Unmovable Weapons** are now called `Stationary` since they are ... well ... not unmovable.
+-   **Deadly Weapons** now require a minimum wealth level of 4, and `Deadly` does not stack with itself. Only the greatest value among items you wield applies.
+-   **Defensive Weapons** no longer gain advantage on attack rolls for dual wielding or being used two-handed. This property no longer stacks.
+-   Fix a number of weapon properties and add missing `Longsword` example
+-   Fix incorrect cost of `Extraordinary Defense` (now 3 feat points) and `Natural Defense` (now 2 feat points)
+-   **Major Change to Evasion / Resilience Defense** - due to the words `Resilience` and `Toughness` being too similar, `Resilience` (formerly `Evasion`) is now called `Guard`
 
 #### 2017 / 01 / 02
 -   **Major Change to Weapons** - Weapons now include multiple examples of each type that shares the same properties and now have a `Category` which determines the various ways it can be used.

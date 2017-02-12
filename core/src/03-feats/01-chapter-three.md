@@ -1,6 +1,6 @@
 # Chapter 3: Feats #
 
-In this chapter, you’ll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character’s specializations, the actions, tasks, and abilities she excels at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
+In this chapter, you’ll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character’s specializations, the actions, tasks, and abilities they excel at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
 
 ## Acquiring Feats
 
@@ -12,7 +12,7 @@ The full listing of feats is available in a searchable list [here](http://www.op
 
 Each feat description includes the following elements.
 
-**Title.** The name of the feat. Some feats contain multiple tiers, rising in power with each new tier. If a feat contains multiple tiers, these will be indicated in parentheses after the title (e.g., “Alternate Form (I - III)” ).
+**Title.** The name of the feat. Some feats contain multiple tiers, rising in power with each new tier. If a feat contains multiple tiers, these will be indicated in parentheses after the title (e.g., “Alternate Form (I - II)” ).
 
 **Cost.** This is the number of feat points required to purchase the feat. If the feat has multiple tiers, the cost is the same for each tier and must be paid every time the feat is purchased at a new tier *unless otherwise noted in the feat description*.
 
