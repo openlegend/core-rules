@@ -360,6 +360,10 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
     - **Tier 3:** This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If the invocation is not a single target, success is not automatic, but you get advantage 4 on the action roll to invoke it.
 
+    If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke it when multi-targeting. Additionally, the boon is always active for your character and passively persists, without requiring you to use a minor action to sustain it. If the boon is somehow temporarily cancelled (such as by the dispel bane), it resumes automatically at the start of your next turn.
+    <br />
+    <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke it when multi-targeting.
+
 - **Energy Resistance (tier 1 - 3, your choice):** Choose an energy type and gain the following benefits:
 
     - **Tier 1:** Prevent the first 5 damage you would suffer each round from the chosen energy type.
@@ -368,7 +372,12 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
     - **Tier 3:** You are immune to the chosen energy type.
 
-- **Evasive Footwork:** When you move from a square adjacent to an enemy to another square not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+    <li><strong>Tier 1</strong> - Your defense scores are increased by 3 against the chosen energy type.</li>
+    <li><strong>Tier 2</strong> - Your defense scores are increased by 6 against the chosen energy type.</li>
+    <li><strong>Tier 3</strong> - Your defense scores are increased by 9 against the chosen energy type.</li>
+    <li><strong>Tier 4</strong> - You are immune to damage and harmful effects from the chosen energy type.</li>
+
+- **Evasive Footwork:** When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 
 - **Lethal Strike (tier equal to NPC level, max 9):** Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
     1. Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception.
@@ -377,14 +386,18 @@ Once you have the basic statistics recorded, choose a few of the following feats
     If one of the above conditions is met, you can deliver a lethal strike, which grants advantage and deals lethal damage in accordance with your tier and is difficult to recover from. Each tier below has an amount of advantage and a max lethal damage. If you deal damage up to the lethal threshold, then the lethal damage equals your damage total. If you deal more damage than the lethal threshold, you deal lethal damage equal to the threshold.
 
     - **Tier 1** - Advantage 1, Max lethal damage 5
-    - **Tier 2** - Advantage 2, Max lethal damage 10
-    - **Tier 3** - Advantage 3, Max lethal damage 15
-    - **Tier 4** - Advantage 4, Max lethal damage 15
-    - **Tier 5** - Advantage 5, Max lethal damage 20
+    - **Tier 2** - Advantage 2, Max lethal damage 5
+    - **Tier 3** - Advantage 3, Max lethal damage 10
+    - **Tier 4** - Advantage 4, Max lethal damage 10
+    - **Tier 5** - Advantage 5, Max lethal damage 15
     - **Tier 6** - Advantage 6, Max lethal damage 20
-    - **Tier 7** - Advantage 7, Max lethal damage 25
+    - **Tier 7** - Advantage 7, Max lethal damage 20
     - **Tier 8** - Advantage 8, Max lethal damage 25
-    - **Tier 9** - Advantage 9, Max lethal damage 30
+    - **Tier 9** - Advantage 9, Max lethal damage 25
+
+- **Multi Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of additional attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
+
+You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
 
 - **Multi-Attack Specialist (tier equals NPC level, max 6):** When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
 

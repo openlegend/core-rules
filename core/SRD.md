@@ -92,7 +92,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 | | |
 | - | - |
-| **Learning** |  Recall facts about history, arcane magic, the natural world, etc. |
+| **Learning** | Recall facts about history, arcane magic, the natural world, etc. |
 | **Logic** | Solve riddles, decipher a code, improvise a tool, understand the enemy’s strategy, find a loophole |
 | **Perception** | Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door |
 | **Will** | Maintain your resolve, overcome adversity, resist torture, stay awake on watch, stave off insanity |
@@ -234,7 +234,7 @@ heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they takes the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred berserker, takes [*Battle Trance*](#battle-trance) so that they can fly into a frenzied rage in order to decimate their foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes [*Battle Trance*](#battle-trance) so that they can fly into a frenzied rage in order to decimate their foes.
 
 ### Choose your feats
 
@@ -296,7 +296,7 @@ Whether you are an android constructed of spaceage material that does not erode 
 
 #### Arcane Bloodline
 
-Your ancestry can be traced to dragons, fey, or a similarly magical race. As such, you command the respect of those who practice the arcane arts.  You are assumed to have knowledge and a destiny for greatness in the ways of magic, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you an apprenticeship with a famous Archmage, or cause a magic-user who does not know you well to follow a prescribed course of action based on your advice if the question is one of Arcane knowledge.
+Your ancestry can be traced to dragons, fey, or a similarly magical race. As such, you command the respect of those who practice the arcane arts. You are assumed to have knowledge and a destiny for greatness in the ways of magic, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you an apprenticeship with a famous Archmage, or cause a magic-user who does not know you well to follow a prescribed course of action based on your advice if the question is one of Arcane knowledge.
 
 #### Artisan
 
@@ -626,7 +626,7 @@ interpret the results.
 ## When to Roll the Dice
 
 *Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
-example, you’ll be making plenty of action rolls to clash blades, sling spells, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left the key to your room at the inn.
+example, you’ll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left your multi-pass.
 
 *Open Legend* includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
 
@@ -647,10 +647,10 @@ If you look back to the Core Mechanic, you can see that a simple failure is not 
 
 | **If the action roll...** | **then the result is...** |
 | :- | :--: |
-| equals or exceeds Challenge Rating | the player succeeds. |
-| is less than Challenge Rating | the player succeeds with a twist. \
+| equals or exceeds the Challenge Rating, | the player succeeds. |
+| is less than the Challenge Rating, | the player succeeds with a twist. \
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  - *OR* - \
-\ \ \ the player fails but the story \
+\ \ \ the player fails, but the story \
 \ \ \ \ \ \ progresses. *(GM's Choice)* |
 
 
@@ -691,7 +691,7 @@ It’s important to note that Challenge Ratings are not typically set to be rela
 
 ### Contested Actions
 
-Sometimes, two or more characters are directly opposing each other in a test of strength, wits, or charm. For example, a mighty barbarian wrestles with a minotaur to get hold of a magical gem. Or three representatives of different kingdoms attempt to persuade the outlander chieftain to join their forces. Or a stealthy rogue attempts to sneak unseen past the watch of the town guard. These sorts of situations are called **contested actions**.
+Sometimes, two or more characters are directly opposing each other in a test of strength, wits, or charm. For example, a mighty barbarian wrestles with a minotaur to get hold of a magical gem. Or three representatives of different star systems attempt to persuade the warleader of the intergalactic reavers to join their forces. Or a stealthy ninja attempts to sneak unseen past the watch of the monks on guard. These sorts of situations are called **contested actions**.
 
 To resolve such contests, each character involved makes an action roll using an appropriate attribute. Whoever rolls the highest succeeds at the action. Sometimes, all parties use the same attribute for their action rolls, but often, each character will use a different attribute, as in the case of the rogue attempting to sneak (Agility) past the guard’s watch (Perception).
 
@@ -808,15 +808,15 @@ Below is a complete list of feats available to any character that meets the prer
 \
 **Prerequisites:**
 
--    **Tier 1 - 2:** None
+-   **Tier 1 - 2:** None
 
 **Description:** You have the ability to transform from one persona to another, whether that be through bodily transformation like a werewolf or through exterior mechinisms, such as a cybernetically enhanced soldier who can call forth a symbiotic mech suit. \newline
 
 **Effect:** Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
 
-- **Tier 1** – Half of your primary form's attribute points (rounded up), and 3 feat points.
+-   **Tier 1** - Half of your primary form's attribute points (rounded up), and 3 feat points.
 
-- **Tier 2** – Same attribute points as your primary form, and 3 feat points per level.
+-   **Tier 2** - Same attribute points as your primary form, and 3 feat points per level.
 
 Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
 As a focus action, you may change between any two forms (including your primary form or any alternate form). You maintain this capability in all of your forms.
@@ -863,7 +863,7 @@ maximize its protection and minimize its drawbacks. \newline
 \
 **Prerequisites:**
 
--   **Tier 1**: Defensive Reflexes II
+-   **Tier 1:** Defensive Reflexes II
 
 **Description:** You are adept at redirecting your enemy's attacks. Whether using fancy
 footwork, magical force, or tactical superiority, you can use your
@@ -882,22 +882,22 @@ the attacker).
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility, Might, or Any Extraordinary 1
--   **Tier 2**: Agility, Might, or Any Extraordinary 2
--   **Tier 3**: Agility, Might, or Any Extraordinary 3
--   **Tier 4**: Agility, Might, or Any Extraordinary 4
--   **Tier 5**: Agility, Might, or Any Extraordinary 5
--   **Tier 6**: Agility, Might, or Any Extraordinary 6
--   **Tier 7**: Agility, Might, or Any Extraordinary 7
--   **Tier 8**: Agility, Might, or Any Extraordinary 8
--   **Tier 9**: Agility, Might, or Any Extraordinary 9
+-   **Tier 1:** Agility, Might, or Any Extraordinary 1
+-   **Tier 2:** Agility, Might, or Any Extraordinary 2
+-   **Tier 3:** Agility, Might, or Any Extraordinary 3
+-   **Tier 4:** Agility, Might, or Any Extraordinary 4
+-   **Tier 5:** Agility, Might, or Any Extraordinary 5
+-   **Tier 6:** Agility, Might, or Any Extraordinary 6
+-   **Tier 7:** Agility, Might, or Any Extraordinary 7
+-   **Tier 8:** Agility, Might, or Any Extraordinary 8
+-   **Tier 9:** Agility, Might, or Any Extraordinary 9
 
 **Description:** You are so well trained with a particular form of attack that you can
 devastate foes with much more skill than the average combatant. \newline
 
 **Effect:** When you take this feat, select one weapon or energy type. You gain
-Advantage 1 per tier of this feat for any damaging attack made with your
-choice. This bonus does not apply to bane attacks or boon invocations.
+Advantage 1 per tier of this feat for any *damaging* attack made with
+your choice. This bonus does not apply to bane attacks or boon invocations.
 
 Examples of energy types you can choose to specialize in include fire,
 cold, lightning, acid, poison, entropy, creation, and force - though
@@ -910,13 +910,13 @@ different attacks by purchasing the feat again. For example, a character
 might have Attack Specialization (Tier 2) for Fire attacks and Attack
 Specialization (Tier 4) for Long Sword.
 
-## Attribute Substitution
+## Attribute Substitution (I - II)
 
 **Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1 - 2**: None
+-   **Tier 1 - 2:** None
 
 **Description:** Your prowess in an extraordinary, mental, or social attribute is
 linked in a way that empowers another attribute of your character, allowing you
@@ -931,13 +931,13 @@ attributes: one stronger (the primary attribute) and one weaker (the dependent
 attribute). You may use your score in the primary attribute in place of the dependent
 attribute for different purposes depending on which tier of the feat you have:
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Making non-attack action rolls
     -   Calculating hit points, defenses, and other secondary statistics
     -   Meeting feat, bane, and boon prerequisites
     -   Other situations at the GM's discretion
 
--   **Tier 2**:
+-   **Tier 2:**
     -   Making attack action rolls
 
 The relationship formed by your two attributes is subject to case-by-case
@@ -959,7 +959,7 @@ substituting Entropy for Agility. \newline
 \
 **Prerequisites:**
 
--   **Tier 1**: Ability to invoke the chosen bane
+-   **Tier 1:** Ability to invoke the chosen bane
 
 **Description:** You are specialized in the use of a particular bane that is iconic to
 your character. \newline
@@ -972,7 +972,7 @@ your character. \newline
 \
 **Prerequisites:**
 
--   **Tier 1**: Fortitude, or Will 3
+-   **Tier 1:** Fortitude, or Will 3
 
 **Description:** You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian, or an unstoppable samurai with laser focus in the heat of battle. \newline
 
@@ -989,7 +989,7 @@ you automatically suffer 1 level of the [*fatigue bane*](#fatigued).
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility, Might, or Protection 4
+-   **Tier 1:** Agility, Might, or Protection 4
 
 **Description:** Your prowess on the battlefield allows you to punish your enemies for
 every misplaced step. \newline
@@ -1004,7 +1004,7 @@ attacker's roll.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Might 5
     -   Battlefield Defender
 
@@ -1022,7 +1022,7 @@ start of its next turn.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Agility, or Might 5
     -   Battlefield Defender
 
@@ -1040,7 +1040,7 @@ their movement is cancelled until the start of their next turn.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Agility, or Might 7
     -   Battlefield Defender
 
@@ -1058,7 +1058,9 @@ cancelled by the Stunned bane until the start of the target's next turn.
 \
 **Prerequisites:**
 
--   **Tier 1 - 5:** Agility, or Might 5
+-   **Tier 1 - 5:**
+    -   Agility, or Might 5
+    -   Battlefield Defender
 
 **Description:** Your battlefield prowess allows you to capitalize on windows of
 opportunity that others don't notice, making you far more deadly in
@@ -1076,7 +1078,7 @@ same foe when they leave your threatened space).
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** You have a special gift: it might be the result of your heritage, a
 close encounter with magical energy, or the result of years of training
@@ -1089,13 +1091,14 @@ replicate a single boon. \newline
 requisite attribute to invoke. The cost of this feat is equal to the
 Power Level of the chosen boon. You can invoke the chosen boon despite
 lacking the necessary attribute. For invocation rolls, treat your
-attribute score as the Power Level of the boon. Additionally, you count
-as having access to the chosen boon for the purpose of meeting feat
-prerequisites, and your attribute for meeting such prerequisites is
-equal to the Power Level of the boon. The Boon Access feat bypasses the
-normal attribute score restrictions based on character level, so a first
-level character could spend all 6 of their feat points to begin play
-with access to a Power Level 6 boon.
+attribute score as the Power Level of the boon. If the boons has multiple
+attribute prerequisite options, you choose one attribute when you take
+this feat. Additionally, you count as having access to the chosen boon for
+the purpose of meeting feat prerequisites, and your attribute for meeting
+such prerequisites is equal to the Power Level of the boon. The Boon Access
+feat bypasses the normal attribute score restrictions based on character
+level, so a first level character could spend all 6 of their feat points
+to begin play with access to a Power Level 6 boon.
 
 You may acquire this feat multiple times. Each time, select a new boon. \newline
 
@@ -1117,9 +1120,9 @@ character. \newline
 
 **Effect:**
 
--   **Tier 1** -  When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
+-   **Tier 1** - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
 
--   **Tier 2** -  You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour.
+-   **Tier 2** - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.
 
 -   **Tier 3** - The effect at tier 3 varies based on the duration of the boon:  \
 \ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled (such as by the Nullify bane), you can invoke it at the start of your next turn as a free action.  \
@@ -1127,7 +1130,7 @@ character. \newline
 
 ## Breakfall (I - II)
 
-**Cost:** 2 point
+**Cost:** 2 points
 \
 **Prerequisites:**
 
@@ -1147,7 +1150,7 @@ character. \newline
 \
 **Prerequisites:**
 
--   **Tier 1**: Might 2
+-   **Tier 1:** Might 2
 
 **Description:** Your powers of persuasion stem from application of brute force rather
 than your social grace. \newline
@@ -1161,7 +1164,7 @@ attribute in place of Persuasion for the action roll.
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** You gain the ability to climb or parkour perfectly, as is seen in certain vampires, aberrant creatures, ninjas, and insects. \newline
 
@@ -1173,7 +1176,7 @@ attribute in place of Persuasion for the action roll.
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** You are able to decimate many enemies in quick succession, like a
 legendary Samurai warrior or matchless elven archer. \newline
@@ -1190,7 +1193,7 @@ action roll.
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** Whether through brute strength or lightning reflexes, you are able to
 use the momentum of combat to maneuver around the battlefield with ease. \newline
@@ -1209,7 +1212,7 @@ use the momentum of combat to maneuver around the battlefield with ease. \newlin
 
 **Description:** Whether a hired bodyguard, a loyal animal sidekick, or a sibling that
 follows you everywhere, you have the constant and unflinching loyalty of
-one particular companion character.  \newline
+one particular companion character. \newline
 
 **Effect:** You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no special abilities beyond the feat granted per tier. Whenever you gain a level or purchase a new tier in this feat, you may reassign your companion's attributes and feats.
 
@@ -1217,7 +1220,7 @@ one particular companion character.  \newline
 
 -   **Tier 2** - Your companion's highest attribute equals your level minus 1 (minimum of 4, maximum of 9). Your companion gains a 2nd feat from the same list.
 
--   **Tier 3** - Your companion's highest attribute equals your level (minimum of 5, maximum of 9).  Your companion gains a 3rd feat from the same list.
+-   **Tier 3** - Your companion's highest attribute equals your level (minimum of 5, maximum of 9). Your companion gains a 3rd feat from the same list.
 
 **Example:** Fezzy starts at level one with Companion (Tier II), choosing a wolf for
 his companion. Based on Fezzy's level and feat tier, his wolf's highest
@@ -1236,7 +1239,7 @@ Presence 1. \newline
 \
 **Prerequisites:**
 
-- **Tier 1 - 2:** Learning 3, or Knowledge I
+-   **Tier 1 - 2:** Learning 3, or Knowledge I
 
 **Description:** You have mastered a particular craft, and given proper time and
 materials, you can create items related to that craft. \newline
@@ -1285,7 +1288,7 @@ your GM to come up with other suitable crafts).
 or building extraordinary devices. Their power is permanent but varies
 depending on your skill. \newline
 
-**Effect:**  This feat allows you to create items that can invoke a given bane or
+**Effect:** This feat allows you to create items that can invoke a given bane or
 boon either autonomously or by way of a wielder.
 
 -   **Tier 1** - You can create an item with this feat. Choose a target attribute score for the item, less than or equal to 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3). \
@@ -1317,7 +1320,7 @@ boon either autonomously or by way of a wielder.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Might 6
     -   Overpowering Strike
 
@@ -1335,10 +1338,10 @@ suffers the effects of the knockdown bane.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Agility 6
     -   Lethal Strike I
--   **Tier 2**:
+-   **Tier 2:**
     -   Agility 7
     -   Lethal Strike III
 
@@ -1359,7 +1362,7 @@ being detected. \newline
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Fortitude 7
     -   Battle Trance
 
@@ -1379,14 +1382,14 @@ within 1 round of your battle trance ending, you die.
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** You are specially trained in the use of defensive implements and
 can get more protective use out of them. Examples include a martial artist's
 defensive kata or a soldier with a riot shield. \newline
 
 **Effect:** When wielding a weapon or implement with the Defensive property, you
-gain a +1 armor bonus. In addition, the Defensive value of the item is increased
+gain an additional +1 armor bonus. In addition, the Defensive value of the item is increased
 by 1 when you wield it. So Defensive 1 becomes Defensive 2 and Defensive 2 becomes
 Defensive 3.
 
@@ -1411,7 +1414,7 @@ roll per tier you possess of this feat.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Might 7
     -   Battle Trance
 
@@ -1431,7 +1434,7 @@ a 7 or 8, and so on.
 \
 **Prerequisites:**
 
--   **Tier 1**: Presence, or Fortitude 3
+-   **Tier 1:** Presence, or Fortitude 3
 
 **Description:** Whether luck shines upon you or you're just really hard to kill you have
 a knack for staying in the fight when others would suffer a much worse
@@ -1446,7 +1449,7 @@ you to 1 HP instead.
 \
 **Prerequisites:**
 
--   **Tier 1**: Creation, or Protection 5
+-   **Tier 1:** Creation, or Protection 5
 
 **Description:** Your inherent magical protection extends to make you immune to disease. \newline
 
@@ -1459,7 +1462,7 @@ against magical curses such as lycanthropy.
 \
 **Prerequisites:**
 
--   **Tier 1 - 4**: None
+-   **Tier 1 - 4:** None
 
 **Description:** Your specialization in a particular type of energy or general protection
 causes you to be resistant to that type of energy. \newline
@@ -1471,7 +1474,7 @@ type, you gain resistance to the attack as follows:
 -   **Tier 1** - Your defense scores are increased by 3 against the chosen energy type.
 -   **Tier 2** - Your defense scores are increased by 6 against the chosen energy type.
 -   **Tier 3** - Your defense scores are increased by 9 against the chosen energy type.
--   **Tier 4** - You are immune to damage from attacks of the chosen energy type.
+-   **Tier 4** - You are immune to damage and harmful effects from the chosen energy type.
 
 ## Evasive Footwork
 
@@ -1479,7 +1482,7 @@ type, you gain resistance to the attack as follows:
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility 4
+-   **Tier 1:** Agility 4
 
 **Description:** You are able to dodge and weave in combat, deftly sidestepping attacks
 that would strike a clumsier combatant. \newline
@@ -1490,13 +1493,13 @@ attack.
 
 ## Extraordinary Defense (I - III)
 
-**Cost:** 2 points
+**Cost:** 3 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Movement, Prescience, or Protection 2
--   **Tier 2**: Movement, Prescience, or Protection 3
--   **Tier 3**: Movement, Prescience, or Protection 4
+-   **Tier 1:** Movement, Prescience, or Protection 2
+-   **Tier 2:** Movement, Prescience, or Protection 3
+-   **Tier 3:** Movement, Prescience, or Protection 4
 
 **Description:** Whether by a magical barrier of force, foresight into the future, or
 preternatural speed, you are gifted with extraordinary protection from
@@ -1511,7 +1514,7 @@ This increases your Toughness, Guard, and Resolve defenses.
 \
 **Prerequisites:**
 
--   **Tier 1**: Any Extraordinary 1
+-   **Tier 1:** Any Extraordinary 1
 
 **Description:** Your extraordinary power stems from your connection with a particular
 focus, such as a wand, holy symbol, or spellbook. \newline
@@ -1535,7 +1538,7 @@ feat and may spend them as usual.
 \
 **Prerequisites:**
 
--   **Tier 1**: Creation 5
+-   **Tier 1:** Creation 5
 
 **Description:** Your mastery of extraordinary healing is such that you are able to cure
 mortal wounds that are beyond the power of the average healer. \newline
@@ -1552,7 +1555,7 @@ that your boon heals.
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility 1
+-   **Tier 1:** Agility 1
 
 **Description:** Whether you're a samurai warrior, the fastest draw in the West, or a
 flawlessly trained interstellar soldier, you can get to your weapon
@@ -1568,7 +1571,7 @@ sized object in your possession.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Agility 5
     -   Perception 5
 
@@ -1578,15 +1581,15 @@ and still follow a trail. \newline
 **Effect:** You can move at your full speed while tracking your quarry rather than
 the reduced speed typically incurred at the GM's discretion.
 
-## Ferocious Minions
+## Ferocious Minions (I - III)
 
 **Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Influence 3
--   **Tier 2**: Influence 5
--   **Tier 3**: Influence 7
+-   **Tier 1:** Influence 3
+-   **Tier 2:** Influence 5
+-   **Tier 3:** Influence 7
 
 **Description:** Creatures that you’ve magically compelled become even stronger when
 fighting in your defense or under your command. \newline
@@ -1595,15 +1598,15 @@ fighting in your defense or under your command. \newline
 advantage 1 on all attack rolls to defend or help you for each tier of
 this feat you possess.
 
-## Fleet of Foot (I – III)
+## Fleet of Foot (I - III)
 
 **Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility 4, Fortitiude 4, or Movement 2
--   **Tier 2**: Agility 5, Fortitiude 5, or Movement 4
--   **Tier 2**: Agility 7, Fortitiude 7, or Movement 6
+-   **Tier 1:** Agility 4, Fortitude 4, or Movement 2
+-   **Tier 2:** Agility 5, Fortitude 5, or Movement 4
+-   **Tier 3:** Agility 7, Fortitude 7, or Movement 6
 
 **Description:** Whether through cybernetic implants, telekinetic propulsion, or simply hardcore training, you are faster than most. \newline
 
@@ -1615,7 +1618,7 @@ this feat you possess.
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** Whether through a pair of celestial or infernal wings, an inherent
 telekinetic power, or something unexplainable that you're born with, you
@@ -1627,15 +1630,15 @@ flight, sending you hurtling to your doom. If your flight is anatomical,
 an Immobile bane might render your wings immovable, if telekinetic, an
 application of the Dispel bane may cancel your flight.
 
-## Great Leap (I – III)
+## Great Leap (I - III)
 
 **Cost:** 1 point
 \
 **Prerequisites:**
 
--   **Tier 1**: Movement, or Agility 2
--   **Tier 2**: Movement, or Agility 4
--   **Tier 3**: Movement, or Agility 6
+-   **Tier 1:** Movement, or Agility 2
+-   **Tier 2:** Movement, or Agility 4
+-   **Tier 3:** Movement, or Agility 6
 
 **Description:** Through extraordinary power or exceptional agility, you can jump
 exceptionally far. \newline
@@ -1650,7 +1653,7 @@ per tier on action rolls to jump.
 \
 **Prerequisites:**
 
--   **Tier 1**: Influence 5
+-   **Tier 1:** Influence 5
 
 **Description:** You are able to use your powers of illusion to not only create
 phantasmal figments, but to completely dominate the sensory perceptions
@@ -1670,7 +1673,7 @@ multi-targeting attacks.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Influence 7
     -   Hallucination
 
@@ -1742,7 +1745,7 @@ bane or boon:
 \
 **Prerequisites:**
 
--   **Tier 1**: Creation, Presence, or Protection 4
+-   **Tier 1:** Creation, Presence, or Protection 4
 
 **Description:** Through inspiring words, magical healing, or advanced medical technique,
 you are exceptionally skilled at helping others shake off baneful
@@ -1758,7 +1761,7 @@ any time you attempt to invoke the Restoration boon.
 \
 **Prerequisites:**
 
-**Tier 1 - 9:** None
+-   **Tier 1 - 9:** None
 
 **Description:** You are expertly focused on dealing with a particular species, race, or
 faction. \newline
@@ -1777,7 +1780,7 @@ pertaining to your chosen group.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Will 7
     -   Battle Trance
 
@@ -1820,9 +1823,9 @@ for the purposes of determining the bane's effects. You may take this feat multi
 \
 **Prerequisites:**
 
--   **Tier 1**: Presence 4
--   **Tier 2**: Presence 5
--   **Tier 3**: Presence 6
+-   **Tier 1:** Presence 4
+-   **Tier 2:** Presence 5
+-   **Tier 3:** Presence 6
 
 **Description:** You fight with such bravery, heroism, or bravado that your allies are
 ispired to fight beyond their usual mettle. \newline
@@ -1862,21 +1865,21 @@ chosen sphere.
 
 -   **Tier 3** - You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 26 or lower. For higher CRs, your Learning attribute is considered to be 8 for the action roll unless your Learning score is already 8 or higher, in which case you gain advantage 1 on the roll.
 
-## Lethal Strike (I – IX)
+## Lethal Strike (I - IX)
 
 **Cost:** 3 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility 1
--   **Tier 2**: Agility 2
--   **Tier 3**: Agility 3
--   **Tier 4**: Agility 4
--   **Tier 5**: Agility 5
--   **Tier 6**: Agility 6
--   **Tier 7**: Agility 7
--   **Tier 8**: Agility 8
--   **Tier 9**: Agility 9
+-   **Tier 1:** Agility 1
+-   **Tier 2:** Agility 2
+-   **Tier 3:** Agility 3
+-   **Tier 4:** Agility 4
+-   **Tier 5:** Agility 5
+-   **Tier 6:** Agility 6
+-   **Tier 7:** Agility 7
+-   **Tier 8:** Agility 8
+-   **Tier 9:** Agility 9
 
 **Description:** Like a deadly assassin, a ninja of legend, or a feinting melee dervish,
 you can devastate your foes with an expertly placed attack when you
@@ -1910,11 +1913,11 @@ heal from (see Chapter 6: Combat).
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility or Prescience 2
--   **Tier 2**: Agility or Prescience 3
--   **Tier 3**: Agility or Prescience 4
--   **Tier 4**: Agility or Prescience 5
--   **Tier 5**: Agility or Prescience 6
+-   **Tier 1:** Agility or Prescience 2
+-   **Tier 2:** Agility or Prescience 3
+-   **Tier 3:** Agility or Prescience 4
+-   **Tier 4:** Agility or Prescience 5
+-   **Tier 5:** Agility or Prescience 6
 
 **Description:** You are always ready for danger, allowing you to easily get the drop on
 your foes. \newline
@@ -1928,7 +1931,7 @@ initiative rolls.
 \
 **Prerequisites:**
 
-**Tier 1 - 3:** Agility 5
+-   **Tier 1 - 3:** Agility 5
 
 **Description:** You are an expert at using a specific ranged weapon, your familiarity
 makes you deadlier at longer ranges. \newline
@@ -1942,7 +1945,7 @@ increased by 25 feet.
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility, or Might 1
+-   **Tier 1:** Agility, or Might 1
 
 **Description:** Like a kensai warrior devoted to mastery of her katana or an assassin
 who exclusively wields his favored pistols, your training is
@@ -1963,7 +1966,7 @@ you make which do not use your martial focus suffer disadvantage 1.
 \
 **Prerequisites:**
 
--   **Tier 1**: Perception 4
+-   **Tier 1:** Perception 4
 
 **Description:** Your skill at tracking and hunting your quarry is unmatched, allowing
 you to follow trails long after others would have lost them. \newline
@@ -1981,7 +1984,7 @@ exceptional cases can cause you to lose your mark.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Alteration 4
     -   Deception 3
 
@@ -1999,7 +2002,7 @@ check with a Challenge Rating equal to 10 + triple your Alteration or
 Deception score, whichever is higher. If they succeed, they will
 recognize your disguise.
 
-## Multi-Attack Specialist (I – VI)
+## Multi-Attack Specialist (I - VI)
 
 **Cost:** 3 points
 \
@@ -2039,7 +2042,7 @@ disadvantage 6.
 \
 **Prerequisites:**
 
--   **Tier 1**: Able to inflict both banes (see description)
+-   **Tier 1:** Able to inflict both banes (see description)
 
 **Description:** You have mastered a signature attack that allows you to invoke two banes
 at once. A blast of ice that blinds and slows your enemy, a thunderous
@@ -2052,7 +2055,7 @@ all examples of a signature attack that could be created with this feat. \newlin
 **Special:** In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 
 
-## Multi-Target Attack Specialist (I – V)
+## Multi-Target Attack Specialist (I - V)
 
 **Cost:** 2 points
 \
@@ -2076,9 +2079,9 @@ multiple types of attack.
 \
 **Prerequisites:**
 
--   **Tier 1**:
-    - Boon Focus
-    - Multi-Target Boon Specialist II
+-   **Tier 1:**
+    -   Boon Focus
+    -   Multi-Target Boon Specialist II
 
 **Description:** You have so mastered the art of aiding groups of allies that you can
 invoke certain boons effortlessly. \newline
@@ -2088,13 +2091,13 @@ do not need to make an action roll if the disadvantage normally incurred
 from multi-targeting is completely negated by your Multi-Target Boon
 Specialist feat. Your invocation automatically succeeds.
 
-## Multi-Target Boon Specialist (I – V)
+## Multi-Target Boon Specialist (I - V)
 
 **Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1 - 5**: None
+-   **Tier 1 - 5:** None
 
 **Description:** You are a master of invoking boons for more than one target. \newline
 
@@ -2103,21 +2106,20 @@ associated with invoking boons for multiple targets by 1.
 
 ## Natural Defense (I - III)
 
-**Cost:** 3 points
+**Cost:** 2 points
 \
 **Prerequisites:**
 
--   **Tier 1**: Fortitude 2
--   **Tier 2**: Fortitude 3
--   **Tier 3**: Fortitude 5
+-   **Tier 1:** None
+-   **Tier 2:** Fortitude 1
+-   **Tier 3:** Fortitude 2
 
 **Description:** Whether through draconic heritage, a cyborg exoskeleton, or just a
 lifetime of conditioning, your skin is tough as nails, allowing your
 body to deflect blows that would cripple others. \newline
 
 **Effect:** When you are not wearing armor, you gain an armor bonus to your
-Toughness defense. You may still gain this bonus when wielding a shield. Your
-armor bonus is determined by your tier in this feat:
+Guard defense. Your armor bonus is determined by your tier in this feat:
 
 -   **Tier 1** - +1 armor bonus
 -   **Tier 2** - +2 armor bonus
@@ -2129,7 +2131,7 @@ armor bonus is determined by your tier in this feat:
 \
 **Prerequisites:**
 
--   **Tier 1**: Might 4
+-   **Tier 1:** Might 4
 
 **Description:** The sheer force of your attacks is so great that you send opponents
 flying. \newline
@@ -2143,7 +2145,7 @@ can choose to push the target five feet away from you.
 \
 **Prerequisites:**
 
--   **Tier 1**: Ability to invoke the chosen bane
+-   **Tier 1:** Ability to invoke the chosen bane
 
 **Description:** You are so adept at a particular form of attack that your foes struggle
 to shake off the effects. Perhaps the flames of your fireballs burn
@@ -2161,7 +2163,7 @@ the chosen bane, they have disadvantage 1.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Will 5
     -   Battle Trance
 
@@ -2181,7 +2183,7 @@ damage or harmful effects that you would have otherwise incurred.
 \
 **Prerequisites:**
 
--   **Tier 1**: Battle Trance
+-   **Tier 1:** Battle Trance
 
 **Description:** By willingly punishing your own body, you can enter a frenzy that allows you to launch a relentless onslaught of attacks. \newline
 
@@ -2197,7 +2199,7 @@ points remaining to make use of this feat.
 \
 **Prerequisites:**
 
--   **Tier 1**: Fortitude, Presence, or Will 3
+-   **Tier 1:** Fortitude, Presence, or Will 3
 
 **Description:** Whether through luck, extraordinary will, or exceptional courage,
 you are able to shake off banes quicker than others.
@@ -2210,7 +2212,7 @@ you are able to shake off banes quicker than others.
 \
 **Prerequisites:**
 
--   **Tier 1**: Agility 4
+-   **Tier 1:** Agility 4
 
 **Description:** Like an expert assassin or ninja, you can render your foes completely
 unable to alert others of your presence. \newline
@@ -2253,7 +2255,7 @@ concentration on multiple extraordinary effects at once. \newline
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** You are made for the water and can swim at surprising speeds, with the
 aptitude of a fish. \newline
@@ -2267,8 +2269,8 @@ make any special action rolls to maintain this base speed.
 \
 **Prerequisites:**
 
--   **Tier 1**: Fortitude 3
--   **Tier 2**: Fortitude 5
+-   **Tier 1:** Fortitude 3
+-   **Tier 2:** Fortitude 5
 
 **Description:** You have a remarkable ability to shrug off pain and punishment that
 would take down lesser heroes. \newline
@@ -2282,7 +2284,7 @@ possess.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Agility 4
     -   Might 5
     -   Multi-Attack Specialist
@@ -2299,13 +2301,13 @@ possess.
 \
 **Prerequisites:**
 
--   **Tier 1**:
+-   **Tier 1:**
     -   Agility 4
     -   Multi-Attack Specialist
 
 **Description:** Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons. \newline
 
-**Effect:** When you have a weapon in each hand, you gain a +1 armor bonus.
+**Effect:** When you have a weapon in each hand, you gain a +1 armor bonus to your Guard defense.
 
 ## Unending Charm
 
@@ -2313,7 +2315,7 @@ possess.
 \
 **Prerequisites:**
 
--   **Tier 1**: Influence 4
+-   **Tier 1:** Influence 4
 
 **Description:** Your charm is so potent that your victims may become permanently
 enthralled by you. \newline
@@ -2331,7 +2333,7 @@ discretion).
 \
 **Prerequisites:**
 
--   **Tier 1**: Alteration, Influence, or Protection 3
+-   **Tier 1:** Alteration, Influence, or Protection 3
 
 **Description:** Whether this power manifests itself as vines that grow in your wake, a
 magical ward against detection, or an illusory veil, the effect is the
@@ -2347,7 +2349,7 @@ to follow your tracks except by extraordinary means.
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** Whether through brute force, lethal precision, or volatile magic, a
 deadly attack delivered by you is exceptionally vicious. \newline
@@ -2361,11 +2363,10 @@ get advantage 1 on all subsequent d20 re-rolls.
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** Whether you were born into nobility, heir to a great treasure, or simply
-a well-established merchant, you are wealthier than the average \newline
-adventurer. \newline
+a well-established merchant, you are wealthier than the average adventurer. \newline
 
 **Effect:** Your wealth score is increased by 1.
 
@@ -2375,7 +2376,7 @@ adventurer. \newline
 \
 **Prerequisites:**
 
--   **Tier 1**: None
+-   **Tier 1:** None
 
 **Description:** You have a versatile education, a wide range of experiences, or just
 plain old good luck. The result is that you're pretty good at things
@@ -2408,13 +2409,13 @@ Rather than tracking every gold piece, gem, and fine art object that you acquire
 Every character has a Wealth Score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each Wealth Score.
 
 ### Acquiring Goods and Services
-When you are trying to buy new equipment, construct an inn, or hire a craftsman, your wealth score determines whether you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
+When you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines whether you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
 
 If the good you want to purchase has a level lower than your Wealth Score, you can acquire the item easily without taxing your time and resources.
 
 If the item’s level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
 
-If the object of your purchase is **one level higher than** your Wealth Score and your wealth score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
+If the object of your purchase is **one level higher than** your Wealth Score and your Wealth Score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
 
 You cannot make purchases that are more than one level higher than your Wealth Score.
 
@@ -2431,21 +2432,21 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
 | 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
-| 3 | master artisan, village mayor | full plate armor, silver weapons, a small boat, a fine horse |
+| 3 | master artisan, village mayor | full plate armor, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
-| 5 | lord of a realm, thieves’ guild master in a large city | a large cargo ship, a city wall |
+| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, weapons to outfit a small militia |
 | 6 | 7th level hero | a large warship |
-| 7 | king | a stronghold, startup funding for a new town |
+| 7 | king, president | a stronghold, startup funding for a new town |
 | 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
-| 9 | emperor| a castle, an army of 50,000 |
+| 9 | emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 **The Rule of Common Sense**. Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can’t buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
 ### Gaining Wealth
 
-As you adventure throughout the realm, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character’s wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
+As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character’s wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
 
-Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster’s lair, finding a buyer for a great and powerful magical item, or being rewarded by a great ruler.
+Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster’s lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
 
 ## Carrying Capacity
 
@@ -2504,7 +2505,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
-* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you. A weapon like a grenade or rocket launcher should be handled as one-time use, consumable extraordinary item.
+* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you. A weapon like a rocket launcher should be handled as one-time use, consumable extraordinary item.
     * **Range Increments**
 
         * **Close Ranged** - Range increment of 25’.
@@ -2577,13 +2578,13 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Forceful** - This weapon can be used to make attacks with the Might attribute and invoke banes accessible via Might.
 
-**Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
+**Heavy** - The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
 **Precise** - This weapon can be used to make attacks with the Agility attribute  and invoke banes accessible via Agility.
 
 **Reach** - The weapon can be used to attack enemies 10’ away.
 
-**Slow** -  If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+**Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
 **Stationary** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
 
@@ -2601,6 +2602,7 @@ Armor comes in 3 types: light, medium, and heavy in terms of the protection they
 The Armor table summarizes the following properties of each type of armor:
 
 **Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the appropriate Fortitude score, a character cannot benefit from the protection afforded by the armor.
+
 **Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
@@ -2780,13 +2782,13 @@ A list of available banes and boons can be found in this SRD under the [banes se
 
 ## Telling Your Story with Banes and Boons
 
-Because *Open Legend* focuses on separating the mechanics from the story, when you invoke a bane or boon, you get to decide what it looks like in the narrative. For example, did you *Knockdown* a foe with an agile sweep kick, a herculean shove, or a telekinetic thrust? When you grant your allies *Resistance*, do they become coated in armor of ice or are they protected by a swarm of celestial insects that hover around their body?
+Because *Open Legend* focuses on separating the mechanics from the story, when you invoke a bane or boon, you get to decide what it looks like in the narrative. For example, did you *Knockdown* a foe with an agile sweep kick, a herculean shove, or a telekinetic thrust? When you grant your allies *Resistance*, do they become coated in armor of ice or are they protected by a swarm of robotic droids that hover around their body and deflect attacks?
 
 ### With Great Power Comes Great Responsibility
 
-When you browse these lists, you will find that your attributes grant access to far more banes and boons than you could typically make use of. Sometimes, attributes can mean different things for different types of characters. For example, imagine using the *Alteration* attribute to invoke the *Shapeshift* boon - a Druid would do so to turn into a massive bear, while a genetically enhanced military operative might assume the identity of a high profile enemy commander. These examples of using *Shapeshift* make sense and follow our normal expectations from similar stories, but *Alteration* also grants access the *Invisible* boon. This can be confusing, because having access to a bane or boon might make you feel that you should use it, but that's not necessarily the case. The best time to use a bane or boon is when it adds to the story and makes the game more fun for everyone.
+When you browse these lists, you will find that your attributes grant access to far more banes and boons than you could typically make use of. Sometimes, attributes can mean different things for different types of characters. For example, imagine using the *Alteration* attribute to invoke the *Shapeshift* boon - a Druid would do so to turn into a massive bear, while a genetically enhanced military operative might assume the identity of a high profile enemy commander. These examples of using *Shapeshift* make sense and follow our normal expectations from similar stories, but *Alteration* also grants access to the *Invisible* boon. This can be confusing, because having access to a bane or boon might make you feel that you should use it, but that's not necessarily the case. The best time to use a bane or boon is when it adds to the story and makes the game more fun for everyone.
 
-In *Open Legend*, we use the rules to make sure the game is fair and that everyone gets equal opportunity to drive the story forward - we don't use the rules to ensure the game is logical. Whether or not a story makes sense or is enjoyable is a matter of personal opinion. *Open Legend* expects that these details will be worked out between the players and the GM during a game. Certain attributes give you access to an incredible toolbox of banes and boons, but it is the responsibility of everyone playing the game to respect each other's wish to tell a story that the group can get excited about. So, while your Druid with *Alteration* might not have a good excuse to become *Invisible*, the rules make it possible just in case, and in the process it also becomes possible to play an alien psychic warrior that uses *Alteration* to bend waves of light and become *Invisible*.
+In *Open Legend*, we use the rules to make sure the game is fair and that everyone gets equal opportunity to drive the story forward - we don't use the rules to ensure the game is logical. Whether or not a story makes sense or is enjoyable is a matter of personal preference. *Open Legend* expects that these details will be worked out between the players and the GM during a game. Certain attributes give you access to an incredible toolbox of banes and boons, but it is the responsibility of everyone playing the game to respect each other's wish to tell a story that the group can get excited about. So, while your Druid with *Alteration* might not have a good excuse to become *Invisible*, the rules make it possible just in case, and in the process it also becomes possible to play an alien psychic warrior that uses *Alteration* to bend waves of light and become *Invisible*.
 
 ## Invoking Banes and Boons
 
@@ -2882,7 +2884,7 @@ ill of their attacker.
 The target is mentally compelled to like and trust you more, depending
 on the power level of the bane when invoked.
 
--   **Power Level 3** - You can Minor Charm creatures of animal level intelligence or lower
+-   **Power Level 3** - You can Minor Charm creatures of animal level intelligence or lower.
 
 -   **Power Level 4** - You can Minor Charm, creatures of humanoid intelligence. You can Major Charm creatures of animal level intelligence or lower.
 
@@ -3879,9 +3881,9 @@ Chapter 7: Running the Game.
 
 **Effect:** An aura extends from a willing target to a distance determined by the Power Level of this boon:
 
--    **Power Level 4**: 5' radius
--    **Power Level 6**: 10' radius
--    **Power Level 8**: 15' radius
+-    **Power Level 4:** 5' radius
+-    **Power Level 6:** 10' radius
+-    **Power Level 8:** 15' radius
 
 Choose a single bane or boon which uses the same attribute that you used to invoke Aura. The maximum power level for the chosen bane or boon is one-half the power level of your aura. Your aura radiates the chosen bane or boon as follows:
 
