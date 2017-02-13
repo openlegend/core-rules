@@ -6,7 +6,7 @@ Sometimes, the trigger-happy gunslinger gives away your position.
 
 Sometimes, negotiations fail.
 
-That’s when combat ensues. In this chapter, you’ll learn all the rules for fighting strategic and epic battles.
+That's when combat ensues. In this chapter, you'll learn all the rules for fighting strategic and epic battles.
 
 ## When Combat Ensues
 
@@ -19,13 +19,13 @@ When the GM declares that combat will begin, the game is separated into rounds. 
 
 ### Determining Surprise
 
-In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits’ Agility roll. Any PC who fails the check is surprised. The GM decides when some or all combatants may be surprised.
+In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits' Agility roll. Any PC who fails the check is surprised. The GM decides when some or all combatants may be surprised.
 
 Surprised characters always act after non-surprised characters, as explained in the rules for initiative. Furthermore, until a surprised character takes their first turn, they may not take any interrupt actions and all attacks made against them gain advantage 1.
 
 ### Roll for Initiative
 
-After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
+After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant's Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster's initiative individually.
 
 Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine order randomly.
 
@@ -81,18 +81,18 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | If the action roll... | then the result is... |
 | :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10’ w/o opportunity attacks |
+| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10' w/o opportunity attacks |
 
 
-With these modified rules, a player’s failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
+With these modified rules, a player's failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 
 > ### Example of the Core Mechanic in Combat
 >
 > Vera hurls herself at the red dragon attempting to cut through his
-scaly hide. However, her attack roll fails to hit the dragon’s Guard
+scaly hide. However, her attack roll fails to hit the dragon's Guard
 of 25. She chooses to inflict 3 damage, but the GM also gets a choice.
 >
-> He chooses to inflict the knockdown bane: The dragon’s tail lashes
+> He chooses to inflict the knockdown bane: The dragon's tail lashes
 around and sweeps Vera to the floor.
 
 ### Why Succeed on a Failed Roll?
@@ -123,7 +123,7 @@ A few attributes can be used for damaging attacks in special circumstances in wh
 
 ### Probably Never
 
-The remaining attributes don’t really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
+The remaining attributes don't really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
 
 ## Taking Your Turn
 
@@ -168,8 +168,8 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 <div class="table-no-head"></div>
 | | |
 | - | - |
-| **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Extraordinary** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
-| **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage varies (see below) |
+| **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Extraordinary** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25' <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50' <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75' |
+| **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25' square) <br /> **Area** = Disadvantage varies (see below) |
 | **Step 3: Determine Targeted Defense** | Weapon Attacks target Guard <br /><br /> Extraordinary Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Guard** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
 | **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />10 over defense, inflict one bane as well |
 
@@ -177,7 +177,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 **Melee weapon attacks** target foes that are within reach of you.
 
-**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon’s range.
+**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
 
 **Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
 
@@ -230,14 +230,14 @@ You may choose from a variety of shapes when making an area attack as described 
 | | |
 | - | - |
 | **Melee Attacks** | Disadvantage = number of targets. |
-| **Ranged Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25’ square. |
-| **Cube** | Disadvantage = 1 per 5’ of length of cube. |
+| **Ranged Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25' square. |
+| **Cube** | Disadvantage = 1 per 5' of length of cube. |
 | **Line** | Disadvantage = 1 per 5'x10'x10' line. |
 | **Cone** | Disadvantage = 1 per 5' length of cone. |
 
 ##### 3. Determine Targeted Defense
 
-Every attack targets one of your foe’s defenses: Toughness, Guard, or Resolve.
+Every attack targets one of your foe's defenses: Toughness, Guard, or Resolve.
 
 Weapon attacks always target Guard.
 
@@ -256,12 +256,12 @@ You deal damage equal to your action roll minus the target's defense, ignoring n
 
 **Exceptional Success**
 
-If your damaging attack roll exceeds the target’s defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
+If your damaging attack roll exceeds the target's defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
 equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
 #### Make a Bane Attack
 
-Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
+Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as
 detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes). While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* [Fatigued](http://www.openlegendrpg.com/banes/fatigued)).
 
 To resolve a bane attack, follow these steps:
@@ -276,7 +276,7 @@ The targeted defense is determined by the type of bane being inflicted. Consult 
 
 ##### 3. Roll Your Attack
 
-The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target’s defense score, your target suffers the bane.
+The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
 > ##### Example Bane Attacks
 >
@@ -292,7 +292,7 @@ The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate whic
 
 #### Invoke a Boon
 
-You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon’s power level, as detailed in the
+You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the
 [*boon descriptions*](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
 
 ##### 1. Determine Range and Target(s)
@@ -357,7 +357,7 @@ You may move up to your speed. The base speed for characters is 30'. This moveme
 
 Special movement includes climbing, jumping, swimming, and other movement that is typically more restricted than just running across the battlefield.
 
-**Jump**. Make a Might roll. If you can’t get at least a 10’ running start, you have disadvantage 1.
+**Jump**. Make a Might roll. If you can't get at least a 10' running start, you have disadvantage 1.
 
 - **For a long jump,** you cover a number of feet equal to your roll.
 - **For a high jump,** you cover a number of feet equal to your roll divided by 2.
@@ -378,7 +378,7 @@ Many banes will persist for a longer duration after three failed resist attempts
 
 ### Minor Actions
 
-Minor actions are tasks that don’t require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
+Minor actions are tasks that don't require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
 -   Draw or sheathe a weapon
 -   Retrieve an item stored on your person
@@ -436,7 +436,7 @@ Move up to twice your speed and make one melee attack at disadvantage 1.
 
 ### Interrupt Actions
 
-In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
+In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
 #### Defend
 
@@ -464,7 +464,7 @@ If a feat, perk, boon, or other source grants a *Free Action*, that action can b
 
 ## Damage and Healing
 
-Your hit points (HP) are an abstract measure of your character’s ability to ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. Whenever you take damage, your hit points are reduced, and whenever you receive healing they are increased.
+Your hit points (HP) are an abstract measure of your character's ability to ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. Whenever you take damage, your hit points are reduced, and whenever you receive healing they are increased.
 
 ### Finishing Blows
 
@@ -484,7 +484,7 @@ Lethal damage is used sparingly in Open Legend as a way for GMs to paint a pictu
 
 A creature's maximum hit point toal is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to its maximum hit points. If a creature sustains lethal damage greater than or equal to its maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
 
-Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
+Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant's Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
 
 For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
 

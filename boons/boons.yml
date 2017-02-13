@@ -31,7 +31,7 @@
     Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that lasts 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
     The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and it should follow the guidelines established by the "Simple Build" section for creating NPCs / monsters in Chapter 7: Running the Game.
     <ul>
-    <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating. With a successful invocation, the creature comes into existence with the <strong>Charmed</strong> (Minor Charm) bane already in effect (no roll is required).</li>
+    <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the <strong>Charmed</strong> (Minor Charm) bane already in effect (no roll is required).</li>
     <li><strong>Power Level 8</strong> - You can animate a group of creatures: Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <strong>Charmed</strong> bane is a Major Charm instead of Minor Charm.</li>
     </ul>
 - !
@@ -213,8 +213,8 @@
     The target is propelled by magical force through the air, with progressively improving speed and agility.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - The target gains a flight speed of 10’ with low maneuverability.</li>
-    <li><strong>Power Level 6</strong> - The target gains a flight speed of 30’ and is highly maneuverable.</li>
+    <li><strong>Power Level 5</strong> - The target gains a flight speed of 10' with low maneuverability.</li>
+    <li><strong>Power Level 6</strong> - The target gains a flight speed of 30' and is highly maneuverable.</li>
     <li><strong>Power Level 8</strong> - The granted flight speed increases to 60'.</li>
     </ul>
     If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
@@ -658,7 +658,7 @@
   effect: |
     <ul>
     <li><strong>Power Level 3</strong> - You can teleport your target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
-    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can’t see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect). </li>
+    <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can't see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect). </li>
     <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport the target 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put your target many miles in an unfavorable direction. You simply choose a direction (relative to your starting location) and teleport your target a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
     <li><strong>Power Level 9</strong> - Using the same longer invocation time from Power Level 7, you can now teleport your target to any location without range limit, provided you have personally seen (through magical or normal means) the destination.</li>
     </ul>

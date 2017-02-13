@@ -3,11 +3,11 @@
 
 ## Step 1: Describe Your Character
 
-*Open Legend* is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear that we will learn about in later steps. To make your character come to life, add some of the following details. If you can’t think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
+*Open Legend* is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear that we will learn about in later steps. To make your character come to life, add some of the following details. If you can't think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
 
 **A heroic name.** Be sure to check with your GM to see if they have any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
 
-**Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that’s a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
+**Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that's a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
 
 As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 6: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
 
@@ -15,9 +15,9 @@ At the GM's discretion, you may choose to be even smaller or larger than the siz
 
 **Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
 
-**Two defining social traits.** Maybe you stutter when you’re nervous. Maybe you don’t trust anyone until they’ve proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
+**Two defining social traits.** Maybe you stutter when you're nervous. Maybe you don't trust anyone until they've proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
 
-**A secret.** Your secret is something that other characters probably won’t find out about until they’ve gotten to know you quite well. It’s also a seed for great adventure that the GM can weave into his campaign.
+**A secret.** Your secret is something that other characters probably won't find out about until they've gotten to know you quite well. It's also a seed for great adventure that the GM can weave into his campaign.
 
 +++ {.CalloutInformation}
 
@@ -25,7 +25,7 @@ Before Volkor changed his name and began wandering the land as a barbarian sells
 
 * * * * *
 
-Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that’s when he began his road to the priesthood.
+Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that's when he began his road to the priesthood.
 
 * * * * *
 
@@ -36,7 +36,7 @@ Most meaningful tasks that a character attempts in *Open Legend* will be determi
 
 To determine the outcome, you roll 1d20 plus any bonus dice granted by your character's attribute that is most relevant to the task. Any dice that roll the maximum possible explode, which means you can roll them again and add the new total to your action roll as well. Continue rerolling dice until none of them explode.
 
-Add all of the dice together to find your total action roll. If your total is equal to or greater than the action’s Challenge Rating, then you succeed. Otherwise, the GM decides that you either succeed with a twist or fail in a way that allows the story to progress.
+Add all of the dice together to find your total action roll. If your total is equal to or greater than the action's Challenge Rating, then you succeed. Otherwise, the GM decides that you either succeed with a twist or fail in a way that allows the story to progress.
 
 \ \
 
@@ -59,12 +59,12 @@ Add all of the dice together to find your total action roll. If your total is eq
 
 ## Step 2: Choose Attributes
 
-Attributes are the backbone of every character in *Open Legend*. They define what your character can and can’t do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you’ll look to your attributes to see how well you succeed or fail.
+Attributes are the backbone of every character in *Open Legend*. They define what your character can and can't do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you'll look to your attributes to see how well you succeed or fail.
 
 In *Open Legend*, attributes are divided into four categories: physical,
 social, mental, and extraordinary.
 
-A character’s skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero.
+A character's skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero.
 
 The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
 
@@ -93,7 +93,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Learning** | Recall facts about history, arcane magic, the natural world, etc. |
-| **Logic** | Solve riddles, decipher a code, improvise a tool, understand the enemy’s strategy, find a loophole |
+| **Logic** | Solve riddles, decipher a code, improvise a tool, understand the enemy's strategy, find a loophole |
 | **Perception** | Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door |
 | **Will** | Maintain your resolve, overcome adversity, resist torture, stay awake on watch, stave off insanity |
 
@@ -127,7 +127,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Prescience** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
 | **Protection** | Protect from damage, break mental influence, dispel magic, bind demons |
 
-In *Open Legend*, you get to define your character’s strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
+In *Open Legend*, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
 
 ### Quick Build
 
@@ -148,7 +148,7 @@ If you are new to roleplaying games, or are just looking to get your character b
 
 ### Custom Build
 
-If you would like more control over your attributes, you can purchase them to create your own set. With this method, at first level, you have a budget of 40 attribute points to spend, and the cost of each score is defined in the Purchasing Attributes table. The highest any score can reach at first level is 5, and you don’t have to spend all of your points at character creation.
+If you would like more control over your attributes, you can purchase them to create your own set. With this method, at first level, you have a budget of 40 attribute points to spend, and the cost of each score is defined in the Purchasing Attributes table. The highest any score can reach at first level is 5, and you don't have to spend all of your points at character creation.
 
 
 ### Purchasing Attributes
@@ -168,7 +168,7 @@ If you would like more control over your attributes, you can purchase them to cr
 
 ### Record Attribute Dice
 
-Every attribute score above 0 grants you bonus dice to increase your chance of success. Consult the Attribute Dice table for each of your attributes and record the appropriate dice. (You’ll learn what to do with these dice later on.)
+Every attribute score above 0 grants you bonus dice to increase your chance of success. Consult the Attribute Dice table for each of your attributes and record the appropriate dice. (You'll learn what to do with these dice later on.)
 
 ### Attribute Dice
 
@@ -211,7 +211,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 | Resolve = 10 + Presence + Will  |
 
 
-**Resolve** represents your character’s ability to resist mental domination and stand brave in the face of danger. Enemies who wish to charm you, deceive you with illusions, or frighten you must target your resolve.
+**Resolve** represents your character's ability to resist mental domination and stand brave in the face of danger. Enemies who wish to charm you, deceive you with illusions, or frighten you must target your resolve.
 
 
 \NextTableColumns{OCT{1}}
@@ -229,7 +229,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 ## Step 4: Purchase Feats
 
-While your character’s attributes define his skill at accomplishing
+While your character's attributes define his skill at accomplishing
 heroic tasks, his **feats** are what make him unique among other
 characters. Feats allow you to customize your character, granting him
 the ability to accomplish specific actions exceptionally well.
@@ -255,12 +255,12 @@ In addition to the descriptive details you have just created, you may also choos
 
 Perks are characteristics that describe very specific skills, attitudes, backgrounds, or opportunities that tend to give your character the upper hand in certain situations. For example, maybe you are a noble and thus able to draw favors from powerful political figures, or perhaps you once served as mechanic on a starship and those technical skills still help you out in your adventuring life today.
 
-Flaws are your Achilles’ heel. They are weaknesses that your enemies can exploit or character deficits that always seem to hold you back at just the wrong moment. Maybe you are stubborn as a mule and won’t accept a compromise under any circumstances. Perhaps your greed tends to get the best of you, and your love of coin will even trump your loyalty to your friends. Your flaws might even be physical in nature: you’re blind, missing an arm, or suffer from a wounded knee that slows you down.
+Flaws are your Achilles' heel. They are weaknesses that your enemies can exploit or character deficits that always seem to hold you back at just the wrong moment. Maybe you are stubborn as a mule and won't accept a compromise under any circumstances. Perhaps your greed tends to get the best of you, and your love of coin will even trump your loyalty to your friends. Your flaws might even be physical in nature: you're blind, missing an arm, or suffer from a wounded knee that slows you down.
 
 
 ### Activating Perks
 
-Perks provide very specific bonuses or effects in specific situations. Your perk description will explain exactly what your perk does and how often it can be activated. Some perks can be used whenever the situation merits while others are more limited. If the use of a perk relies on a situation being relevant to the sphere of influence of the perk, the GM has the final say as to whether the perk applies or not. For example, the *profession* perk provides advantage 1 to any non-combat action rolls related to your chosen profession. If a character wants to use their *profession: hunter* perk to gain advantage on a roll to track an orc, the GM would decide whether or not the PC’s experience tracking game was relevant enough to aid in the hunt for a humanoid.
+Perks provide very specific bonuses or effects in specific situations. Your perk description will explain exactly what your perk does and how often it can be activated. Some perks can be used whenever the situation merits while others are more limited. If the use of a perk relies on a situation being relevant to the sphere of influence of the perk, the GM has the final say as to whether the perk applies or not. For example, the *profession* perk provides advantage 1 to any non-combat action rolls related to your chosen profession. If a character wants to use their *profession: hunter* perk to gain advantage on a roll to track an orc, the GM would decide whether or not the PC's experience tracking game was relevant enough to aid in the hunt for a humanoid.
 
 ### Activating Flaws
 
@@ -270,13 +270,13 @@ You may not gain a legend point from the same flaw more than once per game sessi
 
 To activate a flaw, you should intentionally make a disadvantageous choice based on your flaw that creates an interesting or tense moment in the plot. When you do so, let your GM know that you are activating your flaw and describe how it is hindering your efforts or influencing your decisions. If the GM approves that your flaw is creating a significant disadvantage and advancing the story, you receive one legend point. Sometimes, the GM may recognize that you are roleplaying a flaw without you having to overtly activate it. In such cases, the GM may award you with a legend point as well.
 
-The type of hindrance caused by activating a flaw should be more than a simple reduced chance of success. Good examples of activating a flaw include putting yourself or an ally in danger, making a bad decision, wasting a resource, and missing out on an opportunity, among others. It’s also important to note that a good use of a flaw makes something new and interesting happen in the story rather than ending the narrative. For example, instead of activating a flaw to miss an attack, you might target an ally. Or, rather than activating a flaw to fail to find a secret door, you might make so much noise in your search that you attract unwanted attention.
+The type of hindrance caused by activating a flaw should be more than a simple reduced chance of success. Good examples of activating a flaw include putting yourself or an ally in danger, making a bad decision, wasting a resource, and missing out on an opportunity, among others. It's also important to note that a good use of a flaw makes something new and interesting happen in the story rather than ending the narrative. For example, instead of activating a flaw to miss an attack, you might target an ally. Or, rather than activating a flaw to fail to find a secret door, you might make so much noise in your search that you attract unwanted attention.
 
 ### Gaining Perks and Flaws
 
 At character creation, you may select up to two perks and two flaws, and you do not have to select any. Throughout your adventures, the GM may assign you additional perks and flaws as the natural results of your deeds. For example, if your party spends several months on board a ship, the GM may reward everyone with the *profession: sailor* perk. Likewise, if you are subjected to horrible chemical burns as part of a laboratory explosion, the GM might assign you the *physical deformity* flaw to describe your scarred face.
 
-You too, may decide to adopt new perks or flaws with the GM’s approval as your character’s personality and background develop through play. Perhaps a series of encounters with powerful forces leads you to take on the *cowardly* flaw. Or maybe you spend significant downtime between adventures training with the local weaponsmith and would like to gain the *artisan* perk. The GM is the final arbiter for deciding when and under what circumstances you may choose new perks and flaws.
+You too, may decide to adopt new perks or flaws with the GM's approval as your character's personality and background develop through play. Perhaps a series of encounters with powerful forces leads you to take on the *cowardly* flaw. Or maybe you spend significant downtime between adventures training with the local weaponsmith and would like to gain the *artisan* perk. The GM is the final arbiter for deciding when and under what circumstances you may choose new perks and flaws.
 
 ### Designing Your Own Perks and Flaws
 
@@ -329,7 +329,7 @@ You serve a higher being and have earned their protection. Once per game session
 
 #### Divine Insight
 
-You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you’ve just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
+You possess a supernatural connection to a deity, demi-god, or other divine being which grants you otherworldly insight. Once per game session, you can choose a topic relevant to the story. The GM shares some information about that topic which might be useful. If you've just failed a *Learning* attribute roll and use this ability, the GM decides whether to give you information related to that roll or to give you knowledge that is completely unrelated.
 
 #### Ear of the Emperor
 
@@ -345,7 +345,7 @@ Your reputation for some outstanding virtue precedes you, and people tend to hol
 
 #### Innocent
 
-Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts. Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you’ve done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
+Whether from a distant fey ancestry or simply an air of naivety, you possess a childlike quality that can melt even the coldest of hearts. Once per game session, you can leverage your innocence to turn an enemy and cause them to take pity on you. The enemy might choose to look the other way when you've done something illegal, forgive a debt you could never pay, or vouch in your favor before the authorities.
 
 #### Jack of All Trades
 
@@ -377,7 +377,7 @@ Your keen senses allow you to notice details that others typically miss. Once pe
 
 #### Outlaw
 
-You are part of a criminal network, whether it be a thieves’ guild, band of smugglers, or otherwise. Once per game session, you can call in a favor from a contact within your network to perform a mundane task such as gathering information or arranging safe passage. If the favor puts your contact at risk, they will still perform it but may ask for an equally risky favor from you in return.
+You are part of a criminal network, whether it be a thieves' guild, band of smugglers, or otherwise. Once per game session, you can call in a favor from a contact within your network to perform a mundane task such as gathering information or arranging safe passage. If the favor puts your contact at risk, they will still perform it but may ask for an equally risky favor from you in return.
 
 #### Profession
 
@@ -385,7 +385,7 @@ Choose a specific trade, such as sailor, soldier, or miner. You know everything 
 
 #### Pure-hearted
 
-Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you’ve taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
+Any goodly-natured creature you encounter is friendly toward you by default rather than neutral. Circumstances can alter this, but even if rumors or actions you've taken would influence a good creature negatively, it remains one step friendlier than it otherwise would have been.
 
 #### Resilient
 
@@ -397,7 +397,7 @@ You have lived a life of need, and thus know how to make do when others would go
 
 #### Scent
 
-Your sense of smell is similar to that of a wild beast. As a focus action, you can discern the number and relative location of living creatures within 60’. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60’. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
+Your sense of smell is similar to that of a wild beast. As a focus action, you can discern the number and relative location of living creatures within 60'. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60'. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
 
 #### Scholar
 
@@ -405,23 +405,23 @@ You have spent years studying a particular discipline, such as science, herbalis
 
 #### Silver Tongue
 
-You have practiced the ways of sneaking hidden charms and subliminal messages within everyday conversation. Once per session, when you converse with an intelligent creature for at least five minutes, you will learn one useful secret of the GM’s choosing about the creature.
+You have practiced the ways of sneaking hidden charms and subliminal messages within everyday conversation. Once per session, when you converse with an intelligent creature for at least five minutes, you will learn one useful secret of the GM's choosing about the creature.
 
 #### Stone Sense
 
-While underground you may fail to find what you’re looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave in or to find a secret passage within a cavern.
+While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave in or to find a secret passage within a cavern.
 
 #### Street Rat
 
-You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you’re down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
+You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you're down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
 
 #### Vagabond
 
 Having spent significant time fending for yourself in the wilderness, you excel at surviving and navigating in the wild. You always know the direction of true north and you can automatically find enough food to feed yourself plus a number of additional people equal to your Learning attribute score.
 
-#### Warrior’s Code
+#### Warrior's Code
 
-As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior’s code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
+As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior's code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
 
 #### Whisperer of the Wild
 
@@ -437,15 +437,15 @@ Your live with your head in the clouds. You might just be ditzy, or maybe you ju
 
 #### Addiction
 
-The roll of the dice, the smoke of the Black Lotus, or the escape of the virtual reality machine. Whether your addiction is physical, mental, or social, the effect is generally the same: you’ve got an itch that you need to scratch, and you’ll sometimes do reckless or atrocious things to make sure that you can get your fix. You get to decide the nature and severity of your addiction.
+The roll of the dice, the smoke of the Black Lotus, or the escape of the virtual reality machine. Whether your addiction is physical, mental, or social, the effect is generally the same: you've got an itch that you need to scratch, and you'll sometimes do reckless or atrocious things to make sure that you can get your fix. You get to decide the nature and severity of your addiction.
 
 #### Ambitious
 
-You are willing to do anything to get ahead in life and often that means trampling upon other people on your way to the top. When presented with a situation requiring empathy for those beneath you, it’s typical for you to ignore their need. In addition, you may sometimes overreach in your attempts to get ahead, making bold and risky choices that can put you and those close to you in danger.
+You are willing to do anything to get ahead in life and often that means trampling upon other people on your way to the top. When presented with a situation requiring empathy for those beneath you, it's typical for you to ignore their need. In addition, you may sometimes overreach in your attempts to get ahead, making bold and risky choices that can put you and those close to you in danger.
 
 #### Bloodlust
 
-Battle isn’t just a way of life, it is *the* way of life. There isn’t a conflict you’ve encountered that wasn’t best solved with steel, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren’t necessary and prolonging them even after the enemy has surrendered.
+Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered.
 
 
 #### Brash
@@ -470,7 +470,7 @@ You have honed self-preservation into a way of life, and you will do almost anyt
 
 #### Dimwitted
 
-You aren’t the sharpest tack in the box. It’s not just that you weren’t gifted with skill in academia, it’s that you pick up on things pretty slowly overall. With the exception of your areas of expertise, you have a hard time learning new skills, following instructions, and maybe even remembering names.
+You aren't the sharpest tack in the box. It's not just that you weren't gifted with skill in academia, it's that you pick up on things pretty slowly overall. With the exception of your areas of expertise, you have a hard time learning new skills, following instructions, and maybe even remembering names.
 
 #### Disabled
 
@@ -478,22 +478,22 @@ You have some physical deficiency that holds you back in life. You decide the na
 
 #### Greedy
 
-You can’t help it: you just like things. Money, gems, items of power - they beckon you at every turn and you’ll often take great risks and maybe even betray your allies if the monetary reward is great enough. You’re easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies.
+You can't help it: you just like things. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies.
 
 #### Honest
 
-You won’t tell a lie or engage in deceitful speech, even to save your own life or the life of another.
+You won't tell a lie or engage in deceitful speech, even to save your own life or the life of another.
 
 #### Hot Tempered
 Your fuse is short and your explosions are destructive. Sometimes your anger boils slowly over time and other times it erupts completely unexpectedly. But when you do fly off the handle, things rarely go well for you.
 
 #### Illiterate
 
-You can’t read or write, even in languages that you speak fluently.
+You can't read or write, even in languages that you speak fluently.
 
 #### Literal Minded
 
-You struggle with concepts and turns of phrase that are not literally true, such as idioms and metaphors. You might think sorcery is afoot if someone tells you it is “raining cats and dogs”. If a friend exaggerated by saying “I’d kill myself if Melzak were elected Supreme Justice”, you would be genuinely concerned for your friend’s life if Melzak did get elected.
+You struggle with concepts and turns of phrase that are not literally true, such as idioms and metaphors. You might think sorcery is afoot if someone tells you it is “raining cats and dogs”. If a friend exaggerated by saying “I'd kill myself if Melzak were elected Supreme Justice”, you would be genuinely concerned for your friend's life if Melzak did get elected.
 
 #### Mood Disorder
 
@@ -501,7 +501,7 @@ You suffer from a psychological condition that directly affects your mood, such 
 
 #### Naive
 
-Whether you are innocent, uninformed, or inexperienced, the results are the same: you are pretty gullible. You get to define the scope of your naivety. For example, maybe you’re a greenhorn from a big city on the east coast, so you are unlearned in the ways of the Wild West. Or maybe your memory was completely wiped out a few weeks ago and you are relearning the rules of civilization, thus your naivety presents itself much more universally.
+Whether you are innocent, uninformed, or inexperienced, the results are the same: you are pretty gullible. You get to define the scope of your naivety. For example, maybe you're a greenhorn from a big city on the east coast, so you are unlearned in the ways of the Wild West. Or maybe your memory was completely wiped out a few weeks ago and you are relearning the rules of civilization, thus your naivety presents itself much more universally.
 
 #### Overt
 
@@ -513,7 +513,7 @@ You are carrying a few extra pounds, and they tend to get in the way at all the 
 
 #### Pacifist
 
-You disdain combat and bloodshed of any kind, and will generally do whatever possible to avoid it. You can decide the extent of your pacifism. You might just revert to violence as a last resort, or you may be so averse to combat that you won’t lift a weapon even in defense of yourself or others.
+You disdain combat and bloodshed of any kind, and will generally do whatever possible to avoid it. You can decide the extent of your pacifism. You might just revert to violence as a last resort, or you may be so averse to combat that you won't lift a weapon even in defense of yourself or others.
 
 #### Phobia
 
@@ -521,7 +521,7 @@ You are terrified and incapable of rational thought when you are presented with 
 
 #### Proud
 
-Some call it an inflated ego. Others call it conceit. But you know that you really are just that good. The rabble are inferior, and you’re not afraid to let them know. Your pride may be a universal sense of self-worth, or it may only manifest itself within certain spheres or situations. For example, your rank in the Royal Star Force leads you to look down upon anyone trained in less illustrious armed forces.
+Some call it an inflated ego. Others call it conceit. But you know that you really are just that good. The rabble are inferior, and you're not afraid to let them know. Your pride may be a universal sense of self-worth, or it may only manifest itself within certain spheres or situations. For example, your rank in the Royal Star Force leads you to look down upon anyone trained in less illustrious armed forces.
 
 #### Psychotic
 
@@ -537,14 +537,14 @@ You suffer from some sort of chronic illness or condition, such as tuberculosis,
 
 #### Socially Awkward
 
-Something about your behavior tends to rub people the wrong way. Perhaps you don’t respect the personal space of others, you tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.
+Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, you tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.
 
 #### Stubborn
-It’s your way or the highway. Maybe not all of the time, but once you’ve made your mind up on an important matter, you won’t budge. You probably won’t even compromise.
+It's your way or the highway. Maybe not all of the time, but once you've made your mind up on an important matter, you won't budge. You probably won't even compromise.
 
 #### Uncoordinated
 
-Your body just doesn’t work well with itself. You have trouble balancing, catching, throwing, and performing similar physical tasks that require dexterity or nimbleness.
+Your body just doesn't work well with itself. You have trouble balancing, catching, throwing, and performing similar physical tasks that require dexterity or nimbleness.
 
 #### Vengeful
 
@@ -557,7 +557,7 @@ You stand for a cause - whether it is a religion, a nation, a code, a way of lif
 
 ## Gaining XP and Leveling Up
 
-As the legend you are creating unfolds and grows in danger and magnitude, your character’s power will grow to match the challenge. This power comes in the form of experience points (or XP), which are rewarded by the GM and allow you to advance in level and gain access to new feats, attributes, banes, and boons.
+As the legend you are creating unfolds and grows in danger and magnitude, your character's power will grow to match the challenge. This power comes in the form of experience points (or XP), which are rewarded by the GM and allow you to advance in level and gain access to new feats, attributes, banes, and boons.
 
 Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters, NPCs, and monsters. Until you reach 5th level, the maximum attribute score is 5. From levels 6 to 9, the maximum is equal to your level.
 
@@ -614,7 +614,7 @@ The complete list of available feats can be found on the [Open Legend Website](h
 
 ### New Hit Points
 
-In Open Legend, attributes are the means by which your hit points increase. If you want your character to be able to take more hits, increase either your Fortitude, Presence, or Will attribute. As outlined in the default hit point formula, you’ll gain 2 hit points each time you raise any of those attributes by one.
+In Open Legend, attributes are the means by which your hit points increase. If you want your character to be able to take more hits, increase either your Fortitude, Presence, or Will attribute. As outlined in the default hit point formula, you'll gain 2 hit points each time you raise any of those attributes by one.
 
 
 
@@ -626,7 +626,7 @@ interpret the results.
 ## When to Roll the Dice
 
 *Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
-example, you’ll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left your multi-pass.
+example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to roll a Persuasion check every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
 
 *Open Legend* includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
 
@@ -656,11 +656,11 @@ If you look back to the Core Mechanic, you can see that a simple failure is not 
 
 ### Keep It Simple: Every Roll Matters for the GM
 
-The “every roll matters” rule was designed to make player actions meaningful to the story whether they succeed or fail. It recognizes the fact that static pass/fail checks aren’t particularly fun for players. But “every roll matters” also adds an extra layer of complexity to the game because it requires the GM to make on-the-fly interpretations.
+The “every roll matters” rule was designed to make player actions meaningful to the story whether they succeed or fail. It recognizes the fact that static pass/fail checks aren't particularly fun for players. But “every roll matters” also adds an extra layer of complexity to the game because it requires the GM to make on-the-fly interpretations.
 
 **So when the GM makes a roll**, a success is a success and a failure is a failure.
 
-This is for the sake of simplicity and fun. When a player fails a roll, it’s not very fun if something doesn’t come out of it. When the GM fails a roll, though, there is usually much rejoicing at the table.
+This is for the sake of simplicity and fun. When a player fails a roll, it's not very fun if something doesn't come out of it. When the GM fails a roll, though, there is usually much rejoicing at the table.
 
 ### Group Action Rolls
 
@@ -670,9 +670,9 @@ The GM always has the final say as to when a group action roll is called for and
 
 ## Determining Challenge Rating
 
-Many actions that you will undertake in *Open Legend* have a Challenge Rating (CR) that is determined by the rules. Attacks in combat, for example, use one of the target’s defense scores as the CR.
+Many actions that you will undertake in *Open Legend* have a Challenge Rating (CR) that is determined by the rules. Attacks in combat, for example, use one of the target's defense scores as the CR.
 
-Oftentimes, though, the GM will need to determine the CR for actions that aren’t spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
+Oftentimes, though, the GM will need to determine the CR for actions that aren't spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
 
 
 \NextTableColumns{OLT{.25}OCT{.25}OLT{.50}}
@@ -681,23 +681,23 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren�
 
 | Difficulty | Challenge Rating | Example Actions |
 | :-: | :-: | :------ |
-| Everyday | 10 | leap a 5’ gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
+| Everyday | 10 | leap a 5' gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
 | Challenging | 15 | climb a rough surface, catch the drift of a text in an unfamiliar language, break down a strong wooden door |
-| Heroic | 20 | climb a smooth surface, leap a 15’ gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
+| Heroic | 20 | climb a smooth surface, leap a 15' gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
 | Epic | 25 | translate a text in an alien language, break down an iron door |
-| Legendary | 30 | leap a 25’ chasm, climb a flat surface, befriend an enemy with a vendetta against you |
+| Legendary | 30 | leap a 25' chasm, climb a flat surface, befriend an enemy with a vendetta against you |
 
-It’s important to note that Challenge Ratings are not typically set to be relative to the party’s level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth.
+It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth.
 
 ### Contested Actions
 
 Sometimes, two or more characters are directly opposing each other in a test of strength, wits, or charm. For example, a mighty barbarian wrestles with a minotaur to get hold of a magical gem. Or three representatives of different star systems attempt to persuade the warleader of the intergalactic reavers to join their forces. Or a stealthy ninja attempts to sneak unseen past the watch of the monks on guard. These sorts of situations are called **contested actions**.
 
-To resolve such contests, each character involved makes an action roll using an appropriate attribute. Whoever rolls the highest succeeds at the action. Sometimes, all parties use the same attribute for their action rolls, but often, each character will use a different attribute, as in the case of the rogue attempting to sneak (Agility) past the guard’s watch (Perception).
+To resolve such contests, each character involved makes an action roll using an appropriate attribute. Whoever rolls the highest succeeds at the action. Sometimes, all parties use the same attribute for their action rolls, but often, each character will use a different attribute, as in the case of the rogue attempting to sneak (Agility) past the guard's watch (Perception).
 
 ## Advantage and Disadvantage
 
-Sometimes, you will attempt an action under circumstances that give you a significant upper hand, such as when attacking an enemy from behind. Other times, you’ll be working against exceptional hindrances, such as when trying to climb a rope that an enemy has covered in grease. In these types of cases, instead of adjusting the Challenge Rating of the task, the GM should assign your roll either **advantage** or **disadvantage**.
+Sometimes, you will attempt an action under circumstances that give you a significant upper hand, such as when attacking an enemy from behind. Other times, you'll be working against exceptional hindrances, such as when trying to climb a rope that an enemy has covered in grease. In these types of cases, instead of adjusting the Challenge Rating of the task, the GM should assign your roll either **advantage** or **disadvantage**.
 
 Advantage and disadvantage are always expressed with a numeric level, such as “advantage 1” or “disadvantage 3”. Multiple instances of advantage and disadvantage can add together, so if you have advantage 1 on an attack because you are flanking a foe, and you also possess a feat that grants you advantage 1, you have a total of advantage 2.
 
@@ -774,7 +774,7 @@ Before making an action roll, a PC may spend a maximum number of legend points e
 
 # Feats #
 
-In this chapter, you’ll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character’s specializations, the actions, tasks, and abilities they excel at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
+In this chapter, you'll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character's specializations, the actions, tasks, and abilities they excel at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
 
 ## Acquiring Feats
 
@@ -1468,7 +1468,7 @@ against magical curses such as lycanthropy.
 causes you to be resistant to that type of energy. \newline
 
 **Effect:** Choose from the following energy types: fire, cold, lightning, acid, (or
-another at the GM’s discretion). When you are attacked with that energy
+another at the GM's discretion). When you are attacked with that energy
 type, you gain resistance to the attack as follows:
 
 -   **Tier 1** - Your defense scores are increased by 3 against the chosen energy type.
@@ -1591,7 +1591,7 @@ the reduced speed typically incurred at the GM's discretion.
 -   **Tier 2:** Influence 5
 -   **Tier 3:** Influence 7
 
-**Description:** Creatures that you’ve magically compelled become even stronger when
+**Description:** Creatures that you've magically compelled become even stronger when
 fighting in your defense or under your command. \newline
 
 **Effect:** Creatures under the effects of your Charmed or Dominated bane gain
@@ -1723,7 +1723,7 @@ bane or boon:
     -   Attribute 8 = 10 miles
     -   Attribute 9 = 100 miles
 -   Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).
--   For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.
+-   For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn't grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.
 
 **Tier 2** - You gain the following abilities:
 
@@ -1850,7 +1850,7 @@ ispired to fight beyond their usual mettle. \newline
 your general intelligence. \newline
 
 **Effect:** When you purchase this feat, choose a sphere of knowledge from the list
-below or, with the GM’s approval, create a new one.
+below or, with the GM's approval, create a new one.
 
 Example spheres of knowledge include alchemy, arcane, supernatural,
 engineering, geography, history, location (must specify), anatomy,
@@ -2233,7 +2233,7 @@ fox, or some similar exceptional non-combat talent. \newline
 
 **Effect:** Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute. \newline
 
-**Special:** You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
+**Special:** You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you've already purchased.
 
 
 ## Superior Concentration (I - III)
@@ -2323,7 +2323,7 @@ enthralled by you. \newline
 roll within 24 hours of being afflicted become permanently affected by
 the bane. They do not receive any more resist rolls to shake themselves
 free of the effect. Other extraordinary effects like a Nullify bane can
-still end the effect (and other methods may work at the GM’s
+still end the effect (and other methods may work at the GM's
 discretion).
 
 ## Untrackable
@@ -2400,7 +2400,7 @@ you're not specialized in. \newline
 
 # Wealth & Equipment #
 
-No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you’ll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you capture dragon hoards and seize kingdoms.
+No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you'll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you capture dragon hoards and seize kingdoms.
 
 ## Wealth
 Rather than tracking every gold piece, gem, and fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
@@ -2412,7 +2412,7 @@ When you are trying to buy new equipment, construct a building, or hire a crafts
 
 If the good you want to purchase has a level lower than your Wealth Score, you can acquire the item easily without taxing your time and resources.
 
-If the item’s level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
+If the item's level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
 
 If the object of your purchase is **one level higher than** your Wealth Score and your Wealth Score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
 
@@ -2439,13 +2439,13 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
 | 9 | emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
-**The Rule of Common Sense**. Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can’t buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
+**The Rule of Common Sense**. Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
 ### Gaining Wealth
 
-As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character’s wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
+As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character's wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
 
-Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster’s lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
+Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster's lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
 
 ## Carrying Capacity
 
@@ -2453,17 +2453,17 @@ Typical situations of when the GM would grant you an increase in your Wealth Sco
 
 ### Twenty Items Max
 
-You can carry up to twenty pieces of gear. No more. Only track the items that will actually affect the game. So, no, you don’t need to record your pants and shirt on your character sheet. But, your armor does count.
+You can carry up to twenty pieces of gear. No more. Only track the items that will actually affect the game. So, no, you don't need to record your pants and shirt on your character sheet. But, your armor does count.
 
 Multiple items of a similar nature that can be stowed together, such as twenty arrows in a quiver or a belt of healing potions, only count as a single item. The GM can use their own discretion to apply common sense limits if necessary. For example, even though technically 1000 clips of ammo would count as a single item, the GM is free to rule that a PC can't carry them or that they would count as a *bulky* item (see below).
 
 ### Maximum *Heavy* Items Equals Might Score
 
-Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score. Once you’re carrying your maximum number of *heavy* items, your speed is cut in half. A character with a zero Might score cannot carry any heavy items.
+Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score. Once you're carrying your maximum number of *heavy* items, your speed is cut in half. A character with a zero Might score cannot carry any heavy items.
 
 ### One (Maybe Two) *Bulky* Items
 
-Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5’.
+Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5'.
 
 
 
@@ -2500,22 +2500,22 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target’s defense. If both weapons you are wielding have passive benefits such as the Deadly or Defensive properties, your benefit is the best of the two but does not stack.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target's defense. If both weapons you are wielding have passive benefits such as the Deadly or Defensive properties, your benefit is the best of the two but does not stack.
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
 * **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you. A weapon like a rocket launcher should be handled as one-time use, consumable extraordinary item.
     * **Range Increments**
 
-        * **Close Ranged** - Range increment of 25’.
-        * **Short Ranged** - Range increment of 50’.
-        * **Medium Ranged** - Range increment of 75’.
-        * **Long Ranged** - Range increment of 125’.
-        * **Extreme Ranged** - Range increment of 300’.
+        * **Close Ranged** - Range increment of 25'.
+        * **Short Ranged** - Range increment of 50'.
+        * **Medium Ranged** - Range increment of 75'.
+        * **Long Ranged** - Range increment of 125'.
+        * **Extreme Ranged** - Range increment of 300'.
 
     * **Close** and **Short** Ranged weapons are built to be compact and effective in close quarters, so they are less bulky. They can be wielded with a single hand, allowing the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
     * **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
-    * **Extreme** Ranged weapons are built for distance and given their specialized calibration, cannot be used to attack a target closer than 50’.
+    * **Extreme** Ranged weapons are built for distance and given their specialized calibration, cannot be used to attack a target closer than 50'.
 
 **WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
@@ -2581,11 +2581,11 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Precise** - This weapon can be used to make attacks with the Agility attribute  and invoke banes accessible via Agility.
 
-**Reach** - The weapon can be used to attack enemies 10’ away.
+**Reach** - The weapon can be used to attack enemies 10' away.
 
 **Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
-**Stationary** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
+**Stationary** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30'.
 
 **Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
@@ -2606,7 +2606,7 @@ The Armor table summarizes the following properties of each type of armor:
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
-Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night’s rest.
+Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night's rest.
 
 \NextTableColumns{OLT{.25}OCT{.15}OCT{.15}OCT{.15}OCT{.15}OCT{.15}}
 
@@ -2617,18 +2617,18 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 | Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
 | Kevlar Vest, Bioweave | Medium | 2 | 2 | 2 | 0 |
 | Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
-| Yoroi Armor, Plate Mail | Heavy | 2 | 3 | 3 | 5’ |
+| Yoroi Armor, Plate Mail | Heavy | 2 | 3 | 3 | 5' |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
 
 
 
 ## Building Your Own Weapons
 
-Open Legend is all about freeform creativity, so we’ve given you lots of examples with the Weapons table, but the list is by no means exhaustive. If you want to build your own custom weapon, follow the steps below
+Open Legend is all about freeform creativity, so we've given you lots of examples with the Weapons table, but the list is by no means exhaustive. If you want to build your own custom weapon, follow the steps below
 
 ### Step 1: Choose a Category
 
-Typically a weapon belongs to one category, however some weapons, such as a dagger or a hybrid sword-gun might fall into two categories. No weapon should fall into more than two categories, but selecting either one or two categories is at the discretion of the player and GM. This step has no impact on the weapon’s cost.
+Typically a weapon belongs to one category, however some weapons, such as a dagger or a hybrid sword-gun might fall into two categories. No weapon should fall into more than two categories, but selecting either one or two categories is at the discretion of the player and GM. This step has no impact on the weapon's cost.
 
 ### Step 2: Choose Properties
 
@@ -2636,7 +2636,7 @@ Every weapon must have either the *Forceful* or *Precise* property and some weap
 
 Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon. The Wealth Level of all weapons begins at 1.
 
-The *Deadly* property increases an item’s Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level of 5.
+The *Deadly* property increases an item's Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level of 5.
 
 The *Defensive* property increases the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
 
@@ -2673,13 +2673,13 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 
 ## Mounts & Vehicles
 
-In this section, you’ll find rules for mounting upon your battle-bred warhorse or piloting your trusty old fighter ship. For mechanical purposes, mounts and vehicles are handled the same. These rules will apply whenever a character is riding upon or within another creature or object as their primary form of movement. You will move with your mount (see mount actions below), but otherwise you are considered separate for purposes of targeting, boons, banes, and similar situations.
+In this section, you'll find rules for mounting upon your battle-bred warhorse or piloting your trusty old fighter ship. For mechanical purposes, mounts and vehicles are handled the same. These rules will apply whenever a character is riding upon or within another creature or object as their primary form of movement. You will move with your mount (see mount actions below), but otherwise you are considered separate for purposes of targeting, boons, banes, and similar situations.
 
 Throughout this text, the words “mount” and “vehicle” are used interchangeably. Mechanically speaking, the rules are the same whether you are riding a pony or a star fighter, so any references to “mount” also apply to “vehicles”, and vice-versa.
 
 ### Mount Actions
 
-When mounted, you may allocate any of your actions to your mount instead of yourself. For example, while riding a velociraptor, you could spend your move action to have your raptor move 40’. Whenever your mount moves, you move with it. Likewise, instead of attacking with your own weapons, you could spend your major action to let your raptor make an attack. Your mount will have its own attributes and feats, so it will not benefit from your feats or attributes.
+When mounted, you may allocate any of your actions to your mount instead of yourself. For example, while riding a velociraptor, you could spend your move action to have your raptor move 40'. Whenever your mount moves, you move with it. Likewise, instead of attacking with your own weapons, you could spend your major action to let your raptor make an attack. Your mount will have its own attributes and feats, so it will not benefit from your feats or attributes.
 
 Typically, mounts and vehicles cannot act independently of their riders, and so they will only get to take actions when their rider allocates actions to them.
 
@@ -2696,13 +2696,13 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 **Properties** are the descriptors that make each mount unique from others. These properties translate to specific game mechanics described below.
 
-**Attributes** indicates the notable attributes possessed by the vehicle or mount. At the GM’s discretion, other attributes can be granted on an as-needed basis.
+**Attributes** indicates the notable attributes possessed by the vehicle or mount. At the GM's discretion, other attributes can be granted on an as-needed basis.
 
 **Feats** indicates the feats which the mount or vehicle possesses to highlight its unique capabilities. These feats only apply to actions taken by the mount, not actions made by the rider.
 
 **HP (Hit Points)** indicates the total hit points possessed by the vehicle or mount.
 
-**DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the it’s new hit point total, thus a vehicle can suffer multiple damage levels from a single attack if it deals enough damage. A mount has disadvantage equal to its damage level on all action rolls. Once the mount’s damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
+**DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the it's new hit point total, thus a vehicle can suffer multiple damage levels from a single attack if it deals enough damage. A mount has disadvantage equal to its damage level on all action rolls. Once the mount's damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
 
 **Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If "Immune" is listed for a given defense, then attacks targeting that defense have no effect.
 
@@ -2711,7 +2711,7 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 **Faster than Light** - The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.
 
-**Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target an opponent’s Guard defense.
+**Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target an opponent's Guard defense.
 
 **Multi-Pilot** - The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.
 
@@ -2726,46 +2726,46 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 | Examples | WL | TL | Speed | Properties | Attributes | Feats | HP | DT | Defenses |
 | :----- | :-: | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
-| All-Terrain Jeep | 2 | 1 | 80’ | | Agility 4 | | 20 | 2 | Toughness: 14 \
+| All-Terrain Jeep | 2 | 1 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
 Guard: 14 \
 Resolve: Immune |
-| Battle Cruiser | 9 | 3 | 1,000’ | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
+| Battle Cruiser | 9 | 3 | 1,000' | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
 Guard: 25 \
 Resolve: Immune |
-| Drake | 5 | 0 | 50’ | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
+| Drake | 5 | 0 | 50' | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
 Guard: 20 \
 Resolve: 15 |
-| Fighter Ship | 5 | 3 | 2,000’ | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
+| Fighter Ship | 5 | 3 | 2,000' | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
 Guard: 22 \
 Resolve: Immune |
-| Galleon | 6 | 0 | 70’ | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
+| Galleon | 6 | 0 | 70' | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
 Guard: 19 \
 Resolve: Immune |
-| Griffin | 4 | 0 | 50’ | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
+| Griffin | 4 | 0 | 50' | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
 Guard: 19 \
 Resolve: 13 |
-| Horse | 3 | 0 | 40’ | | Might 4 | | 28 | 1 | Toughness: 15 \
+| Horse | 3 | 0 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
 Guard: 15 \
 Resolve: 10 |
-| Mech Unit | 4 | 2 | 40’ | Guided Weapons, Targeted Weapons | Energy 5 \
+| Mech Unit | 4 | 2 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
 Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
 Guard: 22 \
 Resolve: Immune |
-| Phoenix | 5 | 0 | 50’ | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
+| Phoenix | 5 | 0 | 50' | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
 Guard: 20 \
 Resolve: 19 |
-| Pegasus | 4 | 0 | 50’ | | Might 4 \
+| Pegasus | 4 | 0 | 50' | | Might 4 \
 Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 \
 Guard: 18 \
 Resolve: 17 |
-| Velociraptor, Dire Wolf | 3 | 0 | 40’ | | Agility 5 \
+| Velociraptor, Dire Wolf | 3 | 0 | 40' | | Agility 5 \
 Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 \
 Guard: 17 \
 Resolve: 15 |
-| T-Rex | 5 | 0 | 50’ | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 \
+| T-Rex | 5 | 0 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 \
 Guard: 20 \
 Resolve: 15 |
-| Giant Scorpion | 4 | 0 | 35’ | Independent 1 | Agility 5 \
+| Giant Scorpion | 4 | 0 | 35' | Independent 1 | Agility 5 \
 Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 \
 Guard: 15 \
 Resolve: 18 |
@@ -2775,7 +2775,7 @@ Resolve: 18 |
 
 Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
 
-Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with their Entropy attribute of 5, but won’t be able to invoke the *Insubstantial* boon for themself or their allies until they gain enough experience to increase their Entropy to 7.
+Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses the prerequisite attributes. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with their Entropy attribute of 5, but won't be able to invoke the *Insubstantial* boon for themself or their allies until they gain enough experience to increase their Entropy to 7.
 
 A list of available banes and boons can be found in this SRD under the [banes section](#banes-list) and [boons section](#boons-list) and a searchable and filterable list of available banes and boons can be found on the [Open Legend Website](http://www.openlegendrpg.com/), respectively.
 
@@ -2791,9 +2791,9 @@ In *Open Legend*, we use the rules to make sure the game is fair and that everyo
 
 ## Invoking Banes and Boons
 
-To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target’s defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful damaging attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be effected by multiple banes, you may not *stack* banes; A target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* *Fatigued*).
+To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target's defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful damaging attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be effected by multiple banes, you may not *stack* banes; A target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* *Fatigued*).
 
-To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon’s Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke at after making your action roll. While targets may be effected by different boons, you may not *stack* the same boon multiple times; if a second invocation of a boon would be applied to a character, they choose which boon to keep and which one to negate.
+To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon's Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke at after making your action roll. While targets may be effected by different boons, you may not *stack* the same boon multiple times; if a second invocation of a boon would be applied to a character, they choose which boon to keep and which one to negate.
 
 Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 6: Combat.
 
@@ -2805,7 +2805,7 @@ Each bane description includes the following elements.
 
 **Attack Attributes.** This is a list of the attribute or attributes that can be used to inflict the bane. As long as you possess at least one of the listed attributes at a score greater than or equal to the Power Level, then you can inflict the bane.
 
-**Attack.** This list indicates what type of attack roll to make when inflicting the bane. Each entry consists of an attribute that the attacking player should roll and the defense score targeted by the attack. If the attacker’s roll equals or exceeds the target’s defense score, then the bane is inflicted.
+**Attack.** This list indicates what type of attack roll to make when inflicting the bane. Each entry consists of an attribute that the attacking player should roll and the defense score targeted by the attack. If the attacker's roll equals or exceeds the target's defense score, then the bane is inflicted.
 
 **Duration.** A bane typically remains in effect until the target resists it with a *Resist* roll, hence most banes have a duration of “resist ends”. If a target fails three resist rolls against a bane, the bane can no longer be resisted. It persists for an extended duration indicated in parentheses.
 
@@ -2893,7 +2893,7 @@ on the power level of the bane when invoked.
 this bane prevents the target from being aware of their affliction and
 thus prevents them from actively attempting to break free. However, the
 targets true mind is magically suppressed but fights to regain control.
-As such, at the end of each of it’s turns, the target receives a Resist
+As such, at the end of each of it's turns, the target receives a Resist
 roll as a free action to break free from the effect. When your target
 succeeds at a resist roll against this bane, they become to immune to
 all subsequent attempts by you to inflict the bane for the next 24
@@ -2934,7 +2934,7 @@ disadvantage 3.
 -   Entropy vs. Toughness
 
 **Description:** Utilizing either incredible precision or the power of entropy, the
-target’s life force is snuffed out completely. The most deadly assassins
+target's life force is snuffed out completely. The most deadly assassins
 and most powerful necromancers are known for such legendary skill at
 snuffing out life. \newline
 
@@ -2943,7 +2943,7 @@ is a brief window of time in which the target can attempt to resist this
 extinguishing force, but once that window closes, the death is permanent and can
 only be reversed if the GM allows a special mission to use rare technology or
 long-forgotten magic to restore the target. When the bane is initially applied,
-the target is immobile (can’t move from their current space) and unconscious.
+the target is immobile (can't move from their current space) and unconscious.
 They have disadvantage 5 on all perception rolls, and are incapable of moving.
 As a result of being completely incapable of movement, an incapacitated character
 can be the victim of a finishing blow. \newline
@@ -2952,7 +2952,7 @@ can be the victim of a finishing blow. \newline
 this bane prevents the target from being aware of their affliction and
 thus prevents them from actively attempting to break free. However, the
 targets body fights to regain consciousness and resist the pending
-death. As such, at the end of each of it’s turns, the target receives a
+death. As such, at the end of each of it's turns, the target receives a
 Resist roll as a free action to break free from the effect. Whereas 3
 failed resist rolls would usually persist the effects of the bane, this
 bane extinguishes the life force of the target on 3 failed saves, thus
@@ -3016,7 +3016,7 @@ of an object they are holding. \newline
 
 **Effect:**
 
--   **Power Level 3** - You force another character to drop an object they are holding. Choose a location within 15’ of the target, the item ends up there.
+-   **Power Level 3** - You force another character to drop an object they are holding. Choose a location within 15' of the target, the item ends up there.
 
 -   **Power Level 6** - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute (typically Might) roll with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
 
@@ -3051,7 +3051,7 @@ cannot take action of any kind (except thought) unless it is ordered by
 you. Every action which the attacker orders the afflicted character to
 perform which is in extreme violation of their nature gives the target a
 Resist roll as a free action to break free from the effect. The attacker
-does not gain special access to the target’s mind and so can only order
+does not gain special access to the target's mind and so can only order
 the character to perform actions that they think or know (from prior
 knowledge) that the character is capable of. Lastly, each mental order that the attacker
 gives to the target is a major action, however the
@@ -3234,11 +3234,11 @@ immediately ends the bane). \newline
 **Description:** Incapacitation is a catch-all for a variety of effects, including total
 paralysis, sleep, petrification, poisoning, being knocked out, or
 fainting. Examples of possible causes of this bane include a martial
-artist’s paralyzing strike, an enchanter's magical song of sleep,
+artist's paralyzing strike, an enchanter's magical song of sleep,
 paralysis by poison, fainting from extreme heat, suffocation, and the
 gaze of a medusa. \newline
 
-**Effect:** The target is immobile (can’t move from their current space) and
+**Effect:** The target is immobile (can't move from their current space) and
 unconscious. They have disadvantage 5 on all perception rolls and are
 incapable of moving. As a result of being completely incapable of
 movement, an incapacitated character can be the victim of a finishing
@@ -3248,7 +3248,7 @@ blow.
 
 -   **Power Level 7** - The effect can only be broken if the target takes 1 point of damage.
 
--   **Power Level 9** - The effect cannot be disrupted by external forces, only the afflicted character’s successful resist roll can end the effect.
+-   **Power Level 9** - The effect cannot be disrupted by external forces, only the afflicted character's successful resist roll can end the effect.
 
 
 **Special:** While most banes last until the target actively attempts to resist it,
@@ -3304,7 +3304,7 @@ knowledge, prescience, or other means.
 
 -   **Power Level 5** - You temporarily modify a minor aspect of the target's memory. The target automatically regains the lost memory and realizes their confusion 1 hour later.
 
--   **Power Level 6** - You permanently erase or alter the last 5 minutes of the target’s memory. The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did). Multiple uses of this bane progressively erase consecutive 5 minute increments.
+-   **Power Level 6** - You permanently erase or alter the last 5 minutes of the target's memory. The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did). Multiple uses of this bane progressively erase consecutive 5 minute increments.
 
 -   **Power Level 8** - Instead of the immediate past, you can erase or alter memories from any time.
 
@@ -3329,15 +3329,15 @@ attempts of this bane from you for the next 24 hours.
 into the minds of others. \newline
 
 **Effect:**
--   **Power Level 2** - This power may only target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.
+-   **Power Level 2** - This power may only target creatures of animal intelligence or lower. You gain access to the target's current thoughts.
 
--   **Power Level 4** - This power may target creatures of any intelligence. You gain access to the target’s current thoughts.
+-   **Power Level 4** - This power may target creatures of any intelligence. You gain access to the target's current thoughts.
 
--   **Power Level 6** - This power may target creatures of any intelligence. You gain access to the target’s current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access access to an additional day’s worth of memories.
+-   **Power Level 6** - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access access to an additional day's worth of memories.
 
--   **Power Level 8** - This power may target creatures of any intelligence. You gain access to the target’s current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access access to an additional year’s worth of memories. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.
+-   **Power Level 8** - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access access to an additional year's worth of memories. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.
 
--   **Power Level 9** - This power may target creatures of any intelligence. You gain access to the target’s current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.
+-   **Power Level 9** - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.
 
 
 **Special:** When your target succeeds at a resist roll against this bane, they
@@ -3363,7 +3363,7 @@ for the next 24 hours.
 
 -   **Power Level 1** - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.
 
--   **Power Level 6** - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.
+-   **Power Level 6** - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.
 
 
 ## Persistent Damage
@@ -3386,7 +3386,7 @@ lasting and recurring source of damage. \newline
 
 **Effect:** At the beginning of the target's turn, before they take any actions, the
 target suffers damage determined by the power level of the bane. This
-damage automatically bypasses the afflicted character’s defenses but it
+damage automatically bypasses the afflicted character's defenses but it
 can be reduced by any resistance to damage of a certain type (see the
 Resistance boon). Like all dice rolls, these dice explode.
 
@@ -3622,7 +3622,7 @@ around the target, or from a physical effect like strangulation or suffocation.
 
 **Effect:** If Might, Agility, or Entropy is used to inflict this bane, then the
 character is suffering strangulation and unable to speak. If the bane is
-inflicted using Alteration, then all sound within 5’ of the target is
+inflicted using Alteration, then all sound within 5' of the target is
 magically suppressed, making their footsteps and the usual clank of
 belongings they are carrying inaudible.
 
@@ -3644,7 +3644,7 @@ belongings they are carrying inaudible.
 
 **Description:** The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. \newline
 
-**Effect:** The afflicted target’s speed is reduced to half it's current speed, rounded down to the nearest 5' increment. This applies to
+**Effect:** The afflicted target's speed is reduced to half it's current speed, rounded down to the nearest 5' increment. This applies to
 all movement that is physical (flight, walking, climbing, etc.). If the
 target is currently under a magical effect that increases speed, the two
 effects are canceled for the duration that both affect the target.
@@ -3684,13 +3684,13 @@ that disorients the target. \newline
 
 -   Influence vs. Resolve
 
-**Description:** The stupefied bane has examples in many stories and legends: a vampire’s
+**Description:** The stupefied bane has examples in many stories and legends: a vampire's
 eyes, a siren's song, and a nymph's beauty are all known to cast a
 stupor upon weak-willed mortals. Being stupefied causes the character to
 be lulled into a false sense of security, tranquility, and pacifism. \newline
 
 **Effect:** The target is in a state of mental fog, lowering their mental defenses.
-While stupefied, the character’s Resolve defense is reduced to 10. In
+While stupefied, the character's Resolve defense is reduced to 10. In
 addition, the character has the approximate intelligence of a child. If
 attacked, it will defend itself until the attack ceases using its
 natural weapons, but the target will never employ any kind of complex
@@ -3707,7 +3707,7 @@ target an additional Resist roll to break free from the bane. Also any
 action that would startle a wild animal (hit with a rock, slap on the
 face, etc.) will also trigger a free Resist roll for the target. Unlike
 other resist rolls, those triggered by damage, fear, and trauma do not
-count against the target’s typically allowed failures of 3, beyond which
+count against the target's typically allowed failures of 3, beyond which
 the duration of the bane would extend. When your target succeeds at a
 resist roll against this bane, they become to immune to all subsequent
 attempts by you to inflict the bane for the next 24 hours.
@@ -3791,7 +3791,7 @@ Each boon description includes the following elements.
 
 **Invocation Time.** The required time that it takes to invoke the boon. Most boons have an invocation time of 1 major action. For boons that have a longer time, you must spend the entire invocation time concentrating on nothing other than invoking the boon. If you are interrupted, you must start the casting over.
 
-**Duration.** Most boons have a duration of “sustain persists”, which indicates that the invoker must use a sustain action every round in order to keep the boon in effect. If you have a boon in effect and don’t sustain it, the boon's effects cease at the end of your turn. Because sustaining a boon is a minor action, which can only be taken once per turn, you can typically sustain only one boon at a time.
+**Duration.** Most boons have a duration of “sustain persists”, which indicates that the invoker must use a sustain action every round in order to keep the boon in effect. If you have a boon in effect and don't sustain it, the boon's effects cease at the end of your turn. Because sustaining a boon is a minor action, which can only be taken once per turn, you can typically sustain only one boon at a time.
 
 **Description.** This entry simply provides a general idea of what the boon could look like in the story.
 
@@ -3860,7 +3860,7 @@ abilities of this animated creature and it should follow the guidelines
 established by the "Simple Build" section for creating NPCs / monsters in
 Chapter 7: Running the Game.
 
--   **Power Level 6** - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating. With a successful invocation, the creature comes into existence with the **Charmed** (Minor Charm) bane already in effect (no roll is required).
+-   **Power Level 6** - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the **Charmed** (Minor Charm) bane already in effect (no roll is required).
 
 -   **Power Level 8** - You can animate a group of creatures: Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked **Charmed** bane is a Major Charm instead of Minor Charm.
 
@@ -4033,9 +4033,9 @@ progressively improving speed and agility. \newline
 
 **Effect:**
 
--   **Power Level 5** - The target gains a flight speed of 10’ with low maneuverability.
+-   **Power Level 5** - The target gains a flight speed of 10' with low maneuverability.
 
--   **Power Level 6** - The target gains a flight speed of 30’ and is highly maneuverable.
+-   **Power Level 6** - The target gains a flight speed of 30' and is highly maneuverable.
 
 -   **Power Level 8** - The granted flight speed increases to 60'.
 
@@ -4506,7 +4506,7 @@ other similar means. \newline
 **Effect:**
 -   **Power Level 3** - You can teleport your target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
 
--   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can’t see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect).
+-   **Power Level 5** - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can't see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect).
 
 -   **Power Level 7** - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport the target 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put your target many miles in an unfavorable direction. You simply choose a direction (relative to your starting location) and teleport your target a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.
 
@@ -4615,13 +4615,13 @@ When the GM declares that combat will begin, the game is separated into rounds. 
 
 ### Determining Surprise
 
-In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits’ Agility roll. Any PC who fails the check is surprised. The GM decides when some or all combatants may be surprised.
+In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits' Agility roll. Any PC who fails the check is surprised. The GM decides when some or all combatants may be surprised.
 
 Surprised characters always act after non-surprised characters, as explained in the rules for initiative. Furthermore, until a surprised character takes their first turn, they may not take any interrupt actions and all attacks made against them gain advantage 1.
 
 ### Roll for Initiative
 
-After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
+After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant's Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster's initiative individually.
 
 Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine order randomly.
 
@@ -4658,9 +4658,9 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | is less than the Challenge Rating, | The GM and the PC both choose 1: \
 Deal 3 damage \
 Inflict 1 bane of Power Level <= 3 \
-Move 10’ w/o opportunity attacks |
+Move 10' w/o opportunity attacks |
 
-With these modified rules, a player’s failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
+With these modified rules, a player's failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 
 ### Why Succeed on a Failed Roll?
 
@@ -4692,7 +4692,7 @@ A few attributes can be used for damaging attacks in special circumstances in wh
 
 ### Probably Never
 
-The remaining attributes don’t really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
+The remaining attributes don't really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
 
 ## Taking Your Turn
 
@@ -4739,7 +4739,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 **Melee weapon attacks** target foes that are within reach of you.
 
-**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon’s range.
+**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
 
 **Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
 
@@ -4759,12 +4759,12 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 | **Step 1:** | **Melee** = Within your reach |
 | **Determine Range** | **Projectile** = Weapon range (Disadvantage 1 per extra range increment) |
 | |  **Extraordinary** |
-| | 1 - 3 = 25’ |
-| | 4 - 6 = 50’ |
-| | 7 - 9 = 75’ |
+| | 1 - 3 = 25' |
+| | 4 - 6 = 50' |
+| | 7 - 9 = 75' |
 | **Step 2:** | *If more than one target...*  |
 |  **Determine Targets** | **Melee** = Disadvantage equals total # of targets |
-| | **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) |
+| | **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25' square) |
 | | **Area** = Disadvantage varies (see below) |
 | **Step 3:** | Weapon Attacks target Guard |
 | **Determine Targeted Defense** | Extraordinary Attacks target the most logical defense |
@@ -4829,14 +4829,14 @@ You may choose from a variety of shapes when making an area attack as described 
 | - | - |
 | **Melee Attacks** | Disadvantage = number of targets. |
 | **Ranged Attacks** | Disadvantage = number of targets. |
-| | Max 5 targets. Must be within a 25’ square. |
-| **Cube** | Disadvantage = 1 per 5’ of length of cube. |
+| | Max 5 targets. Must be within a 25' square. |
+| **Cube** | Disadvantage = 1 per 5' of length of cube. |
 | **Line** | Disadvantage = 1 per 5'x10'x10' line. |
 | **Cone** | Disadvantage = 1 per 5' length of cone. |
 
 **3. Determine Targeted Defense**
 
-Every attack targets one of your foe’s defenses: Toughness, Guard, or Resolve.
+Every attack targets one of your foe's defenses: Toughness, Guard, or Resolve.
 
 Weapon attacks always target Guard.
 
@@ -4854,12 +4854,12 @@ You deal damage equal to your action roll minus the target's defense, ignoring n
 
 **Exceptional Success**
 
-If your damaging attack roll exceeds the target’s defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
+If your damaging attack roll exceeds the target's defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
 equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
 #### Make a Bane Attack
 
-Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
+Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as
 detailed in the [*bane descriptions*](#banes-list). While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* *Fatigued*).
 
 To resolve a bane attack, follow these steps:
@@ -4874,13 +4874,13 @@ The targeted defense is determined by the type of bane being inflicted. Consult 
 
 **3. Roll Your Attack**
 
-The [*bane descriptions*](#banes-list) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target’s defense score, your target suffers the bane.
+The [*bane descriptions*](#banes-list) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
 #### Invoke a Boon
 
 \ \
 
-You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon’s power level, as detailed in the
+You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the
 [*boon descriptions*](#Boons List). To invoke a boon, follow these steps:
 
 **1. Determine Range and Target(s)**
@@ -4951,7 +4951,7 @@ You may move up to your speed. The base speed for characters is 30'. This moveme
 
 Special movement includes climbing, jumping, swimming, and other movement that is typically more restricted than just running across the battlefield.
 
-**Jump**. Make a Might roll. If you can’t get at least a 10’ running start, you have disadvantage 1.
+**Jump**. Make a Might roll. If you can't get at least a 10' running start, you have disadvantage 1.
 
 - **For a long jump,** you cover a number of feet equal to your roll.
 
@@ -4973,7 +4973,7 @@ Many banes will persist for a longer duration after three failed resist attempts
 
 \ \
 
-Minor actions are tasks that don’t require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
+Minor actions are tasks that don't require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
 -   Draw or sheathe a weapon
 -   Retrieve an item stored on your person
@@ -5009,7 +5009,7 @@ Using a focus action involves spending all of your energy and attention on one t
 
 ### Interrupt Actions
 
-In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
+In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
 **Defend.** You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. Describe how you are defending and then make an action roll using an appropriate attribute (Protection, Agility, and Might are all typical examples of attributes used to defend). A single defend action can only be used to defend one target.
 
@@ -5025,7 +5025,7 @@ If a feat, perk, boon, or other source grants a *Free Action*, that action can b
 
 ## Damage and Healing
 
-Your hit points (HP) are an abstract measure of your character’s ability to ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. Whenever you take damage, your hit points are reduced, and whenever you receive healing they are increased.
+Your hit points (HP) are an abstract measure of your character's ability to ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. Whenever you take damage, your hit points are reduced, and whenever you receive healing they are increased.
 
 ### Finishing Blows
 
@@ -5048,7 +5048,7 @@ Lethal damage is used sparingly in Open Legend as a way for GMs to paint a pictu
 
 A creature's maximum hit point toal is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to its maximum hit points. If a creature sustains lethal damage greater than or equal to its maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
 
-Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
+Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant's Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
 
 For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
 
@@ -5073,7 +5073,7 @@ The thrill of adventure, the satisfaction of character development, and the joy 
 
 In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
-Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That’s right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
+Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That's right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
 
 **Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. Whenever your players reach one of these milestones, you give them 3 XP and thus a new level. A milestone map might look something like this:
 
@@ -5081,7 +5081,7 @@ Rather than constantly awarding different experience point values to different m
 
 - **Level 3:** The heroes discover the Cult of the Dragon.
 
-- **Level 4:** The heroes prevent the cult’s Ritual of Three
+- **Level 4:** The heroes prevent the cult's Ritual of Three
   from being completed.
 
 - **Level 5:** The heroes retrieve the treasure at the bottom of the Sunken Star.
@@ -5092,26 +5092,26 @@ Rather than constantly awarding different experience point values to different m
 
 - **Level 8:** The heroes discover the secret of the Ruins of Mastika.
 
-- **Level 9:** The heroes find a way to weaken Dezzer Kai’s power over the land.
+- **Level 9:** The heroes find a way to weaken Dezzer Kai's power over the land.
 
 - **Level 10:** The heroes defeat Dezzer Kai.
 
 
-**Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they’ll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don’t have to plan out a campaign’s milestones ahead of time, but you may need to adapt on the fly to your players' increasing power.
+**Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they'll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don't have to plan out a campaign's milestones ahead of time, but you may need to adapt on the fly to your players' increasing power.
 
 ### Beyond 10th Level
 
-Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can’t extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
+Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
 
 #### All That Glitters: Giving Players More Wealth
 
 In addition to power, most players enjoy being able to have more influence on the campaign world by amassing hoards of treasure. With money comes the ability to buy better equipment, employ hirelings, construct fortifications, and even raise armies.
 
-Chapter 4 explains Open Legend’s simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2 and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players’ access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
+Chapter 4 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2 and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
 
-You can use this table as a rough guideline for when to give players more wealth, particularly if you have also created an outline of milestones for granting experience levels. For example, the table shows that by 4th level, a typical character should have progressed to wealth score 4. Using the experience level milestone plan detailed previously, we could decide that after stopping the first threat to Woodshold, the people of the town take up a collection to reward the heroes. We can also plan to give the Cult of the Dragon a horde of treasure that will again increase the party’s wealth score.
+You can use this table as a rough guideline for when to give players more wealth, particularly if you have also created an outline of milestones for granting experience levels. For example, the table shows that by 4th level, a typical character should have progressed to wealth score 4. Using the experience level milestone plan detailed previously, we could decide that after stopping the first threat to Woodshold, the people of the town take up a collection to reward the heroes. We can also plan to give the Cult of the Dragon a horde of treasure that will again increase the party's wealth score.
 
-However you plan to award wealth, you can see that the general recommendation on the table is for a PC’s wealth score to increase twice every three levels.
+However you plan to award wealth, you can see that the general recommendation on the table is for a PC's wealth score to increase twice every three levels.
 
 #### Wealth Overview
 
@@ -5126,24 +5126,24 @@ However you plan to award wealth, you can see that the general recommendation on
 | 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
 | 3 | master artisan, village mayor | full plate armor, silver weapons, a small boat, a fine horse |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
-| 5 | lord of a realm, thieves’ guild master in a large city | a large cargo ship, a city wall |
+| 5 | lord of a realm, thieves' guild master in a large city | a large cargo ship, a city wall |
 | 6 | 7th level hero | a large warship |
 | 7 | king | a stronghold, startup funding for a new town |
 | 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
 | 9 | emperor| a castle, an army of 50,000 |
 
 
-If you or your players have a background with other game systems, in which they may have regularly looted every corpse, scavenged every piece of equipment, and dutifully tracked every single gold piece, then Open Legend’s wealth system might initially feel a bit awkward. If it does, consider some of the following tips:
+If you or your players have a background with other game systems, in which they may have regularly looted every corpse, scavenged every piece of equipment, and dutifully tracked every single gold piece, then Open Legend's wealth system might initially feel a bit awkward. If it does, consider some of the following tips:
 
-**NPCs still have stuff on them.** Just because you don’t need to spend hours tracking every piece of loot that the players cut from a corpse doesn’t mean that they don’t have stuff on them. It just fades into the background so that you can focus on the story.
+**NPCs still have stuff on them.** Just because you don't need to spend hours tracking every piece of loot that the players cut from a corpse doesn't mean that they don't have stuff on them. It just fades into the background so that you can focus on the story.
 
-Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it’s usually to serve the plot.
+Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it's usually to serve the plot.
 
-So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it’s still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
+So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it's still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
 
-**Wealth represents influence.** Since players aren’t tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can easily use money to influence someone else of a lower wealth score.
+**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can easily use money to influence someone else of a lower wealth score.
 
-If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can’t be acquired for two weeks. If the bribe recipient is **one wealth level higher** than the character’s Wealth Score, the cost is so great that the character’s Wealth Score is permanently reduced by 1. Bribing someone more than one Wealth level higher is impossible without other factors in play.
+If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks. If the bribe recipient is **one wealth level higher** than the character's Wealth Score, the cost is so great that the character's Wealth Score is permanently reduced by 1. Bribing someone more than one Wealth level higher is impossible without other factors in play.
 
 So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor.
 
@@ -5151,7 +5151,7 @@ Keep these same guidelines in mind when it comes to arbitrating similar situatio
 
 ### Monsters and NPC Statistics
 
-Many of the monsters and NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don’t need a full array of attributes, feats, and favored banes because, more likely than not, you’ll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments - but your party is never going to need to engage him in combat.
+Many of the monsters and NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don't need a full array of attributes, feats, and favored banes because, more likely than not, you'll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments - but your party is never going to need to engage him in combat.
 
 A good deal of your monsters and NPCs, however, will require statistical descriptions to use for combat or social encounters. This section will describe two ways that you can build these statistics: the complex build and the simple build.
 
@@ -5159,13 +5159,13 @@ A good deal of your monsters and NPCs, however, will require statistical descrip
 
 When designing an NPC using the complex build, you simply create the NPC as if it was a player character. Select an appropriate level and use the instructions in chapter one to assign attributes, feats, and other defining characteristics.
 
-The complex build is a good option when you are creating a very important villain or ally who will play a major role in the story line. This process can take a while, so it’s not worth going through with underlings, henchmen, or beasts who are only going to be present for a single scene.
+The complex build is a good option when you are creating a very important villain or ally who will play a major role in the story line. This process can take a while, so it's not worth going through with underlings, henchmen, or beasts who are only going to be present for a single scene.
 
 #### Simple Build
 
-The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don’t have any stats written up for these monsters. In this situation, you could use the simple build rules to get combat rolling quickly.
+The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don't have any stats written up for these monsters. In this situation, you could use the simple build rules to get combat rolling quickly.
 
-Use the NPC Simple Build Table to determine the monster’s most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster’s attacks and actions, and then choose as many secondary attributes as you need in order to define the monster’s other capabilities.
+Use the NPC Simple Build Table to determine the monster's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster's attacks and actions, and then choose as many secondary attributes as you need in order to define the monster's other capabilities.
 
 #### NPC Simple Build
 
@@ -5252,7 +5252,7 @@ You may use your attacks to make any combination of bane or damaging attacks, bu
 
 A Boss is a single monster or NPC that is capable of taking on a group of characters due to extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
 
-When you decide that one of your monsters or NPCs merits boss status, use the Boss Monster Build Table to generate statistics in the same way you would if using the simple build rules described previously. You’ll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain’s hit points and defenses based on this table to better represent the appropriate strength of a boss.
+When you decide that one of your monsters or NPCs merits boss status, use the Boss Monster Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
 
 
 \NextTableColumns{OLT{.16}OCT{.16}OCT{.17}OCT{.17}OCT{.17}OCT{.17}}
@@ -5274,9 +5274,9 @@ When you decide that one of your monsters or NPCs merits boss status, use the Bo
 
 **Boss Actions**
 
-In addition to its normal allotment of actions, a boss will also receive one or more boss actions on its turn. When rolling initiative for a boss, make an extra number of initiative rolls for each boss action. When arranging the initiative order, there must be at least one PC between each of the boss’s turns. If necessary, move the “boss action” turns lower in the order to accommodate this requirement.
+In addition to its normal allotment of actions, a boss will also receive one or more boss actions on its turn. When rolling initiative for a boss, make an extra number of initiative rolls for each boss action. When arranging the initiative order, there must be at least one PC between each of the boss's turns. If necessary, move the “boss action” turns lower in the order to accommodate this requirement.
 
-During combat, the boss monster’s highest initiative count indicates its normal turn, during which it gets the usual allotment of major, move, and minor actions. Each of the boss’s lower counts in the initiative are boss actions, which allow the boss to make one major action.
+During combat, the boss monster's highest initiative count indicates its normal turn, during which it gets the usual allotment of major, move, and minor actions. Each of the boss's lower counts in the initiative are boss actions, which allow the boss to make one major action.
 
 
 ## Planning Combat Encounters
@@ -5285,7 +5285,7 @@ The build rules just explained help you create individual monsters or NPCs for t
 
 ### Encounter Difficulty
 
-When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn’t present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
+When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn't present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
 
 Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
 
