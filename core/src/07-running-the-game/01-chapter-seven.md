@@ -345,7 +345,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Bane Focus:** Pick a bane. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
-- **Bane Resistance (tier 1 - 2, your choice, available only to GMs): Choose a bane and gain the following benefits:**
+- **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain the following benefits:
 
 	- **Tier 1:** Gain +5 to your defense against the chosen bane.
 	- **Tier 2:** You are immune to the chosen bane.
@@ -356,19 +356,22 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
     - **Tier 1:** When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
 
-     - **Tier 2:** You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour.
+     - **Tier 2:** You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.
 
-    - **Tier 3:** This boon is always active for your character and passively persists, without requiring your concentration (though it can be temporarily dispelled until your next turn when it automatically resumes). If the invocation is not a single target, success is not automatic, but you get advantage 4 on the action roll to invoke it.
+    - **Tier 3:** The effect at tier 3 varies based on the duration of the boon:
+      <br />
+      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled (such as by the Nullify bane), you can invoke it at the start of your next turn as a free action.
+      <br />
+      <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
-- **Energy Resistance (tier 1 - 3, your choice):** Choose an energy type and gain the following benefits:
+- **Energy Resistance (tier 1 - 4, your choice):** Choose an energy type and gain the following benefits:
 
-    - **Tier 1:** Prevent the first 5 damage you would suffer each round from the chosen energy type.
+    - **Tier 1:** Your defense scores are increased by 3 against the chosen energy type.
+    - **Tier 2:** Your defense scores are increased by 6 against the chosen energy type.
+    - **Tier 3:** Your defense scores are increased by 9 against the chosen energy type.
+    - **Tier 4:** You are immune to damage and harmful effects from the chosen energy type.
 
-    - **Tier 2:** All damage you would suffer from the chosen type is halved.
-
-    - **Tier 3:** You are immune to the chosen energy type.
-
-- **Evasive Footwork:** When you move from a square adjacent to an enemy to another square not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+- **Evasive Footwork:** When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 
 - **Lethal Strike (tier equal to NPC level, max 9):** Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
     1. Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception.
@@ -377,18 +380,20 @@ Once you have the basic statistics recorded, choose a few of the following feats
     If one of the above conditions is met, you can deliver a lethal strike, which grants advantage and deals lethal damage in accordance with your tier and is difficult to recover from. Each tier below has an amount of advantage and a max lethal damage. If you deal damage up to the lethal threshold, then the lethal damage equals your damage total. If you deal more damage than the lethal threshold, you deal lethal damage equal to the threshold.
 
     - **Tier 1** - Advantage 1, Max lethal damage 5
-    - **Tier 2** - Advantage 2, Max lethal damage 10
-    - **Tier 3** - Advantage 3, Max lethal damage 15
-    - **Tier 4** - Advantage 4, Max lethal damage 15
-    - **Tier 5** - Advantage 5, Max lethal damage 20
+    - **Tier 2** - Advantage 2, Max lethal damage 5
+    - **Tier 3** - Advantage 3, Max lethal damage 10
+    - **Tier 4** - Advantage 4, Max lethal damage 10
+    - **Tier 5** - Advantage 5, Max lethal damage 15
     - **Tier 6** - Advantage 6, Max lethal damage 20
-    - **Tier 7** - Advantage 7, Max lethal damage 25
+    - **Tier 7** - Advantage 7, Max lethal damage 20
     - **Tier 8** - Advantage 8, Max lethal damage 25
-    - **Tier 9** - Advantage 9, Max lethal damage 30
+    - **Tier 9** - Advantage 9, Max lethal damage 25
 
-- **Multi-Attack Specialist (tier equals NPC level, max 6):** When you make an attack, you can choose to incur disadvantage 3, in exchange for an additional attack. You can use this ability to gain more than one additional attack. You can move between each of these attacks or otherwise divide them. You must decide before your first attack whether or not to use this feat. The disadvantage applies to all attacks for this turn. For each tier of this feat you offset the disadvantage penalty by 1.
+- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of additional attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 
-- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
+
+- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with multi-targeting by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
 
 - **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
 
@@ -397,7 +402,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 - **Resilient:** Any time you roll to Resist, you have advantage 1 on the roll.
 
 - **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on. \
-**Special**: This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
+**Special:** This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
 
 > #### Example Simple Monster Build: Swamp Snakes
 >

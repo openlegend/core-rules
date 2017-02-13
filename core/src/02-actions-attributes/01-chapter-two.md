@@ -8,7 +8,7 @@ interpret the results.
 *Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
 example, you’ll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don’t need to roll a Persuasion check every time you go to buy something from the bazaar, and you don’t need to roll Logic to remember where you left your multi-pass.
 
-*Open Legend* includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a  minimum score of 1 in order to attempt a roll.
+*Open Legend* includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
 
 ## Every Roll Matters
 

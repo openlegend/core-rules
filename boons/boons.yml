@@ -32,7 +32,7 @@
     The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and it should follow the guidelines established by the "Simple Build" section for creating NPCs / monsters in Chapter 7: Running the Game.
     <ul>
     <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you’re animating. With a successful invocation, the creature comes into existence with the <strong>Charmed</strong> (Minor Charm) bane already in effect (no roll is required).</li>
-    <li><strong>Power Level 8</strong> - You can animate a group of creatures:  Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <strong>Charmed</strong> bane is a Major Charm instead of Minor Charm.</li>
+    <li><strong>Power Level 8</strong> - You can animate a group of creatures: Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <strong>Charmed</strong> bane is a Major Charm instead of Minor Charm.</li>
     </ul>
 - !
   name: Aura
@@ -371,7 +371,7 @@
   invocationTime: 1 Minor Action
   duration: Sustain Persists
   description: |
-    You light up an area with magical light from a point of your choice
+    You light up an area with magical light from a point of your choice.
   effect: |
     Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 - !
@@ -394,7 +394,7 @@
     <li><strong>Power Level 1</strong> - The target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
     <li><strong>Power Level 3</strong> - The target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
     <li><strong>Power Level 5</strong> - The target asks a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.</li>
-    <li><strong>Power Level 7 </strong> - The target can choose a particular event, decision, person, place, etc. After invoking this boon, your target begins to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target with detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
+    <li><strong>Power Level 7</strong> - The target can choose a particular event, decision, person, place, etc. After invoking this boon, your target begins to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target with detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
     </ul>
 - !
   name: Reading
@@ -411,12 +411,12 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You reach out and supernaturally connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
+    Through supernatural magic or extrasensory perception, you reach out and connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
   effect: |
     When you successfully invoke this boon, you gain information from an object or place within range as follows:
     <ul>
     <li><strong>Power Level 5</strong> - Your target can read vague ideas and impressions to learn what took place near the object or place within the past hour.</li>
-    <li><strong>Power Level 6</strong> - Your target can see a vivid vision, similar to a supernatural recording, of what took place near the object or place within the last hour.</li>
+    <li><strong>Power Level 6</strong> - Your target can see a vivid vision, similar to a recording, of what took place near the object or place within the last hour.</li>
     <li><strong>Power Level 7</strong> - Your target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the Scrying bane to magically locate or view those identified.</li>
     <li><strong>Power Level 8</strong> - Choose one: You see a vision of the most recent significant event that took place in close proximity to the target - OR - you ask whether or not a specific event you are aware of is impressed upon the target.</li>
     <li><strong>Power Level 9</strong> - Your target is able, given sufficient time, to access all memories impressed upon the object or place. You must maintain concentration, with each 10 minutes yielding a new vision from the object's or place's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.</li>
@@ -468,7 +468,7 @@
   description: |
     Whether through a magical force field, an elemental wall, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack.
   effect: |
-    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include precise, forceful, fire, cold, lightning, acid, influence,  and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
+    When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include precise, forceful, fire, cold, lightning, acid, influence, and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
     <ul>
     <li><strong>Power Level 3</strong> - The target's defense scores are increased by 3 against the chosen attack type.</li>
     <li><strong>Power Level 5</strong> - The target's defense scores are increased by 6 against the chosen attack type.</li>
@@ -500,15 +500,15 @@
     You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon.
 
     <ul>
-    <li><strong>Power Level 1</strong> - Cancel banes of Power Level 1 or less </li>
-    <li><strong>Power Level 2</strong> - Cancel banes of Power Level 2 or less </li>
-    <li><strong>Power Level 3</strong> - Cancel banes of Power Level 3 or less </li>
-    <li><strong>Power Level 4</strong> - Cancel banes of Power Level 4 or less </li>
-    <li><strong>Power Level 5</strong> - Cancel banes of Power Level 5 or less </li>
-    <li><strong>Power Level 6</strong> - Cancel banes of Power Level 6 or less </li>
-    <li><strong>Power Level 7</strong> - Cancel banes of Power Level 7 or less </li>
-    <li><strong>Power Level 8</strong> - Cancel banes of Power Level 8 or less </li>
-    <li><strong>Power Level 9</strong> - Cancel banes of Power Level 9 or less </li>
+    <li><strong>Power Level 1</strong> - Cancel banes of Power Level 1 or less. </li>
+    <li><strong>Power Level 2</strong> - Cancel banes of Power Level 2 or less. </li>
+    <li><strong>Power Level 3</strong> - Cancel banes of Power Level 3 or less. </li>
+    <li><strong>Power Level 4</strong> - Cancel banes of Power Level 4 or less. </li>
+    <li><strong>Power Level 5</strong> - Cancel banes of Power Level 5 or less. </li>
+    <li><strong>Power Level 6</strong> - Cancel banes of Power Level 6 or less. </li>
+    <li><strong>Power Level 7</strong> - Cancel banes of Power Level 7 or less. </li>
+    <li><strong>Power Level 8</strong> - Cancel banes of Power Level 8 or less. </li>
+    <li><strong>Power Level 9</strong> - Cancel banes of Power Level 9 or less. </li>
     </ul>
   special: |
     You can dispel even higher level banes, but your roll total must be double the banes normal Power Level. So, a Power Level 9 bane can be dispelled on a roll of 46. This is only possible if the boon is invoked by a dice roll.
@@ -555,7 +555,7 @@
     A target's physical structure is temporarily altered, allowing it to change form to potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
   effect: |
     You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this boon is limited to your level or 5, whichever is higher. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.
-    In order to keep track of hit points, the target should record the total damage they have suffered. When transforming,  damage remains with the character even if their maximum hit points change. For example, Vera has a max HP of 20 but is turned into a dragon and her Fortitude increases from 5 to 9, increasing her hit points to 28. During combat, she suffers 10 damage. When she later transforms back into Vera, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
+    In order to keep track of hit points, the target should record the total damage they have suffered. When transforming, damage remains with the character even if their maximum hit points change. For example, Vera has a max HP of 20 but is turned into a dragon and her Fortitude increases from 5 to 9, increasing her hit points to 28. During combat, she suffers 10 damage. When she later transforms back into Vera, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
     Limitations are applied starting at Power Level 2 and are gradually removed at higher power levels:
     <ul>
     <li><strong>Power Level 2</strong> - The new form cannot be a different size than that of the target. It must possess similar physiology to the target, so humanoids and animals are both mammals and therefore can be shifted between. However animals, dragons, plants, elementals, and oozes all have different physiologies, so they cannot be shifted between. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form (hence, they cannot inflict banes that rely on the creature's extraordinary attributes).</li>
@@ -563,7 +563,7 @@
     <li><strong>Power Level 4</strong> - Shapeshift into a creature between one quarter and quadruple the target's original size. </li>
     <li><strong>Power Level 5</strong> - Gain the flying movement mode of the new form, if applicable.</li>
     <li><strong>Power Level 6</strong> - Shapeshift into a living creature of a different physiology, such as an elemental, ooze, or a plant.</li>
-    <li><strong>Power Level 7</strong> - Gain all extraordinary attributes possessed by the target.</li>
+    <li><strong>Power Level 7</strong> - Gain all extraordinary attributes possessed by the target. If both forms have an Alteration attribute, the target chooses between the two scores.</li>
     <li><strong>Power Level 8</strong> - Shapeshift into a creature of any size. </li>
 
     </ul>
@@ -720,7 +720,7 @@
     You are able to extraordinarily perceive things through impediments that would block or deceive normal sight, including darkness, illusions, and even the barrier between alternate planes of reality.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> -  You can see normally in natural or magical darkness. This extraordinary sight extends to 30'.</li>
+    <li><strong>Power Level 5</strong> - You can see normally in natural or magical darkness. This extraordinary sight extends to 30'.</li>
     <li><strong>Power Level 7</strong> - Your extraordinary sight pierces through all illusory effects, allowing you to see the illusion for what it is. This extraordinary sight extends to 60'.</li>
     <li><strong>Power Level 9</strong> - Your extraordinary sight enables you to peer into alternate planes or dimensions. You can see into dimensional pockets and other planes that overlap with the one you're currently on. This extraordinary sight extends to 100'.</li>
     </ul>
