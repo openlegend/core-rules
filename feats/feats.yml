@@ -800,7 +800,7 @@
   description: |
     Your specialization in a particular type of energy or general protection causes you to be resistant to that type of energy.
   effect: |
-    Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM’s discretion). When you are attacked with that energy type, you gain resistance to the attack as follows:
+    Choose from the following energy types: fire, cold, lightning, acid, (or another at the GM's discretion). When you are attacked with that energy type, you gain resistance to the attack as follows:
     <ul>
     <li><strong>Tier 1</strong> - Your defense scores are increased by 3 against the chosen energy type.</li>
     <li><strong>Tier 2</strong> - Your defense scores are increased by 6 against the chosen energy type.</li>
@@ -932,7 +932,7 @@
   cost:
   - 2
   description: |
-    Creatures that you’ve magically compelled become even stronger when fighting in your defense or under your command.
+    Creatures that you've magically compelled become even stronger when fighting in your defense or under your command.
   effect: |
     Creatures under the effects of your Charmed or Dominated bane gain advantage 1 on all attack rolls to defend or help you for each tier of this feat you possess.
 - !
@@ -1089,7 +1089,7 @@
       Attribute 8 = 10 miles<br />
       Attribute 9 = 100 miles<br /></li>
     <li>Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).</li>
-    <li>For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn’t grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.</li>
+    <li>For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn't grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.</li>
     </ul>
 
     <strong>Tier 2</strong> - You gain the following abilities:
@@ -1297,7 +1297,7 @@
   description: |
     You have knowledge of a particular area of study which far surpasses your general intelligence.
   effect: |
-    When you purchase this feat, choose a sphere of knowledge from the list below or, with the GM’s approval, create a new one. <br />
+    When you purchase this feat, choose a sphere of knowledge from the list below or, with the GM's approval, create a new one. <br />
     Example spheres of knowledge include alchemy, arcane, supernatural, engineering, geography, history, location (must specify), anatomy, medicine, explosives, computers, herbalism, and wilderness.<br />
     Your tier in this feat determines how knowledgeable you are within your chosen sphere.
     <ul>
@@ -1744,7 +1744,7 @@
   effect: |
     Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
   special: |
-    You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you’ve already purchased.
+    You can take this feat multiple times. Each time, you can either apply it to a different attribute or increase the feat tier for an attribute you've already purchased.
 - !
   name: Superior Concentration (I - III)
   prerequisites:
@@ -1851,7 +1851,7 @@
   description: |
     Your charm is so potent that your victims may become permanently enthralled by you.
   effect: |
-    When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a Nullify bane can still end the effect (and other methods may work at the GM’s discretion).
+    When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a Nullify bane can still end the effect (and other methods may work at the GM's discretion).
 - !
   name: Untrackable
   prerequisites:
