@@ -16,8 +16,8 @@
   effect: |
     Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
     <ul>
-    <li>Tier 1 - Half of your primary form's attribute points (rounded up), and 3 feat points.</li>
-    <li>Tier 2 - Same attribute points as your primary form, and 3 feat points per level.</li>
+    <li><strong>Tier 1</strong> - Half of your primary form's attribute points (rounded up), and 3 feat points.</li>
+    <li><strong>Tier 2</strong> - Same attribute points as your primary form, and 3 feat points per level.</li>
     </ul>
     Whenever your primary form gains new attribute points or levels up, your alternate form also gains points according to the above formulas.
     As a focus action, you may change between any two forms (including your primary form or any alternate form). You maintain this capability in all of your forms.
@@ -222,7 +222,7 @@
   description: |
     You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian, or an unstoppable samurai with laser focus in the heat of battle.
   effect: |
-    As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, your Toughness and Resolve defenses are increased by 3. If your armor bonus is less than 3, it becomes 3. If you take three consecutive turns without  making an attack roll against an enemy creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
+    As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, your Toughness and Resolve defenses are increased by 3. If your armor bonus is less than 3, it becomes 3. If you take three consecutive turns without making an attack roll against an enemy creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
   name: Battlefield Defender
   prerequisites:
@@ -978,7 +978,7 @@
   cost:
   - 3
   description: |
-    Whether through a pair of celestial or infernal wings, an inherent telekinetic power, or something unexplainable that you're born with, you have an inherent ability to fly
+    Whether through a pair of celestial or infernal wings, an inherent telekinetic power, or something unexplainable that you're born with, you have an inherent ability to fly.
   effect: |
     You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, an Immobile bane might render your wings immovable, if telekinetic, an application of the Dispel bane may cancel your flight.
 - !
@@ -1219,7 +1219,7 @@
   cost:
   - 2
   description: |
-    Your endurance and willpower are legendary, allowing you to push  on when others would keel over from exhaustion.
+    Your endurance and willpower are legendary, allowing you to push on when others would keel over from exhaustion.
   effect: |
     You are able to shrug off the effects of the Fatigued bane. Treat your fatigue level (per the Fatigued bane description) as one lower than it actually is for the purposes of determining the bane's effects. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
 - !
@@ -1228,18 +1228,18 @@
     tier1:
       any:
         Attribute:
-        - Will: 3
         - Presence: 3
+        - Will: 3
     tier2:
       any:
         Attribute:
-        - Will: 4
         - Presence: 4
+        - Will: 4
     tier3:
       any:
         Attribute:
-        - Will: 5
         - Presence: 5
+        - Will: 5
   tags:
   - Combat
   - Presence
@@ -1302,8 +1302,8 @@
     Your tier in this feat determines how knowledgeable you are within your chosen sphere.
     <ul>
     <li><strong>Tier 1</strong> - You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 16 or lower. For higher CRs, your Learning attribute is considered to be 3 for the action roll unless your Learning score is already 3 or higher, in which case you gain advantage 1 on the roll.</li>
-    <li><strong>Tier 2</strong> -  You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 22 or lower. For higher CRs, your Learning attribute is considered to be 6 for the action roll unless your Learning score is already 6 or higher, in which case you gain advantage 1 on the roll.</li>
-    <li><strong>Tier 3</strong> -  You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 26 or lower. For higher CRs, your Learning attribute is considered to be 8 for the action roll unless your Learning score is already 8 or higher, in which case you gain advantage 1 on the roll.</li>
+    <li><strong>Tier 2</strong> - You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 22 or lower. For higher CRs, your Learning attribute is considered to be 6 for the action roll unless your Learning score is already 6 or higher, in which case you gain advantage 1 on the roll.</li>
+    <li><strong>Tier 3</strong> - You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 26 or lower. For higher CRs, your Learning attribute is considered to be 8 for the action roll unless your Learning score is already 8 or higher, in which case you gain advantage 1 on the roll.</li>
     </ul>
 - !
   name: Lethal Strike (I - IX)
@@ -1469,7 +1469,7 @@
   description: |
     You have honed your shapeshifting abilities to be able to not only change your form, but to even imitate specific creatures. Your powers may stem from studying the arts of deceptive magic, from a gene mutation, or even from innate extraordinary abilities.
   effect: |
-    When you use the Shapeshift boon, you may take on the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 +  triple your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
+    When you use the Shapeshift boon, you may take on the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 + triple your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
 - !
   name: Multi-Attack Specialist (I - VI)
   prerequisites:
@@ -1649,7 +1649,7 @@
   description: |
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, your enemies cower before your legendary attack.
   effect: |
-    Choose one bane that you can invoke that has a duration of "resist ends". a target rolls Resist to shake off your invocation of the chosen bane, they have disadvantage 1.
+    Choose one bane that you can invoke that has a duration of "resist ends". When a target rolls Resist to shake off your invocation of the chosen bane, they have disadvantage 1.
 - !
   name: Reactionary Trance
   prerequisites:

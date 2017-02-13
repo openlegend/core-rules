@@ -177,7 +177,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
-**Deadly** - Some weapons are so effective that their potenecy makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
+**Deadly** - Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
 **Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of it's Defensive value. This bonus does not stack with multiple Defensive weapons.
 
@@ -185,13 +185,13 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Forceful** - This weapon can be used to make attacks with the Might attribute and invoke banes accessible via Might.
 
-**Heavy** – The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
+**Heavy** - The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
 **Precise** - This weapon can be used to make attacks with the Agility attribute  and invoke banes accessible via Agility.
 
 **Reach** - The weapon can be used to attack enemies 10’ away.
 
-**Slow** -  If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+**Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
 **Stationary** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30’.
 
