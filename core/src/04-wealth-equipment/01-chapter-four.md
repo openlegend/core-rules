@@ -355,7 +355,7 @@ Resolve: 15 |
 | Fighter Ship | 5 | 3 | 2,000’ | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
 Guard: 22 \
 Resolve: Immune |
-| Galleon | 6 | 0 | 70’ | | Agility 6 | Multi-Pilot 10, Targeted Weapons, Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
+| Galleon | 6 | 0 | 70’ | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
 Guard: 19 \
 Resolve: Immune |
 | Griffin | 4 | 0 | 50’ | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \

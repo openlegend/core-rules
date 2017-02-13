@@ -355,7 +355,7 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 | :- | :- | :- |
 | Maul | Longbow | Quarterstaff |
 | Hatchet | Dagger | Hatchet |
-| Large Shield | Longsword | Leather Armor |
+| Tower Shield | Longsword | Leather Armor |
 | Long Bow | Chain Shirt | |
 | Battle Axe | | |
 
@@ -367,7 +367,7 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 | Warhammer | Crossbow | Longbow |
 | Short Bow | Quarterstaff | Quarterstaff |
 | Great Sword | Dagger | Dagger |
-| Large Shield | Leather Armor | Leather Armor |
+| Tower Shield | Leather Armor | Leather Armor |
 | Scale Mail | | |
 
 <br>
@@ -377,7 +377,7 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 | :- | :- | :- |
 | 5 Daggers | Flail | Quarterstaff |
 | Shortbow | Scale Shirt | Longbow |
-| Hand Crossbow | Large Shield | Dagger |
+| Hand Crossbow | Tower Shield | Dagger |
 | Leather Armor | Short Bow | Scale Shirt |
 
 <br>
