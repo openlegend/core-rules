@@ -173,7 +173,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. These attacks do not incur the any of the disadvantage penalties associated with multi-target attacks.
+**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 

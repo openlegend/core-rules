@@ -2565,7 +2565,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. These attacks do not incur the any of the disadvantage penalties associated with multi-target attacks.
+**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
@@ -4217,9 +4217,9 @@ both is equal, then they cancel each other out.
 event, a person, or a place. \newline
 
 **Effect:**
--   **Power Level 1** - The target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. 
+-   **Power Level 1** - The target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
--   **Power Level 3** - The target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. 
+-   **Power Level 3** - The target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”.
 
 -   **Power Level 5** - The target asks a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.
 
@@ -5313,7 +5313,7 @@ For example, imagine you are planning an easy encounter with a horde of goblins 
 
 ### Ad Hoc Damage
 
-Sometimes in your encounters and adventures, you might have the party take damage from sources other than enemy attacks. For example, the party fails to scour an old battlefield and ends up setting off a chain of land mines. Or maybe someone gets knocked into a pool of lava while invading the red dragon's volcanic lair. Other common sources of ad hoc damage include falling, acid, and frostbite. 
+Sometimes in your encounters and adventures, you might have the party take damage from sources other than enemy attacks. For example, the party fails to scour an old battlefield and ends up setting off a chain of land mines. Or maybe someone gets knocked into a pool of lava while invading the red dragon's volcanic lair. Other common sources of ad hoc damage include falling, acid, and frostbite.
 
 In situations like these, in which the damage dealt isn't tied to an attack roll targeting a specific defense, you can roll straight damage dice against the affected characters. Simply pick an appropriate severity level from the Ad Hoc Damage table and roll the dice indicated, calculating exploding dice as usual. You can use the descriptions in the table to help you choose a severity level, or you can use these rough guidelines:
 
