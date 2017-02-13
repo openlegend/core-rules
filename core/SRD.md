@@ -122,7 +122,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Creation** | Channeling higher powers for healing, creation, regeneration, divine might, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
-| **Influence** | Control the minds of others, speak telepathically, instill extraordinary fear, create illusory figments, cloak with invisibility |
+| **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
 | **Movement** | Teleport, fly, hasten, slow |
 | **Prescience** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
 | **Protection** | Protect from damage, break mental influence, dispel magic, bind demons |
