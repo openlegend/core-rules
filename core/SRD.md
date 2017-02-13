@@ -4235,7 +4235,7 @@ event, a person, or a place. \newline
 \
 **Attributes:** Prescience \newline
 
-**Description:** You reach out and extraordinarily connect with an object or place,
+**Description:** Through supernatural magic or extrasensory perception, you connect with an object or place,
 gaining the ability to read residual information from it and divine what
 has occurred in its vicinity in the past. \newline
 
