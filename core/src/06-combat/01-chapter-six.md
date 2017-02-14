@@ -99,6 +99,68 @@ around and sweeps Vera to the floor.
 
 Some players might wonder why a PC still gets a taste of success even when their roll fails to meet the Challenge Rating. This might seem unrealistic because in movies and novels, for example, sometimes the bullet just misses or the sword fails to connect. In Open Legend, the "success with a twist" rules for combat ensure that a fight never gets stagnant. Even when the dice go against the player, the battle still builds to a cinematic conclusion as combatants shift around the battlefield and wear away at each other's reserves. Hit points represent more than just physical endurance and missing a target's defense score can mean more than just a shot going wide. Even if a hail of gunfire fails to penetrate an enemy's body armor, it might still weaken their resolve (*deal 3 damage*), force them to take cover (*inflict knockdown*), or give the attacker an opportunity to gain ground (*move 10'*).
 
+## Interpreting Twists and Failures in Combat
+
+Those GMs who would like to use the usual methods for interpreting failed rolls may struggle to create interesting outcomes on the fly, especially if they have prior experience with more binary roleplaying games. This section aims to inspire GMs with several examples of how to interpret *success with a twist* and *failure but the story progresses* in a variety of combat situations.
+
+> ### Twist or Failure?
+> 
+> A common question that you may have as a GM, especially when it comes to interpreting failed combat rolls, is *Should I use a success with a twist or an outright failure?* There is no hard and fast rule dictating which option should be applied - it is left completely to the discretion of the GM so that you may steer the story in the most desirable and exciting direction for any given situation.
+>
+> To that end, whenever a player fails a roll, you should ask yourself a few questions along these lines:
+> - *Has the fight been too easy for the players?* If so, a complete failure could raise the severity of the threat.
+> - *Has the fight been too hard?* Then throwing the PCs a bone would help balance things out a bit.
+> - *Have the dice been exceedingly for or against one side?* A partial success or complete failure can undo fickle fate cast by the dice.
+> - *Has the combat been running too long?* Choose the option that is more likely to end it quickly.
+> - *What would be the most dramatic action right now?* Remember that you are telling a great story. Think about which outcome would be most memorable for your players.
+
+### Success with a Twist in Combat
+
+Chapter 2 offered the following types of outcomes as some of the possibilities for adding a twist to a success:
+
+- Put a character in danger
+- Expend a resource
+- Make an enemy or lose a friend
+- Overlook an important detail
+- Waste time
+- Attract attention
+- Find something you weren’t looking for
+
+In the examples scenarios that follow, you’ll witness several of these at play and have a chance to see how they can be interpreted as part of a combat roll.
+
+#### Put a Character in Danger
+
+Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that his ally Doc was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
+
+#### Expend a Resource
+
+Slade is fighting off two giant spiders with his plasma blade as he hangs from a rope with his other hand. As he stabs at one of the spiders to land a killing blow, his dice don’t cooperate. The GM’s success with a twist comes in the form of a hard bargain: “You can finish off that spider, but your blade will get lodged in its belly as it falls into the darkness below. Or you can just miss. What do you choose?”
+
+#### Make an Enemy
+
+Soaring over the skyline of New Tokyo, two gangs of Mech Punks settle their differences in the only way they know how: plasma blasts and scatter missiles. Trish sends a heat-seeking warhead to finish off one of her foes, but her roll comes up short. The GM lets the missile hit, destroying the enemy mech and sending it hurtling through the windows of the Dentsu Building. Within moments, the Dentsu security bots have joined the fray and begin unloading their ion cannons on the mechs without prejudice.
+
+#### Lose a Friend
+
+The Tactical Assault Team is under heavy fire within the cavernous tunnels of the Bogan homeworld when Jaaxy hurls a grenade to thin out the enemy numbers. Unfortunately, she was never particularly diligent about her equipment checks, and two of her grenade pins were intertwined. Both activate, and while she manages to throw one successfully, the other falls at her feet. Her team is forced to scramble, and the blast from the grenade causes a cave-in. When the dust settles, the team has been separated by a wall of fallen rock, with plenty of Bogan’s left for each group to deal with.
+
+#### Overlook an Important Detail
+
+The gang is fighting off an evil spirit that they unleashed within the old Harden Manor when Jade attempts to channel her psychic powers to invoke the *Dominated* bane and force the spirit to leave the manor. Her roll fails, but the GM allows her to banish the spirit anyway. What she did not foresee, however, was that this spirit had been attempting to escape the manor for centuries. Jade managed to inadvertently  break the curse that kept it imprisoned.
+
+#### Waste Time
+
+Melchior attempts to weave a mighty spell to inflict the *slowed* bane on a horde of gnarl-toothed rodents, but his roll comes up short. The GM interprets this as a success with a twist by explaining that the spell requires more energy than the wizard originally believed. If he wants it to be cast successfully, it will take an extra round, costing Melchior his major action on his next turn as well.
+
+#### Attract Attention
+
+Cook’s rifle is blazing as he mows down bandits one after another from his lookout on top of Hoss’s General Store. He finally gets a clear shot on El Hombre, their leader, but his dice fail him. The GM allows the shot to hit for 3 damage, but it comes at a cost. Cook’s position has been compromised, and the offended bandit leader sends five of his men to take to the roof of the General Store.
+
+#### Find Something You Weren’t Looking For
+
+In perhaps the bravest moment of his life, Snitch creeps within reach of the dreaded Venom Wyvern and attempts a daring sneak attack on the unsuspecting beast, attempting to inflict the *stunned* bane so that his allies can move in for the kill. When Snitch’s roll fails, the GM offers a success with a twist. The wyvern notices Snitch at the last minute, and manages to sweep the rogue away with its tail just as his blade pierces the beast’s hide. The wyvern is *stunned*, but Snitch has been knocked down a shallow pit, where he discovers a brood of hungry wyvern hatchlings waiting for their next meal.
+
+
 ## Using Attributes to Inflict Damage
 
 Combat in *Open Legend* is a swirl of action rolls as blades clash, traps spring, lightning forks, and lasers fly. However, because of the free-form nature of storytelling in *Open Legend*, you may not always know what attributes can be used to make attacks.
