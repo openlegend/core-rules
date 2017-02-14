@@ -160,6 +160,33 @@ Cook’s rifle is blazing as he mows down bandits one after another from his loo
 
 In perhaps the bravest moment of his life, Snitch creeps within reach of the dreaded Venom Wyvern and attempts a daring sneak attack on the unsuspecting beast, attempting to inflict the *stunned* bane so that his allies can move in for the kill. When Snitch’s roll fails, the GM offers a success with a twist. The wyvern notices Snitch at the last minute, and manages to sweep the rogue away with its tail just as his blade pierces the beast’s hide. The wyvern is *stunned*, but Snitch has been knocked down a shallow pit, where he discovers a brood of hungry wyvern hatchlings waiting for their next meal.
 
+### Failure, but the Story Progresses in Combat
+
+Chapter 2 presents the fact that in Open Legend, failure is never just a failure. A low attack roll is more than just a miss. A failed attempt to invoke a boon means more than just that the spell or power fizzles. Instead, every failure should propel the story forward in a meaningful way. Chapter 2 offers the following suggestions for interpreting an action as *failure, but the story progresses*:
+
+- The player finds an opportunity for success.
+- The danger snowballs.
+- The information is false.
+
+In the following scenarios, you’ll read several examples of how these interpretations can be applied in the context of a combat roll.
+
+#### The Player Finds an Opportunity for Success
+
+Durgin summons forth a fork of lightning to consume the pack of wolves charging at him, but his Energy roll fails to hit the Guard of any of the beasts. Not wanting to let the scene run dry with a simple “You miss”, the GM rules that the lightning bolt goes wide and strikes a nearby tree at the base, knocking it to the ground and creating a small barrier between the dwarf and the wolves.
+
+Axel unloads his gatling gun on the security bots that are standing between his team and the terminal they need to access, hoping to cut a path for his allies. Unfortunately, the dice are not on Axel’s side. The GM rules that, while the attack fails to damage the bots, they need to scatter in order to successfully dodge the hail of gunfire. So, even though the bots are still fully operational, Axel’s team now has more of an opening to access the terminal.
+
+#### The Danger Snowballs
+
+Raz is fighting off a sentient pool of Oozing Space Ichor when he attempts a slashing attack with his plasma blade. The dice fail him, and Raz watches in horror as the slime seems completely unphased by the attack. In fact, the strike has split the Ichor in half, and Raz now has two writing masses of ooze to fight.
+
+Drustina casts a spell to coat the ground in a sheet of ice, attempting to inflict the *knockdown* bane on the troll that is closing distance with her. Her roll fails, though, and the GM decides that instead of being tripped, the slipperiness of the ice actually boosts the troll’s advance, and he immediately closes the distance between himself and the sorceress.
+
+#### The Information is False
+
+Sergeant O’Dell attempts to invoke the *heal* boon in order close a gunshot wound suffered by one of her fellow troopers. Unfortunately, she assesses the wound incorrectly, attempting to remove a bullet that actually went clean through. The extra pain inflicted on the trooper as O’Dell digs around for the bullet knocks her patient unconscious.
+
+Inspector Bell attempts to blast one of the werewolves besetting her party with a shell of silver buckshot from her trusty sawed-off. She watches in horror, however, as the silver holds no power over the fiends. Their investigation was incorrect; these are no ordinary lycanthropes.
 
 ## Using Attributes to Inflict Damage
 
