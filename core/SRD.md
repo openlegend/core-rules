@@ -3712,34 +3712,6 @@ the duration of the bane would extend. When your target succeeds at a
 resist roll against this bane, they become to immune to all subsequent
 attempts by you to inflict the bane for the next 24 hours.
 
-## Surprised
-
-**Duration:** 1 Round
-\
-**Power Level:** 0
-\
-**Attack Attributes:** N/A
-\
-**Attack:**
-
--   N/A
-
-**Description:** Being surprised is being caught flat-footed and scrambling to react to
-an enemy that the character was either unaware of or did not realize was
-an enemy. \newline
-
-**Effect:** All attackers gain advantage 1 against surprised characters. Surprised
-characters cannot take any actions that are interrupt actions. \newline
-
-**Special:** Unlike other banes, surprised cannot by inflicted directly with an
-action roll. Instead, it is determined by situations resulting from the
-story, such as a party being ambushed by a band of thieves hiding in the
-brush.
-
-Under certain conditions a character may be surprised against **only one
-opponent**. The most common example being an opponent that is disguised,
-hiding, invisible, or for some other reason *not perceived as a threat*.
-
 ## Truthfulness
 
 **Duration:** 10 minutes (special)
