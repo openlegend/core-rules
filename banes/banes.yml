@@ -716,25 +716,6 @@
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from actively planning to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. Any attack that causes the target mental or physical pain gives the target an additional Resist roll to break free from the bane. Also any action that would startle a wild animal (hit with a rock, slap on the face, etc.) will also trigger a free Resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target's typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
-  name: Surprised
-  tags:
-  - Physical
-  power:
-  - 0
-  attackAttributes:
-  - N/A
-  attack:
-  - N/A
-  invocationTime: 1 Major Action
-  duration: 1 Round
-  description: |
-    Being surprised is being caught flat-footed and scrambling to react to an enemy that the character was either unaware of or did not realize was an enemy.
-  effect: |
-    All attackers gain advantage 1 against surprised characters. Surprised characters cannot take any actions that are interrupt actions.
-  special: |
-    Unlike other banes, surprised cannot by inflicted directly with an action roll. Instead, it is determined by situations resulting from the story, such as a party being ambushed by a band of thieves hiding in the brush.
-    Under certain conditions a character may be surprised against <strong>only one opponent</strong>. The most common example being an opponent that is disguised, hiding, invisible, or for some other reason <em>not perceived as a threat</em>.
-- !
   name: Truthfulness
   tags:
   - Extraordinary
