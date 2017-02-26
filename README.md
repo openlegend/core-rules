@@ -13,6 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 02 / 26
+-   `Telepathy` boon, after much confusion because the effect is both "broadcast" AND "receive", (note "broadcast" should use `Influence` while "receive" should use `Prescience`) it seems best for it to be accessible from both attributes since the effect straddles the two
 -   `Summon Creature` boon no longer has the "when you invoke this, other summoned minions are dispelled" limitation
 -   `Transmute` boon no longer affects living target's since that domain is covered by `Shapeshift`. Replacing the Power Level 8 and 9 efects, are now the ability to transmute simple items into complex ones.
 -   `Nullify` bane is simplified to cancel only one boon affecting the target, but it now prevents the target from benefitting from or havhing the book invoked upon them for 1 minute

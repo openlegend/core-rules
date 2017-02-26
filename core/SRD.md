@@ -4439,7 +4439,7 @@ target:
 \
 **Power Level:** 3, 5, 6, 7
 \
-**Attributes:** Prescience \newline
+**Attributes:** Influence, Prescience \newline
 
 **Description:** You reach out mentally to a willing target and speak wordlessly with
 thought-to-thought communication. \newline
