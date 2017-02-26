@@ -429,7 +429,7 @@
   description: |
     You cancel boons affecting an enemy.
   effect: |
-    You nullify boons affecting the target of a maximum Power Level equal to the Power Level of this bane. The Power Level at which you invoke this bane determines the types of effects you can nullify, as follows:
+    You nullify all boons affecting the target of a given power level or lower. The maximum power level boon you can dispel is equal to the power level you invoke this bane at. The invoking power level further impacts the effect as follows:
     <ul>
       <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.</li>
       <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
