@@ -4400,7 +4400,7 @@ swimming in combat, suffer disadvantage on relevant action rolls.
 | 8 | 8 | 15 | 6, 5, 5 |
 | 9 | 9 | 16 | 7, 6, 6 |
 
-Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions. If you invoke this boon while you already have minions summoned, your current minions are immediately dispelled.
+Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions.
 
 **Special:** Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.
 
