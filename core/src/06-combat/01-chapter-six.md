@@ -6,7 +6,7 @@ Sometimes, the trigger-happy gunslinger gives away your position.
 
 Sometimes, negotiations fail.
 
-That’s when combat ensues. In this chapter, you’ll learn all the rules for fighting strategic and epic battles.
+That's when combat ensues. In this chapter, you'll learn all the rules for fighting strategic and epic battles.
 
 ## When Combat Ensues
 
@@ -19,13 +19,13 @@ When the GM declares that combat will begin, the game is separated into rounds. 
 
 ### Determining Surprise
 
-In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits’ Agility roll. Any PC who fails the check is surprised. The GM decides when some or all combatants may be surprised.
+In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits' Agility roll. Any PC who fails the check is surprised. The GM decides when some or all combatants may be surprised.
 
 Surprised characters always act after non-surprised characters, as explained in the rules for initiative. Furthermore, until a surprised character takes their first turn, they may not take any interrupt actions and all attacks made against them gain advantage 1.
 
 ### Roll for Initiative
 
-After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant’s Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster’s initiative individually.
+After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant's Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster's initiative individually.
 
 Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine order randomly.
 
@@ -81,23 +81,112 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | If the action roll... | then the result is... |
 | :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10’ w/o opportunity attacks |
+| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10' w/o opportunity attacks |
 
 
-With these modified rules, a player’s failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
+With these modified rules, a player's failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 
 > ### Example of the Core Mechanic in Combat
 >
 > Vera hurls herself at the red dragon attempting to cut through his
-scaly hide. However, her attack roll fails to hit the dragon’s Guard
+scaly hide. However, her attack roll fails to hit the dragon's Guard
 of 25. She chooses to inflict 3 damage, but the GM also gets a choice.
 >
-> He chooses to inflict the knockdown bane: The dragon’s tail lashes
+> He chooses to inflict the knockdown bane: The dragon's tail lashes
 around and sweeps Vera to the floor.
 
 ### Why Succeed on a Failed Roll?
 
 Some players might wonder why a PC still gets a taste of success even when their roll fails to meet the Challenge Rating. This might seem unrealistic because in movies and novels, for example, sometimes the bullet just misses or the sword fails to connect. In Open Legend, the "success with a twist" rules for combat ensure that a fight never gets stagnant. Even when the dice go against the player, the battle still builds to a cinematic conclusion as combatants shift around the battlefield and wear away at each other's reserves. Hit points represent more than just physical endurance and missing a target's defense score can mean more than just a shot going wide. Even if a hail of gunfire fails to penetrate an enemy's body armor, it might still weaken their resolve (*deal 3 damage*), force them to take cover (*inflict knockdown*), or give the attacker an opportunity to gain ground (*move 10'*).
+
+## Interpreting Twists and Failures in Combat
+
+Those GMs who would like to use the usual methods for interpreting failed rolls may struggle to create interesting outcomes on the fly, especially if they have prior experience with more binary roleplaying games. This section aims to inspire GMs with several examples of how to interpret *success with a twist* and *failure but the story progresses* in a variety of combat situations.
+
+> ### Twist or Failure?
+> 
+> A common question that you may have as a GM, especially when it comes to interpreting failed combat rolls, is *Should I use a success with a twist or an outright failure?* There is no hard and fast rule dictating which option should be applied - it is left completely to the discretion of the GM so that you may steer the story in the most desirable and exciting direction for any given situation.
+>
+> To that end, whenever a player fails a roll, you should ask yourself a few questions along these lines:
+> - *Has the fight been too easy for the players?* If so, a complete failure could raise the severity of the threat.
+> - *Has the fight been too hard?* Then throwing the PCs a bone would help balance things out a bit.
+> - *Have the dice been exceedingly for or against one side?* A partial success or complete failure can undo fickle fate cast by the dice.
+> - *Has the combat been running too long?* Choose the option that is more likely to end it quickly.
+> - *What would be the most dramatic action right now?* Remember that you are telling a great story. Think about which outcome would be most memorable for your players.
+
+### Success with a Twist in Combat
+
+Chapter 2 offered the following types of outcomes as some of the possibilities for adding a twist to a success:
+
+- Put a character in danger
+- Expend a resource
+- Make an enemy or lose a friend
+- Overlook an important detail
+- Waste time
+- Attract attention
+- Find something you weren’t looking for
+
+In the examples scenarios that follow, you’ll witness several of these at play and have a chance to see how they can be interpreted as part of a combat roll.
+
+#### Put a Character in Danger
+
+Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that his ally Doc was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
+
+#### Expend a Resource
+
+Slade is fighting off two giant spiders with his plasma blade as he hangs from a rope with his other hand. As he stabs at one of the spiders to land a killing blow, his dice don’t cooperate. The GM’s success with a twist comes in the form of a hard bargain: “You can finish off that spider, but your blade will get lodged in its belly as it falls into the darkness below. Or you can just miss. What do you choose?”
+
+#### Make an Enemy
+
+Soaring over the skyline of New Tokyo, two gangs of Mech Punks settle their differences in the only way they know how: plasma blasts and scatter missiles. Trish sends a heat-seeking warhead to finish off one of her foes, but her roll comes up short. The GM lets the missile hit, destroying the enemy mech and sending it hurtling through the windows of the Dentsu Building. Within moments, the Dentsu security bots have joined the fray and begin unloading their ion cannons on the mechs without prejudice.
+
+#### Lose a Friend
+
+The Tactical Assault Team is under heavy fire within the cavernous tunnels of the Bogan homeworld when Jaaxy hurls a grenade to thin out the enemy numbers. Unfortunately, she was never particularly diligent about her equipment checks, and two of her grenade pins were intertwined. Both activate, and while she manages to throw one successfully, the other falls at her feet. Her team is forced to scramble, and the blast from the grenade causes a cave-in. When the dust settles, the team has been separated by a wall of fallen rock, with plenty of Bogan’s left for each group to deal with.
+
+#### Overlook an Important Detail
+
+The gang is fighting off an evil spirit that they unleashed within the old Harden Manor when Jade attempts to channel her psychic powers to invoke the *Dominated* bane and force the spirit to leave the manor. Her roll fails, but the GM allows her to banish the spirit anyway. What she did not foresee, however, was that this spirit had been attempting to escape the manor for centuries. Jade managed to inadvertently  break the curse that kept it imprisoned.
+
+#### Waste Time
+
+Melchior attempts to weave a mighty spell to inflict the *slowed* bane on a horde of gnarl-toothed rodents, but his roll comes up short. The GM interprets this as a success with a twist by explaining that the spell requires more energy than the wizard originally believed. If he wants it to be cast successfully, it will take an extra round, costing Melchior his major action on his next turn as well.
+
+#### Attract Attention
+
+Cook’s rifle is blazing as he mows down bandits one after another from his lookout on top of Hoss’s General Store. He finally gets a clear shot on El Hombre, their leader, but his dice fail him. The GM allows the shot to hit for 3 damage, but it comes at a cost. Cook’s position has been compromised, and the offended bandit leader sends five of his men to take to the roof of the General Store.
+
+#### Find Something You Weren’t Looking For
+
+In perhaps the bravest moment of his life, Snitch creeps within reach of the dreaded Venom Wyvern and attempts a daring sneak attack on the unsuspecting beast, attempting to inflict the *stunned* bane so that his allies can move in for the kill. When Snitch’s roll fails, the GM offers a success with a twist. The wyvern notices Snitch at the last minute, and manages to sweep the rogue away with its tail just as his blade pierces the beast’s hide. The wyvern is *stunned*, but Snitch has been knocked down a shallow pit, where he discovers a brood of hungry wyvern hatchlings waiting for their next meal.
+
+### Failure, but the Story Progresses in Combat
+
+Chapter 2 presents the fact that in Open Legend, failure is never just a failure. A low attack roll is more than just a miss. A failed attempt to invoke a boon means more than just that the spell or power fizzles. Instead, every failure should propel the story forward in a meaningful way. Chapter 2 offers the following suggestions for interpreting an action as *failure, but the story progresses*:
+
+- The player finds an opportunity for success.
+- The danger snowballs.
+- The information is false.
+
+In the following scenarios, you’ll read several examples of how these interpretations can be applied in the context of a combat roll.
+
+#### The Player Finds an Opportunity for Success
+
+Durgin summons forth a fork of lightning to consume the pack of wolves charging at him, but his Energy roll fails to hit the Guard of any of the beasts. Not wanting to let the scene run dry with a simple “You miss”, the GM rules that the lightning bolt goes wide and strikes a nearby tree at the base, knocking it to the ground and creating a small barrier between the dwarf and the wolves.
+
+Axel unloads his gatling gun on the security bots that are standing between his team and the terminal they need to access, hoping to cut a path for his allies. Unfortunately, the dice are not on Axel’s side. The GM rules that, while the attack fails to damage the bots, they need to scatter in order to successfully dodge the hail of gunfire. So, even though the bots are still fully operational, Axel’s team now has more of an opening to access the terminal.
+
+#### The Danger Snowballs
+
+Raz is fighting off a sentient pool of Oozing Space Ichor when he attempts a slashing attack with his plasma blade. The dice fail him, and Raz watches in horror as the slime seems completely unphased by the attack. In fact, the strike has split the Ichor in half, and Raz now has two writing masses of ooze to fight.
+
+Drustina casts a spell to coat the ground in a sheet of ice, attempting to inflict the *knockdown* bane on the troll that is closing distance with her. Her roll fails, though, and the GM decides that instead of being tripped, the slipperiness of the ice actually boosts the troll’s advance, and he immediately closes the distance between himself and the sorceress.
+
+#### The Information is False
+
+Sergeant O’Dell attempts to invoke the *heal* boon in order close a gunshot wound suffered by one of her fellow troopers. Unfortunately, she assesses the wound incorrectly, attempting to remove a bullet that actually went clean through. The extra pain inflicted on the trooper as O’Dell digs around for the bullet knocks her patient unconscious.
+
+Inspector Bell attempts to blast one of the werewolves besetting her party with a shell of silver buckshot from her trusty sawed-off. She watches in horror, however, as the silver holds no power over the fiends. Their investigation was incorrect; these are no ordinary lycanthropes.
 
 ## Using Attributes to Inflict Damage
 
@@ -123,7 +212,7 @@ A few attributes can be used for damaging attacks in special circumstances in wh
 
 ### Probably Never
 
-The remaining attributes don’t really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
+The remaining attributes don't really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
 
 ## Taking Your Turn
 
@@ -168,8 +257,8 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 <div class="table-no-head"></div>
 | | |
 | - | - |
-| **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Extraordinary** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25’ <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50’ <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75’ |
-| **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25’ square) <br /> **Area** = Disadvantage varies (see below) |
+| **Step 1: Determine Range** | **Melee** = Within your reach <br /> **Projectile** = Weapon range (Disadvantage 1 per extra range increment) <br /> **Extraordinary** <br /> &nbsp;&nbsp;&nbsp; 1 - 3 = 25' <br /> &nbsp;&nbsp;&nbsp; 4 - 6 = 50' <br /> &nbsp;&nbsp;&nbsp; 7 - 9 = 75' |
+| **Step 2: Determine Targets** | *If more than one target...*  <br /> **Melee** = Disadvantage equals total # of targets <br /> **Ranged** = Disadvantage equals total # of targets (Max 5 targets within 25' square) <br /> **Area** = Disadvantage varies (see below) |
 | **Step 3: Determine Targeted Defense** | Weapon Attacks target Guard <br /><br /> Extraordinary Attacks target the most logical defense<br /> &nbsp;&nbsp;&nbsp;**Guard** if the attack requires dodging or deflection <br /> &nbsp;&nbsp;&nbsp;**Toughness** if the attack targets bodily health <br /> &nbsp;&nbsp;&nbsp;**Resolve** if the attack harms the psyche or will |
 | **Step 4: Roll Attack and Calculate Damage** | **Damage dealt** = Attack Roll minus Defense <br /><br />10 over defense, inflict one bane as well |
 
@@ -177,7 +266,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 **Melee weapon attacks** target foes that are within reach of you.
 
-**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon’s range.
+**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
 
 **Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
 
@@ -230,14 +319,14 @@ You may choose from a variety of shapes when making an area attack as described 
 | | |
 | - | - |
 | **Melee Attacks** | Disadvantage = number of targets. |
-| **Ranged Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25’ square. |
-| **Cube** | Disadvantage = 1 per 5’ of length of cube. |
+| **Ranged Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25' square. |
+| **Cube** | Disadvantage = 1 per 5' of length of cube. |
 | **Line** | Disadvantage = 1 per 5'x10'x10' line. |
 | **Cone** | Disadvantage = 1 per 5' length of cone. |
 
 ##### 3. Determine Targeted Defense
 
-Every attack targets one of your foe’s defenses: Toughness, Guard, or Resolve.
+Every attack targets one of your foe's defenses: Toughness, Guard, or Resolve.
 
 Weapon attacks always target Guard.
 
@@ -256,12 +345,12 @@ You deal damage equal to your action roll minus the target's defense, ignoring n
 
 **Exceptional Success**
 
-If your damaging attack roll exceeds the target’s defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
+If your damaging attack roll exceeds the target's defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
 equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
 #### Make a Bane Attack
 
-Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane’s power level, as
+Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as
 detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes). While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* [Fatigued](http://www.openlegendrpg.com/banes/fatigued)).
 
 To resolve a bane attack, follow these steps:
@@ -276,7 +365,7 @@ The targeted defense is determined by the type of bane being inflicted. Consult 
 
 ##### 3. Roll Your Attack
 
-The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target’s defense score, your target suffers the bane.
+The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
 > ##### Example Bane Attacks
 >
@@ -292,7 +381,7 @@ The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate whic
 
 #### Invoke a Boon
 
-You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon’s power level, as detailed in the
+You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the
 [*boon descriptions*](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
 
 ##### 1. Determine Range and Target(s)
@@ -357,7 +446,7 @@ You may move up to your speed. The base speed for characters is 30'. This moveme
 
 Special movement includes climbing, jumping, swimming, and other movement that is typically more restricted than just running across the battlefield.
 
-**Jump**. Make a Might roll. If you can’t get at least a 10’ running start, you have disadvantage 1.
+**Jump**. Make a Might roll. If you can't get at least a 10' running start, you have disadvantage 1.
 
 - **For a long jump,** you cover a number of feet equal to your roll.
 - **For a high jump,** you cover a number of feet equal to your roll divided by 2.
@@ -378,7 +467,7 @@ Many banes will persist for a longer duration after three failed resist attempts
 
 ### Minor Actions
 
-Minor actions are tasks that don’t require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
+Minor actions are tasks that don't require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
 -   Draw or sheathe a weapon
 -   Retrieve an item stored on your person
@@ -436,7 +525,7 @@ Move up to twice your speed and make one melee attack at disadvantage 1.
 
 ### Interrupt Actions
 
-In some situations, you may want to take an action in response to another combatant’s action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
+In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
 #### Defend
 
@@ -464,7 +553,7 @@ If a feat, perk, boon, or other source grants a *Free Action*, that action can b
 
 ## Damage and Healing
 
-Your hit points (HP) are an abstract measure of your character’s ability to ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. Whenever you take damage, your hit points are reduced, and whenever you receive healing they are increased.
+Your hit points (HP) are an abstract measure of your character's ability to ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. Whenever you take damage, your hit points are reduced, and whenever you receive healing they are increased.
 
 ### Finishing Blows
 
@@ -484,7 +573,7 @@ Lethal damage is used sparingly in Open Legend as a way for GMs to paint a pictu
 
 A creature's maximum hit point toal is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to its maximum hit points. If a creature sustains lethal damage greater than or equal to its maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
 
-Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant’s Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
+Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant's Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
 
 For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
 
