@@ -12,6 +12,11 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 02 / 26
+
+-   `Transmute` boon no longer affects living target's since that domain is covered by `Shapeshift`. Replacing the Power Level 8 and 9 efects, are now the ability to transmute simple items into complex ones.
+-   `Nullify` bane is simplified to cancel only one boon affecting the target, but it now prevents the target from benefitting from or havhing the book invoked upon them for 1 minute
+
 #### 2017 / 02 / 12
 -   Clarify `Area` property's Wealth Level impact
 -   Added `Indomitable Resolve` feat that increases your Resolve defense by 1.

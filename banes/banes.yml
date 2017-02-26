@@ -427,11 +427,11 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    You cancel boons affecting an enemy.
+    With the power of Protection, you are able to cancel boon effects on enemies by interrupting their power, similar to how you might defend against incoming attacks by short-circuiting their effect.
   effect: |
-    You nullify all boons affecting the target of a given power level or lower. The maximum power level boon you can dispel is equal to the power level you invoke this bane at. The invoking power level further impacts the effect as follows:
+    You cancel a single boon affecting the target of this bane's power level or lower. The invoking power level further impacts the effect as follows:
     <ul>
-      <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.</li>
+      <li><strong>Power Level 1</strong> - You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.</li>
       <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
     </ul>
 - !

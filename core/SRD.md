@@ -3357,11 +3357,11 @@ for the next 24 hours.
 
 -   Protection vs. Resolve
 
-**Description:** You cancel boons affecting an enemy. \newline
+**Description:** With the power of Protection, you are able to cancel boon effects on enemies by interrupting their power, similar to how you might defend against incoming attacks by short-circuiting their effect. \newline
 
-**Effect:** You nullify boons affecting the target of a maximum Power Level equal to the Power Level of this bane. The Power Level at which you invoke this bane determines the types of effects you can nullify, as follows:
+**Effect:** You cancel a single boon affecting the target of this bane's power level or lower. The invoking power level further impacts the effect as follows:
 
--   **Power Level 1** - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.
+-   **Power Level 1** - You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
 
 -   **Power Level 6** - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.
 
@@ -4517,16 +4517,10 @@ unfamiliar with. \newline
 \
 **Attributes:** Alteration \newline
 
-**Description:** You are able to change size, shape, and composition of physical matter
-that you touch. Make an ally larger or smaller, transmute rocks to gold
-or flesh to stone. \newline
+**Description:** You are able to change size, shape, and composition of physical matter that you touch. Transmute rocks to gold, or a wall into a door. \newline
 
-**Effect:** Your Power Level determines the types of matter your can transmute as
-well as the duration of the effect. The duration is either *temporary*
-or *permanent*. A **temporary** transmutation must be sustained every
-round and has a maximum duration of 1 hour per your Alteration attribute
-score. A **permanent** transmutation does not have to be sustained and
-persists until some other effect would cancel it.
+**Effect:** Your Power Level determines the types of matter your can transmute as well as the duration of the effect. The duration is either *temporary*
+or *permanent*. A **temporary** transmutation must be sustained every round and has a maximum duration of 1 hour multiplied by your invoking attribute score. A  **permanent** transmutation does not have to be sustained and persists until some other effect would cancel it.
 
 -   **Power Level 3** - *Temporarily* transmute an object into another object of the same size and weight.
 
@@ -4534,9 +4528,9 @@ persists until some other effect would cancel it.
 
 -   **Power Level 7** - *Permanently* transmute an object into another object of the same size and weight. *Temporarily* transmute an object into another object of the same size and 200% greater or lesser weight. *Temporarily* transmute an object into another object of the same weight and 200% greater or lesser size.
 
--   **Power Level 8** - *Permanently* transmute an object into another object of up to 200% difference in size or weight. *Temporarily* transmute a living creature into another creature of the same size.
+-   **Power Level 8** - *Permanently* transmute an object into another object of up to 200% difference in size or weight. *Temporarily* transmute a simple object into a mundane object of notable complexity. The resulting object must be of Wealth Level 2 or less.
 
--   **Power Level 9** - *Temporarily* transmute a living creature into a non-living object of the same size, or vice-versa. *Temporarily* transmute a living creature into another creature of ANY size.
+-   **Power Level 9** - *Permanently* transmute a simple object into a mundane and complex one. The resulting object must be of Wealth Level 2 or less.
 
 ## Truesight
 
