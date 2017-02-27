@@ -1125,7 +1125,7 @@ character. \newline
 -   **Tier 2** - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.
 
 -   **Tier 3** - The effect at tier 3 varies based on the duration of the boon:  \
-\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled (such as by the Nullify bane), you can invoke it at the start of your next turn as a free action.  \
+\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action.  \
 \ **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
 ## Breakfall (I - II)
@@ -1729,15 +1729,15 @@ bane or boon:
 
 -   You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.
 -   You gain the following additional option to choose from when empowering your invocations with ritual magic:
-    -   Cause a boon to persist for 1 minute automatically without need to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (Though the nullify bane still works).
+    -   Cause a boon to persist for 1 minute automatically without needing to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (though the Nullify bane still works).
     -   Targets may not make resist rolls against a bane for one minute after it is invokes.
 
-**Tier 3** - You gain the ability to permanently bestow or nullify banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
+**Tier 3** - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
 
--   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the Dispel bane, or permanently with the Heightened Invocation feat (see the Remove Boon entry that follows).
+-   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the Nullify bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).
 -   **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be nullified either temporarily with the Dispel bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
--   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to nullify. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.
--   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to nullify. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.
+-   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.
+-   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.
 
 ## Hospitaler
 
@@ -3356,13 +3356,13 @@ for the next 24 hours.
 
 -   Protection vs. Resolve
 
-**Description:** With the power of Protection, you are able to cancel boon effects on enemies by interrupting their power, similar to how you might defend against incoming attacks by short-circuiting their effect. \newline
+**Description:** With the power of Protection, you are able to cancel boon effects on enemies by cutting their power, similar to how you might defend against incoming attacks by interrupting their effect. \newline
 
 **Effect:** You cancel a single boon affecting the target of this bane's power level or lower. The invoking power level further impacts the effect as follows:
 
 -   **Power Level 1** - You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
 
--   **Power Level 6** - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.
+-   **Power Level 6** - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
 
 
 ## Persistent Damage
@@ -5171,7 +5171,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
     - **Tier 1:** When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
     - **Tier 2:** You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.
     - **Tier 3:** The effect at tier 3 varies based on the duration of the boon:  \
-\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled (such as by the Nullify bane), you can invoke it at the start of your next turn as a free action.  \
+\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action.  \
 \ **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
 - **Energy Resistance (tier 1 - 4, your choice):** Choose an energy type and gain the following benefits:

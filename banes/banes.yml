@@ -427,12 +427,12 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    With the power of Protection, you are able to cancel boon effects on enemies by interrupting their power, similar to how you might defend against incoming attacks by short-circuiting their effect.
+    With the power of Protection, you are able to cancel boon effects on enemies by cutting their power, similar to how you might defend against incoming attacks by interrupting their effect.
   effect: |
     You cancel a single boon affecting the target of this bane's power level or lower. The invoking power level further impacts the effect as follows:
     <ul>
       <li><strong>Power Level 1</strong> - You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.</li>
-      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
+      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.</li>
     </ul>
 - !
   name: Persistent Damage
