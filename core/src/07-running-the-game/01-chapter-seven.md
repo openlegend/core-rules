@@ -66,13 +66,13 @@ In this sort of quest, the GM plans out a logical sequence of encounters and sce
 > **Events**
 >
  >1. *The Iota's cyber response team traces the source of the attack to a small crater of a nearby moon. The PCs are dispatched to investigate and eliminate the threat while the cyber team continues its attempt to thwart the attack electronically.*
-> 
+>
 > 1. *The PCs discover a small outpost hidden within the crater. A battle with automated defense bots ensues, and the team discovers and shuts down the terminal originating the cyber attack.*
 >
 > 1. *Returning to the Iota, the PCs learn troubling information from an ensign on the cyber response team: During the life support hub-bub, a separate hack occurred in which the location of the Alliance's secret weapon facilities was leaked. Investigation reveals that the data was taken internally, and that it hasn't left the Iota yet.*
-> 
+>
 > 1. *The PCs discover that the hack came from Commander Zap's terminal, but they don't have enough evidence to confront him outright.*
-> 
+>
 > 1. *Tailing Zap for a few days, they learn that he has taken a transport craft to the nearby planet Dagaan. They follow him to a secret meeting with several enemy Bogans, and a battle erupts as the PCs attempt to stop the sensitive data from entering enemy hands.*
 
 To develop a sequential adventure, you just have to plot out the most logical sequence of events that will occur based on the party's actions. Start with a simple list like the one above. It's best not to get too specific, lest you fall into the trap of forcing the PCs into a single direction. Instead, leave your plan loose enough to redirect it according to how your players interact with the world. For example, what if the party never puts two and two together during their investigations in event 4 above? Maybe then a second child is kidnapped a few days later, but this time there is a witness who catches a glimpse of the hag.
@@ -150,9 +150,9 @@ Once you have your secret (or secrets) sketched out, you can begin to divide the
 > #### Sample Campaign Outline
 >
 > **Secret:** The sagely university professor, Dr. Livingston, who advises the investigators throughout the campaign is actually an imprisoned interdimensional demon manipulating them to win his freedom.
-> 
+>
 > **Campaign Arcs**
-> 
+>
 > - **Part 1:** The investigators befriend Dr. Livingston while conducting research on a string of ritualistic murders that have taken place throughout London.
 >
 > - **Part 2:** The PCs assist Dr. Livingston in recovering several artifacts of power scattered throughout the countryside.
@@ -223,14 +223,14 @@ Chapter 4 explains Open Legend's simplified wealth system, and the Wealth Overvi
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
-| 3 | master artisan, village mayor | full plate armor, silver weapons, a small boat, a fine horse |
-| 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
-| 5 | lord of a realm, thieves' guild master in a large city | a large cargo ship, a city wall |
-| 6 | 7th level hero | a large warship |
-| 7 | king | a stronghold, startup funding for a new town |
-| 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
-| 9 | emperor| a castle, an army of 50,000 |
+| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 3 | master artisan, village mayor | armored trenchcoat, silver bullets, a small boat, a fine horse, a nice car |
+| 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
+| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
+| 6 | 7th level hero, Federation Chancellor | a large warship, a groundbreaking prototype, the workforce of a medium-sized business  |
+| 7 | king, president | a stronghold, a jet fighter, an elite covert task force |
+| 8 | intergalactic ruler, 10th level hero | a sprawling estate, a large corporate buyout, an army of 10,000 |
+| 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 
 You can use this table as a rough guideline for when to give players more wealth, particularly if you have also created an outline of milestones for granting experience levels. For example, the table shows that by 4th level, a typical character should have progressed to wealth score 4. Using the experience level milestone plan detailed previously, we could decide that after stopping the first threat to Woodshold, the people of the town take up a collection to reward the heroes. We can also plan to give the Cult of the Dragon a horde of treasure that will again increase the party's wealth score.
@@ -511,7 +511,7 @@ As a GM, you don't need to have any anxiety over putting an impossible challenge
 
 ### Ad Hoc Damage
 
-Sometimes in your encounters and adventures, you might have the party take damage from sources other than enemy attacks. For example, the party fails to scour an old battlefield and ends up setting off a chain of land mines. Or maybe someone gets knocked into a pool of lava while invading the red dragon's volcanic lair. Other common sources of ad hoc damage include falling, acid, and frostbite. 
+Sometimes in your encounters and adventures, you might have the party take damage from sources other than enemy attacks. For example, the party fails to scour an old battlefield and ends up setting off a chain of land mines. Or maybe someone gets knocked into a pool of lava while invading the red dragon's volcanic lair. Other common sources of ad hoc damage include falling, acid, and frostbite.
 
 In situations like these, in which the damage dealt isn't tied to an attack roll targeting a specific defense, you can roll straight damage dice against the affected characters. Simply pick an appropriate severity level from the Ad Hoc Damage table and roll the dice indicated, calculating exploding dice as usual. You can use the descriptions in the table to help you choose a severity level, or you can use these rough guidelines:
 

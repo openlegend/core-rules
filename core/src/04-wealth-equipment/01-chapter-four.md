@@ -28,14 +28,14 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
-| 3 | master artisan, village mayor | full plate armor, silver bullets, a small boat, a fine horse, a nice car |
-| 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
-| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, weapons to outfit a small militia |
-| 6 | 7th level hero | a large warship |
-| 7 | king, president | a stronghold, startup funding for a new town |
-| 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
-| 9 | emperor | a castle, a space station, an army of 50,000, a fleet of warships |
+| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 3 | master artisan, village mayor | armored trenchcoat, silver bullets, a small boat, a fine horse, a nice car |
+| 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
+| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
+| 6 | 7th level hero, Federation Chancellor | a large warship, a groundbreaking prototype, the workforce of a medium-sized business  |
+| 7 | king, president | a stronghold, a jet fighter, an elite covert task force |
+| 8 | intergalactic ruler, 10th level hero | a sprawling estate, a large corporate buyout, an army of 10,000 |
+| 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 > #### Examples of Acquiring Goods and Services
 >
@@ -225,10 +225,10 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 | Examples | Type | Wealth Level | Required Fortitude | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: | :-: |
-| Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
-| Kevlar Vest, Bioweave | Medium | 2 | 2 | 2 | 0 |
-| Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
-| Yoroi Armor, Plate Mail | Heavy | 2 | 3 | 3 | 5' |
+| Leather Armor, Steelsilk, Padded Armor | Light | 1 | 0 | 1 | 0 |
+| Armored Trenchcoat, Electropolymer Armor | Medium | 3 | 2 | 2 | 0 |
+| Chainmail, Kevlar Vest, Breastplate | Medium | 2 | 3 | 2 | 0 |
+| Yoroi Armor, Plate Mail, Riot Suit | Heavy | 2 | 3 | 3 | 5' |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
 
 \

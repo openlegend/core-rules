@@ -2430,14 +2430,14 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
-| 3 | master artisan, village mayor | full plate armor, silver bullets, a small boat, a fine horse, a nice car |
-| 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
-| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, weapons to outfit a small militia |
-| 6 | 7th level hero | a large warship |
-| 7 | king, president | a stronghold, startup funding for a new town |
-| 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
-| 9 | emperor | a castle, a space station, an army of 50,000, a fleet of warships |
+| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 3 | master artisan, village mayor | armored trenchcoat, silver bullets, a small boat, a fine horse, a nice car |
+| 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
+| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
+| 6 | 7th level hero, Federation Chancellor | a large warship, a groundbreaking prototype, the workforce of a medium-sized business  |
+| 7 | king, president | a stronghold, a jet fighter, an elite covert task force |
+| 8 | intergalactic ruler, 10th level hero | a sprawling estate, a large corporate buyout, an army of 10,000 |
+| 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 **The Rule of Common Sense**. Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
@@ -2614,12 +2614,11 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 | Examples | Type | Wealth Level | Required Fortitude | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: | :-: |
-| Leather Armor, Padding, Steelsilk | Light | 1 | 0 | 1 | 0 |
-| Kevlar Vest, Bioweave | Medium | 2 | 2 | 2 | 0 |
-| Chain Shirt, Full Body Armor | Medium | 2 | 3 | 2 | 0 |
-| Yoroi Armor, Plate Mail | Heavy | 2 | 3 | 3 | 5' |
+| Leather Armor, Steelsilk, Padded Armor | Light | 1 | 0 | 1 | 0 |
+| Armored Trenchcoat, Electropolymer Armor | Medium | 3 | 2 | 2 | 0 |
+| Chainmail, Kevlar Vest, Breastplate | Medium | 2 | 3 | 2 | 0 |
+| Yoroi Armor, Plate Mail, Riot Suit | Heavy | 2 | 3 | 3 | 5' |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
-
 
 
 ## Building Your Own Weapons
@@ -2726,7 +2725,7 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 | Examples | WL | TL | Speed | Properties | Attributes | Feats | HP | DT | Defenses |
 | :----- | :-: | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
-| All-Terrain Jeep | 2 | 1 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
+| All-Terrain Vehicle | 2 | 1 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
 Guard: 14 \
 Resolve: Immune |
 | Battle Cruiser | 9 | 3 | 1,000' | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
@@ -5088,15 +5087,16 @@ However you plan to award wealth, you can see that the general recommendation on
 | Wealth Score | Sample Lifestyles | Sample Goods |
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
-| 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, scale mail armor, a good horse, a raft |
-| 3 | master artisan, village mayor | full plate armor, silver weapons, a small boat, a fine horse |
-| 4 | 4th level hero, noble, city mayor | elven full plate, a small ship, a siege engine |
-| 5 | lord of a realm, thieves' guild master in a large city | a large cargo ship, a city wall |
-| 6 | 7th level hero | a large warship |
-| 7 | king | a stronghold, startup funding for a new town |
-| 8 | 10th level hero | startup funding for a new city, an army of 10,000 |
-| 9 | emperor| a castle, an army of 50,000 |
+| 1 | unskilled laborer | a nigh t on the town, leather armor, simple weapons |
+| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 3 | master artisan, village mayor | armored trenchcoat, silver bullets, a small boat, a fine horse, a nice car |
+| 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
+| 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
+| 6 | 7th level hero, Federation Chancellor | a large warship, a groundbreaking prototype, the workforce of a medium-sized business  |
+| 7 | king, president | a stronghold, a jet fighter, an elite covert task force |
+| 8 | intergalactic ruler, 10th level hero | a sprawling estate, a large corporate buyout, an army of 10,000 |
+| 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
+
 
 
 If you or your players have a background with other game systems, in which they may have regularly looted every corpse, scavenged every piece of equipment, and dutifully tracked every single gold piece, then Open Legend's wealth system might initially feel a bit awkward. If it does, consider some of the following tips:
