@@ -3246,7 +3246,7 @@ blow.
 
 -   **Power Level 5** - The effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.
 
--   **Power Level 7** - The effect can only be broken if the target takes 1 point of damage.
+-   **Power Level 7** - The effect can only be broken if the target takes 1 point of damage or more.
 
 -   **Power Level 9** - The effect cannot be disrupted by external forces, only the afflicted character's successful resist roll can end the effect.
 
@@ -3546,7 +3546,7 @@ another).
 
 **Duration:** 10 minutes (special)
 \
-**Power Level:** 5
+**Power Level:** 5, 6, 7, 9
 \
 **Attack Attributes:** Prescience
 \
@@ -3568,11 +3568,10 @@ unseen presence in the area (regardless of whether or not you succeed at
 the roll). Certain creatures may be able to identify your scrying if
 they are familiar with such powers.
 
--   **CR 20** - 1 mile or less
--   **CR 22** - 100 miles or less
--   **CR 24** - More than 100 miles, but on the same dimension or plane of reality
--   **CR 28** - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).
-
+-   **Power Level 5** - 1 mile or less
+-   **Power Level 6** - 100 miles or less
+-   **Power Level 7** - More than 100 miles, but on the same dimension or plane of reality
+-   **Power Level 9** - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).
 
 **Special:** When you successfully invoke this bane, at the end of it's duration, you
 can make a Prescience roll to attempt to persist the bane. If

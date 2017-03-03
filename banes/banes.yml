@@ -329,7 +329,7 @@
   description: |
     Incapacitation is a catch-all for a variety of effects, including total paralysis, sleep, petrification, poisoning, being knocked out, or fainting. Examples of possible causes of this bane include a martial artist's paralyzing strike, an enchanter's magical song of sleep, paralysis by poison, fainting from extreme heat, suffocation, and the gaze of a medusa.
   effect: |
-    The target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces, only the afflicted character's successful resist roll can end the effect.</li></ul>
+    The target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage or more.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces, only the afflicted character's successful resist roll can end the effect.</li></ul>
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
@@ -588,6 +588,9 @@
   - Extraordinary
   power:
   - 5
+  - 6
+  - 7
+  - 9
   attackAttributes:
   - Prescience
   attack:
@@ -599,10 +602,10 @@
   effect: |
     You can scry on a person or area that you are familiar with. The Challenge Rating to succeed at this scrying is based on the distance between you and the target. If successful, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your scrying if they are familiar with such powers.
     <ul>
-    <li><strong>CR 20</strong> - 1 mile or less</li>
-    <li><strong>CR 22</strong> - 100 miles or less</li>
-    <li><strong>CR 24</strong> - More than 100 miles, but on the same dimension or plane of reality</li>
-    <li><strong>CR 28</strong> - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).</li>
+    <li><strong>Power Level 5</strong> - 1 mile or less</li>
+    <li><strong>Power Level 6</strong> - 100 miles or less</li>
+    <li><strong>Power Level 7</strong> - More than 100 miles, but on the same dimension or plane of reality</li>
+    <li><strong>Power Level 9</strong> - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).</li>
     </ul>
   special: |
     When you successfully invoke this bane, at the end of it's duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.
