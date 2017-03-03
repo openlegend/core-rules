@@ -2546,6 +2546,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Long Spear | Two-handed Melee, Short Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
 | Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
 | Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
+| Flamethrower | Two-handed Melee | 3 | Precise, Slow, Area (5' / 10' cone) | Fear, Persistent Damage |
 | Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
 | Colt 45, .357 Magnum | Medium Ranged | 4 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
@@ -2565,7 +2566,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
+**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
@@ -2639,7 +2640,7 @@ The *Deadly* property increases an item's Wealth Level by 2 per tier. So a *Dead
 
 The *Defensive* property increases the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
 
-The *Area* property increases the Wealth Level of the item by 1 per 5' of area.
+The *Area* property increases the Wealth Level of the item by 1 per 5' of area, this increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3.
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 

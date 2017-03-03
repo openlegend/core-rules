@@ -12,6 +12,10 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 03 / 02
+-   Added caveat that weapons can have multiple properties, allowing the wielder to choose from among them. For example, allowing `Area (X', Y' Cone)` at the wielders options. They are cumulative for determining Wealth Level.
+-   Added `Flamethrower` example to the weapons table
+
 #### 2017 / 02 / 26
 -   Added genre diversity to the `Wealth Overview` tables and the armor table, removed some armor examples and added others
 -   `Telepathy` boon, after much confusion because the effect is both "broadcast" AND "receive", (note "broadcast" should use `Influence` while "receive" should use `Prescience`) it seems best for it to be accessible from both attributes since the effect straddles the two
