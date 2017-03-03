@@ -523,7 +523,7 @@
   special: |
     If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
 - !
-  name: Craft (I - II)
+  name: Craft Mundane Item (I - II)
   prerequisites:
     tier1:
       any:
@@ -544,7 +544,7 @@
   description: |
     You have mastered a particular craft, and given proper time and materials, you can create items related to that craft.
   effect: |
-    Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 4), crafting does not limit your ability to acquire additional goods.
+    Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft Mundane Item feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 4), crafting does not limit your ability to acquire additional goods.
     <ul>
     <li><strong>Tier 1</strong> - You can craft items equal to your wealth level.</li>
     <li><strong>Tier 2</strong> - You can craft items equal to your wealth level + 1.</li>
@@ -561,7 +561,7 @@
     <li>Herbalism - poultices, natural remedies, stimulants, brewing</li>
     </ul>
 - !
-  name: Craft Beneficial or Baleful Item (I - III)
+  name: Craft Extraordinary Item (I - III)
   prerequisites:
     tier1:
       any:
@@ -584,7 +584,7 @@
   cost:
   - 3
   description: |
-    You are studied in the ways of imbuing magical items, brewing potions, or building extraordinary devices. Their power is permanent but varies depending on your skill.
+    You are studied in the ways of imbuing magical items, building futuristic technology, brewing potions, or crafting extraordinary devices. Their power is permanent but varies depending on your skill.
   effect: |
     This feat allows you to create items that can invoke a given bane or boon either autonomously or by way of a wielder.
     <ul>

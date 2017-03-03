@@ -13,6 +13,8 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 03 / 02
+-   `Craft` feat is renamed to `Craft Mundane Item`
+-   `Craft Beneficial or Baleful Item` feat is renamed to `Craft Extraordinary Item`
 -   Added caveat that weapons can have multiple properties, allowing the wielder to choose from among them. For example, allowing `Area (X', Y' Cone)` at the wielders options. They are cumulative for determining Wealth Level.
 -   Added `Flamethrower` example to the weapons table
 

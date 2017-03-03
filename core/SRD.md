@@ -1233,7 +1233,7 @@ Presence 1. \newline
 
 **Special:** If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
 
-## Craft (I - II)
+## Craft Mundane Item (I - II)
 
 **Cost:** 2 points
 \
@@ -1247,7 +1247,7 @@ materials, you can create items related to that craft. \newline
 **Effect:** Choose a specific craft or profession. You can create items that are
 relevant to your chosen craft, and your GM will determine the speed at
 which you craft based on the nature of the item and the materials you
-have access to. Your tier in the Craft feat determines the maximum
+have access to. Your tier in the Craft Mundane Item feat determines the maximum
 wealth level of the items you can craft. Unlike acquiring items by using
 your wealth (described in Chapter 4), crafting does not limit your
 ability to acquire additional goods. \newline
@@ -1275,7 +1275,7 @@ your GM to come up with other suitable crafts).
 
 -   Herbalism - poultices, natural remedies, stimulants, brewing
 
-## Craft Beneficial or Baleful Item (I - III)
+## Craft Extraordinary Item (I - III)
 
 
 **Cost:** 3 points
