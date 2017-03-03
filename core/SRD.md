@@ -2690,8 +2690,6 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 **WL (Wealth Level)** indicates the Wealth Level associated with this particular mount or vehicle. Acquiring one requires a sufficient Wealth Level and follows all of the rules for Wealth established in Chapter 6 Weapons & Equipment.
 
-**TL (Tech Level)** indicates the minimum level of technology for a society in which this type of mount or vehicle can be found.
-
 **Speed** indicates the number of feet the mount or vehicle moves with a single move action.
 
 **Properties** are the descriptors that make each mount unique from others. These properties translate to specific game mechanics described below.
@@ -2724,48 +2722,48 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 \SpanningTable[tbp]
 
-| Examples | WL | TL | Speed | Properties | Attributes | Feats | HP | DT | Defenses |
+| Examples | WL |  Speed | Properties | Attributes | Feats | HP | DT | Defenses |
 | :----- | :-: | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
-| All-Terrain Vehicle | 2 | 1 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
+| All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
 Guard: 14 \
 Resolve: Immune |
-| Battle Cruiser | 9 | 3 | 1,000' | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
+| Battle Cruiser | 9 | 1,000' | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
 Guard: 25 \
 Resolve: Immune |
-| Drake | 5 | 0 | 50' | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
+| Drake | 5 | 50' | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
 Guard: 20 \
 Resolve: 15 |
-| Fighter Ship | 5 | 3 | 2,000' | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
+| Fighter Ship | 5 | 2,000' | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
 Guard: 22 \
 Resolve: Immune |
-| Galleon | 6 | 0 | 70' | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
+| Galleon | 6 | 70' | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
 Guard: 19 \
 Resolve: Immune |
-| Griffin | 4 | 0 | 50' | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
+| Griffin | 4 | 50' | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
 Guard: 19 \
 Resolve: 13 |
-| Horse | 3 | 0 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
+| Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
 Guard: 15 \
 Resolve: 10 |
-| Mech Unit | 4 | 2 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
+| Mech Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
 Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
 Guard: 22 \
 Resolve: Immune |
-| Phoenix | 5 | 0 | 50' | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
+| Phoenix | 5 | 50' | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
 Guard: 20 \
 Resolve: 19 |
-| Pegasus | 4 | 0 | 50' | | Might 4 \
+| Pegasus | 4 | 50' | | Might 4 \
 Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 \
 Guard: 18 \
 Resolve: 17 |
-| Velociraptor, Dire Wolf | 3 | 0 | 40' | | Agility 5 \
+| Velociraptor, Dire Wolf | 3 | 40' | | Agility 5 \
 Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 \
 Guard: 17 \
 Resolve: 15 |
-| T-Rex | 5 | 0 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 \
+| T-Rex | 5 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 \
 Guard: 20 \
 Resolve: 15 |
-| Giant Scorpion | 4 | 0 | 35' | Independent 1 | Agility 5 \
+| Giant Scorpion | 4 | 35' | Independent 1 | Agility 5 \
 Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 \
 Guard: 15 \
 Resolve: 18 |
