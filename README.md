@@ -8,6 +8,7 @@ Included here in [YAML format](https://en.wikipedia.org/wiki/YAML) are the rules
 
 The game rules content of this repository are released under a special open-source license that offers third party publishers the opportunity to use the game rules as well as designated Open Legend logo royalty-free in their own commercial or non-commercial projects via the [Open Legend Community License](https://github.com/openlegend/core-rules/blob/master/LICENSE.md#open-legend-community-license).
 
+
 ## Changelog
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
