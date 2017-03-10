@@ -1,6 +1,6 @@
 # Chapter 1: Character Creation #
 
-Before you can start telling your story, you'll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In *Open Legend*, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you'll level up and gain more power. These rules explain how to create a character starting at level one. Later, you'll learn what to do when you level up.
+Before you can start telling your story, you'll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In Open Legend, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you'll level up and gain more power. These rules explain how to create a character starting at level one. Later, you'll learn what to do when you level up.
 
 Before reading on, take a minute and think of your favorite movies, books, or video games.
 
@@ -18,7 +18,7 @@ For anyone who feels they could benefit from some inspiration, you can easily ma
 
 ## Step 1: Describe Your Character
 
-*Open Legend* is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear that we will learn about in later steps. To make your character come to life, add some of the following details. If you can't think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
+Open Legend is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear. To make your character come to life, add some of the following details. If you can't think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
 
 **A heroic name.** Be sure to check with your GM to see if they have any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
 
@@ -29,13 +29,13 @@ As part of deciding your race, you should also choose your **size**: small, medi
 At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
 
 > ### No Racial Abilities or Adjustments?
-> In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you'll have a chance to further define your character in the a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing the aforementioned psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter's bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
+> In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you'll have a chance to further define your character in a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing a psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter's bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
 
 **Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
 
 **Two defining social traits.** Maybe you stutter when you're nervous. Maybe you don't trust anyone until they've proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
 
-**A secret.** Your secret is something that other characters probably won't find out about until they've gotten to know you quite well. It's also a seed for great adventure that the GM can weave into his campaign.
+**A secret.** Your secret is something that other characters probably won't find out about until they've gotten to know you quite well. It's also a seed for great adventure that the GM can weave into the campaign.
 
 > ### Example Character Secrets
 > Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
@@ -46,21 +46,21 @@ At the GM's discretion, you may choose to be even smaller or larger than the siz
 >
 > * * * * *
 >
-> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive > with a number of cybernetic implants that have left her half machine, physically and mentally.
+> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive with a number of cybernetic implants that have left her half machine, both physically and mentally.
 
 
 ## Step 2: Choose Attributes
 
-Attributes are the backbone of every character in *Open Legend*. They define what your character can and can't do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you'll look to your attributes to see how well you succeed or fail.
+Attributes are the backbone of every character in Open Legend. They define what your character can and can't do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you'll look to your attributes to see how well you succeed or fail.
 
-In *Open Legend*, attributes are divided into four categories: physical,
+In Open Legend, attributes are divided into four categories: physical,
 social, mental, and extraordinary.
 
-A character's skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero.
+A character's skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero, though physical, social, and mental attributes may still be used untrained.
 
 The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
 
-The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish.
+The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish. All of the attributes are explained in further detail in Chapter 2: Actions and Attributes.
 
 <div class="table-no-body"></div>
 | **Physical Attributes at a Glance** |
@@ -105,7 +105,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Creation** | Channeling higher powers for healing, creation, regeneration, divine might, etc. |
+| **Creation** | Channel higher powers for healing, creation, regeneration, divine might, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
@@ -113,7 +113,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Prescience** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
 | **Protection** | Protect from damage, break supernatural influence, dispel magic, bind demons |
 
-In *Open Legend*, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
+In Open Legend, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
 
 ### Quick Build
 
@@ -224,6 +224,10 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 | 3 | 1d8 |
 | 4 | 1d10 |
 | 5 | 2d6 |
+| 6 | 2d8 |
+| 7 | 2d10 |
+| 8 | 3d8 |
+| 9 | 3d10 |
 
 <br><br>
 
@@ -236,7 +240,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 >
 > So, 3d6 means that you roll three six-sided dice.
 >
-> 4d4 indicates four four-sided dice.
+> 5d4 indicates five four-sided dice.
 >
 > And so on.
 
@@ -280,17 +284,13 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 ## Step 4: Purchase Feats
 
-While your character's attributes define his skill at accomplishing
-heroic tasks, his **feats** are what make him unique among other
-characters. Feats allow you to customize your character, granting him
-the ability to accomplish specific actions exceptionally well.
+While your character's attributes define your skill at accomplishing heroic tasks, your **feats** are what make you unique among other characters. Feats allow you to customize your character, granting you the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Battle Trance* so that they can fly into a frenzied rage in order to decimate their foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so she takes the *Combat Momentum* feat to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Battle Trance* so that he can fly into a frenzied rage in order to decimate foes.
 
 ### Choose your feats
 
-Feats are purchased using feat points. At 1st level, you have 6 feat
-points to spend. Any leftover feat points may be saved for the future.
+Feats are purchased using feat points. At 1st level, you have 6 feat points to spend. Any leftover feat points may be saved for the future.
 
 You can read the feat descriptions in a searchable list
 [*here*](http://www.openlegendrpg.com/feats).
@@ -339,11 +339,11 @@ start with the feat selections recommended below:
 
 ## Step 5: Choose Starting Equipment
 
-In a typical game of *Open Legend*, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
+In a typical game of Open Legend, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
-Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 4 for rules concerning Wealth as well as equipment details.
+Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 4 for rules concerning Wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
 
-Instead of purchasing equipment a la carte, you may also elect to choose one of the following starting packages built for common character archetypes. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
+Instead of purchasing equipment a la carte, you may also elect to choose one of the following starting packages built for common character archetypes.
 
 <div class="table-no-body"></div>
 | Archetype Starting Packages |
@@ -404,11 +404,11 @@ Perks provide very specific bonuses or effects in specific situations. Your perk
 
 ### Activating Flaws
 
-While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see Chapter 2: Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in the future.
-
-You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
+While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see Chapter 2: Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in a future situation.
 
 To activate a flaw, you should intentionally make a disadvantageous choice based on your flaw that creates an interesting or tense moment in the plot. When you do so, let your GM know that you are activating your flaw and describe how it is hindering your efforts or influencing your decisions. If the GM approves that your flaw is creating a significant disadvantage and advancing the story, you receive one legend point. Sometimes, the GM may recognize that you are roleplaying a flaw without you having to overtly activate it. In such cases, the GM may award you with a legend point as well.
+
+You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
 
 The type of hindrance caused by activating a flaw should be more than a simple reduced chance of success. Good examples of activating a flaw include putting yourself or an ally in danger, making a bad decision, wasting a resource, and missing out on an opportunity, among others. It's also important to note that a good use of a flaw makes something new and interesting happen in the story rather than ending the narrative. For example, instead of activating a flaw to miss an attack, you might target an ally. Or, rather than activating a flaw to fail to find a secret door, you might make so much noise in your search that you attract unwanted attention.
 
@@ -417,11 +417,11 @@ The type of hindrance caused by activating a flaw should be more than a simple r
 >
 > * * * * *
 >
-> Normally, Celeste's blindness from the *disabled* flaw doesn't stop her from being one of the best shots in the Badlands. Her keen hearing and extrasensory perception more than make up for her lack of sight. The unearthly wailing of these zombie shriekers, however, have overwhelmed her senses. The player who is role-playing Celeste decides that the situation is dicey enough that she will unintentionally target one of her allies. She lets the GM know that she is specifically activating her disabled flaw, and the GM agrees that the impact is significant enough to merit a legend point for adding a new level of depth and realism to the story the group is telling together.
+> Normally, Celeste's blindness from the *disabled* flaw doesn't stop her from being one of the best shots in the Badlands. Her keen hearing and extrasensory perception more than make up for her lack of sight. The unearthly wailing of these zombie shriekers, however, have overwhelmed her senses. The player who is role-playing Celeste decides that the situation is dicey enough that she will unintentionally target one of her allies. She lets the GM know that she is specifically activating her *disabled* flaw, and the GM agrees that the impact is significant enough to merit a legend point for adding a new level of depth and realism to the story the group is telling together.
 >
 > * * * * *
 >
-> The psion Madrina has the *ambitious* flaw. After rescuing a group of mining colony civilians from a catastrophic air lock breach, Madrina is given the chance to ask a reward of the Chancellor. Madrina asks for the hand of the Chancellor's eldest in marriage, rather than a more reasonable request such as currency or similar. The Chancellor becomes infuriated, but the GM awards a legend point for role-playing a flaw in a way that furthers the story.
+> The psion Madrina has the *ambitious* flaw. After rescuing a group of mining colony civilians from a catastrophic air lock breach, Madrina is given the chance to ask a reward of the Chancellor. Madrina asks for the hand of the Chancellor's eldest in marriage, rather than a more reasonable request such as a pick from the Chancellor's treasury. The Chancellor becomes infuriated, but the GM awards a legend point for role-playing a flaw in a way that advances the story.
 
 ### Gaining Perks and Flaws
 
