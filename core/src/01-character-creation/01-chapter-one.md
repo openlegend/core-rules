@@ -228,6 +228,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 | 7 | 2d10 |
 | 8 | 3d8 |
 | 9 | 3d10 |
+| 10 | 4d8 |
 
 <br><br>
 
@@ -437,7 +438,7 @@ Flaws are very easy to create, as they simply represent situational triggers tha
 
 Perks, on the other hand, often grant elaborate benefits and even mechanical bonuses. These require you to work closely with your GM to ensure that your perks are balanced with the other perks available to PCs. The first rule to adhere to is that perks should provide non-combat effects, as feats, banes, and boons are the primary means for PCs to boost their combat expertise. Next, try to make your proposed perk limited to a specific type of task or a relatively rare situation. For example, the *artisan* perk provides expertise for a single craft, and the *attractive* perk is only beneficial in social situations that rely on physical attractiveness. If your perk is more generally applicable, then the effect should be more limited than other perks. For example, the *idol* perk makes you trusted by just about anyone, but it is limited to being used once per game session.
 
-### Perk List
+### Perk Descriptions
 
 #### Ageless
 
@@ -453,7 +454,7 @@ Choose a specific craft, such as weapon smithing, glass blowing, or brewing. You
 
 #### Ascetic
 
-You are well-versed in the art of living with less. Whether a cloistered monk or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery.
+You are well-versed in the art of living with less. Whether a cloistered monk or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your aceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
 
 #### Attractive
 
@@ -461,11 +462,11 @@ You are just really darn good looking. This plays to your favor more than just r
 
 #### Brute
 
-While others might convince with a silver tongue, you speak the universal language of fear. Once per game session, if you make a show of physical force, you can use your *Might* attribute for a *Persuasion* roll. If your *Persuasion* score is already equal to or greater than your *Might* score, you get advantage 1 on the roll.
+While others might convince with a silver tongue, you speak the universal language of fear. Once per game session, if you make a show of physical force, you can use your Might attribute for a Persuasion roll. If your Persuasion score is already greater than or equal to your Might score, you get advantage 1 on the roll.
 
 #### Courageous
 
-Your heart is brave beyond bounds. Once per game session, as a free action you can cancel all negative effects upon you related to fear or low morale.
+Your heart is brave beyond bounds. Once per game session, as a free action you can cancel all negative effects afflicting you that relate to fear or low morale.
 
 #### Crowd Favorite
 
@@ -501,7 +502,7 @@ You have a knack for picking up new skills. Once per game session, provided you 
 
 #### Local Hero
 
-You are well-known and respected as a protector of the common folk in a small region. The commoners look up to you, and will offer you food, shelter, and other necessities. They will even take risks or assume minor costs to aid or protect you, so long as the risk is not death.
+You are well-known and respected as a protector of the common folk in a small region. The commoners in this area will look up to you, and will offer you food, shelter, and other necessities. They will even take risks or assume minor costs to aid or protect you, so long as the risk is not death.
 
 #### Lucky
 
@@ -509,7 +510,7 @@ Once per game session, in a moment of need, you can call on luck to shine upon y
 
 #### Merchant
 
-You know the art of economics as well as the best of businessmen. A master of supply and demand, you have a knack for knowing when to buy and when to sell. You cannot be swindled when it comes to bartering, and you always know whether or not you are getting a fair price. Furthermore, you have friends in merchant circles and guilds in your home city, and you can easily gain them in new locations.
+You understand the art of economics as well as the best of businessmen. A master of supply and demand, you have a knack for knowing when to buy and when to sell. You cannot be swindled when it comes to bartering, and you always know whether or not you are getting a fair price. Furthermore, you have friends in merchant circles and guilds in your home city, and you can easily gain such connections in new locations given enough time.
 
 #### Nature's Ally
 
@@ -529,7 +530,7 @@ You are part of a criminal network, whether it be a thieves' guild, band of smug
 
 #### Profession
 
-Choose a specific trade, such as sailor, soldier, or miner. You know everything there is to know about the business and are a master of the requisite skills. A sailor, for example, can tie a knot for all occasions, navigate by the stars, and man any station aboard a ship. A soldier is well-versed in a variety of arms, understands military tactics, and knows how to navigate the chain of command with ease. Furthermore, whenever you are performing a task in which your professional skills would play a role, you gain advantage 1 to any action rolls that you must make.
+Choose a specific trade, such as sailor, soldier, or miner. You know everything there is to know about the business and are a master of the requisite skills. A sailor, for example, can tie a knot for all occasions, navigate by the stars, and man any station aboard a ship. A soldier is well-versed in a variety of arms, understands military tactics, and knows how to navigate the chain of command with ease. Furthermore, whenever you are performing a task in which your professional skills would play a role, you gain advantage 1 to any non-combat action rolls that you must make.
 
 #### Pure-hearted
 
@@ -557,11 +558,11 @@ You have practiced the ways of sneaking hidden charms and subliminal messages wi
 
 #### Stone Sense
 
-While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave in or to find a secret passage within a cavern.
+While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave-in or to find a secret passage within a cavern.
 
 #### Street Rat
 
-You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you're down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
+You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you're down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets. You gain advantage 1 on rolls for situations in which your street rat nature would be helpful.
 
 #### Vagabond
 
@@ -569,14 +570,14 @@ Having spent significant time fending for yourself in the wilderness, you excel 
 
 #### Warrior's Code
 
-As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior's code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
+As a veteran warrior, you command respect even from foes. Once per session, you can use this perk to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior's code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
 
 #### Whisperer of the Wild
 
 Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot. The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
 
 
-### Flaw List
+### Flaw Description
 
 #### Absent-minded
 
@@ -592,8 +593,7 @@ You are willing to do anything to get ahead in life and often that means trampli
 
 #### Bloodlust
 
-Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered.
-
+Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel or lead, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered.
 
 #### Brash
 
@@ -625,7 +625,7 @@ You have some physical deficiency that holds you back in life. You decide the na
 
 #### Greedy
 
-You can't help it: you just like things. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies.
+You can't help it: you just like *things*. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies.
 
 #### Honest
 
@@ -640,7 +640,7 @@ You can't read or write, even in languages that you speak fluently.
 
 #### Literal Minded
 
-You struggle with concepts and turns of phrase that are not literally true, such as idioms and metaphors. You might think sorcery is afoot if someone tells you it is “raining cats and dogs”. If a friend exaggerated by saying “I'd kill myself if Melzak were elected Supreme Justice”, you would be genuinely concerned for your friend's life if Melzak did get elected.
+You struggle with concepts and turns of phrase that are not literally true, such as idioms and metaphors. You might think sorcery is afoot if someone tells you it is “raining cats and dogs”. If a friend exaggerats by saying “I'd kill myself if Melzak were elected Supreme Justice”, you would be genuinely concerned for your friend's life if Melzak did get elected.
 
 #### Mood Disorder
 
@@ -664,7 +664,7 @@ You disdain combat and bloodshed of any kind, and will generally do whatever pos
 
 #### Phobia
 
-You are terrified and incapable of rational thought when you are presented with the object of your fear. It could be spiders, snakes, closed spaces, crowds, or something less common like co-dependence, a fear of being alone that causes you to always seek out companionship, even if that companionship has a negative impact on your life overall.
+You are terrified and incapable of rational thought when you are presented with the object of your fear. It could be spiders, snakes, closed spaces, crowds, or something less common like co-dependence: a fear of being alone that causes you to always seek out companionship, even if that companionship has a negative impact on your life overall.
 
 #### Proud
 
@@ -684,9 +684,10 @@ You suffer from some sort of chronic illness or condition, such as tuberculosis,
 
 #### Socially Awkward
 
-Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, you tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.
+Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.
 
 #### Stubborn
+
 It's your way or the highway. Maybe not all of the time, but once you've made your mind up on an important matter, you won't budge. You probably won't even compromise.
 
 #### Uncoordinated
@@ -699,31 +700,30 @@ You let no slight go unpunished. While some might be able to shake off an insult
 
 #### Zealous
 
-You stand for a cause - whether it is a religion, a nation, a code, a way of life, or otherwise - and you will push the boundaries of normal behavior to uphold your cause. This might mean that you make yourself a social outcast by attempting to convert others to your cause, or it could mean that you are willing to perform an act you might otherwise consider evil, such as putting innocent lives in danger, if doing so would promote your cause.
+You stand for a cause--whether it is a religion, a nation, a code, a way of life, or otherwise--and you will push the boundaries of normal behavior to uphold your cause. This might mean that you make yourself a social outcast by attempting to convert others to your cause, or it could mean that you are willing to perform an act you might otherwise consider evil, such as putting innocent lives in danger, if doing so would promote your cause.
 
 
-### Tell Your Story
+## Step 7: Tell Your Story
 
-With your character created, you are all ready to start playing *Open Legend*. Whether you're playing with old friends or complete strangers, and whether you're completely new to roleplaying games or an experienced veteran, the following tips will help ensure a fun time for everyone at the table.
+With your character created, you are all ready to start playing Open Legend. Whether you're playing with old friends or complete strangers, and whether you're completely new to roleplaying games or an experienced veteran, the following tips will help ensure a fun time for everyone at the table.
 
 ### Relax
 
-*Open Legend* gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your life depends on it and have fun. If you're playing a dwarf, maybe pull out your best Scottish accent. If your character's a witch, squint your eyes and speak in riddles. If you're no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party's escapades, and so on.
+Open Legend gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your character's life depends on it and have fun. If you're playing a dwarf, maybe pull out your best Scottish accent. If your character's a witch, squint your eyes and speak in riddles. If you're no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party's escapades, and so on.
 
 ### Respect the GM
 
-If you've never GM'd before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put their campaign together and prep for this session. Go with their storyline, overlook any accidental inconsistencies, and don't cause a ruckus just for the sake of causing a ruckus. If there's a dispute over the rules, accept the GM's final ruling and agree to look it up later for the sake of the game.
+If you've never GM'd before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put their campaign together and prep for this session. Go with their storyline, overlook any accidental inconsistencies, and don't cause a ruckus just for the sake of causing a ruckus. If there's a dispute over the rules, accept the GM's final ruling and agree to look it up later for the sake of keeping the game going.
 
 ### Respect the Other Players
 
-Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing *Open Legend*, just remember that not everyone else at the table may enjoy the same aspects. Part of the GM's duty is to give everyone a chance to shine, but you can do your part too by not hogging the spotlight and by encouraging the other players to have fun, whatever
-that means for them.
+Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing Open Legend, just remember that not everyone else at the table may enjoy the same aspects. Part of the GM's duty is to give everyone a chance to shine, but you can do your part too by not hogging the spotlight and by encouraging the other players to have fun, whatever that means for them.
 
 ## Gaining XP and Leveling Up
 
 As the legend you are creating unfolds and grows in danger and magnitude, your character's power will grow to match the challenge. This power comes in the form of experience points (or XP), which are rewarded by the GM and allow you to advance in level and gain access to new feats, attributes, banes, and boons.
 
-Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters, NPCs, and monsters. Until you reach 5th level, the maximum attribute score is 5. From levels 6 to 9, the maximum is equal to your level.
+Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters, NPCs, and monsters. The Player Character Level Advancement table details the XP requirements and maximum attribute score for each level.
 
 <div class="table-no-body"></div>
 | Player Character Level Advancement |
@@ -736,11 +736,11 @@ Your total XP earned determines your level, with every 3 XP allowing you to adva
 | :-: | :-: | :-: |
 | 0 | 1 | 5 |
 | 3 | 2 | 5 |
-| 6 | 3 | 5 |
-| 9 | 4 | 5 |
-| 12 | 5 | 5 |
-| 15 | 6 | 6 |
-| 18 | 7 | 7 |
+| 6 | 3 | 6 |
+| 9 | 4 | 6 |
+| 12 | 5 | 7 |
+| 15 | 6 | 7 |
+| 18 | 7 | 8 |
 | 21 | 8 | 8 |
 | 24 | 9 | 9 |
 | 27 | 10 | 9 |
