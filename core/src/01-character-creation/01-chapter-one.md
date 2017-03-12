@@ -10,11 +10,11 @@ Before reading on, take a minute and think of your favorite movies, books, or vi
 
 Now that you've got some of your favorites in mind, let's create your character.
 
-### Choose an Example Character & Modify It
-
-For anyone who feels they could benefit from some inspiration, you can easily make a copy of any of these spreadsheets (they include formulas for doing most all of the calculations for you), and then increase or decrease attribute scores, as well as add or remove feats. Be sure to adjust the **Level** field to get the correct calculations for attribute & feat points at your current character level.
-
-[**View Pre-generated Character Options**](https://drive.google.com/drive/u/0/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00)
+> ### Pre-generated Characters to Get You Started
+> 
+> If you would like some character inspiration or an easy place to start, you can browse the pre-generated characters linked below. If you find a character you would like to use, simply copy the spreadsheet and adjust as you see fit. The spreadsheets include formulas to do most of the calculations for you, and you can adjust the **Level** field to generate the appropriate number of feat and attribute points if you are creating a character above first level.
+> 
+> [**View Pre-generated Character Options**](https://drive.google.com/drive/u/0/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00)
 
 ## Step 1: Describe Your Character
 
@@ -778,3 +778,26 @@ See [*Feats*](http://www.openlegendrpg.com/feats) to view the complete list of f
 ### New Hit Points
 
 In Open Legend, attributes are the means by which your hit points increase. If you want your character to be able to take more hits, increase either your Fortitude, Presence, or Will attribute. As outlined in the default hit point formula, you'll gain 2 hit points each time you raise any of those attributes by one.
+
+## Starting Beyond First Level
+
+Sometimes a new player will join a campaign in progress in which the other PCs have already advanced several levels, so it would be unbalanced to insert a first level character into the party. Other times, the GM may decide to run a campaign with PCs who have already accumulated some wealth and power. In situations like these, you can use the Characters Beyond First Level table to determine attribute points, feat points, and wealth for PCs. When choosing starting gear, you may select two items of your current Wealth Score and any number of lesser valued items.
+
+<div class="table-no-body"></div>
+| Characters Beyond First Level |
+| - |
+| |
+
+<br>
+
+| Level | XP | Attribute Points | Max Attribute | Feat Points | Wealth Score |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 2 | 3 | 49 | 5 | 9 | 2 |
+| 3 | 6 | 58 | 6 | 12 | 3 |
+| 4 | 9 | 67 | 6 | 15 | 4 |
+| 5 | 12 | 76 | 7 | 18 | 4 |
+| 6 | 15 | 85 | 7 | 21 | 5 |
+| 7 | 18 | 94 | 8 | 24 | 6 |
+| 8 | 21 | 103 | 8 | 27 | 6 |
+| 9 | 23 | 112 | 9 | 30 | 7 |
+| 10 | 26 | 121 | 9 | 33 | 8  |
