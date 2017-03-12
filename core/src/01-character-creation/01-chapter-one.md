@@ -10,11 +10,11 @@ Before reading on, take a minute and think of your favorite movies, books, or vi
 
 Now that you've got some of your favorites in mind, let's create your character.
 
-### Choose an Example Character & Modify It
-
-For anyone who feels they could benefit from some inspiration, you can easily make a copy of any of these spreadsheets (they include formulas for doing most all of the calculations for you), and then increase or decrease attribute scores, as well as add or remove feats. Be sure to adjust the **Level** field to get the correct calculations for attribute & feat points at your current character level.
-
-[**View Pre-generated Character Options**](https://drive.google.com/drive/u/0/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00)
+> ### Pre-generated Characters to Get You Started
+> 
+> If you would like some character inspiration or an easy place to start, you can browse the pre-generated characters linked below. If you find a character you would like to use, simply copy the spreadsheet and adjust as you see fit. The spreadsheets include formulas to do most of the calculations for you, and you can adjust the **Level** field to generate the appropriate number of feat and attribute points if you are creating a character above first level.
+> 
+> [**View Pre-generated Character Options**](https://drive.google.com/drive/u/0/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00)
 
 ## Step 1: Describe Your Character
 
