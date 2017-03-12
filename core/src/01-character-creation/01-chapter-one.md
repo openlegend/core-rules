@@ -1,6 +1,6 @@
 # Chapter 1: Character Creation #
 
-Before you can start telling your story, you'll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In *Open Legend*, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you'll level up and gain more power. These rules explain how to create a character starting at level one. Later, you'll learn what to do when you level up.
+Before you can start telling your story, you'll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In Open Legend, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you'll level up and gain more power. These rules explain how to create a character starting at level one. Later, you'll learn what to do when you level up.
 
 Before reading on, take a minute and think of your favorite movies, books, or video games.
 
@@ -18,7 +18,7 @@ For anyone who feels they could benefit from some inspiration, you can easily ma
 
 ## Step 1: Describe Your Character
 
-*Open Legend* is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear that we will learn about in later steps. To make your character come to life, add some of the following details. If you can't think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
+Open Legend is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear. To make your character come to life, add some of the following details. If you can't think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
 
 **A heroic name.** Be sure to check with your GM to see if they have any particular setting in mind. Phil the Fighter would feel quite out of place next to Therilas Windcaster and Gorion Skullcleaver.
 
@@ -29,13 +29,13 @@ As part of deciding your race, you should also choose your **size**: small, medi
 At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
 
 > ### No Racial Abilities or Adjustments?
-> In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you'll have a chance to further define your character in the a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing the aforementioned psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter's bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
+> In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you'll have a chance to further define your character in a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing a psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter's bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
 
 **Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
 
 **Two defining social traits.** Maybe you stutter when you're nervous. Maybe you don't trust anyone until they've proven themselves to you. Or, perhaps, you are a winsome bard who almost always talks in sing-song. Your two social traits should be characteristics that others will learn shortly after getting to know you.
 
-**A secret.** Your secret is something that other characters probably won't find out about until they've gotten to know you quite well. It's also a seed for great adventure that the GM can weave into his campaign.
+**A secret.** Your secret is something that other characters probably won't find out about until they've gotten to know you quite well. It's also a seed for great adventure that the GM can weave into the campaign.
 
 > ### Example Character Secrets
 > Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
@@ -46,21 +46,21 @@ At the GM's discretion, you may choose to be even smaller or larger than the siz
 >
 > * * * * *
 >
-> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive > with a number of cybernetic implants that have left her half machine, physically and mentally.
+> Talia suffered from a horrible car accident as a youth. She only survived because a mad street doctor found her body and kept it alive with a number of cybernetic implants that have left her half machine, both physically and mentally.
 
 
 ## Step 2: Choose Attributes
 
-Attributes are the backbone of every character in *Open Legend*. They define what your character can and can't do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you'll look to your attributes to see how well you succeed or fail.
+Attributes are the backbone of every character in Open Legend. They define what your character can and can't do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you'll look to your attributes to see how well you succeed or fail.
 
-In *Open Legend*, attributes are divided into four categories: physical,
+In Open Legend, attributes are divided into four categories: physical,
 social, mental, and extraordinary.
 
-A character's skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero.
+A character's skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero, though physical, social, and mental attributes may still be used untrained.
 
 The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
 
-The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish.
+The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish. All of the attributes are explained in further detail in Chapter 2: Actions and Attributes.
 
 <div class="table-no-body"></div>
 | **Physical Attributes at a Glance** |
@@ -105,7 +105,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Creation** | Channeling higher powers for healing, creation, regeneration, divine might, etc. |
+| **Creation** | Channel higher powers for healing, creation, regeneration, divine might, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
@@ -113,7 +113,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Prescience** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
 | **Protection** | Protect from damage, break supernatural influence, dispel magic, bind demons |
 
-In *Open Legend*, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
+In Open Legend, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
 
 ### Quick Build
 
@@ -224,6 +224,11 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 | 3 | 1d8 |
 | 4 | 1d10 |
 | 5 | 2d6 |
+| 6 | 2d8 |
+| 7 | 2d10 |
+| 8 | 3d8 |
+| 9 | 3d10 |
+| 10 | 4d8 |
 
 <br><br>
 
@@ -236,7 +241,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 >
 > So, 3d6 means that you roll three six-sided dice.
 >
-> 4d4 indicates four four-sided dice.
+> 5d4 indicates five four-sided dice.
 >
 > And so on.
 
@@ -280,17 +285,13 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 ## Step 4: Purchase Feats
 
-While your character's attributes define his skill at accomplishing
-heroic tasks, his **feats** are what make him unique among other
-characters. Feats allow you to customize your character, granting him
-the ability to accomplish specific actions exceptionally well.
+While your character's attributes define your skill at accomplishing heroic tasks, your **feats** are what make you unique among other characters. Feats allow you to customize your character, granting you the ability to accomplish specific actions exceptionally well.
 
-For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so they take the *Combat Momentum* feat to allow them to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Battle Trance* so that they can fly into a frenzied rage in order to decimate their foes.
+For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so she takes the *Combat Momentum* feat to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Battle Trance* so that he can fly into a frenzied rage in order to decimate foes.
 
 ### Choose your feats
 
-Feats are purchased using feat points. At 1st level, you have 6 feat
-points to spend. Any leftover feat points may be saved for the future.
+Feats are purchased using feat points. At 1st level, you have 6 feat points to spend. Any leftover feat points may be saved for the future.
 
 You can read the feat descriptions in a searchable list
 [*here*](http://www.openlegendrpg.com/feats).
@@ -339,11 +340,11 @@ start with the feat selections recommended below:
 
 ## Step 5: Choose Starting Equipment
 
-In a typical game of *Open Legend*, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
+In a typical game of Open Legend, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
-Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 4 for rules concerning Wealth as well as equipment details.
+Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 4 for rules concerning Wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
 
-Instead of purchasing equipment a la carte, you may also elect to choose one of the following starting packages built for common character archetypes. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
+Instead of purchasing equipment a la carte, you may also elect to choose one of the following starting packages built for common character archetypes.
 
 <div class="table-no-body"></div>
 | Archetype Starting Packages |
@@ -404,11 +405,11 @@ Perks provide very specific bonuses or effects in specific situations. Your perk
 
 ### Activating Flaws
 
-While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see Chapter 2: Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in the future.
-
-You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
+While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see Chapter 2: Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in a future situation.
 
 To activate a flaw, you should intentionally make a disadvantageous choice based on your flaw that creates an interesting or tense moment in the plot. When you do so, let your GM know that you are activating your flaw and describe how it is hindering your efforts or influencing your decisions. If the GM approves that your flaw is creating a significant disadvantage and advancing the story, you receive one legend point. Sometimes, the GM may recognize that you are roleplaying a flaw without you having to overtly activate it. In such cases, the GM may award you with a legend point as well.
+
+You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
 
 The type of hindrance caused by activating a flaw should be more than a simple reduced chance of success. Good examples of activating a flaw include putting yourself or an ally in danger, making a bad decision, wasting a resource, and missing out on an opportunity, among others. It's also important to note that a good use of a flaw makes something new and interesting happen in the story rather than ending the narrative. For example, instead of activating a flaw to miss an attack, you might target an ally. Or, rather than activating a flaw to fail to find a secret door, you might make so much noise in your search that you attract unwanted attention.
 
@@ -417,11 +418,11 @@ The type of hindrance caused by activating a flaw should be more than a simple r
 >
 > * * * * *
 >
-> Normally, Celeste's blindness from the *disabled* flaw doesn't stop her from being one of the best shots in the Badlands. Her keen hearing and extrasensory perception more than make up for her lack of sight. The unearthly wailing of these zombie shriekers, however, have overwhelmed her senses. The player who is role-playing Celeste decides that the situation is dicey enough that she will unintentionally target one of her allies. She lets the GM know that she is specifically activating her disabled flaw, and the GM agrees that the impact is significant enough to merit a legend point for adding a new level of depth and realism to the story the group is telling together.
+> Normally, Celeste's blindness from the *disabled* flaw doesn't stop her from being one of the best shots in the Badlands. Her keen hearing and extrasensory perception more than make up for her lack of sight. The unearthly wailing of these zombie shriekers, however, have overwhelmed her senses. The player who is role-playing Celeste decides that the situation is dicey enough that she will unintentionally target one of her allies. She lets the GM know that she is specifically activating her *disabled* flaw, and the GM agrees that the impact is significant enough to merit a legend point for adding a new level of depth and realism to the story the group is telling together.
 >
 > * * * * *
 >
-> The psion Madrina has the *ambitious* flaw. After rescuing a group of mining colony civilians from a catastrophic air lock breach, Madrina is given the chance to ask a reward of the Chancellor. Madrina asks for the hand of the Chancellor's eldest in marriage, rather than a more reasonable request such as currency or similar. The Chancellor becomes infuriated, but the GM awards a legend point for role-playing a flaw in a way that furthers the story.
+> The psion Madrina has the *ambitious* flaw. After rescuing a group of mining colony civilians from a catastrophic air lock breach, Madrina is given the chance to ask a reward of the Chancellor. Madrina asks for the hand of the Chancellor's eldest in marriage, rather than a more reasonable request such as a pick from the Chancellor's treasury. The Chancellor becomes infuriated, but the GM awards a legend point for role-playing a flaw in a way that advances the story.
 
 ### Gaining Perks and Flaws
 
@@ -437,7 +438,7 @@ Flaws are very easy to create, as they simply represent situational triggers tha
 
 Perks, on the other hand, often grant elaborate benefits and even mechanical bonuses. These require you to work closely with your GM to ensure that your perks are balanced with the other perks available to PCs. The first rule to adhere to is that perks should provide non-combat effects, as feats, banes, and boons are the primary means for PCs to boost their combat expertise. Next, try to make your proposed perk limited to a specific type of task or a relatively rare situation. For example, the *artisan* perk provides expertise for a single craft, and the *attractive* perk is only beneficial in social situations that rely on physical attractiveness. If your perk is more generally applicable, then the effect should be more limited than other perks. For example, the *idol* perk makes you trusted by just about anyone, but it is limited to being used once per game session.
 
-### Perk List
+### Perk Descriptions
 
 #### Ageless
 
@@ -453,7 +454,7 @@ Choose a specific craft, such as weapon smithing, glass blowing, or brewing. You
 
 #### Ascetic
 
-You are well-versed in the art of living with less. Whether a cloistered monk or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery.
+You are well-versed in the art of living with less. Whether a cloistered monk or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your aceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
 
 #### Attractive
 
@@ -461,11 +462,11 @@ You are just really darn good looking. This plays to your favor more than just r
 
 #### Brute
 
-While others might convince with a silver tongue, you speak the universal language of fear. Once per game session, if you make a show of physical force, you can use your *Might* attribute for a *Persuasion* roll. If your *Persuasion* score is already equal to or greater than your *Might* score, you get advantage 1 on the roll.
+While others might convince with a silver tongue, you speak the universal language of fear. Once per game session, if you make a show of physical force, you can use your Might attribute for a Persuasion roll. If your Persuasion score is already greater than or equal to your Might score, you get advantage 1 on the roll.
 
 #### Courageous
 
-Your heart is brave beyond bounds. Once per game session, as a free action you can cancel all negative effects upon you related to fear or low morale.
+Your heart is brave beyond bounds. Once per game session, as a free action you can cancel all negative effects afflicting you that relate to fear or low morale.
 
 #### Crowd Favorite
 
@@ -501,7 +502,7 @@ You have a knack for picking up new skills. Once per game session, provided you 
 
 #### Local Hero
 
-You are well-known and respected as a protector of the common folk in a small region. The commoners look up to you, and will offer you food, shelter, and other necessities. They will even take risks or assume minor costs to aid or protect you, so long as the risk is not death.
+You are well-known and respected as a protector of the common folk in a small region. The commoners in this area will look up to you, and will offer you food, shelter, and other necessities. They will even take risks or assume minor costs to aid or protect you, so long as the risk is not death.
 
 #### Lucky
 
@@ -509,7 +510,7 @@ Once per game session, in a moment of need, you can call on luck to shine upon y
 
 #### Merchant
 
-You know the art of economics as well as the best of businessmen. A master of supply and demand, you have a knack for knowing when to buy and when to sell. You cannot be swindled when it comes to bartering, and you always know whether or not you are getting a fair price. Furthermore, you have friends in merchant circles and guilds in your home city, and you can easily gain them in new locations.
+You understand the art of economics as well as the best of businessmen. A master of supply and demand, you have a knack for knowing when to buy and when to sell. You cannot be swindled when it comes to bartering, and you always know whether or not you are getting a fair price. Furthermore, you have friends in merchant circles and guilds in your home city, and you can easily gain such connections in new locations given enough time.
 
 #### Nature's Ally
 
@@ -529,7 +530,7 @@ You are part of a criminal network, whether it be a thieves' guild, band of smug
 
 #### Profession
 
-Choose a specific trade, such as sailor, soldier, or miner. You know everything there is to know about the business and are a master of the requisite skills. A sailor, for example, can tie a knot for all occasions, navigate by the stars, and man any station aboard a ship. A soldier is well-versed in a variety of arms, understands military tactics, and knows how to navigate the chain of command with ease. Furthermore, whenever you are performing a task in which your professional skills would play a role, you gain advantage 1 to any action rolls that you must make.
+Choose a specific trade, such as sailor, soldier, or miner. You know everything there is to know about the business and are a master of the requisite skills. A sailor, for example, can tie a knot for all occasions, navigate by the stars, and man any station aboard a ship. A soldier is well-versed in a variety of arms, understands military tactics, and knows how to navigate the chain of command with ease. Furthermore, whenever you are performing a task in which your professional skills would play a role, you gain advantage 1 to any non-combat action rolls that you must make.
 
 #### Pure-hearted
 
@@ -557,11 +558,11 @@ You have practiced the ways of sneaking hidden charms and subliminal messages wi
 
 #### Stone Sense
 
-While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave in or to find a secret passage within a cavern.
+While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave-in or to find a secret passage within a cavern.
 
 #### Street Rat
 
-You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you're down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets.
+You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you're down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets. You gain advantage 1 on rolls for situations in which your street rat nature would be helpful.
 
 #### Vagabond
 
@@ -569,14 +570,14 @@ Having spent significant time fending for yourself in the wilderness, you excel 
 
 #### Warrior's Code
 
-As a veteran warrior, you command respect even from foes. Once per session, you can use this ability to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior's code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
+As a veteran warrior, you command respect even from foes. Once per session, you can use this perk to cause an enemy or group of enemies to extend special concessions or favorable treatment toward you via an unspoken warrior's code. The GM decides what these concessions look like. For example, your enemies might choose to trust you to come quietly and not shackle you, or overlook an insult that would have otherwise have been cause for bloodshed.
 
 #### Whisperer of the Wild
 
 Once per game session, you can ask a single “yes” or “no” question of a plant or animal within earshot. The plant or animal automatically trusts you at least enough to answer the question truthfully. You receive the answer by way of an inner sense, and so this ability cannot be used for further two-way communication.
 
 
-### Flaw List
+### Flaw Description
 
 #### Absent-minded
 
@@ -592,8 +593,7 @@ You are willing to do anything to get ahead in life and often that means trampli
 
 #### Bloodlust
 
-Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered.
-
+Battle isn't just a way of life, it is *the* way of life. There isn't a conflict you've encountered that wasn't best solved with steel or lead, and your allies will have a hard time convincing you otherwise. You are prone to starting fights when they aren't necessary and prolonging them even after the enemy has surrendered.
 
 #### Brash
 
@@ -625,7 +625,7 @@ You have some physical deficiency that holds you back in life. You decide the na
 
 #### Greedy
 
-You can't help it: you just like things. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies.
+You can't help it: you just like *things*. Money, gems, items of power - they beckon you at every turn and you'll often take great risks and maybe even betray your allies if the monetary reward is great enough. You're easy to bribe, and you will often push the limits of negotiation or bartering in order to increase your share in the profits, even if it makes you a few enemies.
 
 #### Honest
 
@@ -640,7 +640,7 @@ You can't read or write, even in languages that you speak fluently.
 
 #### Literal Minded
 
-You struggle with concepts and turns of phrase that are not literally true, such as idioms and metaphors. You might think sorcery is afoot if someone tells you it is “raining cats and dogs”. If a friend exaggerated by saying “I'd kill myself if Melzak were elected Supreme Justice”, you would be genuinely concerned for your friend's life if Melzak did get elected.
+You struggle with concepts and turns of phrase that are not literally true, such as idioms and metaphors. You might think sorcery is afoot if someone tells you it is “raining cats and dogs”. If a friend exaggerats by saying “I'd kill myself if Melzak were elected Supreme Justice”, you would be genuinely concerned for your friend's life if Melzak did get elected.
 
 #### Mood Disorder
 
@@ -664,7 +664,7 @@ You disdain combat and bloodshed of any kind, and will generally do whatever pos
 
 #### Phobia
 
-You are terrified and incapable of rational thought when you are presented with the object of your fear. It could be spiders, snakes, closed spaces, crowds, or something less common like co-dependence, a fear of being alone that causes you to always seek out companionship, even if that companionship has a negative impact on your life overall.
+You are terrified and incapable of rational thought when you are presented with the object of your fear. It could be spiders, snakes, closed spaces, crowds, or something less common like co-dependence: a fear of being alone that causes you to always seek out companionship, even if that companionship has a negative impact on your life overall.
 
 #### Proud
 
@@ -684,9 +684,10 @@ You suffer from some sort of chronic illness or condition, such as tuberculosis,
 
 #### Socially Awkward
 
-Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, you tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.
+Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.
 
 #### Stubborn
+
 It's your way or the highway. Maybe not all of the time, but once you've made your mind up on an important matter, you won't budge. You probably won't even compromise.
 
 #### Uncoordinated
@@ -699,31 +700,30 @@ You let no slight go unpunished. While some might be able to shake off an insult
 
 #### Zealous
 
-You stand for a cause - whether it is a religion, a nation, a code, a way of life, or otherwise - and you will push the boundaries of normal behavior to uphold your cause. This might mean that you make yourself a social outcast by attempting to convert others to your cause, or it could mean that you are willing to perform an act you might otherwise consider evil, such as putting innocent lives in danger, if doing so would promote your cause.
+You stand for a cause--whether it is a religion, a nation, a code, a way of life, or otherwise--and you will push the boundaries of normal behavior to uphold your cause. This might mean that you make yourself a social outcast by attempting to convert others to your cause, or it could mean that you are willing to perform an act you might otherwise consider evil, such as putting innocent lives in danger, if doing so would promote your cause.
 
 
-### Tell Your Story
+## Step 7: Tell Your Story
 
-With your character created, you are all ready to start playing *Open Legend*. Whether you're playing with old friends or complete strangers, and whether you're completely new to roleplaying games or an experienced veteran, the following tips will help ensure a fun time for everyone at the table.
+With your character created, you are all ready to start playing Open Legend. Whether you're playing with old friends or complete strangers, and whether you're completely new to roleplaying games or an experienced veteran, the following tips will help ensure a fun time for everyone at the table.
 
 ### Relax
 
-*Open Legend* gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your life depends on it and have fun. If you're playing a dwarf, maybe pull out your best Scottish accent. If your character's a witch, squint your eyes and speak in riddles. If you're no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party's escapades, and so on.
+Open Legend gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your character's life depends on it and have fun. If you're playing a dwarf, maybe pull out your best Scottish accent. If your character's a witch, squint your eyes and speak in riddles. If you're no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party's escapades, and so on.
 
 ### Respect the GM
 
-If you've never GM'd before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put their campaign together and prep for this session. Go with their storyline, overlook any accidental inconsistencies, and don't cause a ruckus just for the sake of causing a ruckus. If there's a dispute over the rules, accept the GM's final ruling and agree to look it up later for the sake of the game.
+If you've never GM'd before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put their campaign together and prep for this session. Go with their storyline, overlook any accidental inconsistencies, and don't cause a ruckus just for the sake of causing a ruckus. If there's a dispute over the rules, accept the GM's final ruling and agree to look it up later for the sake of keeping the game going.
 
 ### Respect the Other Players
 
-Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing *Open Legend*, just remember that not everyone else at the table may enjoy the same aspects. Part of the GM's duty is to give everyone a chance to shine, but you can do your part too by not hogging the spotlight and by encouraging the other players to have fun, whatever
-that means for them.
+Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing Open Legend, just remember that not everyone else at the table may enjoy the same aspects. Part of the GM's duty is to give everyone a chance to shine, but you can do your part too by not hogging the spotlight and by encouraging the other players to have fun, whatever that means for them.
 
 ## Gaining XP and Leveling Up
 
 As the legend you are creating unfolds and grows in danger and magnitude, your character's power will grow to match the challenge. This power comes in the form of experience points (or XP), which are rewarded by the GM and allow you to advance in level and gain access to new feats, attributes, banes, and boons.
 
-Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters, NPCs, and monsters. Until you reach 5th level, the maximum attribute score is 5. From levels 6 to 9, the maximum is equal to your level.
+Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters, NPCs, and monsters. The Player Character Level Advancement table details the XP requirements and maximum attribute score for each level.
 
 <div class="table-no-body"></div>
 | Player Character Level Advancement |
@@ -736,11 +736,11 @@ Your total XP earned determines your level, with every 3 XP allowing you to adva
 | :-: | :-: | :-: |
 | 0 | 1 | 5 |
 | 3 | 2 | 5 |
-| 6 | 3 | 5 |
-| 9 | 4 | 5 |
-| 12 | 5 | 5 |
-| 15 | 6 | 6 |
-| 18 | 7 | 7 |
+| 6 | 3 | 6 |
+| 9 | 4 | 6 |
+| 12 | 5 | 7 |
+| 15 | 6 | 7 |
+| 18 | 7 | 8 |
 | 21 | 8 | 8 |
 | 24 | 9 | 9 |
 | 27 | 10 | 9 |
