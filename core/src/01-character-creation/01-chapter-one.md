@@ -10,12 +10,6 @@ Before reading on, take a minute and think of your favorite movies, books, or vi
 
 Now that you've got some of your favorites in mind, let's create your character.
 
-### Choose an Example Character & Modify It
-
-For anyone who feels they could benefit from some inspiration, you can easily make a copy of any of these spreadsheets (they include formulas for doing most all of the calculations for you), and then increase or decrease attribute scores, as well as add or remove feats. Be sure to adjust the **Level** field to get the correct calculations for attribute & feat points at your current character level.
-
-[**View Pre-generated Character Options**](https://drive.google.com/drive/u/0/folders/0Bx_UrXHMi3wmUlJjbDZiaGtIX00)
-
 ## Step 1: Describe Your Character
 
 Open Legend is a role playing game, which means your character will need more depth than merely a selection of attributes, feats, perks, and gear. To make your character come to life, add some of the following details. If you can't think of anything yet, try to fill in the blanks during your first couple of play sessions as you get to know your character better.
@@ -292,8 +286,7 @@ For example, two different characters who specialize in melee combat might both 
 
 Feats are purchased using feat points. At 1st level, you have 6 feat points to spend. Any leftover feat points may be saved for the future.
 
-You can read the feat descriptions in a searchable list
-[*here*](http://www.openlegendrpg.com/feats).
+Feats requirements, costs, and effects are described in Chapter 3: Feats.
 
 If your character is based on a specific archetype, you may want to
 start with the feat selections recommended below:
@@ -751,7 +744,7 @@ For every XP that you earn, you also gain 1 feat point and 3 attribute points. T
 
 Attribute points can be used to increase your current attributes or buy completely new ones. The cost to increase an attribute is equal to the new score. So, for example, to raise your Might from 3 to 4 would cost 4 attribute points. The cost to purchase a brand new attribute is summarized in the Attribute Overview Table, which also details the attribute dice for scores above 5.
 
-See [*Feats*](http://www.openlegendrpg.com/feats) to view the complete list of feats to choose from.
+See Chapter 3: Feats for a complete list of feats to choose from.
 
 <div class="table-no-body"></div>
 | Attribute Overview |
