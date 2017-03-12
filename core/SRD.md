@@ -2670,7 +2670,7 @@ Typically, mounts and vehicles cannot act independently of their riders, and so 
 Detailed below are a variety of mounts and vehicles for characters to carry characters across land, sea, and sky. These samples represent multiple genres and are not meant to be an exhaustive list. GMs and players should use these examples as guidelines and work together to create stats for additional mounts as necessary to fit their campaigns.
 
 
-**WL (Wealth Level)** indicates the Wealth Level associated with this particular mount or vehicle. Acquiring one requires a sufficient Wealth Level and follows all of the rules for Wealth established in Chapter 6 Weapons & Equipment.
+**WL (Wealth Level)** indicates the Wealth Level associated with this particular mount or vehicle. Acquiring one requires a sufficient Wealth Level and follows all of the rules for Wealth established in Chapter 4 Wealth & Equipment.
 
 **Speed** indicates the number of feet the mount or vehicle moves with a single move action.
 

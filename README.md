@@ -13,6 +13,15 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 03 / 12
+-   `Extraordinary Items` initial release - new chapter `Rewards` for extraordinary items, mounts & vehicles
+-   `Craft Extraordinary Item` (formerly `Craft Beneficial or Baleful Item`) feat completely overhauled, now works with the Wealth Level system and the new rules found in Chapter 8
+-   `Craft Extraordinary Item` now has Logic as an optional prerequisite
+-   `Mounts & Vehicles` section moved from Chapter 4 to Chapter 8
+-   `Consumable` weapon property renamed to `Expendable` for consistency with new properties in `Extraordinary Items` section
+-   `Deadly` property moved from Chapter 4 (Weapons) to Chapter 8 (Extraordinary Items)
+-   Major changes to `Weapons` table via `Extraordinary Items` a number weapons were moved to Extrardinary (`Laser Rifle`, `Rocket Launcher`, `Plasmablade`)
+
+#### 2017 / 03 / 11
 -   `Boss NPCs` expanded the table to level 20 (for larger groups of PCs)
 -   `Boss NPCs` now have `Boss Edge`, giving them advantage on attacks, as well boss actions
 -   `Boss NPCs` now have immunity to Finishing Blows

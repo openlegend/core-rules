@@ -568,16 +568,19 @@
         Attribute:
         - Any Extraordinary: 5
         - Learning: 5
+        - Logic: 5
     tier2:
       any:
         Attribute:
         - Any Extraordinary: 5
         - Learning: 5
+        - Logic: 5
     tier3:
       any:
         Attribute:
         - Any Extraordinary: 5
         - Learning: 5
+        - Logic: 5
   tags:
   - Extraordinary
   - Non-Combat
@@ -586,35 +589,14 @@
   description: |
     You are studied in the ways of imbuing magical items, building futuristic technology, brewing potions, or crafting extraordinary devices. Their power is permanent but varies depending on your skill.
   effect: |
-    This feat allows you to create items that can invoke a given bane or boon either autonomously or by way of a wielder.
-    <ul>
-    <li><strong>Tier 1</strong> - You can create an item with this feat. Choose a target attribute score for the item, less than or equal to 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3). <br />
-      Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the heal boon, for example, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concentrates on using it.  <br />
-      Creating an expendable item requires 1 full 8-hour day of uninterrupted work. Creating a permanent item, requires one such day of work per attribute score of the item. <br />
-      At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item. <br />
-      When using this item, you expend your own actions to make action rolls or sustain a boon, but you otherwise treat the item as the one rolling dice, using an attribute, etc.<br />
-      Next, choose a bane or boon of power level less than or equal to the item's attribute score from the previous step. This item is forever linked to that particular bane or boon. <br />
-      An expendable item used to invoke a boon automatically succeeds at invocation and cannot be used for multi-target invocation. An expendable item used to invoke a bane grants advantage 1 to the attribute roll to invoke.<br />
-      A tier 1 permanent item can be invoked once per hour, after which it has to recharge before it can be used again. <br />
-      The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
-      <ul>
-      <li><strong>Any Extraordinary Attribute</strong> - The item can only be imbued with a bane or boon that is accessible to the creator via the attribute used. </li>
-      <li><strong>Learning</strong> - You can imbue an item with only Physical attributes (Might, Agility, Fortitude) and the corresponding banes and boons.</li>
-      <li><strong>Creation</strong> - Being capable of manifesting something from nothing via channeling otherworldly energy, you can imbue the item with any attribute, even if you do not have a score in that attribute.</li>
-      </ul>
-    </li>
-    <li><strong>Tier 2</strong> - Following the same rules above, you gain the following additional benefits: <br />
-      <ul>
-      <li>Items can now be used at-will to invoke the chosen bane or boon, this bypasses the tier 1 limitation of invoking once per hour.</li>
-      <li>The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.</li>
-      <li>For expendable items, bane attacks have advantage 2 instead of advantage 1.</li>
-      <li>You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a force field that encloses a would-be thief with the Barrier boon when they touch a valuable weapon and don't have the proper access code. This autonomy could be even more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).</li>
-      <li>Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3. A non-extraordinary example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.</li>
-      </ul>
-    </li>
-    <li><strong>Tier 3</strong> - You gain the ability to imbue sentience into an item by tripling the time you would have otherwise spent in creating it. The item gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.
-    </li>
-    </ul>
+    Provided you have the appropriate working space and materials (as determined by the GM), you can create extraordinary items. You can only imbue an item with attributes, banes, and boons that you can access. For example, in order to create a sword with Energy 5, you must possess an Energy score of 5 or higher. The only exception to this is if you possess the Creation, Learning, or Logic attributes. These allow you to imbue items with any attribute, bane, or boon as long as their value is less than or equal to your attribute score. The GM may rule that certain uses of Creation, Learning, or Logic are unreasonable when it comes to crafting extraordinary items.
+    Your tier in this feat determines the maximum Wealth Level of the items you can create, based on the attribute you are using to craft:
+    <ul><li><strong>Tier 1</strong> - Maximum Wealth Level equals Attribute minus 2</li><li><strong>Tier 2</strong> - Maximum Wealth Level equals Attribute minus 1</li><li><strong>Tier 3</strong> - Maximum Wealth Level equals Attribute</li></ul>
+    For example, a character with Creation 5 and tier 1 in this feat could create items up to Wealth Level 3.
+    You can determine the Wealth Level of the item you want to create by consulting the sample items in <strong>Chapter 8: Rewards</strong> or by developing a custom item using the rules for <strong>Building Your Own Extraordinary Items</strong> in that chapter.
+    Creating an item with the <em>consumable</em> property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their Wealth Level, as follows:
+    <ul><li><strong>Wealth Level 1 - 3</strong>: Two days per Wealth Level</li><li><strong>Wealth Level 4 - 5</strong>: Four days per Wealth Level</li><li><strong>Wealth Level 6 - 7</strong>: One week per Wealth Level</li><li><strong>Wealth Level 8 - 9</strong>: One month per Wealth Level</li></ul>
+    At the end of this time, your item is created. Crafting an item still counts as an expenditure of wealth, so you must have a sufficient Wealth Score to purchase the item, following all the rules for spending wealth provided in <strong>Chapter 8: Rewards</strong>. The GM may waive some or all of the costs associated with an item if you possess special materials for the crafting of your item. For example, if you have recently collected the hide of a slain red dragon and decide to make a suit of Armor of Resistance (Fire), the GM may decide that the dragon’s hide is enough to make up most of the costs of the armor, so the armor’s wealth level is reduced by 3 for purposes of determining crafting costs.
 - !
   name: Crushing Blow
   prerequisites:

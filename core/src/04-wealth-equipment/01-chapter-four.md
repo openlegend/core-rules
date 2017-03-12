@@ -105,11 +105,11 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target's defense. If both weapons you are wielding have passive benefits such as the Deadly or Defensive properties, your benefit is the best of the two but does not stack.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target's defense. If both weapons you are wielding have passive benefits such as the Defensive property, your benefit is the best of the two but does not stack.
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
-* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you. A weapon like a rocket launcher should be handled as one-time use, consumable extraordinary item.
+* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you. A weapon like a rocket launcher should be handled as one-time use, expendable extraordinary item.
     * **Range Increments**
 
         * **Close Ranged** - Range increment of 25'.
@@ -142,9 +142,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
 | Blow Gun, Dart | Close Ranged | 1 | Forceful, Precise | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 2 | Forceful, Precise, Swift | Persistent Damage, Disarmed |
-| Longsword, Falchion | Versatile Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
-| Katana, Enchanted Longsword | Versatile Melee | 4 | Forceful, Precise, Deadly 1 | Persistent Damage, Disarmed |
-| Plasmablade, Vorpal Sword | One-handed Melee | 5 | Forceful, Precise, Deadly 2 | Persistent Damage, Disarmed, Stunned |
+| Longsword, Katana, Falchion | Versatile Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 1 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 1 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
@@ -154,18 +152,15 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
 | Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Flamethrower | Two-handed Melee | 3 | Precise, Slow, Area (5' / 10' cone) | Fear, Persistent Damage |
-| Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
-| Colt 45, .357 Magnum | Medium Ranged | 4 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
+| Laser Gun, Revolver, Handgun | Medium Ranged | 1 | Precise | Persistent Damage, Slowed |
+| Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Expendable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
 | Light Crossbow | Medium Ranged | 1 | Precise | Persistent Damage, Immobile |
 | Sawed-off Shotgun | Medium Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
 | Shortbow, Pump Shotgun | Medium Ranged | 1 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (10' cube) | Persistent Damage, Provoked, Demoralized |
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Laser Rifle | Long Ranged | 4 | Precise, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Sniper Rifle, Phase Rifle | Extreme Ranged | 4 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Laser Cannon | Extreme Ranged | 4 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
-| Rocket Launcher, Mech Warhead | Extreme Ranged | 6 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Area (15' cube) | Persistent Damage, Stunned, Forced Move |
+| Sniper Rifle, Phase Rifle | Extreme Ranged | 4 | Precise, Slow, Delayed Ready | Persistent Damage, Slowed |
+| Cannon | Extreme Ranged | 2 | Precise, Slow, Area (15' square), Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
 | Small Shield | One-handed Melee | 2 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 3 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
@@ -176,9 +171,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
-**Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
-
-**Deadly** - Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
+**Expendable** - An expendable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
 **Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of its Defensive value. This bonus does not stack with multiple Defensive weapons.
 
@@ -250,17 +243,14 @@ Every weapon must have either the *Forceful* or *Precise* property and some weap
 
 Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon. The Wealth Level of all weapons begins at 1.
 
-The *Deadly* property increases an item's Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level of 5.
-
 The *Defensive* property increases the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
 
 The *Area* property increases the Wealth Level of the item by 1 per 5' of area, this increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3.
 
 The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 
-The *Consumable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
+The *Expendable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
 
-If the item has the *Deadly* property, its Wealth Level cannot be lower than 4.  Depending on the story, a GM may wish to lower this threshold if they want their game to be more dangerous or it takes place in a world where high-tech weapons or firearms are common.
 
 ### Step 3: Choose Banes
 
@@ -281,111 +271,6 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 **Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
 
 **Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
-
-
-\
-\
-
-
-## Mounts & Vehicles
-
-In this section, you'll find rules for mounting upon your battle-bred warhorse or piloting your trusty old fighter ship. For mechanical purposes, mounts and vehicles are handled the same. These rules will apply whenever a character is riding upon or within another creature or object as their primary form of movement. You will move with your mount (see mount actions below), but otherwise you are considered separate for purposes of targeting, boons, banes, and similar situations.
-
-Throughout this text, the words “mount” and “vehicle” are used interchangeably. Mechanically speaking, the rules are the same whether you are riding a pony or a star fighter, so any references to “mount” also apply to “vehicles”, and vice-versa.
-
-### Mount Actions
-
-When mounted, you may allocate any of your actions to your mount instead of yourself. For example, while riding a velociraptor, you could spend your move action to have your raptor move 40'. Whenever your mount moves, you move with it. Likewise, instead of attacking with your own weapons, you could spend your major action to let your raptor make an attack. Your mount will have its own attributes and feats, so it will not benefit from your feats or attributes.
-
-Typically, mounts and vehicles cannot act independently of their riders, and so they will only get to take actions when their rider allocates actions to them.
-
-### Example Mounts & Vehicles
-
-Detailed below are a variety of mounts and vehicles for characters to carry characters across land, sea, and sky. These samples represent multiple genres and are not meant to be an exhaustive list. GMs and players should use these examples as guidelines and work together to create stats for additional mounts as necessary to fit their campaigns.
-
-
-**WL (Wealth Level)** indicates the Wealth Level associated with this particular mount or vehicle. Acquiring one requires a sufficient Wealth Level and follows all of the rules for Wealth established in Chapter 6 Weapons & Equipment.
-
-**Speed** indicates the number of feet the mount or vehicle moves with a single move action.
-
-**Properties** are the descriptors that make each mount unique from others. These properties translate to specific game mechanics described below.
-
-**Attributes** indicates the notable attributes possessed by the vehicle or mount. At the GM's discretion, other attributes can be granted on an as-needed basis.
-
-**Feats** indicates the feats which the mount or vehicle possesses to highlight its unique capabilities. These feats only apply to actions taken by the mount, not actions made by the rider.
-
-**HP (Hit Points)** indicates the total hit points possessed by the vehicle or mount.
-
-**DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the its new hit point total, thus a vehicle can suffer multiple damage levels from a single attack if it deals enough damage. A mount has disadvantage equal to its damage level on all action rolls. Once the mount's damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
-
-**Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If "Immune" is listed for a given defense, then attacks targeting that defense have no effect.
-
-
-#### Properties
-
-**Faster than Light** - The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.
-
-**Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target an opponent's Guard defense.
-
-**Multi-Pilot** - The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.
-
-**Independent** - A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.
-
-**Targeted Weapons** - A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.
-
-
-
-<div class="table-no-body"></div>
-| Mounts & Vehicles |
-| - |
-| |
-
-| Examples | WL |  Speed | Properties | Attributes | Feats | HP | DT | Defenses |
-| :----- | :-: | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
-| All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
-Guard: 14 \
-Resolve: Immune |
-| Battle Cruiser | 9 | 1,000' | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
-Guard: 25 \
-Resolve: Immune |
-| Drake | 5 | 50' | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
-Guard: 20 \
-Resolve: 15 |
-| Fighter Ship | 5 | 2,000' | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
-Guard: 22 \
-Resolve: Immune |
-| Galleon | 6 | 70' | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
-Guard: 19 \
-Resolve: Immune |
-| Griffin | 4 | 50' | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
-Guard: 19 \
-Resolve: 13 |
-| Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
-Guard: 15 \
-Resolve: 10 |
-| Mech Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
-Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
-Guard: 22 \
-Resolve: Immune |
-| Phoenix | 5 | 50' | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
-Guard: 20 \
-Resolve: 19 |
-| Pegasus | 4 | 50' | | Might 4 \
-Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 \
-Guard: 18 \
-Resolve: 17 |
-| Velociraptor, Dire Wolf | 3 | 40' | | Agility 5 \
-Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 \
-Guard: 17 \
-Resolve: 15 |
-| T-Rex | 5 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 \
-Guard: 20 \
-Resolve: 15 |
-| Giant Scorpion | 4 | 35' | Independent 1 | Agility 5 \
-Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 \
-Guard: 15 \
-Resolve: 18 |
-
 
 
 
