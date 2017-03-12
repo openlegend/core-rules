@@ -235,7 +235,7 @@ Before making an action roll, a PC may spend a maximum number of legend points e
 
 ## Attributes and Action Rolls in Play
 
-As previously explained, whenever you need to determine the outcome of a meaningful task, you make an action roll using an attribute appropriate to the task. Sometimes, the results of your roll will be very clearly spelled out in the rules, such as when making attacks or invoking banes and boons. Oftentimes, though, you'll want to attempt an action that isn't spelled out explicitly in the rules. In this section, you'll find examples of the sorts of actions you can accomplish with every attribute, as well as some suggested interpretations of “success with a twist” and “failure, but the story progresses” for those times when the dice just don't go your way. 
+As previously explained, whenever you need to determine the outcome of a meaningful task, you make an action roll using an attribute appropriate to the task. Sometimes, the results of your roll will be very clearly spelled out in the rules, such as when making attacks or invoking banes and boons. Oftentimes, though, you'll want to attempt an action that isn't spelled out explicitly in the rules. In this section, you'll find examples of the sorts of actions you can accomplish with every attribute, as well as some suggested interpretations of “success with a twist” and “failure, but the story progresses” for those times when the dice just don't go your way.
 
 For each attribute, we offer examples of actions classified at three levels based on difficulty and extent of impact on the narrative:
 
@@ -690,7 +690,7 @@ Gizmo's party is attempting to evade a pack of wererats amidst the narrow alleys
 
 Wings is piloting the escape pod his crew used to break free from InterGal HQ. Their escape did not go unnoticed, however, and the pod is being pulled back in by the star cruiser's tractor beam. In a last ditch effort to secure their freedom, Wings jacks himself into the pod's power matrix and attempts to use every trick up his sleeve to boost its velocity beyond the force of the tractor beam.
 
-**Success with a twist:** Wings manages to override all of the pod's failsafes in order to redirect every ounce of it's power into the forward thrust. The ship escapes the tractor beam, but it's navigation systems get fried in the process. The crew no longer has control over their trajectory.
+**Success with a twist:** Wings manages to override all of the pod's failsafes in order to redirect every ounce of its power into the forward thrust. The ship escapes the tractor beam, but its navigation systems get fried in the process. The crew no longer has control over their trajectory.
 
 **Failure, but the story progresses:** Wings can't break the ship's safety protocols, and the pod is quickly swallowed back into InterGal HQ. It will only be a matter of minutes until they are swarmed by Galactic Troops.
 
@@ -717,7 +717,7 @@ As Shane chased him through the corridors of Payne Manor, the Doctor ducked into
 
 #### Epic Test of Prescience (CR 25)
 
-Ruby is investigating the scene of the lord mayor's assassination. There are no obvious physical signs of the cause of death, so she touches her hand to the mayor's heart and attempts to communicate with his spirit and learn whatever she can. 
+Ruby is investigating the scene of the lord mayor's assassination. There are no obvious physical signs of the cause of death, so she touches her hand to the mayor's heart and attempts to communicate with his spirit and learn whatever she can.
 
 **Success with a twist:** Ruby can speak briefly with the mayor. However, her connection with his troubled soul becomes semi-permanent. She is tortured by his desire for vengeance until his killer is brought to justice. While this effect persists, Ruby suffers one level of the *fatigued* bane.
 
@@ -739,7 +739,7 @@ As Balthazar and his companions make their way up the narrow ledge that encircle
 
 Star and her platoon pilot their mechanized combat suits through the wastelands of Primus, the first moon of New Terra. During the their week-long trek, one of Primus' much-feared corrosive acid clouds settles over the soldiers, threatening to slowly eat away at their armor. The GM asks each PC what they are doing to protect their mechs, and Star decides to use her Protection attribute to activate her suit's enviro shields to ward off the acid.
 
-**Success with a twist:** Star's enviro shield does the trick, but the acid storm is so strong that she is forced to reroute power from her mech's combat defenses in order to maintain the shield. As long as she keeps her enviro shield up, Star's max HP is reduced by 5. 
+**Success with a twist:** Star's enviro shield does the trick, but the acid storm is so strong that she is forced to reroute power from her mech's combat defenses in order to maintain the shield. As long as she keeps her enviro shield up, Star's max HP is reduced by 5.
 
 **Failure, but the story progresses:** Star's enviro shield just wasn't meant for such prolonged exposure to corrosive matter of this level. After three days in the acid cloud, her mech's hull is severely corroded, reducing her Armor bonus by 3 until it can be repaired.
 

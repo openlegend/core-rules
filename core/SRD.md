@@ -940,18 +940,7 @@ attribute for different purposes depending on which tier of the feat you have:
 -   **Tier 2:**
     -   Making attack action rolls
 
-The relationship formed by your two attributes is subject to case-by-case
-approval by the GM and must be cleared with them first. The link must be logical
-and consistent with the story you are trying to tell. For example, a bard who
-subsitutes her Presence for her Might to represent her dance-based melee fighting style
-would likely not get to use her Presence Score for determining her
-carrying capacity. Furthermore, the GM should prevent players from
-creating illogical substitutions that are purely aimed at making their
-characters unreasonably powerful. Two examples of proper uses of this
-feat include an analytical warrior or martial artist who analyzes
-angles, leverage, and physics to substitute Logic for Might, or a
-gunslinger who channels dark energy, giving her deadshot accuracy and
-substituting Entropy for Agility. \newline
+The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility. \newline
 
 ## Bane Focus
 
@@ -1288,31 +1277,24 @@ your GM to come up with other suitable crafts).
 or building extraordinary devices. Their power is permanent but varies
 depending on your skill. \newline
 
-**Effect:** This feat allows you to create items that can invoke a given bane or
-boon either autonomously or by way of a wielder.
+**Effect:** Provided you have the appropriate working space and materials (as determined by the GM), you can create extraordinary items. You can only imbue an item with attributes, banes, and boons that you can access. For example, in order to create a sword with Energy 5, you must possess an Energy score of 5 or higher. The only exception to this is if you possess the Creation, Learning, or Logic attributes. These allow you to imbue items with any attribute, bane, or boon as long as their value is less than or equal to your attribute score. The GM may rule that certain uses of Creation, Learning, or Logic are unreasonable when it comes to crafting extraordinary items.
 
--   **Tier 1** - You can create an item with this feat. Choose a target attribute score for the item, less than or equal to 2 points below the attribute you use in the creation process (e.g. if you have an attribute score of 5, the maximum score of the item is 3). \
-\ Next, choose whether the item is permanent or expendable. A potion or scroll may be an expendable item that triggers the heal boon, for example, while a ring of invisibility may be a permanent item that triggers the invisibility boon when the wielder concentrates on using it. \
-\ Creating an expendable item requires 1 full 8-hour day of uninterrupted work. Creating a permanent item, requires one such day of work per attribute score of the item. \
-\ At the end of this period, make an attribute roll with a prerequisite attribute. The CR of this roll equals 10 plus twice the attribute score of the item. \
-\ When using this item, you expend your own actions to make action rolls or sustain a boon, but you otherwise treat the item as the one rolling dice, using an attribute, etc. \
-\ Next, choose a bane or boon of power level less than or equal to the item's attribute score from the previous step. This item is forever linked to that particular bane or boon. \
-\ An expendable item used to invoke a boon automatically succeeds at invocation and cannot be used for multi-target invocation. An expendable item used to invoke a bane grants advantage 1 to the attribute roll to invoke. \
-\ A tier 1 permanent item can be invoked once per hour, after which it has to recharge before it can be used again. \
-\ The banes and boons available for imbuing depend on the attribute used to create the item, as follows:
+Your tier in this feat determines the maximum Wealth Level of the items you can create, based on the attribute you are using to craft:
 
-    -   **Any Extraordinary Attribute** - The item can only be imbued with a bane or boon that is accessible to the creator via the attribute used.
-    -   **Learning** - You can imbue an item with only Physical attributes (Might, Agility, Fortitude) and the corresponding banes and boons.
-    -   **Creation** - Being capable of manifesting something from nothing via channeling otherworldly energy, you can imbue the item with any attribute, even if you do not have a score in that attribute.
+-   **Tier 1** - Maximum Wealth Level equals Attribute minus 2
+-   **Tier 2** - Maximum Wealth Level equals Attribute minus 1
+-   **Tier 3** - Maximum Wealth Level equals Attribute
 
--   **Tier 2** - Following the same rules above, you gain the following additional benefits:
-    -   Items can now be used at-will to invoke the chosen bane or boon, this bypasses the tier 1 limitation of invoking once per hour.
-    -   The target attribute score for the item can now be equal to your attribute score or less. So, with a prerequisite attribute score of 5, you can imbue an item with an attribute score of 5.
-    -   For expendable items, bane attacks have advantage 2 instead of advantage 1.
-    -   You can imbue low-level sentience or autonomy into your crafted items. During creation, you work with the GM to define a set of conditions that cause the item to trigger. Some examples include magically guided fireballs triggered when someone enters a given area or a force field that encloses a would-be thief with the Barrier boon when they touch a valuable weapon and don't have the proper access code. This autonomy could be even more mundane, for example: pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
-    -   Permanent items you imbue not only possess the imbued attribute score for the purpose of invoking a particular bane or boon, but can make attacks with their attribute score. If the item's attribute is greater than the wielder's, then it supersedes the attribute for the wielder. For example - a Flaming Sword imbued in the 9th circle of Hell could have Energy 9, allowing a town guard with Might 3 to make attacks with Energy 9 instead of Might 3. A non-extraordinary example could be ballistae on a large battlement that are imbued with Agility 4 and can be used to invoke the Forced Move bane.
+For example, a character with Creation 5 and tier 1 in this feat could create items up to Wealth Level 3. \
+\ You can determine the Wealth Level of the item you want to create by consulting the sample items in **Chapter 8: Rewards** or by developing a custom item using the rules for **Building Your Own Extraordinary Items** in that chapter. \
+\ Creating an item with the *consumable* property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their Wealth Level, as follows:
 
--   **Tier 3** - You gain the ability to imbue sentience into an item by tripling the time you would have otherwise spent in creating it. The item gains its own personality and intelligence. This epic feat should be worked out closely with your GM to specify a blueprint for what the item's personality, mission, preferences, and similar values will be, and the GM should elaborate and add unforeseen quirks or flaws that make sense given the item's purpose.
+-   **Wealth Level 1 - 3** - Two days per Wealth Level
+-   **Wealth Level 4 - 5** - Four days per Wealth Level
+-   **Wealth Level 6 - 7** - One week per Wealth Level
+-   **Wealth Level 8 - 9** - One month per Wealth Level
+
+At the end of this time, your item is created. Crafting an item still counts as an expenditure of wealth, so you must have a sufficient Wealth Score to purchase the item, following all the rules for spending wealth provided in **Chapter 4: Wealth & Equipment**. The GM may waive some or all of the costs associated with an item if you possess special materials for the crafting of your item. For example, if you have recently collected the hide of a slain red dragon and decide to make a suit of Armor of Resistance (Fire), the GM may decide that the dragon’s hide is enough to make up most of the costs of the armor, so the armor’s wealth level is reduced by 3 for purposes of determining crafting costs.
 
 ## Crushing Blow
 
@@ -1551,7 +1533,7 @@ that your boon heals.
 
 ## Fast Draw
 
-**Cost:** 2 points
+**Cost:** 1 points
 \
 **Prerequisites:**
 
@@ -2081,7 +2063,7 @@ multiple types of attack.
 
 -   **Tier 1:**
     -   Boon Focus
-    -   Multi-Target Boon Specialist II
+    -   Multi-Target Boon Specialist I
 
 **Description:** You have so mastered the art of aiding groups of allies that you can
 invoke certain boons effortlessly. \newline
@@ -2566,13 +2548,13 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ### Properties
 
-**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
+**Area** - An area weapon always makes multi-target area attacks of the listed size and shape aand cannot be used to make non-area attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
 **Consumable** - A consumable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
 
 **Deadly** - Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of it's Defensive value. This bonus does not stack with multiple Defensive weapons.
+**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of its Defensive value. This bonus does not stack with multiple Defensive weapons.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -2646,7 +2628,7 @@ The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
 
 The *Consumable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
 
-If the item has the *Deadly* property, it's Wealth Level cannot be lower than 4.  Depending on the story, a GM may wish to lower this threshold if they want their game to be more dangerous or it takes place in a world where high-tech weapons or firearms are common.
+If the item has the *Deadly* property, its Wealth Level cannot be lower than 4.  Depending on the story, a GM may wish to lower this threshold if they want their game to be more dangerous or it takes place in a world where high-tech weapons or firearms are common.
 
 ### Step 3: Choose Banes
 
@@ -2661,7 +2643,7 @@ All weapons (with the exception of unarmed strike), begin with a base Wealth Lev
 
 Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
 
-**Step 1 (Choose a Category)** - While the kusari-gama, might typically be used as a short bladed melee weapon, it can also be swung via it's long chain. As such, we will give it both the  **One-handed Melee** and **Close Ranged** properties.
+**Step 1 (Choose a Category)** - While the kusari-gama, might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the  **One-handed Melee** and **Close Ranged** properties.
 
 **Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
 
@@ -2700,7 +2682,7 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 
 **HP (Hit Points)** indicates the total hit points possessed by the vehicle or mount.
 
-**DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the it's new hit point total, thus a vehicle can suffer multiple damage levels from a single attack if it deals enough damage. A mount has disadvantage equal to its damage level on all action rolls. Once the mount's damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
+**DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the its new hit point total, thus a vehicle can suffer multiple damage levels from a single attack if it deals enough damage. A mount has disadvantage equal to its damage level on all action rolls. Once the mount's damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
 
 **Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If "Immune" is listed for a given defense, then attacks targeting that defense have no effect.
 
@@ -2891,7 +2873,7 @@ on the power level of the bane when invoked.
 this bane prevents the target from being aware of their affliction and
 thus prevents them from actively attempting to break free. However, the
 targets true mind is magically suppressed but fights to regain control.
-As such, at the end of each of it's turns, the target receives a Resist
+As such, at the end of each of its turns, the target receives a Resist
 roll as a free action to break free from the effect. When your target
 succeeds at a resist roll against this bane, they become to immune to
 all subsequent attempts by you to inflict the bane for the next 24
@@ -2901,7 +2883,7 @@ hours.
 
 **Duration:** Resist ends (Fail x 3 = 1 minute)
 \
-**Power Level:** 5
+**Power Level:** 4
 \
 **Attack Attributes:** Agility, Energy, Entropy
 \
@@ -2950,7 +2932,7 @@ can be the victim of a finishing blow. \newline
 this bane prevents the target from being aware of their affliction and
 thus prevents them from actively attempting to break free. However, the
 targets body fights to regain consciousness and resist the pending
-death. As such, at the end of each of it's turns, the target receives a
+death. As such, at the end of each of its turns, the target receives a
 Resist roll as a free action to break free from the effect. Whereas 3
 failed resist rolls would usually persist the effects of the bane, this
 bane extinguishes the life force of the target on 3 failed saves, thus
@@ -3096,11 +3078,11 @@ severity escalates by one level.
 
 -   **Level 1** - The target has Disadvantage 1 on all non-attack action rolls.
 
--   **Level 2** - The target loses their attribute bonuses to their defense scores (Agility and Might for Guard, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
+-   **Level 2** - The target is affected by the slowed bane, reducing its speed by half. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
 
 -   **Level 3** - The target has Disadvantage 1 on all attack rolls.
 
--   **Level 4** - The target is affected by the slowed bane, reducing it's speed to 10'. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
+-   **Level 4** - The target loses their attribute bonuses to their defense scores (Agility and Might for Guard, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
 
 -   **Level 5** - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.
 
@@ -3357,11 +3339,17 @@ for the next 24 hours.
 
 **Description:** With the power of Protection, you are able to cancel boon effects on enemies by cutting their power, similar to how you might defend against incoming attacks by interrupting their effect. \newline
 
-**Effect:** You cancel a single boon affecting the target of this bane's power level or lower. The invoking power level further impacts the effect as follows:
+**Effect:** You cancel a single boon affecting the target. The invoking power level further impacts the effect as follows:
 
--   **Power Level 1** - You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
-
--   **Power Level 6** - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
+- **Power Level 1** - Cancel a boon of Power Level 1. You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute
+- **Power Level** - Cancel a boon of Power Level 2
+- **Power Level** - Cancel a boon of Power Level 3
+- **Power Level** - Cancel a boon of Power Level 4
+- **Power Level** - Cancel a boon of Power Level 5
+- **Power Level 6** - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute
+- **Power Level 7** -  Cancel a boon of Power Level 7
+- **Power Level 8** -  Cancel a boon of Power Level 8
+- **Power Level 9** -  Cancel a boon of Power Level 9
 
 
 ## Persistent Damage
@@ -3411,7 +3399,7 @@ following examples can help with arbitration:
 
 ## Phantasm
 
-**Duration:** Resist ends (Fail x 3 = 10 minutes)
+**Duration:** Special
 \
 **Power Level:** 1, 2, 3, 6
 \
@@ -3421,50 +3409,23 @@ following examples can help with arbitration:
 
 -   Influence vs. Resolve
 
-**Description:** You create an illusory manifestation to deceive the senses of all within
-range. Some examples include making a meal taste rotten, creating the
-sound of a stampede of horses, hiding allies behind a false wall, and
-even manifesting an elven noble who can converse intelligibly. \newline
+**Description:** You create an illusory manifestation to deceive the senses. Some examples include making a meal taste rotten, altering the data on a screen where a user is logging in, creating the sound of a stampede of horses, hiding allies behind a false wall, or creating an illusion of an intergalactic emperor who can converse intelligibly. \newline
 
-**Effect:** You create a phantasm of your choosing. The Power Level at which you
-invoke the bane determines which senses you can manifest. Until reaching
-Power Level 6, you can combine sensory illusions by adding the required
-Power Levels together (e.g., mimicking both sight and sound requires
-Power Level 5). While the phantasm persists, you can make logical
-changes to it freely. For example, an illusory person can speak
-naturally as you direct it and could be made to fall in response to an
-attack. However, substantial changes to the illusion (such as
-transforming a human into a goblin) require a new invocation of the
-illusion.
+**Effect:** You create a phantasm of your choosing. The Power Level at which you invoke the bane determines which senses you can deceive. Until reaching Power Level 6, you can combine sensory illusions by adding the required Power Levels together (e.g., mimicking both sight and sound requires Power Level 5). While the phantasm persists, you can make logical changes to it freely. For example, an illusory person can speak naturally as you direct it and could be made to fall in response to an attack. However, substantial changes to the illusion (such as transforming a human into a goblin) require a new invocation of the illusion.
 
--   **Power Level 1** - Taste
--   **Power Level 2** - Sound
--   **Power Level 2** - Smell
--   **Power Level 2** - Touch
--   **Power Level 3** - Sight
--   **Power Level 6** - All Senses
+-   **Power Level 1** - Affect Taste. Manifest a 5' x 5' x 5' area phantasm
+-   **Power Level 2** - Affect Smell, Sound, or Touch
+-   **Power Level 3** - Affect Sight
+-   **Power Level 5** - Manifest a 15' x 15' x 15' area phantasm
+-   **Power Level 6** - Affect All Senses
+-   **Power Level 7** - Manifest a 15' x 15' x 15' area phantasm
+-   **Power Level 8** - Manifest a 20' x 20' x 20' area phantasm
+-   **Power Level 9** - Manifest a 40' x 40' x 40' area phantasm
 
-Your Influence attribute score determines the maximum area that your phantasm can cover as follows. On your turn, you may move the illusion as a free action, but it must remain within your usual invocation range.
-
--   Influence 1 - 5' x 5' x 5'
--   Influence 3 - 10' x 10' x 10'
--   Influence 5 - 15' x 15' x 15'
--   Influence 7 - 20' x 20' x 20'
--   Influence 8 - 30' x 30' x 30'
--   Influence 9 - 40' x 40' x 40'
-
-**Special:** When you invoke the phantasm bane, your Influence action roll determines
-who is convinced by the illusion. Any creatures with a Resolve defense
-score less than or equal to your roll will believe the phantasm to be
-real and will react accordingly. Those with a higher Resolve score will
-notice that their senses are being deceived somehow. Creatures who are
-convinced by the phantasm can roll Resist as normal in order
-to attempt to shake off the bane. If successful, they are no longer
-deceived by the illusion.
-
-When your target succeeds at a resist roll against this bane, they
-become to immune to all subsequent attempts by you to inflict the bane
-for the next hour.
+**Special:** Unlike other banes, this bane does not work by targeting specific enemies. Instead, your Influence roll for invoking it is compared with the Resolve defense of each character that would percieve the created effect if it were real. If the roll is lower, they perceive none of the phantasm's effects. If the roll is equal or greater, they perceive the illusory effect you create and react as if it were real. \newline
+When mimicking a very specific person, place, or thing that the target is very familiar with, the GM should consider increasing the target's Resolve defense for the purpose of that particular phantasm invocation. \newline
+Characters convinced by the phantasm can roll Resist as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the effect. In addition, you must spend a minor action to sustain the bane during each of your turns. Failing to do so in a given round causes the bane's effects to cease at the end of your turn. \newline
+When an affected character succeeds at a resist roll against this bane, they become to immune to all subsequent phantasms invoked by you for the next hour.
 
 ## Polymorph
 
@@ -3571,7 +3532,7 @@ they are familiar with such powers.
 -   **Power Level 7** - More than 100 miles, but on the same dimension or plane of reality
 -   **Power Level 9** - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).
 
-**Special:** When you successfully invoke this bane, at the end of it's duration, you
+**Special:** When you successfully invoke this bane, at the end of its duration, you
 can make a Prescience roll to attempt to persist the bane. If
 successful, the bane persists without requiring the invocation time to
 be repeated. However, you must retest your new roll against the Resolve
@@ -3641,7 +3602,7 @@ belongings they are carrying inaudible.
 
 **Description:** The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs. \newline
 
-**Effect:** The afflicted target's speed is reduced to half it's current speed, rounded down to the nearest 5' increment. This applies to
+**Effect:** The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to
 all movement that is physical (flight, walking, climbing, etc.). If the
 target is currently under a magical effect that increases speed, the two
 effects are canceled for the duration that both affect the target.
@@ -3665,7 +3626,7 @@ effects are canceled for the duration that both affect the target.
 back of the head, to a kick in the groin, to a deafening thunderclap
 that disorients the target. \newline
 
-**Effect:** During its turn, the target is limited to either a single major action, a single move action, or a single minor action. It cannot take all three, nor can it take a focus action. Note that a target expending it's move action to Resist this bane will receive the remainder of their usual actions if the Resist roll succeeds. Thus they will have their usual Major and Minor actions available this round. \newline
+**Effect:** During its turn, the target is limited to either a single major action, a single move action, or a single minor action. It cannot take all three, nor can it take a focus action. Note that a target expending its move action to Resist this bane will receive the remainder of their usual actions if the Resist roll succeeds. Thus they will have their usual Major and Minor actions available this round. \newline
 
 **Special:** Boss actions are not affected by this bane, and can still be used to partially bypass this, though they must use one boss action per major, move, or minor action they wish to take.
 
@@ -3807,22 +3768,9 @@ object is immediately shunted out of your target's body as if the object had bee
 **Description:** You create life or unlife of subhuman intelligence that persists
 indefinitely and autonomously. \newline
 
-**Effect:** Your are able to imbue life or unlife into inanimate material components
-such as dirt, bones, water, vines, or sand (the materials used are
-subject to GM discretion). You perform a ritual that last 8 hours. At
-the end of the ritual, make your action roll. If successful, the
-inanimate form is imbued with sentience. If you used the Creation
-attribute to invoke this boon, then it is a normal living creature. If
-you used Entropy, then the creature is undead. You can use this boon to
-animate existing creatures or undead, such as by creating a live wolf
-from bones and fur or a zombie from an unearthed tomb. However, you
-cannot use this boon to animate extraordinary creatures, such as dragons
-or basilisks. Your ability to animate the creature grants no special
-control or influence over it. Since it was birthed through magic, it has
-no concept of family, creator, or parent. In the case of aggressive
-creatures, the GM would handle interaction normally, but there is a
-strong possibility that the creature would immediately attack its
-creator.
+
+
+**Effect:** Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that lasts 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no permanent control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
 
 The GM, not the player, is responsible for deciding the attributes and
 abilities of this animated creature and it should follow the guidelines
@@ -3904,9 +3852,9 @@ senses. \newline
 
 **Effect:** The Blinded bane does not adversely affect your target and they are able to see
 normally even in conditions of little or no light. Blindsight can also
-potentially counter invisibility, though the GM will have to decide if
+potentially counter invisible, though the GM will have to decide if
 the source creating the blindsight is appropriate to counter the source
-creating the invisibility.
+creating the invisible boon.
 
 
 ## Bolster
@@ -4237,8 +4185,7 @@ wounds close before the very eyes of an onlooker. \newline
 
 **Effect:** While the regeneration boon is sustained, the target heals hit points at
 the beginning of each of the *boon invoker's* turns. The amount of
-healing is determined by the power level of the boon, and the dice
-rolled for healing explode as usual.
+healing is determined by the power level of the boon.
 
 -   **Power Level 1** - 1d4
 -   **Power Level 3** - 1d6
@@ -4468,9 +4415,7 @@ the language of your target.
 \
 **Attributes:** Movement \newline
 
-**Description:** You are able to instantly move from one place to another, either by
-stepping into an intermediate realm, projecting yourself magically, or
-other similar means. \newline
+**Description:** You are able to instantly move yourself or an ally from one place to another, either by stepping into an intermediate realm, deconstructing and reforming a physical body, magical transport, or other similar means. \newline
 
 **Effect:**
 -   **Power Level 3** - You can teleport your target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it.
@@ -4992,7 +4937,7 @@ Your hit points (HP) are an abstract measure of your character's ability to igno
 
 ### Finishing Blows
 
-When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a **finishing blow** and may cause immediate death. Your defense against a finishing blow does not include any bonus from your attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you are dead.
+When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a **finishing blow** and may cause immediate death. Your defense against a finishing blow does not include any bonus from your attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus half the damage dealt. If you fail this roll, you are dead.
 
 ### Reaching Zero Hit Points
 
@@ -5212,18 +5157,18 @@ You may use your attacks to make any combination of bane or damaging attacks, bu
 - **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on. \
 **Special:** This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
 
-#### Boss Monsters and NPCs
+#### Boss NPCs
 
 A Boss is a single monster or NPC that is capable of taking on a group of characters due to extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
 
-When you decide that one of your monsters or NPCs merits boss status, use the Boss Monster Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
+When you decide that one of your monsters or NPCs merits boss status, use the Boss NPC Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
 
 
 \NextTableColumns{OLT{.16}OCT{.16}OCT{.17}OCT{.17}OCT{.17}OCT{.17}}
 
 \SpanningTable[tbp]
 
-| Boss Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
+| Boss Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Edge |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 40 | 13 - 16 | 6 | 4 | 1 |
 | 2 | 50 | 14 - 17 | 6 | 4 | 1 |
@@ -5236,12 +5181,11 @@ When you decide that one of your monsters or NPCs merits boss status, use the Bo
 | 9 | 90 | 21 - 24 | 10 | 8 | 4 |
 | 10 | 100 | 22 - 25 | 10 | 8 | 4 |
 
-**Boss Actions**
+**Boss Edge**
 
-In addition to its normal allotment of actions, a boss will also receive one or more boss actions on its turn. When rolling initiative for a boss, make an extra number of initiative rolls for each boss action. When arranging the initiative order, there must be at least one PC between each of the boss's turns. If necessary, move the “boss action” turns lower in the order to accommodate this requirement.
+A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. A boss NPC gets advantage on all attack rolls equal to its boss edge value.
 
-During combat, the boss monster's highest initiative count indicates its normal turn, during which it gets the usual allotment of major, move, and minor actions. Each of the boss's lower counts in the initiative are boss actions, which allow the boss to make one major action.
-
+In addition to its normal allotment of actions, a boss also receives a number of boss actions on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
 
 ## Planning Combat Encounters
 
@@ -5267,7 +5211,7 @@ Whether you are using the simple or complex method of building your NPCs, you ca
 
 #### Bosses
 
-If your encounter includes boss monsters, multiply their level by 4 for purposes of budgeting (i.e., a 5th level boss would be worth 20 levels).
+If your encounter includes boss NPCs, multiply their level by 4 for purposes of budgeting (i.e., a 5th level boss would be worth 20 levels).
 
 #### Minions
 

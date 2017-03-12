@@ -12,6 +12,17 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 03 / 12
+-   `Boss NPCs` expanded the table to level 20 (for larger groups of PCs)
+-   `Boss NPCs` now have `Boss Edge`, giving them advantage on attacks, as well boss actions
+-   `Boss NPCs` now have immunity to Finishing Blows
+-   `Phantasm` bane wording changes to clarify that the size effect is limited by power level, but it affects all who see it (though they aren't technically targets)
+-   `Fatigued` bane levels of fatigue effects for level 2 and level 4 swapped to prevent easy access to the loss of significant defense bonuses
+-   Updated Open Legend Community License for minor name change to `Seventh Sphere Entertainment`
+-   `Summon Creature` - added hard limit on max number of summoned creatures (equal to your invoking attribute)
+-   `Fast Draw` feat cost reduced from 2 to 1
+-   `Multi-Target Boon Expert` feat prerequisite reduced from Multi-Target Boon Specialist II to Multi-Target Boon Specialist I
+
 #### 2017 / 03 / 02
 -   Removed `Tech Level` from mounts & vehicles, unneccessary complexity
 -   `Craft` feat is renamed to `Craft Mundane Item`
@@ -217,3 +228,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   Might has replaced Fortitude as the prerequisite for wearing armours.
 -   Master Shifter feat removed, Boon Focus and Supernatural Focus made it obsolete.
 -   Alteration attribute added to healing boon, definition of healing updated.
+
+## Contributors
+
+Ish Stabosz, Barry Dewey-Robertson, Kyle Willey, Mario Lurig, Michael "Hassurunous" Loubier, John Lewis of Demon's Lair RPG

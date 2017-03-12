@@ -28,7 +28,7 @@
   description: |
     You create life or unlife of subhuman intelligence that persists indefinitely and autonomously.
   effect: |
-    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that lasts 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no special control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
+    Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that lasts 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no permanent control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
     The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and it should follow the guidelines established by the "Simple Build" section for creating NPCs / monsters in Chapter 7: Running the Game.
     <ul>
     <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the <strong>Charmed</strong> (Minor Charm) bane already in effect (no roll is required).</li>
@@ -91,10 +91,7 @@
   effect: |
     When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level:
     <ul>
-    <li><strong>Power Level 3 - </strong>Choose 1 property: Damaging (1d4), Obscuring, Hindering</li>
-    <li><strong>Power Level 5 - </strong>Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile</li>
-    <li><strong>Power Level 7 - </strong>Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable</li>
-    <li><strong>Power Level 9 - </strong>Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable</li>
+    <li><strong>Power Level 3 - </strong>Choose 1 property: Damaging (1d4), Obscuring, Hindering</li><li><strong>Power Level 5 - </strong>Choose 2 properties: Damaging (1d8), Obscuring, Hindering, Baneful, Mobile</li><li><strong>Power Level 7 - </strong>Choose 3 properties: Damaging (1d10), Obscuring, Hindering, Baneful, Mobile, Impassable</li><li><strong>Power Level 9 - </strong>Choose 4 properties: Damaging (2d6), Obscuring, Hindering, Baneful, Mobile, Impassable</li>
     </ul>
     <strong>Damaging:</strong> A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.
     <br>
@@ -124,7 +121,7 @@
   description: |
     Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or extraordinarily heightened senses.
   effect: |
-    The Blinded bane does not adversely affect your target and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisibility.
+    The Blinded bane does not adversely affect your target and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisible, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisible boon.
 - !
   name: Bolster
   tags:
@@ -439,7 +436,7 @@
   description: |
     The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
-    While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon, and the dice rolled for healing explode as usual.
+    While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon.
     <ul>
     <li><strong>Power Level 1</strong> - 1d4 </li>
     <li><strong>Power Level 3</strong> - 1d6 </li>
@@ -592,7 +589,7 @@
   effect: |
     You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: agility, fortitude, might, perception, energy, and entropy. Your minion's attributes do not affect their hit points or defenses.
     <table><tbody><tr class="header"><th>Power Level</th><th>Hit Points</th><th>Defenses</th><th>Attributes</th></tr><tr class="odd"><td>4</td><td>4</td><td>11</td><td>2, 1, 1</td></tr><tr class="even"><td>5</td><td>5</td><td>12</td><td>3, 2, 2</td></tr><tr class="odd"><td>6</td><td>6</td><td>13</td><td>4, 3, 3</td></tr><tr class="even"><td>7</td><td>7</td><td>14</td><td>5, 4, 4</td></tr><tr class="odd"><td>8</td><td>8</td><td>15</td><td>6, 5, 5</td></tr><tr class="even"><td>9</td><td>9</td><td>16</td><td>7, 6, 6</td></tr></tbody></table>
-    Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions.
+    Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions. You are limited to a maximum number of summoned creatures equal to your invoking attribute score. Feats and other abilities cannot increase this limit.
   special: |
     Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.
     Multi-targeting for this boon does not work as it does for other boons. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Any effect that modifies multi-targeting penalties will work as normal in offsetting this disadvantage.
@@ -655,10 +652,10 @@
   invocationTime: 1 Move Action
   duration: Instantaneous
   description: |
-    You are able to instantly move from one place to another, either by stepping into an intermediate realm, projecting yourself magically, or other similar means.
+    You are able to instantly move yourself or an ally from one place to another, either by stepping into an intermediate realm, deconstructing and reforming a physical body, magical transport, or other similar means.
   effect: |
     <ul>
-    <li><strong>Power Level 3</strong> - You can teleport your target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
+    <li><strong>Power Level 3</strong> - You can teleport the target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see it. </li>
     <li><strong>Power Level 5</strong> - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can't see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect). </li>
     <li><strong>Power Level 7</strong> - You can opt to take longer in invoking the boon. If you choose to, for each minute of invocation (delay before making your action roll) you can teleport the target 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put your target many miles in an unfavorable direction. You simply choose a direction (relative to your starting location) and teleport your target a number of miles equal to your Movement score. During invocation, you must spend a Focus action each turn until the invocation time passes.</li>
     <li><strong>Power Level 9</strong> - Using the same longer invocation time from Power Level 7, you can now teleport your target to any location without range limit, provided you have personally seen (through magical or normal means) the destination.</li>

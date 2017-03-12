@@ -190,7 +190,7 @@
       <li>Making attack action rolls</li>
       </ul>
     </ul>
-    The relationship formed by your two attributes is subject to case-by-case approval by the GM and must be cleared with them first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
+    The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
 - !
   name: Bane Focus
   prerequisites:
@@ -892,7 +892,7 @@
   - Combat
   - Agility
   cost:
-  - 2
+  - 1
   description: |
     Whether you're a samurai warrior, the fastest draw in the West, or a flawlessly trained interstellar soldier, you can get to your weapon faster than your opponent can blink.
   effect: |
@@ -1088,7 +1088,7 @@
       Attribute 7 = 1 mile<br />
       Attribute 8 = 10 miles<br />
       Attribute 9 = 100 miles<br /></li>
-    <li>Negate two levels of disadvantage caused by multi-targeting (e.g., Target 2 creatures or a 10' square for free instead of disadvantage 2).</li>
+    <li>Negate two levels of disadvantage caused by multi-targeting (e.g., target 2 creatures or a 10' square for free instead of disadvantage 2).</li>
     <li>For your action roll, treat your attribute score as if it was one greater for purposes of determining attribute dice. Note that this doesn't grant access to banes or boons you could not normally access. It only increases the dice used for the action roll.</li>
     </ul>
 
@@ -1098,7 +1098,7 @@
       <li>You gain the following additional option to choose from when empowering your invocations with ritual magic:</li>
         <ul>
         <li>Cause a boon to persist for 1 minute automatically without needing to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (though the Nullify bane still works).</li>
-        <li>Targets may not make resist rolls against a bane for one minute after it is invokes.</li>
+        <li>Targets may not make resist rolls against a bane for one minute after it is invoked.</li>
         </ul>
     </ul>
 
@@ -1554,7 +1554,7 @@
     tier1:
       Feat:
       - Boon Focus
-      - Multi-Target Boon Specialist II
+      - Multi-Target Boon Specialist I
   tags:
   - Non-Combat
   - Any Attribute
