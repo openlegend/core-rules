@@ -26,7 +26,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 
 | Extraordinary Item | WL | Attributes | Banes & Boons | Properties |
-| :-: | :-: | :-: | :-: | :-: |
+| :----: | :-: | :-: | :---: | :-------: |
 | Adhesion Boots | 2 |   |  | Special |
 | Aegis of Warding | 4 | Energy 5 |  | Autonomous, Special |
 | Adrenal Biomod | 4 |  | Heal 3 | Persistent (Heal) |
@@ -99,201 +99,294 @@ If an item has multiple area sizes, the attacker chooses from them with each att
 
 #### Adhesion Boots
 
+
+
 **Wealth Level:** 2
 *Crafted of an ultra-durable leather to ensure they support the wearer's weight, these boots have bioengineered nanofiber soles that adhere flawlessly to any surface they touch, until deactivated.*
 **Special**: These boots enable their wearer to automatically succeed at all climbing checks, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
 
 
 #### Aegis of Warding
+
 **Wealth Level**: 4
+
 *These magical glyphs are usually created to guard items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered is met.*
 **Special**: Once activated and affixed to a surface, an Aegis of Warding cannot be moved. A successful removal destroys it in the process. In addition, all damage dealt by the Aegis is lethal damage.
 
 
 #### Adrenal Biomod
+
 **Wealth Level**: 4
+
 *Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with adrenaline.*
 Heal 3, Persistent (Heal)
 
 
 #### Black Lotus Extract
+
 **Wealth Level**: 6
+
 *Of those who dabble in such dark secrets, no poison is more feared than that extracted from the petals of the black lotus.*
 Death 9, Potent, Expendable, Augmenting
 
 
 #### Blowfish Venom
+
 **Wealth Level**: 3
+
 *With just a drop in an unattended goblet or a liberal dose on the edge of a blade, this poison renders its target completely immobile and incapable of escape.*
 Expendable, Immobile 5, Augmenting
 
 
 #### Book of Shadows
+
 **Wealth Level**: 5
+
 *Bound in a black substance harvested from the demiplane of shadow, this ancient tome contains secret words that allow one to manipulate the darkness, and even summon shadowy creatures from otherworldly planes of existence.*
 Darkness 5, Summon Creature 5, Blinded 5
 **Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of Power Level 5 or above, they must make a Will check of CR 15 or suffer one level of the fatigued bane.
 
 
 #### Colt 45
+
 **Wealth Level**: 3
+
 *With its smooth and ornately carved ivory handle, this marvel of frontier ingenuity is the only protection a gunfighter needs.*
 Deadly 1, Potent, Weapon (Revolver)
 
 
 #### Cerebral Probe
+
 **Wealth Level**: 3
+
 *A mechanical apparatus of metal plates, leather straps, and buckles, this device has a cone-shaped metal protrusion that goes into the subject's ear and flares out like a phonograph. Once secured, the subject's darkest secrets are thence played like a classic tune from a vinyl record.*
 Mind Dredge 6
 **Special**: This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the Mind Dredge attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the Immobile bane until the first bane ceases.
 
 
 #### Collar of Choking
+
 **Wealth Level**: 1
+
 *This plain steel collar will choke the life out of anyone who wears it.*
+
 Cursed (Persistent Damage 2)
 
 
 #### Crystal Ball
+
 **Wealth Level**: 3
+
 *No mystic should go without this quintessential tool for peering beyond the limits of normal sight.*
+
 Scrying 6
 
 
 #### Digital Camouflage
+
 **Wealth Level**: 3
+
 *This specialized digital outerwear is used by elite black ops specialists on ultra-secret espionage missions. 360 degrees of camera coverage feeds dynamic digital concealment which is projected on the suit's exterior.*
+
 Invisible 5, Reliable
 
 
 #### Dotanuki
+
 **Wealth Level**: 5
+
 *This exceptionally crafted katana is far heavier than the average blade of its type, bringing far more force to bear on its razor edgee blade. A Dotaunki is known to cut foes in two.*
+
 Deadly 2, Weapon (Katana)
+
 **Special**: A devasting blow from the Dotanukia can cause a target to bleed out rapidly. Any time the Dotanuki's attack exceeds the target's defense by 20 or more, the Persistent Damge 9 bane is automatically applied to the target.
 
 
 #### Explosive Ammo
+
 **Wealth Level**: 2
+
 *These special incendiary rounds ignite on impact, wreathing your quarry in a gout of flame.*
+
 Persistent Damage 4, Augmenting, Expendable
 
 
 #### Frostblight
+
 **Wealth Level**: 4
+
 *Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of freezing that halts foes in their tracks.*
+
 Aura 2, Armor (Plate Mail), Persistent
+
 **Special**: Frostblight can only invoke the Immobile bane via it's Aura.
 
 #### Firebrand
+
 **Wealth Level**: 4
+
 *A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in a flame.*
+
 Persistent Damage 4, Baneful (Persistent Damage), Damage(Fire), Weapon (Longsword)
 
 
 #### Ghostfire
+
 **Wealth Level**: 2
+
 *This white alchemical liquid ignites in fire as soon as it is exposed to air. Typically, it is sealed tightly in a glass flask or orb meant to be shattered against a foe.*
+
 Energy 5, expendable
 
 
 #### Helm of Truth
+
 **Wealth Level**: 5
+
 *This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.*
+
 Bolster 3, Persistent (Bolster), Cursed (Truthfulness 5)
 
 
 #### Horn of Thunder
+
 **Wealth Level**: 4
+
 *When blown, this horn creates a sound wave strong enough to deafen creatures and shatter objects.*
+
 Deafened 5, Might 5, Area 30' cone
+
 **Special**: The horn can only use the might attribute to destroy objects, or inflict the banes forced move and knock down.
 
 
 #### Jet Pack
+
 **Wealth Level**: 4
+
 *A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.*
 Flight 6
 
 
 #### Laser Cannon
+
 **Wealth Level**: 6
+
 *This laser gun turret unleashes a massive laser beam, though it requires time to recharge after each use.*
+
 Area (50' Line), Deadly 2, Weapon (Cannon)
 
 
 #### Maul of Dominance
+
 **Wealth Level**: 4
+
 *Etched with elegant patterns that indicate it's value. When held, it pulses with a power felt by all nearby. The maul emits an aura of menace that draws the attention of all nearby enemies.*
+
 Aura 8, Special
+
 **Special**: The maul's aura boon can only emit the provoked bane. During the first round of combat, it's aura can be invoked as a minor action.
 
 
 #### Phase Rifle
+
 **Wealth Level**: 4
+
 *This sleek 30th Century rifle is built for deadshot accuracy at ranges where natural eyes can't even see. Delivering a single burst payload of pure energy means that it is completely silent and without recoil.*
+
 Damage (Energy), Deadly 2, Weapon (Sniper Rifle)
 
 
 #### Plasmablade
+
 **Wealth Level**: 5
+
 *This regal weapon features a compact hilt made of non-conducting carbon fiber. When activated, a blade of infinitely hot plasma emerges, along with dome-shaped force-field for a hand guard.*
+
 Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special
+
 **Special**: When attack with the plasmablade exceeds the target's defense by 10 or more, the baneful disarming effect severs the target's limb severed completely. They are demoralized (power level 3) for the remainder of the combat and the effect can't be canceled.
 
 
 #### Potion of Minor Healing
+
 **Wealth Level**: 1
+
 *This small flask of viscous blue liquid can heal minor wounds in the blink of an eye when consumed or applied topically.*
+
 Heal 3, Consumable
 
 
 #### Potion of Major Healing
+
 **Wealth Level**: 2
+
 *A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.*
+
 Heal 7, Consumable
 
 
 #### Rocket Launcher
+
 **Wealth Level**: 3
+
 *Whether outfitted on a mecha unit or launched via soldier's shoulder mount, this anti-air and anti-tank missle can stop just about anything.*
+
 Deadly 2, Expendable
+
 **Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes.
 
 
 #### Rod of Fear
+
 **Wealth Level**: 3
+
 *This short rod is crafted of human bone and bears the skull of a screaming human at its head.*
+
 Fear 7
 
 
 #### Sleeping Gas
+
 **Wealth Level**: 4
+
 *Some grenades blow your enemies to bits. This one is for those who prefer the more subtle approach.*
+
 Incapacitated 5, Expendable, Area 15' cube
 
 
 #### Soul Siphon
+
 **Wealth Level**: 3
+
 *This thin black wand emits crackling green necrotic energy capable of draining the very souls from your foes.*
+
 Fatigued 5
 
 
 #### Spyglass of Farsight
+
 **Wealth Level**: 4
+
 *A master creation of steampunk technology, this masterfully crafted spyglass grants its user the eyes of an eagle.*
+
 Perception 6
 
 
 #### Transmogrification Ray
+
 **Wealth Level**: 5
+
 *A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.*
+
 Polymorph 6, Potent, Powerful 1
 
 
 #### Worker Bot
+
 **Wealth Level**: 5
+
 *This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day to day engineering tasks.*
+
 Might 3, Autonomous
 
 
@@ -357,32 +450,59 @@ After you have described your item's special properties, you should assign a wea
 -   **Is it limiting?** Does the property reduce the effectiveness of another ability or is it only useful in very specific situations? If so, reduce wealth level by 1.
 
 > ### Example Items with Special Properties
-> **Hydraulic Propulsion Implants**: You always count as having a running start for your jumps, and your distance covered when jumping is doubled.
-> *Is it common?* No. Jumping will be useful in many combats, but only if the terrain and situation fits. Jumping might be useful in non-combat situations, but probably not that often.
-> *Is it versatile?* Yes. +1 WL. Double jump distance will allow a character to overcome a large variety of obstacles, and provide enhanced maneuverability in both combat and non-combat scenarios.
-> *Is it powerful?* Mildly. +1 WL. The maneuverability granted by this property is about on par to Teleport Power Level 3.
-> *Is it limiting?* No. It doesn't restrict other abilities nor is it limited to niche scenarios.
+> \
+> **Hydraulic Propulsion Implants**: You always count as having a running start for your jumps, and your distance covered when jumping is doubled. \
+> \
+> *Is it common?* No. Jumping will be useful in many combats, but only if the terrain and situation fits. Jumping might be useful in non-combat situations, but probably not that often. \
+> \
+> *Is it versatile?* Yes. +1 WL. Double jump distance will allow a character to overcome a large variety of obstacles, and provide enhanced maneuverability in both combat and non-combat scenarios. \
+> \
+> *Is it powerful?* Mildly. +1 WL. The maneuverability granted by this property is about on par to Teleport Power Level 3. \
+> \
+> *Is it limiting?* No. It doesn't restrict other abilities nor is it limited to niche scenarios. \
+> \
 > **Final WL Modifier**: +2
 >
-> **Shining Shield**: Once per round, when the wielder of this shield is subject to a melee attack, they may make a free action to inflict the blinded bane on the attacker. The item makes the following attack: Blinded 5 versus Guard.
-> *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round.
-> *Is it versatile?* No. The Shining Shield really only serves one purpose.
-> *Is it powerful?* A little more powerful than an item with Blinded 5 because the Shining Shield allows you to inflict the bane without using an action. +3 WL.
-> *Is it limiting?* No. While the Shining Shield is only useful when the wielder is targeted in melee, that situation is pretty common.
-> **Final WL Modifier**: +4
+> * * * * *
 >
-> **Assassin's Rifle**: This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever the your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more.
-> *Is it common?* Not any more common than any item that can inflict banes in the usual manner.
-> *Is it versatile?* No. Even though the item can inflict a number of banes, the cost of these > are already accounted for because an item pays for every bane it can inflict.
-> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack as if it had the baneful property. +7 WL.
-> *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up.
+> **Shining Shield**: Once per round, when the wielder of this shield is subject to a melee attack, they may make a free action to inflict the blinded bane on the attacker. The item makes the following attack: Blinded 5 versus Guard. \
+> \
+> *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round. \
+> \
+> *Is it versatile?* No. The Shining Shield really only serves one purpose. \
+> \
+> *Is it powerful?* A little more powerful than an item with Blinded 5 because the Shining Shield allows you to inflict the bane without using an action. +3 WL. \
+> \
+> *Is it limiting?* No. While the Shining Shield is only useful when the wielder is targeted in melee, that situation is pretty common. \
+> \
+> **Final WL Modifier**: +4 \
+>
+> * * * * *
+>
+> **Assassin's Rifle**: This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever the your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
+> \
+> *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
+> \
+> *Is it versatile?* No. Even though the item can inflict a number of banes, the cost of these > are already accounted for because an item pays for every bane it can inflict. \
+> \
+> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack as if it had the baneful property. +7 WL. \
+> \
+> *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
+> \
 > **Final WL Modifier**: +6
 >
-> Helm of Goblin Bane: At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
-> *Is it common?* No. Unless the campaign takes place in a world overrun with goblins, a character will likely go entire sessions without being able to use this helm.
-> *Is it versatile?* No. It only does one thing: scare goblins.
-> *Is it powerful?* A little more powerful than an item with Fear 5 because it is activated as a free action. +3 WL.
-> *Is it limiting?* Yes. The helm is only useful against a specific kind of creature. -1 WL.
+> * * * * *
+>
+> **Helm of Goblin Bane**: At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
+> \
+> *Is it common?* No. Unless the campaign takes place in a world overrun with goblins, a character will likely go entire sessions without being able to use this helm. \
+> \
+> *Is it versatile?* No. It only does one thing: scare goblins. \
+> \
+> *Is it powerful?* A little more powerful than an item with Fear 5 because it is activated as a free action. +3 WL. \
+> \
+> *Is it limiting?* Yes. The helm is only useful against a specific kind of creature. -1 WL. \
+> \
 > **Final WL Modifier**: +2
 
 
@@ -411,7 +531,7 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 **Attribute _bonus/penalty_** - When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.
 
-**Intelligent* - The item is sentient and possesses its own unique intelligence. It possesses its own mental and social attributes, and has the ability to communicate either audibly or telepathically. The item’s description will detail any attribute scores as well as restrictions to its communication (such as the ability to only communicate with the wielder).
+**Intelligent** - The item is sentient and possesses its own unique intelligence. It possesses its own mental and social attributes, and has the ability to communicate either audibly or telepathically. The item’s description will detail any attribute scores as well as restrictions to its communication (such as the ability to only communicate with the wielder).
 
 **Unfailing** - Any dice rolled when using this item’s abilities treat a result of 1 as a result of the maximum instead. Rolling a 1 also results in a dice explosion just as if the die had rolled maximum. So, for example, rolling a 1 on a d8 would be treated as an 8. A 1 on a d20 would be a 20.
 
@@ -424,37 +544,59 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 
 #### Void Cannon
+
 *This universe shattering weapon of far future technology can literally tear holes in space time. When fired at full charge, the Void Cannon tears a rift in the fabric of spacetime, manifesting as a concentrated beam of annihilation, wiping from existence anything in its path.*
+
 **Weapon**: Normally, the Void Cannon functions as a weapon with the following statistics and properties: medium ranged, precise, deadly 3, delayed ready, area 10’ cube, banes: persistent damage.
+
 **Void**: The wielder may fire the cannon at full blast by spending 2 full rounds charging its power. On the third round, the beam fires and targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.
 
+
 #### Giant’s Bane
+
 *This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giant’s that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.*
+
 Weapon (Longbow), Powerful 2, Slaying (giants), Agility +1, Perception +2, Intelligent
+
 **Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Powerful 2. In addition, it grants advantage 1 on all attacks against giants.
 
+
 #### Infinity Suit
+
 *It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mecha unit so powerful that the pilot becomes nigh indestructible.*
+
 Armor (power armor), Might 8, Persistent (Bolster 6:Might), Persistent (Regeneration 9), Persistent (Flight 8)
+
 Indestructible: While wearing the Infinity Suit, the pilot is immune to effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit.
 
+
 #### Lamp of Wishes
+
 *When rubbed, this dusty old lamp spews forth an ancient genie of unimaginable power, ready to do the owner’s bidding. However, the genie’s services are often served with a bit of mischief on the side.*
+
 Presence +3
+
 **Wishes**: The genie will grant the owner of the lamp 3 wishes. The genie will often twist or interpret wishes in such a way that the owner gets what they asked for in a completely unfavorable way. For example, if a person wishes to be king of the realm, the genie may transport him upon the throne 1000 years into the future, where the realm is a desolate wasteland. Once the lamp has been claimed, a new owner cannot be had until all three wishes are used. After all three wishes have expired, the lamp transports to a completely random point in the world.
 
+
 #### Reaver
+
 *This vicious axe features an ebony haft carved with screaming faces and a serrated blade. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.*
 Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
+
 **Warble**: Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.
 
+
 #### Staff of the Archmage
+
 *Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.*
 Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful
 **Retributive Strike**: The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 3d10, advantage 9 versus Guard.
 
 #### Time Machine
+
 *The ultimate achievement of mad scientists and quantum physicists alike, this vehicle is capable of transporting its passengers through the fourth dimension.*s
+
 **Time Travel**: A character may attempt to travel forward or backward in time by making a Logic roll, CR 20. The roll incurs disadvantage 1 for every 5 years of **time travel**. Any passengers within the vehicle are also transported, willing or not. The GM may interpret a failed roll in any number of interesting ways, including but not limited to the following:
 
 -   The time travelled is multiplied by 100.
@@ -528,7 +670,7 @@ Detailed below are a variety of mounts and vehicles for characters to carry char
 | |
 
 | Examples | WL |  Speed | Properties | Attributes | Feats | HP | DT | Defenses |
-| :----- | :-: | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
+| :----- | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
 | All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
 Guard: 14 \
 Resolve: Immune |
