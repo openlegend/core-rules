@@ -410,36 +410,46 @@ You may use your attacks to make any combination of bane or damaging attacks, bu
 >
 > When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land a damaging attack that exceeds the target's defense by 5 or more.
 
-#### Boss Monsters and NPCs
+#### Boss NPCs
 
 A Boss is a single monster or NPC that is capable of taking on a group of characters due to extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
 
-When you decide that one of your monsters or NPCs merits boss status, use the Boss Monster Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
+When you decide that one of your monsters or NPCs merits boss status, use the Boss NPC Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
 
 
 <div class="table-no-body"></div>
-| BOSS MONSTER BUILD |
+| BOSS NPC BUILD |
 | - |
 | |
 
-| Boss Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Actions |
+| Boss Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes | Boss Edge |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 40 | 13 - 16 | 6 | 4 | 1 |
 | 2 | 50 | 14 - 17 | 6 | 4 | 1 |
 | 3 | 60 | 15 - 18 | 7 | 5 | 2 |
 | 4 | 70 | 16 - 19 | 7 | 5 | 2 |
-| 5 | 70 | 17 - 20 | 8 | 6 | 2 |
+| 5 | 75 | 17 - 20 | 8 | 6 | 2 |
 | 6 | 80 | 18 - 21 | 8 | 6 | 3 |
-| 7 | 80 | 19 - 22 | 9 | 7 | 3 |
+| 7 | 85 | 19 - 22 | 9 | 7 | 3 |
 | 8 | 90 | 20 - 23 | 9 | 7 | 3 |
-| 9 | 90 | 21 - 24 | 10 | 8 | 4 |
+| 9 | 95 | 21 - 24 | 10 | 8 | 4 |
 | 10 | 100 | 22 - 25 | 10 | 8 | 4 |
+| 11 | 100 | 22 - 25 | 10 | 9 | 4 |
+| 12 | 105 | 23 - 26 | 10 | 9 | 5 |
+| 13 | 105 | 23 - 26 | 10 | 9 | 5 |
+| 14 | 110 | 24 - 27 | 10 | 9 | 5 |
+| 15 | 110 | 24 - 27 | 10 | 9 | 6 |
+| 16 | 115 | 25 - 28 | 10 | 9 | 6 |
+| 17 | 115 | 25 - 28 | 10 | 9 | 6 |
+| 18 | 120 | 26 - 29 | 10 | 9 | 7 |
+| 19 | 120 | 26 - 29 | 10 | 9 | 7 |
+| 20 | 125 | 27 - 30 | 10 | 9 | 7 |
 
-**Boss Actions**
+**Boss Edge**
 
-In addition to its normal allotment of actions, a boss will also receive one or more boss actions on its turn. When rolling initiative for a boss, make an extra number of initiative rolls for each boss action. When arranging the initiative order, there must be at least one PC between each of the boss's turns. If necessary, move the “boss action” turns lower in the order to accommodate this requirement.
+A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. A boss NPC gets advantage on all attack rolls equal to its boss edge value.
 
-During combat, the boss monster's highest initiative count indicates its normal turn, during which it gets the usual allotment of major, move, and minor actions. Each of the boss's lower counts in the initiative are boss actions, which allow the boss to make one major action.
+In addition to its normal allotment of actions, a boss also receives a number of boss actions on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
 
 ## Planning Combat Encounters
 
@@ -469,7 +479,7 @@ Whether you are using the simple or complex method of building your NPCs, you ca
 
 #### Bosses
 
-If your encounter includes boss monsters, multiply their level by 4 for purposes of budgeting (i.e., a 5th level boss would be worth 20 levels).
+If your encounter includes boss NPCs, multiply their level by 4 for purposes of budgeting (i.e., a 5th level boss would be worth 20 levels).
 
 #### Minions
 
