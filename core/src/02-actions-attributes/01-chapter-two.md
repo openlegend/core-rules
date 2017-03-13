@@ -1,18 +1,16 @@
 # Chapter 2: Actions and Attributes #
 
-The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to
-interpret the results.
+The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to interpret the results.
 
 ## When to Roll the Dice
 
-*Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
-example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to roll a Persuasion check every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
+Open Legend is about creating great stories full of epic moments of heroism, and you will roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to roll a Persuasion check every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
 
-*Open Legend* includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
+Open Legend includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
 
 ## Every Roll Matters
 
-Another important point in *Open Legend* is that every action roll should drive the story in a new direction, for better or worse. A failed roll should not let the story stagnate, nor should a failure be easily negated by a successful roll from another character.
+Another important point in Open Legend is that every action roll should drive the story in a new direction, for better or worse. A failed roll should not let the story stagnate, nor should a failure be easily negated by a successful roll from another character.
 
 If you look back to the Core Mechanic, you can see that a simple failure is not an option:
 
@@ -28,22 +26,21 @@ If you look back to the Core Mechanic, you can see that a simple failure is not 
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | the player succeeds with a twist. <br /> **- OR -** <br /> the player fails, but the story progresses. <br />*(GM's Choice)* |
 
-Here's an example to illustrate how to make every roll matter.
+The following example illustrates how to make every roll matter.
 
 *Pelias Quickenfit, a halfling burglar, is attempting to pick the lock on a door. He rolls an Agility check but gets lower than the challenge rating.*
 
-### What NOT to do
-
-In this case, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In *Open Legend*, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll. Here are two potential outcomes for the roll:
+Here are two potential outcomes for the roll:
 
 *If the GM chooses **success with a twist**, they might rule that Pelias is able to open the lock; however, just as he finishes the job, he begins to hear a faint hissing sound from the door. A poison gas trap! The burglar immediately falls unconscious, and the rest of the party must decide what to do before the gas reaches them in a matter of seconds.*
 
 *If the GM chooses **failure, but the story progresses**, they might rule that although Pelias is unable to get the lock open, he hears footsteps approaching from around the corner accompanied by the familiar jingle of a jailer's keychain. If the party can position themselves quickly enough, they may be able to get the keys without a fight.*
 
-Notice how both of these options allow Pelias's action to drive the story forward just as much as a successful roll would have. In the second example, perhaps the barbarian still ends up bashing the door down with brute force, but at least the story moved on in some way because of the burglar's attempts.
+Notice how both of these options allow Pelias's action to drive the story forward just as much as a successful roll would have.
 
-The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
+### What NOT to do
 
+In the above example, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In Open Legend, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll.  The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
 
 > ### Old Habits Die Hard
 > If you've played other RPGs in the past, you may be tempted to immediately follow another player's failed roll with an action roll of your own.
@@ -63,15 +60,9 @@ The “every roll matters” rule was designed to make player actions meaningful
 
 This is for the sake of simplicity and fun. When a player fails a roll, it's not very fun if something doesn't come out of it. When the GM fails a roll, though, there is usually much rejoicing at the table.
 
-### Group Action Rolls
-
-Sometimes, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures then successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
-
-The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
-
 ## Interpreting Action Rolls
 
-The previous example provides just one method in which a GM might interpret the results of an action roll, but there is a little more to it than that. In this section, you'll get some empowering guidelines to help everyone at the table feel comfortable with the amount of improvisation required for *Open Legend*.
+The previous scenario involving Pelias provides just one method in which a GM might interpret the results of an action roll, but there is a little more to it than that. In this section, you'll get some empowering guidelines to help everyone at the table feel comfortable with the amount of improvisation required for Open Legend.
 
 ### Interpreting Success
 
@@ -101,13 +92,13 @@ The important thing to realize is that a success with a twist is still a success
 
 ### Interpreting Failure, but the Story Progresses
 
-In *Open Legend*, a failure is never just a failure, it's always an important element in the story, hence the rule that “the story progresses”.
+In Open Legend, a failure is never just a failure. It's always an important element in the story, hence the wording that “the story progresses”.
 
 Progress, though, can mean a lot of things. When the GM selects this option, the following interpretations should give you some idea of how the story can progress in spite of failure.
 
 **The player finds an opportunity for success.** Even though your magic fails to dispel the curse afflicting your ally, you discover during later study that a rare herb growing in a nearby forest would give you the power you require.
 
-**The danger snowballs.** You fail to jump a chasm while fleeing a band of cannibals. You fall along the cliffside, taking some damage. When you gather your senses, you realize that you aren't only separated from the rest of your party, but you've also fallen into the nest of a Roc.
+**The danger snowballs.** You fail to jump a chasm while fleeing a band of cannibals and fall along the cliffside, taking some damage. When you gather your senses, you realize that you aren't only separated from the rest of your party, but you've also fallen into the nest of a Roc.
 
 **The information is false.** You think you've got a good read on the mayor during your negotiations. It seems like she's completely in favor of your plan to negotiate an alliance among the neighboring survivor settlements. When you set out the next day, however, it turns out you were wrong, and the guards the mayor sent to ensure your safe passage turn out to be your assassins.
 
@@ -144,6 +135,12 @@ To resolve such contests, each character involved makes an action roll using an 
 >
 > As the Unnamed Necromancer attempts to open a portal to release a shade demon upon the land, Uldric the Protector attempts to exert every ounce of his magical will to close the portal. The GM calls for a contested action between the two. The Necromancer makes an Entropy roll and gets a 25, while Uldric gets a 20 on his Protection roll. Unfortunately for the rest of the world, the demon has been unleashed.
 
+### Group Action Rolls
+
+In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures then successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
+
+The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
+
 ## Advantage and Disadvantage
 
 Sometimes, you will attempt an action under circumstances that give you a significant upper hand, such as when attacking an enemy from behind. Other times, you'll be working against exceptional hindrances, such as when trying to climb a rope that an enemy has covered in grease. In these types of cases, instead of adjusting the Challenge Rating of the task, the GM should assign your roll either **advantage** or **disadvantage**.
@@ -158,13 +155,13 @@ When you have advantage on an action, roll an extra number of attribute dice equ
 
 > #### Example of Advantage
 >
-> Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. After rolling, but before calculating her total, she removes the lowest rolling d10.
+> Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. The d20 rolls a 16 and the 4d10 roll 3, 5, 7, and 9. She removes the lowest d10 before calculating her total, leaving her with a final roll of 16 + 5 + 7 + 9 = 37.
 
 Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
 
 > #### Example of Disadvantage
 >
-> Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two highest rolling d6s.
+> Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two *highest* rolling d6s.
 
 ### Advantage and Disadvantage Are Only Applied BEFORE Explosions
 
