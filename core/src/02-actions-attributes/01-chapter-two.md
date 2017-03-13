@@ -123,7 +123,26 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren't
 | Epic | 25 | translate a text in an alien language, break down an iron door |
 | Legendary | 30 | leap a 25' chasm, climb a flat surface, befriend an enemy with a vendetta against you |
 
-It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth.
+It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth. However, it may be helpful when creating scenarios for GMs to understand the typical capabilities of a character based on their attribute score. The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed score can be expected to succeed at the listed Challenge Rating about **50%** of the time.
+
+<div class="table-no-body table-centered"></div>
+| Average Challenge Ratings vs. Attribute Scores |
+| - |
+| |
+<div class="table-centered"></div>
+| Attribute Score | Average Challenge Rating |
+| - | - |
+| 0 | 10 |
+| 1 | 12 |
+| 2 | 14 |
+| 3 | 16 |
+| 4 | 18 |
+| 5 | 20 |
+| 6 | 22 |
+| 7 | 24 |
+| 8 | 26 |
+| 9 | 28 |
+| 10 | 30 |
 
 ### Contested Actions
 
@@ -168,15 +187,18 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
 
 > #### Example of Advantage with Exploding Dice
-> Imagine you have attribute score 3 and are rolling with advantage 2, you would roll 1d20 + 3d8 and keep the single highest of the d8s before rolling any exploding dice. Imagine your d20 rolls a 10 and your d8s land on 8, 8, and 3. You would then keep one of the 8s and discard the other two dice. Because the 8 rolled max, you may roll it again and add the result to your total. Imagine that lands on a 5. Your total score is 23 (10 + 8 + 5).
+> 
+> Tommy "Two Guns" unloads his pistols on an enemy gangster. His Agility is 3 and he has advantage 2 on the roll, so he rolls 1d20 + 3d8. Tommy's d20 rolls a 10 and the d8s land 8, 8, and 3. Because of his advantage 2, Tommy ignores the lowest two dice: the 3 and one of the 8s. He re-rolls the remaining 8 because dice explode on their maximum result and gets a 5. His final roll is 23 (10 + 8 + 5).
 
 ### Advantage and Disadvantage Without Attribute Dice
 
-When attempting any roll that does not include attribute dice, you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. This applies to both actions performed with attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances. In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus you cannot multi-target attack if you have an attribute score of zero.
+When making an action roll without addribute dice, advantage and disadvantage affect the d20. For advantage, roll 2d20 and keep the highest. For disadvantage, roll 2d20 and keep the lowest. Additionally, you cannot accrue advantage or disadvantage greater than 1 in such situations. Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances.
+
+These rules apply to both actions performed with an attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus, you cannot multi-target attack if you have an attribute score of zero.
 
 ### Assigning Advantage and Disadvantage
 
-Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Tables provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
+Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Table provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
 
 <div class="table-no-body"></div>
 | Advantage and Disadvantage Examples |
@@ -193,32 +215,11 @@ Advantage and disadvantage can be assigned by the GM due to situational effects,
 | Conducting research in a well-stocked library | Conducting research while sick |
 | Tracking a large group | Tracking a creature smaller than a child |
 
-
-The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed attribute can be expected to succeed at the listed Challenge Rating close to **50%** of the time.
-
-<div class="table-no-body table-centered"></div>
-| Average Challenge Ratings vs. Attribute Scores |
-| - |
-| |
-<div class="table-centered"></div>
-| Attribute Score | Average Challenge Rating |
-| - | - |
-| 0 | 10 |
-| 1 | 12 |
-| 2 | 14 |
-| 3 | 16 |
-| 4 | 18 |
-| 5 | 20 |
-| 6 | 22 |
-| 7 | 24 |
-| 8 | 26 |
-| 9 | 28 |
-
 ## Legend Points
 
 An additional layer of depth to action resolution comes in the form of legend points, which allow players an opportunity to stack the dice when it comes time to perform a particularly legendary action.
 
-Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying (see Chapter 1: Character Creation).
+Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying.
 
 > ### Example of Earning a Legend Point
 >
@@ -244,13 +245,13 @@ For each attribute, we offer examples of actions classified at three levels base
 
 ### Might
 
-Might is the attribute of brute strength and physical power. Your might score represents your ability to actively overpower your foes through sheer muscle.
+Might is the attribute of brute strength and physical power. Your Might score represents your ability to actively overpower your foes and your environment through sheer muscle.
 
 #### Challenging Test of Might (CR 15)
 
 In the midst of combat, a small boulder proves to be a nuisance for maneuvering into tactical positions, so Rogar employs his mighty thews to shove it 10 feet out of the way.
 
-**Success with a twist:** Rogar manages to move the boulder, however, he pulls a muscle and suffers the *slowed* bane.
+**Success with a twist:** Rogar manages to move the boulder. However, he pulls a muscle and suffers the *slowed* bane.
 
 **Failure, but the story progresses:** Rogar is so focused on moving the boulder that he fails to notice the pair of goblins that have now flanked him.
 
@@ -300,11 +301,11 @@ Winston, renowned as the finest archer in the land, has been captured by the gia
 
 ### Fortitude
 
-Fortitude governs your ability to withstand physical punishment. Tests of fortitude include fighting off disease, surviving malnourishment, and marching long stretches without rest.
+Fortitude governs your ability to withstand physical punishment. Tests of Fortitude include fighting off disease, surviving malnourishment, and marching long stretches without rest. In most cases, you'll be making Fortitude rolls at the GM's prompting in response to a situation, rather than actively choosing to make a roll.
 
 #### Challenging Test of Fortitude (CR 15)
 
-Sheriff Bates and his posse of deputies are tracking a pair of bandits through the desert. In an effort to make up for lost time, they attempt to double march despite the blazing heat.
+Sheriff Bates and his posse of deputies are tracking a pair of bandits through the desert. In an effort to make up for lost time, they attempt to double march despite the blazing heat. The GM calls for a Fortitude roll to resist the harsh cruelties of the desert.
 
 **Success with a twist:** Those who fail their roll are able to keep up with the rest of the crew, but they suffer one level of the *fatigued* bane.
 
@@ -312,11 +313,11 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 #### Heroic Test of Fortitude (CR 20)
 
-While traversing the deep reaches of space, Spaz was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness.
+While traversing the deep reaches of space, Spaz was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
 
 **Success with a twist:** Spaz's immune system is too compromised, and the disease persists. However, while Spaz was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare subthermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
-**Failure, but the story progresses:** Spaz cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Spaz will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: Chronos Plague.
+**Failure, but the story progresses:** Spaz cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Spaz will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: *Chronos Plague*.
 
 #### Epic Test of Fortitude (CR 25)
 
@@ -328,15 +329,15 @@ A party of legendary heroes has followed the Shadow Demon Yrrllx to his native h
 
 ### Learning
 
-Learning is the attribute of raw knowledge, memory, and the ability to apply the right facts in the right situation. You make a learning roll whenever you attempt to recall important information, make sense of conflicting details, or assimilate unfamiliar knowledge into your own context. An important note about learning is that it represents both your character's understanding of the knowledge that she is familiar with and also her ability to gain new knowledge quickly. So, a foreigner in a strange land wouldn't be able to recall facts about local history just because she has a high learning score. However, her high learning score would be of use when it comes to quickly assimilating the lore of her new environment.
+Learning is the attribute of raw knowledge, memory, and the ability to apply the right facts in the right situation. You make a Learning roll whenever you attempt to recall important information, make sense of conflicting details, or assimilate unfamiliar knowledge into your own context. An important note about Learning is that it represents both the knowledge that you are familiar with and also your ability to gain new knowledge quickly. So, a foreigner in a strange land wouldn't be able to recall facts about local history just because they have a high Learning score. However, their high Learning score would be of use when it comes to quickly assimilating the lore of the new environment.
 
 #### Challenging Test of Learning (CR 15)
 
-Gregory, student of the arcane arts, is travelling with his companions through the Tomb of Shakara when they come upon an open doorway carved with eldritch runes. Gregory attempts to decipher the runes based on his past studies.
+Gregory, student of the arcane arts, is travelling with his companions through the Tomb of Sharakandra when they come upon an open doorway carved with eldritch runes. Gregory attempts to decipher the runes based on his past studies.
 
 **Success with a twist:** Gregory successfully identifies the runes as a protective ward. However, to do so, he must spend nearly an hour sifting through the tomes of lore that he carries with him.
 
-**Failure, but the story progresses:** While attempting to decipher the runes, Gregory traces his fingers across one of them, immediately activating the trap. He is struck with a bolt of lightning and a loud thunderclap alerts the entire tomb of the interlopers.
+**Failure, but the story progresses:** While attempting to decipher the runes, Gregory traces his fingers across one of them, immediately activating a trap. He is struck with a bolt of lightning and a loud thunderclap alerts the entire tomb of the interlopers.
 
 #### Heroic Test of Learning (CR 20)
 
@@ -356,11 +357,11 @@ Belmont the Bard is attempting to negotiate peace between two gnoll tribes that 
 
 ### Logic
 
-Logic is the mental attribute of deductive reasoning and problem solving. Characters who are skilled in logic might be riddle masters, expert programmers, military geniuses, uncanny sleuths, or ingenious trap smiths. The GM will call for a logic roll when you attempt to decipher a mystery, predict an opponent's behavior, or devise a foolproof plan.
+Logic is the mental attribute of deductive reasoning and problem solving. Characters who are skilled in Logic might be riddle masters, expert programmers, military geniuses, uncanny sleuths, or ingenious trap smiths. The GM will call for a Logic roll when you attempt to decipher a mystery, predict an opponent's behavior, or devise a foolproof plan.
 
 #### Challenging Test of Logic (CR 15)
 
-Commander Zack's sky ship, The Danger,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver The Danger's powerful gatling guns at the bow. Zack takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
+Commander Zack's sky ship, *The Danger*,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver the powerful gatling guns mounted at the bow the *Danger*. Zack takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
 
 **Success with a twist:** Zack's experience pays off, and he is able to issue his crew commands to catch three of the gliders within range of the gatling guns. However, the turn leaves him in vulnerable position to the other three gliders, who receive advantage on their attacks this round.
 
