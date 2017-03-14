@@ -58,12 +58,15 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Soul Siphon | 3 |  | Fatigued 5 |  |
 | Spyglass of Farsight | 4 | Perception 6 |  |  |
 | Transmogrification Ray | 5 |  | Polymorph 6 | Potent, Powerful 1 |
+| Universal Access Implant | 6 | Presence 7 |  | Potent 1, Special |
 | Worker Bot | 5 | Might 3 |  | Autonomous |
 
 
 #### Properties
 
-**Augmenting** - Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the augmenting property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All augmenting items must have the *expendable* property.
+**Augmenting** - Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All *augmenting* items must have the *expendable* property.
+
+**Area** - An item with the area property always makes multi-target area attacks or invocations of the listed size and shape and cannot be used to make non-area attacks. If an item has multiple area sizes, the attacker chooses from them with each attack. Attack and action rolls do not incur any of the disadvantage penalties usually associated with multi-targeting.
 
 If an item has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
@@ -304,7 +307,7 @@ Damage (Energy), Deadly 2, Weapon (Sniper Rifle)
 
 Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special
 
-**Special**: When attack with the plasmablade exceeds the target's defense by 10 or more, the baneful disarming effect severs the target's limb severed completely. They are demoralized (power level 3) for the remainder of the combat and the effect can't be canceled.
+**Special**: When an attack with the plasmablade exceeds the target's defense by 10 or more, the baneful disarming effect severs the target's limb  completely and all damage from the attack is lethal. They are demoralized (power level 3) for the remainder of the combat and the effect can't be canceled.
 
 
 #### Potion of Minor Healing
@@ -379,6 +382,17 @@ Perception 6
 *A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.*
 
 Polymorph 6, Potent, Powerful 1
+
+
+#### Universal Access Implant
+
+**Wealth Level**: 6
+
+*This implant is a coveted tool, gifted by the Intergalactic Alliance to their most trusted agents. For a resourceful user, it unlocks infinite doors. If not for the built-in AI monitoring your every move, it would priceless.*
+
+Persuasion 7, Autonomous
+
+**Special**: The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a Wealth Level of 6 for local purchases. Lastly, the device records every action performed by the user and trasmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.
 
 
 #### Worker Bot

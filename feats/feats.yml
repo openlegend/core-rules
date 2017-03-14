@@ -179,15 +179,16 @@
     <ul>
     <li><strong>Tier 1</strong>
       <ul>
-      <li>Making non-attack action rolls</li>
+      <li>Making non-attack, non-invocation action rolls</li>
       <li>Calculating hit points, defenses, and other secondary statistics</li>
-      <li>Meeting feat, bane, and boon prerequisites</li>
+      <li>Meeting feat prerequisites</li>
       <li>Other situations at the GM's discretion</li>
       </ul>
     </li>
     <li><strong>Tier 2</strong>
       <ul>
       <li>Making attack action rolls</li>
+      <li>Invoking banes and boons</li>
       </ul>
     </ul>
     The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an analytical warrior or martial artist who analyzes angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
@@ -744,22 +745,6 @@
     Whether luck shines upon you or you're just really hard to kill you have a knack for staying in the fight when others would suffer a much worse fate.
   effect: |
     Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
-- !
-  name: Disease Immunity
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Creation: 5
-        - Protection: 5
-  tags:
-  - Non-Combat
-  cost:
-  - 1
-  description: |
-    Your inherent magical protection extends to make you immune to disease.
-  effect: |
-    You are immune to natural disease. This protection does not guard against magical curses such as lycanthropy.
 - !
   name: Energy Resistance (I - IV)
   prerequisites:
@@ -1807,13 +1792,13 @@
       Attribute:
       - Agility: 4
       Feat:
-      - Multi-Attack Specialist
+      - Attack Specialization (Any one-handed weapon)
   tags:
   - Combat
   - Physical
   - Agility
   cost:
-  - 3
+  - 2
   description: |
     Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons.
   effect: |

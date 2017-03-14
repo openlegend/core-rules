@@ -317,6 +317,8 @@ The complex build is a good option when you are creating a very important villai
 
 The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don't have any stats written up for these monsters. In this situation, you could use the simple build rules to get combat rolling quickly.
 
+Use the NPC Simple Build Table to determine the monster's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster's attacks and actions, and then choose as many secondary attributes as you need in order to define the monster's other capabilities.
+
 
 <div class="table-no-body"></div>
 | NPC SIMPLE BUILD |
@@ -337,22 +339,20 @@ The simple build option is useful when you need to come up with statistics on th
 | 10 | 28 - 40 | 19 - 25 | 9 | 7 |
 
 
-Use the NPC Simple Build Table to determine the monster's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster's attacks and actions, and then choose as many secondary attributes as you need in order to define the monster's other capabilities.
-
 Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities:
 
-- **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier.
+- **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
-- **Bane Focus:** Pick a bane. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
+- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
 - **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain the following benefits:
 
 	- **Tier 1:** Gain +5 to your defense against the chosen bane.
 	- **Tier 2:** You are immune to the chosen bane.
 
-- **Superior Bane Focus (available only to GMs):** Pick a bane. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
+- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 
-- **Boon Focus (tier 1 - 3, your choice):** Pick a boon. Gain the following benefits:
+- **Boon Focus (tier 1 - 3, your choice):** Pick a boon you can invoke. Gain the following benefits:
 
     - **Tier 1:** When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
 
@@ -401,7 +401,8 @@ You may use your attacks to make any combination of bane or damaging attacks, bu
 
 - **Resilient:** Any time you roll to Resist, you have advantage 1 on the roll.
 
-- **Superior Concentration (tier 1 - 3, your choice):** Without this feat, only a single boon can be persisted with the Sustain minor action. Purchasing this feat allows you to sustain one additional boon simultaneously without losing focus on the others you are already focusing on. \
+- **Superior Concentration (tier 1 - 3, your choice):** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
+
 **Special:** This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
 
 > #### Example Simple Monster Build: Swamp Snakes
