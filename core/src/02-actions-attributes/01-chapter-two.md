@@ -1,18 +1,16 @@
 # Chapter 2: Actions and Attributes #
 
-The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to
-interpret the results.
+The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to interpret the results.
 
 ## When to Roll the Dice
 
-*Open Legend* is about creating great stories full of epic moments of heroism, and you roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for
-example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to roll a Persuasion check every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
+Open Legend is about creating great stories full of epic moments of heroism, and you will roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to roll a Persuasion check every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
 
-*Open Legend* includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
+Open Legend includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
 
 ## Every Roll Matters
 
-Another important point in *Open Legend* is that every action roll should drive the story in a new direction, for better or worse. A failed roll should not let the story stagnate, nor should a failure be easily negated by a successful roll from another character.
+Another important point in Open Legend is that every action roll should drive the story in a new direction, for better or worse. A failed roll should not let the story stagnate, nor should a failure be easily negated by a successful roll from another character.
 
 If you look back to the Core Mechanic, you can see that a simple failure is not an option:
 
@@ -28,22 +26,21 @@ If you look back to the Core Mechanic, you can see that a simple failure is not 
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | the player succeeds with a twist. <br /> **- OR -** <br /> the player fails, but the story progresses. <br />*(GM's Choice)* |
 
-Here's an example to illustrate how to make every roll matter.
+The following example illustrates how to make every roll matter.
 
 *Pelias Quickenfit, a halfling burglar, is attempting to pick the lock on a door. He rolls an Agility check but gets lower than the challenge rating.*
 
-### What NOT to do
-
-In this case, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In *Open Legend*, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll. Here are two potential outcomes for the roll:
+Here are two potential outcomes for the roll:
 
 *If the GM chooses **success with a twist**, they might rule that Pelias is able to open the lock; however, just as he finishes the job, he begins to hear a faint hissing sound from the door. A poison gas trap! The burglar immediately falls unconscious, and the rest of the party must decide what to do before the gas reaches them in a matter of seconds.*
 
 *If the GM chooses **failure, but the story progresses**, they might rule that although Pelias is unable to get the lock open, he hears footsteps approaching from around the corner accompanied by the familiar jingle of a jailer's keychain. If the party can position themselves quickly enough, they may be able to get the keys without a fight.*
 
-Notice how both of these options allow Pelias's action to drive the story forward just as much as a successful roll would have. In the second example, perhaps the barbarian still ends up bashing the door down with brute force, but at least the story moved on in some way because of the burglar's attempts.
+Notice how both of these options allow Pelias's action to drive the story forward just as much as a successful roll would have.
 
-The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
+### What NOT to do
 
+In the above example, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In Open Legend, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll.  The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
 
 > ### Old Habits Die Hard
 > If you've played other RPGs in the past, you may be tempted to immediately follow another player's failed roll with an action roll of your own.
@@ -63,15 +60,9 @@ The “every roll matters” rule was designed to make player actions meaningful
 
 This is for the sake of simplicity and fun. When a player fails a roll, it's not very fun if something doesn't come out of it. When the GM fails a roll, though, there is usually much rejoicing at the table.
 
-### Group Action Rolls
-
-Sometimes, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures then successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
-
-The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
-
 ## Interpreting Action Rolls
 
-The previous example provides just one method in which a GM might interpret the results of an action roll, but there is a little more to it than that. In this section, you'll get some empowering guidelines to help everyone at the table feel comfortable with the amount of improvisation required for *Open Legend*.
+The previous scenario involving Pelias provides just one method in which a GM might interpret the results of an action roll, but there is a little more to it than that. In this section, you'll get some empowering guidelines to help everyone at the table feel comfortable with the amount of improvisation required for Open Legend.
 
 ### Interpreting Success
 
@@ -101,13 +92,13 @@ The important thing to realize is that a success with a twist is still a success
 
 ### Interpreting Failure, but the Story Progresses
 
-In *Open Legend*, a failure is never just a failure, it's always an important element in the story, hence the rule that “the story progresses”.
+In Open Legend, a failure is never just a failure. It's always an important element in the story, hence the wording that “the story progresses”.
 
 Progress, though, can mean a lot of things. When the GM selects this option, the following interpretations should give you some idea of how the story can progress in spite of failure.
 
 **The player finds an opportunity for success.** Even though your magic fails to dispel the curse afflicting your ally, you discover during later study that a rare herb growing in a nearby forest would give you the power you require.
 
-**The danger snowballs.** You fail to jump a chasm while fleeing a band of cannibals. You fall along the cliffside, taking some damage. When you gather your senses, you realize that you aren't only separated from the rest of your party, but you've also fallen into the nest of a Roc.
+**The danger snowballs.** You fail to jump a chasm while fleeing a band of cannibals and fall along the cliffside, taking some damage. When you gather your senses, you realize that you aren't only separated from the rest of your party, but you've also fallen into the nest of a Roc.
 
 **The information is false.** You think you've got a good read on the mayor during your negotiations. It seems like she's completely in favor of your plan to negotiate an alliance among the neighboring survivor settlements. When you set out the next day, however, it turns out you were wrong, and the guards the mayor sent to ensure your safe passage turn out to be your assassins.
 
@@ -132,72 +123,7 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren't
 | Epic | 25 | translate a text in an alien language, break down an iron door |
 | Legendary | 30 | leap a 25' chasm, climb a flat surface, befriend an enemy with a vendetta against you |
 
-It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth.
-
-### Contested Actions
-
-Sometimes, two or more characters are directly opposing each other in a test of strength, wits, or charm. For example, a mighty barbarian wrestles with a minotaur to get hold of a magical gem. Or three representatives of different star systems attempt to persuade the warleader of the intergalactic reavers to join their forces. Or a stealthy ninja attempts to sneak unseen past the watch of the monks on guard. These sorts of situations are called **contested actions**.
-
-To resolve such contests, each character involved makes an action roll using an appropriate attribute. Whoever rolls the highest succeeds at the action. Sometimes, all parties use the same attribute for their action rolls, but often, each character will use a different attribute, as in the case of the rogue attempting to sneak (Agility) past the guard's watch (Perception).
-
-> #### Example Contested Action
->
-> As the Unnamed Necromancer attempts to open a portal to release a shade demon upon the land, Uldric the Protector attempts to exert every ounce of his magical will to close the portal. The GM calls for a contested action between the two. The Necromancer makes an Entropy roll and gets a 25, while Uldric gets a 20 on his Protection roll. Unfortunately for the rest of the world, the demon has been unleashed.
-
-## Advantage and Disadvantage
-
-Sometimes, you will attempt an action under circumstances that give you a significant upper hand, such as when attacking an enemy from behind. Other times, you'll be working against exceptional hindrances, such as when trying to climb a rope that an enemy has covered in grease. In these types of cases, instead of adjusting the Challenge Rating of the task, the GM should assign your roll either **advantage** or **disadvantage**.
-
-Advantage and disadvantage are always expressed with a numeric level, such as “advantage 1” or “disadvantage 3”. Multiple instances of advantage and disadvantage can add together, so if you have advantage 1 on an attack because you are flanking a foe, and you also possess a feat that grants you advantage 1, you have a total of advantage 2.
-
-If a situation arises in which you are assigned both advantage and disadvantage, find the difference between the two values to determine your final outcome. For example, if you have advantage 1 and disadvantage 1, they negate each other and thus your action roll is normal. If you have advantage 1 and disadvantage 2, your action roll would be made with disadvantage 1.
-
-### Effects of Advantage and Disadvantage
-
-When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
-
-> #### Example of Advantage
->
-> Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. After rolling, but before calculating her total, she removes the lowest rolling d10.
-
-Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
-
-> #### Example of Disadvantage
->
-> Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two highest rolling d6s.
-
-### Advantage and Disadvantage Are Only Applied BEFORE Explosions
-
-Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
-
-> #### Example of Advantage with Exploding Dice
-> Imagine you have attribute score 3 and are rolling with advantage 2, you would roll 1d20 + 3d8 and keep the single highest of the d8s before rolling any exploding dice. Imagine your d20 rolls a 10 and your d8s land on 8, 8, and 3. You would then keep one of the 8s and discard the other two dice. Because the 8 rolled max, you may roll it again and add the result to your total. Imagine that lands on a 5. Your total score is 23 (10 + 8 + 5).
-
-### Advantage and Disadvantage Without Attribute Dice
-
-When attempting any roll that does not include attribute dice, you roll 2 d20 and keep the higher die for advantage or the lower die for disadvantage, you cannot accrue advantage or disadvantage greater than 1. This applies to both actions performed with attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances. In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus you cannot multi-target attack if you have an attribute score of zero.
-
-### Assigning Advantage and Disadvantage
-
-Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Tables provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
-
-<div class="table-no-body"></div>
-| Advantage and Disadvantage Examples |
-| - |
-| |
-
-| Situations Meriting Advantage | Situations Meriting Disadvantage |
-| :- | :- |
-| Attacking a surprised or unaware foe | Attacking while balancing on a beam |
-| Attacking a foe during an acrobatic stunt | Attacking in a confined space |
-| Attacking a flanked foe | Attacking while prone |
-| Negotiating with someone you have leverage over | Negotiating with someone who has leverage over you |
-| Expending a valuable arcane focus when casting a spell | Casting a spell in the midst of a heavy storm |
-| Conducting research in a well-stocked library | Conducting research while sick |
-| Tracking a large group | Tracking a creature smaller than a child |
-
-
-The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed attribute can be expected to succeed at the listed Challenge Rating close to **50%** of the time.
+It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth. However, it may be helpful when creating scenarios for GMs to understand the typical capabilities of a character based on their attribute score. The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed score can be expected to succeed at the listed Challenge Rating about **50%** of the time.
 
 <div class="table-no-body table-centered"></div>
 | Average Challenge Ratings vs. Attribute Scores |
@@ -216,12 +142,84 @@ The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings
 | 7 | 24 |
 | 8 | 26 |
 | 9 | 28 |
+| 10 | 30 |
+
+### Contested Actions
+
+Sometimes, two or more characters are directly opposing each other in a test of strength, wits, or charm. For example, a mighty barbarian wrestles with a minotaur to get hold of a magical gem. Or three representatives of different star systems attempt to persuade the warleader of the intergalactic reavers to join their forces. Or a stealthy ninja attempts to sneak unseen past the watch of the monks on guard. These sorts of situations are called **contested actions**.
+
+To resolve such contests, each character involved makes an action roll using an appropriate attribute. Whoever rolls the highest succeeds at the action. Sometimes, all parties use the same attribute for their action rolls, but often, each character will use a different attribute, as in the case of the rogue attempting to sneak (Agility) past the guard's watch (Perception).
+
+> #### Example Contested Action
+>
+> As the Unnamed Necromancer attempts to open a portal to release a shade demon upon the land, Uldric the Protector attempts to exert every ounce of his magical will to close the portal. The GM calls for a contested action between the two. The Necromancer makes an Entropy roll and gets a 25, while Uldric gets a 20 on his Protection roll. Unfortunately for the rest of the world, the demon has been unleashed.
+
+### Group Action Rolls
+
+In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures then successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
+
+The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
+
+## Advantage and Disadvantage
+
+Sometimes, you will attempt an action under circumstances that give you a significant upper hand, such as when attacking an enemy from behind. Other times, you'll be working against exceptional hindrances, such as when trying to climb a rope that an enemy has covered in grease. In these types of cases, instead of adjusting the Challenge Rating of the task, the GM should assign your roll either **advantage** or **disadvantage**.
+
+Advantage and disadvantage are always expressed with a numeric level, such as “advantage 1” or “disadvantage 3”. Multiple instances of advantage and disadvantage can add together, so if you have advantage 1 on an attack because you are flanking a foe, and you also possess a feat that grants you advantage 1, you have a total of advantage 2.
+
+If a situation arises in which you are assigned both advantage and disadvantage, find the difference between the two values to determine your final outcome. For example, if you have advantage 1 and disadvantage 1, they negate each other and thus your action roll is normal. If you have advantage 1 and disadvantage 2, your action roll would be made with disadvantage 1.
+
+### Effects of Advantage and Disadvantage
+
+When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
+
+> #### Example of Advantage
+>
+> Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. The d20 rolls a 16 and the 4d10 roll 3, 5, 7, and 9. She removes the lowest d10 before calculating her total, leaving her with a final roll of 16 + 5 + 7 + 9 = 37.
+
+Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
+
+> #### Example of Disadvantage
+>
+> Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two *highest* rolling d6s.
+
+### Advantage and Disadvantage Are Only Applied BEFORE Explosions
+
+Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
+
+> #### Example of Advantage with Exploding Dice
+> 
+> Tommy "Two Guns" unloads his pistols on an enemy gangster. His Agility is 3 and he has advantage 2 on the roll, so he rolls 1d20 + 3d8. Tommy's d20 rolls a 10 and the d8s land 8, 8, and 3. Because of his advantage 2, Tommy ignores the lowest two dice: the 3 and one of the 8s. He re-rolls the remaining 8 because dice explode on their maximum result and gets a 5. His final roll is 23 (10 + 8 + 5).
+
+### Advantage and Disadvantage Without Attribute Dice
+
+When making an action roll without addribute dice, advantage and disadvantage affect the d20. For advantage, roll 2d20 and keep the highest. For disadvantage, roll 2d20 and keep the lowest. Additionally, you cannot accrue advantage or disadvantage greater than 1 in such situations. Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances.
+
+These rules apply to both actions performed with an attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus, you cannot multi-target attack if you have an attribute score of zero.
+
+### Assigning Advantage and Disadvantage
+
+Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Table provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
+
+<div class="table-no-body"></div>
+| Advantage and Disadvantage Examples |
+| - |
+| |
+
+| Situations Meriting Advantage | Situations Meriting Disadvantage |
+| :- | :- |
+| Attacking a surprised or unaware foe | Attacking while balancing on a beam |
+| Attacking a foe during an acrobatic stunt | Attacking in a confined space |
+| Attacking a flanked foe | Attacking while prone |
+| Negotiating with someone you have leverage over | Negotiating with someone who has leverage over you |
+| Expending a valuable arcane focus when casting a spell | Casting a spell in the midst of a heavy storm |
+| Conducting research in a well-stocked library | Conducting research while sick |
+| Tracking a large group | Tracking a creature smaller than a child |
 
 ## Legend Points
 
 An additional layer of depth to action resolution comes in the form of legend points, which allow players an opportunity to stack the dice when it comes time to perform a particularly legendary action.
 
-Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying (see Chapter 1: Character Creation).
+Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying.
 
 > ### Example of Earning a Legend Point
 >
@@ -247,13 +245,13 @@ For each attribute, we offer examples of actions classified at three levels base
 
 ### Might
 
-Might is the attribute of brute strength and physical power. Your might score represents your ability to actively overpower your foes through sheer muscle.
+Might is the attribute of brute strength and physical power. Your Might score represents your ability to actively overpower your foes and your environment through sheer muscle.
 
 #### Challenging Test of Might (CR 15)
 
 In the midst of combat, a small boulder proves to be a nuisance for maneuvering into tactical positions, so Rogar employs his mighty thews to shove it 10 feet out of the way.
 
-**Success with a twist:** Rogar manages to move the boulder, however, he pulls a muscle and suffers the *slowed* bane.
+**Success with a twist:** Rogar manages to move the boulder. However, he pulls a muscle and suffers the *slowed* bane.
 
 **Failure, but the story progresses:** Rogar is so focused on moving the boulder that he fails to notice the pair of goblins that have now flanked him.
 
@@ -303,11 +301,11 @@ Winston, renowned as the finest archer in the land, has been captured by the gia
 
 ### Fortitude
 
-Fortitude governs your ability to withstand physical punishment. Tests of fortitude include fighting off disease, surviving malnourishment, and marching long stretches without rest.
+Fortitude governs your ability to withstand physical punishment. Tests of Fortitude include fighting off disease, surviving malnourishment, and marching long stretches without rest. In most cases, you'll be making Fortitude rolls at the GM's prompting in response to a situation, rather than actively choosing to make a roll.
 
 #### Challenging Test of Fortitude (CR 15)
 
-Sheriff Bates and his posse of deputies are tracking a pair of bandits through the desert. In an effort to make up for lost time, they attempt to double march despite the blazing heat.
+Sheriff Bates and his posse of deputies are tracking a pair of bandits through the desert. In an effort to make up for lost time, they attempt to double march despite the blazing heat. The GM calls for a Fortitude roll to resist the harsh cruelties of the desert.
 
 **Success with a twist:** Those who fail their roll are able to keep up with the rest of the crew, but they suffer one level of the *fatigued* bane.
 
@@ -315,11 +313,11 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 #### Heroic Test of Fortitude (CR 20)
 
-While traversing the deep reaches of space, Spaz was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness.
+While traversing the deep reaches of space, Spaz was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
 
 **Success with a twist:** Spaz's immune system is too compromised, and the disease persists. However, while Spaz was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare subthermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
-**Failure, but the story progresses:** Spaz cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Spaz will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: Chronos Plague.
+**Failure, but the story progresses:** Spaz cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Spaz will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: *Chronos Plague*.
 
 #### Epic Test of Fortitude (CR 25)
 
@@ -331,15 +329,15 @@ A party of legendary heroes has followed the Shadow Demon Yrrllx to his native h
 
 ### Learning
 
-Learning is the attribute of raw knowledge, memory, and the ability to apply the right facts in the right situation. You make a learning roll whenever you attempt to recall important information, make sense of conflicting details, or assimilate unfamiliar knowledge into your own context. An important note about learning is that it represents both your character's understanding of the knowledge that she is familiar with and also her ability to gain new knowledge quickly. So, a foreigner in a strange land wouldn't be able to recall facts about local history just because she has a high learning score. However, her high learning score would be of use when it comes to quickly assimilating the lore of her new environment.
+Learning is the attribute of raw knowledge, memory, and the ability to apply the right facts in the right situation. You make a Learning roll whenever you attempt to recall important information, make sense of conflicting details, or assimilate unfamiliar knowledge into your own context. An important note about Learning is that it represents both the knowledge that you are familiar with and also your ability to gain new knowledge quickly. So, a foreigner in a strange land wouldn't be able to recall facts about local history just because they have a high Learning score. However, their high Learning score would be of use when it comes to quickly assimilating the lore of the new environment.
 
 #### Challenging Test of Learning (CR 15)
 
-Gregory, student of the arcane arts, is travelling with his companions through the Tomb of Shakara when they come upon an open doorway carved with eldritch runes. Gregory attempts to decipher the runes based on his past studies.
+Gregory, student of the arcane arts, is travelling with his companions through the Tomb of Sharakandra when they come upon an open doorway carved with eldritch runes. Gregory attempts to decipher the runes based on his past studies.
 
 **Success with a twist:** Gregory successfully identifies the runes as a protective ward. However, to do so, he must spend nearly an hour sifting through the tomes of lore that he carries with him.
 
-**Failure, but the story progresses:** While attempting to decipher the runes, Gregory traces his fingers across one of them, immediately activating the trap. He is struck with a bolt of lightning and a loud thunderclap alerts the entire tomb of the interlopers.
+**Failure, but the story progresses:** While attempting to decipher the runes, Gregory traces his fingers across one of them, immediately activating a trap. He is struck with a bolt of lightning and a loud thunderclap alerts the entire tomb of the interlopers.
 
 #### Heroic Test of Learning (CR 20)
 
@@ -359,11 +357,11 @@ Belmont the Bard is attempting to negotiate peace between two gnoll tribes that 
 
 ### Logic
 
-Logic is the mental attribute of deductive reasoning and problem solving. Characters who are skilled in logic might be riddle masters, expert programmers, military geniuses, uncanny sleuths, or ingenious trap smiths. The GM will call for a logic roll when you attempt to decipher a mystery, predict an opponent's behavior, or devise a foolproof plan.
+Logic is the mental attribute of deductive reasoning and problem solving. Characters who are skilled in Logic might be riddle masters, expert programmers, military geniuses, uncanny sleuths, or ingenious trap smiths. The GM will call for a Logic roll when you attempt to decipher a mystery, predict an opponent's behavior, or devise a foolproof plan.
 
 #### Challenging Test of Logic (CR 15)
 
-Commander Zack's sky ship, The Danger,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver The Danger's powerful gatling guns at the bow. Zack takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
+Commander Zack's sky ship, *The Danger*,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver the powerful gatling guns mounted at the bow the *Danger*. Zack takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
 
 **Success with a twist:** Zack's experience pays off, and he is able to issue his crew commands to catch three of the gliders within range of the gatling guns. However, the turn leaves him in vulnerable position to the other three gliders, who receive advantage on their attacks this round.
 
