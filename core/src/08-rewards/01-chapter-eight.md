@@ -59,7 +59,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Spyglass of Farsight | 4 | Perception 6 |  |  |
 | Transmogrification Ray | 5 |  | Polymorph 6 | Potent, Powerful 1 |
 | Universal Access Implant | 6 | Presence 7 |  | Potent 1, Special |
-| Worker Bot | 5 | Might 3 |  | Autonomous |
+| Worker Bot | 4 | Might 3 |  | Autonomous |
 
 
 #### Properties
@@ -414,7 +414,7 @@ Extraordinary items are defined as items that have at least one of the following
 
 Each attribute, bane, and boon increases the Wealth Level of the item according to the following tables.
 
-| Attribute Score | Bane / Boon WL |  Attribte WL |
+| Score | Bane / Boon WL |  Attribte WL |
 | :-: | :-: | :-: |
 | 1 -3 | 1 | 2 |
 | 4 - 5 | 2 | 3 |
