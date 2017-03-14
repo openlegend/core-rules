@@ -8,8 +8,6 @@ During your adventurers, the GM will award you Experience Points (or XP) for acc
 
 ## Reading a Feat Description
 
-The full listing of feats is available in a searchable list [here](http://www.openlegendrpg.com/feats).
-
 Each feat description includes the following elements.
 
 **Title.** The name of the feat. Some feats contain multiple tiers, rising in power with each new tier. If a feat contains multiple tiers, these will be indicated in parentheses after the title (e.g., “Alternate Form (I - II)” ).
