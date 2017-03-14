@@ -8,17 +8,6 @@ Rather than tracking every gold piece, credit, or fine art object that you acqui
 
 Every character has a Wealth Score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each Wealth Score.
 
-### Acquiring Goods and Services
-When you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines whether you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
-
-If the good you want to purchase has a level lower than your Wealth Score, you can acquire the item easily without taxing your time and resources.
-
-If the item's level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
-
-If the object of your purchase is **one level higher than** your Wealth Score and your Wealth Score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
-
-You cannot make purchases that are more than one level higher than your Wealth Score.
-
 <div class="table-no-body"></div>
 | Wealth Overview |
 | - |
@@ -37,19 +26,31 @@ You cannot make purchases that are more than one level higher than your Wealth S
 | 8 | intergalactic ruler, 10th level hero | a sprawling estate, a large corporate buyout, an army of 10,000 |
 | 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
+### Acquiring Goods and Services
+Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines if you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
+
+If the good you want to purchase has a level **lower than** your Wealth Score, you can acquire the item easily without taxing your time and resources.
+
+If the item's level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
+
+If the object of your purchase is **one level higher than** your Wealth Score and your Wealth Score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
+
+You cannot make purchases that are more than one level higher than your Wealth Score.
+
 > #### Examples of Acquiring Goods and Services
 >
-> Thanks to a recently successful salvage run, Shara's wealth just increased to 4. She's had her eyes set on a new cargo ship for a while now, which the GM has set at wealth level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her with a wealth score of 3.
+> Thanks to a recently successful salvage run, Shara's Wealth Score just increased to 4. She's had her eyes set on a new cargo ship for a while now, which the GM has set at Wealth Level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a Wealth Score of 3.
 >
 > * * * * *
 >
-> Slade, master of the local thieves' guild, has a wealth score of 5. He wants to outfit all of his men with new weapons, which the GM has decided requires wealth level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his wealth score.
+> Slade, master of the local thieves' guild, has a Wealth Score of 5. He wants to outfit all of his men with new weapons, which the GM has decided equates to Wealth Level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his Wealth Score.
 >
 > * * * * *
 >
-> Crazy Mac has panhandled his way up to a wealth score of 1. From now on, he can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
+> Crazy Mac has panhandled his way up to a Wealth Score of 1. From now on, he can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
 
-**The Rule of Common Sense**. Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
+#### The Rule of Common Sense
+Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
 ### Gaining Wealth
 
@@ -59,7 +60,7 @@ Typical situations of when the GM would grant you an increase in your Wealth Sco
 
 ## Carrying Capacity
 
-*Open Legend* is about rolling dice, telling epic stories, and having a good time. So the rules for determining how much you can carry are purposefully simplified so that you and your friends can spend your time on what matters: the game.
+Open Legend is about rolling dice, telling epic stories, and having a good time. So the rules for determining how much you can carry are purposefully simplified so that you and your friends can spend your time on what matters: the game.
 
 ### Twenty Items Max
 
@@ -74,7 +75,6 @@ Some items have the *heavy* property. You can carry a number of *heavy* items eq
 ### One (Maybe Two) *Bulky* Items
 
 Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5'.
-
 
 > #### Tech Levels
 > \
