@@ -195,19 +195,21 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 ## Armor
 
-Armor provides a bonus to your Guard defense, thus reducing or negating the damage that you would suffer from many types of attacks.
-
-Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to your Guard defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
+The armor table details various types of protection that you might equip in order to keep yourself from harm. Like the Weapons and Implements table, it features examples from a variety of genres that can easily be adapted to fit your campaign. Armor provides a bonus to your Guard defense, thus reducing or negating the damage that you would suffer from many types of attacks.
 
 The Armor table summarizes the following properties of each type of armor:
+
+**Examples** list several suits of armor that are mechanically equivalent and logically grouped together.
+
+**Type** indicates whether the armor is light, medium, or heavy. Generally, light armor provides a defense bonus of +1, medium of +2, and heavy of +3.
+
+**Wealth Level** is an indication of how expensive the armor is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
 **Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the appropriate Fortitude score, a character cannot benefit from the protection afforded by the armor.
 
 **Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
-
-Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night's rest.
 
 <div class="table-no-body"></div>
 | Armor |
@@ -225,10 +227,13 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 \
 \
 
+### Getting in and out of Your Armor
+
+Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night's rest.
 
 ## Building Your Own Weapons
 
-Open Legend is all about freeform creativity, so we've given you lots of examples with the Weapons table, but the list is by no means exhaustive. If you want to build your own custom weapon, follow the steps below
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default Wealth Level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
@@ -238,16 +243,19 @@ Typically a weapon belongs to one category, however some weapons, such as a dagg
 
 Every weapon must have either the *Forceful* or *Precise* property and some weapons have both. Choose one or both.
 
-Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon. The Wealth Level of all weapons begins at 1.
+Next, choose any additional properties that the weapon possesses. Properties adjust the Wealth Level according to the following table.
 
-The *Defensive* property increases the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
-
-The *Area* property increases the Wealth Level of the item by 1 per 5' of area, this increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3.
-
-The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
-
-The *Expendable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
-
+| Property | WL Modifier |
+| :-: | :-: |
+| Area | +1 per 5' of area. This increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3 |
+| Defensive | Equal to the *defensive* value |
+| Delayed Ready | -1 |
+| Expendable | -1 |
+| Heavy | 0 |
+| Reach | +1 |
+| Slow | -1 |
+| Stationary | -1 |
+| Swift | +1 |
 
 ### Step 3: Choose Banes
 
@@ -257,17 +265,21 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 All weapons (with the exception of unarmed strike), begin with a base Wealth Level of 1. From there, calculate the Wealth Level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
-#### Weapon Building Example: Kusari-Gama (Chain & Sickle)
-
-Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
-
-**Step 1 (Choose a Category)** - While the kusari-gama, might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the  **One-handed Melee** and **Close Ranged** properties.
-
-**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
-
-**Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
-
-**Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
+> #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
+> 
+> Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
+> 
+> **Step 1 (Choose a Category)**
+> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the **One-handed Melee** and **Close Ranged** properties.
+> 
+> **Step 2 (Choose Properties)**
+> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
+> 
+> **Step 3 (Choose Banes)**
+> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, and **Provoked**.
+>
+> **Step 4 (Calculate Wealth Level)**
+> The total Wealth Level modifier of the properties chosen in step 2 is +1. Added to the base Wealth Level of 1, we arrive at a final Wealth Level of 2 for our kusari-gama.
 
 
 
