@@ -430,7 +430,7 @@ Choose any additional properties that the item might have. Properties apply a we
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the disadvantage of the area minus 1. (e.g., 10' cube = +1 WL, 15' cube = +2 WL). Cannot result in a negative WL modifier |
+| Area | +1 per 5' of area. This increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3 |
 | Armor | Must be acquired or crafted first |
 | Augmenting | +1 |
 | Autonomous | +2 |
