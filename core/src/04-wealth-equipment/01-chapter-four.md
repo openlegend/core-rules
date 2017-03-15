@@ -76,40 +76,22 @@ Some items have the *heavy* property. You can carry a number of *heavy* items eq
 
 Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5'.
 
-> #### Tech Levels
-> \
-> Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make: \
-> \
-> TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age \
-> TL 1 - Modern Age \
-> TL 2 - Near Future (mechs, cyborgs, laser weapons) \
-> TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology) \
-> \
-> When planning a campaign, the GM can specify which tech level (or levels) the campaign will use. For example, a typical sword and sorcery campaign would be set at tech level 0, while a steampunk campaign would probably use a good mix of tech levels 0 and 1.
-> \
-> \
-> **Mixing Tech Levels** \
-> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
-
-
 ## Weapons & Implements
 
-In this section you will find the tools needed to pick weapons and armor that your character will use in battle. The first half is a simplified weapon and armor creation table that can help to guide you to the right choice that makes the most sense for your Character. The second half is a more complex area for making more specific weapons.
+The Weapons & Implements table provides information about a wide variety of gear that you will use in combat. It features examples from a wide variety of genres and settings, and you can easily adapt existing weapons to your campaign simply by changing the name and keeping the mechanical statistics. For example, a flamethrower can just as easily become an alchemical acid spitter.
 
-*Open Legend does not insist that every weapon be equal in terms of the mechanical benefits in using it, thus some weapons will be seen more often, since they offer more advantages to the wielder than other weapons.*
+**Examples** list one or more weapons or implements that are mechanically equivalent. It is not an exhaustive list by any means, but simply something to get your brain working. Feel free to discuss with your GM about other items that would make sense.
 
-**Examples** are a few weapons or armor that could reflect this category. It is not an exhaustive list by any means, but simply something to get your brain working. Feel free to discuss with your GM about other items that would make sense.
-
-**Category** is the general group that the weapon falls into. Some weapons may fall into multiple categories. If a weapon falls into multiple categories, for each attack, the wielder must choose the mode being used and the attack gains the benefits of that category. For example a dagger is both “Close Ranged” and “One-handed Melee”. On each attack, the wielder chooses the mode.
+**Category** is the general group that the weapon falls into. Some weapons may fall into multiple categories. If a weapon falls into multiple categories, for each attack, the wielder must choose the mode being used and the attack gains the benefits of that category. For example, a dagger is both “Close Ranged” and “One-handed Melee”. On each attack, the wielder chooses the mode.
 
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target's defense. If both weapons you are wielding have passive benefits such as the Defensive property, your benefit is the best of the two but does not stack.
-    * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attackse. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
+    * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
-* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you. A weapon like a rocket launcher should be handled as one-time use, expendable extraordinary item.
+* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you.
     * **Range Increments**
 
         * **Close Ranged** - Range increment of 25'.
@@ -120,7 +102,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
     * **Close** and **Short** Ranged weapons are built to be compact and effective in close quarters, so they are less bulky. They can be wielded with a single hand, allowing the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
     * **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
-    * **Extreme** Ranged weapons are built for distance and given their specialized calibration, cannot be used to attack a target closer than 50'.
+    * **Extreme** Ranged weapons are specially built for distance and cannot be used to attack a target closer than 50'.
 
 **WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
@@ -164,16 +146,17 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Small Shield | One-handed Melee | 2 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 3 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
-
-
+> ### Weapons and Game Balance
+>
+> Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a short sword over a long sword, mechanically speaking, because they are identical except that a long sword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a short sword over a long sword. A newly formed thieves guild, for example, might not have the resources to equip everyone with long swords, so their low-level agents might be equipped with short swords.
 
 ### Properties
 
 **Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
-**Expendable** - An expendable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
+**Expendable** - An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of its Defensive value. This bonus does not stack with multiple Defensive weapons.
+**Defensive** - A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -181,16 +164,30 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Heavy** - The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
-**Precise** - This weapon can be used to make attacks with the Agility attribute  and invoke banes accessible via Agility.
+**Precise** - This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.
 
-**Reach** - The weapon can be used to attack enemies 10' away.
+**Reach** - This weapon can be used to attack enemies 10' away.
 
-**Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+**Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is still applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
-**Stationary** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30'.
+**Stationary** - The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.
 
-**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you still get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
+> #### Tech Levels
+> \
+> Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make: \
+> \
+> TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age \
+> TL 1 - Modern Age \
+> TL 2 - Near Future (mechs, cyborgs, laser weapons) \
+> TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology) \
+> \
+> When planning a campaign, the GM can specify which tech level (or levels) the campaign will use. For example, a typical sword and sorcery campaign would be set at tech level 0, while a steampunk campaign would probably use a good mix of tech levels 0 and 1.
+> \
+> \
+> **Mixing Tech Levels** \
+> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
 
 \
 \
