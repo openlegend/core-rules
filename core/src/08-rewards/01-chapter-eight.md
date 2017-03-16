@@ -105,7 +105,9 @@ If an item has multiple area sizes, the attacker chooses from them with each att
 
 
 **Wealth Level:** 2
+
 *Crafted of an ultra-durable leather to ensure they support the wearer's weight, these boots have bioengineered nanofiber soles that adhere flawlessly to any surface they touch, until deactivated.*
+
 **Special**: These boots enable their wearer to automatically succeed at all climbing checks, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
 
 
@@ -114,6 +116,7 @@ If an item has multiple area sizes, the attacker chooses from them with each att
 **Wealth Level**: 4
 
 *These magical glyphs are usually created to guard items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered is met.*
+
 **Special**: Once activated and affixed to a surface, an Aegis of Warding cannot be moved. A successful removal destroys it in the process. In addition, all damage dealt by the Aegis is lethal damage.
 
 
@@ -122,6 +125,7 @@ If an item has multiple area sizes, the attacker chooses from them with each att
 **Wealth Level**: 4
 
 *Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with adrenaline.*
+
 Heal 3, Persistent (Heal)
 
 
@@ -130,6 +134,7 @@ Heal 3, Persistent (Heal)
 **Wealth Level**: 6
 
 *Of those who dabble in such dark secrets, no poison is more feared than that extracted from the petals of the black lotus.*
+
 Death 9, Potent, Expendable, Augmenting
 
 
@@ -138,6 +143,7 @@ Death 9, Potent, Expendable, Augmenting
 **Wealth Level**: 3
 
 *With just a drop in an unattended goblet or a liberal dose on the edge of a blade, this poison renders its target completely immobile and incapable of escape.*
+
 Expendable, Immobile 5, Augmenting
 
 
@@ -146,7 +152,9 @@ Expendable, Immobile 5, Augmenting
 **Wealth Level**: 5
 
 *Bound in a black substance harvested from the demiplane of shadow, this ancient tome contains secret words that allow one to manipulate the darkness, and even summon shadowy creatures from otherworldly planes of existence.*
+
 Darkness 5, Summon Creature 5, Blinded 5
+
 **Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of Power Level 5 or above, they must make a Will check of CR 15 or suffer one level of the fatigued bane.
 
 
@@ -155,6 +163,7 @@ Darkness 5, Summon Creature 5, Blinded 5
 **Wealth Level**: 3
 
 *With its smooth and ornately carved ivory handle, this marvel of frontier ingenuity is the only protection a gunfighter needs.*
+
 Deadly 1, Potent, Weapon (Revolver)
 
 
@@ -163,7 +172,9 @@ Deadly 1, Potent, Weapon (Revolver)
 **Wealth Level**: 3
 
 *A mechanical apparatus of metal plates, leather straps, and buckles, this device has a cone-shaped metal protrusion that goes into the subject's ear and flares out like a phonograph. Once secured, the subject's darkest secrets are thence played like a classic tune from a vinyl record.*
+
 Mind Dredge 6
+
 **Special**: This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the Mind Dredge attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the Immobile bane until the first bane ceases.
 
 
@@ -267,6 +278,7 @@ Deafened 5, Might 5, Area 30' cone
 **Wealth Level**: 4
 
 *A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.*
+
 Flight 6
 
 

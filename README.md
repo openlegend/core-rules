@@ -13,6 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 03 / 15
+-   `Genesis` added a new feat for creating short-lived matter that deteriorates / decomposes after 1 hour
 -   `Marksman` feat modified to confer a single range increment bonus rather than a flat 25'.
 -   `Hunter's Foe` feat name changed to `Sworn Enemy` for better genre diversity
 -   `Multi-Target Boon Expert` (reversed change) feat prerequisite is now from Multi-Target Boon Specialist II
