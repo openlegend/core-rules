@@ -253,14 +253,13 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 
 #### Invoke a Boon
 
-You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the
-[*boon descriptions*](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
+You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the [boon descriptions](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
 
-1. Choose your target. Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options.
+1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options.
 
-1. Roll to invoke. Make an action roll using the appropriate attribute, as determined by the [*boon descriptions*](http://www.openlegendrpg.com/boons).
+1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](http://www.openlegendrpg.com/boons).
 
-1. Determine power level. Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
+1. **Determine power level.** Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
 
 
 <div class="table-no-body"></div>
@@ -275,11 +274,11 @@ You can invoke boons in order to aid yourself or allies. In order to invoke a bo
 
 > ##### Example Boon Invocations
 >
-> Jade attempts to activate her reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *Invisible* is Power Level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
+> Jade attempts to activate her reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *invisible* is Power Level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
 >
 > * * * * *
 >
-> Stitch is attempting to close an ally's wounds by invoking the *Heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description.
+> Stitch is attempting to close an ally's wounds by invoking the *heal* boon. His Learning attribute is 5, so he rolls 1d20 + 2d6 and gets a total of 24. According to the Boon Challenge Rating table, Stitch rolled high enough to invoke the boon at power level 7. However, because his Learning attribute is 5, he can only invoke *heal* at power level 5, allowing him to heal his ally 2d6 hit points according to the boon description.
 
 #### Assist an Ally
 
@@ -316,7 +315,7 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 #### Resist Banes
 
-Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed. This roll is not considered an action roll, and thus is not affected by advantage or disadvantage.
+Instead of using your move action to maneuver, you may focus your energy on shaking off the negative effects of any banes currently afflicting you. For each bane affecting you, roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed.
 
 Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you to fail resist.
 
@@ -328,19 +327,19 @@ Many banes will persist for a longer duration after three failed resist attempts
 
 Minor actions are tasks that don't require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
+-   Make an opportunity attack
+-   Sustain a boon
 -   Draw or sheathe a weapon
 -   Retrieve an item stored on your person
--   Sustain a boon
 -   Make a Perception roll to observe your surroundings
 -   Make a Learning roll to recall useful information
 -   Open a door, chest, drawer, etc.
--   Make an opportunity attack
 
-#### Opportunity Attacks
+#### Make an Opportunity Attack
 
 An opportunity attack is a special kind of minor action because it does not take place during your turn. If you are wielding a melee weapon, and an enemy moves from a space within your reach to a space that is not within your reach, you may make a free attack against the enemy. (Note that, as a minor action, you may only make one opportunity attack per round).
 
-Only voluntary movement made on the moving character's turn trigger opportunity attacks. Movement caused by a foe's *forced move* bane or an ally's *telekinesis* boon, for example, do not trigger opportunity attacks.
+Only voluntary movement made on the moving character's turn trigger opportunity attacks. Movement caused by a foe's *forced move* bane or an ally's *telekinesis* boon, for example, does not trigger opportunity attacks.
 
 > ##### Opportunity Attack Examples
 >
@@ -354,9 +353,9 @@ Only voluntary movement made on the moving character's turn trigger opportunity 
 >
 > Sergeant Rage is wielding a shotgun. A ratman dashes up to him, attacks with a dagger, and then dashes away. Because Sarge doesn't have a melee weapon equipped, he does not get an opportunity attack against the ratman.
 
-#### Sustaining Boons
+#### Sustain a Boon
 
-Many boons have a default duration of *sustain persists*, which means that every time a character uses the **sustain** action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action.
+Many boons have a default duration of *sustain persists*, which means that every time a character uses the *sustain a boon* action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action.
 
 > ##### Sustaining Boon Examples
 >
