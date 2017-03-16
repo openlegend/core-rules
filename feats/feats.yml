@@ -1796,12 +1796,12 @@
   name: Two Weapon Defense
   prerequisites:
     tier1:
-      Attribute:
-      - Agility: 4
       any:
         Feat:
         - Attack Specialization
         - Defensive Mastery
+      Attribute:
+      - Agility: 4
   tags:
   - Combat
   - Physical
