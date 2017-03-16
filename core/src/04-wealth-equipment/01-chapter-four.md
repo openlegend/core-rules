@@ -247,7 +247,7 @@ Next, choose any additional properties that the weapon possesses. Properties adj
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | +1 per 5' of area. This increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3 |
+| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 6: Combat) |
 | Defensive | Equal to the *defensive* value |
 | Delayed Ready | -1 |
 | Expendable | -1 |
