@@ -48,14 +48,14 @@
       <li><strong>Power Level 6</strong> - You can Major Charm creatures of humanoid intelligence.</li>
       </ul>
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control. As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Deafened
   tags:
   - Extraordinary
   - Physical
   power:
-  - 5
+  - 4
   attackAttributes:
   - Agility
   - Energy
@@ -86,11 +86,11 @@
   invocationTime: 1 Major Action
   duration: Resist ends (special) (Fail x 3 = Permanent)
   description: |
-    Utilizing either incredible precision or the power of entropy, the target’s life force is snuffed out completely. The most deadly assassins and most powerful necromancers are known for such legendary skill at snuffing out life.
+    Utilizing either incredible precision or the power of entropy, the target's life force is snuffed out completely. The most deadly assassins and most powerful necromancers are known for such legendary skill at snuffing out life.
   effect: |
-    You attempt to completely snuff the life force of your target. There is a brief window of time in which the target can attempt to resist this extinguishing force, but once that window closes, the death is permanent and can only be reversed with resurrection magic. When the bane is initially applied, the target is immobile (can’t move from their current space) and unconscious. They have disadvantage 5 on all perception rolls, and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow.
+    You attempt to completely snuff the life force of your target. There is a brief window of time in which the target can attempt to resist this extinguishing force, but once that window closes, the death is permanent and can only be reversed if the GM allows a special mission to use rare technology or long-forgotten magic to restore the target. When the bane is initially applied, the target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls, and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow.
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the pending death. As such, at the end of each of it’s turns, the target receives a Resist roll as a free action to break free from the effect. Whereas 3 failed resist rolls would usually persist the effects of the bane, this bane extinguishes the life force of the target on 3 failed saves, thus it is permanent. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the pending death. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. Whereas 3 failed resist rolls would usually persist the effects of the bane, this bane extinguishes the life force of the target on 3 failed saves, thus it is permanent. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Demoralized
   tags:
@@ -159,31 +159,10 @@
     Whether through wrestling it from your opponent, forcefully knocking it out of their hand, skilfully parrying a weapon, a precise nerve strike, magical summoning of vines, etc., heating or chilling an item in their hands, giving a mental command, weakening the muscles they use to grip, or warping the shape of the item, you force an opponent to lose control of an object they are holding.
   effect: |
     <ul>
-    <li><strong>Power Level 3</strong> - You force another character to drop an object they are holding. Choose a location within 15’ of the target, the item ends up there.
+    <li><strong>Power Level 3</strong> - You force another character to drop an object they are holding. Choose a location within 15' of the target, the item ends up there.
     </li>
     <li><strong>Power Level 6</strong> - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute (typically Might) roll with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
     </li>
-    </ul>
-- !
-  name: Dispel
-  tags:
-  - Extraordinary
-  power:
-  - 1
-  - 6
-  attackAttributes:
-  - Protection
-  attack:
-  - Protection vs. Resolve
-  invocationTime: 1 Major Action
-  duration: Instantaneous
-  description: |
-    You cancel boons affecting an enemy.
-  effect: |
-    Make an Protection roll. You can dispel boons affecting the target of a maximum Power Level equal to (Protection roll - 10) ÷ 2. The Power Level at which you invoke this bane determines the types of effects you can dispel, as follows:
-    <ul>
-      <li><strong>Power Level 1</strong> - You can cancel boons that must be actively invoked. In addition, the target cannot invoke that boon again for 1 minute.</li>
-      <li><strong>Power Level 6</strong> - You can cancel boons that are permanent, passive, or inherent to the target (e.g. the invisibility of a Will o’ Wisp). In the absence of other rules, assume that the target can re-activate the boon as a major action.</li>
     </ul>
 - !
   name: Dominated
@@ -204,7 +183,7 @@
   effect: |
     The dominated bane manifests at two levels: lesser and greater.
     <strong>Lesser Domination</strong> - the target obeys a one word command until the end of their next turn.
-    <strong>Greater Domination</strong> - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, can think freely, leaving them effectively trapped in their own body. They cannot take action of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a Resist roll as a free action to break free from the effect. The attacker does not gain special access to the target’s mind and so can only order the character to perform actions that they think or know (from prior knowledge) that the character is capable of. Lastly, each mental order that the attacker gives to the target is a major action, however the order can be a series of verbal commands like “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
+    <strong>Greater Domination</strong> - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, can think freely, leaving them effectively trapped in their own body. They cannot take action of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a Resist roll as a free action to break free from the effect. The attacker does not gain special access to the target's mind and so can only order the character to perform actions that they think or know (from prior knowledge) that the character is capable of. Lastly, each mental order that the attacker gives to the target is a major action, however the order can be a series of verbal commands like “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
       <ul>
       <li><strong>Power Level 3</strong> - You can target creatures of subhuman intelligence (animals, some elementals, certain undead, etc.) with Lesser Domination.</li>
       <li><strong>Power Level 5</strong> - You can target creatures of human intelligence or better with Lesser Domination. You can target creatures of subhuman intelligence (animals, some elementals, etc.) with Greater Domination.</li>
@@ -230,9 +209,9 @@
     This bane has multiple tiers which are applied in succession. Each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one level.<br/>
     <ul>
     <li><strong>Level 1</strong> - The target has Disadvantage 1 on all non-attack action rolls.</li>
-    <li><strong>Level 2</strong> - The target loses their attribute bonuses to their defense scores (Agility and Might for Guard, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
+    <li><strong>Level 2</strong> - The target is affected by the slowed bane, reducing its speed by half. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
     <li><strong>Level 3</strong> - The target has Disadvantage 1 on all attack rolls.</li>
-    <li><strong>Level 4</strong> - The target is affected by the slowed bane, reducing it's speed to 10'. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.</li>
+    <li><strong>Level 4</strong> - The target loses their attribute bonuses to their defense scores (Agility and Might for Guard, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.</li>
     <li><strong>Level 5</strong> - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.</li>
     <li><strong>Level 6</strong> - The target dies.</li>
     </ul>
@@ -311,15 +290,15 @@
   - Influence
   - Might
   attack:
-  - Agility vs. Guard
-  - Alteration vs. Guard
-  - Creation vs. Guard
-  - Energy vs. Guard
-  - Entropy vs. Guard
+  - Agility vs. Toughness
+  - Alteration vs. Toughness
+  - Creation vs. Toughness
+  - Energy vs. Toughness
+  - Entropy vs. Toughness
   - Influence vs. Resolve
-  - Might vs. Guard
+  - Might vs. Toughness
   invocationTime: 1 Major Action
-  duration: Resist ends (Fail x 3 = 1 minute)
+  duration: Resist ends (special) (Fail x 3 = 1 minute)
   description: |
     Whether through grappling, a precise nerve strike, entangling vines, exerting mental control, or a bone-numbing blast of cold, you render your foe incapable of movement.
   effect: |
@@ -348,9 +327,9 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Incapacitation is a catch-all for a variety of effects, including total paralysis, sleep, petrification, poisoning, being knocked out, or fainting. Examples of possible causes of this bane include a martial artist’s paralyzing strike, an enchanter's magical song of sleep, paralysis by poison, fainting from extreme heat, suffocation, and the gaze of a medusa.
+    Incapacitation is a catch-all for a variety of effects, including total paralysis, sleep, petrification, poisoning, being knocked out, or fainting. Examples of possible causes of this bane include a martial artist's paralyzing strike, an enchanter's magical song of sleep, paralysis by poison, fainting from extreme heat, suffocation, and the gaze of a medusa.
   effect: |
-    The target is immobile (can’t move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces, only the afflicted character’s successful resist roll can end the effect.</li></ul>
+    The target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage or more.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces, only the afflicted character's successful resist roll can end the effect.</li></ul>
   special: |
     While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
@@ -359,7 +338,7 @@
   - Extraordinary
   - Physical
   power:
-  - 2
+  - 1
   attackAttributes:
   - Agility
   - Energy
@@ -371,9 +350,9 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Fights are called “knock down, drag out” for a reason. Knocking an opponent prone is a common way for one combatant to gain the upper hand. Knockdown can be caused by a thunderous blow from a great axe, an earth shattering bolt of extraordinary energy, or a well aimed shove in a direction where the enemy's balance is weak.
+    Whether via a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak, you knock the target off their feet.
   effect: |
-    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1.
+    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1. To stand up from prone, the target can expend a move action to both stand up and also move half their speed, rounded down.
 - !
   name: Memory Alteration
   tags:
@@ -395,7 +374,7 @@
     This bane confers no special ability to know about a target's memory. The invoker must be aware of the memory either from rumor, personal knowledge, prescience, or other means.
     <ul>
     <li><strong>Power Level 5</strong> - You temporarily modify a minor aspect of the target's memory. The target automatically regains the lost memory and realizes their confusion 1 hour later.</li>
-    <li><strong>Power Level 6</strong> - You permanently erase or alter the last 5 minutes of the target’s memory. The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did). Multiple uses of this bane progressively erase consecutive 5 minute increments.</li>
+    <li><strong>Power Level 6</strong> - You permanently erase or alter the last 5 minutes of the target's memory. The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did). Multiple uses of this bane progressively erase consecutive 5 minute increments.</li>
     <li><strong>Power Level 8</strong> - Instead of the immediate past, you can erase or alter memories from any time.</li>
     </ul>
   special: |
@@ -419,14 +398,49 @@
   description: Fortune tellers, psychics, and mentalists all use mind dredge to peer into the minds of others.
   effect: |
     <ul>
-    <li><strong>Power Level 2</strong> - This power may only target creatures of animal intelligence or lower. You gain access to the target’s current thoughts.</li>
-    <li><strong>Power Level 4</strong> - This power may target creatures of any intelligence. You gain access to the target’s current thoughts.</li>
-    <li><strong>Power Level 6</strong> - This power may target creatures of any intelligence. You gain access to the target’s current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access access to an additional day’s worth of memories.</li>
-    <li><strong>Power Level 8</strong> - This power may target creatures of any intelligence. You gain access to the target’s current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access access to an additional year’s worth of memories. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.</li>
-    <li><strong>Power Level 9</strong> - This power may target creatures of any intelligence. You gain access to the target’s current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to gain the memories associated with a particular place, object, or event. </li>
+    <li><strong>Power Level 2</strong> - This power may only target creatures of animal intelligence or lower. You gain access to the target's current thoughts.</li>
+    <li><strong>Power Level 4</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts.</li>
+    <li><strong>Power Level 6</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access access to an additional day's worth of memories.</li>
+    <li><strong>Power Level 8</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access access to an additional year's worth of memories. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.</li>
+    <li><strong>Power Level 9</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to gain the memories associated with a particular place, object, or event. </li>
     </ul>
   special: |
     When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- !
+  name: Nullify
+  tags:
+  - Extraordinary
+  power:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  attackAttributes:
+  - Protection
+  attack:
+  - Protection vs. Resolve
+  invocationTime: 1 Major Action
+  duration: Instantaneous
+  description: |
+    With the power of Protection, you are able to cancel boon effects on enemies by cutting their power, similar to how you might defend against incoming attacks by interrupting their effect.
+  effect: |
+    You cancel a single boon affecting the target of this bane's power level or lower. The invoking power level further impacts the effect as follows:
+    <ul>
+      <li><strong>Power Level 1</strong> - Cancel a boon of Power Level 1. You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute</li>
+      <li><strong>Power Level</strong> - Cancel a boon of Power Level 2</li>
+      <li><strong>Power Level</strong> - Cancel a boon of Power Level 3</li>
+      <li><strong>Power Level</strong> - Cancel a boon of Power Level 4</li>
+      <li><strong>Power Level</strong> - Cancel a boon of Power Level 5</li>
+      <li><strong>Power Level 6</strong> - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute</li>
+      <li><strong>Power Level 7</strong> -  Cancel a boon of Power Level 7</li>
+      <li><strong>Power Level 8</strong> -  Cancel a boon of Power Level 8</li>
+      <li><strong>Power Level 9</strong> -  Cancel a boon of Power Level 9</li>
+    </ul>
 - !
   name: Persistent Damage
   tags:
@@ -451,7 +465,7 @@
   description: |
     Whether by setting the target ablaze, covering them in acid, slicing an artery, or cursing them with a wasting disease, you inflict them with a lasting and recurring source of damage.
   effect: |
-    At the beginning of the target's turn, before they take any actions, the target suffers damage determined by the power level of the bane. This damage automatically bypasses the afflicted character’s defenses but it can be reduced by any resistance to damage of a certain type (see the Resistance boon). Like all dice rolls, these dice explode.
+    At the beginning of the target's turn, before they take any actions, the target suffers damage determined by the power level of the bane. This damage automatically bypasses the afflicted character's defenses but it can be reduced by any resistance to damage of a certain type (see the Resistance boon). Like all dice rolls, these dice explode.
     <ul>
       <li><strong>Power Level 2</strong> - 1d4 damage per round.</li>
       <li><strong>Power Level 4</strong> - 1d6 damage per round.</li>
@@ -476,37 +490,37 @@
   - 1
   - 2
   - 3
+  - 4
+  - 5
   - 6
+  - 7
+  - 8
+  - 9
   attackAttributes:
   - Influence
   attack:
   - Influence vs. Resolve
   invocationTime: 1 Major Action
-  duration: Resist ends (Fail x 3 = 10 minutes)
+  duration: Special
   description: |
-    You create an illusory manifestation to deceive the senses of all within range. Some examples include making a meal taste rotten, creating the sound of a stampede of horses, hiding allies behind a false wall, and even manifesting an elven noble who can converse intelligibly.
+    You create an illusory manifestation to deceive the senses. Some examples include making a meal taste rotten, altering the data on a screen where a user is logging in, creating the sound of a stampede of horses, hiding allies behind a false wall, or creating an illusion of an intergalactic emperor who can converse intelligibly.
   effect: |
-    You create a phantasm of your choosing. The Power Level at which you invoke the bane determines which senses you can manifest. Until reaching Power Level 6, you can combine sensory illusions by adding the required Power Levels together (e.g., mimicking both sight and sound requires Power Level 5). While the phantasm persists, you can make logical changes to it freely. For example, an illusory person can speak naturally as you direct it and could be made to fall in response to an attack. However, substantial changes to the illusion (such as transforming a human into a goblin) require a new invocation of the illusion.
+    You create a phantasm of your choosing. The Power Level at which you invoke the bane determines which senses you can deceive. Until reaching Power Level 6, you can combine sensory illusions by adding the required Power Levels together (e.g., mimicking both sight and sound requires Power Level 5). While the phantasm persists, you can make logical changes to it freely. For example, an illusory person can speak naturally as you direct it and could be made to fall in response to an attack. However, substantial changes to the illusion (such as transforming a human into a goblin) require a new invocation of the illusion.
     <ul>
-    <li><strong>Power Level 1</strong> - Taste</li>
-    <li><strong>Power Level 2</strong> - Sound</li>
-    <li><strong>Power Level 2</strong> - Smell</li>
-    <li><strong>Power Level 2</strong> - Touch</li>
-    <li><strong>Power Level 3</strong> - Sight</li>
-    <li><strong>Power Level 6</strong> - All Senses</li>
-    </ul>
-    Your Influence attribute score determines the maximum area that your phantasm can cover as follows. On your turn, you may move the illusion as a free action, but it must remain within your usual invocation range.
-    <ul>
-    <li>Influence 1 - 5' x 5' x 5'</li>
-    <li>Influence 3 - 10' x 10' x 10'</li>
-    <li>Influence 5 - 15' x 15' x 15'</li>
-    <li>Influence 7 - 20' x 20' x 20'</li>
-    <li>Influence 8 - 30' x 30' x 30'</li>
-    <li>Influence 9 - 40' x 40' x 40'</li>
+    <li><strong>Power Level 1</strong> - Affect Taste. Manifest a 5' x 5' x 5' area phantasm</li>
+    <li><strong>Power Level 2</strong> - Affect Smell, Sound, or Touch</li>
+    <li><strong>Power Level 3</strong> - Affect Sight</li>
+    <li><strong>Power Level 5</strong> - Manifest a 15' x 15' x 15' area phantasm</li>
+    <li><strong>Power Level 6</strong> - Affect All Senses</li>
+    <li><strong>Power Level 7</strong> - Manifest a 15' x 15' x 15' area phantasm</li>
+    <li><strong>Power Level 8</strong> - Manifest a 20' x 20' x 20' area phantasm</li>
+    <li><strong>Power Level 9</strong> - Manifest a 40' x 40' x 40' area phantasm</li>
     </ul>
   special: |
-    When you invoke the phantasm bane, your Influence action roll determines who is convinced by the illusion. Any creatures with a Resolve defense score less than or equal to your roll will believe the phantasm to be real and will react accordingly. Those with a higher Resolve score will notice that their senses are being deceived somehow. Creatures who are convinced by the phantasm can roll Resist as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the illusion.
-    When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
+    Unlike other banes, this bane does not work by targeting specific enemies. Instead, your Influence roll for invoking it is compared with the Resolve defense of each character that would percieve the created effect if it were real. If the roll is lower, they perceive none of the phantasm's effects. If the roll is equal or greater, they perceive the illusory effect you create and react as if it were real.
+    When mimicking a very specific person, place, or thing that the target is very familiar with, the GM should consider increasing the target's Resolve defense for the purpose of that particular phantasm invocation.
+    Characters convinced by the phantasm can roll Resist as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the effect. In addition, you must spend a minor action to sustain the bane during each of your turns. Failing to do so in a given round causes the bane's effects to cease at the end of your turn.
+    When an affected character succeeds at a resist roll against this bane, they become to immune to all subsequent phantasms invoked by you for the next hour.
 - !
   name: Polymorph
   tags:
@@ -526,7 +540,7 @@
     You alter the size, shape, and composition of another creature. Make an enemy larger or smaller. Turn them into a sheep, newt, or whatever your imagination desires.
   effect: |
     Your Power Level determines the extent to which you can transform your target. If the target is transformed into a different creature, it uses the Might, Agility, Fortitude, and Perception attribute scores of the new creature.
-    In order to keep track of hit points, the target should record the total damage they have suffered. When transforming,  damage remains with the character even if their maximum hit points change. For example, Agent Walker has a max HP of 20 but is turned into a sheep and has her Fortitude reduced by 2, leaving her at 16 hit points. During combat, she suffers 10 damage. When she later transforms back into Agent Walker, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
+    In order to keep track of hit points, the target should record the total damage they have suffered. When transforming, damage remains with the character even if their maximum hit points change. For example, Agent Walker has a max HP of 20 but is turned into a sheep and has her Fortitude reduced by 2, leaving her at 16 hit points. During combat, she suffers 10 damage. When she later transforms back into Agent Walker, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
     <ul>
     <li><strong>Power Level 5</strong> - Polymorph a creature into another creature of the same size. This new form can reduce the target's attribute scores by up to 2. If the new form would have higher attributes, the target becomes an exceptional version of that creature. For example, transforming a deadly sniper with Agility 5 into a clumsy ogre with Agility 0, would leave the target with an Agility of 3 instead of the 0 typical for the new form.</li>
     <li><strong>Power Level 6</strong> - Polymorph a creature into another creature between double and half the size. The new form can reduce the target's attribute scores by up to 3.</li>
@@ -581,24 +595,27 @@
   - Extraordinary
   power:
   - 5
+  - 6
+  - 7
+  - 9
   attackAttributes:
   - Prescience
   attack:
-  - Prescience vs. Resolve (Special)
+  - Prescience vs. Resolve (special)
   invocationTime: 10 Minutes
-  duration: 10 minutes (Special)
+  duration: 10 minutes (special)
   description: |
     Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you can view the target from a distance.
   effect: |
     You can scry on a person or area that you are familiar with. The Challenge Rating to succeed at this scrying is based on the distance between you and the target. If successful, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your scrying if they are familiar with such powers.
     <ul>
-    <li><strong>CR 20</strong> - 1 mile or less</li>
-    <li><strong>CR 22</strong> - 100 miles or less</li>
-    <li><strong>CR 24</strong> - More than 100 miles, but on the same dimension or plane of reality</li>
-    <li><strong>CR 28</strong> - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).</li>
+    <li><strong>Power Level 5</strong> - 1 mile or less</li>
+    <li><strong>Power Level 6</strong> - 100 miles or less</li>
+    <li><strong>Power Level 7</strong> - More than 100 miles, but on the same dimension or plane of reality</li>
+    <li><strong>Power Level 9</strong> - Any dimension or plane of reality. (Peering into certain dimensions may expose you to other dangers at the GM's discretion).</li>
     </ul>
   special: |
-    When you successfully invoke this bane, at the end of it's duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.
+    When you successfully invoke this bane, at the end of its duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.
     You can attempt to scry the same target any number of times, but if your action roll fails, that target becomes immune to your scrying for 24 hours.
 - !
   name: Sickened
@@ -639,14 +656,14 @@
   description: |
     Silence overcomes the target, whether from the warping of sound around the target, or from a physical effect like strangulation or suffocation.
   effect: |
-    If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5’ of the target is magically suppressed, making their footsteps and the usual clank of belongings they are carrying inaudible.
+    If Might, Agility, or Entropy is used to inflict this bane, then the character is suffering strangulation and unable to speak. If the bane is inflicted using Alteration, then all sound within 5' of the target is magically suppressed, making their footsteps and the usual clank of belongings they are carrying inaudible.
 - !
   name: Slowed
   tags:
   - Extraordinary
   - Physical
   power:
-  - 2
+  - 1
   attackAttributes:
   - Agility
   - Energy
@@ -655,16 +672,16 @@
   - Movement
   attack:
   - Agility vs. Guard
-  - Energy vs. Toughness
+  - Energy vs. Guard
   - Entropy vs. Toughness
   - Might vs. Guard
   - Movement vs. Guard
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Slowing an enemy is usually caused by either extreme cold, prolonged heat, poison, or injury to one or both legs.
+    The target's movement is impaired, either by extreme cold, prolonged heat, poison, or injury to one or both legs.
   effect: |
-    The afflicted target’s movement is reduced to 10 feet. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
+    The afflicted target's speed is reduced to half its current speed, rounded down to the nearest 5' increment. This applies to all movement that is physical (flight, walking, climbing, etc.). If the target is currently under a magical effect that increases speed, the two effects are canceled for the duration that both affect the target.
 - !
   name: Stunned
   tags:
@@ -687,7 +704,7 @@
   description: |
     Stunning an enemy can be anything from the pommel of a dagger to the back of the head, to a kick in the groin, to a deafening thunderclap that disorients the target.
   effect: |
-    During its turn, the target is limited to either a single major action, a single move action, or a single minor action. It cannot take all three, nor can it take a focus action. Note that a target expending it's move action to Resist this bane will receive the remainder of their usual actions if the Resist roll succeeds. Thus they will have their usual Major and Minor actions available this round.
+    During its turn, the target is limited to either a single major action, a single move action, or a single minor action. It cannot take all three, nor can it take a focus action. Note that a target expending its move action to Resist this bane will receive the remainder of their usual actions if the Resist roll succeeds. Thus they will have their usual Major and Minor actions available this round.
   special: |
     Boss actions are not affected by this bane, and can still be used to partially bypass this, though they must use one boss action per major, move, or minor action they wish to take.
 - !
@@ -703,30 +720,11 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    The stupefied bane has examples in many stories and legends: a vampire’s eyes, a siren's song, and a nymph's beauty are all known to cast a stupor upon weak-willed mortals. Being stupefied causes the character to be lulled into a false sense of security, tranquility, and pacifism.
+    The stupefied bane has examples in many stories and legends: a vampire's eyes, a siren's song, and a nymph's beauty are all known to cast a stupor upon weak-willed mortals. Being stupefied causes the character to be lulled into a false sense of security, tranquility, and pacifism.
   effect: |
-    The target is in a state of mental fog, lowering their mental defenses. While stupefied, the character’s Resolve defense is reduced to 10. In addition, the character has the approximate intelligence of a child. If attacked, it will defend itself until the attack ceases using its natural weapons, but the target will never employ any kind of complex tactic or ability, such as spellcasting. If the target sees fire, it will run away. If it feels pain, it will flee.
+    The target is in a state of mental fog, lowering their mental defenses. While stupefied, the character's Resolve defense is reduced to 10. In addition, the character has the approximate intelligence of a child. If attacked, it will defend itself until the attack ceases using its natural weapons, but the target will never employ any kind of complex tactic or ability, such as spellcasting. If the target sees fire, it will run away. If it feels pain, it will flee.
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively planning to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. Any attack that causes the target mental or physical pain gives the target an additional Resist roll to break free from the bane. Also any action that would startle a wild animal (hit with a rock, slap on the face, etc.) will also trigger a free Resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target’s typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
-- !
-  name: Surprised
-  tags:
-  - Physical
-  power:
-  - 0
-  attackAttributes:
-  - N/A
-  attack:
-  - N/A
-  invocationTime: 1 Major Action
-  duration: 1 Round
-  description: |
-    Being surprised is being caught flat-footed and scrambling to react to an enemy that the character was either unaware of or did not realize was an enemy.
-  effect: |
-    All attackers gain advantage 1 against surprised characters. Surprised characters cannot take any actions that are interrupt actions.
-  special: |
-    Unlike other banes, surprised cannot by inflicted directly with an action roll. Instead, it is determined by situations resulting from the story, such as a party being ambushed by a band of thieves hiding in the brush.
-    Under certain conditions a character may be surprised against <strong>only one opponent</strong>. The most common example being an opponent that is disguised, hiding, invisible, or for some other reason <em>not perceived as a threat</em>.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively planning to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. Any attack that causes the target mental or physical pain gives the target an additional Resist roll to break free from the bane. Also any action that would startle a wild animal (hit with a rock, slap on the face, etc.) will also trigger a free Resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target's typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Truthfulness
   tags:
@@ -738,7 +736,7 @@
   attack:
   - Influence vs. Resolve
   invocationTime: 10 Minutes
-  duration: 10 minutes (Special)
+  duration: 10 minutes (special)
   description: |
     Via control of the target's mind, you compel them to honesty, rendering them unable to deliberately lie.
   effect: |

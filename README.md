@@ -12,6 +12,58 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 03 / 15
+-   `Genesis` added a new feat for creating short-lived matter that deteriorates / decomposes after 1 hour
+-   `Marksman` feat modified to confer a single range increment bonus rather than a flat 25'.
+-   `Hunter's Foe` feat name changed to `Sworn Enemy` for better genre diversity
+-   `Multi-Target Boon Expert` (reversed change) feat prerequisite is now from Multi-Target Boon Specialist II
+
+#### 2017 / 03 / 12
+-   `Extraordinary Items` initial release - new chapter `Rewards` for extraordinary items, mounts & vehicles
+-   `Craft Extraordinary Item` (formerly `Craft Beneficial or Baleful Item`) feat completely overhauled, now works with the Wealth Level system and the new rules found in Chapter 8
+-   `Craft Extraordinary Item` now has Logic as an optional prerequisite
+-   `Mounts & Vehicles` section moved from Chapter 4 to Chapter 8
+-   `Consumable` weapon property renamed to `Expendable` for consistency with new properties in `Extraordinary Items` section
+-   `Deadly` property moved from Chapter 4 (Weapons) to Chapter 8 (Extraordinary Items)
+-   Major changes to `Weapons` table via `Extraordinary Items` a number weapons were moved to Extrardinary (`Laser Rifle`, `Rocket Launcher`, `Plasmablade`)
+
+#### 2017 / 03 / 11
+-   `Boss NPCs` expanded the table to level 20 (for larger groups of PCs)
+-   `Boss NPCs` now have `Boss Edge`, giving them advantage on attacks, as well boss actions
+-   `Boss NPCs` now have immunity to Finishing Blows
+-   `Phantasm` bane wording changes to clarify that the size effect is limited by power level, but it affects all who see it (though they aren't technically targets)
+-   `Fatigued` bane levels of fatigue effects for level 2 and level 4 swapped to prevent easy access to the loss of significant defense bonuses
+-   Updated Open Legend Community License for minor name change to `Seventh Sphere Entertainment`
+-   `Summon Creature` - added hard limit on max number of summoned creatures (equal to your invoking attribute)
+-   `Fast Draw` feat cost reduced from 2 to 1
+-   `Multi-Target Boon Expert` feat prerequisite reduced from Multi-Target Boon Specialist II to Multi-Target Boon Specialist I
+
+#### 2017 / 03 / 02
+-   Removed `Tech Level` from mounts & vehicles, unneccessary complexity
+-   `Craft` feat is renamed to `Craft Mundane Item`
+-   `Craft Beneficial or Baleful Item` feat is renamed to `Craft Extraordinary Item`
+-   Added caveat that weapons can have multiple properties, allowing the wielder to choose from among them. For example, allowing `Area (X', Y' Cone)` at the wielders options. They are cumulative for determining Wealth Level.
+-   Added `Flamethrower` example to the weapons table
+
+#### 2017 / 02 / 26
+-   Added genre diversity to the `Wealth Overview` tables and the armor table, removed some armor examples and added others
+-   `Telepathy` boon, after much confusion because the effect is both "broadcast" AND "receive", (note "broadcast" should use `Influence` while "receive" should use `Prescience`) it seems best for it to be accessible from both attributes since the effect straddles the two
+-   `Summon Creature` boon no longer has the "when you invoke this, other summoned minions are dispelled" limitation
+-   `Transmute` boon no longer affects living target's since that domain is covered by `Shapeshift`. Replacing the Power Level 8 and 9 efects, are now the ability to transmute simple items into complex ones
+-   `Nullify` bane is simplified to cancel only one boon affecting the target, but it now prevents the target from benefitting from or havhing the book invoked upon them for 1 minute
+
+#### 2017 / 02 / 12
+-   Clarify `Area` property's Wealth Level impact
+-   Added `Indomitable Resolve` feat that increases your Resolve defense by 1.
+-   Clarified that `Forceful` and `Precise` weapons can only be used for bane attacks with that particular attribute
+-   `Natural Defense` feat now increases both Guard and Toughness defenses
+-   `Immobile` bane now targets Toughness for most bane attacks
+-   `Augury` renamed to `Precognition` because augury by definition has ties to the divine. `Precognition` represents
+-   `Boon Focus III` clarified to allow boon invocation as a free action, meaning that it only persists if you're conscious to spend an action
+-   `Death Blow` feat's tier 3 is removed, 15 HP death threshold is too powerful, and the tier 2 Silenced effect was overly complex. There are now 2 tiers
+-   `Ritual Magic` feat is renamed to `Heightened Invocation` to more effectively span non-magically oriented genres
+-   `Dispel` bane is renamed to `Nullify` to more effectively span non-magically oriented genres
+
 #### 2017 / 02 / 11
 -   Removed redundant `Inner Strength` perk (was a duplicate of `Resilient` perk)
 -   Added `Targeted Weapons` property to manually targeted vehicular weapons
@@ -191,3 +243,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   Might has replaced Fortitude as the prerequisite for wearing armours.
 -   Master Shifter feat removed, Boon Focus and Supernatural Focus made it obsolete.
 -   Alteration attribute added to healing boon, definition of healing updated.
+
+## Contributors
+
+Ish Stabosz, Barry Dewey-Robertson, Kyle Willey, Mario Lurig, Michael "Hassurunous" Loubier, John Lewis of Demon's Lair RPG
