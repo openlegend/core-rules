@@ -369,6 +369,10 @@ Many boons have a default duration of *sustain persists*, which means that every
 
 Using a focus action involves spending all of your energy and attention on one task. If you choose to forgo your major, move, and minor actions for a round, you may instead take a focus action. Choose one of the following types of focus action:
 
+- Disrupting Attack
+- Superior Action
+- Charge
+
 #### Disrupting Attack
 
 Make a damaging attack using the normal attack rules. If your roll exceeds the target's defense by 10 or more, then any boons being sustained by your target immediately end.
@@ -385,6 +389,9 @@ Move up to twice your speed and make one melee attack at disadvantage 1.
 
 In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
 
+- Defend
+- Improvise
+
 #### Defend
 
 You may use a defend action after an enemy has rolled a successful attack against you or an ally in order to attempt to ward off the attack. Describe how you are defending and then make an action roll using an appropriate attribute (Protection, Agility, and Might are all typical examples of attributes used to defend). A single defend action can only be used to defend one target.
@@ -399,15 +406,15 @@ As part of your defend action, you may also move up to half of your speed at any
 >
 > * * * * *
 >
-> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Guard scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 1 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
+> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Guard scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 2 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
 
 #### Improvise
 
-You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a levitate boon and save them. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
+You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a *levitate* boon and save them or to dive and try to catch them at the edge of the cliff. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
 ### Free Actions
 
-If a feat, perk, boon, or other source grants a *Free Action*, that action can be performed without counting against the normal limits to your actions per turn.
+If a feat, perk, boon, or other source grants a free action, that action can be performed without counting against the normal limits to your actions per turn.
 
 ## Damage and Healing
 
@@ -415,7 +422,11 @@ Your hit points (HP) are an abstract measure of your character's ability to igno
 
 ### Finishing Blows
 
-When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a **finishing blow** and may cause immediate death. Your defense against a finishing blow does not include any bonus from your attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you are dead.
+When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a *finishing blow* and may cause immediate death. Your defense against a finishing blow does not include any bonus from your attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you are dead.
+
+> #### Finishing Blow Example
+>
+> Ulric's usual Guard defense is 20 (+3 platemail, +5 Might, +2 Agility). However, he is unconscious when an assassin cuts his throat, dealing a *finishing blow*. Against this attack, Ulric does not include his attribute bonuses, so his Guard is reduced to 13. The assassin rolls a 22 on his attack, dealing 9 damage to Ulric. Furthermore, Ulric must make a Fortitude roll CR 19 or die.
 
 ### Reaching Zero Hit Points
 
@@ -427,9 +438,13 @@ After a combat encounter ends and you have at least ten minutes to rest and catc
 
 ### Lethal Damage
 
-Lethal damage is used sparingly in Open Legend as a way for GMs to paint a picture of injury consequences over time. This is especially helpful for grim and gritty storylines where effects of injury should extend beyond a combat encounter. A GM might incorporate a trap or environmental hazard that deals lethal damage. Since these situations occur outside of combat, normal damage would otherwise have no long term effect on the story.
+Lethal damage is used sparingly in Open Legend as a way for GMs to paint a picture of injury consequences over time. This is especially helpful for grim and gritty storylines where the effects of injury should extend beyond a combat encounter. Lethal damage is also appropriate for traps or environmental hazards, which often occur outside of combat and thus would pose no threat using the usual damage and healing rules.
 
-A creature's maximum hit point total is reduced by the amount of lethal damage it has sustained. The maximum lethal damage a creature can accrue is equal to its maximum hit points. If a creature sustains lethal damage greater than or equal to its maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
+When a character suffers lethal damage, their maximum hit point total is reduced by the amount of lethal damage it sustains. The maximum lethal damage a creature can accrue is equal to its maximum hit points. If a creature sustains lethal damage greater than or equal to its maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
+
+> #### Lethal Damage Example
+>
+> Trish is at full health with 22 hit points when she steps on a land mine which deals 8 points of lethal damage. Her current hit points are now 14, and her hit point maximum is also reduced to 14 until she can heal the lethal damage.
 
 #### Healing Lethal Damage
 
@@ -445,7 +460,7 @@ For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their o
 
 ## The Core Mechanic in Combat
 
-The core mechanic of *Open Legend* is meant to inspire creativity in players and GMs so that the story always moves forward and so that no dice roll ever feels wasted. However, in combat, players typically make many more action rolls than usual, so the GM may feel overwhelmed if they are constantly trying to come up with new interpretations of a failed roll on the fly.
+The core mechanic of Open Legend is meant to inspire creativity in players and GMs so that the story always moves forward and so that no dice roll ever feels wasted. However, in combat, players typically make many more action rolls than usual, so the GM may feel overwhelmed if they are constantly trying to come up with new interpretations of a failed roll on the fly.
 
 Some GMs might love that kind of challenge, and for them, **the core mechanic can be used in combat in the same way it is in every other part of the game**. GMs who want something a little more streamlined **may use the following modification** to the usual core mechanic in combat:
 
@@ -459,7 +474,6 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10' w/o opportunity attacks |
 
-
 With these modified rules, a player's failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 
 > ### Example of the Core Mechanic in Combat
@@ -468,7 +482,7 @@ With these modified rules, a player's failed attack roll means that the player m
 scaly hide. However, her attack roll fails to hit the dragon's Guard
 of 25. She chooses to inflict 3 damage, but the GM also gets a choice.
 >
-> He chooses to inflict the knockdown bane: The dragon's tail lashes
+> He chooses to inflict the *knockdown* bane: The dragon's tail lashes
 around and sweeps Vera to the floor.
 
 ### Why Succeed on a Failed Roll?
@@ -477,7 +491,7 @@ Some players might wonder why a PC still gets a taste of success even when their
 
 ### Interpreting Twists and Failures in Combat
 
-Those GMs who would like to use the usual methods for interpreting failed rolls may struggle to create interesting outcomes on the fly, especially if they have prior experience with more binary roleplaying games. This section aims to inspire GMs with several examples of how to interpret *success with a twist* and *failure but the story progresses* in a variety of combat situations.
+Those GMs who would like to use the usual methods for interpreting failed rolls may struggle to create interesting outcomes on the fly, especially if they have prior experience with more binary rules systems. This section aims to inspire GMs with several examples of how to interpret *success with a twist* and *failure but the story progresses* in a variety of combat situations.
 
 > #### Twist or Failure?
 > 
@@ -486,9 +500,9 @@ Those GMs who would like to use the usual methods for interpreting failed rolls 
 > To that end, whenever a player fails a roll, you should ask yourself a few questions along these lines:
 > - *Has the fight been too easy for the players?* If so, a complete failure could raise the severity of the threat.
 > - *Has the fight been too hard?* Then throwing the PCs a bone would help balance things out a bit.
-> - *Have the dice been exceedingly for or against one side?* A partial success or complete failure can undo fickle fate cast by the dice.
+> - *Have the dice been exceedingly for or against one side?* A partial success or complete failure can undo the fickle fate cast by the dice.
 > - *Has the combat been running too long?* Choose the option that is more likely to end it quickly.
-> - *What would be the most dramatic action right now?* Remember that you are telling a great story. Think about which outcome would be most memorable for your players.
+> - *What would be the most dramatic action right now?* Remember that the goal of Open Legend is to tell a great story. Think about which outcome would be most memorable for your players several weeks from now.
 
 #### Success with a Twist in Combat
 
@@ -506,7 +520,7 @@ In the examples scenarios that follow, you’ll witness several of these at play
 
 ##### Put a Character in Danger
 
-Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that his ally Doc was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
+Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that his ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
 
 ##### Expend a Resource
 
@@ -518,11 +532,11 @@ Soaring over the skyline of New Tokyo, two gangs of Mech Punks settle their diff
 
 ##### Lose a Friend
 
-The Tactical Assault Team is under heavy fire within the cavernous tunnels of the Bogan homeworld when Jaaxy hurls a grenade to thin out the enemy numbers. Unfortunately, she was never particularly diligent about her equipment checks, and two of her grenade pins were intertwined. Both activate, and while she manages to throw one successfully, the other falls at her feet. Her team is forced to scramble, and the blast from the grenade causes a cave-in. When the dust settles, the team has been separated by a wall of fallen rock, with plenty of Bogan’s left for each group to deal with.
+The Tactical Assault Team is under heavy fire within the cavernous tunnels of the Bogan homeworld when Jaaxy hurls a grenade to thin out the enemy numbers. Unfortunately, she was never particularly diligent about her equipment checks, and two of her grenade pins were intertwined. Both activate, and while she manages to throw one successfully, the other falls at her feet. Her team is forced to scramble, and the blast from the grenade causes a cave-in. When the dust settles, the team has been separated by a wall of fallen rock, with plenty of Bogans left for each group to deal with.
 
 ##### Overlook an Important Detail
 
-The gang is fighting off an evil spirit that they unleashed within the old Harden Manor when Jade attempts to channel her psychic powers to invoke the *Dominated* bane and force the spirit to leave the manor. Her roll fails, but the GM allows her to banish the spirit anyway. What she did not foresee, however, was that this spirit had been attempting to escape the manor for centuries. Jade managed to inadvertently  break the curse that kept it imprisoned.
+The gang is fighting off an evil spirit that they unleashed within the old Harden Manor when Jade attempts to channel her psychic powers to invoke the *dominated* bane and force the spirit to leave the manor. Her roll fails, but the GM allows her to banish the spirit anyway. What she did not foresee, however, was that this spirit had been attempting to escape the manor for centuries. Jade managed to inadvertently  break the curse that kept it imprisoned.
 
 ##### Waste Time
 
@@ -538,11 +552,11 @@ In perhaps the bravest moment of his life, Snitch creeps within reach of the dre
 
 #### Failure, but the Story Progresses in Combat
 
-Chapter 2 presents the fact that in Open Legend, failure is never just a failure. A low attack roll is more than just a miss. A failed attempt to invoke a boon means more than just that the spell or power fizzles. Instead, every failure should propel the story forward in a meaningful way. Chapter 2 offers the following suggestions for interpreting an action as *failure, but the story progresses*:
+Chapter 2 presents the fact that in Open Legend failure is never just a failure. A low attack roll is more than just a miss. A failed attempt to invoke a boon means more than just that the spell or power fizzles. Instead, every failure should propel the story forward in a meaningful way. Chapter 2 offers the following suggestions for interpreting an action as *failure, but the story progresses*:
 
-- The player finds an opportunity for success.
-- The danger snowballs.
-- The information is false.
+- The player finds an opportunity for success
+- The danger snowballs
+- The information is false
 
 In the following scenarios, you’ll read several examples of how these interpretations can be applied in the context of a combat roll.
 
@@ -554,14 +568,12 @@ Axel unloads his gatling gun on the security bots that are standing between his 
 
 ##### The Danger Snowballs
 
-Raz is fighting off a sentient pool of Oozing Space Ichor when he attempts a slashing attack with his plasma blade. The dice fail him, and Raz watches in horror as the slime seems completely unphased by the attack. In fact, the strike has split the Ichor in half, and Raz now has two writing masses of ooze to fight.
+Raz is fighting off a sentient pool of Oozing Space Ichor when he attempts a slashing attack with his plasma blade. The dice fail him, and Raz watches in horror as the slime seems completely unphased by the attack. In fact, the strike has split the Ichor in half, and Raz now has two writhing masses of ooze to fight.
 
 Drustina casts a spell to coat the ground in a sheet of ice, attempting to inflict the *knockdown* bane on the troll that is closing distance with her. Her roll fails, though, and the GM decides that instead of being tripped, the slipperiness of the ice actually boosts the troll’s advance, and he immediately closes the distance between himself and the sorceress.
 
 ##### The Information is False
 
-Sergeant O’Dell attempts to invoke the *heal* boon in order close a gunshot wound suffered by one of her fellow troopers. Unfortunately, she assesses the wound incorrectly, attempting to remove a bullet that actually went clean through. The extra pain inflicted on the trooper as O’Dell digs around for the bullet knocks her patient unconscious.
+Sergeant O’Dell attempts to invoke the *heal* boon in order close a gunshot wound suffered by one of her fellow troopers. Unfortunately, she assesses the wound incorrectly, attempting to remove a bullet that actually went clean through. The patient falls unconscious from the extreme pain caused by O'Dell digging around for a non-existent slug.
 
 Inspector Bell attempts to blast one of the werewolves besetting her party with a shell of silver buckshot from her trusty sawed-off. She watches in horror, however, as the silver holds no power over the fiends. Their investigation was incorrect; these are no ordinary lycanthropes.
-
-
