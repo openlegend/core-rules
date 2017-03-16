@@ -12,6 +12,11 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 03 / 15
+-   `Marksman` feat modified to confer a single range increment bonus rather than a flat 25'.
+-   `Hunter's Foe` feat name changed to `Sworn Enemy` for better genre diversity
+-   `Multi-Target Boon Expert` (reversed change) feat prerequisite is now from Multi-Target Boon Specialist II
+
 #### 2017 / 03 / 12
 -   `Extraordinary Items` initial release - new chapter `Rewards` for extraordinary items, mounts & vehicles
 -   `Craft Extraordinary Item` (formerly `Craft Beneficial or Baleful Item`) feat completely overhauled, now works with the Wealth Level system and the new rules found in Chapter 8
