@@ -2,7 +2,7 @@
 
 ## The Game Master's Calling
 
-If you're reading this chapter, then perhaps you've decided to don the most important mantle among roleplayers: that of the Game Master. Answering the call to be the GM isn't always easy, but your fellow game masters will agree that running a good campaign is perhaps the most satisfying act to be enjoyed within this fine hobby. Sure, the players get to slay dragons, amass wealth, and boast of their tales - but the GM gets to rest their head on the pillow after a late night session knowing that none of that fun would have been possible without them. The buzz of a well-run game is addicting, and we hope you'll answer the call.
+If you're reading this chapter, then perhaps you've decided to don the most important mantle among roleplayers: that of the Game Master. Answering the call to be the GM isn't always easy, but your fellow game masters will agree that running a good campaign is perhaps the most satisfying act to be enjoyed within this fine hobby. Sure, the players get to slay dragons, amass wealth, and boast of their tales--but the GM gets to rest their head on the pillow after a late night session knowing that none of that fun would have been possible without them. The buzz of a well-run game is addicting, and we hope you'll answer the call.
 
 In this chapter, you'll find everything you need to plan and execute legendary adventures and campaigns using the Open Legend rules system. You'll learn how to plan challenges that are both exciting and fair, as well as how to reward the heroes so that they want to come back for more.
 
@@ -46,9 +46,9 @@ The **danger** is the bad stuff that will happen if the players don't intervene:
 
 All of these examples provide a real threat that needs to be taken care of by real heroes.
 
-The **motivation** is the reason that the PCs are getting involved. Sometimes the danger and motivation are wrapped up in one, but imagine how much more invested the party would be in the above scenarios if one of the children was a nephew to a player, or if the Librim went missing on the party's watch, or if the Bogan general had murdered one of their families.
+The **motivation** is the reason that the PCs are getting involved. Sometimes the danger and motivation are wrapped up in one, but imagine how much more invested the party would be in the above scenarios if one of the children was a nephew to a PC, or if the Librim went missing on the party's watch, or if the Bogan general had murdered one of their families.
 
-The **twist** in an adventure is a surprise that throws the party off course or upsets their well laid plans. Or, it could just be an exciting change of plot that makes the story deeper than the players assumed. Maybe the witch is actually the town mayor. What if the players find the Librim Protectis in the hands of a local book dealer who swears he has no idea how it fell into his hands. And perhaps the night before the Bogans are set to launch their attack, the planetary defense matrix uncovers a swarm of interdimensional space mites that have just phased into existence for no apparent reason.
+The **twist** in an adventure is a surprise that throws the party off course or upsets their well laid plans. Or, it could just be an exciting change of plot that makes the story deeper than the players assumed. Maybe the witch is actually the town mayor. Imagine that the players find the Librim Protectis in the hands of a local book dealer who swears he has no idea how it fell into his hands. And perhaps the night before the Bogans are set to launch their attack, the planetary defense matrix uncovers a swarm of interdimensional space mites that have just phased into existence for no apparent reason.
 
 When planning an adventure, it's usually fine to start with nothing more than a danger to overcome and a motivation to get the PCs invested. You can feel free to come up with a twist ahead of time, but some of the best plot twists occur as a natural result of the party's actions.
 
@@ -56,9 +56,10 @@ Once you've got the starting pieces of your adventure sketched out, you can deci
 
 ### The Sequential Adventure
 
-In this sort of quest, the GM plans out a logical sequence of encounters and scenes that the party will work their way through. These events could be location-based (such as exploring a series of chambers in the Ziggurat of Kings), or they could be time-based (such as negotiating a peace treaty between two survivor outposts in the zombie apocalypse). An adventure often contains a healthy mix of both location- and time-based scenes, as in the example adventure sketched out below.
+In this sort of quest, the GM plans out a logical sequence of encounters and scenes that the party will work their way through. These events could be location-based (such as exploring a series of chambers in the Ziggurat of Kings), or they could be time-based (such as negotiating a peace treaty between two survivor outposts in the zombie apocalypse). An adventure often contains a healthy mix of both location and time-based scenes, as in the example adventure sketch *The System is Down*.
 
 > #### Sample Sequential Adventure Outline: The System is Down
+>
 > **Danger:** A cyber attack has destabilized the life support system of the Iota One space station, leaving them with only 48 hours of emergency life support.
 >
 > **Motivation:** The PCs are stationed on Iota One, and at least one of them has family there as well.
@@ -73,13 +74,13 @@ In this sort of quest, the GM plans out a logical sequence of encounters and sce
 >
 > 1. *The PCs discover that the hack came from Commander Zap's terminal, but they don't have enough evidence to confront him outright.*
 >
-> 1. *Tailing Zap for a few days, they learn that he has taken a transport craft to the nearby planet Dagaan. They follow him to a secret meeting with several enemy Bogans, and a battle erupts as the PCs attempt to stop the sensitive data from entering enemy hands.*
+> 1. *Tailing Zap for a few days, the party learns that the commander has taken a transport craft to the nearby planet Dagaan. They follow him to a secret meeting with several enemy Bogans, and a battle erupts as the PCs attempt to stop the sensitive data from entering enemy hands.*
 
-To develop a sequential adventure, you just have to plot out the most logical sequence of events that will occur based on the party's actions. Start with a simple list like the one above. It's best not to get too specific, lest you fall into the trap of forcing the PCs into a single direction. Instead, leave your plan loose enough to redirect it according to how your players interact with the world. For example, what if the party never puts two and two together during their investigations in event 4 above? Maybe then a second child is kidnapped a few days later, but this time there is a witness who catches a glimpse of the hag.
+To develop a sequential adventure, you just have to plot out the most logical sequence of events that will occur based on the party's actions. Start with a simple list like the one above. It's best not to get too specific, lest you fall into the trap of forcing the PCs into a single direction. Instead, leave your plan loose enough to redirect it according to how your players interact with the world. For example, what if the party playing through *The System is Down* decides that it's too dangerous to tail Zap? You might decide to make the secret meeting take place on board the Iota with Bogans who are using personal hologram generators to disguise their appearance.
 
 ### The Sandbox Adventure
 
-A sandbox is so named because, to a certain extent, the players interact with the adventure in the same way that children explore a sandbox: at their own pace and for their own reasons. In this type of adventure, there is not typically a predictable order of events. Instead, the GM populates an area with plenty of opportunities for adventure and lets the story unfold naturally based on the players' actions and the environment's reactions. Just like a sequential adventure, a sandbox often contains both location- and time-based events. The outline below details a sandbox adventure revolving around a valley wilderness in which a barbarian tribe skirmishes with angelic visitors from another plane.
+A sandbox is so named because, to a certain extent, the players interact with the adventure in the same way that children explore a sandbox: at their own pace and for their own reasons. In this type of adventure, there is not typically a predictable order of events. Instead, the GM populates an area with plenty of opportunities for adventure and lets the story unfold naturally based on the players' actions and the environment's reactions. Just like a sequential adventure, a sandbox often contains both location and time-based events. The adventure outline for *The Scattered Souls* details a sandbox adventure revolving around a valley wilderness in which a barbarian tribe skirmishes with angelic visitors from another plane.
 
 > #### Sample Sandbox Adventure Outline: The Scattered Souls
 >
@@ -89,13 +90,13 @@ A sandbox is so named because, to a certain extent, the players interact with th
 >
 > **Locations**
 >
-> - **The barbarian camps**
+> - The barbarian camps
 >
-> - **The barbarian burial grounds**
+> - The barbarian burial grounds
 >
-> - **The Caverns of Chaos**
+> - The Caverns of Chaos
 >
-> - **The Collector camp**
+> - The Collector camp
 >
 > **Vargax Events**
 >
@@ -115,18 +116,17 @@ A sandbox is so named because, to a certain extent, the players interact with th
 >
 > 1. *Infighting reduces the tribe's strength significantly, allowing the Collectors to force their way into the burial grounds.*
 
-Developing a sandbox adventure is similar to developing a sequential one, in that you plan out the logical sequence of events. In this case, however, because the PCs have so much room for decision making, the outline differs slightly. The GM plans out all of the relevant locations to the adventure, perhaps mapping and populating them if necessary. Additionally, the GM will make a list for the key actors in the adventure. The list provides a series of events that will occur if the party does nothing to intervene.
+Developing a sandbox adventure is similar to developing a sequential one, in that you plan out the logical sequence of events most likely to occur. In this case, however, because the PCs have so much room for decision making, the outline differs slightly. The GM plans out all of the relevant locations to the adventure, perhaps mapping and populating them if necessary. Additionally, the GM will make a list for the key actors in the adventure. The list provides a series of events that will occur if the party does nothing to intervene.
 
 In the above example, Vargax slowly carries out his plan to infiltrate the barbarians while the Collectors are attempting to create leverage so they can avoid an all out war with the tribes. More likely than not, when the adventure actually plays out, the GM won't end up using all of the events outlined because the party *will* do something to intervene.
 
 When planning your own sandbox adventures, it's helpful to divide the different factions involved into two categories: active and passive. You only need to create a list of events for the active factions. In the example above, the barbarians are the monkey caught in the middle, and so they are a passive faction. They don't need their own list because the plot that unfurls around them depends on the actions of the competing factions: the Collectors and Vargax.
 
-
 ## Creating a Campaign
 
 In its simplest sense, a campaign is simply a string of adventures tied together by a common link. This link could simply be the party that is doing the adventuring. In this sort of episodic campaign, there may not be an overarching plot that ties each adventure together. As long as everyone at the table is having fun, this is perfectly fine.
 
-More often than not, though, the players (and especially the GM) will want more depth in their campaign. This section contains the information you need to start telling your own ongoing stories with *Open Legend*.
+More often than not, though, the players (and especially the GM) will want more depth in their campaign. This section contains the information you need to start telling your own ongoing stories with Open Legend.
 
 ### Plan The Big Secret
 
@@ -136,18 +136,17 @@ One of the best ways to keep a story interesting and keep yourself inspired is t
 
 - *The world is cast in an endless darkness, not because of an ancient curse as legends tell, but because human civilization was forced underground eons ago. No one has ever discovered the “roof” of the world, so they assume that the sun is dead.*
 
-- *A world tree is the source of the planet's life. When it dies, the world will not die, but instead be reborn in a new form.
-Every intelligent being is tied to an invisible spirit. A very few sinister mages, known as the Warlocks, have discovered how to see and bargain with these spirits in order to manipulate the world to their advantage.*
+- *A world tree is the source of the planet's life. When it dies, the world will not die, but instead be reborn in a new form. Every intelligent being is tied to an invisible spirit. A very few sinister mages, known as the Warlocks, have discovered how to see and bargain with these spirits in order to manipulate the world to their advantage.*
 
 - *The galactic empress who sits on the throne has a twin sister who was cast out and left for dead at birth because she was prophesied to lead the galaxy to ruin. The twin survived, raised by an evil alien entity, and she will soon return to claim the half of the empire that is her birthright.*
 
-The big secret is an ideal way to start planning your campaign because it will provide you with a common thread to weave every adventure together. Think of your favorite books, movies, or games if you are struggling to come up with a big secret.
+The big secret is an ideal way to start planning your campaign because it will provide you with a common thread to weave every adventure together. Think of your favorite books, movies, or games if you are struggling to come up with a big secret. It is also likely that you will include multiple secrets throughout a campaign, but starting with one core secret will help you ensure that every session has a common link.
 
 ### Plan The Campaign Arcs
 
-Once you have your secret (or secrets) sketched out, you can begin to divide the campaign into arcs, or extended storylines that develop the plot and reveal the secrets. You can plan these out from the beginning of the campaign to the end, or you can just start with the first few legs of the campaign - enough to get you started without bogging you down. The following outline imagines how a campaign revolving around one of the aforementioned secrets might develop.
+Once you have your secret (or secrets) sketched out, you can begin to divide the campaign into arcs, or extended storylines that develop the plot and reveal the secrets. You can plan these out from the beginning of the campaign to the end, or you can just start with the first few legs of the campaign - enough to get you started without bogging you down. The outline for *Thank You, Dr. Livingston* imagines how a campaign revolving around one of the aforementioned secrets might develop.
 
-> #### Sample Campaign Outline
+> #### Sample Campaign Outline: Thank You, Dr. Livingston
 >
 > **Secret:** The sagely university professor, Dr. Livingston, who advises the investigators throughout the campaign is actually an imprisoned interdimensional demon manipulating them to win his freedom.
 >
@@ -169,11 +168,13 @@ Once you've got your secret and arcs written down, the final step is to plan out
 
 And start with what you love to do. The GM has a big job, so stick to developing the campaign elements that excite you. Some GMs can spend an afternoon drawing an entire world map, and the act of creating that world inspires them with an infinite number of dungeons, plotlines, and adventures to keep the players happy for a year. Other GMs start with a list of NPCs or factions, thinking through their motivations and personalities. Creating this cast of characters allows them to imagine a host of conflicts and conspiracies that will naturally transform into dramatic encounters once the PCs are thrown into the mix. Still other game masters love to start with memorable combat encounters and action scenes, and connect the dots of plot and setting as these epic battles take shape. Whatever aspect of GMing interests you the most, that is where you should start.
 
-### Rewarding the Players
+Once you've got enough planned to get started, get your group together, make some characters, and start playing. After your first few sessions, you can plan forward based on how your players are interacting with the world and how the plot is developing. Use the time in between sessions in order to adjust your campaign arcs, create new adventures, and plan how you will slowly reveal the next big secret.
+
+## Rewarding the Players
 
 The thrill of adventure, the satisfaction of character development, and the joy of seeing a plotline come to its fulfillment are all intrinsically rewarding events that keep players coming back to the gaming table week after week. But still, just as players of any game, your players will also enjoy good old-fashioned extrinsic motivators. In Open Legend, these sorts of rewards typically come in two forms: wealth and power.
 
-#### How and When to Award XP
+### How and When to Award XP
 
 In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
