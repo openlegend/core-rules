@@ -430,7 +430,7 @@ Choose any additional properties that the item might have. Properties apply a we
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | +1 per 5' of area. This increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3 |
+| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 6: Combat) |
 | Armor | Must be acquired or crafted first |
 | Augmenting | +1 |
 | Autonomous | +2 |
