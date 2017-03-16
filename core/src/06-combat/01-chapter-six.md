@@ -10,8 +10,7 @@ That's when combat ensues. In this chapter, you'll learn all the rules for fight
 
 ## When Combat Ensues
 
-The first thing to realize is that not every instance of violence or fighting in your game needs to be broken down into blow-by-blow, round-by-round narration. The outcome of a simple bar fight, which might be important to the story but not particularly fun to play through,
-could be decided using a few action rolls based around the core mechanic explained in Chapter 2. A final showdown with an evil necromancer fought upon air ships sailing through the clouds, on the other hand, is epic and fun enough to merit a blow-by-blow resolution. The GM is the final arbiter who decides when to start combat, and they can do so with three simple words: “Roll for initiative!”.
+The first thing to realize is that not every instance of violence or fighting in your game needs to be broken down into blow-by-blow, round-by-round narration. The outcome of a simple bar fight, which might be important to the story but not particularly fun to play through, could be decided using a few action rolls based around the core mechanic explained in Chapter 2. A final showdown with an evil necromancer fought upon air ships sailing through the clouds, on the other hand, is epic and fun enough to merit a blow-by-blow resolution. The GM is the final arbiter who decides when to start combat, and they can do so with three simple words: “Roll for initiative!”.
 
 ## Starting Combat
 
@@ -27,7 +26,7 @@ Surprised characters always act after non-surprised characters, as explained in 
 
 After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant's Agility roll is their initiative score. The GM may decide to make one roll for each group of monsters instead of tracking every monster's initiative individually.
 
-Write down all initiative scores from highest to lowest. When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine order randomly.
+When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine the order randomly.
 
 **Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage 2 on their initiative. A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
 
@@ -35,15 +34,15 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 
 > #### Example of Initiative and Surprise
 >
-> Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of Mugworm Griblicks.
+> Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
 >
-> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the Griblicks as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 >
 >> Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
 >> Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
 >>
->> The Griblicks (Agility 3) roll 1d20 + 1d8, and get an 11.
+>> The gravity worms (Agility 3) roll 1d20 + 1d8, and get an 11.
 >
 > The final initiative order is as follows:
 >
@@ -51,7 +50,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >>
 >> Jalani 25 (On her first turn, she must draw her Las Pistol)
 >>
->> Griblicks 11
+>> Gravity Worms 11
 >>
 >> **Surprised Combatants**
 >>
@@ -101,11 +100,11 @@ Each of these actions is explained below.
 
 A damaging attack is one in which you are strictly aiming to reduce your foe’s hit points.  When you want to attack a target, follow these steps:
 
-1. Determine attribute vs. defense. Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
+1. **Determine attribute vs. defense.** Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
 
-1. Choose your target. Whether you are making a melee, ranged, or area attack, you have the option of targeting multiple creatures at the cost of disadvantage.
+1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or extraordinary attack.
 
-1. Roll your attack. Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense.
+1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense.
 
 These steps are explained in more detail below.
 
@@ -113,23 +112,23 @@ These steps are explained in more detail below.
 
 First, choose the most logical attribute for the type of attack you are making. Every attack is either physical or extraordinary. 
 
-**Physical attacks** typically involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise* property will determine which attribute to use.
+**Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise* property will determine which attribute to use.
 
 **Extraordinary attacks** are those that make use of one of the attacker's extraordinary attributes, such as by using Energy to summon a ball of fire. A character can only make an extraordinary attack if they possess a score of 1 or higher in the relevant attribute.
 
-Once you have chosen your attacking attribute, use the following guidelines to choose the appropriate defense to use as the Challenge Rating for your attack: Guard, Toughness, or Resolve.
+Once you have chosen your attacking attribute, determine an appropriate defense (Guard, Toughness, or Resolve) to use as the Challenge Rating for your attack, as follows.
 
 Physical attacks always target Guard.
 
 Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
-- **Guard** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame or a magical wall of blades.
+- **Guard** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame, magical wall of blades, or a laser beam.
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
 - **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
 > ##### Using Attributes to Inflict Damage
 > 
-> Combat in *Open Legend* is a swirl of action rolls as blades clash, traps spring, lightning forks, and lasers fly. However, because of the free-form nature of storytelling in *Open Legend*, you may not always know what attributes can be used to make attacks.
+> Combat in Open Legend is a swirl of action rolls as blades clash, traps spring, lightning forks, and lasers fly. However, because of the free-form nature of storytelling in Open Legend, you may not always know what attributes can be used to make attacks.
 > 
 > ###### Always
 > 
@@ -151,7 +150,7 @@ Extraordinary attacks are more open-ended and often require the GM to decide the
 > 
 > ###### Probably Never
 > 
-> The remaining attributes don't really lend themselves to damage. Without a VERY good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
+> The remaining attributes don't really lend themselves to damage. Without a *very* good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
 
 ##### Choose Your Target
 
@@ -205,7 +204,7 @@ You may target up to five foes that fall within a 25' square. When targeting mor
 
 ###### Area Multi-targeting
 
-You may choose from a variety of shapes when making an area attack as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
+Area attacks are only possible when you are using an extraordinary attribute, unless a specific weapon property or other rule allows you to make area attacks without an extraordinary attribute. You may choose from a variety of shapes when making an area attack, as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
 
 **Cube.** You target a cube with equal length, width, and height designated by you. The attack suffers disadvantage 1 per 5' length of the cube's sides. For example, a 10' cube suffers disadvantage 2, a 15’ cube suffers disadvantage 3, and so on. **Special Exception:** Targeting a 5’ cube suffers no disadvantage.
 
@@ -229,27 +228,27 @@ You may choose from a variety of shapes when making an area attack as described 
 
 #### Make a Bane Attack
 
-Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes). While targets may be affected by multiple different banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* [Fatigued](http://www.openlegendrpg.com/banes/fatigued)).
+Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in the [bane descriptions](http://www.openlegendrpg.com/banes). While targets may be affected by multiple different banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* [*fatigued*](http://www.openlegendrpg.com/banes/fatigued)).
 
 Resolving a bane attack is very similar to making a damaging attack, except where indicated in the following steps:
 
-1. Determine attribute vs. defense. The [*bane descriptions*](http://www.openlegendrpg.com/banes) indicate which attributes you can use to inflict a bane as well as the targeted defense.
+1. **Determine attribute vs. defense.** The [*bane descriptions*](http://www.openlegendrpg.com/banes) indicate which attributes you can use to inflict a bane as well as the targeted defense.
 
-1. Choose your target. Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options.
+1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options.
 
-1. Roll your attack. Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
+1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
 > ##### Example Bane Attacks
 >
-> Shu Jin is heavily wounded and needs a chance to escape from the Mandarin who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Shu Jin is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the Mandarin's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+> Takeo is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Takeo is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
 >
 > * * * * *
 >
-> Surrounded by a rapidly growing horde of zombies, Selene pumps her sawed-off shotgun and prepares to blast a number out of the way and make a run for her life. Her weapon gives her two benefits in this situation: the ability to make a 10' cone attack without penalty, advantage 1 on Forced Move bane attacks, and access to Forced Move bane tier 1 above her attribute. Since she is only trying to move the zombies rather than damage them, she attacks 3 (the number of targets for a 10' cone) of them with a Forced Move bane attack. Selene's Agility is 5, so she would normally roll 1d20 + 2d6, but the sawed-off shotgun's Forced Move bane property gives advantage 1, so she rolls 1d20 + 3d6 (keeping 2 of the d6's) and gets a total of 23. Since the sawed-off shotgun has the Forced Move bane property, Selene also has that bane's Power Level reduced by 1, so she is able to invoke Forced Move at Power Level 6, which is normally not available to Selene with her Agility of 5. Selene blasts all 3 zombies back 15' and begins running for her life.
+> Surrounded by a rapidly growing horde of zombies, Selene pumps her sawed-off shotgun and prepares to blast a number out of the way and make a run for her life. Her weapon gives her two benefits in this situation: the ability to make a 10' cone attack without penalty, advantage 1 on *forced move* bane attacks, and access to *forced move* at one power level above her attribute. Since she is only trying to move the zombies rather than damage them, she attacks 3 (the number of targets for a 10' cone) of them with a Forced Move bane attack. Selene's Agility is 5, so she would normally roll 1d20 + 2d6, but the sawed-off shotgun's Forced Move bane property gives advantage 1, so she rolls 1d20 + 3d6 (keeping 2 of the d6's) and gets a total of 23, easily beating the zombies Guard defense of 15. Since the sawed-off shotgun has the *forced move* bane property, Selene can invoke *forced move* at Power Level 6, which is normally not available with an Agility of 5. Selene blasts all 3 zombies back 15' and begins running for her life.
 >
 > * * * * *
 >
-> Zarthakis, the great wyrm, is surrounded by a party of 4 adventurers. He unfurls the full fury of his wings and bellows a mighty roar, instilling terror in his foes as he attempts to inflict the Demoralized Bane using his Presence attribute. The dragon's Presence is 8, giving him a range of 75', quite enough to target all of the heroes. Because Zarthakis is multi-targeting 4 foes, he has disadvantage 4 on his action roll. Normally, he would roll 1d20 + 3d8, but because he has disadvantage, the wyrm rolls 1d20 + 7d8 (keeping the lowest 3 d8s). His total score is 22, which he compares to each target's Resolve defense score separately. The heroes have Resolve scores of 14, 17, 22, and 25, so the dragon manages to inflict the bane on three of the four.
+> Zarthakis, the great wyrm, is surrounded by a party of 4 adventurers. He unfurls the full fury of his wings and bellows a mighty roar, instilling terror in his foes as he attempts to inflict the *demoralized* bane using his Presence attribute. The dragon's Presence is 8, giving him a range of 75', quite enough to target all of the heroes. Because Zarthakis is multi-targeting 4 foes, he has disadvantage 4 on his action roll. Normally, he would roll 1d20 + 3d8, but because he has disadvantage, the wyrm rolls 1d20 + 7d8 (keeping the lowest 3 d8s). His total score is 22, which he compares to each target's Resolve defense score separately. The heroes have Resolve scores of 14, 17, 22, and 25, so the dragon manages to inflict the bane on three of the four.
 
 
 #### Invoke a Boon
