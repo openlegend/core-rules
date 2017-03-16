@@ -76,40 +76,22 @@ Some items have the *heavy* property. You can carry a number of *heavy* items eq
 
 Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5'.
 
-> #### Tech Levels
-> \
-> Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make: \
-> \
-> TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age \
-> TL 1 - Modern Age \
-> TL 2 - Near Future (mechs, cyborgs, laser weapons) \
-> TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology) \
-> \
-> When planning a campaign, the GM can specify which tech level (or levels) the campaign will use. For example, a typical sword and sorcery campaign would be set at tech level 0, while a steampunk campaign would probably use a good mix of tech levels 0 and 1.
-> \
-> \
-> **Mixing Tech Levels** \
-> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
-
-
 ## Weapons & Implements
 
-In this section you will find the tools needed to pick weapons and armor that your character will use in battle. The first half is a simplified weapon and armor creation table that can help to guide you to the right choice that makes the most sense for your Character. The second half is a more complex area for making more specific weapons.
+The Weapons & Implements table provides information about a wide variety of gear that you will use in combat. It features examples from a wide variety of genres and settings, and you can easily adapt existing weapons to your campaign simply by changing the name and keeping the mechanical statistics. For example, a flamethrower can just as easily become an alchemical acid spitter.
 
-*Open Legend does not insist that every weapon be equal in terms of the mechanical benefits in using it, thus some weapons will be seen more often, since they offer more advantages to the wielder than other weapons.*
+**Examples** list one or more weapons or implements that are mechanically equivalent. It is not an exhaustive list by any means, but simply something to get your brain working. Feel free to discuss with your GM about other items that would make sense.
 
-**Examples** are a few weapons or armor that could reflect this category. It is not an exhaustive list by any means, but simply something to get your brain working. Feel free to discuss with your GM about other items that would make sense.
-
-**Category** is the general group that the weapon falls into. Some weapons may fall into multiple categories. If a weapon falls into multiple categories, for each attack, the wielder must choose the mode being used and the attack gains the benefits of that category. For example a dagger is both “Close Ranged” and “One-handed Melee”. On each attack, the wielder chooses the mode.
+**Category** is the general group that the weapon falls into. Some weapons may fall into multiple categories. If a weapon falls into multiple categories, for each attack, the wielder must choose the mode being used and the attack gains the benefits of that category. For example, a dagger is both “Close Ranged” and “One-handed Melee”. On each attack, the wielder chooses the mode.
 
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks; with two weapons, you have a better chance of capitalizing on openings in your target's defense. If both weapons you are wielding have passive benefits such as the Defensive property, your benefit is the best of the two but does not stack.
-    * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks; blows delivered with both hands are usually more deadly.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attackse. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
+    * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
-* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you. A weapon like a rocket launcher should be handled as one-time use, expendable extraordinary item.
+* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you.
     * **Range Increments**
 
         * **Close Ranged** - Range increment of 25'.
@@ -120,7 +102,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
     * **Close** and **Short** Ranged weapons are built to be compact and effective in close quarters, so they are less bulky. They can be wielded with a single hand, allowing the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
     * **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
-    * **Extreme** Ranged weapons are built for distance and given their specialized calibration, cannot be used to attack a target closer than 50'.
+    * **Extreme** Ranged weapons are specially built for distance and cannot be used to attack a target closer than 50'.
 
 **WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
@@ -164,16 +146,17 @@ In this section you will find the tools needed to pick weapons and armor that yo
 | Small Shield | One-handed Melee | 2 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 3 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
-
-
+> ### Weapons and Game Balance
+>
+> Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a short sword over a long sword, mechanically speaking, because they are identical except that a long sword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a short sword over a long sword. A newly formed thieves guild, for example, might not have the resources to equip everyone with long swords, so their low-level agents might be equipped with short swords.
 
 ### Properties
 
 **Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
-**Expendable** - An expendable weapon breaks the usual rules of not tracking inventory. Each one occupies an inventory slot and attacking with the weapon consumes it, not to be used again.
+**Expendable** - An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.
 
-**Defensive** - A defensive weapon grants advantage equal to its value when its wielder takes the Defend action. While wielding an item with the Defensive property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a Defensive value greater than 3. Wielding any Defensive weapon grants a +1 armor bonus regardless of its Defensive value. This bonus does not stack with multiple Defensive weapons.
+**Defensive** - A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.
 
 **Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
@@ -181,16 +164,30 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Heavy** - The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
-**Precise** - This weapon can be used to make attacks with the Agility attribute  and invoke banes accessible via Agility.
+**Precise** - This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.
 
-**Reach** - The weapon can be used to attack enemies 10' away.
+**Reach** - This weapon can be used to attack enemies 10' away.
 
-**Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+**Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is still applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
-**Stationary** - the bulk and weight of this weapon is enormous. Moving it requires a Focus Action from an assisting character which transports the weapon 30'.
+**Stationary** - The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.
 
-**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you still get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
+> #### Tech Levels
+> \
+> Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make: \
+> \
+> TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age \
+> TL 1 - Modern Age \
+> TL 2 - Near Future (mechs, cyborgs, laser weapons) \
+> TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology) \
+> \
+> When planning a campaign, the GM can specify which tech level (or levels) the campaign will use. For example, a typical sword and sorcery campaign would be set at tech level 0, while a steampunk campaign would probably use a good mix of tech levels 0 and 1.
+> \
+> \
+> **Mixing Tech Levels** \
+> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
 
 \
 \
@@ -198,19 +195,21 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 ## Armor
 
-Armor provides a bonus to your Guard defense, thus reducing or negating the damage that you would suffer from many types of attacks.
-
-Armor comes in 3 types: light, medium, and heavy in terms of the protection they offer, ranging from a +1 to +3 bonus to your Guard defense. The examples below are general guidelines, feel free to create your own names, but armor should not grant a bonus greater than +3 to defense.
+The armor table details various types of protection that you might equip in order to keep yourself from harm. Like the Weapons and Implements table, it features examples from a variety of genres that can easily be adapted to fit your campaign. Armor provides a bonus to your Guard defense, thus reducing or negating the damage that you would suffer from many types of attacks.
 
 The Armor table summarizes the following properties of each type of armor:
+
+**Examples** list several suits of armor that are mechanically equivalent and logically grouped together.
+
+**Type** indicates whether the armor is light, medium, or heavy. Generally, light armor provides a defense bonus of +1, medium of +2, and heavy of +3.
+
+**Wealth Level** is an indication of how expensive the armor is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
 **Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the appropriate Fortitude score, a character cannot benefit from the protection afforded by the armor.
 
 **Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
-
-Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night's rest.
 
 <div class="table-no-body"></div>
 | Armor |
@@ -228,10 +227,13 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 \
 \
 
+### Getting in and out of Your Armor
+
+Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night's rest.
 
 ## Building Your Own Weapons
 
-Open Legend is all about freeform creativity, so we've given you lots of examples with the Weapons table, but the list is by no means exhaustive. If you want to build your own custom weapon, follow the steps below
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default Wealth Level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
@@ -241,16 +243,19 @@ Typically a weapon belongs to one category, however some weapons, such as a dagg
 
 Every weapon must have either the *Forceful* or *Precise* property and some weapons have both. Choose one or both.
 
-Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon. The Wealth Level of all weapons begins at 1.
+Next, choose any additional properties that the weapon possesses. Properties adjust the Wealth Level according to the following table.
 
-The *Defensive* property increases the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
-
-The *Area* property increases the Wealth Level of the item by 1 per 5' of area, this increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3.
-
-The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
-
-The *Expendable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
-
+| Property | WL Modifier |
+| :-: | :-: |
+| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 6: Combat) |
+| Defensive | Equal to the *defensive* value |
+| Delayed Ready | -1 |
+| Expendable | -1 |
+| Heavy | 0 |
+| Reach | +1 |
+| Slow | -1 |
+| Stationary | -1 |
+| Swift | +1 |
 
 ### Step 3: Choose Banes
 
@@ -260,17 +265,21 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 All weapons (with the exception of unarmed strike), begin with a base Wealth Level of 1. From there, calculate the Wealth Level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
-#### Weapon Building Example: Kusari-Gama (Chain & Sickle)
-
-Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
-
-**Step 1 (Choose a Category)** - While the kusari-gama, might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the  **One-handed Melee** and **Close Ranged** properties.
-
-**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
-
-**Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
-
-**Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
+> #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
+> 
+> Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
+> 
+> **Step 1 (Choose a Category)**
+> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the **One-handed Melee** and **Close Ranged** properties.
+> 
+> **Step 2 (Choose Properties)**
+> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
+> 
+> **Step 3 (Choose Banes)**
+> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, and **Provoked**.
+>
+> **Step 4 (Calculate Wealth Level)**
+> The total Wealth Level modifier of the properties chosen in step 2 is +1. Added to the base Wealth Level of 1, we arrive at a final Wealth Level of 2 for our kusari-gama.
 
 
 

@@ -430,7 +430,7 @@ Choose any additional properties that the item might have. Properties apply a we
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the disadvantage of the area minus 1. (e.g., 10' cube = +1 WL, 15' cube = +2 WL). Cannot result in a negative WL modifier |
+| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 6: Combat) |
 | Armor | Must be acquired or crafted first |
 | Augmenting | +1 |
 | Autonomous | +2 |
