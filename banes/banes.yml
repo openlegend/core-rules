@@ -429,20 +429,9 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    With the power of Protection, you are able to cancel boon effects on enemies by cutting their power, similar to how you might defend against incoming attacks by interrupting their effect.
+    Through magical power, technological hacking, or similar means, you are able to nullify your enemy's boons.
   effect: |
-    You cancel a single boon affecting the target of this bane's power level or lower. The invoking power level further impacts the effect as follows:
-    <ul>
-      <li><strong>Power Level 1</strong> - Cancel a boon of Power Level 1. You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute</li>
-      <li><strong>Power Level</strong> - Cancel a boon of Power Level 2</li>
-      <li><strong>Power Level</strong> - Cancel a boon of Power Level 3</li>
-      <li><strong>Power Level</strong> - Cancel a boon of Power Level 4</li>
-      <li><strong>Power Level</strong> - Cancel a boon of Power Level 5</li>
-      <li><strong>Power Level 6</strong> - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute</li>
-      <li><strong>Power Level 7</strong> -  Cancel a boon of Power Level 7</li>
-      <li><strong>Power Level 8</strong> -  Cancel a boon of Power Level 8</li>
-      <li><strong>Power Level 9</strong> -  Cancel a boon of Power Level 9</li>
-    </ul>
+    You cancel a single boon affecting the target. The boon's power level must be equal to or less than the power level at which you are invoking <emphasis>nullify</emphasis>. If you invoke <emphasis>nullify</emphasis> at power level 6 or greater, you can even cancel boon's that are permanent, passive, or inherent to the target (e.g., the invisibility of a will o' wisp). The target cannot benefit from the cancelled boon or have it invoked upon them for 1 minute.
 - !
   name: Persistent Damage
   tags:
