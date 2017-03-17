@@ -88,9 +88,10 @@
   description: |
     Utilizing either incredible precision or the power of entropy, the target's life force is snuffed out completely. The deadliest assassins and most powerful necromancers are known for such legendary skill at ending life.
   effect: |
-    You attempt to completely snuff the life force of your target. There is a brief window of time in which the target can attempt to resist this extinguishing force, but once that window closes, the death is permanent and can only be reversed if the GM allows a special mission to use rare technology or long-forgotten magic to restore the target. When the bane is initially applied, the target is immobile (can't move from their current space) and unconscious. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow.
+    Upon a successful invocation, the target is immediately rendered immobile, unconscious, and unable to take actions. They have disadvantage 5 on all perception rolls, and any damaging attacks against them count as finishing blows.
+    If the target fails three resist rolls to shake off this bane, they die. The death is permanent and can only be reversed if the GM allows a special mission to use rare technology or long-forgotten magic to restore the target to life.
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the impending death. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours. If the target fails three resist rolls in a row, they die.
+    While most banes last until the target actively attempts to resist it, this bane renders the target incapable of taking actions and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the impending death. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When the target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Demoralized
   tags:
