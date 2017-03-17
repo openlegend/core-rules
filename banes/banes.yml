@@ -18,7 +18,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, or a dazzling flash of light.
+    You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, to a dazzling flash of light.
   effect: |
     The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplementd by another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.
 - !
@@ -38,17 +38,17 @@
   description: |
     Charms are one of the great banes of legend, wielded by powerful enchantresses like Circe (in Homer's The Odyssey), nymphs, and other enchanters who control the will of others, not through total domination, but through a magical spell of love or friendship.
   effect: |
-    The charmed bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane. The Charmed bane manifests at two levels: minor and major.
-    <strong>Minor Charm</strong> - The target is mentally compelled to become more friendly, only changing their attitude toward you moderately. If they are about to strike you with a piece of furniture, they will restrain themselves - still angry and hostile, but no longer violent. If they want to help you and are leaning toward trusting you, but have some hesitation because you've just met, then that hesitation goes away.
+    The charmed bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane. The charmed bane manifests at two levels: minor and major.
+    <strong>Minor Charm</strong> - The target is mentally compelled to become more friendly, only changing their attitude toward you moderately. If they are about to strike you, they will restrain themselves - still angry and hostile, but no longer violent. If they want to help you and are leaning toward trusting you, but have some hesitation because you've just met, then that hesitation goes away.
     <strong>Major Charm</strong> - The attacker chooses whether the major charm is platonic or romantic. If platonic, the bane causes the target to consider the attacker their best friend and one of the most trustworthy and noble people they have met in all their lives. Alternatively, the attacker can choose for this trust and admiration to manifest as romantic love. The attacker is unable to do anything to plot against the one who afflicted them, and will (at the earliest possible opportunity) tell their charmer of any rumored harm or danger coming their way. The afflicted character becomes immediately suspicious of anyone who speaks ill of their attacker.
     The target is mentally compelled to like and trust you more, depending on the power level of the bane when invoked.
       <ul>
       <li><strong>Power Level 3</strong> - You can Minor Charm creatures of animal level intelligence or lower.</li>
-      <li><strong>Power Level 4</strong> - You can Minor Charm, creatures of humanoid intelligence. You can Major Charm creatures of animal level intelligence or lower.</li>
+      <li><strong>Power Level 4</strong> - You can Minor Charm creatures of humanoid intelligence. You can Major Charm creatures of animal level intelligence or lower.</li>
       <li><strong>Power Level 6</strong> - You can Major Charm creatures of humanoid intelligence.</li>
       </ul>
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Deafened
   tags:
@@ -67,9 +67,9 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    You deafen your foe with a clap of thunder, a deafening clap of hands to their ears, or a dark energy that disables their hearing.
+    You deafen your foe with a crash of thunder, a deafening clap of hands to their ears, or a dark energy that disables their hearing.
   effect: |
-    The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplementd by another sense suffer disadvantage 3.
+    The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.
 - !
   name: Death
   tags:
@@ -86,11 +86,11 @@
   invocationTime: 1 Major Action
   duration: Resist ends (special) (Fail x 3 = Permanent)
   description: |
-    Utilizing either incredible precision or the power of entropy, the target's life force is snuffed out completely. The most deadly assassins and most powerful necromancers are known for such legendary skill at snuffing out life.
+    Utilizing either incredible precision or the power of entropy, the target's life force is snuffed out completely. The deadliest assassins and most powerful necromancers are known for such legendary skill at ending life.
   effect: |
-    You attempt to completely snuff the life force of your target. There is a brief window of time in which the target can attempt to resist this extinguishing force, but once that window closes, the death is permanent and can only be reversed if the GM allows a special mission to use rare technology or long-forgotten magic to restore the target. When the bane is initially applied, the target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls, and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow.
+    You attempt to completely snuff the life force of your target. There is a brief window of time in which the target can attempt to resist this extinguishing force, but once that window closes, the death is permanent and can only be reversed if the GM allows a special mission to use rare technology or long-forgotten magic to restore the target. When the bane is initially applied, the target is immobile (can't move from their current space) and unconscious. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow.
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the pending death. As such, at the end of each of its turns, the target receives a Resist roll as a free action to break free from the effect. Whereas 3 failed resist rolls would usually persist the effects of the bane, this bane extinguishes the life force of the target on 3 failed saves, thus it is permanent. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the impending death. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours. If the target fails three resist rolls in a row, they die.
 - !
   name: Demoralized
   tags:
@@ -156,12 +156,12 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Whether through wrestling it from your opponent, forcefully knocking it out of their hand, skilfully parrying a weapon, a precise nerve strike, magical summoning of vines, etc., heating or chilling an item in their hands, giving a mental command, weakening the muscles they use to grip, or warping the shape of the item, you force an opponent to lose control of an object they are holding.
+    You force an oppenent to lose control of an object they are holding, whether through brute force, a skillfull parry, heating the item to unbearable temperatures, mental compulsion, or some other means.
   effect: |
     <ul>
-    <li><strong>Power Level 3</strong> - You force another character to drop an object they are holding. Choose a location within 15' of the target, the item ends up there.
+    <li><strong>Power Level 3</strong> - The target drops an object they are holding in a space of your choosing withing 15' of the target.
     </li>
-    <li><strong>Power Level 6</strong> - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute (typically Might) roll with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
+    <li><strong>Power Level 6</strong> - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute roll (typically Might) with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
     </li>
     </ul>
 - !
