@@ -1,6 +1,6 @@
 # Introduction: This is Your Story. Tell it. #
 
-*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a dusty stasis pod. One of them, covered head to toe in cybernetic implants, attempts to make sense of the alien symbols painted on the pod in dried blood.
+*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a dusty stasis pod. One of them, covered head to toe in cybernetic implants, attempts to make sense of the alien symbols painted on the pod in dried blood.*
 
 *“Hold that light steady!” he mutters to his companion.*
 
