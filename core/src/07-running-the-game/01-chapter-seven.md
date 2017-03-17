@@ -338,7 +338,16 @@ Use the NPC Simple Build Table to determine the monster's most relevant statisti
 | 8 | 24 - 36 | 17 - 23 | 8 | 6 |
 | 9 | 26 - 38 | 18 - 24 | 8 | 7 |
 | 10 | 28 - 40 | 19 - 25 | 9 | 7 |
-
+| 11 | 30 - 42 | 19 - 25 | 9 | 8 |
+| 12 | 32 - 44 | 20 - 26 | 10 | 8 |
+| 13 | 34 - 46 | 20 - 26 | 10 | 9 |
+| 14 | 36 - 48 | 21 - 27 | 10 | 9 |
+| 15 | 38 - 50 | 21 - 27 | 10 | 9 |
+| 16 | 40 - 52 | 22 - 28 | 10 | 9 |
+| 17 | 42 - 54 | 22 - 28 | 10 | 9 |
+| 18 | 44 - 56 | 23 - 29 | 10 | 9 |
+| 19 | 46 - 58 | 23 - 29 | 10 | 9 |
+| 20 | 48 - 60 | 24 - 30 | 10 | 9 |
 
 Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Some of these are new feats that are only available to GM controlled monsters and NPCs.
 
