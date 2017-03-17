@@ -415,7 +415,7 @@ The number of additional attacks you can make with this feat is limited to 1 + h
 
 - **Superior Concentration (tier 1 - 3, your choice):** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
 
-> #### Example Simple Monster Build: Swamp Snakes
+> ##### Example Simple Monster Build: Swamp Snakes
 >
 > Returning to the example at the beginning of this section, let's build our venomous swamp snakes imagining that the party is made up of 3rd level characters, and thus we choose to make the Swamp Snakes using the row for level 3 Monsters. We decide that the snakes aren't particularly tough to kill, so referencing the Simple Build Table, we'll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we'll go with the high range for Guard: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We'll only assign one primary attribute, giving the snakes an Agility of 5, and we'll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
 >
@@ -423,10 +423,9 @@ The number of additional attacks you can make with this feat is limited to 1 + h
 
 #### Boss NPCs
 
-A Boss is a single monster or NPC that is capable of taking on a group of characters due to extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
+A Boss is a single monster or NPC that is capable of taking on a group of characters due to its extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
 
 When you decide that one of your monsters or NPCs merits boss status, use the Boss NPC Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
-
 
 <div class="table-no-body"></div>
 | BOSS NPC BUILD |
@@ -458,9 +457,24 @@ When you decide that one of your monsters or NPCs merits boss status, use the Bo
 
 **Boss Edge**
 
-A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. A boss NPC gets advantage on all attack rolls equal to its boss edge value.
+A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. Furthermore, a boss NPC gets advantage on all attack rolls equal to its boss edge value.
 
-In addition to its normal allotment of actions, a boss also receives a number of boss actions on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
+In addition to its normal allotment of actions, a boss also receives a number of special *boss actions* on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
+
+> ##### Example Initiative Order Using Boss Actions
+>
+> The following initiative order imagines a group of 4 player characters fighting a boss with an edge of 4. Only one of the PCs rolled higher than the boss on initiative.
+>
+> 1st: PC 1
+> 2nd: Boss's Normal Turn
+> 3rd: PC 2
+> 4th: Boss Action 1
+> 5th: PC 3
+> 6th: Boss Action 2
+> 7th: PC 4
+> 8th: Boss Action 3
+> 9th: Boss Action 4
+> 
 
 ## Planning Combat Encounters
 
@@ -471,7 +485,6 @@ The build rules just explained help you create individual monsters or NPCs for t
 When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn't present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
 
 Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
-
 
 <div class="table-no-body"></div>
 | ENCOUNTER DIFFICULTY |
@@ -494,9 +507,9 @@ If your encounter includes boss NPCs, multiply their level by 4 for purposes of 
 
 #### Minions
 
-When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four. Essentially, minions.
+When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four.
 
-For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your monster level budget would only allow you to include six 1st level monsters, but you decide to replace them all with minions, allowing you to include 18 goblins.
+For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your monster level budget would only allow you to include six 1st level monsters, but you decide to replace them all with minions, allowing you to include 18 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 HP each.
 
 ### Encounter Setting
 
@@ -508,28 +521,6 @@ Rarely do epic movie fight scenes take place in an empty chamber. There are usua
 
 **Hazards.** Consider adding an extra count in the initiative for some sort of natural or extraordinary hazard, such as a steaming geyser or poisonous mushroom spore. Once per round, randomly choose a PC or two to fall victim to these perils of the battlefield.
 
-### Encounter Consequences
-
-Not every fight that your party gets into needs to be a knock down drag out fight to the death, nor does every encounter need to have a binary win/loss condition. When determining how a fight ends, remember to consider the motivations of the combatants and the demands of the plot. Are the PCs worth more to the orc chief alive than dead? Will the story be more interesting if the dragon doesn't wipe out the entire party? Consider some of the following possibilities whenever deciding how a fight will end.
-
-**Don't be afraid to end it early.** Sometimes, despite all your plans, a combat just takes too long. Or maybe the party's luck runs dry and they spend four rounds trying to kill the last two carnivorous shrubs. It's okay to fast-forward the combat when things are going stale and everyone at the table is ready for the next scene. Simply narrate the gist of what happens, and move on. Generally, you should only do this if the combat is obviously going to end in the PCs' favor. If the bad guys are winning, most parties will likely want to fight to the bitter end. If fast-forwarding to a party defeat, be sure that ALL of your players are agreeable first.
-
-**Partial defeat is more interesting than a total party kill.** Battles are much greater swirling maelstroms of chaos than our gridded battle mats, top-down views, and sequential turns would lead us to believe. This means that the GM has plenty of wiggle room for creating outcomes that might not have come up in the blow-by-blow narrative of the encounter. So, if the entire party is knocked unconscious or otherwise defeated, you are well within your rights to say that, for example, one of the PCs stumbled out of sight unnoticed before passing out, or that the monsters leave half of the party for dead and capture the few that they think are still alive. Little twists like this allow the players a chance to turn a loss into an epic tale for revenge or recovery.
-
-**Hard decisions test a hero's mettle.** A favorite tactic of super villains everywhere is to force the hero to decide between winning the fight or saving a mass of helpless bystanders. Combat encounters in Open Legend can also end in tough decisions for the party: the sorcerer hovers over a magma filled chasm so that landing the final blow also means destroying the magical staff he wields, the hill giant reveals that he has a family captive in a cave which he will only reveal if his life is spared, and so on. Though your players will get tired of these tactics if they are used excessively, forcing hard choices on your heroes will help them define their characters and prove their loyalties.
-
-**Death is okay, sometimes.** The above suggestions aren't meant to imply that you should never kill off a PC (or four). They are simply illustrations of the variety of ways that a fight can end in an interesting manner. Sometimes, heroes die, and if your players know that character death is a real possibility, it will make their victories and exploits all the more legendary. If a character does need to die, though, make sure they go out with a bang, with an epic story to be sung by bards for ages eternal.
-
-### On Balance and Fairness
-
-When planning your encounters, you do not need to strive for balance, but you should aim to be fair to your players.
-
-Video games are balanced: they are designed to present players with incremental challenges that grow in difficulty alongside the power of the player. Because of the inherent lack of openness and choice in most video games, players would easily get frustrated if the challenges weren't balanced to their progress in the game.
-
-Role playing games, on the other hand, aren't meant to be balanced all of the time. They are meant to be immersive. They are meant to allow players to push the limits of possibility in fantastical worlds. This level of freedom means that sometimes the heroes will come face to face with threats that they cannot overcome.
-
-As a GM, you don't need to have any anxiety over putting an impossible challenge before your party. But you do have to be fair about it. You are responsible for warning the party to the danger that lies ahead. It would be unfair, for example, to drop an ancient red wyrm upon an unsuspecting party of first level PCs with no option to escape. It would be perfectly fair, however, if the party encounters the dragon after exploring the ancient ruins that make his lair despite warnings from the locals and tremors that grow stronger with every step deeper into the ruins.
-
 ### Ad Hoc Damage
 
 Sometimes in your encounters and adventures, you might have the party take damage from sources other than enemy attacks. For example, the party fails to scour an old battlefield and ends up setting off a chain of land mines. Or maybe someone gets knocked into a pool of lava while invading the red dragon's volcanic lair. Other common sources of ad hoc damage include falling, acid, and frostbite.
@@ -540,7 +531,7 @@ In situations like these, in which the damage dealt isn't tied to an attack roll
 
 **Moderate Damage (Severity Level 5 - 7):** The damage is serious, but probably won't knock the character out of action.
 
-**Heavy Damage (Severity Level 8 - 9):** The damage is life threatening, and could easily knock a character out of action in the right circumstances.
+**Heavy Damage (Severity Level 8 - 10):** The damage is life threatening, and could easily knock a character out of action in the right circumstances.
 
 <div class="table-no-body"></div>
 | AD HOC DAMAGE |
@@ -557,6 +548,29 @@ In situations like these, in which the damage dealt isn't tied to an attack roll
 | 6              | 2d8    | Falling 60', a car crash|
 | 7              | 2d10   | Falling 70', falling into acid|
 | 8              | 3d8    | Falling 80', a plane crash|
-| 9              | 3d10   | Falling 90'+, falling into lava |
+| 9              | 3d10   | Falling 90', falling into lava |
+| 10             | 4d8    | Falling 100'+, being completely crushed between two hard surfaces |
 
 The GM has the option to make any ad hoc damage *lethal damage*. Typically, this is the case with damage that occurs outside of combat, such as by a trap or environmental hazard.
+
+### Encounter Consequences
+
+Not every fight that your party gets into needs to be a knock down drag out fight to the death, nor does every encounter need to have a binary win/loss condition. When determining how a fight ends, remember to consider the motivations of the combatants and the demands of the plot. Are the PCs worth more to the orc chief alive than dead? Will the story be more interesting if the dragon doesn't wipe out the entire party? Consider some of the following possibilities whenever deciding how a fight will end.
+
+**Don't be afraid to end it early.** Sometimes, despite all your plans, a combat just takes too long. Or maybe the party's luck runs dry and they spend four rounds trying to kill the last two carnivorous shrubs. It's okay to fast-forward the combat when things are going stale and everyone at the table is ready for the next scene. Simply narrate the gist of what happens, and move on. Generally, you should only do this if the combat is obviously going to end in the PCs' favor. If the bad guys are winning, most parties will likely want to fight to the bitter end. If you are fast-forwarding to a party defeat, be sure that ALL of your players are agreeable first.
+
+**Partial defeat is more interesting than a total party kill.** Battles are much greater swirling maelstroms of chaos than our gridded battle mats, top-down views, and sequential turns would lead us to believe. This means that the GM has plenty of wiggle room for creating outcomes that might not have come up in the blow-by-blow narrative of the encounter. So, if the entire party is knocked unconscious or otherwise defeated, you are well within your rights to say that, for example, one of the PCs stumbled out of sight unnoticed before passing out, or that the monsters leave half of the party for dead and capture the few that they think are still alive. Little twists like this allow the players a chance to turn a loss into an epic tale for revenge or recovery.
+
+**Hard decisions test a hero's mettle.** A favorite tactic of super villains everywhere is to force the hero to decide between winning the fight or saving a mass of helpless bystanders. Combat encounters in Open Legend can also end in tough decisions for the party: the sorceress hovers over a magma filled chasm so that landing the final blow also means destroying the magical staff she wields, the hill giant reveals that he has an innocent family captive in a cave which he will only reveal if his life is spared, and so on. Though your players will get tired of these tactics if they are used excessively, forcing hard choices on your heroes will help them define their characters and prove their loyalties.
+
+**Death is okay, sometimes.** The above suggestions aren't meant to imply that you should never kill off a PC (or four). They are simply illustrations of the variety of ways that a fight can end in an interesting manner. Sometimes, heroes die, and if your players know that character death is a real possibility, it will make their victories and exploits all the more legendary. If a character does need to die, though, make sure they go out with a bang, with an epic story to be sung by bards for ages eternal.
+
+### On Balance and Fairness
+
+When planning your encounters, you do not need to strive for balance, but you should aim to be fair to your players.
+
+Video games are balanced: they are designed to present players with incremental challenges that grow in difficulty alongside the power of the player. Because of the inherent lack of openness and choice in most video games, players would easily get frustrated if the challenges weren't balanced to their progress in the game.
+
+Role playing games, on the other hand, aren't meant to be balanced all of the time. They are meant to be immersive. They are meant to allow players to push the limits of possibility in fantastical worlds. This level of freedom means that sometimes the heroes will come face to face with threats that they cannot overcome.
+
+As a GM, you don't need to have any anxiety over putting an impossible challenge before your party. But you do have to be fair about it. You are responsible for warning the party to the danger that lies ahead. It would be unfair, for example, to drop an ancient red wyrm upon an unsuspecting party of first level PCs with no option to escape. It would be perfectly fair, however, if the party encounters the dragon after exploring the ancient ruins that make his lair despite warnings from the locals and tremors that grow stronger with every step deeper into the ruins.
