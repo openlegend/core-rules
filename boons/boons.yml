@@ -10,9 +10,9 @@
   invocationTime: 1 Major Action
   duration: Permanent
   description: |
-    You are able to absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space to hide it.
+    You are able to absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space in which to hide the object.
   effect: |
-    The object remains in place, completely hidden from the perception of others, until you summon or recall it (automatically) as a minor action. If anything happens to cancel this boon (such as the Nullify bane), the object is immediately shunted out of your target's body as if the object had been withdrawn.
+    The object remains in place, completely hidden from the perception of others, until the target summons or recalls it (automatically) as a minor action. If anything happens to cancel this boon (such as the nullify bane), the object is immediately shunted out of the target's body as if the object had been withdrawn.
 - !
   name: Animation
   tags:
@@ -29,10 +29,10 @@
     You create life or unlife of subhuman intelligence that persists indefinitely and autonomously.
   effect: |
     Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that lasts 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no permanent control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
-    The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and it should follow the guidelines established by the "Simple Build" section for creating NPCs / monsters in Chapter 7: Running the Game.
+    The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and should follow the guidelines established by the "Simple Build" section for creating NPCs / monsters in Chapter 8: Running the Game.
     <ul>
-    <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the <strong>Charmed</strong> (Minor Charm) bane already in effect (no roll is required).</li>
-    <li><strong>Power Level 8</strong> - You can animate a group of creatures: Either 10 creatures with a max attribute of 2, or 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <strong>Charmed</strong> bane is a Major Charm instead of Minor Charm.</li>
+    <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the <emphasis>charmed</emphasis> (Minor Charm) bane already in effect (no roll is required).</li>
+    <li><strong>Power Level 8</strong> - You may choose to animate a group of creatures: Either 10 creatures with a max attribute of 2, 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <emphasis>charmed</emphasis> bane is a Major Charm instead of Minor Charm.</li>
     </ul>
 - !
   name: Aura
@@ -101,7 +101,7 @@
     <br>
     <strong>Impassable:</strong> Creatures and objects cannot move through the barrier.
     <br>
-    <strong>Baneful:</strong> Choose a bane which you can inflict that has a Power Level less than or equal to the Power Level of your Barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
+    <strong>Baneful:</strong> Choose a bane which you can inflict that has a power level less than or equal to the power level of your barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
     <br>
     <strong>Mobile:</strong> You may spend a major action to move the barrier up to 30 feet.
 - !
@@ -121,7 +121,7 @@
   description: |
     Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or extraordinarily heightened senses.
   effect: |
-    The Blinded bane does not adversely affect your target and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisible, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisible boon.
+    The target is immune to the blinded bane and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisiblity, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisible boon.
 - !
   name: Bolster
   tags:
@@ -169,7 +169,7 @@
   description: |
     You create an area of illusory darkness or entropic energy that snuffs out all light.
   effect: |
-    Choose a space or object within range. Darkness emanates from the target to a radius equal five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc) are unaffected. If the darkness area overlaps an area affected by the Light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
+    Choose a space or object within range. Darkness emanates from the target to a radius equal to five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc.) are unaffected. If the darkness area overlaps an area affected by the light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 - !
   name: Detection
   tags:
@@ -181,9 +181,9 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You gain extraordinary vision that allows you to see colored auras which correlate to magical and spiritual forces.
+    You gain extraordinary vision that allows you to see colored auras which correlate to magical, spiritual, or other extraordinary forces.
   effect: |
-    When calling on this boon, you must choose from the following: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, and <strong>magic</strong>. Your target can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming). These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone. Even a Paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
+    When calling on this boon, you must choose the type of aura you are detecting: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, or <strong>magic</strong>. You can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming). These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone. Even a paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
     <ul>
     <li><strong>Holy</strong> - Holy energy surrounds extraplanar beings from the heavens or similar good-aligned dimensions where pure goodness is embodied. </li>
     <li><strong>Unholy</strong> - Unholy energy surrounds extraplanar beings from the hells or similar evil-aligned dimensions where pure evil is embodied.</li>
@@ -192,7 +192,7 @@
     <li><strong>Magic</strong> - Extraordinary auras surround objects or places imbued with such effects. Extraordinary creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.</li>
     </ul>
   special: |
-    Unlike other boons, this boon can not target another character. Only the character invoking the boon can see the auras.
+    Unlike other boons, this boon can not target another character. Only the character invoking the boon can see the auras. Additionally, the GM may allow other types of suitable auras to be detected as appropriate to the campaign setting.
 - !
   name: Flight
   tags:
@@ -229,13 +229,13 @@
   invocationTime: Special
   duration: Instantaneous
   description: |
-    You create something from nothing. You are able to a wide array of materials from create temporary vegetable matter to complex crafted goods.
+    You create something from nothing. Depending on the power of your invocation, you are able to manifest a wide array of materials, from temporary vegetable matter to permanent crafted goods of remarkable complexity.
   effect: |
     <ul>
-    <li><strong>Power Level 1</strong> - You can create temporary non-sentient matter (plants, dirt, water, vines, etc.), anything created in this way deteriorates or decomposes to become useless after 1 hour.
-    <li><strong>Power Level 3</strong> - You can create permanent non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.</li>
-    <li><strong>Power Level 7</strong> - You can create organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. The invocation time for this application is 8 hours.</li>
-    <li><strong>Power Level 9</strong> - You can create not just raw materials, but crafted items - though a craftsman is still required to work anything into an exceptional quality. The invocation time for this application is 1 hour per cubic foot of the finished item.</li>
+    <li><strong>Power Level 1</strong> - You can create <emphasis>temporary</emphasis> non-sentient matter (plants, dirt, water, vines, etc.), anything created in this way deteriorates or decomposes to become useless after 1 hour. Using this boon you can create 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.</li>
+    <li><strong>Power Level 3</strong> - You can create <emphasis>permanent</emphasis> non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.</li>
+    <li><strong>Power Level 7</strong> - You can create <emphasis>permanent</emphasis> organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. The invocation time for this application is 8 hours.</li>
+    <li><strong>Power Level 9</strong> - You can create not just raw materials, but <emphasis>permanent</emphasis> crafted items - though a craftsman is still required to work anything into an exceptional quality. The invocation time for this application is 1 hour per cubic foot of the finished item.</li>
     </ul>
 - !
   name: Haste
