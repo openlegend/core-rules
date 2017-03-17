@@ -328,9 +328,9 @@ Use the NPC Simple Build Table to determine the monster's most relevant statisti
 
 | NPC Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | 10 - 22 | 10 - 18 | 4 | 3 |
-| 2 | 12 - 24 | 11 - 18 | 5 | 3 |
-| 3 | 14 - 26 | 12 - 19 | 5 | 4 |
+| 1 | 10 - 22 | 10 - 16 | 4 | 3 |
+| 2 | 12 - 24 | 11 - 17 | 5 | 3 |
+| 3 | 14 - 26 | 12 - 18 | 5 | 4 |
 | 4 | 16 - 28 | 13 - 19 | 6 | 4 |
 | 5 | 18 - 30 | 14 - 20 | 6 | 5 |
 | 6 | 20 - 32 | 15 - 21 | 7 | 5 |
@@ -340,18 +340,18 @@ Use the NPC Simple Build Table to determine the monster's most relevant statisti
 | 10 | 28 - 40 | 19 - 25 | 9 | 7 |
 
 
-Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities:
+Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Some of these are new feats that are only available to GM controlled monsters and NPCs.
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
 - **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
+- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane.
+
 - **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain the following benefits:
 
 	- **Tier 1:** Gain +5 to your defense against the chosen bane.
 	- **Tier 2:** You are immune to the chosen bane.
-
-- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon you can invoke. Gain the following benefits:
 
@@ -374,37 +374,37 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Evasive Footwork:** When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 
-- **Lethal Strike (tier equal to NPC level, max 9):** Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
-    1. Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception.
-    2. If an enemy is adjacent to an ally wielding a melee weapon, then you can make a lethal strike against that enemy.
+- **Lethal Strike (tier equal to NPC level, max 9):** Your attacks are considered lethal strikes whenever you fulfill *one* of the following conditions:
+    - Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
+    - Your target is within melee attack range of an ally.
 
-    If one of the above conditions is met, you can deliver a lethal strike, which grants advantage and deals lethal damage in accordance with your tier and is difficult to recover from. Each tier below has an amount of advantage and a max lethal damage. If you deal damage up to the lethal threshold, then the lethal damage equals your damage total. If you deal more damage than the lethal threshold, you deal lethal damage equal to the threshold.
+You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 6: Combat).
 
-    - **Tier 1** - Advantage 1, Max lethal damage 5
-    - **Tier 2** - Advantage 2, Max lethal damage 5
-    - **Tier 3** - Advantage 3, Max lethal damage 10
-    - **Tier 4** - Advantage 4, Max lethal damage 10
-    - **Tier 5** - Advantage 5, Max lethal damage 15
-    - **Tier 6** - Advantage 6, Max lethal damage 20
-    - **Tier 7** - Advantage 7, Max lethal damage 20
-    - **Tier 8** - Advantage 8, Max lethal damage 25
-    - **Tier 9** - Advantage 9, Max lethal damage 25
+    - **Tier 1** - Advantage 1, Up to 5 lethal damage
+    - **Tier 2** - Advantage 2, Up to 5 lethal damage
+    - **Tier 3** - Advantage 3, Up to 10 lethal damage
+    - **Tier 4** - Advantage 4, Up to 10 lethal damage
+    - **Tier 5** - Advantage 5, Up to 15 lethal damage
+    - **Tier 6** - Advantage 6, Up to 20 lethal damage
+    - **Tier 7** - Advantage 7, Up to 20 lethal damage
+    - **Tier 8** - Advantage 8, Up to 25 lethal damage
+    - **Tier 9** - Advantage 9, Up to 25 lethal damage
 
-- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of additional attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
+- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 
-You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
+You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
 
-- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with multi-targeting by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
 
 - **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
 
-- **Potent Bane:** Choose a bane. When you invoke the chosen bane on a target, Resist rolls to shake off the bane have disadvantage 1.
+- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
 
-- **Resilient:** Any time you roll to Resist, you have advantage 1 on the roll.
+- **Potent Bane:** Choose one bane that you can invoke that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.
+
+- **Resilient:** Any time you make a resist roll, you have advantage 1 on the roll.
 
 - **Superior Concentration (tier 1 - 3, your choice):** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
-
-**Special:** This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
 
 > #### Example Simple Monster Build: Swamp Snakes
 >
