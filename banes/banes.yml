@@ -327,11 +327,11 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    Incapacitation is a catch-all for a variety of effects, including total paralysis, sleep, petrification, poisoning, being knocked out, or fainting. Examples of possible causes of this bane include a martial artist's paralyzing strike, an enchanter's magical song of sleep, paralysis by poison, fainting from extreme heat, suffocation, and the gaze of a medusa.
+    Incapacitation is a catch-all bane for a variety of effects, including total paralysis, sleep, petrification, poison, being knocked out, fainting, or similar conditions that render a character completely helpless. Examples of possible causes of this bane include a martial artist's paralyzing strike, an enchanter's magical song of sleep, paralysis by poison, fainting from extreme heat, suffocation, and the gaze of a medusa.
   effect: |
-    The target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption like a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage or more.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces, only the afflicted character's successful resist roll can end the effect.</li></ul>
+    The target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption, such as a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage or more.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces. Only the afflicted character's successful resist roll can end the effect.</li></ul>
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's body fights to regain consciousness. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
   name: Knockdown
   tags:
@@ -352,7 +352,7 @@
   description: |
     Whether via a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak, you knock the target off their feet.
   effect: |
-    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1. To stand up from prone, the target can expend a move action to both stand up and also move half their speed, rounded down.
+    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1. Standing up from prone requires a move action and costs a character half (round down) of their speed for the round.
 - !
   name: Memory Alteration
   tags:
@@ -370,15 +370,16 @@
   description: |
     Warping or controlling the mind is one of the most dreaded powers of enchanters, causing powerful heroes to forget their homes, families, and quests.
   effect: |
-    The memory alteration bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane.
-    This bane confers no special ability to know about a target's memory. The invoker must be aware of the memory either from rumor, personal knowledge, prescience, or other means.
+    You alter the target's memories to an extent based on the power level of the bane.
     <ul>
     <li><strong>Power Level 5</strong> - You temporarily modify a minor aspect of the target's memory. The target automatically regains the lost memory and realizes their confusion 1 hour later.</li>
     <li><strong>Power Level 6</strong> - You permanently erase or alter the last 5 minutes of the target's memory. The target does not know what happened during this time outside of the memories you feed them (including having seen you, if they did). Multiple uses of this bane progressively erase consecutive 5 minute increments.</li>
     <li><strong>Power Level 8</strong> - Instead of the immediate past, you can erase or alter memories from any time.</li>
     </ul>
+    The memory alteration bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane.
+    This bane confers no special ability to know about a target's memory. The invoker must be aware of the memory either from rumor, personal knowledge, prescience, or other means.
   special: |
-    When you target an enemy with this bane and your action roll fails to beat the target's resolve defense, the target is immune to further attempts of this bane from you for the next 24 hours.
+    When you target an enemy with this bane and your action roll fails to beat the target's Resolve defense, the target is immune to further invocations of this bane from you for the next 24 hours.
 - !
   name: Mind Dredge
   tags:
@@ -395,14 +396,15 @@
   - Prescience vs. Resolve
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
-  description: Fortune tellers, psychics, and mentalists all use mind dredge to peer into the minds of others.
+  description: |
+    Fortune tellers, psychics, and mentalists all use mind dredge to peer into the minds of others.
   effect: |
     <ul>
     <li><strong>Power Level 2</strong> - This power may only target creatures of animal intelligence or lower. You gain access to the target's current thoughts.</li>
     <li><strong>Power Level 4</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts.</li>
-    <li><strong>Power Level 6</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access access to an additional day's worth of memories.</li>
-    <li><strong>Power Level 8</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access access to an additional year's worth of memories. Alternatively, you may choose to gain the memories associated with a particular place, object, or event.</li>
-    <li><strong>Power Level 9</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to gain the memories associated with a particular place, object, or event. </li>
+    <li><strong>Power Level 6</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its recent memories. Initially, you may probe 1 day into the past. For every round that the bane persists, you gain access to an additional day's worth of memories.</li>
+    <li><strong>Power Level 8</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as its distant memories. Initially, you may probe 1 year into the past. For every round that the bane persists, you gain access to an additional year's worth of memories. Alternatively, you may choose to access the memories associated with a particular place, object, or event.</li>
+    <li><strong>Power Level 9</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to access the memories associated with a particular place, object, or event. </li>
     </ul>
   special: |
     When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
