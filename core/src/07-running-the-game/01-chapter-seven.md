@@ -174,7 +174,7 @@ Once you've got enough planned to get started, get your group together, make som
 
 The thrill of adventure, the satisfaction of character development, and the joy of seeing a plotline come to its fulfillment are all intrinsically rewarding events that keep players coming back to the gaming table week after week. But still, just as players of any game, your players will also enjoy good old-fashioned extrinsic motivators. In Open Legend, these sorts of rewards typically come in two forms: wealth and power.
 
-### How and When to Award XP
+### Awarding XP
 
 In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
@@ -204,16 +204,15 @@ Rather than constantly awarding different experience point values to different m
 
 **Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they'll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don't have to plan out a campaign's milestones ahead of time, but you may need to adapt on the fly to your players' increasing power.
 
-##### Beyond 10th Level
+> #### Beyond 10th Level
+>
+> Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
 
-Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
-
-
-#### All That Glitters: Giving Players More Wealth
+### Awarding Wealth
 
 In addition to power, most players enjoy being able to have more influence on the campaign world by amassing hoards of treasure. With money comes the ability to buy better equipment, employ hirelings, construct fortifications, and even raise armies.
 
-Chapter 4 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2 and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
+Chapter 4 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
 
 <div class="table-no-body"></div>
 | Wealth Overview |
@@ -238,22 +237,23 @@ You can use this table as a rough guideline for when to give players more wealth
 
 However you plan to award wealth, you can see that the general recommendation on the table is for a PC's wealth score to increase twice every three levels.
 
+#### Understanding Open Legend's Wealth System
+
 If you or your players have a background with other game systems, in which they may have regularly looted every corpse, scavenged every piece of equipment, and dutifully tracked every single gold piece, then Open Legend's wealth system might initially feel a bit awkward. If it does, consider some of the following tips:
 
-**NPCs still have stuff on them.** Just because you don't need to spend hours tracking every piece of loot that the players cut from a corpse doesn't mean that they don't have stuff on them. It just fades into the background so that you can focus on the story.
-
-Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it's usually to serve the plot.
+**NPCs still have stuff on them.** Just because you don't need to spend hours tracking every piece of loot that the players cut from a corpse doesn't mean that those corpses don't have stuff on them. Their loot just fades into the background so that you can focus on the story. Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it's usually to serve the plot.
 
 So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it's still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
 
-**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can easily use money to influence someone else of a lower wealth score.
+**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 4):
 
-If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks. If the bribe recipient is **one wealth level higher** than the character's Wealth Score, the cost is so great that the character's Wealth Score is permanently reduced by 1. Bribing someone more than one Wealth level higher is impossible without other factors in play.
+- Characters can easily bribe NPCs with a **lower wealth score.**
 
-So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor.
+- If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks. 
 
-Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
+- If the bribe recipient is **one wealth level higher** than the character's Wealth Score, the cost is so great that the character's wealth score is permanently reduced by 1. Bribing someone more than one Wealth level higher is impossible without other factors in play.
 
+So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor. Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
 
 ## Monsters and NPCs
 No campaign or adventure is complete without monsters for the heroes to defeat or NPCs for them to overcome. When planning out a campaign or adventure, consider that the monsters and NPCs of your story typically fall into one of the following categories:
@@ -266,17 +266,17 @@ No campaign or adventure is complete without monsters for the heroes to defeat o
 
 ### Henchmen
 
-Henchman is a general term to describe any antagonist who simply exists as a small obstacle to the party's short term plans. Examples of henchmen include a wandering band of space pirates that waylays the party mid-flight, a mindless ooze roaming the deep corners of a cavernous dungeon, and a team of assassins dispatched by the local mob boss to put an end to the heroes' meddling. While henchmen typically have realistic motives, their influence on the plot is small enough that you don't need to spend as much energy to make your henchmen deep and convincing. The orcs are motivated by greed, the ooze by hunger, and the assassins by loyalty to their guild.
+Henchman is a general term to describe any antagonist who simply exists as a small obstacle to the party's short term plans. Examples of henchmen include a wandering band of space pirates that waylays the party mid-flight, a mindless ooze roaming the deep corners of a cavernous dungeon, and a team of assassins dispatched by the local mob boss to put an end to the heroes' meddling. While henchmen typically have realistic motives, their influence on the plot is small enough that you don't need to spend as much energy to make your henchmen deep and convincing. The pirates are motivated by greed, the ooze by hunger, and the assassins by loyalty to their guild.
 
 ### Villains
 
 The villain of a plotline is the primary antagonist, and your players will likely deal with multiple villains throughout their careers. Examples include the necromancer who has taken up residence in the local graveyard, the sentient interdimensional cloud who pulls the strings from behind the galactic senate, and the bandit king who has united the ruffians of the realm under one banner. Unlike henchmen, your villains will require a good amount of thought to flesh out. To develop strong, convincing villains, consider the following elements.
 
-**Motive.** Every villain should have a realistic motive, or a reason for turning towards their villainous ways. Instead of deciding that your necromancer is simply evil, for example, consider making them fallen. Perhaps they turned to necromancy as a last resort to revive their beloved partner who was killed in a shipwreck.
+**Motive.** Every villain should have a realistic motive, or a reason for turning towards their villainous ways. Instead of deciding that your necromancer is simply evil, for example, consider making him fallen. Perhaps he turned to necromancy as a last resort to revive his beloved who was killed in a shipwreck.
 
-**Scheme.** Your villain's scheme is the evil deed they have set out to complete. The scheme is often tied directly to the motive. For example, rather than the necromancer simply being set on snuffing the life out of the town, their scheme involves sacrificing ten villagers as part of a ritual to return their partner to life.
+**Scheme.** Your villain's scheme is the evil deed they have set out to complete. The scheme is often tied directly to the motive. For example, rather than the necromancer simply being set on snuffing the life out of the town, his scheme involves sacrificing ten villagers as part of a ritual to return his beloved to life.
 
-**Flaw.** A flaw is part of what makes a villain human (even if the villain is an ancient wyrm). A flaw could be a physical vulnerability, such as the bare patch of Smaug's left breast, or it could be a social, mental, or emotional insufficiency. Our necromancer, for example, could be easily set into a blind rage against anyone who speaks ill of their beloved.
+**Flaw.** A flaw is part of what makes a villain human (even if the villain is an ancient wyrm). A flaw could be a physical vulnerability, such as the bare patch of the dragon Smaug's left breast, or it could be a social, mental, or emotional insufficiency. Our necromancer, for example, could be easily set into a blind rage against anyone who speaks ill of his beloved.
 
 ### Allies
 
@@ -292,19 +292,19 @@ Whatever sorts of allies the party has acquired, it's important for the GM to ab
 
 - Creating situations in which the players feel forced to take an NPC's orders or advice.
 
-There are no hard and fast rules, however. If you find NPCs in your game frequently doing the above, then there's a good chance your players might become frustrated.
+If you find the NPCs in your game frequently taking these or similar roles, then there's a good chance your players might become frustrated.
 
-But sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a powerful mad scientist uses a poisonous gas to control the minds of a group of soldiers and commands them to attack the players. A powerful ally NPC might use his medical knowledge to create an anti-toxin to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn't capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the dominated soldiers and preventing them from harming anyone.
+Sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a villainous mad scientist uses a poisonous gas to control the minds of a group of soldiers and commands them to attack the players. A powerful ally NPC might use her medical knowledge to create an anti-toxin to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn't capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the dominated soldiers and preventing them from harming anyone.
 
 The above example will likely be an intriguing scene enjoyed by all, because the ally NPC can't prevail without the help of the players.
 
 **Allies can be used to grant knowledge.** In addition to providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader's guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Universe Portal. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs' hands.
 
-**Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can't fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place, and, by finding ways to demonstrate your NPCs' imperfections, you'll further immerse your players in the fantasy.
+**Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can't fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place, and, by finding ways to demonstrate your NPCs' imperfections, you'll further immerse your players in the campaign world.
 
 ### Monsters and NPC Statistics
 
-Many of the monsters and NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don't need a full array of attributes, feats, and favored banes because, more likely than not, you'll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments - but your party is never going to need to engage him in combat.
+Many of the monsters and NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don't need a full array of attributes, feats, and favored attacks because, more likely than not, you'll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments--but your party is never going to need to engage him in combat.
 
 A good deal of your monsters and NPCs, however, will require statistical descriptions to use for combat or social encounters. This section will describe two ways that you can build these statistics: the complex build and the simple build.
 
