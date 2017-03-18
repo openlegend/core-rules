@@ -408,12 +408,13 @@
   description: |
     You are specialized in the use a particular boon that is iconic to your character.
   effect: |
+    Choose a single boon that you can invoke. You can benefits with that boon according to your tier in this feat.
     <ul>
     <li><strong>Tier 1</strong> - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
-    <li><strong>Tier 2</strong> - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.</li>
+    <li><strong>Tier 2</strong> - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action. Beyond that it can be invoked by expending a move or major action.</li>
     <li><strong>Tier 3</strong> - The effect at tier 3 varies based on the duration of the boon:
       <br />
-      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action. If targeted by the Nullify bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
+      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action. If targeted by the <em>nullify</em> bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
       <br />
       <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
     </li>
@@ -464,7 +465,7 @@
   cost:
   - 1
   description: |
-    You gain the ability to climb or parkour perfectly, as is seen in certain vampires, aberrant creatures, ninjas, and insects.
+    You gain the ability to climb or parkour perfectly, akin to certain vampires, aberrant creatures, ninjas, and insects.
   effect: |
     You gain a climb speed equal to your base speed and can scale horizontal and vertical surfaces, even climb upside-down, with no fear of falling.
 - !
@@ -480,9 +481,9 @@
   description: |
     You are able to decimate many enemies in quick succession, like a legendary Samurai warrior or matchless elven archer.
   effect: |
-    Any time you make an attack that reduces a foe to zero hit points or less, you can immediately make an extra attack as a free action.
+    Any time you make an attack that reduces a foe to zero hit points, you can immediately make an extra attack as a free action.
   special: |
-    The triggering attack must be a Might or Agility action roll.
+    The triggering attack must use a Might or Agility action roll.
 - !
   name: Combat Momentum
   prerequisites:
@@ -496,7 +497,7 @@
   description: |
     Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.
   effect: |
-    Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
+    Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
   special: |
     If you have the Movement attribute, you can use the Teleport boon instead of a normal move.
 - !
@@ -518,14 +519,14 @@
   description: |
     Whether a hired bodyguard, a loyal animal sidekick, or a sibling that follows you everywhere, you have the constant and unflinching loyalty of one particular companion character.
   effect: |
-    You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no special abilities beyond the feat granted per tier. Whenever you gain a level or purchase a new tier in this feat, you may reassign your companion's attributes and feats.
+    You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. The companion's highest attribute is determined by your level and your tier in this feat (see below). Your companion also possesses attributes at each number lower than its highest score. For example, if the companion's highest score is 6, then it also has attributes at scores 5, 4, 3, 2, and 1. The companion gains no special abilities beyond the feats based on your tier. Whenever you gain a level or purchase a new tier in this feat, you may reassign your companion's attributes and feats.
     <ul>
-    <li><strong>Tier 1</strong> - Your companion's highest attribute equals your level minus 2 (minimum of 3, maximum of 9). Your companion gains 1 feat, selected from the "Simple Build" NPC feat list in Chapter 7: Running the Game.</li>
+    <li><strong>Tier 1</strong> - Your companion's highest attribute equals your level minus 2 (minimum of 3, maximum of 9). Your companion gains 1 feat, selected from the "Simple Build" NPC feat list in Chapter 8: Running the Game.</li>
     <li><strong>Tier 2</strong> - Your companion's highest attribute equals your level minus 1 (minimum of 4, maximum of 9). Your companion gains a 2nd feat from the same list.</li>
     <li><strong>Tier 3</strong> - Your companion's highest attribute equals your level (minimum of 5, maximum of 9). Your companion gains a 3rd feat from the same list.</li>
     </ul>
     <strong>Example</strong>
-    Fezzy starts at level one with Companion (Tier II), choosing a wolf for his companion. Based on Fezzy's level and feat tier, his wolf's highest attribute is 4, so he can assign the wolf four attributes at scores 4, 3, 2, and 1. He assigns the following: Agility 4, Perception 3, Might 2, and Fortitude 1. Upon reaching level 2, Fezzy purchases Companion (Tier III), raising the wolf's highest attribute to 5, so Fezzy reassigns the attributes as follows: Perception 5, Agility 4, Might 3, Fortitude 2, Presence 1.
+    Fezzy starts at level one with Companion (Tier II), choosing a wolf for his companion. Based on Fezzy's level and feat tier, his wolf's highest attribute is 4, so he can assign the wolf four attributes at scores 4, 3, 2, and 1. He assigns the following: Agility 4, Perception 3, Might 2, and Fortitude 1. Fezzy chooses the feats Attack Specialization I and Bane Focus (knockdown) for his wolf. Upon reaching level 2, Fezzy purchases Companion (Tier III), raising the wolf's highest attribute to 5, so Fezzy reassigns the attributes as follows: Perception 5, Agility 4, Might 3, Fortitude 2, Presence 1. He also gets to choose a new feat, and decides to upgrade Attack Specialization to tier 2.
   special: |
     If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
     In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new companion each time.
@@ -551,7 +552,7 @@
   description: |
     You have mastered a particular craft, and given proper time and materials, you can create items related to that craft.
   effect: |
-    Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft Mundane Item feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 4), crafting does not limit your ability to acquire additional goods.
+    Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft Mundane Item feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 5), crafting does not limit your ability to acquire additional goods.
     <ul>
     <li><strong>Tier 1</strong> - You can craft items equal to your wealth level.</li>
     <li><strong>Tier 2</strong> - You can craft items equal to your wealth level + 1.</li>
@@ -560,12 +561,12 @@
     <ul>
     <li>Alchemy - acid, chemicals, non-magical tinctures, incense, reagents</li>
     <li>Arcane - magical ingredients, inks, scrolls, exotic components</li>
-    <li>Blacksmithing - Metal, leather, weapons, armor, wheels, horseshoes</li>
+    <li>Blacksmithing - metal, leather, weapons, armor, wheels, horseshoes</li>
     <li>Chemistry - acid, explosives, narcotics</li>
     <li>Engineering - machines, wheels, gears, guns, vehicles</li>
     <li>Geography - maps, cartography, instruments of navigation</li>
-    <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins</li>
     <li>Herbalism - poultices, natural remedies, stimulants, brewing</li>
+    <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins</li>
     </ul>
   perfect: |
     In addition to taking multiple tiers of this feat, you may take this feat multiple times and select a new craft or profession each time.
@@ -598,14 +599,14 @@
   description: |
     You are studied in the ways of imbuing magical items, building futuristic technology, brewing potions, or crafting extraordinary devices. Their power is permanent but varies depending on your skill.
   effect: |
-    Provided you have the appropriate working space and materials (as determined by the GM), you can create extraordinary items. You can only imbue an item with attributes, banes, and boons that you can access. For example, in order to create a sword with Energy 5, you must possess an Energy score of 5 or higher. The only exception to this is if you possess the Creation, Learning, or Logic attributes. These allow you to imbue items with any attribute, bane, or boon as long as their value is less than or equal to your attribute score. The GM may rule that certain uses of Creation, Learning, or Logic are unreasonable when it comes to crafting extraordinary items.
-    Your tier in this feat determines the maximum Wealth Level of the items you can create, based on the attribute you are using to craft:
-    <ul><li><strong>Tier 1</strong> - Maximum Wealth Level equals Attribute minus 2</li><li><strong>Tier 2</strong> - Maximum Wealth Level equals Attribute minus 1</li><li><strong>Tier 3</strong> - Maximum Wealth Level equals Attribute</li></ul>
+    Provided you have the appropriate working space and materials (as determined by the GM), you can create extraordinary items (as detailed in Chapter 9: Special Equipment). You can only imbue an item with attributes, banes, and boons that you can access. For example, in order to create a sword with Energy 5, you must possess an Energy score of 5 or higher. The only exception to this is if you possess the Creation, Learning, or Logic attributes. These allow you to imbue items with any attribute, bane, or boon as long as their value is less than or equal to your attribute score. The GM may rule that certain uses of Creation, Learning, or Logic are unreasonable when it comes to crafting extraordinary items.
+    Your tier in this feat determines the maximum wealth level of the items you can create, based on the attribute you are using to craft:
+    <ul><li><strong>Tier 1</strong> - Maximum wealth level equals attribute minus 2</li><li><strong>Tier 2</strong> - Maximum wealth level equals attribute minus 1</li><li><strong>Tier 3</strong> - Maximum wealth level equals attribute</li></ul>
     For example, a character with Creation 5 and tier 1 in this feat could create items up to Wealth Level 3.
-    You can determine the Wealth Level of the item you want to create by consulting the sample items in <strong>Chapter 8: Rewards</strong> or by developing a custom item using the rules for <strong>Building Your Own Extraordinary Items</strong> in that chapter.
-    Creating an item with the <em>consumable</em> property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their Wealth Level, as follows:
-    <ul><li><strong>Wealth Level 1 - 3</strong>: Two days per Wealth Level</li><li><strong>Wealth Level 4 - 5</strong>: Four days per Wealth Level</li><li><strong>Wealth Level 6 - 7</strong>: One week per Wealth Level</li><li><strong>Wealth Level 8 - 9</strong>: One month per Wealth Level</li></ul>
-    At the end of this time, your item is created. Crafting an item still counts as an expenditure of wealth, so you must have a sufficient Wealth Score to purchase the item, following all the rules for spending wealth provided in <strong>Chapter 8: Rewards</strong>. The GM may waive some or all of the costs associated with an item if you possess special materials for the crafting of your item. For example, if you have recently collected the hide of a slain red dragon and decide to make a suit of Armor of Resistance (Fire), the GM may decide that the dragon’s hide is enough to make up most of the costs of the armor, so the armor’s wealth level is reduced by 3 for purposes of determining crafting costs.
+    You can determine the wealth level of the item you want to create by consulting the sample items in <strong>Chapter 9: Special Equipment</strong> or by developing a custom item using the rules for <strong>Building Your Own Extraordinary Items</strong> in that chapter.
+    Creating an item with the <em>consumable</em> property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their wealth level, as follows:
+    <ul><li><strong>Wealth Level 1 - 3</strong>: Two days per wealth level</li><li><strong>Wealth Level 4 - 5</strong>: Four days per wealth level</li><li><strong>Wealth Level 6 - 7</strong>: One week per wealth level</li><li><strong>Wealth Level 8 - 9</strong>: One month per wealth level</li></ul>
+    At the end of this time, your item is created. Crafting an item still counts as an expenditure of wealth, so you must have a sufficient wealth score to purchase the item, following all the rules for spending wealth provided in <strong>Chapter 5: Wealth & Equipment</strong>. The GM may waive some or all of the costs associated with an item if you possess special materials for the crafting of your item. For example, if you have recently collected the hide of a slain red dragon and decide to make a suit of Armor of Fire Resistance, the GM may decide that the dragon’s hide is enough to make up most of the costs of the armor, so the armor’s wealth level is reduced by 3 for purposes of determining crafting costs.
 - !
   name: Crushing Blow
   prerequisites:
