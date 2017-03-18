@@ -24,7 +24,7 @@ Open Legend is a role playing game, which means your character will need more de
 
 **Your race.** Your decision of race is limited only by your imagination, the setting, and the constraints provided by your GM. A typical fantasy campaign might feature dwarves, elves, halflings, celestials, and dragon-blooded. If you are playing in a futuristic space opera on the fringes of the galaxy, your GM might have several alien races to choose from. Some campaigns, such as a mystery of Lovecraftian horror, might allow only for regular old humans. Really, though, as long as it is approved by your GM, you can play anything you would like, whether that's a psionic humanoid tiger, a 3-inch tall pixie, or anything in between.
 
-As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 6: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
+As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 7: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
 
 At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
 
@@ -281,7 +281,7 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 
 **Hit Points** (or HP) are an abstract measure of how well you can ignore pain, avoid deadly blows, and maintain a presence on the battlefield in spite of wounds or exhaustion. If they reach zero, you fall unconscious and are at risk of death.
 
-**Speed** indicates how far your character can move using a single move action (see Chapter 6: Combat). Your base speed is 30 feet. Other effects, such as banes, boons, and feats may cause your speed to increase or decrease.
+**Speed** indicates how far your character can move using a single move action (see Chapter 7: Combat). Your base speed is 30 feet. Other effects, such as banes, boons, and feats may cause your speed to increase or decrease.
 
 ## Step 4: Purchase Feats
 
@@ -342,7 +342,7 @@ start with the feat selections recommended below:
 
 In a typical game of Open Legend, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
-Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 4 for rules concerning Wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
+Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 5 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
 
 Instead of purchasing equipment a la carte, you may also elect to choose one of the following starting packages built for common character archetypes.
 
