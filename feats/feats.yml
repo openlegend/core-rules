@@ -1287,7 +1287,7 @@
     <li>Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.</li>
     <li>Your target is within melee attack range of an ally.</li>
     </ul>
-    You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 6: Combat).
+    You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat).
     <ul>
     <li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage</li>
     <li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage</li>
@@ -1335,7 +1335,7 @@
   cost:
   - 1
   description: |
-    You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunfighter with a vigilant trigger finger and a covert operative always prepared for ambush are good examples.
+    You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunfighter with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.
   effect: |
     For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
 - !
@@ -1349,7 +1349,7 @@
   cost:
   - 1
   description: |
-    You are an expert at using a specific ranged weapon, your familiarity makes you deadlier at longer ranges.
+    You are an expert at using a specific ranged weapon, making your attacks deadlier at longer ranges.
   effect: |
     Choose a ranged weapon. In your hands, the weapon's range is increased to the next greater range increment. Close Ranged becomes Short, Short becomes Medium, Medium becomes Long, and Long becomes Extreme.
   special: |
@@ -1370,7 +1370,7 @@
   description: |
     Like a kensai warrior devoted to mastery of her katana or an assassin who exclusively wields their favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
   effect: |
-    Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: agility or might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any damaging attacks that you make which do not use your martial focus suffer disadvantage 1.
+    Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: Agility or Might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any damaging attacks that you make which do not use your martial focus suffer disadvantage 1.
 - !
   name: Master Tracker
   prerequisites:
@@ -1386,7 +1386,7 @@
   description: |
     Your skill at tracking and hunting your quarry is unmatched, allowing you to follow trails long after others would have lost them.
   effect: |
-    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only magically concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
+    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only extraordinarily concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
 - !
   name: Mimic
   prerequisites:
@@ -1403,7 +1403,7 @@
   description: |
     You have honed your shapeshifting abilities to be able to not only change your form, but to even imitate specific creatures. Your powers may stem from studying the arts of deceptive magic, from a gene mutation, or even from innate extraordinary abilities.
   effect: |
-    When you use the Shapeshift boon, you may take on the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 + triple your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
+    When you use the <em>shapeshift</em> boon, you may take on the features of a specific creature. For example, instead of merely transforming into an elf, you can assume the guise of Galdion the elven king. The disguise is near perfect for those examining you visually. If your behavior or other signs provide reasonable suspicion, an onlooker can attempt a Perception check with a Challenge Rating equal to 10 + triple your Alteration or Deception score, whichever is higher. If they succeed, they will recognize your disguise.
 - !
   name: Multi-Attack Specialist (I - VI)
   prerequisites:
@@ -1430,12 +1430,12 @@
   cost:
   - 3
   description: |
-    Whether your are delivering flurry of blows, wielding two weapons, or calling a chain of lightning bolts from the sky, you have mastered the art of delivering multiple attacks.
+    Whether your are delivering a flurry of blows, wielding two weapons, or calling a chain of lightning bolts from the sky, you have mastered the art of delivering multiple attacks.
   effect: |
-    Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of <strong>additional</strong> attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
+    Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. <em>ALL</em> of your attacks this round suffer disadvantage equal to 3 times the number of <strong>additional</strong> attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
     You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
     The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
-    <strong>Example</strong> - Vax the Deathbringer has Multi Attack Specialist (Tier III). He declares that he will be making three attacks this round (two additional attacks). Therefore, all of his attacks suffer disadvantage 3 (3 x 2 = 6, minus 3 for feat tier 3). His first attack is a necromantic burst targeting a 10'-square. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindness on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
+    <strong>Example</strong> - Vax the Deathbringer has Multi Attack Specialist (Tier III). He declares that he will be making three attacks this round (two additional attacks). Therefore, all of his attacks suffer disadvantage 3 (3 x 2 = 6, minus 3 for feat tier 3). His first attack is a necromantic burst targeting a 10'-cube. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindness on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
 - !
   name: Multi-Bane Specialist
   prerequisites:
@@ -1450,7 +1450,7 @@
   description: |
     You have mastered a signature attack that allows you to invoke two banes at once. A blast of ice that blinds and slows your enemy, a thunderous shotgun blast that hurls foes back and knocks them to the ground, and a wormtongue song that puts targets to sleep and alters their memory are all examples of a signature attack that could be created with this feat.
   effect: |
-    Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
+    Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining <em>knockdown</em> and <em>slowed</em>, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
   special: |
     In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
     You may take this feat more than once. If you do, you must choose a different pair of banes for the new instance of the feat.
@@ -1477,11 +1477,11 @@
   cost:
   - 2
   description: |
-    You are a master of wreaking havoc on many foes at once, whether it be with a whirlwind of your twin blades, a hail of arrows, a massive wave of psionic energy, or a devastating rain of fire.
+    You are a master of wreaking havoc on many foes at once, whether it be with a whirlwind of your twin blades, a hail of gun fire, a massive wave of psionic energy, or a devastating ball of flame.
   effect: |
     When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
   special: |
-    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, projectile, or melee) each time. Purchasing this feat for a new multi-target attack mode confers no benefit on the others.
+    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, projectile, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.
 - !
   name: Multi-Target Boon Expert
   prerequisites:
@@ -1495,7 +1495,7 @@
   cost:
   - 3
   description: |
-    You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly. A healing nova, a supernatural wind that gives flight to a group, and a time dilation that affects a group of allies faster than their foes are all examples.
+    You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly. A healing nova, a supernatural wind that gives flight to a group, and a time dilation that affects a group of allies are all examples of this feat in action.
   effect: |
     When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
 - !
@@ -1522,7 +1522,7 @@
   cost:
   - 2
   description: |
-    You are a master of invoking boons for more than one target. A mass dimensional shift to an intermediary plane and a mass manifestation of entropic life draining are some examples.
+    You are a master of invoking boons for more than one target. A mass dimensional shift to an intermediary plane and a mass manifestation of entropic life draining are some examples of what this might look like in play.
   effect: |
     For each tier of this feat, you reduce the disadvantage penalty associated with invoking boons for multiple targets by 1.
 - !
@@ -1568,7 +1568,7 @@
   description: |
     The sheer force of your attacks is so great that you send opponents flying.
   effect: |
-     Each time you deal damage using a weapon with the forceful property, you can choose to push the target five feet away from you.
+     Each time you deal damage using a weapon that has the <em>forceful</em> property, you can choose to push the target five feet away from you.
 - !
   name: Potent Bane
   prerequisites:
@@ -1583,7 +1583,9 @@
   description: |
     You are so adept at a particular form of attack that your foes struggle to shake off the effects. Perhaps the flames of your fireballs burn hotter. Or maybe you've developed a special chemical to mix in with your blinding powder. Whatever the source and whatever the effect, most enemies are incapable of recovering from your legendary attack.
   effect: |
-    Choose one bane that you can invoke that has a duration of "resist ends". When a target rolls Resist to shake off your invocation of the chosen bane, they have disadvantage 1.
+    Choose one bane that you can invoke that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.
+  special: |
+    You may select this feat multiple times. Each time you take it, choose a different bane.
 - !
   name: Reactionary Trance
   prerequisites:
@@ -1600,7 +1602,7 @@
   cost:
   - 2
   description: |
-    Your intense focus never lapses and you can tap into your heightened battle trance at a moment's notice.
+    Your intense focus never lapses, allowing you to tap into your heightened battle trance at a moment's notice.
   effect: |
     You can enter a battle trance (as per the Battle Trance feat) as a free action even when it is not your turn. You may choose to do so in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to enter a battle trance after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your battle trance take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
 - !
@@ -1616,7 +1618,7 @@
   description: |
     By willingly punishing your own body, you can enter a frenzy that allows you to launch a relentless onslaught of attacks.
   effect: |
-    While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action. Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must have at least 6 hit points remaining to make use of this feat.
+    While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action. Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must be able to remain conscious after the damage is dealt in order to benefit from your extra attack.
 - !
   name: Resilient
   prerequisites:
@@ -1635,7 +1637,7 @@
   description: |
     Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
   effect: |
-    Any time you make a Resist roll, you have advantage 1 on the roll.
+    Any time you make a resist roll, you have advantage 1 on the roll.
 - !
   name: Silencing Strike
   prerequisites:
@@ -1650,7 +1652,7 @@
   description: |
     Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence.
   effect: |
-    Whenever your damaging attack exceeds a target's defense and they are caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the silenced bane.
+    Whenever your damaging attack exceeds a target's defense and they are caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the <em>silenced</em> bane.
 - !
   name: Skill Specialization (I - V)
   prerequisites:
@@ -1674,11 +1676,11 @@
   cost:
   - 2
   description: |
-    You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similar exceptional non-combat talent.
+    You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similarly exceptional non-combat talent.
   effect: |
     Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
   special: |
-    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new attribute each time. Purchasing this feat for a new attribute confers no benefit on the others.
+    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new attribute each time. Track your feat tier separately for each attribute that you choose for this feat.
 - !
   name: Superior Concentration (I - III)
   prerequisites:
@@ -1710,7 +1712,7 @@
   cost:
   - 1
   description: |
-    You are made for the water and can swim at surprising speeds, with the aptitude of a fish.
+    You are made for the water and can swim at surprising speeds with the aptitude of a fish.
   effect: |
     You gain a swimming speed equal to your base speed and do not need to make any special action rolls to maintain this base speed.
 - !
@@ -1790,9 +1792,9 @@
   cost:
   - 3
   description: |
-    Being both physically powerful and incredibly agile, as such, you are able to wield a weapon in one-hand that requires two hands for others.
+    Being both physically powerful and incredibly agile, you are able to wield a weapon in one-hand that requires two hands for others.
   effect: |
-    You can wield weapons with the two-handed property in one hand and you gain the benefits of both the two-handed and one-handed property while doing so. This means that you gain a total of Advantage 2 when wielding a two-handed weapon in each hand, Advantage 1 from the power of a two-handed weapon + Advantage 1 from having one weapon in each hand.
+    You can wield weapons with the two-handed property in one hand and you gain the benefits of both the two-handed and one-handed property while doing so. This means that you gain a total of advantage 2 when wielding a two-handed weapon in each hand, advantage 1 from the power of a two-handed weapon plus advantage 1 from having one weapon in each hand.
 - !
   name: Two Weapon Defense
   prerequisites:
@@ -1808,9 +1810,9 @@
   cost:
   - 2
   description: |
-    Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also shield yourself exceptionally well by deflecting incoming attacks with your weapons.
+    Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also to shield yourself exceptionally well by deflecting incoming attacks with your weapons.
   effect: |
-    When you have a weapon you've taken the Attack Specialization feat for in each hand, you gain a +1 armor bonus to your Guard defense.
+    When you wield a weapon you've taken the Attack Specialization feat for in each hand, you gain a +1 armor bonus to your Guard defense.
 - !
   name: Unending Charm
   prerequisites:
@@ -1826,7 +1828,7 @@
   description: |
     Your charm is so potent that your victims may become permanently enthralled by you.
   effect: |
-    When you invoke the charmed bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a Nullify bane can still end the effect (and other methods may work at the GM's discretion).
+    When you invoke the <em>charmed</em> bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a <em>nullify</em> bane can still end the effect (and other methods may work at the GM's discretion).
 - !
   name: Untrackable
   prerequisites:
@@ -1860,7 +1862,7 @@
   description: |
     Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
   effect: |
-    Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls.
+    Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls granted by dice explosions.
 - !
   name: Wealthy
   prerequisites:
