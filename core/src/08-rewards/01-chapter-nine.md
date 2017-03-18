@@ -1,4 +1,4 @@
-# Special Equipment #
+# Chapter 9: Special Equipment #
 
 Chapter 5 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
 
