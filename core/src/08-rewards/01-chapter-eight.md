@@ -422,17 +422,17 @@ The extraordinary items already detailed are meant to serve as a starting point 
 
 #### STEP 1: Choose Attributes, Banes, & Boons
 
-Extraordinary items are defined as items that have at least one of the following: an attribute score, bane, or boon. An extraordinary item can have more than one attribute, bane, or boon. Choose any number of them.
+An extraordinary item can grant access to one or more attribute, bane, or boon. Choose any number of them.
 
-Each attribute, bane, and boon increases the Wealth Level of the item according to the following tables.
+Each attribute, bane, and boon increases the wealth level of the item according to the following tables.
 
 | Score | Bane / Boon WL |  Attribte WL |
 | :-: | :-: | :-: |
-| 1 - 3 | 1 | 2 |
-| 4 - 5 | 2 | 3 |
-| 6 - 7 | 3 | 4 |
-| 8  | 4 | 5 |
-| 9 | 5 | 6 |
+| 1 - 3 | +1 | +2 |
+| 4 - 5 | +2 | +3 |
+| 6 - 7 | +3 | +4 |
+| 8  | +4 | +5 |
+| 9 | +5 | +6 |
 
 
 #### STEP 2: Choose Properties
@@ -442,7 +442,7 @@ Choose any additional properties that the item might have. Properties apply a we
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 6: Combat) |
+| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 7: Combat) |
 | Armor | Must be acquired or crafted first |
 | Augmenting | +1 |
 | Autonomous | +2 |
@@ -450,19 +450,19 @@ Choose any additional properties that the item might have. Properties apply a we
 | Consumable | -1 |
 | Cursed | Equal to WL cost for the bane according to the table in step 1 |
 | Damage | +0 |
-| Deadly | +2 |
+| Deadly | Equal to the *deadly* value |
 | Expendable | -1 |
 | Persistent | +3 |
 | Potent | +1 |
 | Reliable | +2 |
-| Powerful | Equal to the powerful value |
+| Powerful | Equal to the *powerful* value |
 | Sentient | +3 |
 | Weapon | Must be acquired or crafted first |
 
 
 #### STEP 3: Create Special Properties
 
-In the previous step, you chose from the preset properties already created. Here, you can decide to give your item its own unique effects by creating your own special property. Simply write a clear description of the mechanical effects of the item as well as any special conditions or restrictions that might apply.
+In the previous step, you chose from the preset properties already created. Here, you can decide to give your item its own unique effects by creating your own special properties. Simply write a clear description of the mechanical effects of the item as well as any special conditions or restrictions that might apply.
 
 After you have described your item's special properties, you should assign a wealth level modifier by asking yourself several questions about each property:
 
@@ -471,7 +471,7 @@ After you have described your item's special properties, you should assign a wea
 -   **Is it versatile?** Is the property useful in many different types of situations? If so, add wealth level +1.
 
 -   **Is it powerful?** Does the property create a significant advantage for a character or have the potential to impact the game in a very significant way? If so, add wealth level from +1 to +9.
-    - A good way to decide how much of a modifier to apply is to compare the property to a bane or boon of similar effect. Then, use the table given in step 4 to determine a similar modifier based on the power level of that bane or boon.
+    - A good way to decide how much of a modifier to apply is to compare the property to a bane or boon of similar effect. Then, use the table given in step 1 to determine a similar modifier based on the power level of that bane or boon.
 
 -   **Is it limiting?** Does the property reduce the effectiveness of another ability or is it only useful in very specific situations? If so, reduce wealth level by 1.
 
@@ -491,7 +491,7 @@ After you have described your item's special properties, you should assign a wea
 >
 > * * * * *
 >
-> **Shining Shield**: Once per round, when the wielder of this shield is subject to a melee attack, they may make a free action to inflict the blinded bane on the attacker. The item makes the following attack: Blinded 5 versus Guard. \
+> **Shining Shield**: Once per round, when the wielder of this shield is subject to a melee attack, they may make a free action to inflict the *blinded* bane on the attacker. The item makes the following attack: Blinded 5 versus Guard. \
 > \
 > *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round. \
 > \
@@ -509,9 +509,9 @@ After you have described your item's special properties, you should assign a wea
 > \
 > *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
 > \
-> *Is it versatile?* No. Even though the item can inflict a number of banes, the cost of these > are already accounted for because an item pays for every bane it can inflict. \
+> *Is it versatile?* No. Even though the item can inflict a number of banes, the cost of these are already accounted for because an item pays for every bane it can inflict. \
 > \
-> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack as if it had the baneful property. +7 WL. \
+> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack as if it had the *baneful* property. +7 WL. \
 > \
 > *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
 > \
@@ -544,9 +544,9 @@ Legendary items are similar to extraordinary items in that they may provide acce
 
 ### Acquiring Legendary Items
 
-Legendary items should be more than mere rewards. When introduced into a new campaign, a legendary item should often serve the plot in a specific way. For example, perhaps the PCs come into possession of *Giant's Bane*, a sentient bow containing the souls of four hunters of legend who have tried and failed to defeat the frost giant's who have plagued the realm for a century. Equipped with such power and collective wisdom, the party stands a chance at succeeding where the previous hunters have failed.
+Legendary items should be more than mere rewards. When introduced into a new campaign, a legendary item should often serve the plot in a specific way. For example, perhaps the PCs come into possession of *Giant's Bane*, a sentient bow containing the souls of four hunters of legend who have tried and failed to defeat the frost giants who have plagued the realm for a century. Equipped with such power and collective wisdom, the party stands a chance at succeeding where the previous hunters have failed.
 
-Furthermore, the GM should be prepared for the potentially campaign-altering power that legendary items possess. If you give the players a *Time Machine*, *Void Cannon*, or *Lamp of Wishes*, don't be surprised when they use them to their full potential - and don't try to railroad them into only using legendary items in specific situations if the item obviously has greater potential.
+Furthermore, the GM should be prepared for the potentially campaign-altering power that legendary items possess. If you give the players a *Time Machine*, *Void Cannon*, or *Lamp of Wishes*, don't be surprised when they use them to their full potential--and don't try to railroad them into only using legendary items in specific situations if the item obviously has greater potential.
 
 
 ### Attributes, Banes, and Boons
@@ -571,29 +571,29 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 #### Void Cannon
 
-*This universe shattering weapon of far future technology can literally tear holes in space time. When fired at full charge, the Void Cannon tears a rift in the fabric of spacetime, manifesting as a concentrated beam of annihilation, wiping from existence anything in its path.*
+*This universe shattering weapon of far future technology can literally tear holes in space time. When fired at full charge, the Void Cannon tears a rift in the fabric of spacetime, manifesting as a concentrated beam of annihilation that wipes from existence anything in its path.*
 
 **Weapon**: Normally, the Void Cannon functions as a weapon with the following statistics and properties: medium ranged, precise, deadly 3, delayed ready, area 10’ cube, banes: persistent damage.
 
-**Void**: The wielder may fire the cannon at full blast by spending 2 full rounds charging its power. On the third round, the beam fires and targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.
+**Void**: The wielder may fire the cannon at full blast by spending 2 uninterrupted rounds using a focus action to charge its power. On the third round, the wielder may use another focus action to fire the beam, which targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.
 
 
 #### Giant’s Bane
 
-*This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giant’s that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.*
+*This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.*
 
 Weapon (Longbow), Powerful 2, Slaying (giants), Agility +1, Perception +2, Intelligent
 
-**Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Powerful 2. In addition, it grants advantage 1 on all attacks against giants.
+**Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Powerful 2. In addition, it grants advantage 2 on all attacks against giants.
 
 
 #### Infinity Suit
 
 *It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mecha unit so powerful that the pilot becomes nigh indestructible.*
 
-Armor (power armor), Might 8, Persistent (Bolster 6:Might), Persistent (Regeneration 9), Persistent (Flight 8)
+Armor (power armor), Might 8, Bolster 6 (Might), Regeneration 9, Flight 8, Persistent
 
-Indestructible: While wearing the Infinity Suit, the pilot is immune to effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit.
+**Indestructible:** While wearing the Infinity Suit, the pilot is immune to lethal damage and any effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit.
 
 
 #### Lamp of Wishes
@@ -602,12 +602,13 @@ Indestructible: While wearing the Infinity Suit, the pilot is immune to effects 
 
 Presence +3
 
-**Wishes**: The genie will grant the owner of the lamp 3 wishes. The genie will often twist or interpret wishes in such a way that the owner gets what they asked for in a completely unfavorable way. For example, if a person wishes to be king of the realm, the genie may transport him upon the throne 1000 years into the future, where the realm is a desolate wasteland. Once the lamp has been claimed, a new owner cannot be had until all three wishes are used. After all three wishes have expired, the lamp transports to a completely random point in the world.
+**Wishes**: The genie will grant the owner of the lamp 3 wishes. The genie will often twist or interpret wishes in such a way that the owner gets what they asked for in a completely unfavorable way. For example, if a person wishes to be king of the realm, the genie may transport him upon the throne 1000 years into the future, where the kingdom is a desolate wasteland. Once the lamp has been claimed, a new owner cannot be had until all three wishes are used. After all three wishes have expired, the lamp transports to a completely random point in the world.
 
 
 #### Reaver
 
-*This vicious axe features an ebony haft carved with screaming faces and a serrated blade. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.*
+*This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.*
+
 Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
 
 **Warble**: Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.
@@ -616,14 +617,16 @@ Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
 #### Staff of the Archmage
 
 *Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.*
-Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful
-**Retributive Strike**: The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 3d10, advantage 9 versus Guard.
+
+Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
+
+**Retributive Strike**: The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard.
 
 #### Time Machine
 
-*The ultimate achievement of mad scientists and quantum physicists alike, this vehicle is capable of transporting its passengers through the fourth dimension.*s
+*The ultimate achievement of mad scientists and quantum physicists alike, this vehicle is capable of transporting its passengers through the fourth dimension.*
 
-**Time Travel**: A character may attempt to travel forward or backward in time by making a Logic roll, CR 20. The roll incurs disadvantage 1 for every 5 years of **time travel**. Any passengers within the vehicle are also transported, willing or not. The GM may interpret a failed roll in any number of interesting ways, including but not limited to the following:
+**Time Travel**: A character may attempt to travel forward or backward in time by making a Logic roll, CR 20. The roll incurs disadvantage 1 for every 5 years of time travel. Any passengers within the vehicle are also transported, willing or not. The GM may interpret a failed roll in any number of interesting ways, including but not limited to the following:
 
 -   The time travelled is multiplied by 100.
 
