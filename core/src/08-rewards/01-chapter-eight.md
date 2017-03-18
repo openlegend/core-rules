@@ -45,10 +45,10 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Firebrand | 4 |  | Persistent Damage 4 | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
 | Ghostfire | 2 | Energy 5 |  | Expendable |
 | Helm of Truth | 5 |  | Bolster 3 | Persistent, Cursed (Truthfulness 5) |
-| Horn of Thunder | 4 | Might 5 | Deafened 4 | Area (30' cone), Special |
+| Horn of Thunder | 4 | Might 5 | Deafened 4 | Area (20' cone), Special |
 | Jet Pack | 4 |  | Flight 6 |  |
 | Laser Cannon | 6 | Energy 9 |  | Weapon (Cannon) |
-| Maul of Dominance | 4 |  | Aura 8 | Special |
+| Maul of Dominance | 4 |  | Aura 8 | Special, Weapon (Maul) |
 | Phase Rifle | 4 |  |  | Damage (Energy), Deadly 2, Weapon (Sniper Rifle) |
 | Plasmablade | 5 |  | Disarmed 3 | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Longsword), Special |
 | Frostblight | 4 |  | Aura 2 | Armor (Plate Mail), Persistent, Special |
@@ -74,7 +74,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Autonomous** - When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
 
-**Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict one of the item's listed banes if your attack roll exceeds the target's defense by 5 or more.
+**Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict one of the listed bane if your attack roll exceeds the target's defense by 5 or more.
 
 **Consumable** -  A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.
 
@@ -104,7 +104,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Wealth Level:** 2
 
-*Crafted of an ultra-durable leather to ensure they support the wearer's weight, these boots have bioengineered nanofiber soles that adhere flawlessly to any surface they touch, until deactivated.*
+*Crafted of an ultra-durable leather to ensure they support the wearer's weight, these boots possess bioengineered nanofiber soles that adhere flawlessly to any surface they touch until deactivated.*
 
 **Special**: These boots enable their wearer to automatically succeed at all climbing checks, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
 
@@ -113,7 +113,9 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Wealth Level**: 4
 
-*These magical glyphs are usually created to guard items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered is met.*
+*These magical glyphs are usually created to guard items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered.*
+
+Energy 5, Autonomous
 
 **Special**: Once activated and affixed to a surface, an Aegis of Warding cannot be moved. A successful removal destroys it in the process. In addition, all damage dealt by the Aegis is lethal damage.
 
@@ -122,7 +124,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Wealth Level**: 4
 
-*Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with adrenaline.*
+*Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with an automatic adrenaline pump.*
 
 Heal 3, Persistent (Heal)
 
@@ -133,7 +135,7 @@ Heal 3, Persistent (Heal)
 
 *Of those who dabble in such dark secrets, no poison is more feared than that extracted from the petals of the black lotus.*
 
-Death 9, Potent, Expendable, Augmenting
+Death 9, Augmenting, Expendable, Potent
 
 
 #### Blowfish Venom
@@ -142,7 +144,7 @@ Death 9, Potent, Expendable, Augmenting
 
 *With just a drop in an unattended goblet or a liberal dose on the edge of a blade, this poison renders its target completely immobile and incapable of escape.*
 
-Expendable, Immobile 5, Augmenting
+Immobile 5, Augmenting, Expendable
 
 
 #### Book of Shadows
@@ -153,7 +155,7 @@ Expendable, Immobile 5, Augmenting
 
 Darkness 5, Summon Creature 5, Blinded 5
 
-**Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of Power Level 5 or above, they must make a Will check of CR 15 or suffer one level of the fatigued bane.
+**Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of Power Level 5 or above, they must make a Will check of CR 15 or suffer one level of the *fatigued* bane.
 
 
 #### Colt 45
@@ -169,11 +171,11 @@ Deadly 1, Potent, Weapon (Revolver)
 
 **Wealth Level**: 3
 
-*A mechanical apparatus of metal plates, leather straps, and buckles, this device has a cone-shaped metal protrusion that goes into the subject's ear and flares out like a phonograph. Once secured, the subject's darkest secrets are thence played like a classic tune from a vinyl record.*
+*A mechanical apparatus of metal plates, leather straps, and buckles, this device has a cone-shaped metal protrusion that is inserted into the subject's ear and flares out like a phonograph. Once secured, the subject's darkest secrets are thence played like a classic tune from a vinyl record.*
 
 Mind Dredge 6
 
-**Special**: This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the Mind Dredge attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the Immobile bane until the first bane ceases.
+**Special**: This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.
 
 
 #### Collar of Choking
@@ -207,11 +209,11 @@ Invisible 5, Reliable
 
 **Wealth Level**: 5
 
-*This exceptionally crafted katana is far heavier than the average blade of its type, bringing far more force to bear on its razor edgee blade. A Dotaunki is known to cut foes in two.*
+*This exceptionally crafted katana is far heavier than the average blade of its type, bringing far more force to bear on its razor edge blade. A Dotaunki is known to cut foes in two.*
 
 Deadly 2, Weapon (Katana)
 
-**Special**: A devasting blow from the Dotanukia can cause a target to bleed out rapidly. Any time the Dotanuki's attack exceeds the target's defense by 20 or more, the Persistent Damge 9 bane is automatically applied to the target.
+**Special**: A devasting blow from the Dotanukia can cause a target to bleed out rapidly. Any time the Dotanuki's attack exceeds the target's defense by 20 or more, the *persistent damage* 9 bane is automatically applied to the target.
 
 
 #### Explosive Ammo
@@ -227,7 +229,7 @@ Persistent Damage 4, Augmenting, Expendable
 
 **Wealth Level**: 4
 
-*Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of freezing that halts foes in their tracks.*
+*Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of frost that halts foes in their tracks.*
 
 Aura 2, Armor (Plate Mail), Persistent
 
@@ -237,9 +239,9 @@ Aura 2, Armor (Plate Mail), Persistent
 
 **Wealth Level**: 4
 
-*A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in a flame.*
+*A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.*
 
-Persistent Damage 4, Baneful (Persistent Damage), Damage(Fire), Weapon (Longsword)
+Persistent Damage 4, Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword)
 
 
 #### Ghostfire
@@ -248,7 +250,7 @@ Persistent Damage 4, Baneful (Persistent Damage), Damage(Fire), Weapon (Longswor
 
 *This white alchemical liquid ignites in fire as soon as it is exposed to air. Typically, it is sealed tightly in a glass flask or orb meant to be shattered against a foe.*
 
-Energy 5, expendable
+Energy 5, Expendable
 
 
 #### Helm of Truth
@@ -257,7 +259,7 @@ Energy 5, expendable
 
 *This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.*
 
-Bolster 3, Persistent (Bolster), Cursed (Truthfulness 5)
+Bolster 3, Persistent, Cursed (Truthfulness 5)
 
 
 #### Horn of Thunder
@@ -266,9 +268,9 @@ Bolster 3, Persistent (Bolster), Cursed (Truthfulness 5)
 
 *When blown, this horn creates a sound wave strong enough to deafen creatures and shatter objects.*
 
-Deafened 5, Might 5, Area 30' cone
+Deafened 5, Might 5, Area 20' cone
 
-**Special**: The horn can only use the might attribute to destroy objects, or inflict the banes forced move and knock down.
+**Special**: The horn can only use the Might attribute to destroy objects or inflict the banes forced move and knock down.
 
 
 #### Jet Pack
@@ -284,7 +286,7 @@ Flight 6
 
 **Wealth Level**: 6
 
-*This laser gun turret unleashes a massive laser beam, though it requires time to recharge after each use.*
+*This laser gun turret unleashes a massive beam of highly charged photons to decimate foes. Its immense power is balanced by the time it takes to recharge after each use.*
 
 Area (50' Line), Deadly 2, Weapon (Cannon)
 
@@ -293,11 +295,11 @@ Area (50' Line), Deadly 2, Weapon (Cannon)
 
 **Wealth Level**: 4
 
-*Etched with elegant patterns that indicate it's value. When held, it pulses with a power felt by all nearby. The maul emits an aura of menace that draws the attention of all nearby enemies.*
+*This massive two-handed hammer is etched with elegant patterns that indicate its value. When held, it pulses with a power felt by all nearby, emitting an aura of menace that draws the attention foes.*
 
-Aura 8, Special
+Aura 8, Special, Weapon (Maul)
 
-**Special**: The maul's aura boon can only emit the provoked bane. During the first round of combat, it's aura can be invoked as a minor action.
+**Special**: The maul's aura boon can only emit the provoked bane. During the first round of combat, its aura can be invoked as a minor action.
 
 
 #### Phase Rifle
@@ -315,9 +317,9 @@ Damage (Energy), Deadly 2, Weapon (Sniper Rifle)
 
 *This regal weapon features a compact hilt made of non-conducting carbon fiber. When activated, a blade of infinitely hot plasma emerges, along with dome-shaped force-field for a hand guard.*
 
-Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special
+Disarmed 3, Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special
 
-**Special**: When an attack with the plasmablade exceeds the target's defense by 10 or more, the baneful disarming effect severs the target's limb  completely and all damage from the attack is lethal. They are demoralized (power level 3) for the remainder of the combat and the effect can't be canceled.
+**Special**: When an attack with the plasmablade exceeds the target's defense by 10 or more, the attack severs the target's limb  completely and all damage from the attack is lethal. Furthermore, the target is suffers *demoralized* (power level 3) for the remainder of the combat and the effect can't be canceled.
 
 
 #### Potion of Minor Healing
@@ -342,7 +344,7 @@ Heal 7, Consumable
 
 **Wealth Level**: 3
 
-*Whether outfitted on a mecha unit or launched via soldier's shoulder mount, this anti-air and anti-tank missle can stop just about anything.*
+*Whether outfitted on a mecha unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missle can stop just about anything.*
 
 Deadly 2, Expendable
 
@@ -402,7 +404,7 @@ Polymorph 6, Potent, Powerful 1
 
 Persuasion 7, Autonomous
 
-**Special**: The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a Wealth Level of 6 for local purchases. Lastly, the device records every action performed by the user and trasmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.
+**Special**: The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a Wealth Score of 6 for local purchases. Lastly, the device records every action performed by the user and trasmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.
 
 
 #### Worker Bot
@@ -426,7 +428,7 @@ Each attribute, bane, and boon increases the Wealth Level of the item according 
 
 | Score | Bane / Boon WL |  Attribte WL |
 | :-: | :-: | :-: |
-| 1 -3 | 1 | 2 |
+| 1 - 3 | 1 | 2 |
 | 4 - 5 | 2 | 3 |
 | 6 - 7 | 3 | 4 |
 | 8  | 4 | 5 |
