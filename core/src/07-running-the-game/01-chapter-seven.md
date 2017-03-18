@@ -1,4 +1,4 @@
-# Chapter 7: Running the Game #
+# Chapter 8: Running the Game #
 
 ## The Game Master's Calling
 
@@ -212,7 +212,7 @@ Rather than constantly awarding different experience point values to different m
 
 In addition to power, most players enjoy being able to have more influence on the campaign world by amassing hoards of treasure. With money comes the ability to buy better equipment, employ hirelings, construct fortifications, and even raise armies.
 
-Chapter 4 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
+Chapter 5 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
 
 <div class="table-no-body"></div>
 | Wealth Overview |
@@ -245,7 +245,7 @@ If you or your players have a background with other game systems, in which they 
 
 So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it's still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
 
-**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 4):
+**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 5):
 
 - Characters can easily bribe NPCs with a **lower wealth score.**
 
@@ -310,7 +310,7 @@ A good deal of your monsters and NPCs, however, will require statistical descrip
 
 #### Complex Build
 
-When designing an NPC using the complex build, you simply create the NPC as if it was a player character. Select an appropriate level and use the instructions in chapter one to assign attributes, feats, and other defining characteristics.
+When designing an NPC using the complex build, you simply create the NPC as if it was a player character. Select an appropriate level and use the instructions in Chapter 1 to assign attributes, feats, and other defining characteristics.
 
 The complex build is a good option when you are creating a very important villain or ally who will play a major role in the story line. This process can take a while, so it's not worth going through with underlings, henchmen, or beasts who are only going to be present for a single scene.
 
@@ -387,7 +387,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
     - Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
     - Your target is within melee attack range of an ally.
 
-You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 6: Combat).
+You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat).
 
     - **Tier 1** - Advantage 1, Up to 5 lethal damage
     - **Tier 2** - Advantage 2, Up to 5 lethal damage
