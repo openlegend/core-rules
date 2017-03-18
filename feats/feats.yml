@@ -24,7 +24,7 @@
     Each form is treated as a completely different character for mechanical purposes - possessing different attributes, feats, perks, flaws, and other defining characteristics. Your alternate form does, however, retain the ability to transform back into your primary form.
     In order to keep track of hit points, you should always record the total damage that your character has suffered. When transforming, your damage remains with you even if your maximum hit points change. For example, Dr. Jekyll has a max HP of 15 and Mr. Hyde has a max HP of 30. During combat, Mr. Hyde suffers 10 damage. When he later transforms back into Dr. Jekyll, the 10 damage remains and is subtracted from his new maximum, leaving the doctor with 5 out of 15 hit points. Additionally, when changing forms, if your hit points would be reduced to less than 1, your hit point total becomes 1 instead.
   special: |
-    When selecting feats for your alternate form, you may not select the <strong>Alternate Form</strong> feat.
+    When selecting feats for your alternate form, you may not select the <em>Alternate Form</em> feat.
     You may take this feat multiple times. Each time grants you access to an additional form.
 - !
   name: Area Manipulation (I - V)
@@ -69,7 +69,7 @@
   description: |
     You are specially trained to wear armor into battle, allowing you to maximize its protection and minimize its drawbacks.
   effect: |
-    Your training allows you to sleep in armor without gaining one level of the Fatigued bane. In addition, while wearing armor, you gain the following benefits.
+    Your training allows you to sleep in armor without gaining one level of the <em>fatigued</em> bane. In addition, while wearing armor, you gain the following benefits:
     <ul>
     <li><strong>Tier 1</strong> - The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 bonus to your Guard defense.</li>
     <li><strong>Tier 2</strong> - The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 bonus to your Guard defense. Any movement penalty is reduced by 5 feet.</li>
@@ -87,7 +87,7 @@
   description: |
     You are adept at redirecting your enemy's attacks. Whether using fancy footwork, magical force, or tactical superiority, you can use your opponents' attacks against themselves.
   effect: |
-    When you make a Defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
+    When you make a defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
 - !
   name: Attack Specialization (I - IX)
   prerequisites:
@@ -155,10 +155,10 @@
   description: |
     You are so well trained with a particular form of attack that you can devastate foes with much more skill than the average combatant.
   effect: |
-    When you take this feat, select one weapon or energy type. You gain Advantage 1 per tier of this feat for any <em>damaging</em> attack made with your choice. This bonus does not apply to bane attacks or boon invocations.
+    When you take this feat, select one weapon or energy type. You gain advantage 1 per tier of this feat for any <em>damaging</em> attack made with your chosen attack type. This bonus does not apply to bane attacks or boon invocations.
     Examples of energy types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
   special: |
-    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or energy type each time. Your total advantage to an attack is equal to your tier for that particular weapon or energy type. For example, a character might have Attack Specialization II (Fire) for Fire attacks and Attack Specialization IV (Long Sword) for Long Sword attacks.
+    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or energy type each time. Your total advantage to an attack is equal to your tier for that particular weapon or energy type. For example, a character might have Attack Specialization II (Fire) for fire attacks and Attack Specialization IV (Long Sword) for long sword attacks.
 - !
   name: Attribute Substitution (I - II)
   prerequisites:
@@ -173,7 +173,7 @@
   cost:
   - 2
   description: |
-    Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another. Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity, or a gunman who's deadshot aim is the result of a dark pact.
+    Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another. Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity, or a gunman whose deadshot aim is the result of a dark pact.
   effect: |
     When you take this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for different purposes depending on which tier of the feat you have:
     <ul>
@@ -191,7 +191,7 @@
       <li>Invoking banes and boons</li>
       </ul>
     </ul>
-    The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include an calculating warrior who studies angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
+    The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include a calculating warrior who studies angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
 - !
   name: Bane Focus
   prerequisites:
@@ -208,7 +208,7 @@
   description: |
     You are specialized in the use of a particular bane that is iconic to your character.
   effect: |
-    Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. When making a bane attack, you get Advantage 2 on the bane attack roll.
+    Choose a bane that you can invoke. When your roll on a damaging attack exceeds the target's defense by 5 or more (as opposed to the usual 10), you can inflict this bane for free. Each attack is still only capable of inflicting a single bane. Furthermore, when making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll.
   special: |
     You may take this feat multiple times. Each time you do, choose a different bane.
 - !
@@ -223,7 +223,7 @@
   cost:
   - 3
   description: |
-    You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian, or an unstoppable samurai with laser focus in the heat of battle.
+    You can enter a heightend mental state of combat readiness, in which your body is strengthened and your mind transcends fear and pain. Examples include a raging barbarian or an unstoppable samurai with laser focus in the heat of battle.
   effect: |
     As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, your Toughness and Resolve defenses are increased by 3. If your armor bonus is less than 3, it becomes 3. If you take three consecutive turns without making an attack roll against an enemy creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
@@ -265,7 +265,7 @@
   description: |
     Not only are your battle reflexes uncanny, but you can deal knockdown blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Knockdown bane. If the attack hits, the remainder of the target's movement is cancelled until the start of its next turn.
+    If you deal damage with a defend action via the Battlefield Defender feat, you may choose to automatically afflict the target with the <em>knockdown</em> bane. If you do, the remainder of the target's movement is cancelled until the start of its next turn.
 - !
   name: Battlefield Punisher - Slowed
   prerequisites:
@@ -287,7 +287,7 @@
   description: |
     Not only are your battle reflexes uncanny, but you can deal slowing blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Slowed bane. If the attack hits and the target has already moved more than 10', the remainder of their movement is cancelled until the start of their next turn.
+    If you deal damage with a defend action via the Battlefield Defender feat, you may choose to automatically afflict the target with the <em>slowed</em> bane. If you do, and the target has already moved more than half their speed, the remainder of their movement is cancelled until the start of their next turn.
 - !
   name: Battlefield Punisher - Stunned
   prerequisites:
@@ -309,7 +309,7 @@
   description: |
     Not only are your battle reflexes uncanny, but you can deal stunning blows with your defensive strikes.
   effect: |
-    If you deal damage with a Defend action via the Battlefield Defender feat, you can automatically trigger the Stunned bane. If the target has taken any action prior to this attack, any remaining actions are cancelled by the Stunned bane until the start of the target's next turn.
+    If you deal damage with a defend action via the Battlefield Defender feat, you may choose to automatically afflict the target with the <em>stunned</em> bane. If you do and the target has taken any action prior to being stunned, any remaining actions are cancelled by the <em>stunned</em> bane until the start of the target's next turn.
 - !
   name: Battlefield Sentinel (I - V)
   prerequisites:
@@ -381,11 +381,11 @@
   description: |
     You have a special gift: it might be the result of your heritage, a close encounter with magical energy, or the result of years of training with a master. In any case, although you do not necessarily possess the aptitude to work extraordinary powers for yourself or create a desired effect with your physical capabilities alone, you are able to reliably replicate a single boon.
   effect: |
-    When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the Power Level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the Power Level of the boon. If the boons has multiple attribute prerequisite options, you choose one attribute when you take this feat. Additionally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the Power Level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a Power Level 6 boon.
+    When you choose this feat, choose one boon that you do not have the requisite attribute to invoke. The cost of this feat is equal to the power level of the chosen boon. You can invoke the chosen boon despite lacking the necessary attribute. For invocation rolls, treat your attribute score as the power level of the boon. If the boons has multiple attribute prerequisite options, you choose one attribute when you take this feat. Additionally, you count as having access to the chosen boon for the purpose of meeting feat prerequisites, and your attribute for meeting such prerequisites is equal to the power level of the boon. The Boon Access feat bypasses the normal attribute score restrictions based on character level, so a first level character could spend all 6 of their feat points to begin play with access to a power level 6 boon.
     You may acquire this feat multiple times. Each time, select a new boon.
   special: |
     You may take this feat multiple times. Each time you do, choose a new boon to gain access to.
-    Note that this feat can give access to high-powered boons with a potential for very dramatic impact on the storyline of a game. As such, using this feat to access a boon of Power Level 6 or higher should be approved by the GM before using it in a game.
+    Note that this feat can give access to high-powered boons with a potential for very dramatic impact on the storyline of a game. As such, using this feat to access a boon of power level 6 or higher should be approved by the GM before using it in a game.
     If you ever meet the attribute prerequisite for the chosen boon, you may choose at that time to lose this feat and regain the feat points spent. Re-allocate them as you choose.
 - !
   name: Boon Focus (I - III)
