@@ -1,26 +1,28 @@
-# Rewards #
+# Special Equipment #
+
+Chapter 5 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
 
 ## Extraordinary Items
 
-In Chapter 4, we talked about memorable and extraordinary items and how important they are in stories - items of power, such as King Arthur's **Excalibur**, H.P Lovecraft's **Necronomicon**, Thor's hammer **Mjolnir**, and Frank Herbert's **"The Spice"** (Melange) from the novel *Dune*. Many great stories hinge upon such relics, and in this section, we'll show you how to create them for your Open Legend game.
+In Chapter 5, we talked about memorable and extraordinary items and how important they are in stories - items of power, such as King Arthur's **Excalibur**, H.P Lovecraft's **Necronomicon**, Thor's hammer **Mjolnir**, and Frank Herbert's **"The Spice"** (Melange) from the novel *Dune*. Many great stories hinge upon such relics, and in this section, we'll show you how to create them for your Open Legend game.
 
-In *Open Legend*, such items of power are called *extraordinary items* because they grant powers beyond those of mundane weapons, armor, and other gear.
+In Open Legend, such items of power are called *extraordinary items* because they grant powers beyond those of mundane weapons, armor, and other gear.
 
 ### Acquiring Extraordinary Items
 
 Extraordinary items can be acquired in a number of ways. They may be taken from the horde of a fallen enemy, gifted from a patron as a reward for a job well done, purchased from an obscure wandering merchant, or even crafted by a PC using the *Craft Extraordinary Item* feat.
 
-However, extraordinary items are so powerful that they have the potential to dramatically alter the course of the story and the wielder's capabilities. As such, they always require the approval of the GM to acquire. The GM can use an item's wealth level as an indication of the relative power level of an extraordinary item, but the decision to allow a character to acquire such an item should depend on factors such as how much it adds to the story and how it affects the balance of power among all of the PCs.
+However, extraordinary items are so powerful that they have the potential to dramatically alter the course of the story and the wielder's capabilities. As such, they always require the approval of the GM to acquire. The GM can use an item's wealth level as an indication of the relative strength of an extraordinary item, but the decision to allow a character to acquire such an item should depend on factors such as how much it adds to the story and how it affects the balance of power among all of the PCs.
 
 ### Extraordinary Item Descriptions
 
-Extraordinary items are different from weapons, armor, and other gear because they give the wielder access to attributes, banes, and boons that are beyond their current power — or they bolster the attributes, banes, and boons that the wielder can already access. The Extraordinary Items Table outlines a variety of such items spanning many genres. The examples include weapons and gear of powerful magic, alchemy, and technology - and they should provide plenty of inspiration for coming up with your own extraordinary items for your campaign.
+Extraordinary items are different from weapons, armor, and other gear because they give the wielder access to attributes, banes, and boons that are beyond their current power--or they bolster the attributes, banes, and boons that the wielder can already access. The Extraordinary Items Table outlines a variety of such items spanning many genres. The examples include weapons and gear of powerful magic, alchemy, and technology--and they should provide plenty of inspiration for coming up with your own extraordinary items for your campaign.
 
-**WL (Wealth Level)** indicates the Wealth Level associated with this extraordinary item. Acquiring the item requires a sufficient Wealth Level and follows all of the rules for Wealth established in Chapter 4: Weapons & Equipment.
+**WL (Wealth Level)** indicates the Wealth Level associated with this extraordinary item. Acquiring the item requires a sufficient Wealth Level and follows all of the rules for Wealth established in Chapter 5: Weapons & Equipment.
 
 **Attributes** indicate which attributes, if any, the item can make use of. An item can use an attribute to make attacks, invoke banes and boons, and perform other actions that would reasonably fall within the item's capabilities. The wielder spends their own actions to use an item's attributes, but all attribute dice and power levels are determined by the item's attribute score, not the wielder's. The wielder's applicable feats still apply. If the wielder's attribute is greater than the item's by one or two points, they may use their own attribute, and the item instead grants advantage 1 on rolls with that attribute. This bonus can only be applied once to a given attribute, regardless of how many items you wield that possess the attribute.
 
-**Banes & Boons** indicate the banes and boons that the item grants access to. The wielder can use the item to invoke the listed bane or boon. The numeric value is used to determine both the power level and the attribute dice used for the invocation roll. The wielder may choose to invoke at a lower power level than that listed, in which case the attribute dice rolled are not lowered. All of the same rules for items with attributes apply, except in this case the granted access is for the listed banes or boons only.
+**Banes & Boons** indicate the banes and boons that the item grants access to. The wielder can use the item to invoke the listed bane or boon. The numeric value is used to determine both the power level and the attribute dice used for the invocation roll. The wielder may choose to invoke at a lower power level than that listed, in which case the attribute dice rolled are not reduced. All of the same rules for items with attributes apply, except in this case the granted access is for the listed banes or boons only.
 
 **Properties** are the descriptors that make each extraordinary item unique from others. These properties translate to specific game mechanics listed below.
 
@@ -29,7 +31,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | :----: | :-: | :-: | :---: | :-------: |
 | Adhesion Boots | 2 |   |  | Special |
 | Aegis of Warding | 4 | Energy 5 |  | Autonomous, Special |
-| Adrenal Biomod | 4 |  | Heal 3 | Persistent (Heal) |
+| Adrenal Biomod | 4 |  | Heal 3 | Persistent |
 | Black Lotus Extract | 6 |  | Death 9 | Augmenting, Expendable, Potent |
 | Blowfish Venom | 3 |  | Immobile 5 | Augmenting, Expendable |
 | Book of Shadows | 5 |  | Darkness 5, Blinded 5, Summon Creature 5 | Special |
@@ -42,7 +44,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Explosive Ammo | 2 |  | Persistent Damage 4 | Augmenting, Expendable |
 | Firebrand | 4 |  | Persistent Damage 4 | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
 | Ghostfire | 2 | Energy 5 |  | Expendable |
-| Helm of Truth | 5 |  | Bolster 3 | Persistent (Bolster), Cursed (Truthfulness 5) |
+| Helm of Truth | 5 |  | Bolster 3 | Persistent, Cursed (Truthfulness 5) |
 | Horn of Thunder | 4 | Might 5 | Deafened 4 | Area (30' cone), Special |
 | Jet Pack | 4 |  | Flight 6 |  |
 | Laser Cannon | 6 | Energy 9 |  | Weapon (Cannon) |
@@ -68,31 +70,29 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Area** - An item with the area property always makes multi-target area attacks or invocations of the listed size and shape and cannot be used to make non-area attacks. If an item has multiple area sizes, the attacker chooses from them with each attack. Attack and action rolls do not incur any of the disadvantage penalties usually associated with multi-targeting.
 
-If an item has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
-
 **Armor (type)** - The item functions as a suit of armor of the given type, bestowing all of the benefits and restrictions of that armor upon the wearer.
 
 **Autonomous** - When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
 
-**Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict any of the item's listed banes if your attack roll exceeds the target's defense by 5 or more.
+**Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict one of the item's listed banes if your attack roll exceeds the target's defense by 5 or more.
 
-**Consumable** -  A consumable item can be used once to invoke a boon at the listed Power Level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.
+**Consumable** -  A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.
 
 **Cursed (bane)** - The wielder of this item is automatically afflicted with the indicated bane at the listed power level. The bane cannot be shaken off using the resist bane action. Furthermore, the cursed item cannot be unequipped unless the wielder is subject to the *restoration* boon at a power level high enough to dispel the bane.
 
 **Damage (type)** - When making a damaging attack with this item, you may choose to have it inflict damage of the listed type in lieu of the type it would otherwise deal. This property can only be applied to an item once. The damage types are: precise, forceful, fire, cold, lightning, acid, influence, and entropy, though a GM may allow or create other types.
 
-**Deadly** - Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their deadly value. A weapon cannot have a Deadly value greater than 3.
+**Deadly** - Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their *deadly* value. A weapon cannot have a *deadly* value greater than 3.
 
-**Expendable** -  A consumable item can be used once to make an attack or invoke a bane. Afterwards, the item is expended and cannot be used again.
+**Expendable** -  An expendable item can be used once to make an attack or invoke a bane. Afterwards, the item is expended and cannot be used again.
 
-**Persistent (boon)** - an item with this property automatically invokes and sustains the indicated boon at a Power Level of the wielder's choice. If the duration is instantaneous, it automatically invokes the boon each round at the start of the wielder's turn, the wielder does not have invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.
+**Persistent** - An item with this property automatically invokes and sustains any of its boons, without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn--the wielder does not have invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.
 
-**Potent** - Banes inflicted from this item are harder to resist. When using a resist action to negate banes inflicted by this item, the target rolls two d20s and use the lower die.
+**Potent** - Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.
 
 **Powerful** - Bane or boon invocations made with this item have advantage equal to the item's *powerful* value.
 
-**Reliable** - Boons invoked by this item automatically succeed at a power level of the wielder's choice without requiring a roll.
+**Reliable** - The wielder does not have to roll to invoke this item's listed boons if they are targeting a single creature. The invocation automatically succeeds. If the item also has the *area* property, it may still benefit from the automatic success granted by the *reliable* property.
 
 **Sentient** - The item becomes either self-aware or capable of basic human reasoning. It has no inherent bond with its creator, and is treated like any other NPC. It gets its own turn and array of actions. The item gains no mental or social attributes, only the ability to think. At the GM's discretion, it may also gain a particular mode of movement, such as walking, climbing, flying, or swimming.
 
@@ -101,8 +101,6 @@ If an item has multiple area sizes, the attacker chooses from them with each att
 **Weapon (type)** - The item is a weapon of the given type. It possesses all of the properties of that weapon and can leverage them when making attacks.
 
 #### Adhesion Boots
-
-
 
 **Wealth Level:** 2
 
@@ -233,7 +231,7 @@ Persistent Damage 4, Augmenting, Expendable
 
 Aura 2, Armor (Plate Mail), Persistent
 
-**Special**: Frostblight can only invoke the Immobile bane via it's Aura.
+**Special**: Frostblight can only invoke the *immobile* bane via its aura.
 
 #### Firebrand
 
