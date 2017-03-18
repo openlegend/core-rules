@@ -311,11 +311,10 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    When a creature becomes insubstantial, it is no longer bound by physical barriers. Ghosts, wizards assuming gaseous form, and creatures who blink between dimensions are all exemplars of the insubstantial boon.
+    When a creature becomes insubstantial, it is no longer bound by physical barriers. Ghosts, wizards assuming gaseous form, and creatures who blink between dimensions are all exemplars of the insubstantial boon in action.
   effect: |
-    The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their normal non-magical speed (30' for most characters).
+    The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their base speed (30' for most characters). While insubstantial, the target becomes immune to all attacks that target either Guard or Toughness. However, they also cannot deliver any attacks that target Guard or Toughness.
     If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
-    The target becomes immune to all attacks that target either Guard or Toughness, however, they also cannot deliver any attacks that target Guard or Toughness.
 - !
   name: Invisible
   tags:
@@ -329,12 +328,12 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You vanish from the visible spectrum, either through bending light, an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
+    You vanish from the visible spectrum, either through bending light, creating an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
   effect: |
-    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You can not be the target of opportunity attacks unless the enemy can you through non-visual means.
+    Light passes through the target, making them translucent. However, their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's power level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. Furthermore, an invisible creature cannot be targeted by opportunity attacks unless the attacker has some other means of detection. When an invisible creature attacks a creature that cannot see it, the target of their attack suffers a penalty to their Guard for the attack.
     <ul>
-    <li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for target's that can't see you.</li>
-    <li><strong>Power Level 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for target's that can't see you.</li>
+    <li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for targets that can't see you.</li>
+    <li><strong>Power Level 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for targets that can't see you.</li>
     </ul>
 - !
   name: Life Drain
@@ -370,9 +369,9 @@
   invocationTime: 1 Minor Action
   duration: Sustain Persists
   description: |
-    You light up an area with magical light from a point of your choice.
+    Whether through magical summoning, energy manipulation, or some other means, you illuminate an area with a bright light.
   effect: |
-    Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the Darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
+    Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 - !
   name: Precognition
   tags:
@@ -392,8 +391,8 @@
     <ul>
     <li><strong>Power Level 1</strong> - The target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
     <li><strong>Power Level 3</strong> - The target asks a question about a course of action they plan to take within the next hour. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
-    <li><strong>Power Level 5</strong> - The target asks a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation (in one or two sentences) that is a direct response to the knowledge your target seeks. Only one question can be asked about a given subject each week.</li>
-    <li><strong>Power Level 7</strong> - The target can choose a particular event, decision, person, place, etc. After invoking this boon, your target begins to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide your target with detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
+    <li><strong>Power Level 5</strong> - The target asks a single question about a particular event, decision, person, place, etc. The GM provides a meaningful (not vague, but still brief) explanation in one or two sentences that is a direct response to the knowledge the target seeks. Only one question can be asked about a given subject each week.</li>
+    <li><strong>Power Level 7</strong> - The target can choose a particular event, decision, person, place, etc. After invoking this boon, the target begins to have extraordinary encounters (visions, trances, dreams, out-of-body experiences, etc.) through which the GM will provide the target with detailed information about the subject of your prescience. You can only maintain one such subject at a given time, however concentration is not required to maintain this state, it is perpetuated until you either choose to end it, or you choose to shift your focus.</li>
     </ul>
 - !
   name: Reading
@@ -414,11 +413,11 @@
   effect: |
     When you successfully invoke this boon, you gain information from an object or place within range as follows:
     <ul>
-    <li><strong>Power Level 5</strong> - Your target can read vague ideas and impressions to learn what took place near the object or place within the past hour.</li>
-    <li><strong>Power Level 6</strong> - Your target can see a vivid vision, similar to a recording, of what took place near the object or place within the last hour.</li>
-    <li><strong>Power Level 7</strong> - Your target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the Scrying bane to magically locate or view those identified.</li>
-    <li><strong>Power Level 8</strong> - Choose one: You see a vision of the most recent significant event that took place in close proximity to the target - OR - you ask whether or not a specific event you are aware of is impressed upon the target.</li>
-    <li><strong>Power Level 9</strong> - Your target is able, given sufficient time, to access all memories impressed upon the object or place. You must maintain concentration, with each 10 minutes yielding a new vision from the object's or place's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories should require a much longer time to discover.</li>
+    <li><strong>Power Level 5</strong> - The target can read vague ideas and impressions to learn what took place near the object or place within the past hour.</li>
+    <li><strong>Power Level 6</strong> - The target can see a vivid vision, similar to a recording, of what took place near the object or place within the last hour.</li>
+    <li><strong>Power Level 7</strong> - The target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the scrying bane to locate or view those identified.</li>
+    <li><strong>Power Level 8</strong> - Choose one: The target sees a vision of the most recent significant event that took place in close proximity to the object or place - OR - the target asks whether or not a specific event is impressed upon the object or place.</li>
+    <li><strong>Power Level 9</strong> - The target is able, given sufficient time, to access all memories impressed upon the object or place. You must maintain concentration, with each 10 minutes yielding a new vision from the object's or place's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories may require a much longer time to discover.</li>
     </ul>
 - !
   name: Regeneration
@@ -436,7 +435,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in healing. Regardless of the source, wounds close before the very eyes of an onlooker.
+    The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in continous healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
     While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon.
     <ul>
@@ -494,9 +493,9 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Your protective magic cancels all harmful afflictions that are effecting your target.
+    By invoking protective magic, creative force, or similar powers, you cancel all harmful afflictions that are affecting your target.
   effect: |
-    You can dispel all banes of a Power Level less than or equal to the level at which you invoke this boon.
+    You can dispel all banes affecting your target of a power level less than or equal to the level at which you invoke this boon.
 
     <ul>
     <li><strong>Power Level 1</strong> - Cancel banes of Power Level 1 or less. </li>
@@ -510,7 +509,7 @@
     <li><strong>Power Level 9</strong> - Cancel banes of Power Level 9 or less. </li>
     </ul>
   special: |
-    You can dispel even higher level banes, but your roll total must be double the banes normal Power Level. So, a Power Level 9 bane can be dispelled on a roll of 46. This is only possible if the boon is invoked by a dice roll.
+    You can dispel banes of a power level beyond your power level of this boon. In order to do so, you must invoke this boon using an action roll (i.e., it is not compatible with the automatic success granted by the <emphasis>boon focus</emphasis> feat). The Challenge Rating to dispel a bane in this manner is equal to 20 + four times the bane's power level. So, for example, a Power Level 9 bane can be dispelled on a roll of 56.
 - !
   name: Seeing
   tags:
