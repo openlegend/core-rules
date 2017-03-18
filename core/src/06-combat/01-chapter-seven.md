@@ -1,4 +1,4 @@
-# Chapter 6: Combat #
+# Chapter 7: Combat #
 
 Sometimes, the well-meaning but far too honest paladin blows your cover.
 
