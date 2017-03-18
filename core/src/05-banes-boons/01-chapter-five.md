@@ -20,7 +20,7 @@ To invoke a bane, the primary method is to succeed at an appropriate attribute r
 
 To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon's Power Level. The CR equals 10 + twice the boon's Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke at after making your action roll. While targets may be effected by different boons, you may not *stack* the same boon multiple times. If a second invocation of a boon would be applied to a character, they choose which boon to keep and which one to negate.
 
-Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 6: Combat.
+Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 7: Combat.
 
 ## Reading a Bane Description
 
