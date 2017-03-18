@@ -68,7 +68,7 @@ The previous scenario involving Pelias provides just one method in which a GM mi
 
 A successful action roll is by far the easiest to interpret: it means that the player gets what they were hoping for. If they were rolling to climb a cliff, then they climb it. If they were trying to pick a pocket, then it's picked. If they were trying to stab an orc, it is stabbed. And so on.
 
-In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 6). Often, though, the GM will need to determine what happens with a successful action roll.
+In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 7). Often, though, the GM will need to determine what happens with a successful action roll.
 
 There are two primary factors to consider when adjudicating a success:
 
