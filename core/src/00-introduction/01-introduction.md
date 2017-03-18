@@ -24,7 +24,7 @@ If you have played roleplaying games in the past, you may be wondering What make
 >
 >The secret's in the title: Open. Everything about the game has been built to open up the doors of possibility so that every table tells a legend worth telling. Here are a few of the possibilities that Open Legend offers.
 >
->**Open Source**. That's right. The core rules are free to use with accomodation for [commercial](/commercial-terms) and [non-commercial](/noncommercial-terms) derivative works. We know the public will love the game as much as we do, and we hope they'll spread the love by publishing their own adventures, rules supplements, and more.
+>**Open Source**. That's right. The core rules are free to use with accomodation for commercial and non-commercial derivative works. We know the public will love the game as much as we do, and we hope they'll spread the love by publishing their own adventures, rules supplements, and more.
 >
 >**Open Dice**. In Open Legend, dice explode! That means that whenever ANY die rolls maximum, you get to reroll it and add the new roll to your total, ad infinitum. The volatile nature of dice rolling makes every roll count, and each session of Open Legend is full of tense moments when the tides can turn at a moment's notice, for better or worse.
 >
