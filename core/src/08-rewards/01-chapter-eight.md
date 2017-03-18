@@ -346,9 +346,9 @@ Heal 7, Consumable
 
 *Whether outfitted on a mecha unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missle can stop just about anything.*
 
-Deadly 2, Expendable
+Deadly 2, Expendable, Weapon (Cannon)
 
-**Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes.
+**Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Every shot counts as a single extraordinary item.
 
 
 #### Rod of Fear
