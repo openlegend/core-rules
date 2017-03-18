@@ -625,7 +625,7 @@
   description: |
     Your relentless blows not only knock your opponents back, but also knock them off their feet completely.
   effect: |
-    Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the knockdown bane.
+    Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the <em>knockdown</em> bane.
 - !
   name: Death Blow (I - II)
   prerequisites:
@@ -649,7 +649,7 @@
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.</li>
-    <li><strong>Tier 2</strong> - Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the Stunned bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
+    <li><strong>Tier 2</strong> - Your death blow HP threshold increases from 5 to 10. In addition, on a successful Lethal Strike, the <em>stunned</em> bane is automatically inflicted without counting against your usual 1 bane per attack limit.</li>
     </ul>
 - !
   name: Deathless Trance
@@ -680,7 +680,7 @@
   description: |
     You are specially trained in the use of defensive implements and can get more protective use out of them. Examples include a martial artist's defensive kata or a soldier with a riot shield.
   effect: |
-    When wielding a weapon or implement with the Defensive property, you gain an additional +1 armor bonus. In addition, the Defensive value of the item is increased by 1 when you wield it. So Defensive 1 becomes Defensive 2 and Defensive 2 becomes Defensive 3.
+    When wielding a weapon or implement with the <em>defensive</em> property, you gain an additional +1 armor bonus. In addition, the <em>defensive</em> value of the item is increased by 1 when you wield it. So <em>defensive</em> 1 becomes <em>defensive</em> 2 and <em>defensive</em> 2 becomes <em>defensive</em> 3.
 - !
   name: Defensive Reflexes (I - IX)
   prerequisites:
@@ -719,7 +719,7 @@
   description: |
     You are a master of defense, able to predict exactly where your opponent will strike and thwart their attack.
   effect: |
-    Any time you use the Defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
+    Any time you use the defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
 - !
   name: Destructive Trance
   prerequisites:
@@ -751,7 +751,7 @@
   cost:
   - 2
   description: |
-    Whether luck shines upon you or you're just really hard to kill you have a knack for staying in the fight when others would suffer a much worse fate.
+    Whether luck shines upon you or you're just really hard to kill, you have a knack for staying in the fight when others would tap out.
   effect: |
     Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
 - !
@@ -774,9 +774,9 @@
   cost:
   - 2
   description: |
-    Your specialization in a particular type of energy, racial, or extraordinary protection cause you to be resistant to that type of energy. A fiery sorceress immune to the hottest blaze, or a biologically anomolous alien race that is immune to poison are some examples.
+    Whether due to inherited racial traits, specialization in a particular type of energy, or inherent extraordinary protection, you are resistant to a specific type of energy. A fiery sorceress immune to the hottest blaze or a biologically anomolous alien race that is immune to poison are both examples of this feat in play.
   effect: |
-    Choose from the following energy types: fire, cold, lightning, acid, or another at the GM's discretion. When you are attacked with that energy type, you gain resistance to the attack as follows:
+    Choose from the following energy types: fire, cold, lightning, acid, poison, or another at the GM's discretion. When you are attacked with that energy type, you gain resistance to the attack as follows:
     <ul>
     <li><strong>Tier 1</strong> - Your defense scores are increased by 3 against the chosen energy type.</li>
     <li><strong>Tier 2</strong> - Your defense scores are increased by 6 against the chosen energy type.</li>
@@ -784,7 +784,7 @@
     <li><strong>Tier 4</strong> - You are immune to damage and harmful effects from the chosen energy type.</li>
     </ul>
   special: |
-    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or energy type each time.
+    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new energy type each time.
 - !
   name: Evasive Footwork
   prerequisites:
@@ -796,7 +796,7 @@
   cost:
   - 2
   description: |
-    You are able to dodge and weave in combat, deftly sidestepping attacks that would strike a clumsier combatant.
+    You are able to dodge and weave in combat, deftly sidestepping attacks that would threaten a clumsier combatant.
   effect: |
     When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 - !
@@ -840,12 +840,12 @@
   cost:
   - 3
   description: |
-    Your extraordinary power stems from your connection with a particular focus, such as a wand, a digital psi amplifier, holy symbol, or spellbook.
+    Your extraordinary power stems from your connection with a particular focus, such as a wand, digital psi amplifier, holy symbol, or spellbook.
   effect: |
     With the approval of your GM, choose a focus from which your power with a single extraordinary attribute stems. Some possibilities include a wand, a digital psi amplifier, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected extraordinary attribute without your focus. The focus heightens your power and for the purposes of determining your attribute dice for action rolls, you treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
   special: |
     If you ever lose your extraordinary focus, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and may spend them as usual.
-    You may take this feat multiple times. If you do, select a new attribute not chosen previously. You may choose an existing focus from this feat as a focus for both instances of this feat or select a new one.
+    You may take this feat multiple times. If you do, select a new attribute not chosen previously. For each instance of this feat, you may choose an existing focus or select a new one.
 - !
   name: Extraordinary Healing
   prerequisites:
@@ -860,7 +860,7 @@
   description: |
     Your mastery of extraordinary healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
   effect: |
-    When invoking the Heal boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
+    When invoking the <em>heal</em> boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
 - !
   name: Fast Draw
   prerequisites:
@@ -892,7 +892,7 @@
   description: |
     Your tracking expertise is so great that you can move at a normal pace and still follow a trail.
   effect: |
-    You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred at the GM's discretion.
+    You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred.
 - !
   name: Ferocious Minions (I - III)
   prerequisites:
@@ -913,7 +913,7 @@
   description: |
     Creatures that you've magically compelled become even stronger when fighting in your defense or under your command.
   effect: |
-    Creatures under the effects of your Charmed or Dominated bane gain advantage 1 on all attack rolls to defend or act in your favor you for each tier of this feat you possess.
+    Creatures under the effects of your <em>charmed</em> or <em>dominated</em> banes, or those created by your invocation of the <em>summon creature</em> boon, gain advantage 1 on all attack rolls to defend or act in your favor you for each tier of this feat you possess.
 - !
   name: Fleet of Foot (I - III)
   prerequisites:
@@ -957,9 +957,9 @@
   cost:
   - 3
   description: |
-    Whether through a pair of celestial or infernal wings, an inherent telekinetic power, or something unexplainable that you're born with, you have an inherent ability to fly.
+    Whether through a pair of celestial or infernal wings, an inherent telekinetic force, or mutant super powers, you possess the ability to fly.
   effect: |
-    You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, an Immobile bane might render your wings immovable, if telekinetic, an application of the Dispel bane may cancel your flight.
+    You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, the <em>immobile</em> bane might render your wings immovable. If telekinetic, an application of the <em>dispel</em> bane may cancel your flight.
 - !
   name: Great Leap (I - III)
   prerequisites:
@@ -1006,7 +1006,7 @@
   description: |
     You are able to use your powers of illusion to not only create phantasmal figments, but to completely dominate the sensory perceptions of individual targets.
   effect: |
-    When you invoke the Phantasm bane, you may choose to create a hallucination within a single target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the Power Level of your bane), and are thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature, and thus is not eligible for multi-targeting attacks.
+    When you invoke the <em>phantasm</em> bane, you may choose to create a hallucination within a single target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the power level of your bane), and thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature and is not eligible for multi-targeting attacks.
 - !
   name: Hallucination - Mass
   prerequisites:
@@ -1024,8 +1024,8 @@
   description: |
     Your hallucinations become legendary in power, granting you the power to affect small groups or even crowds.
   effect: |
-    When you invoke the hallucination form of Phantasm bane, you may target additional creatures within range as determined by your Influence score. This does not count as a multi-target attack and thus does not incur disadvantage on your action roll.
-    <ul><li><strong>Influence 7</strong> - 5 Target</li><li><strong>Influence 8</strong> - 10 Targets</li><li><strong>Influence 9</strong> - 50 Targets</li></ul>
+    When you invoke the hallucination form of the <em>phantasm</em> bane, you may target additional creatures within range as determined by your Influence score. This does not count as a multi-target attack and thus does not incur disadvantage on your action roll.
+    <ul><li><strong>Influence 7</strong> - 5 targets</li><li><strong>Influence 8</strong> - 10 targets</li><li><strong>Influence 9</strong> - 50 targets</li></ul>
 - !
   name: Heightened Invocation (I - III)
   prerequisites:
@@ -1044,7 +1044,7 @@
   cost:
   - 2
   description: |
-    By channeling your extraordinary powers through extended research or extensive rituals, such as meditation, fasting, blood letting, and sacrifices, you are able to increase the strength of your invocations.
+    By channeling your extraordinary powers through extended research or extensive rituals, such as meditation, fasting, blood letting, or sacrifices, you are able to increase the strength of your invocations.
   effect: |
     When invoking a bane or boon, you may choose to do so as a ritual. The invocation time for a ritual is one increment higher than usual as follows:
     <ul>
@@ -1072,15 +1072,15 @@
       <li>You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.</li>
       <li>You gain the following additional option to choose from when empowering your invocations with ritual magic:</li>
         <ul>
-        <li>Cause a boon to persist for 1 minute automatically without needing to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (though the Nullify bane still works).</li>
+        <li>Cause a boon to persist for 1 minute automatically without needing to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (though the <em>nullify</em> bane still works).</li>
         <li>Targets may not make resist rolls against a bane for one minute after it is invoked.</li>
         </ul>
     </ul>
 
     <strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
     <ul>
-    <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the Nullify bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).</li>
-    <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be nullified either temporarily with the Dispel bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).</li>
+    <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).</li>
+    <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be cancelled either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).</li>
     <li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.</li>
     <li><strong>Dispel Bane</strong> - Make a Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.</li>
     </ul>
@@ -1105,7 +1105,7 @@
   description: |
     Through inspiring words, magical healing, or advanced medical technique, you are exceptionally skilled at helping others shake off baneful afflictions.
   effect: |
-    You can use a major action to give an ally an immediate Resist roll (a free action for the ally) with advantage 1. Additionally, you gain advantage 1 any time you attempt to invoke the Restoration boon.
+    You can use a major action to give an ally an immediate resist roll (a free action for the ally) with advantage 1. Additionally, you gain advantage 1 any time you attempt to invoke the <em>restoration</em> boon.
 - !
   name: Impervious Trance
   prerequisites:
@@ -1121,7 +1121,7 @@
   description: |
     In the heightened focus of battle, your will becomes indomitable. Examples include a monk or barbarian's ability to resist fear via unflinching mental focus.
   effect: |
-    While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the affect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.
+    While you are in a battle trance, you are immune to banes that target your Resolve. If you were already under the effect of such a bane, it is negated for the duration of your battle trance and returns when your battle trance ends.
 - !
   name: Indomitable Endurance (I - V)
   prerequisites:
@@ -1155,9 +1155,9 @@
   cost:
   - 2
   description: |
-    Your endurance and willpower are legendary, allowing you to push on when others would keel over from exhaustion. A barbarian able to recover their wind after a mighty frenzy, or a computer hacker capable of routinely going for days without sleep while focused on a singular objective are good examples.
+    Your endurance and willpower are legendary, allowing you to push on when others would keel over from exhaustion. A barbarian able to recover their wind after a mighty frenzy, or a computer hacker capable of routinely going for days without sleep while focused on a singular objective are good examples of this feat in action.
   effect: |
-    You are able to shrug off the effects of the Fatigued bane. Treat your fatigue level (per the Fatigued bane description) as one lower than it actually is for the purposes of determining the bane's effects. You may take this feat multiple times. Each subsequent tier allows you to ignore an additional level of fatigue.
+    You are able to shrug off the effects of the <em>fatigued</em> bane. For each tier you possess in this feat, treat your fatigue level as one lower than it actually is for the purposes of determining the bane's effects.
 - !
   name: Indomitable Resolve (I - III)
   prerequisites:
@@ -1207,7 +1207,7 @@
   description: |
     You fight with such bravery, heroism, or bravado that your allies are ispired to fight beyond their usual mettle.
   effect: |
-    Once per round, when your damaging roll exceeds an enemy's defense by 10 or more, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
+    Once per round, when your roll for a damaging attack exceeds an enemy's defense by 10 or more, you can grant healing to your allies as outlined below. In order to gain this healing, allies must be within a range of 5' times your Presence score.
     <ul>
     <li><strong>Tier 1</strong> - A single ally that can see the attack heals 1d4 HP.</li>
     <li><strong>Tier 2</strong> - A number of allies equal to your Presence score who can see the attack heal 1d4 HP.</li>
