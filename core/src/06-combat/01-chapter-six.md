@@ -350,8 +350,7 @@ equal or exceed the appropriate defense for that bane. If your attack targeted m
 
 #### Make a Bane Attack
 
-Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as
-detailed in the [*bane descriptions*](http://www.openlegendrpg.com/banes). While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* [Fatigued](http://www.openlegendrpg.com/banes/fatigued)).
+Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in Chapter 6: Banes & Boons. While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (such as the *fatigued* bane)
 
 To resolve a bane attack, follow these steps:
 
@@ -361,11 +360,11 @@ Bane attacks follow the same rules for determining range and number of targets a
 
 ##### 2. Determine Targeted Defense
 
-The targeted defense is determined by the type of bane being inflicted. Consult the [*bane descriptions*](http://www.openlegendrpg.com/banes) to determine which defense to target.
+The targeted defense is determined by the type of bane being inflicted. Consult the bane descriptions in Chapter 6: Banes & Boons to determine which defense to target.
 
 ##### 3. Roll Your Attack
 
-The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
+The bane descriptions in Chapter 6 also indicate which attributes can be used to inflict each bane. Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
 > ##### Example Bane Attacks
 >
@@ -381,8 +380,7 @@ The [*bane descriptions*](http://www.openlegendrpg.com/banes) also indicate whic
 
 #### Invoke a Boon
 
-You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the
-[*boon descriptions*](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
+You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the boon descriptions in Chapter 6: Banes & Boons. To invoke a boon, follow these steps:
 
 ##### 1. Determine Range and Target(s)
 
@@ -390,7 +388,7 @@ Boon invocations follow the same rules for determining range and number of targe
 
 ##### 2. Roll to Invoke
 
-Make an action roll using the appropriate attribute, as determined by the [*boon descriptions*](http://www.openlegendrpg.com/boons).
+Make an action roll using the appropriate attribute, as determined by the boon description.
 
 ##### 3. Determine Power Level
 
