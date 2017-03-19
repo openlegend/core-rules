@@ -509,7 +509,7 @@
     <li><strong>Power Level 9</strong> - Cancel banes of Power Level 9 or less. </li>
     </ul>
   special: |
-    You can dispel banes of a power level beyond your power level of this boon. In order to do so, you must invoke this boon using an action roll (i.e., it is not compatible with the automatic success granted by the <emphasis>boon focus</emphasis> feat). The Challenge Rating to dispel a bane in this manner is equal to 20 + twice the bane's power level. So, for example, a Power Level 9 bane can be dispelled on a roll of 56.
+    You can dispel banes of a power level beyond your power level of this boon. In order to do so, you must invoke this boon using an action roll (i.e., it is not compatible with the automatic success granted by the <emphasis>boon focus</emphasis> feat). The Challenge Rating to dispel a bane in this manner is equal to 20 + twice the bane's power level. So, for example, a Power Level 9 bane can be dispelled on a roll of 38 even if the invoker does not have an attribute score of 9.
 - !
   name: Seeing
   tags:
