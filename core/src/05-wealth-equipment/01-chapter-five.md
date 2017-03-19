@@ -6,7 +6,7 @@ No story of heroic deeds is complete without equally heroic gear, weapons and ar
 ## Wealth
 Rather than tracking every gold piece, credit, or fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
 
-Every character has a Wealth Score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each Wealth Score.
+Every character has a wealth score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each wealth score.
 
 <div class="table-no-body"></div>
 | Wealth Overview |
@@ -27,36 +27,36 @@ Every character has a Wealth Score, which begins at 2 and can range from 0 to 9,
 | 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 ### Acquiring Goods and Services
-Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines if you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
+Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines if you are able. Every good or service is assigned a wealth level (either in the rules or by the GM). This level is compared with your wealth score in order to determine the cost of acquiring the item, as follows:
 
-If the good you want to purchase has a level **lower than** your Wealth Score, you can acquire the item easily without taxing your time and resources.
+If the good you want to purchase has a level **lower than** your wealth score, you can acquire the item easily without taxing your time and resources.
 
-If the item's level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
+If the item's level is **equal to** your wealth score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
 
-If the object of your purchase is **one level higher than** your Wealth Score and your Wealth Score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
+If the object of your purchase is **one level higher than** your wealth score and your wealth score is above 0, you can acquire it, but the cost is so great that your wealth score is reduced by 1.
 
-You cannot make purchases that are more than one level higher than your Wealth Score.
+You cannot make purchases that are more than one level higher than your wealth score.
 
 > #### Examples of Acquiring Goods and Services
 >
-> Thanks to a recently successful salvage run, Shara's Wealth Score just increased to 4. She's had her eyes set on a new cargo ship for a while now, which the GM has set at Wealth Level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a Wealth Score of 3.
+> Thanks to a recently successful salvage run, Shara's wealth score just increased to 4. She's had her eyes set on a new cargo ship for a while now, which the GM has set at wealth level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a wealth score of 3.
 >
 > * * * * *
 >
-> Slade, master of the local thieves' guild, has a Wealth Score of 5. He wants to outfit all of his men with new weapons, which the GM has decided equates to Wealth Level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his Wealth Score.
+> Slade, master of the local thieves' guild, has a wealth score of 5. He wants to outfit all of his men with new weapons, which the GM has decided equates to wealth level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his wealth score.
 >
 > * * * * *
 >
-> Crazy Mac has panhandled his way up to a Wealth Score of 1. From now on, he can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
+> Crazy Mac has panhandled his way up to a wealth score of 1. From now on, he can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
 
 #### The Rule of Common Sense
-Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
+Your wealth score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
 ### Gaining Wealth
 
-As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character's wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
+As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character's wealth increases, and the Wealth Overview table provides a few milestones of typical character wealth scores at different levels.
 
-Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster's lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
+Typical situations of when the GM would grant you an increase in your wealth score include acquiring a large hoard from a monster's lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
 
 ## Carrying Capacity
 
@@ -108,7 +108,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 
 <div class="table-no-body"></div>
@@ -233,7 +233,7 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 ## Building Your Own Weapons
 
-Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default Wealth Level of 1, and may be increased or decreased at various stages of this process.
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
@@ -243,7 +243,7 @@ Typically a weapon belongs to one category, however some weapons, such as a dagg
 
 Every weapon must have either the *Forceful* or *Precise* property and some weapons have both. Choose one or both.
 
-Next, choose any additional properties that the weapon possesses. Properties adjust the Wealth Level according to the following table.
+Next, choose any additional properties that the weapon possesses. Properties adjust the wealth level according to the following table.
 
 | Property | WL Modifier |
 | :-: | :-: |
@@ -259,11 +259,11 @@ Next, choose any additional properties that the weapon possesses. Properties adj
 
 ### Step 3: Choose Banes
 
-Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact Wealth Level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
+Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact wealth level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
 
 ### Step 4: Calculate Wealth Level
 
-All weapons (with the exception of unarmed strike), begin with a base Wealth Level of 1. From there, calculate the Wealth Level of the weapon based on the decisions from your choices in Step 2 and Step 3.
+All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 > 
@@ -279,7 +279,7 @@ All weapons (with the exception of unarmed strike), begin with a base Wealth Lev
 > In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, and **Provoked**.
 >
 > **Step 4 (Calculate Wealth Level)**
-> The total Wealth Level modifier of the properties chosen in step 2 is +1. Added to the base Wealth Level of 1, we arrive at a final Wealth Level of 2 for our kusari-gama.
+> The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.
 
 
 
