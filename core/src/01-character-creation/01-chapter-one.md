@@ -342,7 +342,7 @@ start with the feat selections recommended below:
 
 In a typical game of Open Legend, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
-Usually, though, you begin with a Wealth Score of 2, and may select up to three items of Wealth Level 2 and any number of items of a lesser Wealth Level. See chapter 5 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
+Usually, though, you begin with a wealth score of 2, and may select up to three items of wealth level 2 and any number of items of a lesser wealth level. See chapter 5 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
 
 Instead of purchasing equipment a la carte, you may also elect to choose one of the following starting packages built for common character archetypes.
 
@@ -475,7 +475,7 @@ In Open Legend, attributes are the means by which your hit points increase. If y
 
 ## Starting Beyond First Level
 
-Sometimes a new player will join a campaign in progress in which the other PCs have already advanced several levels, so it would be unbalanced to insert a first level character into the party. Other times, the GM may decide to run a campaign with PCs who have already accumulated some wealth and power. In situations like these, you can use the Characters Beyond First Level table to determine attribute points, feat points, and wealth for PCs. When choosing starting gear, you may select two items of your current Wealth Score and any number of lesser valued items.
+Sometimes a new player will join a campaign in progress in which the other PCs have already advanced several levels, so it would be unbalanced to insert a first level character into the party. Other times, the GM may decide to run a campaign with PCs who have already accumulated some wealth and power. In situations like these, you can use the Characters Beyond First Level table to determine attribute points, feat points, and wealth for PCs. When choosing starting gear, you may select three items of your current wealth score and any number of lesser valued items.
 
 <div class="table-no-body"></div>
 | Characters Beyond First Level |
