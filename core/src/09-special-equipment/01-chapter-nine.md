@@ -18,7 +18,7 @@ However, extraordinary items are so powerful that they have the potential to dra
 
 Extraordinary items are different from weapons, armor, and other gear because they give the wielder access to attributes, banes, and boons that are beyond their current power--or they bolster the attributes, banes, and boons that the wielder can already access. The Extraordinary Items Table outlines a variety of such items spanning many genres. The examples include weapons and gear of powerful magic, alchemy, and technology--and they should provide plenty of inspiration for coming up with your own extraordinary items for your campaign.
 
-**WL (Wealth Level)** indicates the Wealth Level associated with this extraordinary item. Acquiring the item requires a sufficient Wealth Level and follows all of the rules for Wealth established in Chapter 5: Weapons & Equipment.
+**WL (Wealth Level)** indicates the wealth level associated with this extraordinary item. Acquiring the item requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 5: Weapons & Equipment.
 
 **Attributes** indicate which attributes, if any, the item can make use of. An item can use an attribute to make attacks, invoke banes and boons, and perform other actions that would reasonably fall within the item's capabilities. The wielder spends their own actions to use an item's attributes, but all attribute dice and power levels are determined by the item's attribute score, not the wielder's. The wielder's applicable feats still apply. If the wielder's attribute is greater than the item's by one or two points, they may use their own attribute, and the item instead grants advantage 1 on rolls with that attribute. This bonus can only be applied once to a given attribute, regardless of how many items you wield that possess the attribute.
 
@@ -155,7 +155,7 @@ Immobile 5, Augmenting, Expendable
 
 Darkness 5, Summon Creature 5, Blinded 5
 
-**Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of Power Level 5 or above, they must make a Will check of CR 15 or suffer one level of the *fatigued* bane.
+**Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will check of CR 15 or suffer one level of the *fatigued* bane.
 
 
 #### Colt 45
@@ -404,7 +404,7 @@ Polymorph 6, Potent, Powerful 1
 
 Persuasion 7, Autonomous
 
-**Special**: The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a Wealth Score of 6 for local purchases. Lastly, the device records every action performed by the user and trasmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.
+**Special**: The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a wealth score of 6 for local purchases. Lastly, the device records every action performed by the user and trasmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.
 
 
 #### Worker Bot
@@ -483,7 +483,7 @@ After you have described your item's special properties, you should assign a wea
 > \
 > *Is it versatile?* Yes. +1 WL. Double jump distance will allow a character to overcome a large variety of obstacles, and provide enhanced maneuverability in both combat and non-combat scenarios. \
 > \
-> *Is it powerful?* Mildly. +1 WL. The maneuverability granted by this property is about on par to Teleport Power Level 3. \
+> *Is it powerful?* Mildly. +1 WL. The maneuverability granted by this property is about on par to Teleport power level 3. \
 > \
 > *Is it limiting?* No. It doesn't restrict other abilities nor is it limited to niche scenarios. \
 > \
@@ -534,7 +534,7 @@ After you have described your item's special properties, you should assign a wea
 
 #### STEP 4: Calculate Final Wealth Level
 
-Calculate the total Wealth Level accrued in the previous steps. Then, compare the item to others of similar power. If necessary, adjust the Wealth Level up or down slightly so that it is an accurate representation of the item's influence on the game compared to other extraordinary items. No extraordinary item can have a Wealth Level less than 1.
+Calculate the total wealth level accrued in the previous steps. Then, compare the item to others of similar power. If necessary, adjust the wealth level up or down slightly so that it is an accurate representation of the item's influence on the game compared to other extraordinary items. No extraordinary item can have a wealth level less than 1.
 
 
 
@@ -662,7 +662,7 @@ Typically, mounts and vehicles cannot act independently of their riders, and so 
 Detailed below are a variety of mounts and vehicles to carry your characters across land, sea, sky, and space. These samples represent multiple genres and are not meant to be an exhaustive list. GMs and players should use these examples as guidelines and work together to create stats for additional mounts as necessary to fit their campaigns.
 
 
-**WL (Wealth Level)** indicates the Wealth Level associated with this particular mount or vehicle. Acquiring one requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 5: Wealth & Equipment.
+**WL (Wealth Level)** indicates the wealth level associated with this particular mount or vehicle. Acquiring one requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 5: Wealth & Equipment.
 
 **Speed** indicates the number of feet the mount or vehicle moves with a single move action.
 
