@@ -251,7 +251,7 @@ So, when a combat encounter ends, instead of listing off how many crossbow bolts
 
 - If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks. 
 
-- If the bribe recipient is **one wealth level higher** than the character's Wealth Score, the cost is so great that the character's wealth score is permanently reduced by 1. Bribing someone more than one Wealth level higher is impossible without other factors in play.
+- If the bribe recipient is **one wealth level higher** than the character's wealth wcore, the cost is so great that the character's wealth score is permanently reduced by 1. Bribing someone more than one wealth level higher is impossible without other factors in play.
 
 So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor. Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
 
