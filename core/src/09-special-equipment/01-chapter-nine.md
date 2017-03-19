@@ -45,7 +45,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Firebrand | 4 |  | Persistent Damage 4 | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
 | Ghostfire | 2 | Energy 5 |  | Expendable |
 | Helm of Truth | 5 |  | Bolster 3 | Persistent, Cursed (Truthfulness 5) |
-| Horn of Thunder | 4 | Might 5 | Deafened 4 | Area (20' cone), Special |
+| Horn of Thunder | 5 | | | Area (20' cone), Special |
 | Jet Pack | 4 |  | Flight 6 |  |
 | Laser Cannon | 6 | Energy 9 |  | Weapon (Cannon) |
 | Maul of Dominance | 4 |  | Aura 8 | Special, Weapon (Maul) |
@@ -264,14 +264,13 @@ Bolster 3, Persistent, Cursed (Truthfulness 5)
 
 #### Horn of Thunder
 
-**Wealth Level**: 4
+**Wealth Level**: 5
 
 *When blown, this horn creates a sound wave strong enough to deafen creatures and shatter objects.*
 
-Deafened 5, Might 5, Area 20' cone
+Area 20' cone
 
-**Special**: The horn can only use the Might attribute to destroy objects or inflict the banes forced move and knock down.
-
+**Special**: The wielder can blow this horn as a major action to make an area attack targeting a 20' cone. The attack is Might 5 versus Toughness. Creatures in the area who are hit by the attack suffer the *deafened* (power level 4) and *knock down* (power level 1) banes. Unattended objects in the area, such as doors or locked chests, are instead subject to a damaging attack that deals double damage. The horn can be blown once per day at no cost. Every time it is blown after that, there is a 25% chance that it shatters to pieces.
 
 #### Jet Pack
 
