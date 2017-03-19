@@ -229,7 +229,11 @@ The GM may also feel free to establish other rules for awarding legend points. F
 
 ### Spending Legend Points
 
-Before making an action roll, a PC may spend a maximum number of legend points equal to their level plus one. For each legend point spent, they gain advantage 1 on the action roll.
+A PC may spend a maximum number of legend points equal to their level plus one in order to enhance a single action roll.
+
+Before making an action roll, the PC declares how many legend points they are spending, and gains advantage 1 on the roll for each legend point spent.
+
+Alternatively, a PC may choose to spend legend points after they make an action roll and are dissatisfied with the result. Each legend point spent applies a retroactive advantage 1 to the roll, allowing the player to roll additional attribute dice and recalculate the roll completely as if it was made with the new advantage total.
 
 ## Attributes and Action Rolls in Play
 
