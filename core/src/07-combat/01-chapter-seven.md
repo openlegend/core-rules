@@ -1,4 +1,4 @@
-# Chapter 6: Combat #
+# Chapter 7: Combat #
 
 Sometimes, the well-meaning but far too honest paladin blows your cover.
 
@@ -186,7 +186,7 @@ Make an action roll using the attribute determined in step 1. You deal damage eq
 
 ###### Exceptional Success
 
-If your attack roll exceeds the target's defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
+If your attack roll exceeds the target's defense by 10 or more, you may apply one bane of a power level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
 ##### Multi-targeting
 
@@ -244,7 +244,7 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 >
 > * * * * *
 >
-> Surrounded by a rapidly growing horde of zombies, Selene pumps her sawed-off shotgun and prepares to blast a number out of the way and make a run for her life. Her weapon gives her two benefits in this situation: the ability to make a 10' cone attack without penalty, advantage 1 on *forced move* bane attacks, and access to *forced move* at one power level above her attribute. Since she is only trying to move the zombies rather than damage them, she attacks 3 (the number of targets for a 10' cone) of them with a Forced Move bane attack. Selene's Agility is 5, so she would normally roll 1d20 + 2d6, but the sawed-off shotgun's Forced Move bane property gives advantage 1, so she rolls 1d20 + 3d6 (keeping 2 of the d6's) and gets a total of 23, easily beating the zombies Guard defense of 15. Since the sawed-off shotgun has the *forced move* bane property, Selene can invoke *forced move* at Power Level 6, which is normally not available with an Agility of 5. Selene blasts all 3 zombies back 15' and begins running for her life.
+> Surrounded by a rapidly growing horde of zombies, Selene pumps her sawed-off shotgun and prepares to blast a number out of the way and make a run for her life. Her weapon gives her two benefits in this situation: the ability to make a 10' cone attack without penalty, advantage 1 on *forced move* bane attacks, and access to *forced move* at one power level above her attribute. Since she is only trying to move the zombies rather than damage them, she attacks 3 (the number of targets for a 10' cone) of them with a Forced Move bane attack. Selene's Agility is 5, so she would normally roll 1d20 + 2d6, but the sawed-off shotgun's Forced Move bane property gives advantage 1, so she rolls 1d20 + 3d6 (keeping 2 of the d6's) and gets a total of 23, easily beating the zombies Guard defense of 15. Since the sawed-off shotgun has the *forced move* bane property, Selene can invoke *forced move* at power level 6, which is normally not available with an Agility of 5. Selene blasts all 3 zombies back 15' and begins running for her life.
 >
 > * * * * *
 >
@@ -274,7 +274,7 @@ You can invoke boons in order to aid yourself or allies. In order to invoke a bo
 
 > ##### Example Boon Invocations
 >
-> Jade attempts to activate her reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *invisible* is Power Level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
+> Jade attempts to activate her reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *invisible* is power level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
 >
 > * * * * *
 >
@@ -472,7 +472,7 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | If the action roll... | then the result is... |
 | :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of Power Level <= 3 <br /> Move 10' w/o opportunity attacks |
+| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of power level <= 3 <br /> Move 10' w/o opportunity attacks |
 
 With these modified rules, a player's failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 

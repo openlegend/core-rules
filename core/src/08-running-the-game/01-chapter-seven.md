@@ -1,4 +1,4 @@
-# Chapter 7: Running the Game #
+# Chapter 8: Running the Game #
 
 ## The Game Master's Calling
 
@@ -174,7 +174,7 @@ Once you've got enough planned to get started, get your group together, make som
 
 The thrill of adventure, the satisfaction of character development, and the joy of seeing a plotline come to its fulfillment are all intrinsically rewarding events that keep players coming back to the gaming table week after week. But still, just as players of any game, your players will also enjoy good old-fashioned extrinsic motivators. In Open Legend, these sorts of rewards typically come in two forms: wealth and power.
 
-### How and When to Award XP
+### Awarding XP
 
 In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
@@ -204,16 +204,15 @@ Rather than constantly awarding different experience point values to different m
 
 **Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they'll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don't have to plan out a campaign's milestones ahead of time, but you may need to adapt on the fly to your players' increasing power.
 
-##### Beyond 10th Level
+> #### Beyond 10th Level
+>
+> Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
 
-Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
-
-
-#### All That Glitters: Giving Players More Wealth
+### Awarding Wealth
 
 In addition to power, most players enjoy being able to have more influence on the campaign world by amassing hoards of treasure. With money comes the ability to buy better equipment, employ hirelings, construct fortifications, and even raise armies.
 
-Chapter 4 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2 and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
+Chapter 5 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
 
 <div class="table-no-body"></div>
 | Wealth Overview |
@@ -238,22 +237,23 @@ You can use this table as a rough guideline for when to give players more wealth
 
 However you plan to award wealth, you can see that the general recommendation on the table is for a PC's wealth score to increase twice every three levels.
 
+#### Understanding Open Legend's Wealth System
+
 If you or your players have a background with other game systems, in which they may have regularly looted every corpse, scavenged every piece of equipment, and dutifully tracked every single gold piece, then Open Legend's wealth system might initially feel a bit awkward. If it does, consider some of the following tips:
 
-**NPCs still have stuff on them.** Just because you don't need to spend hours tracking every piece of loot that the players cut from a corpse doesn't mean that they don't have stuff on them. It just fades into the background so that you can focus on the story.
-
-Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it's usually to serve the plot.
+**NPCs still have stuff on them.** Just because you don't need to spend hours tracking every piece of loot that the players cut from a corpse doesn't mean that those corpses don't have stuff on them. Their loot just fades into the background so that you can focus on the story. Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it's usually to serve the plot.
 
 So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it's still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
 
-**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can easily use money to influence someone else of a lower wealth score.
+**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 5):
 
-If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks. If the bribe recipient is **one wealth level higher** than the character's Wealth Score, the cost is so great that the character's Wealth Score is permanently reduced by 1. Bribing someone more than one Wealth level higher is impossible without other factors in play.
+- Characters can easily bribe NPCs with a **lower wealth score.**
 
-So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor.
+- If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks. 
 
-Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
+- If the bribe recipient is **one wealth level higher** than the character's wealth wcore, the cost is so great that the character's wealth score is permanently reduced by 1. Bribing someone more than one wealth level higher is impossible without other factors in play.
 
+So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor. Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
 
 ## Monsters and NPCs
 No campaign or adventure is complete without monsters for the heroes to defeat or NPCs for them to overcome. When planning out a campaign or adventure, consider that the monsters and NPCs of your story typically fall into one of the following categories:
@@ -266,17 +266,17 @@ No campaign or adventure is complete without monsters for the heroes to defeat o
 
 ### Henchmen
 
-Henchman is a general term to describe any antagonist who simply exists as a small obstacle to the party's short term plans. Examples of henchmen include a wandering band of space pirates that waylays the party mid-flight, a mindless ooze roaming the deep corners of a cavernous dungeon, and a team of assassins dispatched by the local mob boss to put an end to the heroes' meddling. While henchmen typically have realistic motives, their influence on the plot is small enough that you don't need to spend as much energy to make your henchmen deep and convincing. The orcs are motivated by greed, the ooze by hunger, and the assassins by loyalty to their guild.
+Henchman is a general term to describe any antagonist who simply exists as a small obstacle to the party's short term plans. Examples of henchmen include a wandering band of space pirates that waylays the party mid-flight, a mindless ooze roaming the deep corners of a cavernous dungeon, and a team of assassins dispatched by the local mob boss to put an end to the heroes' meddling. While henchmen typically have realistic motives, their influence on the plot is small enough that you don't need to spend as much energy to make your henchmen deep and convincing. The pirates are motivated by greed, the ooze by hunger, and the assassins by loyalty to their guild.
 
 ### Villains
 
 The villain of a plotline is the primary antagonist, and your players will likely deal with multiple villains throughout their careers. Examples include the necromancer who has taken up residence in the local graveyard, the sentient interdimensional cloud who pulls the strings from behind the galactic senate, and the bandit king who has united the ruffians of the realm under one banner. Unlike henchmen, your villains will require a good amount of thought to flesh out. To develop strong, convincing villains, consider the following elements.
 
-**Motive.** Every villain should have a realistic motive, or a reason for turning towards their villainous ways. Instead of deciding that your necromancer is simply evil, for example, consider making them fallen. Perhaps they turned to necromancy as a last resort to revive their beloved partner who was killed in a shipwreck.
+**Motive.** Every villain should have a realistic motive, or a reason for turning towards their villainous ways. Instead of deciding that your necromancer is simply evil, for example, consider making him fallen. Perhaps he turned to necromancy as a last resort to revive his beloved who was killed in a shipwreck.
 
-**Scheme.** Your villain's scheme is the evil deed they have set out to complete. The scheme is often tied directly to the motive. For example, rather than the necromancer simply being set on snuffing the life out of the town, their scheme involves sacrificing ten villagers as part of a ritual to return their partner to life.
+**Scheme.** Your villain's scheme is the evil deed they have set out to complete. The scheme is often tied directly to the motive. For example, rather than the necromancer simply being set on snuffing the life out of the town, his scheme involves sacrificing ten villagers as part of a ritual to return his beloved to life.
 
-**Flaw.** A flaw is part of what makes a villain human (even if the villain is an ancient wyrm). A flaw could be a physical vulnerability, such as the bare patch of Smaug's left breast, or it could be a social, mental, or emotional insufficiency. Our necromancer, for example, could be easily set into a blind rage against anyone who speaks ill of their beloved.
+**Flaw.** A flaw is part of what makes a villain human (even if the villain is an ancient wyrm). A flaw could be a physical vulnerability, such as the bare patch of the dragon Smaug's left breast, or it could be a social, mental, or emotional insufficiency. Our necromancer, for example, could be easily set into a blind rage against anyone who speaks ill of his beloved.
 
 ### Allies
 
@@ -292,25 +292,25 @@ Whatever sorts of allies the party has acquired, it's important for the GM to ab
 
 - Creating situations in which the players feel forced to take an NPC's orders or advice.
 
-There are no hard and fast rules, however. If you find NPCs in your game frequently doing the above, then there's a good chance your players might become frustrated.
+If you find the NPCs in your game frequently taking these or similar roles, then there's a good chance your players might become frustrated.
 
-But sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a powerful mad scientist uses a poisonous gas to control the minds of a group of soldiers and commands them to attack the players. A powerful ally NPC might use his medical knowledge to create an anti-toxin to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn't capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the dominated soldiers and preventing them from harming anyone.
+Sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a villainous mad scientist uses a poisonous gas to control the minds of a group of soldiers and commands them to attack the players. A powerful ally NPC might use her medical knowledge to create an anti-toxin to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn't capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the dominated soldiers and preventing them from harming anyone.
 
 The above example will likely be an intriguing scene enjoyed by all, because the ally NPC can't prevail without the help of the players.
 
 **Allies can be used to grant knowledge.** In addition to providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader's guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Universe Portal. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs' hands.
 
-**Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can't fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place, and, by finding ways to demonstrate your NPCs' imperfections, you'll further immerse your players in the fantasy.
+**Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can't fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place, and, by finding ways to demonstrate your NPCs' imperfections, you'll further immerse your players in the campaign world.
 
 ### Monsters and NPC Statistics
 
-Many of the monsters and NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don't need a full array of attributes, feats, and favored banes because, more likely than not, you'll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments - but your party is never going to need to engage him in combat.
+Many of the monsters and NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don't need a full array of attributes, feats, and favored attacks because, more likely than not, you'll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments--but your party is never going to need to engage him in combat.
 
 A good deal of your monsters and NPCs, however, will require statistical descriptions to use for combat or social encounters. This section will describe two ways that you can build these statistics: the complex build and the simple build.
 
 #### Complex Build
 
-When designing an NPC using the complex build, you simply create the NPC as if it was a player character. Select an appropriate level and use the instructions in chapter one to assign attributes, feats, and other defining characteristics.
+When designing an NPC using the complex build, you simply create the NPC as if it was a player character. Select an appropriate level and use the instructions in Chapter 1 to assign attributes, feats, and other defining characteristics.
 
 The complex build is a good option when you are creating a very important villain or ally who will play a major role in the story line. This process can take a while, so it's not worth going through with underlings, henchmen, or beasts who are only going to be present for a single scene.
 
@@ -328,9 +328,9 @@ Use the NPC Simple Build Table to determine the monster's most relevant statisti
 
 | NPC Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | 10 - 22 | 10 - 18 | 4 | 3 |
-| 2 | 12 - 24 | 11 - 18 | 5 | 3 |
-| 3 | 14 - 26 | 12 - 19 | 5 | 4 |
+| 1 | 10 - 22 | 10 - 16 | 4 | 3 |
+| 2 | 12 - 24 | 11 - 17 | 5 | 3 |
+| 3 | 14 - 26 | 12 - 18 | 5 | 4 |
 | 4 | 16 - 28 | 13 - 19 | 6 | 4 |
 | 5 | 18 - 30 | 14 - 20 | 6 | 5 |
 | 6 | 20 - 32 | 15 - 21 | 7 | 5 |
@@ -338,20 +338,29 @@ Use the NPC Simple Build Table to determine the monster's most relevant statisti
 | 8 | 24 - 36 | 17 - 23 | 8 | 6 |
 | 9 | 26 - 38 | 18 - 24 | 8 | 7 |
 | 10 | 28 - 40 | 19 - 25 | 9 | 7 |
+| 11 | 30 - 42 | 19 - 25 | 9 | 8 |
+| 12 | 32 - 44 | 20 - 26 | 10 | 8 |
+| 13 | 34 - 46 | 20 - 26 | 10 | 9 |
+| 14 | 36 - 48 | 21 - 27 | 10 | 9 |
+| 15 | 38 - 50 | 21 - 27 | 10 | 9 |
+| 16 | 40 - 52 | 22 - 28 | 10 | 9 |
+| 17 | 42 - 54 | 22 - 28 | 10 | 9 |
+| 18 | 44 - 56 | 23 - 29 | 10 | 9 |
+| 19 | 46 - 58 | 23 - 29 | 10 | 9 |
+| 20 | 48 - 60 | 24 - 30 | 10 | 9 |
 
-
-Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities:
+Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Some of these are new feats that are only available to GM controlled monsters and NPCs.
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
 - **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
 
+- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane.
+
 - **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain the following benefits:
 
 	- **Tier 1:** Gain +5 to your defense against the chosen bane.
 	- **Tier 2:** You are immune to the chosen bane.
-
-- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever you inflict at least one damage with an attack, you may automatically inflict that bane.
 
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon you can invoke. Gain the following benefits:
 
@@ -374,39 +383,39 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Evasive Footwork:** When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 
-- **Lethal Strike (tier equal to NPC level, max 9):** Lethal strikes can be delivered to do lethal damage (that does not heal normally) under specific circumstances. There are two different ways to deliver a lethal strike:
-    1. Catch an enemy by surprise, either due to not seeing you via Agility or through disguise / subterfuge via Deception.
-    2. If an enemy is adjacent to an ally wielding a melee weapon, then you can make a lethal strike against that enemy.
+- **Lethal Strike (tier equal to NPC level, max 9):** Your attacks are considered lethal strikes whenever you fulfill *one* of the following conditions:
+    - Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
+    - Your target is within melee attack range of an ally.
 
-    If one of the above conditions is met, you can deliver a lethal strike, which grants advantage and deals lethal damage in accordance with your tier and is difficult to recover from. Each tier below has an amount of advantage and a max lethal damage. If you deal damage up to the lethal threshold, then the lethal damage equals your damage total. If you deal more damage than the lethal threshold, you deal lethal damage equal to the threshold.
+You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat).
 
-    - **Tier 1** - Advantage 1, Max lethal damage 5
-    - **Tier 2** - Advantage 2, Max lethal damage 5
-    - **Tier 3** - Advantage 3, Max lethal damage 10
-    - **Tier 4** - Advantage 4, Max lethal damage 10
-    - **Tier 5** - Advantage 5, Max lethal damage 15
-    - **Tier 6** - Advantage 6, Max lethal damage 20
-    - **Tier 7** - Advantage 7, Max lethal damage 20
-    - **Tier 8** - Advantage 8, Max lethal damage 25
-    - **Tier 9** - Advantage 9, Max lethal damage 25
+    - **Tier 1** - Advantage 1, Up to 5 lethal damage
+    - **Tier 2** - Advantage 2, Up to 5 lethal damage
+    - **Tier 3** - Advantage 3, Up to 10 lethal damage
+    - **Tier 4** - Advantage 4, Up to 10 lethal damage
+    - **Tier 5** - Advantage 5, Up to 15 lethal damage
+    - **Tier 6** - Advantage 6, Up to 20 lethal damage
+    - **Tier 7** - Advantage 7, Up to 20 lethal damage
+    - **Tier 8** - Advantage 8, Up to 25 lethal damage
+    - **Tier 9** - Advantage 9, Up to 25 lethal damage
 
-- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of additional attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
+- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 
-You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
+You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
 
-- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with multi-targeting by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
 
 - **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
 
-- **Potent Bane:** Choose a bane. When you invoke the chosen bane on a target, Resist rolls to shake off the bane have disadvantage 1.
+- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
 
-- **Resilient:** Any time you roll to Resist, you have advantage 1 on the roll.
+- **Potent Bane:** Choose one bane that you can invoke that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.
+
+- **Resilient:** Any time you make a resist roll, you have advantage 1 on the roll.
 
 - **Superior Concentration (tier 1 - 3, your choice):** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
 
-**Special:** This feat can be purchased multiple times (up to a maximum of 3), each time it is purchased you can maintain one more boon with the Sustain minor action.
-
-> #### Example Simple Monster Build: Swamp Snakes
+> ##### Example Simple Monster Build: Swamp Snakes
 >
 > Returning to the example at the beginning of this section, let's build our venomous swamp snakes imagining that the party is made up of 3rd level characters, and thus we choose to make the Swamp Snakes using the row for level 3 Monsters. We decide that the snakes aren't particularly tough to kill, so referencing the Simple Build Table, we'll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we'll go with the high range for Guard: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We'll only assign one primary attribute, giving the snakes an Agility of 5, and we'll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
 >
@@ -414,10 +423,9 @@ You may use your attacks to make any combination of bane or damaging attacks, bu
 
 #### Boss NPCs
 
-A Boss is a single monster or NPC that is capable of taking on a group of characters due to extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
+A Boss is a single monster or NPC that is capable of taking on a group of characters due to its extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
 
 When you decide that one of your monsters or NPCs merits boss status, use the Boss NPC Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
-
 
 <div class="table-no-body"></div>
 | BOSS NPC BUILD |
@@ -449,9 +457,24 @@ When you decide that one of your monsters or NPCs merits boss status, use the Bo
 
 **Boss Edge**
 
-A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. A boss NPC gets advantage on all attack rolls equal to its boss edge value.
+A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. Furthermore, a boss NPC gets advantage on all attack rolls equal to its boss edge value.
 
-In addition to its normal allotment of actions, a boss also receives a number of boss actions on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
+In addition to its normal allotment of actions, a boss also receives a number of special *boss actions* on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
+
+> ##### Example Initiative Order Using Boss Actions
+>
+> The following initiative order imagines a group of 4 player characters fighting a boss with an edge of 4. Only one of the PCs rolled higher than the boss on initiative.
+>
+> 1st: PC 1
+> 2nd: Boss's Normal Turn
+> 3rd: PC 2
+> 4th: Boss Action 1
+> 5th: PC 3
+> 6th: Boss Action 2
+> 7th: PC 4
+> 8th: Boss Action 3
+> 9th: Boss Action 4
+> 
 
 ## Planning Combat Encounters
 
@@ -462,7 +485,6 @@ The build rules just explained help you create individual monsters or NPCs for t
 When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn't present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
 
 Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
-
 
 <div class="table-no-body"></div>
 | ENCOUNTER DIFFICULTY |
@@ -485,9 +507,9 @@ If your encounter includes boss NPCs, multiply their level by 4 for purposes of 
 
 #### Minions
 
-When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four. Essentially, minions.
+When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four.
 
-For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your monster level budget would only allow you to include six 1st level monsters, but you decide to replace them all with minions, allowing you to include 18 goblins.
+For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your monster level budget would only allow you to include six 1st level monsters, but you decide to replace them all with minions, allowing you to include 18 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 HP each.
 
 ### Encounter Setting
 
@@ -499,28 +521,6 @@ Rarely do epic movie fight scenes take place in an empty chamber. There are usua
 
 **Hazards.** Consider adding an extra count in the initiative for some sort of natural or extraordinary hazard, such as a steaming geyser or poisonous mushroom spore. Once per round, randomly choose a PC or two to fall victim to these perils of the battlefield.
 
-### Encounter Consequences
-
-Not every fight that your party gets into needs to be a knock down drag out fight to the death, nor does every encounter need to have a binary win/loss condition. When determining how a fight ends, remember to consider the motivations of the combatants and the demands of the plot. Are the PCs worth more to the orc chief alive than dead? Will the story be more interesting if the dragon doesn't wipe out the entire party? Consider some of the following possibilities whenever deciding how a fight will end.
-
-**Don't be afraid to end it early.** Sometimes, despite all your plans, a combat just takes too long. Or maybe the party's luck runs dry and they spend four rounds trying to kill the last two carnivorous shrubs. It's okay to fast-forward the combat when things are going stale and everyone at the table is ready for the next scene. Simply narrate the gist of what happens, and move on. Generally, you should only do this if the combat is obviously going to end in the PCs' favor. If the bad guys are winning, most parties will likely want to fight to the bitter end. If fast-forwarding to a party defeat, be sure that ALL of your players are agreeable first.
-
-**Partial defeat is more interesting than a total party kill.** Battles are much greater swirling maelstroms of chaos than our gridded battle mats, top-down views, and sequential turns would lead us to believe. This means that the GM has plenty of wiggle room for creating outcomes that might not have come up in the blow-by-blow narrative of the encounter. So, if the entire party is knocked unconscious or otherwise defeated, you are well within your rights to say that, for example, one of the PCs stumbled out of sight unnoticed before passing out, or that the monsters leave half of the party for dead and capture the few that they think are still alive. Little twists like this allow the players a chance to turn a loss into an epic tale for revenge or recovery.
-
-**Hard decisions test a hero's mettle.** A favorite tactic of super villains everywhere is to force the hero to decide between winning the fight or saving a mass of helpless bystanders. Combat encounters in Open Legend can also end in tough decisions for the party: the sorcerer hovers over a magma filled chasm so that landing the final blow also means destroying the magical staff he wields, the hill giant reveals that he has a family captive in a cave which he will only reveal if his life is spared, and so on. Though your players will get tired of these tactics if they are used excessively, forcing hard choices on your heroes will help them define their characters and prove their loyalties.
-
-**Death is okay, sometimes.** The above suggestions aren't meant to imply that you should never kill off a PC (or four). They are simply illustrations of the variety of ways that a fight can end in an interesting manner. Sometimes, heroes die, and if your players know that character death is a real possibility, it will make their victories and exploits all the more legendary. If a character does need to die, though, make sure they go out with a bang, with an epic story to be sung by bards for ages eternal.
-
-### On Balance and Fairness
-
-When planning your encounters, you do not need to strive for balance, but you should aim to be fair to your players.
-
-Video games are balanced: they are designed to present players with incremental challenges that grow in difficulty alongside the power of the player. Because of the inherent lack of openness and choice in most video games, players would easily get frustrated if the challenges weren't balanced to their progress in the game.
-
-Role playing games, on the other hand, aren't meant to be balanced all of the time. They are meant to be immersive. They are meant to allow players to push the limits of possibility in fantastical worlds. This level of freedom means that sometimes the heroes will come face to face with threats that they cannot overcome.
-
-As a GM, you don't need to have any anxiety over putting an impossible challenge before your party. But you do have to be fair about it. You are responsible for warning the party to the danger that lies ahead. It would be unfair, for example, to drop an ancient red wyrm upon an unsuspecting party of first level PCs with no option to escape. It would be perfectly fair, however, if the party encounters the dragon after exploring the ancient ruins that make his lair despite warnings from the locals and tremors that grow stronger with every step deeper into the ruins.
-
 ### Ad Hoc Damage
 
 Sometimes in your encounters and adventures, you might have the party take damage from sources other than enemy attacks. For example, the party fails to scour an old battlefield and ends up setting off a chain of land mines. Or maybe someone gets knocked into a pool of lava while invading the red dragon's volcanic lair. Other common sources of ad hoc damage include falling, acid, and frostbite.
@@ -531,7 +531,7 @@ In situations like these, in which the damage dealt isn't tied to an attack roll
 
 **Moderate Damage (Severity Level 5 - 7):** The damage is serious, but probably won't knock the character out of action.
 
-**Heavy Damage (Severity Level 8 - 9):** The damage is life threatening, and could easily knock a character out of action in the right circumstances.
+**Heavy Damage (Severity Level 8 - 10):** The damage is life threatening, and could easily knock a character out of action in the right circumstances.
 
 <div class="table-no-body"></div>
 | AD HOC DAMAGE |
@@ -548,6 +548,29 @@ In situations like these, in which the damage dealt isn't tied to an attack roll
 | 6              | 2d8    | Falling 60', a car crash|
 | 7              | 2d10   | Falling 70', falling into acid|
 | 8              | 3d8    | Falling 80', a plane crash|
-| 9              | 3d10   | Falling 90'+, falling into lava |
+| 9              | 3d10   | Falling 90', falling into lava |
+| 10             | 4d8    | Falling 100'+, being completely crushed between two hard surfaces |
 
 The GM has the option to make any ad hoc damage *lethal damage*. Typically, this is the case with damage that occurs outside of combat, such as by a trap or environmental hazard.
+
+### Encounter Consequences
+
+Not every fight that your party gets into needs to be a knock down drag out fight to the death, nor does every encounter need to have a binary win/loss condition. When determining how a fight ends, remember to consider the motivations of the combatants and the demands of the plot. Are the PCs worth more to the orc chief alive than dead? Will the story be more interesting if the dragon doesn't wipe out the entire party? Consider some of the following possibilities whenever deciding how a fight will end.
+
+**Don't be afraid to end it early.** Sometimes, despite all your plans, a combat just takes too long. Or maybe the party's luck runs dry and they spend four rounds trying to kill the last two carnivorous shrubs. It's okay to fast-forward the combat when things are going stale and everyone at the table is ready for the next scene. Simply narrate the gist of what happens, and move on. Generally, you should only do this if the combat is obviously going to end in the PCs' favor. If the bad guys are winning, most parties will likely want to fight to the bitter end. If you are fast-forwarding to a party defeat, be sure that ALL of your players are agreeable first.
+
+**Partial defeat is more interesting than a total party kill.** Battles are much greater swirling maelstroms of chaos than our gridded battle mats, top-down views, and sequential turns would lead us to believe. This means that the GM has plenty of wiggle room for creating outcomes that might not have come up in the blow-by-blow narrative of the encounter. So, if the entire party is knocked unconscious or otherwise defeated, you are well within your rights to say that, for example, one of the PCs stumbled out of sight unnoticed before passing out, or that the monsters leave half of the party for dead and capture the few that they think are still alive. Little twists like this allow the players a chance to turn a loss into an epic tale for revenge or recovery.
+
+**Hard decisions test a hero's mettle.** A favorite tactic of super villains everywhere is to force the hero to decide between winning the fight or saving a mass of helpless bystanders. Combat encounters in Open Legend can also end in tough decisions for the party: the sorceress hovers over a magma filled chasm so that landing the final blow also means destroying the magical staff she wields, the hill giant reveals that he has an innocent family captive in a cave which he will only reveal if his life is spared, and so on. Though your players will get tired of these tactics if they are used excessively, forcing hard choices on your heroes will help them define their characters and prove their loyalties.
+
+**Death is okay, sometimes.** The above suggestions aren't meant to imply that you should never kill off a PC (or four). They are simply illustrations of the variety of ways that a fight can end in an interesting manner. Sometimes, heroes die, and if your players know that character death is a real possibility, it will make their victories and exploits all the more legendary. If a character does need to die, though, make sure they go out with a bang, with an epic story to be sung by bards for ages eternal.
+
+### On Balance and Fairness
+
+When planning your encounters, you do not need to strive for balance, but you should aim to be fair to your players.
+
+Video games are balanced: they are designed to present players with incremental challenges that grow in difficulty alongside the power of the player. Because of the inherent lack of openness and choice in most video games, players would easily get frustrated if the challenges weren't balanced to their progress in the game.
+
+Role playing games, on the other hand, aren't meant to be balanced all of the time. They are meant to be immersive. They are meant to allow players to push the limits of possibility in fantastical worlds. This level of freedom means that sometimes the heroes will come face to face with threats that they cannot overcome.
+
+As a GM, you don't need to have any anxiety over putting an impossible challenge before your party. But you do have to be fair about it. You are responsible for warning the party to the danger that lies ahead. It would be unfair, for example, to drop an ancient red wyrm upon an unsuspecting party of first level PCs with no option to escape. It would be perfectly fair, however, if the party encounters the dragon after exploring the ancient ruins that make his lair despite warnings from the locals and tremors that grow stronger with every step deeper into the ruins.

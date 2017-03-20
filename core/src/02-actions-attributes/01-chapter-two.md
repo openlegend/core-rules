@@ -68,7 +68,7 @@ The previous scenario involving Pelias provides just one method in which a GM mi
 
 A successful action roll is by far the easiest to interpret: it means that the player gets what they were hoping for. If they were rolling to climb a cliff, then they climb it. If they were trying to pick a pocket, then it's picked. If they were trying to stab an orc, it is stabbed. And so on.
 
-In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 6). Often, though, the GM will need to determine what happens with a successful action roll.
+In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 7). Often, though, the GM will need to determine what happens with a successful action roll.
 
 There are two primary factors to consider when adjudicating a success:
 
@@ -229,7 +229,11 @@ The GM may also feel free to establish other rules for awarding legend points. F
 
 ### Spending Legend Points
 
-Before making an action roll, a PC may spend a maximum number of legend points equal to their level plus one. For each legend point spent, they gain advantage 1 on the action roll.
+A PC may spend a maximum number of legend points equal to their level plus one in order to enhance a single action roll.
+
+Before making an action roll, the PC declares how many legend points they are spending, and gains advantage 1 on the roll for each legend point spent.
+
+Alternatively, a PC may choose to spend legend points after they make an action roll and are dissatisfied with the result. Each legend point spent applies a retroactive advantage 1 to the roll, allowing the player to roll additional attribute dice and recalculate the roll completely as if it was made with the new advantage total.
 
 ## Attributes and Action Rolls in Play
 

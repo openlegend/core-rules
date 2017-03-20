@@ -1,4 +1,4 @@
-# Chapter 5: Banes & Boons #
+# Chapter 6: Banes & Boons #
 
 Banes and boons are a huge part of what makes Open Legend so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
 
@@ -16,11 +16,11 @@ Because Open Legend focuses on separating the mechanics from the story, when you
 
 ## Invoking Banes and Boons
 
-To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target's defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful damaging attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be affected by multiple banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* [Fatigued](http://www.openlegendrpg.com/banes/fatigued)).
+To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target's defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful damaging attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a power level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be affected by multiple banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* [fatigued](http://www.openlegendrpg.com/banes/fatigued)).
 
-To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon's Power Level. The CR equals 10 + twice the boon's Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke at after making your action roll. While targets may be effected by different boons, you may not *stack* the same boon multiple times. If a second invocation of a boon would be applied to a character, they choose which boon to keep and which one to negate.
+To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon's power level. The CR equals 10 + twice the boon's power level. If a boon can be invoked at multiple power levels, you decide which power level to invoke at after making your action roll. While targets may be effected by different boons, you may not *stack* the same boon multiple times. If a second invocation of a boon would be applied to a character, they choose which boon to keep and which one to negate.
 
-Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 6: Combat.
+Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 7: Combat.
 
 ## Reading a Bane Description
 
@@ -30,7 +30,7 @@ Each bane description includes the following elements.
 
 **Power Level.** This number indicates the required attribute score needed to inflict the bane. If multiple power levels are listed (such as 2 / 4 / 6), then the bane can be inflicted at multiple tiers of power. The *persistent damage* bane, for example, deals increased damage as you inflict it at higher power levels.
 
-**Attack Attributes.** This is a list of the attribute or attributes that can be used to inflict the bane. As long as you possess at least one of the listed attributes at a score greater than or equal to the Power Level, then you can inflict the bane.
+**Attack Attributes.** This is a list of the attribute or attributes that can be used to inflict the bane. As long as you possess at least one of the listed attributes at a score greater than or equal to the power level, then you can inflict the bane.
 
 **Attack.** This list indicates what type of attack roll to make when inflicting the bane. Each entry consists of an attribute that the attacking player should roll and the defense score targeted by the attack. If the attacker's roll equals or exceeds the target's defense score, then the bane is inflicted.
 
@@ -46,9 +46,9 @@ The full listing of boons are available in a searchable list [here](http://www.o
 
 Each boon description includes the following elements.
 
-**Power Level.** This number indicates the required attribute score needed to invoke the boon. If multiple power levels are listed (such as 2 / 4 / 6), then the boon can be invoked at multiple tiers of power. The *heal* boon, for example, heals more damage as you invoke it at higher power levels. The power level of a boon also determines the Challenge Rating of the attribute roll to invoke the boon. The CR equals 10 + twice the Power Level.
+**Power Level.** This number indicates the required attribute score needed to invoke the boon. If multiple power levels are listed (such as 2 / 4 / 6), then the boon can be invoked at multiple tiers of power. The *heal* boon, for example, heals more damage as you invoke it at higher power levels. The power level of a boon also determines the Challenge Rating of the attribute roll to invoke the boon. The CR equals 10 + twice the power level.
 
-**Attributes.** This is a list of the attribute or attributes that can be used to invoke the boon. As long as you possess at least one of the listed attributes at a score greater than or equal to the Power Level, then you can invoke the boon.
+**Attributes.** This is a list of the attribute or attributes that can be used to invoke the boon. As long as you possess at least one of the listed attributes at a score greater than or equal to the power level, then you can invoke the boon.
 
 **Invocation Time.** The required time that it takes to invoke the boon. Most boons have an invocation time of 1 major action. For boons that have a longer time, you must spend the entire invocation time concentrating on nothing other than invoking the boon. If you are interrupted, you must start the casting over.
 
