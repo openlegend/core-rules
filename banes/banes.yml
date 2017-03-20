@@ -436,7 +436,7 @@
       <li><strong>Power Level</strong> - Cancel a boon of Power Level 3</li>
       <li><strong>Power Level</strong> - Cancel a boon of Power Level 4</li>
       <li><strong>Power Level</strong> - Cancel a boon of Power Level 5</li>
-      <li><strong>Power Level 6</strong> - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute</li>
+      <li><strong>Power Level 6</strong> - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). Effects that would prevent Nullify from being invoked in this way have no effect. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.</li>
       <li><strong>Power Level 7</strong> -  Cancel a boon of Power Level 7</li>
       <li><strong>Power Level 8</strong> -  Cancel a boon of Power Level 8</li>
       <li><strong>Power Level 9</strong> -  Cancel a boon of Power Level 9</li>
