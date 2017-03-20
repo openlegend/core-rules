@@ -644,11 +644,11 @@ You can't read or write, even in languages that you speak fluently.
 
 #### Literal Minded
 
-You struggle with concepts and turns of phrase that are not literally true, such as idioms and metaphors. You might think sorcery is afoot if someone tells you it is “raining cats and dogs”. If a friend exaggerats by saying “I'd kill myself if Melzak were elected Supreme Justice”, you would be genuinely concerned for your friend's life if Melzak did get elected.
+You struggle with concepts and turns of phrase that are not literally true, such as idioms and metaphors. You might think sorcery is afoot if someone tells you it is “raining cats and dogs”. If a friend exaggerates by saying “I'd kill myself if Melzak were elected Supreme Justice”, you would be genuinely concerned for your friend's life if Melzak did get elected.
 
 #### Mood Disorder
 
-You suffer from a psychological condition that directly affects your mood, such as depression or anxiety. You get to to determine the nature and severity of your mood disorder.
+You suffer from a psychological condition that directly affects your mood, such as depression or anxiety. You get to determine the nature and severity of your mood disorder.
 
 #### Naive
 

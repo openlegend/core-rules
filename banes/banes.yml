@@ -427,7 +427,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    With the power of Protection, you are able to cancel boon effects on enemies by cutting their power, similar to how you might defend against incoming attacks by interrupting their effect.
+    With the power of Protection, you are able to cancel boon effects on enemies by cutting off their power, similar to how you might defend against incoming attacks by interrupting their effect.
   effect: |
     You cancel a single boon affecting the target of this bane's power level or lower. The invoking power level further impacts the effect as follows:
     <ul>

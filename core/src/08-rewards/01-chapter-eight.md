@@ -241,7 +241,7 @@ Aura 2, Armor (Plate Mail), Persistent
 
 *A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in a flame.*
 
-Persistent Damage 4, Baneful (Persistent Damage), Damage(Fire), Weapon (Longsword)
+Persistent Damage 4, Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword)
 
 
 #### Ghostfire

@@ -12,6 +12,12 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 03 / 20
+-   `Companion` feat fixed to track with the new max attribute limits
+-   `Nullify` bane at Power Level 6 effect can not be prevented by any other effect
+-   `Multi-Target Attack Specialist` fixed to remove compounded attack complexity and a loophole that could allow you to negate all mutli-attack penalties and combine it with Haste for 9 attacks with no disadvantage.
+-
+
 #### 2017 / 03 / 15
 -   `Genesis` added a new feat for creating short-lived matter that deteriorates / decomposes after 1 hour
 -   `Marksman` feat modified to confer a single range increment bonus rather than a flat 25'.
