@@ -232,7 +232,7 @@ Instead of attempting to damage a target, you may instead choose to inflict your
 
 Resolving a bane attack is very similar to making a damaging attack, except where indicated in the following steps:
 
-1. **Determine attribute vs. defense.** The [*bane descriptions*](http://www.openlegendrpg.com/banes) indicate which attributes you can use to inflict a bane as well as the targeted defense.
+1. **Determine attribute vs. defense.** The [bane descriptions](http://www.openlegendrpg.com/banes) indicate which attributes you can use to inflict a bane as well as the targeted defense.
 
 1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options.
 
@@ -240,7 +240,7 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 
 > ##### Example Bane Attacks
 >
-> Takeo is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well timed snake strike, the monk attempts to blind the armored warrior. Takeo is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
+> Takeo is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well-timed snake strike, the monk attempts to blind the armored warrior. Takeo is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
 >
 > * * * * *
 >
@@ -274,7 +274,7 @@ You can invoke boons in order to aid yourself or allies. In order to invoke a bo
 
 > ##### Example Boon Invocations
 >
-> Jade attempts to activate her reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *invisible* is power level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
+> Jade attempts to activate her reality distorter in order to make herself and an ally vanish with the *invisible* boon. Jade's Alteration attribute is 6, but she suffers disadvantage 2 due to multi-targeting. She rolls 1d20 + 4d8 (keeping the lowest 2 d8s) and gets a 20. *Invisible* is power level 6, so Jade falls short of the Challenge Rating of 22. The boon fails to take effect.
 >
 > * * * * *
 >
@@ -398,7 +398,7 @@ You may use a defend action after an enemy has rolled a successful attack agains
 
 If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. (**Note:** Characters wielding a weapon with the *defensive* property gain advantage equal to the weapon's *defensive* value on their defend action roll).
 
-As part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the orginal attack, even if it takes the defended character out of the reach or area of the attack.
+As part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the original attack, even if it takes the defended character out of the reach or area of the attack.
 
 > ##### Defend Examples
 >
@@ -426,7 +426,7 @@ When you suffer a damaging attack while unconscious, incapacitated, or otherwise
 
 > #### Finishing Blow Example
 >
-> Ulric's usual Guard defense is 20 (+3 platemail, +5 Might, +2 Agility). However, he is unconscious when an assassin cuts his throat, dealing a *finishing blow*. Against this attack, Ulric does not include his attribute bonuses, so his Guard is reduced to 13. The assassin rolls a 22 on his attack, dealing 9 damage to Ulric. Furthermore, Ulric must make a Fortitude roll CR 19 or die.
+> Ulric's usual Guard defense is 20 (+3 plate mail, +5 Might, +2 Agility). However, he is unconscious when an assassin cuts his throat, dealing a *finishing blow*. Against this attack, Ulric does not include his attribute bonuses, so his Guard is reduced to 13. The assassin rolls a 22 on his attack, dealing 9 damage to Ulric. Furthermore, Ulric must make a Fortitude roll CR 19 or die.
 
 ### Reaching Zero Hit Points
 
