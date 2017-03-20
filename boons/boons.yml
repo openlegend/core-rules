@@ -192,7 +192,7 @@
     <li><strong>Magic</strong> - Extraordinary auras surround objects or places imbued with such effects. Extraordinary creatures who are innately magical, such as a nymph, constantly radiate magic. Natural creatures who wield magic, such as a human wizard, give off an aura only following use of their power.</li>
     </ul>
   special: |
-    Unlike other boons, this boon can not target another character. Only the character invoking the boon can see the auras. Additionally, the GM may allow other types of suitable auras to be detected as appropriate to the campaign setting.
+    Unlike other boons, this boon cannot target another character. Only the character invoking the boon can see the auras. Additionally, the GM may allow other types of suitable auras to be detected as appropriate to the campaign setting.
 - !
   name: Flight
   tags:
@@ -330,7 +330,7 @@
   description: |
     You vanish from the visible spectrum, either through bending light, creating an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
   effect: |
-    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You can not be the target of opportunity attacks unless the enemy can see you through non-visual means.
+    Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You cannot be the target of opportunity attacks unless the enemy can see you through non-visual means.
     <ul>
     <li><strong>Power Level 5</strong> - Advantage 3 to hide, +3 to Guard against ranged and melee attacks, and -2 to Guard for targets that can't see you.</li>
     <li><strong>Power Level 6</strong> - Advantage 5 to hide, +5 to Guard against ranged and melee attacks, and -4 to Guard for targets that can't see you.</li>
@@ -696,7 +696,7 @@
   description: |
     You are able to change size, shape, and composition of physical matter that you touch. Transmute rocks to gold, or a wall into a door.
   effect: |
-    Your power level determines the types of matter your can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round and has a maximum duration of 1 hour multiplied by your invoking attribute score. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it.
+    Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round and has a maximum duration of 1 hour multiplied by your invoking attribute score. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it.
     <ul>
     <li><strong>Power Level 3</strong> - <em>Temporarily</em> transmute an object into another object of the same size and weight.</li>
     <li><strong>Power Level 5</strong> - <em>Temporarily</em> transmute an object into another object of the same size and 50% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 50% greater or lesser size.</li>
