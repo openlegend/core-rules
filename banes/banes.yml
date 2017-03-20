@@ -20,7 +20,7 @@
   description: |
     You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, to a dazzling flash of light.
   effect: |
-    The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplementd by another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.
+    The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplemented by another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.
 - !
   name: Charmed
   tags:
@@ -48,7 +48,7 @@
       <li><strong>Power Level 6</strong> - You can Major Charm creatures of humanoid intelligence.</li>
       </ul>
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Deafened
   tags:
@@ -157,7 +157,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    You force an oppenent to lose control of an object they are holding, whether through brute force, a skillfull parry, heating the item to unbearable temperatures, mental compulsion, or some other means.
+    You force an oppenent to lose control of an object they are holding, whether through brute force, a skillful parry, heating the item to unbearable temperatures, mental compulsion, or some other means.
   effect: |
     <ul>
     <li><strong>Power Level 3</strong> - The target drops an object they are holding in a space of your choosing withing 15' of the target.
@@ -191,7 +191,7 @@
       <li><strong>Power Level 9</strong> - You can target creatures of human intelligence or greater with Greater Domination.</li>
       </ul>
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's true mind is magically suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Fatigued
   tags:
@@ -242,7 +242,7 @@
   effect: |
     On its turn, the afflicted target must use its entire turn to get as far away as possible from you. It cannot use its actions to do anything other than retreat, and it cannot willingly move closer to you while the bane persists.
   special: |
-    While most banes last until the target actively attempts to resist them, this bane prevents the target from thinking clearly. However, the target's logical mind fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from this effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
+    While most banes last until the target actively attempts to resist them, this bane prevents the target from thinking clearly. However, the target's logical mind fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from this effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
   name: Forced Move
   tags:
@@ -332,7 +332,7 @@
   effect: |
     The target is immobile (can't move from their current space) and unconscious. They have disadvantage 5 on all perception rolls and are incapable of moving. As a result of being completely incapable of movement, an incapacitated character can be the victim of a finishing blow. <ul><li><strong>Power Level 5</strong> - The effect can be broken by a moderate disruption, such as a firm shove, a kick, glass of water, loud bang, etc.</li><li><strong>Power Level 7</strong> - The effect can only be broken if the target takes 1 point of damage or more.</li><li><strong>Power Level 9</strong> - The effect cannot be disrupted by external forces. Only the afflicted character's successful resist roll can end the effect.</li></ul>
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's body fights to regain consciousness. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next hour.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from being aware of their affliction and thus prevents them from actively attempting to break free. However, the target's body fights to regain consciousness. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next hour.
 - !
   name: Knockdown
   tags:
@@ -408,7 +408,7 @@
     <li><strong>Power Level 9</strong> - This power may target creatures of any intelligence. You gain access to the target's current thoughts as well as all of its memories, without limitation by time. Alternatively, you may choose to access the memories associated with a particular place, object, or event. </li>
     </ul>
   special: |
-    When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Nullify
   tags:
@@ -477,7 +477,7 @@
       <li><strong>Power Level 9</strong> - 2d6 damage per round.</li>
     </ul>
   special: |
-    Persistent damage comes in a number of different variations: physical damage (bleeding damage from a vital strike), energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy). Each variation has its own cure. When that cure is applied with a major action (either by the afflicted character or another), the target receives a resist roll (as a free action) with advantage 1 to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the  following examples can help with arbitration:
+    Persistent damage comes in a number of different variations: physical damage (bleeding from a vital strike), energy damage (lightning, fire, cold, acid, etc.) and entropic damage (necromantic energy), among others. Each variation has its own cure. When that cure is applied with a major action (either by the afflicted character or another), the target receives a resist roll (as a free action) with advantage 1 to end the effect. The GM has the final word on whether a proposed cure can help a given type of persistent damage, but the  following examples can help with arbitration:
     <ul>
       <li>Bleeding damage is cured with a successful roll using Learning, Logic, or Creation.</li>
       <li>Lightning damage is cured by a discharge or grounding of the current.</li>
@@ -523,7 +523,7 @@
     </ul>
     Until reaching power level 6, you can combine sensory illusions by adding the required power levels together (e.g., mimicking both sight and sound requires power level 5). While the phantasm persists, you can make logical changes to it freely. For example, an illusory person can speak naturally as you direct it and could be made to fall in response to an attack. However, substantial changes to the illusion (such as transforming a human into a goblin) require a new invocation of the illusion.
   special: |
-    Unlike other banes, this bane does not work by targeting specific enemies. Instead, your Influence roll for invoking it is compared with the Resolve defense of each character that would percieve the created effect if it were real. If the roll is lower than their Resolve, they perceive none of the phantasm's effects. If the roll is greater than or equal to their Resolve, they perceive the illusory effect you create and react as if it were real.
+    Unlike other banes, this bane does not work by targeting specific enemies. Instead, your Influence roll for invoking it is compared with the Resolve defense of each character that would perceive the created effect if it were real. If the roll is lower than their Resolve, they perceive none of the phantasm's effects. If the roll is greater than or equal to their Resolve, they perceive the illusory effect you create and react as if it were real.
     When mimicking a very specific person, place, or thing that the target is very familiar with, the GM should consider increasing the target's Resolve defense for the purpose of that particular phantasm invocation.
     Characters convinced by the phantasm can roll Resist as normal in order to attempt to shake off the bane. If successful, they are no longer deceived by the effect. In addition, you must spend a minor action to sustain the bane during each of your turns. Failing to do so in a given round causes the bane's effects to cease at the end of your turn.
     When an affected character succeeds at a resist roll against this bane, they become to immune to all subsequent phantasms invoked by you for the next hour.
@@ -730,7 +730,7 @@
   effect: |
     The target is in a state of mental fog, lowering their mental defenses. While stupefied, the target's Resolve defense is reduced to 10. In addition, the target has the approximate intelligence of a child. If attacked, it will defend itself until the attack ceases using its natural weapons, but the target will never employ any kind of complex tactic or ability, such as spellcasting. If the target sees fire, it will run away. If it feels pain, it will flee.
   special: |
-    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively attempting to break free. However, the target's true mind is suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. Any attack that causes the target mental or physical pain gives the target an additional resist roll to break free from the bane. Also any action that would startle a wild animal (being hit with a rock, slapped on the face, etc.) will also trigger a free resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target's typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become to immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+    While most banes last until the target actively attempts to resist it, this bane prevents the target from actively attempting to break free. However, the target's true mind is suppressed but fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. Any attack that causes the target mental or physical pain gives the target an additional resist roll to break free from the bane. Also any action that would startle a wild animal (being hit with a rock, slapped on the face, etc.) will also trigger a free resist roll for the target. Unlike other resist rolls, those triggered by damage, fear, and trauma do not count against the target's typically allowed failures of 3, beyond which the duration of the bane would extend. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 - !
   name: Truthfulness
   tags:
