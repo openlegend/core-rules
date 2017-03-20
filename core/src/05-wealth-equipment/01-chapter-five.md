@@ -18,7 +18,7 @@ Every character has a wealth score, which begins at 2 and can range from 0 to 9,
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
 | 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
-| 3 | master artisan, village mayor | armored trenchcoat, silver bullets, a small boat, a fine horse, a nice car |
+| 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
 | 6 | 7th level hero, Federation Chancellor | a large warship, a groundbreaking prototype, the workforce of a medium-sized business  |
@@ -87,7 +87,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attackse. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
@@ -219,7 +219,7 @@ The Armor table summarizes the following properties of each type of armor:
 | Examples | Type | Wealth Level | Required Fortitude | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: | :-: |
 | Leather Armor, Steelsilk, Padded Armor | Light | 1 | 0 | 1 | 0 |
-| Armored Trenchcoat, Electropolymer Armor | Medium | 3 | 2 | 2 | 0 |
+| Armored Trench Coat, Electropolymer Armor | Medium | 3 | 2 | 2 | 0 |
 | Chainmail, Kevlar Vest, Breastplate | Medium | 2 | 3 | 2 | 0 |
 | Yoroi Armor, Plate Mail, Riot Suit | Heavy | 2 | 3 | 3 | 5' |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
@@ -270,13 +270,13 @@ All weapons (with the exception of unarmed strike), begin with a base wealth lev
 > Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
 >
 > **Step 1 (Choose a Category)**
-> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the **One-handed Melee** and **Close Ranged** properties.
+> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the *one-handed melee* and *close ranged* categories.
 >
 > **Step 2 (Choose Properties)**
-> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
+> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the *defensive 1* property, and also the *reach* property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the *slow* property.
 >
 > **Step 3 (Choose Banes)**
-> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, and **Provoked**.
+> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: *forced move*, *immobile*, *knockdown*, and *provoked*.
 >
 > **Step 4 (Calculate Wealth Level)**
 > The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.
