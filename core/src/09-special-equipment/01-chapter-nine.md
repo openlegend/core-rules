@@ -213,7 +213,7 @@ Invisible 5, Reliable
 
 Deadly 2, Weapon (Katana)
 
-**Special**: A devasting blow from the Dotanukia can cause a target to bleed out rapidly. Any time the Dotanuki's attack exceeds the target's defense by 20 or more, the *persistent damage* 9 bane is automatically applied to the target.
+**Special**: A devastating blow from the Dotanukia can cause a target to bleed out rapidly. Any time the Dotanuki's attack exceeds the target's defense by 20 or more, the *persistent damage* 9 bane is automatically applied to the target.
 
 
 #### Explosive Ammo
@@ -343,7 +343,7 @@ Heal 7, Consumable
 
 **Wealth Level**: 3
 
-*Whether outfitted on a mecha unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missle can stop just about anything.*
+*Whether outfitted on a mecha unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.*
 
 Deadly 2, Expendable, Weapon (Cannon)
 
@@ -403,7 +403,7 @@ Polymorph 6, Potent, Powerful 1
 
 Persuasion 7, Autonomous
 
-**Special**: The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a wealth score of 6 for local purchases. Lastly, the device records every action performed by the user and trasmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.
+**Special**: The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a wealth score of 6 for local purchases. Lastly, the device records every action performed by the user and transmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.
 
 
 #### Worker Bot
@@ -504,7 +504,7 @@ After you have described your item's special properties, you should assign a wea
 >
 > * * * * *
 >
-> **Assassin's Rifle**: This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever the your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
+> **Assassin's Rifle**: This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
 > \
 > *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
 > \
@@ -633,9 +633,9 @@ Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
 
 -   The direction of time travel is reversed.
 
--   The travellers miss the mark by 2d4 years.
+-   The travelers miss the mark by 2d4 years.
 
--   The travellers is attacked by a horde of 4th dimensional chrono beasts.
+-   The travelers is attacked by a horde of 4th dimensional chrono beasts.
 
 Once the time machine is in an alternate time, it may only travel back to its original time. Doing so still requires a Logic roll, CR 20, but disadvantage penalties do not apply.
 
