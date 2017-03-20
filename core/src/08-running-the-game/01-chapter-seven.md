@@ -10,7 +10,7 @@ Before we get into all of that good stuff, though, let's take a moment and explo
 
 **A good GM likes to tell a story.** If you spent hours as a child developing elaborate worlds in your backyard or writing tales of adventure, or even drawing epic scenes, then you're on the right track. Watching a story unfold based on your inspiration is perhaps one of the most enjoyable aspects of running a game.
 
-**A good GM doesn't railroad the players.** While it is important for you to be well prepared with your story (or skilled at improvisation), you also need to remember that the players should have a meaningful role in how the story unfolds. Players will feel like they are stuck on a railroad from which the can't escape, for example, if no matter what they do the princess still gets kidnapped, the planet destroyed, or the ancient artifact stolen.
+**A good GM doesn't railroad the players.** While it is important for you to be well prepared with your story (or skilled at improvisation), you also need to remember that the players should have a meaningful role in how the story unfolds. Players will feel like they are stuck on a railroad from which they can't escape, for example, if no matter what they do the princess still gets kidnapped, the planet destroyed, or the ancient artifact stolen.
 
 **A good GM knows the rules.** As the game master, you may very well be the only one at the table who has read this rule book. That means you need to act as a teacher, director, and referee all at once. In particular, you should be prepared to know what each of the attributes can be used for, as well as the banes and boons that your players will be most likely to invoke.
 
@@ -224,7 +224,7 @@ Chapter 5 explains Open Legend's simplified wealth system, and the Wealth Overvi
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
 | 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
-| 3 | master artisan, village mayor | armored trenchcoat, silver bullets, a small boat, a fine horse, a nice car |
+| 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
 | 6 | 7th level hero, Federation Chancellor | a large warship, a groundbreaking prototype, the workforce of a medium-sized business  |
@@ -251,7 +251,7 @@ So, when a combat encounter ends, instead of listing off how many crossbow bolts
 
 - If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks. 
 
-- If the bribe recipient is **one wealth level higher** than the character's wealth wcore, the cost is so great that the character's wealth score is permanently reduced by 1. Bribing someone more than one wealth level higher is impossible without other factors in play.
+- If the bribe recipient is **one wealth level higher** than the character's wealth score, the cost is so great that the character's wealth score is permanently reduced by 1. Bribing someone more than one wealth level higher is impossible without other factors in play.
 
 So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor. Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
 
@@ -280,7 +280,7 @@ The villain of a plotline is the primary antagonist, and your players will likel
 
 ### Allies
 
-NPCs aren't limited to antagonists, of course. Many of the most important characters to your plotline will be allies of the heroes. Perhaps the party is guided by a wisened sage who secludes himself in a high tower and for unknown reasons allows only the PCs access to his wisdom. Another example includes a team of native elves who have been dispatched to see the heroes safely through a haunted wood.
+NPCs aren't limited to antagonists, of course. Many of the most important characters to your plotline will be allies of the heroes. Perhaps the party is guided by a wizened sage who secludes himself in a high tower and for unknown reasons allows only the PCs access to his wisdom. Another example includes a team of native elves who have been dispatched to see the heroes safely through a haunted wood.
 
 Whatever sorts of allies the party has acquired, it's important for the GM to abide by a few guidelines to ensure that the allies add to the fun rather than detract from it.
 
