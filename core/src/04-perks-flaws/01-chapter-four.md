@@ -194,7 +194,7 @@ Once per game session, you can ask a single “yes” or “no” question of a 
 
 ### Absent-minded
 
-Your live with your head in the clouds. You might just be ditzy, or maybe you just spend your time contemplating loftier matters. Whatever the source of your absent-mindedness, you are slow to notice important details and have a tendency to get distracted at exactly the worst possible moment.
+You live with your head in the clouds. You might just be ditzy, or maybe you just spend your time contemplating loftier matters. Whatever the source of your absent-mindedness, you are slow to notice important details and have a tendency to get distracted at exactly the worst possible moment.
 
 ### Addiction
 
@@ -226,7 +226,7 @@ You have an irresistible urge to perform a behavior of your choice. Examples inc
 
 ### Cowardly
 
-You have honed self-preservation into a way of life, and you will do almost anything to avoid danger, pain, and death. Sometimes, the situation at hand and the pumping of adrenaline will lead you to perform acts that appear courageous, but sooner or later your cowardly nature will emerge. You are easy to intimidate and you will almost assuredly crack under interrogation. In combat, you can still choose to fight, but you will attempt to distance yourself as much as possible from harms way, even if it means leaving an ally in a tough spot.
+You have honed self-preservation into a way of life, and you will do almost anything to avoid danger, pain, and death. Sometimes, the situation at hand and the pumping of adrenaline will lead you to perform acts that appear courageous, but sooner or later your cowardly nature will emerge. You are easy to intimidate and you will almost assuredly crack under interrogation. In combat, you can still choose to fight, but you will attempt to distance yourself as much as possible from harm's way, even if it means leaving an ally in a tough spot.
 
 ### Dimwitted
 
