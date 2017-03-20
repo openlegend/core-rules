@@ -51,7 +51,7 @@ The type of hindrance caused by activating a flaw should be more than a simple r
 
 ### Ageless
 
-Whether you are an android constructed of spaceage material that does not erode over time, the loyal servant of a higher power, or the subject of an arcane ritual, you have unlocked the secret to immortality. You are immune to the passage of time and the effects of old age. Your body does not age and you cannot be harmed by extraordinary effects that cause aging. Based on the source of your agelessness, you can decide whether or not your appearance changes over time.
+Whether you are an android constructed of space age material that does not erode over time, the loyal servant of a higher power, or the subject of an arcane ritual, you have unlocked the secret to immortality. You are immune to the passage of time and the effects of old age. Your body does not age and you cannot be harmed by extraordinary effects that cause aging. Based on the source of your agelessness, you can decide whether or not your appearance changes over time.
 
 ### Arcane Bloodline
 
@@ -63,7 +63,7 @@ Choose a specific craft, such as weapon smithing, glass blowing, or brewing. You
 
 ### Ascetic
 
-You are well-versed in the art of living with less. Whether a cloistered monk or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your aceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
+You are well-versed in the art of living with less. Whether a cloistered monk or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your asceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
 
 ### Attractive
 
@@ -155,7 +155,7 @@ Once per game session, you can automatically succeed a Fortitude action roll of 
 
 ### Scavenger
 
-You have lived a life of need, and thus know how to make do when others would go without. Once per game session, you can easily acquire a single mundane item even though it would otherwise take time to get or be completely unattainable. Depending on the circumstances, the GM may decide that your acquisition is only temporary or subject to reasonable conditions. For example, you might use this perk to acquire a rope in the middle of a desert, but the GM may rule that it is so sun-baked and ancient that it will likely snap after a few uses.
+You have lived a life of need, and thus know how to make do when others would go without. Once per game session, you can easily acquire a single mundane item even though it would otherwise take time to get or be completely unattainable. Depending on the circumstances, the GM may decide that your acquisition is only temporary or subject to reasonable conditions. For example, you might use this perk to acquire a rope in the middle of a desert, but the GM may rule that it is so sunbaked and ancient that it will likely snap after a few uses.
 
 ### Scent
 
