@@ -12,12 +12,12 @@ The full listing of feats is available in a searchable list [here](http://www.op
 
 Each feat description includes the following elements.
 
-**Title.** The name of the feat. Some feats contain multiple tiers, rising in power with each new tier. If a feat contains multiple tiers, these will be indicated in parentheses after the title (e.g., “Alternate Form (I - II)” ).
+**Title.** The name of the feat. Some feats contain multiple tiers, rising in power with each new tier. If a feat contains multiple tiers, these will be indicated in parentheses after the title (e.g., “Alternate Form (I - II)”).
 
 **Cost.** This is the number of feat points required to purchase the feat. If the feat has multiple tiers, the cost is the same for each tier and must be paid every time the feat is purchased at a new tier *unless otherwise noted in the feat description*. So, to access the Tier 5 ability of a feat, you must pay for the feat 5 times. If a feat does not have a noted exception and has only one tier, it can only be purchased once.
 
 **Prerequisites.** Many feats have specific requirements that must be met before a character can purchase the feat. Prerequisites may take the form of a minimum attribute score, another feat, or a special requirement. If a feat has multiple tiers with different prerequisites, the requirements for each tier are separated by a slash.
 
-**Description.** This entry simply provides a general idea of what the feat could look like in the story. Because feats generally provide mechanical benefits that aren't tied to specific sources, you can interpret the look and feel of your feat in a way that best fits your character concept and campaign setting. For example, a paladin in a typcial fantasy setting might use the *companion* feat to enlist the assistance of a noble squire, while a technologist in a futuristic campaign might use the same feat to create an automaton combat droid. In both cases, the feat functions the same even though it is described differently.
+**Description.** This entry simply provides a general idea of what the feat could look like in the story. Because feats generally provide mechanical benefits that aren't tied to specific sources, you can interpret the look and feel of your feat in a way that best fits your character concept and campaign setting. For example, a paladin in a typical fantasy setting might use the *companion* feat to enlist the assistance of a noble squire, while a technologist in a futuristic campaign might use the same feat to create an automaton combat droid. In both cases, the feat functions the same even though it is described differently.
 
 **Effect.** This entry indicates the mechanical effects of the feat on the rules of the game.
