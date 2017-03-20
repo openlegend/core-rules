@@ -493,5 +493,5 @@ Sometimes a new player will join a campaign in progress in which the other PCs h
 | 6 | 15 | 85 | 7 | 21 | 5 |
 | 7 | 18 | 94 | 8 | 24 | 6 |
 | 8 | 21 | 103 | 8 | 27 | 6 |
-| 9 | 23 | 112 | 9 | 30 | 7 |
-| 10 | 26 | 121 | 9 | 33 | 8  |
+| 9 | 24 | 112 | 9 | 30 | 7 |
+| 10 | 27 | 121 | 9 | 33 | 8  |
