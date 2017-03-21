@@ -475,9 +475,9 @@
     <li><strong>Tier 3</strong> - Your companion's highest attribute is equal to your max attribute (5 at 1st level, 6 at 3rd level, 7 at 5th level, etc.).</li>
     </ul>
     <strong>Example</strong>
-    Fezzy starts at level one with Companion (Tier II), choosing a wolf for his companion. Based on Fezzy's level and feat tier, his wolf's highest attribute is 4, so he can assign the wolf four attributes at scores 4, 3, 2, and 1. He assigns the following: Agility 4, Perception 3, Might 2, and Fortitude 1. Fezzy chooses the feats Attack Specialization I and Bane Focus (knockdown) for his wolf by spending 6 of his own feat points. Upon reaching level 2, Fezzy purchases Companion (Tier III), raising the wolf's highest attribute to 5, so Fezzy reassigns the attributes as follows: Perception 5, Agility 4, Might 3, Fortitude 2, Presence 1. He also gets to purchase or lose feats, and decides to upgrade Attack Specialization to tier 2, so 9 of his own feat points are used by his wolf.
+    Fezzy starts at level one with Companion (Tier II), choosing a wolf for his companion. Based on Fezzy's level and feat tier, his wolf's highest attribute is 4, so he can assign the wolf four attributes at scores 4, 3, 2, and 1. He assigns the following: Agility 4, Perception 3, Might 2, and Fortitude 1. Fezzy chooses the feats Attack Specialization I for his wolf by spending 3 of his own feat points. Upon reaching level 2, Fezzy purchases Companion (Tier III), raising the wolf's highest attribute to 5, so Fezzy reassigns the attributes as follows: Perception 5, Agility 4, Might 3, Fortitude 2, Presence 1. At level 3, Fezzy decides to spend his feat points to  upgrade his wolf's Attack Specialization to tier 2, so 6 of his own feat points are used by his wolf.
   special: |
-    If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and any of the companions feats and may spend them as usual.
+    If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and any of the companion's feats, and may spend them as usual.
     In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new companion each time.
 - !
   name: Craft Mundane Item (I - II)
