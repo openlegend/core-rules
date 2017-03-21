@@ -31,8 +31,8 @@
     Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that lasts 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no permanent control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
     The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and should follow the guidelines established by the "Simple Build" section for creating NPCs / monsters in Chapter 8: Running the Game.
     <ul>
-    <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the <emphasis>charmed</emphasis> (Minor Charm) bane already in effect (no roll is required).</li>
-    <li><strong>Power Level 8</strong> - You may choose to animate a group of creatures: Either 10 creatures with a max attribute of 2, 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <emphasis>charmed</emphasis> bane is a Major Charm instead of Minor Charm.</li>
+    <li><strong>Power Level 6</strong> - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the <em>charmed</em> (Minor Charm) bane already in effect (no roll is required).</li>
+    <li><strong>Power Level 8</strong> - You may choose to animate a group of creatures: Either 10 creatures with a max attribute of 2, 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked <em>charmed</em> bane is a Major Charm instead of Minor Charm.</li>
     </ul>
 - !
   name: Aura
@@ -222,6 +222,7 @@
   power:
   - 1
   - 3
+  - 5
   - 7
   - 9
   attribute:
@@ -232,10 +233,11 @@
     You create something from nothing. Depending on the power of your invocation, you are able to manifest a wide array of materials, from temporary vegetable matter to permanent crafted goods of remarkable complexity.
   effect: |
     <ul>
-    <li><strong>Power Level 1</strong> - You can create <emphasis>temporary</emphasis> non-sentient matter (plants, dirt, water, vines, etc.), anything created in this way deteriorates or decomposes to become useless after 1 hour. Using this boon you can create 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.</li>
-    <li><strong>Power Level 3</strong> - You can create <emphasis>permanent</emphasis> non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.</li>
-    <li><strong>Power Level 7</strong> - You can create <emphasis>permanent</emphasis> organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. The invocation time for this application is 8 hours.</li>
-    <li><strong>Power Level 9</strong> - You can create not just raw materials, but <emphasis>permanent</emphasis> crafted items - though a craftsman is still required to work anything into an exceptional quality. The invocation time for this application is 1 hour per cubic foot of the finished item.</li>
+    <li><strong>Power Level 1</strong> - You can create <em>temporary</em> non-sentient matter (plants, dirt, water, vines, etc.), anything created in this way deteriorates or decomposes to become useless after 1 hour. Using this boon you can create 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 10 minutes.</li>
+    <li><strong>Power Level 3</strong> - You can create <em>permanent</em> non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.</li>
+    <li><strong>Power Level 5</strong> - The quantity of <em>permanent</em> non-sentient matter (plants, dirt, water, vines, etc.). you can create expands, you can now produce 5 cubic feet per attribute point of the invoking attribute.</li>
+    <li><strong>Power Level 7</strong> - You can create <em>permanent</em> mundane and organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. You produce 1 cubic foot of such matter per attribute point of the invoking attribute. The invocation time for this application is 8 hours.</li>
+    <li><strong>Power Level 9</strong> - You can create not just raw materials, but <em>permanent</em> crafted items - though a craftsman is still required to work anything into an exceptional quality. The invocation time for this application is 8 hours.</li>
     </ul>
 - !
   name: Haste
@@ -509,7 +511,7 @@
     <li><strong>Power Level 9</strong> - Cancel banes of Power Level 9 or less. </li>
     </ul>
   special: |
-    You can dispel banes of a power level beyond your power level of this boon. In order to do so, you must invoke this boon using an action roll (i.e., it is not compatible with the automatic success granted by the <emphasis>boon focus</emphasis> feat). The Challenge Rating to dispel a bane in this manner is equal to 20 + twice the bane's power level. So, for example, a power level 9 bane can be dispelled on a roll of 38 even if the invoker does not have an attribute score of 9.
+    You can dispel banes of a power level beyond your power level of this boon. In order to do so, you must invoke this boon using an action roll (i.e., it is not compatible with the automatic success granted by the <em>boon focus</em> feat). The Challenge Rating to dispel a bane in this manner is equal to 20 + twice the bane's power level. So, for example, a power level 9 bane can be dispelled on a roll of 38 even if the invoker does not have an attribute score of 9.
 - !
   name: Seeing
   tags:

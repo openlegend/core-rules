@@ -15,6 +15,8 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 #### 2017 / 03 / 21
 -   `Companion` feat fixed to prevent abuse. A companion gaining 3 feat points + an extra set of actions for a given turn, means that you spend 3 feat points on a `Companion` and you gain 3 feat points AND a new character. Companions can now buy feats with the character's feat points.
 -   `Companion` feat point expenditures apply as a feat point reduction in any case where another effect would give you feat points, at present, this applies only to `Alternate Form` as far as we can tell.
+-   `Genesis` boon Power Level 5 added (greater quantity of organic matter created)
+-   `Genesis` boon invocation times streamlined PL 1 is 10 minutes.
 
 #### 2017 / 03 / 20
 -   `Companion` feat fixed to track with the new max attribute limits
