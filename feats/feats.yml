@@ -959,7 +959,7 @@
   description: |
     Whether through a pair of celestial or infernal wings, an inherent telekinetic force, or mutant super powers, you possess the ability to fly.
   effect: |
-    You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, the <em>immobile</em> bane might render your wings immovable. If telekinetic, an application of the <em>dispel</em> bane may cancel your flight.
+    You gain a flight speed equal to your normal speed. At the GM's discretion, certain hostile actions may be capable of canceling your flight, sending you hurtling to your doom. If your flight is anatomical, the <em>immobile</em> bane might render your wings immovable. If telekinetic, an application of the <em>nullify</em> bane may cancel your flight.
 - !
   name: Great Leap (I - III)
   prerequisites:
