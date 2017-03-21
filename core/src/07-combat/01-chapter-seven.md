@@ -110,7 +110,7 @@ These steps are explained in more detail below.
 
 ##### Determine Attribute Versus Defense
 
-First, choose the most logical attribute for the type of attack you are making. Every attack is either physical or extraordinary. 
+First, choose the most logical attribute for the type of attack you are making. Every attack is either physical or extraordinary.
 
 **Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise* property will determine which attribute to use.
 
@@ -127,29 +127,29 @@ Extraordinary attacks are more open-ended and often require the GM to decide the
 - **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
 
 > ##### Using Attributes to Inflict Damage
-> 
+>
 > Combat in Open Legend is a swirl of action rolls as blades clash, traps spring, lightning forks, and lasers fly. However, because of the free-form nature of storytelling in Open Legend, you may not always know what attributes can be used to make attacks.
-> 
+>
 > ###### Always
-> 
+>
 > Some attributes can pretty much always be used to deal damage. These include Might, Agility, Energy, and Entropy. These are the standards for swinging mauls, shooting guns, raining fire, draining life force, and so on.
-> 
+>
 > ###### Sometimes
-> 
+>
 > A few attributes can be used for damaging attacks in special circumstances in which the story dictates that the damage arises from your skill in the attribute. These include Logic, Protection, Alteration, Influence, and Movement. Though the occasions to use these attributes for damage will be rare, as long as the story makes sense, combatants should be able to damage foes with them. Examples of situations in which these attributes might be used in an action roll for a damaging attack are provided below.
-> 
+>
 > **Logic.** Springing a trap on your foes.
-> 
+>
 > **Protection.** Shielding yourself with a wall of magical knives.
-> 
+>
 > **Alteration.** Causing a tree branch to strangle a foe.
 >
 > **Influence.** For illusory effects that are convincing enough, any number could mimic damage until your enemy is aware of the trick. For mental compulsion, forcing a dominated enemy to stab himself.
-> 
+>
 > **Movement.** Using telekinesis to hurl a boulder at a foe.
-> 
+>
 > ###### Probably Never
-> 
+>
 > The remaining attributes don't really lend themselves to damage. Without a *very* good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
 
 ##### Choose Your Target
@@ -190,7 +190,7 @@ If your attack roll exceeds the target's defense by 10 or more, you may apply on
 
 ##### Multi-targeting
 
-By default, your attacks target a single foe. However, you may choose to target multiple individual foes or to target an area, provided that all of your targets fall within your attack’s range. 
+By default, your attacks target a single foe. However, you may choose to target multiple individual foes or to target an area, provided that all of your targets fall within your attack’s range.
 
 Targeting more than one foe causes disadvantage on your attack roll, as described below.
 
@@ -398,7 +398,7 @@ You may use a defend action after an enemy has rolled a successful attack agains
 
 If your attribute roll is higher than the targeted defense score, then your roll replaces the targeted defense score for that attack only. (**Note:** Characters wielding a weapon with the *defensive* property gain advantage equal to the weapon's *defensive* value on their defend action roll).
 
-As part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the original attack, even if it takes the defended character out of the reach or area of the attack.
+Once per round as part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the original attack, even if it takes the defended character out of the reach or area of the attack.
 
 > ##### Defend Examples
 >
@@ -494,7 +494,7 @@ Some players might wonder why a PC still gets a taste of success even when their
 Those GMs who would like to use the usual methods for interpreting failed rolls may struggle to create interesting outcomes on the fly, especially if they have prior experience with more binary rules systems. This section aims to inspire GMs with several examples of how to interpret *success with a twist* and *failure but the story progresses* in a variety of combat situations.
 
 > #### Twist or Failure?
-> 
+>
 > A common question that you may have as a GM, especially when it comes to interpreting failed combat rolls, is *Should I use a success with a twist or an outright failure?* There is no hard and fast rule dictating which option should be applied - it is left completely to the discretion of the GM so that you may steer the story in the most desirable and exciting direction for any given situation.
 >
 > To that end, whenever a player fails a roll, you should ask yourself a few questions along these lines:

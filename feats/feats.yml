@@ -173,7 +173,7 @@
   cost:
   - 2
   description: |
-    Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another. Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses their intelligence to make vital strikes rather than their dexterity, or a gunman whose deadshot aim is the result of a dark pact.
+    Your prowess in an extraordinary, mental, or social attribute is linked in a way that empowers another attribute of your character, allowing you to use that attribute for tasks normally reserved for another. Examples of Attribute Substitution in play include a martial artist who is physically weak but capable of using internal chi to throw and disable opponents, an anatomical genius who uses logic to make vital strikes rather than their agility, or a gunslinger whose deadshot aim is the result of a dark pact.
   effect: |
     When you take this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your score in the primary attribute in place of the dependent attribute for different purposes depending on which tier of the feat you have:
     <ul>
@@ -191,7 +191,7 @@
       <li>Invoking banes and boons</li>
       </ul>
     </ul>
-    The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a bard who subsitutes her Presence for her Might to represent her dance-based melee fighting style would likely not get to use her Presence Score for determining her carrying capacity. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include a calculating warrior who studies angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
+    The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a brawler who subsitutes their Logic for their Might to represent their ability to use leverage in grappling rather than strength would likely not get to use their Logic score for an attempt to bend the bars on a prison cell. Furthermore, the GM should prevent players from creating illogical substitutions that are purely aimed at making their characters unreasonably powerful. Two examples of proper uses of this feat include a calculating warrior who studies angles, leverage, and physics to substitute Logic for Might, or a gunslinger who channels dark energy, giving her deadshot accuracy and substituting Entropy for Agility.
 - !
   name: Bane Focus
   prerequisites:
@@ -227,127 +227,33 @@
   effect: |
     As a free action on your turn, you may enter a battle trance. While entranced, you have advantage 1 on all attacks. Additionally, your Toughness and Resolve defenses are increased by 3. If your armor bonus is less than 3, it becomes 3. If you take three consecutive turns without making an attack roll against an enemy creature, the battle trance ends. When the battle trance ends, you automatically suffer 1 level of the <a href="/banes/fatigued">fatigue bane</a>.
 - !
-  name: Battlefield Defender
+  name: Battlefield Opportunist (I - V)
   prerequisites:
     tier1:
       any:
         Attribute:
         - Agility: 4
         - Might: 4
-        - Protection: 4
-  tags:
-  - Might
-  - Agility
-  - Protection
-  - Passive
-  - Combat
-  cost:
-  - 2
-  description: |
-    Your prowess on the battlefield allows you to punish your enemies for every misplaced step.
-  effect: |
-    When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
-- !
-  name: Battlefield Punisher - Knockdown
-  prerequisites:
-    tier1:
-      Attribute:
-      - Might: 5
-      Feat:
-      - Battlefield Defender
-  tags:
-  - Might
-  - Passive
-  - Combat
-  - Feat Chain
-  cost:
-  - 3
-  description: |
-    Not only are your battle reflexes uncanny, but you can deal knockdown blows with your defensive strikes.
-  effect: |
-    If you deal damage with a defend action via the Battlefield Defender feat, you may choose to automatically afflict the target with the <em>knockdown</em> bane. If you do, the remainder of the target's movement is cancelled until the start of its next turn.
-- !
-  name: Battlefield Punisher - Slowed
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 5
-        - Might: 5
-      Feat:
-      - Battlefield Defender
-  tags:
-  - Might
-  - Agility
-  - Passive
-  - Combat
-  - Feat Chain
-  cost:
-  - 3
-  description: |
-    Not only are your battle reflexes uncanny, but you can deal slowing blows with your defensive strikes.
-  effect: |
-    If you deal damage with a defend action via the Battlefield Defender feat, you may choose to automatically afflict the target with the <em>slowed</em> bane. If you do, and the target has already moved more than half their speed, the remainder of their movement is cancelled until the start of their next turn.
-- !
-  name: Battlefield Punisher - Stunned
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 7
-        - Might: 7
-      Feat:
-      - Battlefield Defender
-  tags:
-  - Might
-  - Agility
-  - Passive
-  - Combat
-  - Feat Chain
-  cost:
-  - 3
-  description: |
-    Not only are your battle reflexes uncanny, but you can deal stunning blows with your defensive strikes.
-  effect: |
-    If you deal damage with a defend action via the Battlefield Defender feat, you may choose to automatically afflict the target with the <em>stunned</em> bane. If you do and the target has taken any action prior to being stunned, any remaining actions are cancelled by the <em>stunned</em> bane until the start of the target's next turn.
-- !
-  name: Battlefield Sentinel (I - V)
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 5
-        - Might: 5
-      Feat:
-      - Battlefield Defender
     tier2:
       any:
         Attribute:
-        - Agility: 5
-        - Might: 5
-      Feat:
-      - Battlefield Defender
+        - Agility: 4
+        - Might: 4
     tier3:
       any:
         Attribute:
-        - Agility: 5
-        - Might: 5
-      Feat:
-      - Battlefield Defender
+        - Agility: 4
+        - Might: 4
     tier4:
       any:
         Attribute:
-        - Agility: 5
-        - Might: 5
-      Feat:
-      - Battlefield Defender
+        - Agility: 4
+        - Might: 4
     tier5:
       any:
         Attribute:
-        - Agility: 5
-        - Might: 5
-      Feat:
-      - Battlefield Defender
+        - Agility: 4
+        - Might: 4
   tags:
   - Might
   - Agility
@@ -359,7 +265,49 @@
   description: |
     Your battlefield prowess allows you to capitalize on windows of opportunity that others don't notice, making you far more deadly in melee combat.
   effect: |
-    You may make an additional opportunity attack per round for each tier of this feat your possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).
+    You may make an additional opportunity attack per round for each tier of this feat you possess. You can only make one opportunity attack per triggering action (e.g., you cannot make multiple attacks against the same foe when they leave your threatened space).
+- !
+  name: Battlefield Punisher
+  prerequisites:
+    tier1:
+      Attribute:
+      - Agility: 5
+      - Might: 5
+      - Any Extraordinary: 5
+      Feat:
+      - Battlefield Reflexes
+  tags:
+  - Might
+  - Passive
+  - Combat
+  - Feat Chain
+  cost:
+  - 3
+  description: |
+    Not only are your battle reflexes uncanny, but you can devastate your opponents with a signature secondary effect.
+  effect: |
+    Choose a bane you can inflict. Any time you use the defend action with an attribute that could inflict the chosen bane and deal 10 damage via the Battlefield Reflexes feat, you may choose to automatically afflict the attacker with the chosen bane.
+- !
+  name: Battlefield Reflexes
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Agility: 4
+        - Might: 4
+        - Any Extraordinary: 4
+  tags:
+  - Might
+  - Agility
+  - Extraordinary
+  - Passive
+  - Combat
+  cost:
+  - 2
+  description: |
+    Your prowess on the battlefield allows you to not only intercept attacks but also decimate foes with your retaliatory strikes.
+  effect: |
+    When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
 - !
   name: Boon Access
   prerequisites:
@@ -1336,7 +1284,7 @@
   cost:
   - 1
   description: |
-    You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunfighter with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.
+    You are always ready for danger, allowing you to easily get the drop on your foes. A highly trained gunslinger with a vigilant trigger finger and a covert operative always prepared for ambush are good examples of this feat in action.
   effect: |
     For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
 - !
@@ -1639,6 +1587,37 @@
     Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
   effect: |
     Any time you make a resist roll, you have advantage 1 on the roll.
+- !
+  name: Sentinel
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
+    tier2:
+      any:
+        Attribute:
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
+    tier3:
+      any:
+        Attribute:
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
+  tags:
+  - Defense
+  - Physical
+  - Extraordinary
+  cost:
+  - 3
+  description: |
+    Your heightened awareness on the battelfield means that you are nearly impossible to catch flat-footed and are always prepared to defend yourself.
+  effect: |
+    Each round, you get one extra major action which can only be used to perform a defend action. Using this extra action prevents you from losing the next major action you would have spent to perform a defend action. Multiple tiers of this feat allow you to take multiple defend actions without losing your usual major action on your turn.
 - !
   name: Silencing Strike
   prerequisites:

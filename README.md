@@ -13,6 +13,10 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 03 / 21
+-   `Sentinel` (new feat added) - grants an additinal action that can be used only for defend actions once per turn
+-   `Battlefield Sentinel` renamed to `Battlefield Opportunist`, `Battelfield Defender / Reflxes` feat prerequisite dropped, attribute score prerequisite dropped from 5 to 4
+-   `Battlefield Defender` renamed to `Battlefield Reflexes` now allowed with `Any Extraordinary` attribute, pending GM approval
+-   `Battlefield Punisher - Knockdown`, `Battlefield Punisher - Slowed`, and `Battlefield Punisher - Stunned` are all combined and slightly modified to become `Battlefield Punisher` which requires 10 damage be dealt and can be any bane, this restriction was made necessary by the addition of the `Sentinel` feat which allows additional defend actions, and allows for many uses of the defend action each turn.
 -   `Companion` feat fixed to prevent abuse. A companion gaining 3 feat points + an extra set of actions for a given turn, means that you spend 3 feat points on a `Companion` and you gain 3 feat points AND a new character. Companions can now buy feats with the character's feat points.
 -   `Companion` feat point expenditures apply as a feat point reduction in any case where another effect would give you feat points, at present, this applies only to `Alternate Form` as far as we can tell.
 -   `Genesis` boon Power Level 5 added (greater quantity of organic matter created)

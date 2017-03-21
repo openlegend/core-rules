@@ -14,7 +14,7 @@ Each feat description includes the following elements.
 
 **Title.** The name of the feat. Some feats contain multiple tiers, rising in power with each new tier. If a feat contains multiple tiers, these will be indicated in parentheses after the title (e.g., “Alternate Form (I - II)”).
 
-**Cost.** This is the number of feat points required to purchase the feat. If the feat has multiple tiers, the cost is the same for each tier and must be paid every time the feat is purchased at a new tier *unless otherwise noted in the feat description*. So, to access the Tier 5 ability of a feat, you must pay for the feat 5 times. If a feat does not have a noted exception and has only one tier, it can only be purchased once.
+**Cost.** This is the number of feat points required to purchase the feat. If the feat has multiple tiers, the cost is the same for each tier and must be paid every time the feat is purchased at a new tier *unless otherwise noted in the feat description*. So, to access the Tier 5 ability of a feat, you must pay for the feat 5 times. If a feat does not have a noted exception it can only be purchased once.
 
 **Prerequisites.** Many feats have specific requirements that must be met before a character can purchase the feat. Prerequisites may take the form of a minimum attribute score, another feat, or a special requirement. If a feat has multiple tiers with different prerequisites, the requirements for each tier are separated by a slash.
 
