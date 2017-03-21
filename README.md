@@ -12,11 +12,14 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 03 / 21
+-   `Companion` feat fixed to prevent abuse. A companion gaining 3 feat points + an extra set of actions for a given turn, means that you spend 3 feat points on a `Companion` and you gain 3 feat points AND a new character. Companions can now buy feats with the character's feat points.
+-   `Companion` feat point expenditures apply as a feat point reduction in any case where another effect would give you feat points, at present, this applies only to `Alternate Form` as far as we can tell.
+
 #### 2017 / 03 / 20
 -   `Companion` feat fixed to track with the new max attribute limits
 -   `Nullify` bane at Power Level 6 effect can not be prevented by any other effect
 -   `Multi-Target Attack Specialist` fixed to remove compounded attack complexity and a loophole that could allow you to negate all mutli-attack penalties and combine it with Haste for 9 attacks with no disadvantage.
--
 
 #### 2017 / 03 / 15
 -   `Genesis` added a new feat for creating short-lived matter that deteriorates / decomposes after 1 hour
