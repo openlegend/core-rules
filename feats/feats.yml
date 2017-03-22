@@ -486,12 +486,14 @@
       any:
         Attribute:
         - Learning: 3
+        - Logic: 3
         Feat:
         - Knowledge I
     tier2:
       any:
         Attribute:
         - Learning: 3
+        - Logic: 3
         Feat:
         - Knowledge I
   tags:

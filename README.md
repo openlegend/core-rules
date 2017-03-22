@@ -13,6 +13,17 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 03 / 21
+- New Chapter Structure (Finalized for going to Print, YAY!)
+   -   Introduction
+   -   1: Character Creation
+   -   2: Actions & Attributes
+   -   3: Feats
+   -   4: Perks & Flaws
+   -   5: Wealth & Equipment
+   -   6: Banes & Boons
+   -   7: Combat
+   -   8: Running the Game
+   -   9: Special Equipment
 -   `Sentinel` (new feat added) - grants an additinal action that can be used only for defend actions once per turn
 -   Clarify that `defend` action can only grant bonus movement once per round
 -   `Battlefield Sentinel` renamed to `Battlefield Opportunist`, `Battelfield Defender / Reflxes` feat prerequisite dropped, attribute score prerequisite dropped from 5 to 4
