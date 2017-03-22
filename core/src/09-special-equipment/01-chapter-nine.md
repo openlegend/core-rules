@@ -31,7 +31,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | :----: | :-: | :-: | :---: | :-------: |
 | Adhesion Boots | 2 |   |  | Special |
 | Aegis of Warding | 4 | Energy 5 |  | Autonomous, Special |
-| Adrenal Biomod | 4 |  | Heal 3 | Persistent |
+| Adrenal Biomod | 4 |  | Heal 3 | Persistent (Heal) |
 | Black Lotus Extract | 6 |  | Death 9 | Augmenting, Expendable, Potent |
 | Blowfish Venom | 3 |  | Immobile 5 | Augmenting, Expendable |
 | Book of Shadows | 5 |  | Darkness 5, Blinded 5, Summon Creature 5 | Special |
@@ -44,14 +44,14 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Explosive Ammo | 2 |  | Persistent Damage 4 | Augmenting, Expendable |
 | Firebrand | 4 |  | Persistent Damage 4 | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
 | Ghostfire | 2 | Energy 5 |  | Expendable |
-| Helm of Truth | 5 |  | Bolster 3 | Persistent, Cursed (Truthfulness 5) |
+| Helm of Truth | 5 |  | Bolster 3 | Persistent (Bolster), Cursed (Truthfulness 5) |
 | Horn of Thunder | 5 | | | Area (20' cone), Special |
 | Jet Pack | 4 |  | Flight 6 |  |
 | Laser Cannon | 6 | Energy 9 |  | Weapon (Cannon) |
 | Maul of Dominance | 4 |  | Aura 8 | Special, Weapon (Maul) |
 | Phase Rifle | 4 |  |  | Damage (Energy), Deadly 2, Weapon (Sniper Rifle) |
 | Plasmablade | 5 |  | Disarmed 3 | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Longsword), Special |
-| Frostblight | 4 |  | Aura 2 | Armor (Plate Mail), Persistent, Special |
+| Frostblight | 4 |  | Aura 2 | Armor (Plate Mail), Persistent (Immobile), Special |
 | Potion of Major Healing | 4 |  | Heal 7 | Consumable |
 | Potion of Minor Healing | 1 |  | Heal 3 | Consumable |
 | Rocket Launcher | 3 |  |  | Deadly 2, Expendable, Weapon (Cannon) |
@@ -86,7 +86,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Expendable** -  An expendable item can be used once to make an attack or invoke a bane. Afterwards, the item is expended and cannot be used again.
 
-**Persistent** - An item with this property automatically invokes and sustains any of its boons, without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn--the wielder does not have invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.
+**Persistent (boons)** - An item with this property automatically invokes and sustains a single instance of the indicated boon without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn. The wielder does not have to invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.
 
 **Potent** - Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.
 
@@ -231,7 +231,7 @@ Persistent Damage 4, Augmenting, Expendable
 
 *Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of frost that halts foes in their tracks.*
 
-Aura 2, Armor (Plate Mail), Persistent
+Aura 2, Armor (Plate Mail), Persistent (Immobile)
 
 **Special**: Frostblight can only invoke the *immobile* bane via its aura.
 
@@ -259,7 +259,7 @@ Energy 5, Expendable
 
 *This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.*
 
-Bolster 3, Persistent, Cursed (Truthfulness 5)
+Bolster 3, Persistent (Bolster), Cursed (Truthfulness 5)
 
 
 #### Horn of Thunder
