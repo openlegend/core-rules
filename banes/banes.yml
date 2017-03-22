@@ -710,7 +710,7 @@
   description: |
     Stunning an enemy can be caused by anything from the pommel of a dagger to the back of the head, to a kick in the groin, to a deafening thunderclap that disorients the target.
   effect: |
-    During its turn, the target is limited to either a single major action, a single move action, or a single minor action. It cannot take all three, nor can it take a focus action. Note that a target expending its move action to resist this bane will receive the remainder of their usual actions if the resist roll succeeds. Thus they will have their usual major and minor actions available this round.
+    During the target's turn, they are limited to either a single major action, a single move action, or a single minor action. Effects that grant additional actions do not circumvent this unless they grant a free action. Note that a target expending its move action to resist this bane will receive the remainder of their usual actions if the resist roll succeeds.
   special: |
     This bane has special rules for boss monsters and NPCs (See Chapter 8: Running the Game). A boss is only affected by the stunned bane during its normal initative turn. It may still take all of its boss actions as usual.
 - !
