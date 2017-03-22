@@ -698,7 +698,7 @@
   description: |
     You are able to change size, shape, and composition of physical matter that you touch. Transmute rocks to gold, or a wall into a door.
   effect: |
-    Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round and has a maximum duration of 1 hour multiplied by your invoking attribute score. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it.
+    Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.
     <ul>
     <li><strong>Power Level 3</strong> - <em>Temporarily</em> transmute an object into another object of the same size and weight.</li>
     <li><strong>Power Level 5</strong> - <em>Temporarily</em> transmute an object into another object of the same size and 50% greater or lesser weight. <em>Temporarily</em> transmute an object into another object of the same weight and 50% greater or lesser size.</li>
