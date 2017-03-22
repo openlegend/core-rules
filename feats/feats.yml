@@ -270,10 +270,11 @@
   name: Battlefield Punisher
   prerequisites:
     tier1:
-      Attribute:
-      - Agility: 5
-      - Might: 5
-      - Any Extraordinary: 5
+      any:
+        Attribute:
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
       Feat:
       - Battlefield Reflexes
   tags:
@@ -469,9 +470,9 @@
   effect: |
     You gain a companion character that acts independently from you. During combat, your companion acts on its own initiative count and gains the usual assortment of actions, which you may choose. You also get to assign your companion's attributes. Whenever you gain a level or purchase a new tier in this feat, you may reassign your companion's attributes and feats.
     <ul>
-    <li><strong>Tier 1</strong> - Your companion recieves 20 feat points plus 4 per level of your character.</li>
+    <li><strong>Tier 1</strong> - Your companion recieves 20 attribute points plus 4 per level of your character.</li>
     <li><strong>Tier 2</strong> - Your companion receives 3 feat points.</li>
-    <li><strong>Tier 3</strong> - Your companion recieves 30 feat points plus 6 per level of your character. In adition, your can optionally grant feats to your companion. In order to do so, you spend your own feat points and the companion receives the feat instead of you. The companion, not you, must meet all feat prerequisites. Any math related to these feats are calculated based on the companion's attributes, feats, etc. If you have spent feat points this way and would gain feat points from any other effect, those feat points are reduced by the number of feat points you have granted to your companion.</li>
+    <li><strong>Tier 3</strong> - Your companion recieves 30 attribute points plus 6 per level of your character. In adition, your can optionally grant feats to your companion. In order to do so, you spend your own feat points and the companion receives the feat instead of you. The companion, not you, must meet all feat prerequisites. Any math related to these feats are calculated based on the companion's attributes, feats, etc. If you have spent feat points this way and would gain feat points from any other effect, those feat points are reduced by the number of feat points you have granted to your companion.</li>
     </ul>
   special: |
     If you ever lose your companion, voluntarily or involuntarily, you regain the feat points that you have spent on this feat and any of the companion's feats, and may spend them as usual.
@@ -1614,7 +1615,7 @@
   cost:
   - 3
   description: |
-    Your heightened awareness on the battelfield means that you are nearly impossible to catch flat-footed and are always prepared to defend yourself.
+    Your heightened awareness on the battlefield means that you are nearly impossible to catch flat-footed and are always prepared to defend yourself.
   effect: |
     Each round, you get one extra major action which can only be used to perform a defend action. Using this extra action prevents you from losing the next major action you would have spent to perform a defend action. Multiple tiers of this feat allow you to take multiple defend actions without losing your usual major action on your turn.
 - !
