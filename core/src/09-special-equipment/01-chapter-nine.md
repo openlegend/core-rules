@@ -50,7 +50,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Laser Cannon | 6 | Energy 9 |  | Weapon (Cannon) |
 | Maul of Dominance | 4 |  | Aura 8 | Special, Weapon (Maul) |
 | Phase Rifle | 4 |  |  | Damage (Energy), Deadly 2, Weapon (Sniper Rifle) |
-| Plasmablade | 5 |  | Disarmed 3 | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Longsword), Special |
+| Plasmablade | 5 |  | Disarmed 3 | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special |
 | Frostblight | 4 |  | Aura 2 | Armor (Plate Mail), Persistent (Immobile), Special |
 | Potion of Major Healing | 4 |  | Heal 7 | Consumable |
 | Potion of Minor Healing | 1 |  | Heal 3 | Consumable |
