@@ -99,7 +99,7 @@
     <br>
     <strong>Hindering:</strong> Creatures move at half speed when travelling within the barrier.
     <br>
-    <strong>Impassable:</strong> Creatures and objects cannot move through the barrier.
+    <strong>Impassable:</strong> Creatures and objects cannot move through the barrier. If you place an impassable barrier in a space occupied by a creature, move that creature to the closest position of their choice that is not inside of the barrier. This movement does not provoke opportunity attacks.
     <br>
     <strong>Baneful:</strong> Choose a bane which you can inflict that has a power level less than or equal to the power level of your barrier. When a creature ends its turn within the barrier or willingly enters it, you may immediately make a bane attack against it to inflict the chosen bane. A creature can only be subject to one such bane attack from this barrier per round.
     <br>

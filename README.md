@@ -13,6 +13,12 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 03 / 21
+-   `Barrier` boon clarification - you can't trap a target inside of it
+-   Tweak `Persistent` extraordinary item trait to prevent abuse.
+-   `Stunned` bane wording tweak to clarify extra actions don't work
+-   `Sentinel` feat tweak to require that you first spend a defend action
+
+#### 2017 / 03 / 21
 - New Chapter Structure (Finalized for going to Print, YAY!)
    -   Introduction
    -   1: Character Creation
