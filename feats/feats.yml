@@ -1588,7 +1588,7 @@
   effect: |
     Any time you make a resist roll, you have advantage 1 on the roll.
 - !
-  name: Sentinel
+  name: Sentinel (I - III)
   prerequisites:
     tier1:
       any:
