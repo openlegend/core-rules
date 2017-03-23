@@ -259,8 +259,8 @@
     <ul>
     <li><strong>Power Level 2</strong> - The target's speed is increased by 10'. </li>
     <li><strong>Power Level 4</strong> - The target's speed is increased by 15', and it gains +1 to Guard. </li>
-    <li><strong>Power Level 6</strong> - The target's speed is increased by 20', and it gains +2 to Guard. Additionally, the target can make one extra major action on each of its turns. If the action requires a roll, it suffers disadvantage 3.</li>
-    <li><strong>Power Level 8</strong> - The target's speed is increased by 30', and it gains +3 to Guard. Additionally, the target can make up to two extra major actions on each of its turns. If the target takes 1 extra action that action has disadvantage 3, if they take a 2nd extra action, that action has disadvantage 6.</li>
+    <li><strong>Power Level 6</strong> - The target's speed is increased by 20', and it gains +2 to Guard. Additionally, the target can make one extra major action on each of its turns. This action cannot be used to perform an interrupt action. If the action requires a roll, it suffers disadvantage 3.</li>
+    <li><strong>Power Level 8</strong> - The target's speed is increased by 30', and it gains +3 to Guard. Additionally, the target can make up to two extra major actions on each of its turns. These actions cannot be used to perform an interrupt action. If the target takes 1 extra action that action has disadvantage 3, if they take a 2nd extra action, that action has disadvantage 6.</li>
     </ul>
 - !
   name: Heal

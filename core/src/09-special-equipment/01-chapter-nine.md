@@ -514,7 +514,7 @@ After you have described your item's special properties, you should assign a wea
 > \
 > *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
 > \
-> **Final WL Modifier**: +6
+> **Final WL Modifier**: +6 \
 >
 > * * * * *
 >

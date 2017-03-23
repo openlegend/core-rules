@@ -432,7 +432,7 @@
   description: |
     Through magical power, technological hacking, or similar means, you are able to nullify your enemy's boons.
   effect: |
-    You cancel a single boon currently in effect if it is of this bane's power level or lower. If the boon covers a large area, you can cancel all of it by targeting any portion of the effect you can see, or targeting a number of 5' cubes you believe it to be in. The invoking power level further impacts the effect as follows:
+    You cancel a single boon currently in effect if it is of this bane's power level or lower. The invoking power level further impacts the effect as follows:
     <ul>
       <li><strong>Power Level 1</strong> - Cancel a boon of Power Level 1. You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute</li>
       <li><strong>Power Level</strong> - Cancel a boon of Power Level 2</li>
@@ -444,6 +444,8 @@
       <li><strong>Power Level 8</strong> -  Cancel a boon of Power Level 8</li>
       <li><strong>Power Level 9</strong> -  Cancel a boon of Power Level 9</li>
     </ul>
+  special: |
+    If the targeted boon covers a large area, you can cancel all of it by targeting any portion of the effect you can see, or multi-targeting a number of 5' cubes you believe it to be in. If the targeted boon is affecting an area rather than a creature, you roll against the CR of the boon instead of a Resolve defense. The CR is 10 + 2 x the boon's invoked power level.
 - !
   name: Persistent Damage
   tags:

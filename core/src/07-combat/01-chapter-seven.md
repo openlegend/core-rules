@@ -206,11 +206,11 @@ You may target up to five foes that fall within a 25' square. When targeting mor
 
 Area attacks are only possible when you are using an extraordinary attribute, unless a specific weapon property or other rule allows you to make area attacks without an extraordinary attribute. You may choose from a variety of shapes when making an area attack, as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
 
-**Cube.** You target a cube with equal length, width, and height designated by you. The attack suffers disadvantage 1 per 5' length of the cube's sides. For example, a 10' cube suffers disadvantage 2, a 15’ cube suffers disadvantage 3, and so on. **Special Exception:** Targeting a 5’ cube suffers no disadvantage.
+**Cube.** You target a cube with equal length, width, and height designated by you. The attack suffers disadvantage 1 per 5' length of the cube's sides, unless it's a single 5' cube, which does not incur disadvantage. For example, a 10' cube suffers disadvantage 2, a 15’ cube suffers disadvantage 3, and so on.
 
-**Line.** You target a line that is 5' wide, 10' long, and 10' high. You may create several lines as part of a single attack, as long as at least one corner of each line touches. For each line, the attack suffer disadvantage 1.
+**Line.** You target a line that is 5' wide, 10' long, and 10' high. You may create several lines as part of a single attack, as long as at least one corner of each line touches. For each line, the attack suffers disadvantage 1.
 
-**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone.
+**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone, unless it's 5' long, which does not incur disadvantage.
 
 <div class="table-no-body"></div>
 | Multi-Targeting Summary |
