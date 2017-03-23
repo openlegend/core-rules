@@ -14,7 +14,7 @@ The first thing to realize is that not every instance of violence or fighting in
 
 ## Starting Combat
 
-When the GM declares that combat will begin, the game is separated into rounds. Each round represents about six seconds of time in game, and during a round, each PC and each GM-controlled NPC will receive one turn. Before combat begins, there are two things that must be done: determining surprise and rolling for initiative.
+When the GM declares that combat will begin, the game is separated into rounds. Each round represents about six seconds of time in game, and during a round, each PC and each NPC enemy or ally will receive one turn. Before combat begins, there are two things that must be done: determining surprise and rolling for initiative.
 
 ### Determining Surprise
 
@@ -24,7 +24,7 @@ Surprised characters always act after non-surprised characters, as explained in 
 
 ### Roll for Initiative
 
-After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant's Agility roll is their initiative score. The GM may decide to make one roll for each group of NPCs instead of tracking every NPC's initiative individually.
+After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant's Agility roll is their initiative score. The GM may decide to make one roll for each group of NPC enemies or allies instead of tracking each NPC initiative individually.
 
 When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high to low). If Agility scores are also tied, determine the order randomly.
 
