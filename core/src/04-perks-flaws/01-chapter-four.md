@@ -53,10 +53,6 @@ The type of hindrance caused by activating a flaw should be more than a simple r
 
 Whether you are an android constructed of space age material that does not erode over time, the loyal servant of a higher power, or the subject of an arcane ritual, you have unlocked the secret to immortality. You are immune to the passage of time and the effects of old age. Your body does not age and you cannot be harmed by extraordinary effects that cause aging. Based on the source of your agelessness, you can decide whether or not your appearance changes over time.
 
-### Arcane Bloodline
-
-Your ancestry can be traced to dragons, fey, or a similarly magical race. As such, you command the respect of those who practice the arcane arts. You are assumed to have knowledge and a destiny for greatness in the ways of magic, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you an apprenticeship with a famous Archmage, or cause a magic-user who does not know you well to follow a prescribed course of action based on your advice if the question is one of Arcane knowledge.
-
 ### Artisan
 
 Choose a specific craft, such as weapon smithing, glass blowing, or brewing. You know the ins and outs of crafting goods of the highest quality within your chosen specialty. As a master craftsman, you are able to create items of exceptional value given the necessary time and materials. Furthermore, whenever you are performing a task in which your crafting skills would play a role, you gain advantage 1 to any action rolls that you must make.
@@ -112,6 +108,10 @@ Whether from a distant fey ancestry or simply an air of naivety, you possess a c
 ### Jack of All Trades
 
 You have a knack for picking up new skills. Once per game session, provided you are not under pressure from an inordinately tight deadline, you can automatically succeed at a non-attack action roll that relates to some craft, trade, skill, or similar work provided its Challenge Rating is less than or equal to 14.
+
+### Legendary Bloodline
+
+Your ancestry can be traced to dragons, Void Templars, an ancient order of Archmagi, a intergalactic dynasty, or a similar powerful group. As such, a sense of awe follows you when in the presence of those who respect your heritage. Choose an area of expertise, such as arcana, politics, or warfare. You are assumed to have knowledge and a destiny for greatness in the chosen area of expertise, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you access to the Void Templars securely encrypted database, secure a mentorship under a famous Senator, or cause a Lieutenant who does not know you well to take combat orders from you based on your training in an elite task force.
 
 ### Local Hero
 

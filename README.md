@@ -13,6 +13,7 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 03 / 21
+-   `Arcane Bloodline` has been generalized to apply to more groups, name changed to `Legendary Bloodline`
 -   `Barrier` boon clarification - you can't trap a target inside of it
 -   Tweak `Persistent` extraordinary item trait to prevent abuse.
 -   `Stunned` bane wording tweak to clarify extra actions don't work
