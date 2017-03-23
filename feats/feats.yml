@@ -1634,7 +1634,7 @@
   description: |
     Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence.
   effect: |
-    Whenever your damaging attack exceeds a target's defense and they are caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the <em>silenced</em> bane.
+    Whenever you deal precise damage (one of the damage types) to a target and they are caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the <em>silenced</em> bane.
 - !
   name: Skill Specialization (I - V)
   prerequisites:
@@ -1660,7 +1660,7 @@
   description: |
     You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similarly exceptional non-combat talent.
   effect: |
-    Choose one attribute. Any time you make a non-attack action roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
+    Choose one attribute. Any time you make non-attack, non-invocation roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
   special: |
     In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new attribute each time. Track your feat tier separately for each attribute that you choose for this feat.
 - !
