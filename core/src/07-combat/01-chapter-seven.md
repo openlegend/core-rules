@@ -410,7 +410,7 @@ Once per round as part of your defend action, you may also move up to half of yo
 
 #### Improvise
 
-You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke a *levitate* boon and save them or to dive and try to catch them at the edge of the cliff. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
+You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke the *flight* boon and save them or to dive and try to catch them at the edge of the cliff. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
 ### Free Actions
 
