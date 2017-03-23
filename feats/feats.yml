@@ -995,7 +995,7 @@
   description: |
     By channeling your extraordinary powers through extended research or extensive rituals, such as meditation, fasting, blood letting, or sacrifices, you are able to increase the strength of your invocations.
   effect: |
-    When invoking a bane or boon, you may choose to do so as a ritual. The invocation time for a ritual is one increment higher than usual as follows:
+    When invoking a bane or boon, you may choose to do so as a group invocation. The invocation time for a group invocation is one increment higher than usual as follows:
     <ul>
     <li>1 action becomes 1 minute</li>
     <li>1 minute becomes 10 minutes</li>
@@ -1018,15 +1018,15 @@
 
     <strong>Tier 2</strong> - You gain the following abilities:
     <ul>
-      <li>You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that you're are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.</li>
-      <li>You gain the following additional option to choose from when empowering your invocations with ritual magic:</li>
+      <li>You can lead others to join you in group invocation as long as they are also able to invoke the bane or boon at the same power level that you're are invoking it at. At the conclusion of the group invocation, each contributor may choose one of the effects granted by Tier 1 of this feat.</li>
+      <li>You gain the following additional option to choose from when empowering your invocations with group invocation magic:</li>
         <ul>
         <li>Cause a boon to persist for 1 minute automatically without needing to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (though the <em>nullify</em> bane still works).</li>
         <li>Targets may not make resist rolls against a bane for one minute after it is invoked.</li>
         </ul>
     </ul>
 
-    <strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
+    <strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the group invocation process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the group invocation and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active group invocation you must be in the same physical or geographic location where the group invocation was initiated. When the invocation time is completed, make an action roll as follows:
     <ul>
     <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).</li>
     <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be cancelled either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).</li>
