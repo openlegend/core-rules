@@ -178,7 +178,7 @@ The thrill of adventure, the satisfaction of character development, and the joy 
 
 In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
-Rather than constantly awarding different experience point values to different monsters or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That's right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
+Rather than constantly awarding different experience point values to different adversaries or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That's right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
 
 **Big Milestones.** You could award a new level whenever the players complete a major quest, defeat a powerful foe, or neutralize a serious threat. With this method, you may want to plan out the big milestones that you can foresee being accomplished in your campaign. Whenever your players reach one of these milestones, you give them 3 XP and thus a new level. A milestone map might look something like this:
 
@@ -249,14 +249,14 @@ So, when a combat encounter ends, instead of listing off how many crossbow bolts
 
 - Characters can easily bribe NPCs with a **lower wealth score.**
 
-- If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks. 
+- If the recipient of the bribe has the **same wealth score** as the character, then it would be considered a “major expense”, which means that it can be done, but the expense taxes resources such that new goods at that level or higher can't be acquired for two weeks.
 
 - If the bribe recipient is **one wealth level higher** than the character's wealth score, the cost is so great that the character's wealth score is permanently reduced by 1. Bribing someone more than one wealth level higher is impossible without other factors in play.
 
 So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor. Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
 
-## Monsters and NPCs
-No campaign or adventure is complete without monsters for the heroes to defeat or NPCs for them to overcome. When planning out a campaign or adventure, consider that the monsters and NPCs of your story typically fall into one of the following categories:
+## Non-Player Characters (NPCs)
+No campaign or adventure is complete without monsters for the heroes to defeat or other types of adversaries for them to overcome. But it's best not to go alone, and often the characters will find help along the way. Collectively these friends and foes are called "NPCs" (non-player characters). When planning out a campaign or adventure, consider that the NPCs of your story typically fall into one of the following categories:
 
 - Henchmen
 
@@ -302,11 +302,11 @@ The above example will likely be an intriguing scene enjoyed by all, because the
 
 **Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can't fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place, and, by finding ways to demonstrate your NPCs' imperfections, you'll further immerse your players in the campaign world.
 
-### Monsters and NPC Statistics
+### NPC Statistics
 
-Many of the monsters and NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don't need a full array of attributes, feats, and favored attacks because, more likely than not, you'll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments--but your party is never going to need to engage him in combat.
+Many of the NPCs that the PCs encounter throughout their journey will be used solely for the purposes of role playing or setting the mood. These sort of background characters typically don't need a full array of attributes, feats, and favored attacks because, more likely than not, you'll never make a single action roll for them. Angus the Blacksmith, for example, might spice up the town bazaar a bit with his Scottish accent and epic tales of fraudulent accomplishments--but your party is never going to need to engage him in combat.
 
-A good deal of your monsters and NPCs, however, will require statistical descriptions to use for combat or social encounters. This section will describe two ways that you can build these statistics: the complex build and the simple build.
+A good deal of your NPCs, however, will require statistical descriptions to use for combat or social encounters. This section will describe two ways that you can build these statistics: the complex build and the simple build.
 
 #### Complex Build
 
@@ -316,9 +316,9 @@ The complex build is a good option when you are creating a very important villai
 
 #### Simple Build
 
-The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don't have any stats written up for these monsters. In this situation, you could use the simple build rules to get combat rolling quickly.
+The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don't have any stats written up for these enemies. In this situation, you could use the simple build rules to get combat rolling quickly.
 
-Use the NPC Simple Build Table to determine the monster's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the monster you are building. Choose 1 to 3 primary attributes that will form the main basis of the monster's attacks and actions, and then choose as many secondary attributes as you need in order to define the monster's other capabilities.
+Use the NPC Simple Build Table to determine the NPCs's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the NPC enemy you are building. Choose 1 to 3 primary attributes that will form the main basis of the NPC's attacks and actions, and then choose as many secondary attributes as you need in order to define the NPCs's other capabilities.
 
 
 <div class="table-no-body"></div>
@@ -349,7 +349,7 @@ Use the NPC Simple Build Table to determine the monster's most relevant statisti
 | 19 | 46 - 58 | 23 - 29 | 10 | 9 |
 | 20 | 48 - 60 | 24 - 30 | 10 | 9 |
 
-Once you have the basic statistics recorded, choose a few of the following feats to provide your monster with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Some of these are new feats that are only available to GM controlled monsters and NPCs.
+Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Some of these are new feats that are only available to GM controlled NPCs.
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
@@ -415,17 +415,17 @@ The number of additional attacks you can make with this feat is limited to 1 + h
 
 - **Superior Concentration (tier 1 - 3, your choice):** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
 
-> ##### Example Simple Monster Build: Swamp Snakes
+> ##### Example Simple Enemy NPC Build: Swamp Snakes
 >
-> Returning to the example at the beginning of this section, let's build our venomous swamp snakes imagining that the party is made up of 3rd level characters, and thus we choose to make the Swamp Snakes using the row for level 3 Monsters. We decide that the snakes aren't particularly tough to kill, so referencing the Simple Build Table, we'll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we'll go with the high range for Guard: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We'll only assign one primary attribute, giving the snakes an Agility of 5, and we'll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
+> Returning to the example at the beginning of this section, let's build our venomous swamp snakes imagining that the party is made up of 3rd level characters, and thus we choose to make the Swamp Snakes using the row for level 3 NPCs. We decide that the snakes aren't particularly tough to kill, so referencing the Simple Build Table, we'll give them the low end of the suggested range and settle on 14 hit points each. When it comes to defenses, snakes are fast, mildly sturdy, and weak willed. So, we'll go with the high range for Guard: 18, the middle range for Toughness: 15, and the low range for Resolve: 12. We'll only assign one primary attribute, giving the snakes an Agility of 5, and we'll assign Perception, Fortitude, and Deception as secondary attributes with a score of 4.
 >
 > When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land a damaging attack that exceeds the target's defense by 5 or more.
 
 #### Boss NPCs
 
-A Boss is a single monster or NPC that is capable of taking on a group of characters due to its extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
+A Boss is a single enemy NPC that is capable of taking on a group of characters due to its extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
 
-When you decide that one of your monsters or NPCs merits boss status, use the Boss NPC Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
+When you decide that one of your NPCs merits boss status, use the Boss NPC Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
 
 <div class="table-no-body"></div>
 | BOSS NPC BUILD |
@@ -474,32 +474,32 @@ In addition to its normal allotment of actions, a boss also receives a number of
 > 7th: PC 4
 > 8th: Boss Action 3
 > 9th: Boss Action 4
-> 
+>
 
 ## Planning Combat Encounters
 
-The build rules just explained help you create individual monsters or NPCs for the heroes to combat, and this section will assist you in building exciting scenarios for those battles.
+The build rules just explained how to create individual emeny NPCs for the heroes to combat, and this section will assist you in building exciting scenarios for those battles.
 
 ### Encounter Difficulty
 
 When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn't present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
 
-Use the Encounter Difficulty Table to determine how many total monster levels you should include in your combat.
+Use the Encounter Difficulty Table to determine how many total enemy NPC levels you should include in your combat.
 
 <div class="table-no-body"></div>
 | ENCOUNTER DIFFICULTY |
 | - |
 | |
 
-| Encounter Difficulty | Total Monster Level |
+| Encounter Difficulty | Total NPC Level |
 | :-: | :-: |
 | Easy  | Total Party Level x .5 |
 | Moderate | Total Party Level x 1 |
 | Hard | Total Party Level x 2 |
 
-For example, a moderate encounter for a group of 4 PCs who are all 5th level would have a Total Monster Level of 20. An easy encounter for the same group would have a Total Monster Level of 10, and a hard encounter 40.
+For example, a moderate encounter for a group of 4 PCs who are all 5th level would have a Total NPC Level of 20. An easy encounter for the same group would have a Total NPC Level of 10, and a hard encounter 40.
 
-Whether you are using the simple or complex method of building your NPCs, you can spend your monster level budget until you reach approximately the designated total monster level for your encounter.
+Whether you are using the simple or complex method of building your NPCs, you can spend your NPC level budget until you reach approximately the designated total NPC level for your encounter.
 
 #### Bosses
 
@@ -507,9 +507,9 @@ If your encounter includes boss NPCs, multiply their level by 4 for purposes of 
 
 #### Minions
 
-When designing an encounter, you may want to designate some monsters as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any monster for three minions of the same level. Minions have the same stats as any other monster of their level, but their hit points are divided by four.
+When designing an encounter, you may want to designate some enemies as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any NPC for three minions of the same level. Minions have the same stats as any other enemy NPC of their level, but their hit points are divided by four.
 
-For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your monster level budget would only allow you to include six 1st level monsters, but you decide to replace them all with minions, allowing you to include 18 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 HP each.
+For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your NPC level budget would only allow you to include six 1st level NPCs, but you decide to replace them all with minions, allowing you to include 18 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 HP each.
 
 ### Encounter Setting
 

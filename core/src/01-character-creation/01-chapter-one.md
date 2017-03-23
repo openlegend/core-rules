@@ -417,7 +417,7 @@ Different people play roleplaying games for different reasons. Some enjoy the ta
 
 As the legend you are creating unfolds and grows in danger and magnitude, your character's power will grow to match the challenge. This power comes in the form of experience points (or XP), which are rewarded by the GM and allow you to advance in level and gain access to new feats, attributes, banes, and boons.
 
-Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters, NPCs, and monsters. The Player Character Level Advancement table details the XP requirements and maximum attribute score for each level.
+Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters and enemy or ally NPCs. The Player Character Level Advancement table details the XP requirements and maximum attribute score for each level.
 
 <div class="table-no-body"></div>
 | Player Character Level Advancement |
