@@ -127,7 +127,7 @@ You understand the art of economics as well as the best of businessmen. A master
 
 ### Nature's Ally
 
-Creatures of nature can sense your deep respect for the natural order. Wild animals give you a wide berth, Druids give you the benefit of a doubt by assuming that you do not have destructive intentions, and you can typically gain an audience with the chief of a small local tribe by virtue of your reputation for defending nature.
+The natural world responds to your deep connection with it. Perhaps you are a preservationist, seeking to restore organic life in a shattered post-apocalyptic wasteland, or maybe you are a hermit closely attuned to the animals and plants of the Sylvan woodlands. Whatever your circumstance, people and creatures of your land can sense your deep respect for the natural order. Wild animals are more receptive to your desires, primitive tribes give you the benefit of the doubt by assuming you do not have destructive intentions, and you can typically gain an audience with an elusive Druid or Shaman in a give region who shares your goal in defending nature.
 
 ### Noble
 
