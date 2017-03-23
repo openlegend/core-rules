@@ -751,4 +751,4 @@
     The target answers any question asked with honesty, to the best of their knowledge. When compelled to reveal something they would not reveal outside of duress, the target makes a Will roll and you make an Influence roll. If the target's roll is higher than yours, then they resist the bane and the effect ends.
   special: |
     When you successfully invoke this bane, at the end of its duration, you can make another Influence roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated.
-    When a target resists the bane, you cannot target them with this bane again for 24 hours.
+    When a target wins the contested Will vs. Influence roll, you cannot target them with this bane again for 24 hours.
