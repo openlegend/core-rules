@@ -722,7 +722,7 @@
     You grant yourself or an ally the ability to extraordinarily perceive things through impediments that would block or deceive normal sight, including darkness, illusions, and even the barrier between alternate planes of reality.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - The target can see normally in natural or magical darkness. This extraordinary sight extends to 30'.</li>
-    <li><strong>Power Level 7</strong> - The extraordinary sight pierces through all illusory effects, allowing the target to see the illusion for what it is. This extraordinary sight extends to 60'.</li>
-    <li><strong>Power Level 9</strong> - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on. This extraordinary sight extends to 100'.</li>
+    <li><strong>Power Level 5</strong> - The target can see normally in natural or magical darkness.</li>
+    <li><strong>Power Level 7</strong> - The extraordinary sight pierces through all illusory effects, allowing the target to see the illusion for what it is.</li>
+    <li><strong>Power Level 9</strong> - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on.</li>
     </ul>
