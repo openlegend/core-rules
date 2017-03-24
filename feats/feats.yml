@@ -87,7 +87,7 @@
   description: |
     You are adept at redirecting your enemy's attacks. Whether using fancy footwork, magical force, or tactical superiority, you can use your opponents' attacks against themselves.
   effect: |
-    When you make a defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to any target that could have been hit by the original attack. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
+    When you make a defend action and your roll exceeds the attacker's action roll, you can choose to redirect the attack to a target that is niether you, nor the attacker. The original attack roll does not change, only the target. If the attack was a melee attack, you can redirect it to anyone within 5' of you (as opposed to within 5' of the attacker).
 - !
   name: Attack Specialization (I - IX)
   prerequisites:
