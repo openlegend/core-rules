@@ -490,7 +490,7 @@ After you have described your item's special properties, you should assign a wea
 >
 > * * * * *
 >
-> **Shining Shield**: Once per round, when the wielder of this shield is subject to a melee attack, they may make a free action to inflict the *blinded* bane on the attacker. The item makes the following attack: Blinded 5 versus Guard. \
+> **Shining Shield**: Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard. \
 > \
 > *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round. \
 > \
