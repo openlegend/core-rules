@@ -568,6 +568,7 @@
   - 8
   - 9
   attackAttributes:
+  - Agility
   - Creation
   - Deception
   - Energy
@@ -576,6 +577,7 @@
   - Persuasion
   - Presence
   attack:
+  - Agility vs. Resolve
   - Creation vs. Resolve
   - Deception vs. Resolve
   - Energy vs. Resolve
@@ -588,7 +590,7 @@
   description: |
     Through a display of awe-inspiring force, intimidation, or leadership, you command attention as the greatest threat, causing others to fear attacking your allies.
   effect: |
-    Any attacks made by the target that do not include you as a target suffer disadvantage. If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is equal or greater to their Resolve defense (that is, by striking one foe, you can provoke another).
+    Any attacks made by the target that do not include you as a target suffer disadvantage. If the same target is affected by this bane from multiple sources, as long as their attack includes one of those who targeted them, they are not affected by the penalty. Unlike other banes, your damaging attack against one target can trigger this bane in a different target, provided your roll is greater than or equal to their Resolve defense (that is, by striking one foe, you can provoke another).
     <ul>
     <li><strong>Power Level 4</strong> - The target suffers disadvantage 1 on attacks that do not include you.</li>
     <li><strong>Power Level 5</strong> - The target suffers disadvantage 2 on attacks that do not include you.</li>
