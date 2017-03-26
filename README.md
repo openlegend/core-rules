@@ -12,6 +12,10 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 03 / 26
+-   `Provoked` bane can now be invoked via Agility
+-   Damaging attacks now deal a minimum of 3 damage. This prevents the un-intuitive phenomenon of having an "exact hit" (roll total equals target's defense) being "success with a twist", which is in part failure, but you hit the target CR so, failing feels wrong.
+
 #### 2017 / 03 / 21
 -   `Attack Redirection` clarify that you can't redirect the attack to the attacker or yourself
 
