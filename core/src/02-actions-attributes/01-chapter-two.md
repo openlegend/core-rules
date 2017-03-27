@@ -187,7 +187,7 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
 
 > #### Example of Advantage with Exploding Dice
-> 
+>
 > Tommy "Two Guns" unloads his pistols on an enemy gangster. His Agility is 3 and he has advantage 2 on the roll, so he rolls 1d20 + 3d8. Tommy's d20 rolls a 10 and the d8s land 8, 8, and 3. Because of his advantage 2, Tommy ignores the lowest two dice: the 3 and one of the 8s. He re-rolls the remaining 8 because dice explode on their maximum result and gets a 5. His final roll is 23 (10 + 8 + 5).
 
 ### Advantage and Disadvantage without Attribute Dice
