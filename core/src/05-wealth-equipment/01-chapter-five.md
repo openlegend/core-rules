@@ -87,7 +87,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, if neither has the *defensive* property, you gain advantage 1 to all melee attacks. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
