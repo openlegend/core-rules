@@ -118,7 +118,7 @@
   - Persuasion vs. Resolve
   - Presence vs. Resolve
   invocationTime: 1 Major Action
-  duration: Resist (minor) ends (Fail x 3 = 1 minute)
+  duration: Resist ends (Fail x 3 = 1 minute)
   description: |
     Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves.
   effect: |
@@ -128,8 +128,6 @@
     <li><strong>Power Level 6</strong> - Disadvantage 2</li>
     <li><strong>Power Level 8</strong> - Disadvantage 3</li>
     </ul>
-  special: |
-    Resisting this bane is a minor action.
 - !
   name: Disarmed
   tags:
