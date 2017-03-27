@@ -519,9 +519,9 @@
     <li><strong>Power Level 3</strong> - Affect Sight</li>
     <li><strong>Power Level 5</strong> - Manifest a 15' x 15' x 15' area phantasm</li>
     <li><strong>Power Level 6</strong> - Affect All Senses</li>
-    <li><strong>Power Level 7</strong> - Manifest a 15' x 15' x 15' area phantasm</li>
-    <li><strong>Power Level 8</strong> - Manifest a 20' x 20' x 20' area phantasm</li>
-    <li><strong>Power Level 9</strong> - Manifest a 40' x 40' x 40' area phantasm</li>
+    <li><strong>Power Level 7</strong> - Manifest a 20' x 20' x 20' area phantasm</li>
+    <li><strong>Power Level 8</strong> - Manifest a 30' x 30' x 30' area phantasm</li>
+    <li><strong>Power Level 9</strong> - Manifest a 50' x 50' x 50' area phantasm</li>
     </ul>
     Until reaching power level 6, you can combine sensory illusions by adding the required power levels together (e.g., mimicking both sight and sound requires power level 5). While the phantasm persists, you can make logical changes to it freely. For example, an illusory person can speak naturally as you direct it and could be made to fall in response to an attack. However, substantial changes to the illusion (such as transforming a human into a goblin) require a new invocation of the illusion.
   special: |
