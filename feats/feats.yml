@@ -1557,7 +1557,7 @@
   effect: |
     You can enter a battle trance (as per the Battle Trance feat) as a free action even when it is not your turn. You may choose to do so in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to enter a battle trance after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your battle trance take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
 - !
-  name: Reckless Frenzy
+  name: Reckless Attack
   prerequisites:
     tier1:
       Feat:
@@ -1567,9 +1567,9 @@
   cost:
   - 3
   description: |
-    By willingly punishing your own body, you can enter a frenzy that allows you to launch a relentless onslaught of attacks.
+    By willingly punishing your own body in the heat of battle, you launch a relentless flurrly of attacks that physically drains you.
   effect: |
-    While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an additional attack as a minor action. Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must be able to remain conscious after the damage is dealt in order to benefit from your extra attack.
+    While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an attack as a minor action. Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must be able to remain conscious after the damage is dealt in order to benefit from your extra attack.
 - !
   name: Resilient
   prerequisites:

@@ -13,6 +13,8 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 03 / 26
+-   `Reckless Frenzy` name changed to `Reckless Attack` and clarified that it only allows a single extra attack per round.
+-   `Phantasm` bane area sizes cleaned up. Previously power level 7 area size was the same as power levels 1 - 6.
 -   `Provoked` bane can now be invoked via Agility
 -   Damaging attacks now deal a minimum of 3 damage. This prevents the un-intuitive phenomenon of having an "exact hit" (roll total equals target's defense) being "success with a twist", which is in part failure, but you hit the target CR so, failing feels wrong.
 

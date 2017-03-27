@@ -227,9 +227,10 @@ The Armor table summarizes the following properties of each type of armor:
 \
 \
 
+
 ### Getting in and out of Your Armor
 
-Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night's rest.
+Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all non-attack rolls until they get a proper night's rest.
 
 ## Building Your Own Weapons
 
