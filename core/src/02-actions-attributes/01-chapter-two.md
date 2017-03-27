@@ -6,7 +6,7 @@ The Introduction and Chapter 1 provided you with the core mechanic for action re
 
 Open Legend is about creating great stories full of epic moments of heroism, and you will roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to roll a Persuasion check every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
 
-Open Legend includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
+Open Legend includes a number of extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but extraordinary attributes require a minimum score of 1 in order to attempt a roll.
 
 ## Every Roll Matters
 
@@ -68,7 +68,7 @@ The previous scenario involving Pelias provides just one method in which a GM mi
 
 A successful action roll is by far the easiest to interpret: it means that the player gets what they were hoping for. If they were rolling to climb a cliff, then they climb it. If they were trying to pick a pocket, then it's picked. If they were trying to stab an orc, it is stabbed. And so on.
 
-In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 6). Often, though, the GM will need to determine what happens with a successful action roll.
+In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 7). Often, though, the GM will need to determine what happens with a successful action roll.
 
 There are two primary factors to consider when adjudicating a success:
 
@@ -190,9 +190,9 @@ Advantage and Disadvantage only apply to your initial pool of dice for an action
 > 
 > Tommy "Two Guns" unloads his pistols on an enemy gangster. His Agility is 3 and he has advantage 2 on the roll, so he rolls 1d20 + 3d8. Tommy's d20 rolls a 10 and the d8s land 8, 8, and 3. Because of his advantage 2, Tommy ignores the lowest two dice: the 3 and one of the 8s. He re-rolls the remaining 8 because dice explode on their maximum result and gets a 5. His final roll is 23 (10 + 8 + 5).
 
-### Advantage and Disadvantage Without Attribute Dice
+### Advantage and Disadvantage without Attribute Dice
 
-When making an action roll without addribute dice, advantage and disadvantage affect the d20. For advantage, roll 2d20 and keep the highest. For disadvantage, roll 2d20 and keep the lowest. Additionally, you cannot accrue advantage or disadvantage greater than 1 in such situations. Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances.
+When making an action roll without attribute dice, advantage and disadvantage affect the d20. For advantage, roll 2d20 and keep the highest. For disadvantage, roll 2d20 and keep the lowest. Additionally, you cannot accrue advantage or disadvantage greater than 1 in such situations. Your character is already so inept at the action that they cannot capitalize on cumulative circumstantial help or hindrances.
 
 These rules apply to both actions performed with an attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus, you cannot multi-target attack if you have an attribute score of zero.
 
@@ -229,7 +229,11 @@ The GM may also feel free to establish other rules for awarding legend points. F
 
 ### Spending Legend Points
 
-Before making an action roll, a PC may spend a maximum number of legend points equal to their level plus one. For each legend point spent, they gain advantage 1 on the action roll.
+A PC may spend a maximum number of legend points equal to their level plus one in order to enhance a single action roll.
+
+Before making an action roll, the PC declares how many legend points they are spending, and gains advantage 1 on the roll for each legend point spent.
+
+Alternatively, a PC may choose to spend legend points after they make an action roll and are dissatisfied with the result. Each legend point spent applies a retroactive advantage 1 to the roll, allowing the player to roll additional attribute dice and recalculate the roll completely as if it was made with the new advantage total.
 
 ## Attributes and Action Rolls in Play
 
@@ -315,7 +319,7 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 While traversing the deep reaches of space, Spaz was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
 
-**Success with a twist:** Spaz's immune system is too compromised, and the disease persists. However, while Spaz was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare subthermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
+**Success with a twist:** Spaz's immune system is too compromised, and the disease persists. However, while Spaz was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
 **Failure, but the story progresses:** Spaz cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Spaz will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: *Chronos Plague*.
 
@@ -345,7 +349,7 @@ While traversing the jungle planet Thox, Selena encounters a race of alien squid
 
 **Success with a twist:** Selena can understand the squid language well enough to gather a general impression of what they are trying to communicate, though complex ideas are impossible to transmit.
 
-**Failure, but the story progresses:** In her attempt to learn the language, Selena mimicks several of the gurgles and hisses of the squid men. They take her mimicry as an insult, and they are on the verge of taking her prisoner if she cannot find a way to make peace.
+**Failure, but the story progresses:** In her attempt to learn the language, Selena mimics several of the gurgles and hisses of the squid men. They take her mimicry as an insult, and they are on the verge of taking her prisoner if she cannot find a way to make peace.
 
 #### Epic Test of Learning (CR 25)
 
@@ -385,7 +389,7 @@ Azure and party are attempting to negotiate with the Dragon Council in order to 
 
 ### Perception
 
-Perception governs your ability notice important details in people, places, and things. You roll Perception when you are trying to find a secret passage, follow a trail, sense ulterior motives, or spot a hidden foe. For Perception rolls especially, it's important to remember that *every roll matters*. The GM should only ask for a Perception roll when there is actually something to be perceived. Furthermore, the GM should ask for the roll only at the moment when the outcome matters. So, if a rogue enters a dungeon and declares that he will be searching for traps in every room, the player should not actually roll until he might actually discover a trap. That way, the outcome of the roll will actually matter and the game won't be slowed down by unneccessary dice rolling.
+Perception governs your ability notice important details in people, places, and things. You roll Perception when you are trying to find a secret passage, follow a trail, sense ulterior motives, or spot a hidden foe. For Perception rolls especially, it's important to remember that *every roll matters*. The GM should only ask for a Perception roll when there is actually something to be perceived. Furthermore, the GM should ask for the roll only at the moment when the outcome matters. So, if a rogue enters a dungeon and declares that he will be searching for traps in every room, the player should not actually roll until he might actually discover a trap. That way, the outcome of the roll will actually matter and the game won't be slowed down by unnecessary dice rolling.
 
 #### Challenging Test of Perception (DC 15)
 
@@ -421,13 +425,13 @@ Setting Sun and his companions are lost in the desert. They've been without food
 
 **Success with a twist:** The monk's meditation works to an extent. He is only able to stave off his hunger, but not his thirst, so he suffers one level of the *fatigued* bane.
 
-**Failure, but the story progresses:** Setting Sun's training was good, but the calm of the monastery is hard to recall amidst his current struggles. OVercome with hunger and thirst, the monk suffers 2 levels of the *fatigued* bane.
+**Failure, but the story progresses:** Setting Sun's training was good, but the calm of the monastery is hard to recall amidst his current struggles. Overcome with hunger and thirst, the monk suffers 2 levels of the *fatigued* bane.
 
 #### Heroic Test of Will (CR 20)
 
 Deep in the lower chambers of Overhill Asylum, the investigators discover an ancient and alien evil whose very existence in the physical dimension seems an impossibility. Unable to reconcile their understanding of the laws of nature with the creature's writhing form and material instability, the PCs begin to lose touch with reality. The GM calls for each investigator to make a Will roll.
 
-**Success with a twist:** The PCs are overcome with an uncontrollable but temporary horror. While they remain in the Asylum, they suffer a special form of the *demoralized* bane (Power Level 3). It can not be resisted until they leave the Asylum.
+**Success with a twist:** The PCs are overcome with an uncontrollable but temporary horror. While they remain in the Asylum, they suffer a special form of the *demoralized* bane (Power Level 3). It cannot be resisted until they leave the Asylum.
 
 **Failure, but the story progresses:** In addition to suffering the *demoralized* bane, the PCs gain the *psychotic* flaw until they find some means of re-orienting their understanding of the universe and its laws.
 

@@ -1,12 +1,12 @@
 
-# Chapter 4: Wealth & Equipment #
+# Chapter 5: Wealth & Equipment #
 
 No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you'll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you claim space pirate bounties and dip your hands in the coffers of kings.
 
 ## Wealth
 Rather than tracking every gold piece, credit, or fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
 
-Every character has a Wealth Score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each Wealth Score.
+Every character has a wealth score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each wealth score.
 
 <div class="table-no-body"></div>
 | Wealth Overview |
@@ -18,7 +18,7 @@ Every character has a Wealth Score, which begins at 2 and can range from 0 to 9,
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
 | 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
-| 3 | master artisan, village mayor | armored trenchcoat, silver bullets, a small boat, a fine horse, a nice car |
+| 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
 | 6 | 7th level hero, Federation Chancellor | a large warship, a groundbreaking prototype, the workforce of a medium-sized business  |
@@ -27,36 +27,36 @@ Every character has a Wealth Score, which begins at 2 and can range from 0 to 9,
 | 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 ### Acquiring Goods and Services
-Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines if you are able. Every good or service is assigned a Wealth Level (either in the rules or by the GM). This level is compared with your Wealth Score in order to determine the cost of acquiring the item, as follows:
+Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines if you are able. Every good or service is assigned a wealth level (either in the rules or by the GM). This level is compared with your wealth score in order to determine the cost of acquiring the item, as follows:
 
-If the good you want to purchase has a level **lower than** your Wealth Score, you can acquire the item easily without taxing your time and resources.
+If the good you want to purchase has a level **lower than** your wealth score, you can acquire the item easily without taxing your time and resources.
 
-If the item's level is **equal to** your Wealth Score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
+If the item's level is **equal to** your wealth score, you can acquire it, but the expense taxes your resources such that you cannot acquire new goods at that level or higher for two weeks.
 
-If the object of your purchase is **one level higher than** your Wealth Score and your Wealth Score is above 0, you can acquire it, but the cost is so great that your Wealth Score is reduced by 1.
+If the object of your purchase is **one level higher than** your wealth score and your wealth score is above 0, you can acquire it, but the cost is so great that your wealth score is reduced by 1.
 
-You cannot make purchases that are more than one level higher than your Wealth Score.
+You cannot make purchases that are more than one level higher than your wealth score.
 
 > #### Examples of Acquiring Goods and Services
 >
-> Thanks to a recently successful salvage run, Shara's Wealth Score just increased to 4. She's had her eyes set on a new cargo ship for a while now, which the GM has set at Wealth Level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a Wealth Score of 3.
+> Thanks to a recently successful salvage run, Shara's wealth score just increased to 4. She's had her eyes set on a new cargo ship for a while now, which the GM has set at wealth level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a wealth score of 3.
 >
 > * * * * *
 >
-> Slade, master of the local thieves' guild, has a Wealth Score of 5. He wants to outfit all of his men with new weapons, which the GM has decided equates to Wealth Level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his Wealth Score.
+> Slade, master of the local thieves' guild, has a wealth score of 5. He wants to outfit all of his men with new weapons, which the GM has decided equates to wealth level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his wealth score.
 >
 > * * * * *
 >
-> Crazy Mac has panhandled his way up to a Wealth Score of 1. From now on, he can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
+> Crazy Mac has panhandled his way up to a wealth score of 1. From now on, he can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
 
 #### The Rule of Common Sense
-Your Wealth Score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
+Your wealth score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
 ### Gaining Wealth
 
-As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character's wealth increases, and the Wealth Overview table provides a few milestones of typical character Wealth Scores at different levels.
+As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character's wealth increases, and the Wealth Overview table provides a few milestones of typical character wealth scores at different levels.
 
-Typical situations of when the GM would grant you an increase in your Wealth Score include acquiring a large hoard from a monster's lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
+Typical situations of when the GM would grant you an increase in your wealth score include acquiring a large hoard from a monster's lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
 
 ## Carrying Capacity
 
@@ -87,7 +87,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
 
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attackse. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
+    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, you gain advantage 1 to all melee attacks. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
@@ -108,7 +108,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 
 <div class="table-no-body"></div>
@@ -128,16 +128,16 @@ The Weapons & Implements table provides information about a wide variety of gear
 | Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 1 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 1 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
-| Short Spear | Two-handed Melee, Close Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
+| Short Spear | Versatile Melee, Short Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
 | Sledge Hammer, Maul, Great Axe | Two-handed Melee | 1 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
-| Long Spear | Two-handed Melee, Short Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
+| Long Spear | Two-handed Melee, Close Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
 | Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
 | Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Flamethrower | Two-handed Melee | 3 | Precise, Slow, Area (5' / 10' cone) | Fear, Persistent Damage |
-| Laser Gun, Revolver, Handgun | Medium Ranged | 1 | Precise | Persistent Damage, Slowed |
+| Laser Gun, Revolver, Handgun | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Expendable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
 | Light Crossbow | Medium Ranged | 1 | Precise | Persistent Damage, Immobile |
-| Sawed-off Shotgun | Medium Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
+| Sawed-off Shotgun | Short Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
 | Shortbow, Pump Shotgun | Medium Ranged | 1 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (10' cube) | Persistent Damage, Provoked, Demoralized |
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 1 | Precise | Persistent Damage, Slowed |
@@ -219,7 +219,7 @@ The Armor table summarizes the following properties of each type of armor:
 | Examples | Type | Wealth Level | Required Fortitude | Defense Bonus | Speed Penalty |
 | :----- | :-: | :-: | :-: | :-: | :-: |
 | Leather Armor, Steelsilk, Padded Armor | Light | 1 | 0 | 1 | 0 |
-| Armored Trenchcoat, Electropolymer Armor | Medium | 3 | 2 | 2 | 0 |
+| Armored Trench Coat, Electropolymer Armor | Medium | 3 | 2 | 2 | 0 |
 | Chainmail, Kevlar Vest, Breastplate | Medium | 2 | 3 | 2 | 0 |
 | Yoroi Armor, Plate Mail, Riot Suit | Heavy | 2 | 3 | 3 | 5' |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
@@ -227,13 +227,14 @@ The Armor table summarizes the following properties of each type of armor:
 \
 \
 
+
 ### Getting in and out of Your Armor
 
-Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all action rolls until they get a proper night's rest.
+Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all non-attack rolls until they get a proper night's rest.
 
 ## Building Your Own Weapons
 
-Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default Wealth Level of 1, and may be increased or decreased at various stages of this process.
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
@@ -243,11 +244,11 @@ Typically a weapon belongs to one category, however some weapons, such as a dagg
 
 Every weapon must have either the *Forceful* or *Precise* property and some weapons have both. Choose one or both.
 
-Next, choose any additional properties that the weapon possesses. Properties adjust the Wealth Level according to the following table.
+Next, choose any additional properties that the weapon possesses. Properties adjust the wealth level according to the following table.
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 6: Combat) |
+| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 7: Combat) |
 | Defensive | Equal to the *defensive* value |
 | Delayed Ready | -1 |
 | Expendable | -1 |
@@ -259,27 +260,27 @@ Next, choose any additional properties that the weapon possesses. Properties adj
 
 ### Step 3: Choose Banes
 
-Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact Wealth Level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
+Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact wealth level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
 
 ### Step 4: Calculate Wealth Level
 
-All weapons (with the exception of unarmed strike), begin with a base Wealth Level of 1. From there, calculate the Wealth Level of the weapon based on the decisions from your choices in Step 2 and Step 3.
+All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
-> 
+>
 > Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
-> 
+>
 > **Step 1 (Choose a Category)**
-> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the **One-handed Melee** and **Close Ranged** properties.
-> 
+> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the *one-handed melee* and *close ranged* categories.
+>
 > **Step 2 (Choose Properties)**
-> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
-> 
+> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the *defensive 1* property, and also the *reach* property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the *slow* property.
+>
 > **Step 3 (Choose Banes)**
-> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, and **Provoked**.
+> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: *forced move*, *immobile*, *knockdown*, and *provoked*.
 >
 > **Step 4 (Calculate Wealth Level)**
-> The total Wealth Level modifier of the properties chosen in step 2 is +1. Added to the base Wealth Level of 1, we arrive at a final Wealth Level of 2 for our kusari-gama.
+> The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.
 
 
 
