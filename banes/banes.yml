@@ -118,7 +118,7 @@
   - Persuasion vs. Resolve
   - Presence vs. Resolve
   invocationTime: 1 Major Action
-  duration: Resist ends (Fail x 3 = 1 minute)
+  duration: Resist (minor) ends (Fail x 3 = 1 minute)
   description: |
     Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves.
   effect: |
