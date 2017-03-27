@@ -104,7 +104,7 @@ A damaging attack is one in which you are strictly aiming to reduce your foe’s
 
 1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or extraordinary attack.
 
-1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense.
+1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
 
 These steps are explained in more detail below.
 
@@ -182,7 +182,7 @@ You must choose a target within range of the type of attack you are making:
 
 ##### Roll Your Attack
 
-Make an action roll using the attribute determined in step 1. You deal damage equal to your action roll minus the target's defense, ignoring negative results. This damage is subtracted from the target's hit points. If your attack roll exactly equals the target's defense, the attack should be interpreted as a *success with a twist* (differing slightly from the usual core mechanic).
+Make an action roll using the attribute determined in step 1. You deal damage equal to your action roll minus the target's defense, ignoring negative results. This damage is subtracted from the target's hit points. If you meet or exceed the target's defense, **you deal a minimum of three damage**.
 
 ###### Exceptional Success
 

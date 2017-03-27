@@ -389,15 +389,15 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat).
 
-    - **Tier 1** - Advantage 1, Up to 5 lethal damage
-    - **Tier 2** - Advantage 2, Up to 5 lethal damage
-    - **Tier 3** - Advantage 3, Up to 10 lethal damage
-    - **Tier 4** - Advantage 4, Up to 10 lethal damage
-    - **Tier 5** - Advantage 5, Up to 15 lethal damage
-    - **Tier 6** - Advantage 6, Up to 20 lethal damage
-    - **Tier 7** - Advantage 7, Up to 20 lethal damage
-    - **Tier 8** - Advantage 8, Up to 25 lethal damage
-    - **Tier 9** - Advantage 9, Up to 25 lethal damage
+   - **Tier 1** - Advantage 1, Up to 5 lethal damage
+   - **Tier 2** - Advantage 2, Up to 5 lethal damage
+   - **Tier 3** - Advantage 3, Up to 10 lethal damage
+   - **Tier 4** - Advantage 4, Up to 10 lethal damage
+   - **Tier 5** - Advantage 5, Up to 15 lethal damage
+   - **Tier 6** - Advantage 6, Up to 20 lethal damage
+   - **Tier 7** - Advantage 7, Up to 20 lethal damage
+   - **Tier 8** - Advantage 8, Up to 25 lethal damage
+   - **Tier 9** - Advantage 9, Up to 25 lethal damage
 
 - **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 

@@ -12,6 +12,10 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 03 / 26
+-   `Provoked` bane can now be invoked via Agility
+-   Damaging attacks now deal a minimum of 3 damage. This prevents the un-intuitive phenomenon of having an "exact hit" (roll total equals target's defense) being "success with a twist", which is in part failure, but you hit the target CR so, failing feels wrong.
+
 #### 2017 / 03 / 21
 -   `Attack Redirection` clarify that you can't redirect the attack to the attacker or yourself
 
@@ -34,7 +38,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
    -   7: Combat
    -   8: Running the Game
    -   9: Special Equipment
--   `Sentinel` (new feat added) - grants an additinal action that can be used only for defend actions once per turn
+-   `Sentinel` (new feat added) - grants an additional action that can be used only for defend actions once per turn
 -   Clarify that `defend` action can only grant bonus movement once per round
 -   `Battlefield Sentinel` renamed to `Battlefield Opportunist`, `Battelfield Defender / Reflxes` feat prerequisite dropped, attribute score prerequisite dropped from 5 to 4
 -   `Battlefield Defender` renamed to `Battlefield Reflexes` now allowed with `Any Extraordinary` attribute, pending GM approval
