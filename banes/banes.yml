@@ -128,8 +128,6 @@
     <li><strong>Power Level 6</strong> - Disadvantage 2</li>
     <li><strong>Power Level 8</strong> - Disadvantage 3</li>
     </ul>
-  special: |
-    Resisting this bane is a minor action.
 - !
   name: Disarmed
   tags:
