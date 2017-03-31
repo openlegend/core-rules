@@ -395,7 +395,7 @@ Instead of purchasing equipment a la carte, you may also elect to choose one of 
 
 Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 4: Perks & Flaws.
 
-At character creatcion, you may optionally choose up to two perks and up to two flaws. You do not have to choose any.
+At character creation, you may optionally choose up to two perks and up to two flaws. You do not have to choose any.
 
 ## Step 7: Tell Your Story
 
