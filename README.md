@@ -18,6 +18,9 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   Multi-genre perk & flaw friendliness fixes -- `Outlaw` perk becomes `Fugitive`, `Noble` perk becomes `Upper Class`.
 -   `Marksman` feat renamed to `Longshot` and modified to include Extraordinary attacks as well.
 
+#### 2017 / 03 / 31
+-   Removed option to use Legend Points after a given roll
+
 #### 2017 / 03 / 26
 -   `Reckless Frenzy` name changed to `Reckless Attack` and clarified that it only allows a single extra attack per round.
 -   `Phantasm` bane area sizes cleaned up. Previously power level 7 area size was the same as power levels 1 - 6.
