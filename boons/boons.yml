@@ -597,7 +597,6 @@
   special: |
     Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.
     Multi-targeting for this boon does not work as it does for other boons. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Any effect that modifies multi-targeting penalties will work as normal in offsetting this disadvantage.
-
 - !
   name: Telekinesis
   tags:
@@ -713,16 +712,18 @@
   power:
   - 5
   - 7
+  - 8
   - 9
   attribute:
   - Prescience
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You grant yourself or an ally the ability to extraordinarily perceive things through impediments that would block or deceive normal sight, including darkness, illusions, and even the barrier between alternate planes of reality.
+    You grant yourself or an ally the ability to extraordinarily perceive things through impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality.
   effect: |
     <ul>
-    <li><strong>Power Level 5</strong> - The target can see normally in natural or magical darkness. The target is immune to the blinded bane and they are able to see normally even in conditions of little or no light</li>
-    <li><strong>Power Level 7</strong> - The extraordinary sight pierces through all illusory effects, allowing the target to see the illusion for what it is.</li>
-    <li><strong>Power Level 9</strong> - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on.</li>
+    <li><strong>Power Level 5</strong> - The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.</li>
+    <li><strong>Power Level 7</strong> - The target's extraordinary sight pierces through all illusory effects, allowing them to see an illusion for what it is.</li>
+    <li><strong>Power Level 8</strong> - The target can see through solid objects and their natural visual range is unhindered by them.</li>
+    <li><strong>Power Level 9</strong> - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on. In addition, the target's visual range becomes supercharged </li>
     </ul>
