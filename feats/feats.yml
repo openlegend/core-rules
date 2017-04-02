@@ -1290,22 +1290,6 @@
   effect: |
     For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
 - !
-  name: Marksman
-  prerequisites:
-    tier1:
-      Attribute:
-      - Agility: 5
-  tags:
-  - Combat
-  cost:
-  - 1
-  description: |
-    You are an expert at using a specific ranged weapon, making your attacks deadlier at longer ranges.
-  effect: |
-    Choose a ranged weapon. In your hands, the weapon's range is increased to the next greater range increment. Close Ranged becomes Short, Short becomes Medium, Medium becomes Long, and Long becomes Extreme.
-  special: |
-    You may take this feat multiple times. If you do, select a new weapon each time.
-- !
   name: Martial Focus
   prerequisites:
     tier1:
@@ -1621,6 +1605,27 @@
   effect: |
     Once per round, after you have expended your next major action to perform a defend action, you get an additional major action that must be spent before the start of your next turn to make another defend action. Multiple tiers of this feat grant additional major actions usable only for defend actions.
 - !
+  name: Longshot
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Agility: 5
+        - Any Extraordinary: 5
+    tier2:
+  tags:
+  - Combat
+  cost:
+  - 1
+  description: |
+    You are an expert at long-range attacks, able to hit targets at extreme distances. You are master one particular ranged weapon or type of extraordinary power.
+  effect: |
+    When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
+    If you choose a weapon, the weapon's range is increased to the next greater range increment. Close Ranged becomes Short, Short becomes Medium, Medium becomes Long, Long becomes Extreme, and Extreme becomes 500'.
+    If you chose an attack type, your attack range for that attribute is doubled.
+  special: |
+    You may take this feat multiple times. If you do, select a new weapon or attribute each time.
+- !
   name: Silencing Strike
   prerequisites:
     tier1:
@@ -1660,7 +1665,7 @@
   description: |
     You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similarly exceptional non-combat talent.
   effect: |
-    Choose one attribute. Any time you make non-attack, non-invocation roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
+    Choose one attribute. Any time you make a non-attack, non-invocation roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
   special: |
     In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new attribute each time. Track your feat tier separately for each attribute that you choose for this feat.
 - !
