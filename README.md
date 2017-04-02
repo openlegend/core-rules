@@ -13,6 +13,8 @@ The game rules content of this repository are released under a special open-sour
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
 #### 2017 / 04 / 01
+-   Added optional rule for `Boss Finale`, allowing a boss to take immediate triggered actions when reduced to 0 HP.
+-   Multi-genre perk & flaw friendliness fixes -- `Outlaw` perk becomes `Fugitive`, `Noble` perk becomes `Upper Class`.
 -   `Marksman` feat renamed to `Longshot` and modified to include Extraordinary attacks as well.
 
 #### 2017 / 03 / 26
