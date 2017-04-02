@@ -461,7 +461,7 @@ A boss is a force to be reckoned with, and as such, it is more powerful in a num
 
 > ##### Optional Rule: Boss Finale
 > \
-> Some GMs may find the potential of killing a boss with one very high attack roll (perhaps even before it attacks) to be counter to their storytelling goals and undermine the boss's intended gravitas. To prevent bosses from dying unceremonious deaths, a GM may institute the following optional rule for of Boss Finale.
+> Some GMs may find the potential of killing a boss with one very high attack roll (perhaps even before it attacks) to be counter to their storytelling goals and undermine the boss's intended gravitas. To prevent bosses from dying unceremonious deaths, a GM may institute the following optional Boss Finale rule.
 > \
 > *When a boss is reduced to zero hit points it immediately receives a number of boss actions equal to it's Boss Edge score plus one. During these boss actions, other characters cannot take interrupt actions. If it was another character's turn and their turn was unfinished, their turn is interrupted by the boss actions and then resumed when they are complete.*
 
