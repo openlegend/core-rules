@@ -63,7 +63,7 @@ You are well-versed in the art of living with less. Whether a cloistered monk, a
 
 ### Attractive
 
-When it comes to physicla appearance, you're an absolute knockout. This plays to your favor more than just romantically, and your good looks tend to help you out in all sorts of social situations. Whenever your attractiveness would play a role in a situation, you gain advantage 1 to any relevant action rolls.
+When it comes to physical appearance, you're an absolute knockout. This plays to your favor more than just romantically, and your good looks tend to help you out in all sorts of social situations. Whenever your attractiveness would play a role in a situation, you gain advantage 1 to any relevant action rolls.
 
 ### Brute
 
