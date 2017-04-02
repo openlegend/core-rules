@@ -476,7 +476,9 @@ After you have described your item's special properties, you should assign a wea
 
 > ### Example Items with Special Properties
 > \
-> **Hydraulic Propulsion Implants**: You always count as having a running start for your jumps, and your distance covered when jumping is doubled. \
+> **Hydraulic Propulsion Implants** \
+> \
+> You always count as having a running start for your jumps, and your distance covered when jumping is doubled. \
 > \
 > *Is it common?* No. Jumping will be useful in many combats, but only if the terrain and situation fits. Jumping might be useful in non-combat situations, but probably not that often. \
 > \
@@ -490,7 +492,9 @@ After you have described your item's special properties, you should assign a wea
 >
 > * * * * *
 >
-> **Shining Shield**: Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard. \
+> **Shining Shield** \
+> \
+> Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard. \
 > \
 > *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round. \
 > \
@@ -500,11 +504,13 @@ After you have described your item's special properties, you should assign a wea
 > \
 > *Is it limiting?* No. While the Shining Shield is only useful when the wielder is targeted in melee, that situation is pretty common. \
 > \
-> **Final WL Modifier**: +4 \
+> **Final WL Modifier**: +4
 >
 > * * * * *
 >
-> **Assassin's Rifle**: This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
+> **Assassin's Rifle** \
+> \
+> This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
 > \
 > *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
 > \
@@ -514,11 +520,13 @@ After you have described your item's special properties, you should assign a wea
 > \
 > *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
 > \
-> **Final WL Modifier**: +6 \
+> **Final WL Modifier**: +6
 >
 > * * * * *
 >
-> **Helm of Goblin Bane**: At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
+> **Helm of Goblin Bane** \
+> \
+>  At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
 > \
 > *Is it common?* No. Unless the campaign takes place in a world overrun with goblins, a character will likely go entire sessions without being able to use this helm. \
 > \

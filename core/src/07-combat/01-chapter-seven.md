@@ -81,20 +81,13 @@ When your turn in the initiative order comes, you are allowed one major action, 
 Major actions are what you take to get big things done in combat. Your major action can be taken to do one of the following:
 
 -   Make a damaging attack
-
 -   Make a bane attack
-
 -   Invoke a boon
-
 -   Assist an Ally
-
 -   Take an extra move action
 
 
 Each of these actions is explained below.
-
-> #### Combat on a Grid
-> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
 
 #### Make a Damaging Attack
 
@@ -107,6 +100,21 @@ A damaging attack is one in which you are strictly aiming to reduce your foe’s
 1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
 
 These steps are explained in more detail below.
+
+<br><br>
+
+<div class="table-no-body"></div>
+| Damaging Attacks |
+| - |
+| |
+<div class="table-no-head"></div>
+| |
+| - |
+| **Attack Roll Total** - **Target Defense** = **Damage Dealt** *(minimum of 3 on success)* |
+| *(**Exceptional Success** - trigger a bane if total is 10 or more over defense)* |
+
+<br><br>
+
 
 ##### Determine Attribute Versus Defense
 
@@ -187,6 +195,13 @@ Make an action roll using the attribute determined in step 1. You deal damage eq
 ###### Exceptional Success
 
 If your attack roll exceeds the target's defense by 10 or more, you may apply one bane of a power level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
+
+<br><br>
+
+> #### Combat on a Grid
+> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
+
+<br><br>
 
 ##### Multi-targeting
 
