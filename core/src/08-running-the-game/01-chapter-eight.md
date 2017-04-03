@@ -461,9 +461,9 @@ A boss is a force to be reckoned with, and as such, it is more powerful in a num
 
 > ##### Optional Rule: Boss Finale
 > \
-> Some GMs may find the potential of killing a boss with one very high attack roll (perhaps even before it attacks) to be counter to their storytelling goals and undermine the boss's intended gravitas. To prevent bosses from dying unceremonious deaths, a GM may institute the following optional Boss Finale rule.
+> Some GMs may find the potential of a boss being killed with one very high attack roll (perhaps even before it attacks) to be counter to their storytelling goals and undermining of the boss's intended gravitas. To prevent bosses from dying unceremonious deaths, a GM may institute the following optional Boss Finale rule.
 > \
-> *The first time in a combat when a boss is reduced to zero hit points it immediately receives a number of boss actions equal to it's Boss Edge score plus one. During these boss actions, other characters cannot take interrupt actions. If it was another character's turn and their turn was unfinished, their turn is interrupted by the boss actions and then resumed when they are complete.*
+> *The first time in a combat when a boss is reduced to zero hit points, it immediately receives a number of boss actions equal to its Boss Edge score plus one. During these boss actions, other characters cannot take interrupt actions. If it was another character's turn and their turn was unfinished, their turn is interrupted by the boss and then resumed when the boss actions are complete.*
 
 
 In addition to its normal allotment of actions, a boss also receives a number of special *boss actions* on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
