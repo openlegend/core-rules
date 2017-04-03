@@ -290,14 +290,16 @@
   - Entropy
   - Influence
   - Might
+  - Movement
   attack:
-  - Agility vs. Toughness
-  - Alteration vs. Toughness
+  - Agility vs. Guard
+  - Alteration vs. Guard
   - Creation vs. Toughness
   - Energy vs. Toughness
   - Entropy vs. Toughness
   - Influence vs. Resolve
-  - Might vs. Toughness
+  - Might vs. Guard
+  - Movement vs. Guard
   invocationTime: 1 Major Action
   duration: Resist ends (special) (Fail x 3 = 1 minute)
   description: |
@@ -344,10 +346,12 @@
   - Agility
   - Energy
   - Might
+  - Movement
   attack:
   - Agility vs. Guard
   - Energy vs. Guard
   - Might vs. Guard
+  - Movement vs. Guard
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |

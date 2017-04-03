@@ -10,7 +10,7 @@ Before we get into all of that good stuff, though, let's take a moment and explo
 
 **A good GM likes to tell a story.** If you spent hours as a child developing elaborate worlds in your backyard or writing tales of adventure, or even drawing epic scenes, then you're on the right track. Watching a story unfold based on your inspiration is perhaps one of the most enjoyable aspects of running a game.
 
-**A good GM doesn't railroad the players.** While it is important for you to be well prepared with your story (or skilled at improvisation), you also need to remember that the players should have a meaningful role in how the story unfolds. Players will feel like they are stuck on a railroad from which they can't escape, for example, if no matter what they do the princess still gets kidnapped, the planet destroyed, or the ancient artifact stolen.
+**A good GM doesn't railroad the players.** While it is important for you to be well prepared with your story (or skilled at improvisation), you also need to remember that the players should have a meaningful role in how the story unfolds. Players will feel like they are stuck on a railroad from which they can't escape, for example, if no matter what they do the child still gets kidnapped, the planet destroyed, or the ancient artifact stolen.
 
 **A good GM knows the rules.** As the game master, you may very well be the only one at the table who has read this rule book. That means you need to act as a teacher, director, and referee all at once. In particular, you should be prepared to know what each of the attributes can be used for, as well as the banes and boons that your players will be most likely to invoke.
 
@@ -463,7 +463,7 @@ A boss is a force to be reckoned with, and as such, it is more powerful in a num
 > \
 > Some GMs may find the potential of killing a boss with one very high attack roll (perhaps even before it attacks) to be counter to their storytelling goals and undermine the boss's intended gravitas. To prevent bosses from dying unceremonious deaths, a GM may institute the following optional Boss Finale rule.
 > \
-> *When a boss is reduced to zero hit points it immediately receives a number of boss actions equal to it's Boss Edge score plus one. During these boss actions, other characters cannot take interrupt actions. If it was another character's turn and their turn was unfinished, their turn is interrupted by the boss actions and then resumed when they are complete.*
+> *The first time in a combat when a boss is reduced to zero hit points it immediately receives a number of boss actions equal to it's Boss Edge score plus one. During these boss actions, other characters cannot take interrupt actions. If it was another character's turn and their turn was unfinished, their turn is interrupted by the boss actions and then resumed when they are complete.*
 
 
 In addition to its normal allotment of actions, a boss also receives a number of special *boss actions* on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
