@@ -285,7 +285,7 @@
   cost:
   - 3
   description: |
-    Not only are your battle reflexes uncanny, but you can devastate your opponents with a signature secondary effect.
+    Not only are your battle reflexes uncanny, but you can devastate your opponents with a signature secondary effect. Examples of this feat in action include a stalwart paladin who knocks foes prone, a ninja who blinds enemies, or a telekinetic psychic who hurls attacks away.
   effect: |
     Choose a bane you can inflict. Any time you use the defend action with an attribute that could inflict the chosen bane and deal 10 damage via the Battlefield Reflexes feat, you may choose to automatically afflict the attacker with the chosen bane.
 - !
@@ -306,7 +306,7 @@
   cost:
   - 2
   description: |
-    Your prowess on the battlefield allows you to not only intercept attacks but also decimate foes with your retaliatory strikes.
+    You are a master of the counter attack. This might take the form of deftly redirecting a strike back upon the attacker or simply capitalizing on holes in your foe's guard when they are in the midst of an attack. Your prowess on the battlefield allows you to not only intercept attacks but also decimate foes with your retaliatory strikes.
   effect: |
     When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
 - !
@@ -355,7 +355,7 @@
   cost:
   - 3
   description: |
-    You are specialized in the use a particular boon that is iconic to your character.
+    You are specialized in the use a particular boon that is iconic to your character. Examples of this feat in action include a druid who can shapechange at-will, a combat medic who can tend the wounds of many with expert skill, and a mad scientist who can animate mechanical minions effortlessly.
   effect: |
     Choose a single boon that you can invoke. You can benefits with that boon according to your tier in this feat.
     <ul>
@@ -383,7 +383,7 @@
   cost:
   - 2
   description: |
-    Your agility enables you to fall from deadly heights unharmed.
+    Your are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed.
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - As long as you are conscious and able to act, reduce all falling damage by half.</li>
@@ -400,7 +400,7 @@
   cost:
   - 1
   description: |
-    Your powers of persuasion stem from application of brute force rather than your social grace.
+    Your powers of persuasion stem from application of brute force rather than your social grace. When you smash a table, brandish your blade, or flex your muscles, people stop what they are doing and listen to you.
   effect: |
     If you're able to make a show of physical force, you can use your Might attribute in place of Persuasion for the action roll.
 - !
@@ -428,7 +428,7 @@
   cost:
   - 2
   description: |
-    You are able to decimate many enemies in quick succession, like a legendary Samurai warrior or matchless elven archer.
+    You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.
   effect: |
     Any time you make an attack that reduces a foe to zero hit points, you can immediately make an extra attack as a free action.
   special: |
@@ -499,7 +499,7 @@
   cost:
   - 2
   description: |
-    You have mastered a particular craft, and given proper time and materials, you can create items related to that craft.
+    You have mastered a particular craft, and given proper time and materials, you can create items related to that craft. You might be an expert blacksmith, professional engineer, master alchemist, or any similar manner of professional craftsman.
   effect: |
     Choose a specific craft or profession. You can create items that are relevant to your chosen craft, and your GM will determine the speed at which you craft based on the nature of the item and the materials you have access to. Your tier in the Craft Mundane Item feat determines the maximum wealth level of the items you can craft. Unlike acquiring items by using your wealth (described in Chapter 5), crafting does not limit your ability to acquire additional goods.
     <ul>
