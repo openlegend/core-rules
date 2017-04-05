@@ -745,7 +745,7 @@
   cost:
   - 2
   description: |
-    You are able to dodge and weave in combat, deftly sidestepping attacks that would threaten a clumsier combatant.
+    You are able to dodge and weave in combat, deftly sidestepping attacks that would threaten a clumsier combatant. An agile ninja who tumbles and flips around foes and an alien snake creature that slithers throughout the battlefield are both examples of this feat in play.
   effect: |
     When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 - !
@@ -775,7 +775,7 @@
   cost:
   - 3
   description: |
-    Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm.
+    Whether by a magical barrier of force, foresight into the future, or preternatural speed, you are gifted with extraordinary protection from harm. Attacks are less likely to strike you, and when they do, they aren't as damaging as they would be to others.
   effect: |
     You gain a +1 bonus to all defenses for each tier you have in this feat. This increases your Toughness, Guard, and Resolve defenses.
 - !
@@ -789,7 +789,7 @@
   cost:
   - 3
   description: |
-    Your extraordinary power stems from your connection with a particular focus, such as a wand, digital psi amplifier, holy symbol, or spellbook.
+    Your extraordinary power stems from your connection with a particular focus, such as a wand, digital psi amplifier, holy symbol, or spellbook. When this focus item is in your hands, you are a force to be reckoned with compared to others with similar powers.
   effect: |
     With the approval of your GM, choose a focus from which your power with a single extraordinary attribute stems. Some possibilities include a wand, a digital psi amplifier, a crystal ball, a spell book, a holy symbol, a weapon, your voice, or an animal familiar. You cannot use the selected extraordinary attribute without your focus. The focus heightens your power and for the purposes of determining your attribute dice for action rolls, you treat the chosen attribute as if it was one greater. For all purposes outside of attribute dice, your ability score remains unchanged (feats, banes, boons, etc.).
   special: |
@@ -807,7 +807,7 @@
   cost:
   - 3
   description: |
-    Your mastery of extraordinary healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
+    Whether you summon priestly magics, utilize advanced technologies, or apply alchemical concoctions, your mastery of extraordinary healing is such that you are able to cure mortal wounds that are beyond the power of the average healer.
   effect: |
     When invoking the <em>heal</em> boon, you can choose to take one hour instead of the usual invocation time. If you do, you heal an amount of lethal damage equal to the total healing from the successful boon invocation. This lethal damage is healed in addition to the normal hit point damage that your boon heals.
 - !
@@ -839,7 +839,7 @@
   cost:
   - 2
   description: |
-    Your tracking expertise is so great that you can move at a normal pace and still follow a trail.
+    Following a trail is an everyday part of your life, and as such it is no more taxing than breathing or blinking. Whether you are an experienced woodsman, a bounty hunter for the Galactic Senate, or a humanoid cat creature with heightened senses, your expertise at tracking allows you to get it done faster than the average hunter.
   effect: |
     You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred.
 - !
