@@ -572,7 +572,7 @@
   cost:
   - 3
   description: |
-    Your relentless blows not only knock your opponents back, but also knock them off their feet completely.
+    Like a wreckless ogre wading through combat, your relentless blows not only knock your opponents back, but also knock them off their feet completely.
   effect: |
     Any time that you deal damage to an enemy, in addition to pushing them 5 feet (if you choose) from the Overpowering Strike feat, you can also knock them down in the space where the forced move ends; the target suffers the effects of the <em>knockdown</em> bane.
 - !
@@ -594,7 +594,7 @@
   cost:
   - 3
   description: |
-    You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by assassins who can silently eliminate weaker enemies without being detected.
+    You are able to quickly finish off enemies that are near death and silence them before they cry out. This attack is one that is commonly seen used by rogues, assassins, and snipers who can silently eliminate weaker enemies without being detected.
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - If you damage an enemy with a Lethal Strike and their total HP is 5 or less after the attack, then you can choose to reduce them to zero HP instead. In addition, you can choose to silence any enemy reduced to zero hit points by an attack from you.</li>
@@ -613,7 +613,7 @@
   cost:
   - 3
   description: |
-    Your battle fury is legendary, allowing you to fight on long after your body should have given up.
+    Whether you are a berserker of the icy north, a hulking superhero of unstoppable might, or a cybernetically enhanced soldier, your battle fury is legendary. You possess the rare ability to fight on long after your body should have given up.
   effect: |
     While in a battle trance you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. Despite any amount of damage, you remain conscious for as long as you can sustain the battle trance. When the battle trance ends, if your hit points are below zero, you collapse unconscious. If you are not healed to zero or more hit points within 1 round of your battle trance ending, you die.
 - !
@@ -627,7 +627,7 @@
   cost:
   - 3
   description: |
-    You are specially trained in the use of defensive implements and can get more protective use out of them. Examples include a martial artist's defensive kata or a soldier with a riot shield.
+    You know how to turn a strong offense into an even stronger defense. Your special training or experience with defensive implements and shields allows you to capitalize on their defensive benefits far beyond the average wielder. Examples include a martial artist's defensive kata or a soldier equipped with a riot shield.
   effect: |
     When wielding a weapon or implement with the <em>defensive</em> property, you gain an additional +1 armor bonus. In addition, the <em>defensive</em> value of the item is increased by 1 when you wield it. So <em>defensive</em> 1 becomes <em>defensive</em> 2 and <em>defensive</em> 2 becomes <em>defensive</em> 3.
 - !
@@ -666,7 +666,7 @@
   cost:
   - 2
   description: |
-    You are a master of defense, able to predict exactly where your opponent will strike and thwart their attack.
+    You are a paragon of defensive fighting, able to masterfully thwart enemy attacks. By predicting your opponents' movements, strikes, or shots, you can cut them off before they are a threat.
   effect: |
     Any time you use the defend action, you gain advantage 1 on the action roll per tier you possess of this feat.
 - !
@@ -683,7 +683,7 @@
   cost:
   - 3
   description: |
-    Your battle trance not only makes you fearless but enables you to strike down your enemies with ferocious blows.
+    In the heat of combat, you become a destructive force to be reckoned with. Whether a raging barbarian or a hyper-focused intergalactic knight, your attacks become particularly ferocious when you enter your battle trance.
   effect: |
     While you are in a battle trance, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
 - !
@@ -700,7 +700,7 @@
   cost:
   - 2
   description: |
-    Whether luck shines upon you or you're just really hard to kill, you have a knack for staying in the fight when others would tap out.
+    Whether luck shines upon you or you're just really hard to kill, you have a knack for staying in the fight when others would tap out. You might be a plucky rogue who always finds a safe nook to duck into or a veteran marine specially trained to grit your teeth and buck up when things look grim.
   effect: |
     Once per day, an attack that would reduce you to less than 1 HP, reduces you to 1 HP instead.
 - !
