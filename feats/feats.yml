@@ -1601,7 +1601,7 @@
   cost:
   - 3
   description: |
-    Your heightened awareness on the battlefield means that you are nearly impossible to catch flat-footed and are always prepared to defend yourself.
+    Your heightened awareness on the battlefield means that you are nearly impossible to catch flat-footed and are always prepared to defend yourself or allies. This feat is typified by such character concepts as the bodyguard, the abjurer, and the psychic defender.
   effect: |
     Once per round, after you have expended your next major action to perform a defend action, you get an additional major action that must be spent before the start of your next turn to make another defend action. Multiple tiers of this feat grant additional major actions usable only for defend actions.
 - !
@@ -1618,13 +1618,13 @@
   cost:
   - 1
   description: |
-    You are an expert at long-range attacks, able to hit targets at extreme distances. You are master one particular ranged weapon or type of extraordinary power.
+    Your expertise with a particular ranged weapon or extraordinary power enables you to strike targets at extreme distances that others would find impossible. This feat is common among snipers, fighter pilots, and war wizards.
   effect: |
     When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
     If you choose a weapon, the weapon's range is increased to the next greater range increment. Close Ranged becomes Short, Short becomes Medium, Medium becomes Long, Long becomes Extreme, and Extreme becomes 500'.
     If you chose an attack type, your attack range for that attribute is doubled.
   special: |
-    You may take this feat multiple times. If you do, select a new weapon or attribute each time.
+    You may take this feat multiple times. If you do, select a new weapon or attack type each time.
 - !
   name: Silencing Strike
   prerequisites:
@@ -1637,9 +1637,9 @@
   cost:
   - 3
   description: |
-    Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence.
+    Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence. This might take the form of a dart to the larynx, a garrote around the throat, or simply a sturdy covering of the mouth.
   effect: |
-    Whenever you deal precise damage (one of the damage types) to a target and they are caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the <em>silenced</em> bane.
+    Whenever you deal damage using a weapon with the precise property to a target that is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the <em>silenced</em> bane.
 - !
   name: Skill Specialization (I - V)
   prerequisites:
@@ -1663,7 +1663,7 @@
   cost:
   - 2
   description: |
-    You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similarly exceptional non-combat talent.
+    You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similarly exceptional non-combat talent. It might come from intense training, prolonged study, or even an inherent natural talent.
   effect: |
     Choose one attribute. Any time you make a non-attack, non-invocation roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
   special: |
@@ -1685,7 +1685,7 @@
   cost:
   - 3
   description: |
-    Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple extraordinary effects at once.
+    Your powers of focus are exceptionally honed, allowing you to maintain concentration on multiple extraordinary effects at once. This feat is typical among character concepts built to enhance themselves or their allies, such as bards, platoon leaders, or engineers.
   effect: |
     When you take the <em>sustain a boon</em> minor action, you may sustain one additional boon per tier of this feat which you possess.
 - !
@@ -1699,7 +1699,7 @@
   cost:
   - 1
   description: |
-    You are made for the water and can swim at surprising speeds with the aptitude of a fish.
+    You are made for the water and can swim at surprising speeds with the aptitude of a fish. This might be the result of hard core training, or it may stem from a racial trait, such as webbed feet and hands.
   effect: |
     You gain a swimming speed equal to your base speed and do not need to make any special action rolls to maintain this base speed.
 - !
@@ -1738,7 +1738,7 @@
   cost:
   - 1
   description: |
-    You are expertly focused on dealing with a particular species, race, or faction.
+    You are expertly focused on dealing with a particular species, race, or faction. Perhaps your family was slain by werewolves, and you have devoted your life to studying their mannerisms in order to hunt them down. Or maybe you were raised in a prison on the third moon of Vogax Prime, and you know the Vogans better than they know themselves.
   effect: |
     Choose a species, race, or faction (e.g., dragons, Void Templars, gnolls, or vampires). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, you gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
   special: |
@@ -1759,7 +1759,7 @@
   cost:
   - 2
   description: |
-    You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes.
+    You have a remarkable ability to shrug off pain and punishment that would take down lesser heroes. This power might stem from your rocky carapace, extreme combat training, or simply an extra dose of grit that you acquired from a hard life.
   effect: |
     You permanently gain 5 extra hit points per tier of this feat you possess.
 - !
@@ -1779,7 +1779,7 @@
   cost:
   - 3
   description: |
-    Being both physically powerful and incredibly agile, you are able to wield a weapon in one-hand that requires two hands for others.
+    Being both physically powerful and incredibly agile, you are able to wield a weapon in one-hand that requires two hands for others. Good examples of this feat in action include an orcish barbarian wielding a great axe and shield and a survivor in the zombie apocalypse wielding two chainsaws.
   effect: |
     You can wield weapons with the two-handed property in one hand and you gain the benefits of both the two-handed and one-handed property while doing so. This means that you gain a total of advantage 2 when wielding a two-handed weapon in each hand, advantage 1 from the power of a two-handed weapon plus advantage 1 from having one weapon in each hand.
 - !
@@ -1797,7 +1797,7 @@
   cost:
   - 2
   description: |
-    Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also to shield yourself exceptionally well by deflecting incoming attacks with your weapons.
+    Your mastery of two weapon fighting allows you not only to come at your foes with a flurry of attacks, but also to shield yourself exceptionally well by deflecting incoming attacks with your weapons. Duelists, rangers, and space pirates are all concepts that could make use of this feat.
   effect: |
     When you wield a weapon you've taken the Attack Specialization feat for in each hand, you gain a +1 armor bonus to your Guard defense.
 - !
@@ -1813,7 +1813,7 @@
   cost:
   - 3
   description: |
-    Your charm is so potent that your victims may become permanently enthralled by you.
+    Whether you are an enchanter, psychic, or mad scientist, you have mastered the art of enthralling others. Your charms are so potent that your victims may fall permanently under your compulsion.
   effect: |
     When you invoke the <em>charmed</em> bane, targets who do not make their resist roll within 24 hours of being afflicted become permanently affected by the bane. They do not receive any more resist rolls to shake themselves free of the effect. Other extraordinary effects like a <em>nullify</em> bane can still end the effect (and other methods may work at the GM's discretion).
 - !
@@ -1847,7 +1847,7 @@
   cost:
   - 2
   description: |
-    Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious.
+    Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious. Berserkers, assassins, and superheros of exceptional combat skill are all good examples of this feat in play.
   effect: |
     Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls granted by dice explosions.
 - !
