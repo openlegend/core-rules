@@ -1182,10 +1182,10 @@
   cost:
   - 2
   description: |
-    You have knowledge of a particular area of study which far surpasses your general intelligence.
+    Whether through extensive study or years of first hand experience, you have knowledge of a particular subject which far surpasses your general intelligence. A navigator well versed in the galactic map, a barbarian warlord with years of experience with military strategy, and a professor of the paranormal are all examples of this feat in play.
   effect: |
     When you take this feat, choose a sphere of knowledge from the list below or, with the GM's approval, create a new one. <br />
-    Example spheres of knowledge include alchemy, arcane, supernatural, engineering, geography, history, location (must specify), anatomy, medicine, explosives, computers, herbalism, and wilderness.<br />
+    Example spheres of knowledge include alchemy, anatomy, arcane, computers, explosives, engineering, geography, herbalism, history, location (must specify), medicine, military strategy, supernatural, and wilderness.<br />
     Your tier in this feat determines how knowledgeable you are within your chosen sphere.
     <ul>
     <li><strong>Tier 1</strong> - You automatically succeed on any Learning check related to your chosen sphere of knowledge with a CR of 16 or lower. For higher CRs, your Learning attribute is considered to be 3 for the action roll unless your Learning score is already 3 or higher, in which case you gain advantage 1 on the roll.</li>
@@ -1303,7 +1303,7 @@
   cost:
   - 3
   description: |
-    Like a kensai warrior devoted to mastery of her katana or an assassin who exclusively wields their favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
+    Like a kensai warrior devoted to mastery of their katana or an assassin who exclusively wields their favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
   effect: |
     Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: Agility or Might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any damaging attacks that you make which do not use your martial focus suffer disadvantage 1.
 - !
@@ -1319,9 +1319,9 @@
   cost:
   - 1
   description: |
-    Your skill at tracking and hunting your quarry is unmatched, allowing you to follow trails long after others would have lost them.
+    You were made for the hunt. Whether you gained this ability through years of practice or possess it through heightened senses, the effect is the same: once you've picked up a trail, you almost never lose track of your quarry.
   effect: |
-    Unless magically thwarted or unable to see, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only extraordinarily concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
+    Unless blinded or thwarted through extraordinary means, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only extraordinarily concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
 - !
   name: Mimic
   prerequisites:
@@ -1430,7 +1430,7 @@
   cost:
   - 3
   description: |
-    You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly. A healing nova, a supernatural wind that gives flight to a group, and a time dilation that affects a group of allies are all examples of this feat in action.
+    You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly. A healing nova, a supernatural wind that gives flight to a group, and a time dilation that hastens a group of allies are all examples of this feat in action.
   effect: |
     When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
 - !
@@ -1501,7 +1501,7 @@
   cost:
   - 2
   description: |
-    The sheer force of your attacks is so great that you send opponents flying.
+    In combat, you are like a wrecking ball that clears the battlefield of your foes. The sheer force of your attacks is so great that you send opponents flying. A half-ogre wielding a massive tree branch and a super soldier trained to use the enemy's weight against themself are both examples of this feat in play.
   effect: |
      Each time you deal damage using a weapon that has the <em>forceful</em> property, you can choose to push the target five feet away from you.
 - !
@@ -1537,7 +1537,7 @@
   cost:
   - 2
   description: |
-    Your intense focus never lapses, allowing you to tap into your heightened battle trance at a moment's notice.
+    Your intense focus never lapses, allowing you to tap into your heightened battle trance at a moment's notice. Examples of this feat in play include a hulking brute who snaps into a rage at the first sign of danger and a trained gunslinger who is always ready for a fight.
   effect: |
     You can enter a battle trance (as per the Battle Trance feat) as a free action even when it is not your turn. You may choose to do so in reaction to another action, such as an enemy's attack, spell, or insult. You may even declare your intent to enter a battle trance after the action has been resolved (such as after the attack has already been rolled). The benefits granted from your battle trance take place before the triggering action is resolved, potentially negating damage or harmful effects that you would have otherwise incurred.
 - !
@@ -1551,9 +1551,9 @@
   cost:
   - 3
   description: |
-    By willingly punishing your own body in the heat of battle, you launch a relentless flurrly of attacks that physically drains you.
+    By willingly punishing your own body in the heat of battle, you launch a relentless flurry of attacks that physically drains you but devastates your foes. A super soldier activating a stim pack and a berserker pushing their muscles to the breaking point are examples of this feat in action.
   effect: |
-    While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an attack as a minor action. Effects that prevent or reduce damage cannot effect this self-inflicted damage. You suffer the damage before making your extra attack, so you must be able to remain conscious after the damage is dealt in order to benefit from your extra attack.
+    While you are in a battle trance, on your turn you may choose to inflict 5 hit points of damage on yourself to make an attack as a minor action. Effects that prevent or reduce damage cannot affect this self-inflicted damage. You suffer the damage before making your extra attack, so you must be able to remain conscious after the damage is dealt in order to benefit from your extra attack.
 - !
   name: Resilient
   prerequisites:
@@ -1570,7 +1570,7 @@
   cost:
   - 3
   description: |
-    Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others.
+    Whether through luck, extraordinary will, or exceptional courage, you are able to shake off banes quicker than others. This feat can fit almost any character concept: a halfling who always has luck shining on him, a sorceress with an aura of protection, a paladin blessed by a deity, or an absent-minded professor who has no time to let disturbances get in the way of study.
   effect: |
     Any time you make a resist roll, you have advantage 1 on the roll.
 - !
