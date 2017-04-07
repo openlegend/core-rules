@@ -18,7 +18,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, to a dazzling flash of light.
+    You blind your foe with anything from a massive explosion, to a handful of sand, to an arctic blast, to a dazzling flash of light. Pirates, snipers, rogues, and necromancers often make use of this bane in combat.
   effect: |
     The target cannot see as long as the effect persists. The target automatically fails any Perception rolls based solely on normal sight. Attack rolls and Perception rolls based partially on sight that can be supplemented by another sense suffer disadvantage 5. The target's Guard defense is reduced by 3.
 - !
@@ -36,7 +36,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (special) (Fail x 3 = 24 hours)
   description: |
-    Charms are one of the great banes of legend, wielded by powerful enchantresses like Circe (in Homer's The Odyssey), nymphs, and other enchanters who control the will of others, not through total domination, but through a magical spell of love or friendship.
+    Charms are one of the great banes of legend, wielded by powerful enchantresses like Circe (of Homer's The Odyssey), nymphs, pyschics, and other characters who control the will of others, not through total domination, but through a magical spell of love or friendship.
   effect: |
     The charmed bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane. The charmed bane manifests at two levels: minor and major.
     <strong>Minor Charm</strong> - The target is mentally compelled to become more friendly, only changing their attitude toward you moderately. If they are about to strike you, they will restrain themselves - still angry and hostile, but no longer violent. If they want to help you and are leaning toward trusting you, but have some hesitation because you've just met, then that hesitation goes away.
@@ -67,7 +67,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 minute)
   description: |
-    You deafen your foe with a crash of thunder, a deafening clap of hands to their ears, or a dark energy that disables their hearing.
+    You deafen your foe with a crash of thunder, a deft strike to their ears, or a dark energy that disables their hearing. This bane is common to storm mages, mad scientists, and assassins.
   effect: |
     The target cannot hear as long as the effect persists. The target automatically fails any Perception rolls based solely on hearing. Perception rolls based partially on hearing that can be supplemented by another sense suffer disadvantage 3.
 - !
@@ -86,7 +86,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (special) (Fail x 3 = Permanent)
   description: |
-    Utilizing either incredible precision or the power of entropy, the target's life force is snuffed out completely. The deadliest assassins and most powerful necromancers are known for such legendary skill at ending life.
+    Utilizing either incredible precision or the power of entropy, you snuff out the target's life force completely. The deadliest assassins and most powerful necromancers are known for such legendary skill at ending life.
   effect: |
     Upon a successful invocation, the target is immediately rendered immobile, unconscious, and unable to take actions. They have disadvantage 5 on all perception rolls, and any damaging attacks against them count as finishing blows.
     If the target fails three resist rolls to shake off this bane, they die. The death is permanent and can only be reversed if the GM allows a special mission to use rare technology or long-forgotten magic to restore the target to life.
@@ -120,7 +120,7 @@
   invocationTime: 1 Major Action
   duration: Resist (minor) ends (Fail x 3 = 1 minute)
   description: |
-    Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves.
+    Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves. A berserker might achieve this effect by foaming at the mouth while a swashbuckling space captain might dishearten his foes simply with intimidating words.
   effect: |
     The affected target has disadvantage on all action rolls.
     <ul>
@@ -157,7 +157,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    You force an oppenent to lose control of an object they are holding, whether through brute force, a skillful parry, heating the item to unbearable temperatures, mental compulsion, or some other means.
+    You force an oppenent to lose control of an object they are holding, whether through brute force, mental compulsion, a skillful parry, heating the item to unbearable temperatures, shooting it from their hands, or some other means.
   effect: |
     <ul>
     <li><strong>Power Level 3</strong> - The target drops an object they are holding in a space of your choosing withing 15' of the target.
@@ -180,7 +180,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (Fail x 3 = 1 hour)
   description: |
-    Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes by the most powerful of sorcerers who command legions of mindless zombies, completely enslaved to their will.
+    Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes by the most powerful of sorcerers or mad scientists who command legions of mindless zombies, completely enslaved to their will.
   effect: |
     The dominated bane manifests at two levels: lesser and greater.
     <strong>Lesser Domination</strong> - The target obeys a one word command until the end of their next turn.
@@ -205,7 +205,7 @@
   invocationTime: 1 Major Action
   duration: Special
   description: |
-    Fatigue overcomes the target, causing their body to gradually cease normal function until they rest.
+    You cause the target's body to wither and weaken, gradually losing its ability to function until the victim finally succumbs to death. Fatigue may be the result of a necromancer's curse, an assassin's poison, a radiation ray, or similar life sapping effects.
   effect: |
     This bane has multiple tiers which are applied in succession. Each time this bane is inflicted, if it is already in effect on the target, the severity escalates by one level.<br/>
     <ul>
@@ -238,7 +238,7 @@
   invocationTime: 1 Major Action
   duration: Special
   description: |
-    You manifest an overwhelming force of physical might or manifest power that strikes terror into the hearts of enemies, causing them to flee from your presence.
+    Through an overwhelming force of physical might or extraordinary power, you strike terror into the hearts of enemies, causing them to flee from your presence. A warrior might invoke this bane by hurling a boulder while a cyber hacker might achieve the same effect by uploading a hallucinatory virus into an opponent's neuro jack.
   effect: |
     On its turn, the afflicted target must use its entire turn to get as far away as possible from you. It cannot use its actions to do anything other than retreat, and it cannot willingly move closer to you while the bane persists.
   special: |
@@ -266,7 +266,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will.
+    With a forceful blow, magical gust of wind, or telekinetic push, you move your target against its will. This bane is favored among ogres, telekinetisists, wind mages, super soldiers, and other characters built to reshape the battlefield to their advantage.
   effect: |
     The target is moved a distance against their will, as determined by the bane's power level. The ending location is chosen by the attacker.
     <ul>
@@ -303,7 +303,7 @@
   invocationTime: 1 Major Action
   duration: Resist ends (special) (Fail x 3 = 1 minute)
   description: |
-    Whether through grappling, a precise nerve strike, entangling vines, exerting mental control, or a bone-numbing blast of cold, you render your foe incapable of movement.
+    Whether through grappling, a precise nerve strike, entangling vines, mental compulsion, or a bone-numbing blast of cold, you render your foe incapable of movement. This bane is typical among martial artists, special ops agents, enchanters, and wrestlers.
   effect: |
     Your target cannot move from its current space. If you invoked the bane with a Might roll, then both you and the target are immobile in your current space for the duration of the bane (locked in a grapple). While grappling in this manner, you can attempt to inflict this bane again upon the target. If successful, you can move your speed and take the target with you. If this attack fails, you can only move by first releasing the target and ending the bane.
     If you invoked the bane with any attribute other than Might, you can move freely while the target remains affected.
