@@ -318,8 +318,7 @@ The complex build is a good option when you are creating a very important villai
 
 The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don't have any stats written up for these enemies. In this situation, you could use the simple build rules to get combat rolling quickly.
 
-Use the NPC Simple Build Table to determine the NPCs's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the NPC enemy you are building. Choose 1 to 3 primary attributes that will form the main basis of the NPC's attacks and actions, and then choose as many secondary attributes as you need in order to define the NPCs's other capabilities.
-
+Use the NPC Simple Build Table to determine the NPCs's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the NPC enemy you are building. Choose 1 to 3 primary attributes that will form the main basis of the NPC's attacks and actions, and then choose as many secondary attributes as you need in order to define the NPCs's other capabilities. These form a rough guideline that we recommend you not exceed, though you can feel free to assign lower attributes and even higher ones if you feel that's appropriate. Not all attributes are created equal.
 
 <div class="table-no-body"></div>
 | NPC SIMPLE BUILD |
@@ -349,13 +348,13 @@ Use the NPC Simple Build Table to determine the NPCs's most relevant statistics.
 | 19 | 46 - 58 | 23 - 29 | 10 | 9 |
 | 20 | 48 - 60 | 24 - 30 | 10 | 9 |
 
-Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Some of these are new feats that are only available to GM controlled NPCs.
+Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Feel free to select any feat found in Chapter 3 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
-- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
+- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane. When making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll
 
-- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane.
+- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane. When making a bane attack to inflict the  chosen bane, you gain advantage 3 on the bane attack roll
 
 - **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain the following benefits:
 
@@ -412,6 +411,8 @@ The number of additional attacks you can make with this feat is limited to 1 + h
 - **Potent Bane:** Choose one bane that you can invoke that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.
 
 - **Resilient:** Any time you make a resist roll, you have advantage 1 on the roll.
+
+- **Skill Specialization (tier equal to NPC level, max 9):** With a chosen attribute, gain advantage 1 per tier on non-attack, non-invocation rolls.
 
 - **Superior Concentration (tier 1 - 3, your choice):** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
 
@@ -471,15 +472,24 @@ In addition to its normal allotment of actions, a boss also receives a number of
 > ##### Example Initiative Order Using Boss Actions
 >
 > The following initiative order imagines a group of 4 player characters fighting a boss with an edge of 4. Only one of the PCs rolled higher than the boss on initiative.
->
+> \
+> \
 > 1st: PC 1
+>
 > 2nd: Boss's Normal Turn
+>
 > 3rd: PC 2
+>
 > 4th: Boss Action 1
+>
 > 5th: PC 3
+>
 > 6th: Boss Action 2
+>
 > 7th: PC 4
+>
 > 8th: Boss Action 3
+>
 > 9th: Boss Action 4
 >
 

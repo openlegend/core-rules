@@ -100,15 +100,15 @@
     tier2:
       any:
         Attribute:
-        - Agility: 2
-        - Might: 2
-        - Any Extraordinary: 2
+        - Agility: 1
+        - Might: 1
+        - Any Extraordinary: 1
     tier3:
       any:
         Attribute:
-        - Agility: 3
-        - Might: 3
-        - Any Extraordinary: 3
+        - Agility: 1
+        - Might: 1
+        - Any Extraordinary: 1
     tier4:
       any:
         Attribute:
@@ -118,15 +118,15 @@
     tier5:
       any:
         Attribute:
-        - Agility: 5
-        - Might: 5
-        - Any Extraordinary: 5
+        - Agility: 4
+        - Might: 4
+        - Any Extraordinary: 4
     tier6:
       any:
         Attribute:
-        - Agility: 6
-        - Might: 6
-        - Any Extraordinary: 6
+        - Agility: 4
+        - Might: 4
+        - Any Extraordinary: 4
     tier7:
       any:
         Attribute:
@@ -136,15 +136,15 @@
     tier8:
       any:
         Attribute:
-        - Agility: 8
-        - Might: 8
-        - Any Extraordinary: 8
+        - Agility: 7
+        - Might: 7
+        - Any Extraordinary: 7
     tier9:
       any:
         Attribute:
-        - Agility: 9
-        - Might: 9
-        - Any Extraordinary: 9
+        - Agility: 7
+        - Might: 7
+        - Any Extraordinary: 7
   tags:
   - Passive
   - Weapon
