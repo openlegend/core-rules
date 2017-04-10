@@ -4,7 +4,7 @@
 
 *“Hold that light steady!” he mutters to his companion.*
 
-*But his whispers carry far in the long corridors and endless ventilation shafts of the Zeta class cruiser, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn for the flesh of the intruders. “Spaz,” stutters the light bearer as he draws a shining six-shooter, “I don't think this freighter is abandoned no more.”*
+*But his whispers carry far in the long corridors and endless ventilation shafts of the Zeta class cruiser, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn for the flesh of the intruders. “Zak,” stutters the light bearer as he draws a shining six-shooter, “I don't think this freighter is abandoned no more.”*
 
 * * *
 
