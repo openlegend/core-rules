@@ -254,7 +254,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    The target moves with extraordinary speed, dodging attacks more deftly and accomplishing actions at an uncanny rate.
+    The target moves with extraordinary speed, dodging attacks more deftly and accomplishing actions at an uncanny rate. This may be the result of a chemical injection, psychic enhancement, time-altering magic, or similar means. 
   effect: |
     <ul>
     <li><strong>Power Level 2</strong> - The target's speed is increased by 10'. </li>
@@ -285,7 +285,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    Healing can be one of two things: the actual mending of wounds and broken bones through various sources like medicine, surgery, or supernatural creative life force, OR inspiring your target to carry on, even in the face of death.
+    Healing can be one of two things: the actual mending of wounds and broken bones through sources like medicine, surgery, or supernatural creative life force, or the inspiration of your target to carry on fighting, even in the face of death. This boon is common among clerics, medics, bards, and combat leaders.
   effect: |
     Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <ul>
@@ -330,7 +330,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You vanish from the visible spectrum, either through bending light, creating an illusion of you not being there, or stepping into an extradimensional space between the fabric of the planes.
+    The target vanishes from the visible spectrum, either by bending light, creating an illusion, or stepping into an extradimensional space between the fabric of the planes. This boon is a favorite of special ops agents, illusionists, shadow dancers, inventors, and similar characters.
   effect: |
     Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You cannot be the target of opportunity attacks unless the enemy can see you through non-visual means.
     <ul>
@@ -348,7 +348,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    Like the bite of a vampire or the soul draining touch of a black mage, you can steal the very lifeforce of your foes.
+    Like the bite of a vampire, the soul draining touch of a black mage, or the life sucking ray gun of a mad supervillain, this boon allows the target to steal the very lifeforce of their foes.
   effect: |
     While this boon persists, the target heals half (round up) of the damage they inflict with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.
 - !
@@ -371,7 +371,7 @@
   invocationTime: 1 Minor Action
   duration: Sustain Persists
   description: |
-    Whether through magical summoning, energy manipulation, or some other means, you illuminate an area with a bright light.
+    Whether through magical summoning, energy manipulation, or some other means, you illuminate an area with a bright light. An android activating its head lamp, a fire mage creating a dancing torch flame, and an alchemist cracking a glow glob are all examples of this boon in play.
   effect: |
     Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 - !
@@ -388,7 +388,7 @@
   invocationTime: 1 Minute
   duration: 1 round
   description: |
-    You peer into the future to gain insight into a course of action, an event, a person, or a place.
+    You peer into the future to gain insight into a course of action, an event, a person, or a place. Examples of this boon include a fortune teller throwing the bones, a superhuman detective analyzing evidence, a priest consulting a higher power for direction, and an advanced artificial intelligence calculating every possible outcome of a complex assortment of variables.
   effect: |
     <ul>
     <li><strong>Power Level 1</strong> - The target asks a question about a course of action they plan to take within the next five minutes. The GM communicates the insight through vague symbols, impressions, or a single word such as “favorable” or “unfavorable”. </li>
@@ -411,7 +411,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    Through supernatural magic or extrasensory perception, you reach out and connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past.
+    Through supernatural magic or extrasensory perception, you reach out and connect with an object or place, gaining the ability to read residual information from it and divine what has occurred in its vicinity in the past. This boon is common among psychics, detectives, and specialized hunters.
   effect: |
     When you successfully invoke this boon, you gain information from an object or place within range as follows:
     <ul>
@@ -437,7 +437,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, or an ability to channel energy that results in continous healing. Regardless of the source, wounds close before the very eyes of an onlooker.
+    The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, a super soldier's adrenal biomod, or the ability to channel energy that results in continous healing. Regardless of the source, wounds close before the very eyes of an onlooker.
   effect: |
     While the regeneration boon is sustained, the target heals hit points at the beginning of each of the <em>boon invoker's</em> turns. The amount of healing is determined by the power level of the boon.
     <ul>
@@ -466,7 +466,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    Whether through a magical force field, an elemental wall, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack.
+    Whether through a magical force field, an elemental wall, self-attaching body armor, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack. This boon is common among abjurers, engineers, telekinetisists, and elemental mages.
   effect: |
     When the boon is invoked, the invoker chooses one type of attack and the target gains resistance to that type. The types include precise, forceful, fire, cold, lightning, acid, influence, and entropy (other types may be approved by the GM). The effect of the resistance is determined by the power level of the boon (the following are not cumulative):
     <ul>
