@@ -495,7 +495,7 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    By invoking protective magic, creative force, or similar powers, you cancel all harmful afflictions that are affecting your target.
+    By invoking protective magic, creative force, or similar powers, you cancel all harmful afflictions that are affecting your target. Examples of this boon in action include a cleric breaking enchantments, an engineer deploying a team of rescue bots, or a combat medic applying advanced medical techniques.
   effect: |
     You can dispel all banes affecting your target of a power level less than or equal to the level at which you invoke this boon.
 
@@ -525,7 +525,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You are able to see through the eyes of a willing ally.
+    You are able to see through the eyes of a willing ally. This power might stem from a psychic link, cybernetic implant, or magical enchantment.
   effect: |
     For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target can be any friendly creature, including animals, beasts, and humanoids. The distance of the connection depends on the power level of this boon.
     <ul>
@@ -552,7 +552,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    A target's physical structure is temporarily altered, allowing it to assume the form of potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), dryads, dopplegangers, and certain types of druids.
+    A target's physical structure is temporarily altered, allowing it to assume the form of potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), amorphous alien lifeforms, dopplegangers, and certain types of druids.
   effect: |
     You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this boon is limited to the maximum attribute score permitted by your level. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.
     The GM, not the player, is responsible for deciding the attributes and abilities of creature. It is recommended that this creature follow the guidelines established by the "Simple Build" section for creating NPCs in Chapter 8: Running the Game.
@@ -589,7 +589,7 @@
   invocationTime: 1 Focus Action
   duration: Sustain Persists
   description: |
-    You summon forth a creature to assist your cause, whether they are animals called from the wild, undead minions built from the remains of your foes, or worker bots constructed of spare parts from a salvage yard.
+    You summon forth a creature to assist your cause, whether they are animals called from the wild, undead minions built from the remains of your foes, or worker bots constructed of spare parts from a salvage yard. This boon is favored by druids, conjurers, engineers, necromancers, and mad scientists.
   effect: |
     You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: Agility, Fortitude, Might, Perception, Energy, and Entropy. Your minion's attributes do not affect their hit points or defenses.
     <table><tbody><tr class="header"><th>Power Level</th><th>Hit Points</th><th>Defenses</th><th>Attributes</th></tr><tr class="odd"><td>4</td><td>4</td><td>11</td><td>2, 1, 1</td></tr><tr class="even"><td>5</td><td>5</td><td>12</td><td>3, 2, 2</td></tr><tr class="odd"><td>6</td><td>6</td><td>13</td><td>4, 3, 3</td></tr><tr class="even"><td>7</td><td>7</td><td>14</td><td>5, 4, 4</td></tr><tr class="odd"><td>8</td><td>8</td><td>15</td><td>6, 5, 5</td></tr><tr class="even"><td>9</td><td>9</td><td>16</td><td>7, 6, 6</td></tr></tbody></table>
@@ -610,7 +610,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You reach out and extraordinarily control an unattended inanimate object.
+    You reach out and extraordinarily control an unattended inanimate object. This may stem from latent psychic ability, magical manipulation of the element of air, anti-gravity technology, or similar sources.
   effect: |
     Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 30'. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
     <ul><li><strong>Power Level 4</strong> - The object must be smaller or lighter than a fist-sized rock.</li>
@@ -632,7 +632,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication.
+    You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication. Examples of this boon in action include a psychic who can connect with the minds of others and a far future artificial intelligence capable of passing information to other beings through the vibration of quantum strings.
   effect: |
     You and the target can communicate with each other simply through thought. Note that this telepathy does not bestow intelligence upon creatures, so you could not use it to communicate with a squirrel unless you already possessed other means of doing so. Additionally, telepathy does not bypass language barriers, so you would need to already speak the language of your target.
     <ul>
@@ -655,7 +655,7 @@
   invocationTime: 1 Move Action
   duration: Instantaneous
   description: |
-    You are able to instantly move yourself or an ally from one place to another, either by stepping into an intermediate realm, deconstructing and reforming a physical body, transporting magically, or other similar means.
+    You are able to instantly move yourself or an ally from one place to another, either by stepping into an intermediate realm, deconstructing and reforming a physical body, transporting magically, or similar means.
   effect: |
     <ul>
     <li><strong>Power Level 3</strong> - You can teleport the target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see your destination. </li>
@@ -675,7 +675,7 @@
   invocationTime: 10 Minutes
   duration: Sustain Persists
   description: |
-    You or an ally temporarily gains the ability to read, write, and speak languages that they are otherwise unfamiliar with.
+    You or an ally temporarily gains the ability to read, write, and speak languages that they are otherwise unfamiliar with. This ability may come by channeling interplanar spirits, tapping the power of a super intelligence, making deductions based on an extraordinary understanding of the science of communication, or similar means.
   effect: |
     <ul>
     <li><strong>Power Level 5</strong> - Your target can understand and speak a language of your choice.</li>
@@ -696,7 +696,7 @@
   invocationTime: 1 Minute
   duration: Sustain Persists
   description: |
-    You are able to change size, shape, and composition of physical matter that you touch. Transmute rocks to gold, or a wall into a door.
+    You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.
   effect: |
     Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either <em>temporary</em> or <em>permanent</em>. A <strong>temporary</strong> transmutation must be sustained every round. A <strong>permanent</strong> transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.
     <ul>
@@ -719,7 +719,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You grant yourself or an ally the ability to extraordinarily perceive things through impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality.
+    You grant yourself or an ally the ability to extraordinarily perceive things through impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.
   effect: |
     <ul>
     <li><strong>Power Level 5</strong> - The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.</li>
