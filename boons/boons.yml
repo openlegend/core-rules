@@ -10,7 +10,7 @@
   invocationTime: 1 Major Action
   duration: Permanent
   description: |
-    You are able to absorb an object into your body through such means as the mutation or alteration of your body (moving muscles and ligaments aside to make room for it) or by creating an extradimensional space in which to hide the object.
+    By restructuring your bodily composition, creating an extradimensional space, utilizing a cybernetic storage implant, or similar means, you absorb an object into your body, leaving it completely hidden from others and ready for access at a moment's notice.
   effect: |
     The object remains in place, completely hidden from the perception of others, until the target summons or recalls it (automatically) as a minor action. If anything happens to cancel this boon (such as the nullify bane), the object is immediately shunted out of the target's body as if the object had been withdrawn.
 - !
@@ -26,7 +26,7 @@
   invocationTime: 8 Hours
   duration: Permanent
   description: |
-    You create life or unlife of subhuman intelligence that persists indefinitely and autonomously.
+    You create life or unlife of subhuman intelligence that persists indefinitely and autonomously. Examples of this boon in play include a necromancer creating an undead bodyguard, a mad scientist forging a subhuman being from body parts collected from a variety of corpses, and an engineer creating a cyborg from parts both mechanical and organic.
   effect: |
     Your are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that lasts 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no permanent control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
     The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and should follow the guidelines established by the "Simple Build" section for creating NPCs in Chapter 8: Running the Game.
@@ -55,7 +55,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You surround a willing target in an aura that hurts their foes or helps their allies. A shield of flame that burns attackers, a circle of healing, and an aura of elemental protection are all examples of this boon in action.
+    You surround a willing target in an aura that hurts their foes or helps their allies. A shield of gamma radiation that burns attackers, a circle of healing, and an aura of elemental protection are all examples of this boon in action.
   effect: |
     An aura extends from a willing target to a distance determined by the power level of this boon:
     <ul>
@@ -87,7 +87,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You summon forth a wall of thorns, ring of fire, entropic fog, or similar barrier to hurt or hinder your foes.
+    You summon forth a wall of thorns, ring of fire, swarm of robotic pests, cloud of entropic fog, or similar barrier to hurt or hinder your foes.
   effect: |
     When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level:
     <ul>
@@ -167,7 +167,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You create an area of illusory darkness or entropic energy that snuffs out all light.
+    You create an area of illusory darkness or entropic energy that snuffs out all light. This boon is a favorite among illusionists, shadow casters, psions, and mad scientists.
   effect: |
     Choose a space or object within range. Darkness emanates from the target to a radius equal to five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc.) are unaffected. If the darkness area overlaps an area affected by the light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 - !
@@ -181,7 +181,7 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You gain extraordinary vision that allows you to see colored auras which correlate to magical, spiritual, or other extraordinary forces.
+    You gain extraordinary vision that allows you to see colored auras which correlate to magical, spiritual, or other extraordinary forces. Common examples of this boon include a paladin detecting a suspect's true intentions, a psychic reading the aura of a location, and a cyborg scanning the terrain for signs of life.
   effect: |
     When calling on this boon, you must choose the type of aura you are detecting: <strong>holy</strong>, <strong>unholy</strong>, <strong>life</strong>, <strong>death</strong>, or <strong>magic</strong>. You can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming). These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone. Even a paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
     <ul>
@@ -207,12 +207,12 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    The target can take flight, either by growing wings or via extraordinary power, with a speed proportionate to it's extraordinary power.
+    By sprouting wings, activating an anti-gravity device, focusing telekinetic power, or similar means, the target takes to the skies.
   effect: |
     <ul>
     <li><strong>Power Level 5</strong> - The target gains a flight speed of 10'.</li>
     <li><strong>Power Level 6</strong> - The target gains a flight speed of 30'.</li>
-    <li><strong>Power Level 8</strong> - The granted flight speed increases to 60'.</li>
+    <li><strong>Power Level 8</strong> - The target gains a flight speed of 60'.</li>
     </ul>
     If the boon is dispelled while the target is still in flight, they plummet to the ground immediately.
 - !
@@ -230,7 +230,7 @@
   invocationTime: Special
   duration: Instantaneous
   description: |
-    You create something from nothing. Depending on the power of your invocation, you are able to manifest a wide array of materials, from temporary vegetable matter to permanent crafted goods of remarkable complexity.
+    You create something from nothing. Depending on the power of your invocation, you are able to manifest a wide array of materials, from temporary vegetable matter to permanent crafted goods of remarkable complexity. This boon is commonly invoked by druids to create food or grow plants, and by engineers to jury rig equipment or invent ingenious solutions to complex problems.
   effect: |
     <ul>
     <li><strong>Power Level 1</strong> - You can create <em>temporary</em> non-sentient matter (plants, dirt, water, vines, etc.), anything created in this way deteriorates or decomposes to become useless after 1 hour. Using this boon you can create 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 10 minutes.</li>
