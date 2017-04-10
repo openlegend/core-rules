@@ -317,9 +317,9 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 While traversing the deep reaches of space, Zak was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
 
-**Success with a twist:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
+**Success with a twist:** After a day or two of rest, Spaz makes a full recovery and is now immune. However, unbeknownst to him, he has become a carrier of the pathogen, endangering his unwary allies.
 
-**Failure, but the story progresses:** Zak cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Zak will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: *Chronos Plague*.
+**Failure, but the story progresses:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
 #### Epic Test of Fortitude (CR 25)
 
