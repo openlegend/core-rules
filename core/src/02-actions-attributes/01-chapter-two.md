@@ -315,11 +315,11 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 #### Heroic Test of Fortitude (CR 20)
 
-While traversing the deep reaches of space, Spaz was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
+While traversing the deep reaches of space, Zak was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
 
-**Success with a twist:** Spaz's immune system is too compromised, and the disease persists. However, while Spaz was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
+**Success with a twist:** After a day or two of rest, Spaz makes a full recovery and is now immune. However, unbeknownst to him, he has become a carrier of the pathogen, endangering his unwary allies.
 
-**Failure, but the story progresses:** Spaz cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Spaz will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: *Chronos Plague*.
+**Failure, but the story progresses:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
 #### Epic Test of Fortitude (CR 25)
 
@@ -399,11 +399,11 @@ Yldris is interrogating a captured goblin to learn more about the threats of the
 
 #### Heroic Test of Perception (DC 20)
 
-Spaz and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Spaz tells the GM that he will be searching for traps ahead of the party. After clearing several rooms, the party is walking down a corridor that the GM knows to contain a proximity mine, so she asks Spaz to roll Perception.
+Zak and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Zak tells the GM that he will be searching for traps ahead of the party. After clearing several rooms, the party is walking down a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
 
-**Success with a twist:** Spaz notices the mine just as he steps within its activation zone. He is able to shout to his party to take cover, but he will suffer the full force of the mine.
+**Success with a twist:** Zak notices the mine just as he steps within its activation zone. He is able to shout to his party to take cover, but he will suffer the full force of the mine.
 
-**Failure, but the story progresses:** Spaz sets off the trap, and the explosion collapses part of the chamber, separating him from his party.
+**Failure, but the story progresses:** Zak sets off the trap, and the explosion collapses part of the chamber, separating him from his party.
 
 #### Epic Test of Perception (DC 25)
 

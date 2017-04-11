@@ -34,11 +34,11 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 
 > #### Example of Initiative and Surprise
 >
-> Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
+> Zak and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
 >
-> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+> Zak and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Zak was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 >
->> Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
+>> Zak (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
 >> Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
 >>
@@ -54,7 +54,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >>
 >> **Surprised Combatants**
 >>
->>  Spaz 14
+>>  Zak 14
 
 
 ### Waiting to Act
@@ -421,7 +421,7 @@ Once per round as part of your defend action, you may also move up to half of yo
 >
 > * * * * *
 >
-> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Guard scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 2 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
+> A grenade lands at the feet of Zak and Tomlinson. The grenade rolls a 25 against their Guard scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Zak with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 2 on his Agility roll, which totals 26. Zak takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
 
 #### Improvise
 
