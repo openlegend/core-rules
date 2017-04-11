@@ -1612,7 +1612,6 @@
         Attribute:
         - Agility: 5
         - Any Extraordinary: 5
-    tier2:
   tags:
   - Combat
   cost:
