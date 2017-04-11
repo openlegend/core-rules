@@ -270,7 +270,7 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 
 You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the [boon descriptions](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
 
-1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options.
+1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options. If you later sustain this boon, that use of the sustain action persists the boon for all targets affected by the original invocation.
 
 1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](http://www.openlegendrpg.com/boons).
 
