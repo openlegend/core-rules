@@ -317,7 +317,7 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 While traversing the deep reaches of space, Zak was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
 
-**Success with a twist:** After a day or two of rest, Spaz makes a full recovery and is now immune. However, unbeknownst to him, he has become a carrier of the pathogen, endangering his unwary allies.
+**Success with a twist:** After a day or two of rest, Zak makes a full recovery and is now immune. However, unbeknownst to him, he has become a carrier of the pathogen, endangering his unwary allies.
 
 **Failure, but the story progresses:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
@@ -363,11 +363,11 @@ Logic is the mental attribute of deductive reasoning and problem solving. Charac
 
 #### Challenging Test of Logic (CR 15)
 
-Commander Zack's sky ship, *The Danger*,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver the powerful gatling guns mounted at the bow the *Danger*. Zack takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
+Commander Grimm's sky ship, *The Danger*,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver the powerful gatling guns mounted at the bow the *Danger*. Grimm takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
 
-**Success with a twist:** Zack's experience pays off, and he is able to issue his crew commands to catch three of the gliders within range of the gatling guns. However, the turn leaves him in vulnerable position to the other three gliders, who receive advantage on their attacks this round.
+**Success with a twist:** Grimm's experience pays off, and he is able to issue his crew commands to catch three of the gliders within range of the gatling guns. However, the turn leaves him in vulnerable position to the other three gliders, who receive advantage on their attacks this round.
 
-**Failure, but the story progresses:** Zack thinks he's got the gliders right where he wants them, but his crew is slow to take orders, and the gliders manage to completely avoid the gatling guns this round.
+**Failure, but the story progresses:** Grimm thinks he's got the gliders right where he wants them, but his crew is slow to take orders, and the gliders manage to completely avoid the gatling guns this round.
 
 #### Heroic Test of Logic (CR 20)
 
