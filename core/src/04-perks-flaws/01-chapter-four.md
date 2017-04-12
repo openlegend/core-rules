@@ -131,7 +131,7 @@ You understand the art of economics as well as the best of businessmen. A master
 
 ### Nature's Ally
 
-The natural world responds to your deep connection with it. Perhaps you are a preservationist, seeking to restore organic life in a shattered post-apocalyptic wasteland, or maybe you are a hermit closely attuned to the animals and plants of the Sylvan woodlands. Whatever your circumstance, people and creatures connected to the land can sense your deep respect for the natural order. Wild animals are more receptive to your desires, primitive tribes give you the benefit of the doubt by assuming you do not have destructive intentions, and you can typically gain an audience with an elusive Druid or Shaman in a give region who shares your goal in defending nature.
+The natural world responds to your deep connection with it. Perhaps you are a preservationist, seeking to restore organic life in a shattered post-apocalyptic wasteland, or maybe you are a hermit closely attuned to the animals and plants of the Sylvan woodlands. Whatever your circumstance, people and creatures connected to the land can sense your deep respect for the natural order. Wild animals are more receptive to your desires, primitive tribes give you the benefit of the doubt by assuming you do not have destructive intentions, and you can typically gain an audience with an elusive Druid or Shaman in a given region who shares your goal in defending nature.
 
 ### Observant
 
