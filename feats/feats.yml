@@ -862,7 +862,7 @@
   description: |
     Whether you are a necromancer who summons hordes of undead, an inventor who crafts autonomous defense droids, or a psychic capable of bending others to your will, minions are exceptionally strong under your command.
   effect: |
-    Creatures under the effects of your <em>charmed</em> or <em>dominated</em> banes, or those created by your invocation of the <em>summon creature</em> boon, gain advantage 1 on all attack rolls to defend or act in your favor for each tier of this feat you possess.
+    Creatures under the effects of your <em>charmed</em> or <em>dominated</em> banes, or those created by your invocation of the <em>summon creature</em> boon, gain advantage 1 on all attack rolls to defend you or act in your favor for each tier of this feat you possess.
 - !
   name: Fleet of Foot (I - III)
   prerequisites:
