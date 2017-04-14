@@ -157,10 +157,10 @@
   invocationTime: 1 Major Action
   duration: Instantaneous
   description: |
-    You force an oppenent to lose control of an object they are holding, whether through brute force, mental compulsion, a skillful parry, heating the item to unbearable temperatures, shooting it from their hands, or some other means.
+    You force an opponent to lose control of an object they are holding, whether through brute force, mental compulsion, a skillful parry, heating the item to unbearable temperatures, shooting it from their hands, or some other means.
   effect: |
     <ul>
-    <li><strong>Power Level 3</strong> - The target drops an object they are holding in a space of your choosing withing 15' of the target.
+    <li><strong>Power Level 3</strong> - The target drops an object they are holding in a space of your choosing within 15' of the target.
     </li>
     <li><strong>Power Level 6</strong> - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute roll (typically Might) with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
     </li>
@@ -722,7 +722,7 @@
   effect: |
     During the target's turn, they are limited to either a single major action, a single move action, or a single minor action. Effects that grant additional actions do not circumvent this unless they grant a free action. Note that a target expending its move action to resist this bane will receive the remainder of their usual actions if the resist roll succeeds.
   special: |
-    This bane has special rules for boss NPCs (See Chapter 8: Running the Game). A boss is only affected by the stunned bane during its normal initative turn. It may still take all of its boss actions as usual.
+    This bane has special rules for boss NPCs (See Chapter 8: Running the Game). A boss is only affected by the stunned bane during its normal initiative turn. It may still take all of its boss actions as usual.
 - !
   name: Stupefied
   tags:
