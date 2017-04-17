@@ -12,7 +12,7 @@ In this chapter, you'll find detailed descriptions of the perks and flaws that y
 
 At character creation, you may select up to two perks and two flaws, and you do not have to select any. Throughout your adventures, the GM may assign you additional perks and flaws as the natural results of your deeds. For example, if your party spends several months on board a ship, the GM may reward everyone with the *profession: sailor* perk. Likewise, if you are subjected to horrible chemical burns as part of a laboratory explosion, the GM might assign you the *physical deformity* flaw to describe your scarred face.
 
-You too, may decide to adopt new perks or flaws with the GM's approval as your character's personality and background develop through play. Perhaps a series of encounters with powerful forces leads you to take on the *cowardly* flaw. Or maybe you spend significant downtime between adventures training with the local weaponsmith and would like to gain the *artisan* perk. The GM is the final arbiter for deciding when and under what circumstances you may choose new perks and flaws.
+You too, may decide to adopt new perks or flaws with the GM's approval as your character's personality and background develop through play. Perhaps a series of encounters with powerful forces leads you to take on the *cowardly* flaw. Or maybe you spend significant downtime between adventures training with the local weaponsmith and would like to gain the *artisan* perk. The GM is the final arbiter for deciding when and under what circumstances you may choose new perks and flaws, but you should communicate with them your hopes for your character's development.
 
 ### Designing Your Own Perks and Flaws
 
@@ -55,7 +55,7 @@ Whether you are an android constructed of space age material that does not erode
 
 ### Artisan
 
-Choose a specific craft, such as gunsmithing, glass blowing, or brewing. You know the ins and outs of crafting goods of the highest quality within your chosen specialty. As a master craftsman, you are able to create items of exceptional value given the necessary time and materials. Furthermore, whenever you are performing a task in which your crafting skills would play a role, you gain advantage 1 to any action rolls that you must make.
+Choose a specific craft, such as gunsmithing, hardware assembly, glass blowing, or brewing. You are a master of a chosen craft, and your reputation goes far and wide. In a time frame decided by the GM, you can craft any mundane item of wealth level 2 or less, if you have access to the right tools. Furthermore, whenever you are performing a task in which your crafting skills would play a role, you gain advantage 1 to any action rolls that you must make. Your reputation means that other students of your craft may actively seek you out as a teacher. Experts in any field that makes use of the items you create will actively recommend that others seek you out. "You want the best overclocked CPU for that supercomputer? You need to talk to Razul, he's the best hardware craftsman this side of the Third Sun."
 
 ### Ascetic
 
