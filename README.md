@@ -12,6 +12,19 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 04 / 10
+-   Clarify sustaining a boon applies to all original invocation targets
+-   Clarify `Attribute Substitution` replaces the attribute itself, not just the score
+
+#### 2017 / 04 / 01
+-   `Truesight` boon modified, Power Level 5 reveals extraordinary effects in the area and new Power Level 8 allows for seeing through solid objects.
+-   Added optional rule for `Boss Finale`, allowing a boss to take immediate triggered actions when reduced to 0 HP.
+-   Multi-genre perk & flaw friendliness fixes -- `Outlaw` perk becomes `Fugitive`, `Noble` perk becomes `Upper Class`.
+-   `Marksman` feat renamed to `Longshot` and modified to include Extraordinary attacks as well.
+
+#### 2017 / 03 / 31
+-   Removed option to use Legend Points after a given roll
+
 #### 2017 / 03 / 26
 -   `Reckless Frenzy` name changed to `Reckless Attack` and clarified that it only allows a single extra attack per round.
 -   `Phantasm` bane area sizes cleaned up. Previously power level 7 area size was the same as power levels 1 - 6.

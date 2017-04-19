@@ -115,7 +115,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *These magical glyphs are usually created to guard items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered.*
 
-Energy 5, Autonomous
+**Properties**: Energy 5, Autonomous
 
 **Special**: Once activated and affixed to a surface, an Aegis of Warding cannot be moved. A successful removal destroys it in the process. In addition, all damage dealt by the Aegis is lethal damage.
 
@@ -126,7 +126,7 @@ Energy 5, Autonomous
 
 *Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with an automatic adrenaline pump.*
 
-Heal 3, Persistent (Heal)
+**Properties**: Heal 3, Persistent (Heal)
 
 
 #### Black Lotus Extract
@@ -135,7 +135,7 @@ Heal 3, Persistent (Heal)
 
 *Of those who dabble in such dark secrets, no poison is more feared than that extracted from the petals of the black lotus.*
 
-Death 9, Augmenting, Expendable, Potent
+**Properties**: Death 9, Augmenting, Expendable, Potent
 
 
 #### Blowfish Venom
@@ -144,7 +144,7 @@ Death 9, Augmenting, Expendable, Potent
 
 *With just a drop in an unattended goblet or a liberal dose on the edge of a blade, this poison renders its target completely immobile and incapable of escape.*
 
-Immobile 5, Augmenting, Expendable
+**Properties**: Immobile 5, Augmenting, Expendable
 
 
 #### Book of Shadows
@@ -153,7 +153,7 @@ Immobile 5, Augmenting, Expendable
 
 *Bound in a black substance harvested from the demiplane of shadow, this ancient tome contains secret words that allow one to manipulate the darkness, and even summon shadowy creatures from otherworldly planes of existence.*
 
-Darkness 5, Summon Creature 5, Blinded 5
+**Properties**: Darkness 5, Summon Creature 5, Blinded 5
 
 **Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will check of CR 15 or suffer one level of the *fatigued* bane.
 
@@ -164,7 +164,7 @@ Darkness 5, Summon Creature 5, Blinded 5
 
 *With its smooth and ornately carved ivory handle, this marvel of frontier ingenuity is the only protection a gunfighter needs.*
 
-Deadly 1, Potent, Weapon (Revolver)
+**Properties**: Deadly 1, Potent, Weapon (Revolver)
 
 
 #### Cerebral Probe
@@ -173,7 +173,7 @@ Deadly 1, Potent, Weapon (Revolver)
 
 *A mechanical apparatus of metal plates, leather straps, and buckles, this device has a cone-shaped metal protrusion that is inserted into the subject's ear and flares out like a phonograph. Once secured, the subject's darkest secrets are thence played like a classic tune from a vinyl record.*
 
-Mind Dredge 6
+**Properties**: Mind Dredge 6
 
 **Special**: This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.
 
@@ -184,7 +184,7 @@ Mind Dredge 6
 
 *This plain steel collar will choke the life out of anyone who wears it.*
 
-Cursed (Persistent Damage 2)
+**Properties**: Cursed (Persistent Damage 2)
 
 
 #### Crystal Ball
@@ -193,7 +193,7 @@ Cursed (Persistent Damage 2)
 
 *No mystic should go without this quintessential tool for peering beyond the limits of normal sight.*
 
-Scrying 6
+**Properties**: Scrying 6
 
 
 #### Digital Camouflage
@@ -202,7 +202,7 @@ Scrying 6
 
 *This specialized digital outerwear is used by elite black ops specialists on ultra-secret espionage missions. 360 degrees of camera coverage feeds dynamic digital concealment which is projected on the suit's exterior.*
 
-Invisible 5, Reliable
+**Properties**: Invisible 5, Reliable
 
 
 #### Dotanuki
@@ -211,7 +211,7 @@ Invisible 5, Reliable
 
 *This exceptionally crafted katana is far heavier than the average blade of its type, bringing far more force to bear on its razor edge blade. A Dotaunki is known to cut foes in two.*
 
-Deadly 2, Weapon (Katana)
+**Properties**: Deadly 2, Weapon (Katana)
 
 **Special**: A devastating blow from the Dotanukia can cause a target to bleed out rapidly. Any time the Dotanuki's attack exceeds the target's defense by 20 or more, the *persistent damage* 9 bane is automatically applied to the target.
 
@@ -222,7 +222,7 @@ Deadly 2, Weapon (Katana)
 
 *These special incendiary rounds ignite on impact, wreathing your quarry in a gout of flame.*
 
-Persistent Damage 4, Augmenting, Expendable
+**Properties**: Persistent Damage 4, Augmenting, Expendable
 
 
 #### Frostblight
@@ -231,7 +231,7 @@ Persistent Damage 4, Augmenting, Expendable
 
 *Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of frost that halts foes in their tracks.*
 
-Aura 2, Armor (Plate Mail), Persistent (Immobile)
+**Properties**: Aura 2, Armor (Plate Mail), Persistent (Immobile)
 
 **Special**: Frostblight can only invoke the *immobile* bane via its aura.
 
@@ -241,7 +241,7 @@ Aura 2, Armor (Plate Mail), Persistent (Immobile)
 
 *A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.*
 
-Persistent Damage 4, Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword)
+**Properties**: Persistent Damage 4, Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword)
 
 
 #### Ghostfire
@@ -250,7 +250,7 @@ Persistent Damage 4, Baneful (Persistent Damage), Damage (Fire), Weapon (Longswo
 
 *This white alchemical liquid ignites in fire as soon as it is exposed to air. Typically, it is sealed tightly in a glass flask or orb meant to be shattered against a foe.*
 
-Energy 5, Expendable
+**Properties**: Energy 5, Expendable
 
 
 #### Helm of Truth
@@ -259,7 +259,7 @@ Energy 5, Expendable
 
 *This shining jeweled helm fills the wielder's heart with a sense of courage, truth, and justice. Though, some say it imbues just a bit too much of the truth, as the wearer finds themself completely unable to tell a lie.*
 
-Bolster 3, Persistent (Bolster), Cursed (Truthfulness 5)
+**Properties**: Bolster 3, Persistent (Bolster), Cursed (Truthfulness 5)
 
 
 #### Horn of Thunder
@@ -268,7 +268,7 @@ Bolster 3, Persistent (Bolster), Cursed (Truthfulness 5)
 
 *When blown, this horn creates a sound wave strong enough to deafen creatures and shatter objects.*
 
-Area 20' cone
+**Properties**: Area 20' cone
 
 **Special**: The wielder can blow this horn as a major action to make an area attack targeting a 20' cone. The attack is Might 5 versus Toughness. Creatures in the area who are hit by the attack suffer the *deafened* (power level 4) and *knock down* (power level 1) banes. Unattended objects in the area, such as doors or locked chests, are instead subject to a damaging attack that deals double damage. The horn can be blown once per day at no cost. Every time it is blown after that, there is a 25% chance that it shatters to pieces.
 
@@ -278,7 +278,7 @@ Area 20' cone
 
 *A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.*
 
-Flight 6
+**Properties**: Flight 6
 
 
 #### Laser Cannon
@@ -287,7 +287,7 @@ Flight 6
 
 *This laser gun turret unleashes a massive beam of highly charged photons to decimate foes. Its immense power is balanced by the time it takes to recharge after each use.*
 
-Area (50' Line), Deadly 2, Weapon (Cannon)
+**Properties**: Area (50' Line), Deadly 2, Weapon (Cannon)
 
 
 #### Maul of Dominance
@@ -296,7 +296,7 @@ Area (50' Line), Deadly 2, Weapon (Cannon)
 
 *This massive two-handed hammer is etched with elegant patterns that indicate its value. When held, it pulses with a power felt by all nearby, emitting an aura of menace that draws the attention foes.*
 
-Aura 8, Special, Weapon (Maul)
+**Properties**: Aura 8, Special, Weapon (Maul)
 
 **Special**: The maul's aura boon can only emit the provoked bane. During the first round of combat, its aura can be invoked as a minor action.
 
@@ -307,7 +307,7 @@ Aura 8, Special, Weapon (Maul)
 
 *This sleek 30th Century rifle is built for deadshot accuracy at ranges where natural eyes can't even see. Delivering a single burst payload of pure energy means that it is completely silent and without recoil.*
 
-Damage (Energy), Deadly 2, Weapon (Sniper Rifle)
+**Properties**: Damage (Energy), Deadly 2, Weapon (Sniper Rifle)
 
 
 #### Plasmablade
@@ -316,7 +316,7 @@ Damage (Energy), Deadly 2, Weapon (Sniper Rifle)
 
 *This regal weapon features a compact hilt made of non-conducting carbon fiber. When activated, a blade of infinitely hot plasma emerges, along with dome-shaped force-field for a hand guard.*
 
-Disarmed 3, Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special
+**Properties**: Disarmed 3, Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special
 
 **Special**: When an attack with the plasmablade exceeds the target's defense by 10 or more, the attack severs the target's limb  completely and all damage from the attack is lethal. Furthermore, the target is suffers *demoralized* (power level 3) for the remainder of the combat and the effect can't be canceled.
 
@@ -327,7 +327,7 @@ Disarmed 3, Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Spec
 
 *This small flask of viscous blue liquid can heal minor wounds in the blink of an eye when consumed or applied topically.*
 
-Heal 3, Consumable
+**Properties**: Heal 3, Consumable
 
 
 #### Potion of Major Healing
@@ -336,7 +336,7 @@ Heal 3, Consumable
 
 *A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.*
 
-Heal 7, Consumable
+**Properties**: Heal 7, Consumable
 
 
 #### Rocket Launcher
@@ -345,7 +345,7 @@ Heal 7, Consumable
 
 *Whether outfitted on a mecha unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.*
 
-Deadly 2, Expendable, Weapon (Cannon)
+**Properties**: Deadly 2, Expendable, Weapon (Cannon)
 
 **Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Every shot counts as a single extraordinary item.
 
@@ -356,7 +356,7 @@ Deadly 2, Expendable, Weapon (Cannon)
 
 *This short rod is crafted of human bone and bears the skull of a screaming human at its head.*
 
-Fear 7
+**Properties**: Fear 7
 
 
 #### Sleeping Gas
@@ -365,7 +365,7 @@ Fear 7
 
 *Some grenades blow your enemies to bits. This one is for those who prefer the more subtle approach.*
 
-Incapacitated 5, Expendable, Area 15' cube
+**Properties**: Incapacitated 5, Expendable, Area 15' cube
 
 
 #### Soul Siphon
@@ -374,7 +374,7 @@ Incapacitated 5, Expendable, Area 15' cube
 
 *This thin black wand emits crackling green necrotic energy capable of draining the very souls from your foes.*
 
-Fatigued 5
+**Properties**: Fatigued 5
 
 
 #### Spyglass of Farsight
@@ -383,7 +383,7 @@ Fatigued 5
 
 *A master creation of steampunk technology, this masterfully crafted spyglass grants its user the eyes of an eagle.*
 
-Perception 6
+**Properties**: Perception 6
 
 
 #### Transmogrification Ray
@@ -392,7 +392,7 @@ Perception 6
 
 *A favorite of mad scientists everywhere, this gun fires a purple ray of energy capable of polymorphing the target into any number of wretched creatures.*
 
-Polymorph 6, Potent, Powerful 1
+**Properties**: Polymorph 6, Potent, Powerful 1
 
 
 #### Universal Access Implant
@@ -401,7 +401,7 @@ Polymorph 6, Potent, Powerful 1
 
 *This implant is a coveted tool, gifted by the Intergalactic Alliance to their most trusted agents. For a resourceful user, it unlocks infinite doors. If not for the built-in AI monitoring your every move, it would priceless.*
 
-Persuasion 7, Autonomous
+**Properties**: Persuasion 7, Autonomous
 
 **Special**: The UAI can only be removed by (illegal) surgery. The wielder always scans affirmatively as a high ranking government official, making them more persuasive via their rank. In addition, the UAI confers a wealth score of 6 for local purchases. Lastly, the device records every action performed by the user and transmits it to the creator. It has Perception 5, applied only to the user's thoughts and actions. If the user fails a contested roll to conceal their intentions, the device will secretly send out an alert and attempt to persuade the user to alter their course of action.
 
@@ -412,7 +412,7 @@ Persuasion 7, Autonomous
 
 *This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day to day engineering tasks.*
 
-Might 3, Autonomous
+**Properties**: Might 3, Autonomous
 
 
 ### Building Your Own Extraordinary Items
@@ -476,7 +476,9 @@ After you have described your item's special properties, you should assign a wea
 
 > ### Example Items with Special Properties
 > \
-> **Hydraulic Propulsion Implants**: You always count as having a running start for your jumps, and your distance covered when jumping is doubled. \
+> **Hydraulic Propulsion Implants** \
+> \
+> You always count as having a running start for your jumps, and your distance covered when jumping is doubled. \
 > \
 > *Is it common?* No. Jumping will be useful in many combats, but only if the terrain and situation fits. Jumping might be useful in non-combat situations, but probably not that often. \
 > \
@@ -490,7 +492,9 @@ After you have described your item's special properties, you should assign a wea
 >
 > * * * * *
 >
-> **Shining Shield**: Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard. \
+> **Shining Shield** \
+> \
+> Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard. \
 > \
 > *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round. \
 > \
@@ -500,11 +504,13 @@ After you have described your item's special properties, you should assign a wea
 > \
 > *Is it limiting?* No. While the Shining Shield is only useful when the wielder is targeted in melee, that situation is pretty common. \
 > \
-> **Final WL Modifier**: +4 \
+> **Final WL Modifier**: +4
 >
 > * * * * *
 >
-> **Assassin's Rifle**: This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
+> **Assassin's Rifle** \
+> \
+> This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
 > \
 > *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
 > \
@@ -514,11 +520,13 @@ After you have described your item's special properties, you should assign a wea
 > \
 > *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
 > \
-> **Final WL Modifier**: +6 \
+> **Final WL Modifier**: +6
 >
 > * * * * *
 >
-> **Helm of Goblin Bane**: At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
+> **Helm of Goblin Bane** \
+> \
+>  At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
 > \
 > *Is it common?* No. Unless the campaign takes place in a world overrun with goblins, a character will likely go entire sessions without being able to use this helm. \
 > \

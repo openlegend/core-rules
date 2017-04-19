@@ -12,7 +12,7 @@ In this chapter, you'll find detailed descriptions of the perks and flaws that y
 
 At character creation, you may select up to two perks and two flaws, and you do not have to select any. Throughout your adventures, the GM may assign you additional perks and flaws as the natural results of your deeds. For example, if your party spends several months on board a ship, the GM may reward everyone with the *profession: sailor* perk. Likewise, if you are subjected to horrible chemical burns as part of a laboratory explosion, the GM might assign you the *physical deformity* flaw to describe your scarred face.
 
-You too, may decide to adopt new perks or flaws with the GM's approval as your character's personality and background develop through play. Perhaps a series of encounters with powerful forces leads you to take on the *cowardly* flaw. Or maybe you spend significant downtime between adventures training with the local weaponsmith and would like to gain the *artisan* perk. The GM is the final arbiter for deciding when and under what circumstances you may choose new perks and flaws.
+You too, may decide to adopt new perks or flaws with the GM's approval as your character's personality and background develop through play. Perhaps a series of encounters with powerful forces leads you to take on the *cowardly* flaw. Or maybe you spend significant downtime between adventures training with the local weaponsmith and would like to gain the *artisan* perk. The GM is the final arbiter for deciding when and under what circumstances you may choose new perks and flaws, but you should communicate with them your hopes for your character's development.
 
 ### Designing Your Own Perks and Flaws
 
@@ -55,15 +55,15 @@ Whether you are an android constructed of space age material that does not erode
 
 ### Artisan
 
-Choose a specific craft, such as weapon smithing, glass blowing, or brewing. You know the ins and outs of crafting goods of the highest quality within your chosen specialty. As a master craftsman, you are able to create items of exceptional value given the necessary time and materials. Furthermore, whenever you are performing a task in which your crafting skills would play a role, you gain advantage 1 to any action rolls that you must make.
+Choose a specific craft, such as gunsmithing, hardware assembly, glass blowing, or brewing. You are a master of a chosen craft, and your reputation goes far and wide. In a time frame decided by the GM, you can craft any mundane item of wealth level 2 or less, if you have access to the right tools. Furthermore, whenever you are performing a task in which your crafting skills would play a role, you gain advantage 1 to any action rolls that you must make. Your reputation means that other students of your craft may actively seek you out as a teacher. Experts in any field that makes use of the items you create will actively recommend that others seek you out. "You want the best overclocked CPU for that supercomputer? You need to talk to Razul, he's the best hardware craftsman this side of the Third Sun."
 
 ### Ascetic
 
-You are well-versed in the art of living with less. Whether a cloistered monk or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your asceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
+You are well-versed in the art of living with less. Whether a cloistered monk, a transcendant psion, or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your asceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
 
 ### Attractive
 
-You are just really darn good looking. This plays to your favor more than just romantically, and your good looks tend to help you out in all sorts of social situations. Whenever your attractiveness would play a role in a situation, you gain advantage 1 to any relevant action rolls.
+When it comes to physical appearance, you're an absolute knockout. This plays to your favor more than just romantically, and your good looks tend to help you out in all sorts of social situations. Whenever your attractiveness would play a role in a situation, you gain advantage 1 to any relevant action rolls.
 
 ### Brute
 
@@ -71,7 +71,7 @@ While others might convince with a silver tongue, you speak the universal langua
 
 ### Courageous
 
-Your heart is brave beyond bounds. Once per game session, as a free action you can cancel all negative effects afflicting you that relate to fear or low morale.
+When the odds are stacked against you, you never falter or waiver. Once per game session, as a free action you can cancel all negative effects afflicting you that relate to fear or low morale.
 
 ### Crowd Favorite
 
@@ -79,7 +79,7 @@ Whether you are an actor, musician, storyteller, magician, or some other type of
 
 ### Disease Immunity
 
-You are immune to natural disease. This protection does not guard against magical curses such as lycanthropy.
+You are immune to natural disease. This protection does not guard against supernatural curses such as lycanthropy.
 
 ### Divine Agent
 
@@ -97,6 +97,10 @@ You have done something in the past to earn the favor of someone in a high place
 
 Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
 
+### Fugitive
+
+You are part of a illegal network, whether it be a thieves' guild, an underground network of stolen data brokers, or otherwise. Once per game session, you can call in a favor from a contact within your network to perform a mundane task such as gathering information or arranging safe passage. If the favor puts your contact at risk, they will still perform it but may ask for an equally risky favor from you in return.
+
 ### Idol
 
 Your reputation for some outstanding virtue precedes you, and people tend to hold you in high esteem. Once per session, you can call upon your reputation to inspire trust from someone who is skeptical of you, your actions, or your allies.
@@ -111,15 +115,15 @@ You have a knack for picking up new skills. Once per game session, provided you 
 
 ### Legendary Bloodline
 
-Your ancestry can be traced to dragons, Void Templars, an ancient order of Archmagi, a intergalactic dynasty, or a similar powerful group. As such, a sense of awe follows you when in the presence of those who respect your heritage. Choose an area of expertise, such as arcana, politics, or warfare. You are assumed to have knowledge and a destiny for greatness in the chosen area of expertise, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you access to the Void Templars securely encrypted database, secure a mentorship under a famous Senator, or cause a Lieutenant who does not know you well to take combat orders from you based on your training in an elite task force.
+Your ancestry can be traced to dragons, Void Templars, an ancient order of Archmagi, an intergalactic dynasty, or a similar powerful group. As such, a sense of awe follows you when met by those who know and respect your heritage. Choose an area of expertise, such as arcana, politics, or warfare. You are assumed to have knowledge and a destiny for greatness in the chosen area of expertise, and others treat you with deference. This influence could guarantee your placement within an Arcane College, grant you access to the Void Templars securely encrypted database, secure a mentorship under a famous Senator, or cause a Lieutenant who does not know you well to take combat orders from you based on your training in an elite task force.
 
 ### Local Hero
 
-You are well-known and respected as a protector of the common folk in a small region. The commoners in this area will look up to you, and will offer you food, shelter, and other necessities. They will even take risks or assume minor costs to aid or protect you, so long as the risk is not death.
+You are well-known and respected as a protector of the common folk in a small region. The average citizen in this area will look up to you, and will offer you food, shelter, and other necessities. They will even take risks or assume minor costs to aid or protect you, so long as the risk is not death.
 
 ### Lucky
 
-Once per game session, in a moment of need, you can call on luck to shine upon you. The GM decides what form this luck takes. For example, an attack that was meant for you might target an ally instead, you may discover a secret passage to escape from a rolling boulder, or a town guardsman decides to overlook your crime because you happen to have grown up on the same street.
+Once per game session, in a moment of need, you can call on luck to shine upon you. The GM decides what form this luck takes. For example, an attack that was meant for you might target an ally instead, you may discover a secret passage to escape from a rolling boulder, or a local law enforcement officer decides to overlook your crime because you happen to have grown up on the same street.
 
 ### Merchant
 
@@ -127,19 +131,11 @@ You understand the art of economics as well as the best of businessmen. A master
 
 ### Nature's Ally
 
-The natural world responds to your deep connection with it. Perhaps you are a preservationist, seeking to restore organic life in a shattered post-apocalyptic wasteland, or maybe you are a hermit closely attuned to the animals and plants of the Sylvan woodlands. Whatever your circumstance, people and creatures of your land can sense your deep respect for the natural order. Wild animals are more receptive to your desires, primitive tribes give you the benefit of the doubt by assuming you do not have destructive intentions, and you can typically gain an audience with an elusive Druid or Shaman in a give region who shares your goal in defending nature.
-
-### Noble
-
-Being of high birth, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts. You are also treated as a peer by lesser nobles and can typically request an audience with them. In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
+The natural world responds to your deep connection with it. Perhaps you are a preservationist, seeking to restore organic life in a shattered post-apocalyptic wasteland, or maybe you are a hermit closely attuned to the animals and plants of the Sylvan woodlands. Whatever your circumstance, people and creatures connected to the land can sense your deep respect for the natural order. Wild animals are more receptive to your desires, primitive tribes give you the benefit of the doubt by assuming you do not have destructive intentions, and you can typically gain an audience with an elusive Druid or Shaman in a given region who shares your goal in defending nature.
 
 ### Observant
 
 Your keen senses allow you to notice details that others typically miss. Once per game session, you can use this ability to notice something out of the ordinary. For example, you might spot a hidden passage behind a bookcase, a trace of blood under the fingernails of another character, or a wig that is not quite convincing. If you use this ability after failing a *Perception* roll, the GM decides whether you notice the initial target of your roll or a different detail.
-
-### Outlaw
-
-You are part of a criminal network, whether it be a thieves' guild, band of smugglers, or otherwise. Once per game session, you can call in a favor from a contact within your network to perform a mundane task such as gathering information or arranging safe passage. If the favor puts your contact at risk, they will still perform it but may ask for an equally risky favor from you in return.
 
 ### Profession
 
@@ -151,7 +147,7 @@ Any goodly-natured creature you encounter is friendly toward you by default rath
 
 ### Resilient
 
-Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
+You are exceptionally difficult to kill or wear down. Once per game session, you can automatically succeed a Fortitude action roll of Challenge Rating less than or equal to 10 + twice your Fortitude score.
 
 ### Scavenger
 
@@ -159,11 +155,11 @@ You have lived a life of need, and thus know how to make do when others would go
 
 ### Scent
 
-Your sense of smell is similar to that of a wild beast. As a focus action, you can discern the number and relative location of living creatures within 60'. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60'. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
+Your sense of smell is almost feral or otherwise ultra-heightened. As a focus action, you can discern the number and relative location of living creatures within 60'. With an additional focus action you can lock onto a particular scent and maintain its relative location as long as it remains within 60'. Furthermore, you gain advantage 1 on attempts to track a creature if it has left a scent trail.
 
 ### Scholar
 
-You have spent years studying a particular discipline, such as science, herbalism, dragon lore, history, politics, or religion. Once per session, you can re-roll a failed *Learning* check related to your discipline, gaining advantage 2 on the re-roll. Furthermore, you have colleagues and connections within your discipline, and know the proper channels for gaining access to specialty laboratories, libraries, temples, or other collections of lore related to your field of scholarship.
+You have spent years studying a particular discipline, such as physics, herbalism, dragon lore, history, politics, or religion. Once per session, you can re-roll a failed *Learning* check related to your discipline, gaining advantage 2 on the re-roll. Furthermore, you have colleagues and connections within your discipline, and know the proper channels for gaining access to specialty laboratories, libraries, temples, or other collections of lore related to your field of scholarship.
 
 ### Silver Tongue
 
@@ -176,6 +172,10 @@ While underground you may fail to find what you're looking for, but you can neve
 ### Street Rat
 
 You were raised on the streets or at least spent a good deal of time crawling about them. As such, you know how to navigate urban areas quickly, make yourself unseen, and find a bite to eat when you're down on your luck. As one of the invisible urchins that crawl the city, you are also quite adept at picking up rumors in taverns and crowded streets. You gain advantage 1 on rolls for situations in which your street rat nature would be helpful.
+
+### Upper Class
+
+Being of high birth, old money, or otherwise given access to resources beyond the common citizen, you are treated as a benefactor by the lower classes. They will trust and help you in the hopes of being rewarded for their efforts. You are also treated as a peer by those of similar or slightly higher social standing and can typically request an audience with them. In addition, representatives of the law generally assume you to be beyond reproach unless they are presented with compelling evidence to the contrary.
 
 ### Vagabond
 
@@ -210,7 +210,7 @@ Battle isn't just a way of life, it is *the* way of life. There isn't a conflict
 
 ### Brash
 
-You are bold and daring to the point of recklessness. You have no time for plans, calculations, or strategic thinking. A lot of brass and a peck of luck are all you need. Kick in the door and let the details sort themselves out.
+You are bold and daring to the point of recklessness. You have no time for plans, calculations, or strategic thinking. A lot of brass and a bit of luck are all you need. Kick in the door and let the details sort themselves out.
 
 ### Bravado
 
@@ -245,6 +245,7 @@ You can't help it: you just like *things*. Money, gems, items of power - they be
 You won't tell a lie or engage in deceitful speech, even to save your own life or the life of another.
 
 ### Hot Tempered
+
 Your fuse is short and your explosions are destructive. Sometimes your anger boils slowly over time and other times it erupts completely unexpectedly. But when you do fly off the handle, things rarely go well for you.
 
 ### Illiterate

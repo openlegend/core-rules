@@ -10,7 +10,7 @@ Before we get into all of that good stuff, though, let's take a moment and explo
 
 **A good GM likes to tell a story.** If you spent hours as a child developing elaborate worlds in your backyard or writing tales of adventure, or even drawing epic scenes, then you're on the right track. Watching a story unfold based on your inspiration is perhaps one of the most enjoyable aspects of running a game.
 
-**A good GM doesn't railroad the players.** While it is important for you to be well prepared with your story (or skilled at improvisation), you also need to remember that the players should have a meaningful role in how the story unfolds. Players will feel like they are stuck on a railroad from which they can't escape, for example, if no matter what they do the princess still gets kidnapped, the planet destroyed, or the ancient artifact stolen.
+**A good GM doesn't railroad the players.** While it is important for you to be well prepared with your story (or skilled at improvisation), you also need to remember that the players should have a meaningful role in how the story unfolds. Players will feel like they are stuck on a railroad from which they can't escape, for example, if no matter what they do the child still gets kidnapped, the planet destroyed, or the ancient artifact stolen.
 
 **A good GM knows the rules.** As the game master, you may very well be the only one at the table who has read this rule book. That means you need to act as a teacher, director, and referee all at once. In particular, you should be prepared to know what each of the attributes can be used for, as well as the banes and boons that your players will be most likely to invoke.
 
@@ -318,8 +318,7 @@ The complex build is a good option when you are creating a very important villai
 
 The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don't have any stats written up for these enemies. In this situation, you could use the simple build rules to get combat rolling quickly.
 
-Use the NPC Simple Build Table to determine the NPCs's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the NPC enemy you are building. Choose 1 to 3 primary attributes that will form the main basis of the NPC's attacks and actions, and then choose as many secondary attributes as you need in order to define the NPCs's other capabilities.
-
+Use the NPC Simple Build Table to determine the NPCs's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the NPC enemy you are building. Choose 1 to 3 primary attributes that will form the main basis of the NPC's attacks and actions, and then choose as many secondary attributes as you need in order to define the NPCs's other capabilities. These form a rough guideline that we recommend you not exceed, though you can feel free to assign lower attributes and even higher ones if you feel that's appropriate. Not all attributes are created equal.
 
 <div class="table-no-body"></div>
 | NPC SIMPLE BUILD |
@@ -349,13 +348,13 @@ Use the NPC Simple Build Table to determine the NPCs's most relevant statistics.
 | 19 | 46 - 58 | 23 - 29 | 10 | 9 |
 | 20 | 48 - 60 | 24 - 30 | 10 | 9 |
 
-Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Some of these are new feats that are only available to GM controlled NPCs.
+Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Feel free to select any feat found in Chapter 3 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
-- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane.
+- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane. When making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll
 
-- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane.
+- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane. When making a bane attack to inflict the  chosen bane, you gain advantage 3 on the bane attack roll
 
 - **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain the following benefits:
 
@@ -413,6 +412,8 @@ The number of additional attacks you can make with this feat is limited to 1 + h
 
 - **Resilient:** Any time you make a resist roll, you have advantage 1 on the roll.
 
+- **Skill Specialization (tier equal to NPC level, max 9):** With a chosen attribute, gain advantage 1 per tier on non-attack, non-invocation rolls.
+
 - **Superior Concentration (tier 1 - 3, your choice):** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
 
 > ##### Example Simple Enemy NPC Build: Swamp Snakes
@@ -457,22 +458,38 @@ When you decide that one of your NPCs merits boss status, use the Boss NPC Build
 
 **Boss Edge**
 
-A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. Furthermore, a boss NPC gets advantage on all attack rolls equal to its boss edge value.
+A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. Furthermore, a boss NPC gets advantage on all attack rolls equal to its boss edge score.
+
+> ##### Optional Rule: Boss Finale
+> \
+> Some GMs may find the potential of a boss being killed with one very high attack roll (perhaps even before it attacks) to be counter to their storytelling goals and undermining of the boss's intended gravitas. To prevent bosses from dying unceremonious deaths, a GM may institute the following optional Boss Finale rule.
+> \
+> *The first time in a combat when a boss is reduced to zero hit points, it immediately receives a number of boss actions equal to its Boss Edge score plus one. During these boss actions, other characters cannot take interrupt actions. If it was another character's turn and their turn was unfinished, their turn is interrupted by the boss and then resumed when the boss actions are complete.*
+
 
 In addition to its normal allotment of actions, a boss also receives a number of special *boss actions* on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
 
 > ##### Example Initiative Order Using Boss Actions
 >
 > The following initiative order imagines a group of 4 player characters fighting a boss with an edge of 4. Only one of the PCs rolled higher than the boss on initiative.
->
+> \
+> \
 > 1st: PC 1
+>
 > 2nd: Boss's Normal Turn
+>
 > 3rd: PC 2
+>
 > 4th: Boss Action 1
+>
 > 5th: PC 3
+>
 > 6th: Boss Action 2
+>
 > 7th: PC 4
+>
 > 8th: Boss Action 3
+>
 > 9th: Boss Action 4
 >
 
@@ -509,7 +526,7 @@ If your encounter includes boss NPCs, multiply their level by 4 for purposes of 
 
 When designing an encounter, you may want to designate some enemies as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any NPC for three minions of the same level. Minions have the same stats as any other enemy NPC of their level, but their hit points are divided by four.
 
-For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your NPC level budget would only allow you to include six 1st level NPCs, but you decide to replace them all with minions, allowing you to include 18 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 HP each.
+For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your NPC level budget would only allow you to include six 1st level NPCs, but you decide to replace them all with minions, allowing you to include 18 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 hit points each.
 
 ### Encounter Setting
 

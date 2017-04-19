@@ -34,11 +34,11 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 
 > #### Example of Initiative and Surprise
 >
-> Spaz and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
+> Zak and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
 >
-> Spaz and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Spaz was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+> Zak and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Zak was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 >
->> Spaz (Agility 2) rolls 1d20 + 1d6, and gets a 14.
+>> Zak (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
 >> Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
 >>
@@ -54,7 +54,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >>
 >> **Surprised Combatants**
 >>
->>  Spaz 14
+>>  Zak 14
 
 
 ### Waiting to Act
@@ -81,20 +81,13 @@ When your turn in the initiative order comes, you are allowed one major action, 
 Major actions are what you take to get big things done in combat. Your major action can be taken to do one of the following:
 
 -   Make a damaging attack
-
 -   Make a bane attack
-
 -   Invoke a boon
-
 -   Assist an Ally
-
 -   Take an extra move action
 
 
 Each of these actions is explained below.
-
-> #### Combat on a Grid
-> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
 
 #### Make a Damaging Attack
 
@@ -107,6 +100,21 @@ A damaging attack is one in which you are strictly aiming to reduce your foe’s
 1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
 
 These steps are explained in more detail below.
+
+<br><br>
+
+<div class="table-no-body"></div>
+| Damaging Attacks |
+| - |
+| |
+<div class="table-no-head"></div>
+| |
+| - |
+| **Attack Roll Total** - **Target Defense** = **Damage Dealt** *(minimum of 3 on success)* |
+| *(**Exceptional Success** - trigger a bane if total is 10 or more over defense)* |
+
+<br><br>
+
 
 ##### Determine Attribute Versus Defense
 
@@ -188,6 +196,13 @@ Make an action roll using the attribute determined in step 1. You deal damage eq
 
 If your attack roll exceeds the target's defense by 10 or more, you may apply one bane of a power level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
+<br><br>
+
+> #### Combat on a Grid
+> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
+
+<br><br>
+
 ##### Multi-targeting
 
 By default, your attacks target a single foe. However, you may choose to target multiple individual foes or to target an area, provided that all of your targets fall within your attack’s range.
@@ -255,7 +270,7 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 
 You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the [boon descriptions](http://www.openlegendrpg.com/boons). To invoke a boon, follow these steps:
 
-1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options.
+1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options. If you later sustain this boon, that use of the sustain action persists the boon for all targets affected by the original invocation.
 
 1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](http://www.openlegendrpg.com/boons).
 
@@ -355,7 +370,7 @@ Only voluntary movement made on the moving character's turn trigger opportunity 
 
 #### Sustain a Boon
 
-Many boons have a default duration of *sustain persists*, which means that every time a character uses the *sustain a boon* action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action.
+Many boons have a default duration of *sustain persists*, which means that every time a character uses the *sustain a boon* action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action. Each time you sustain a boon, it remains active for all targets affected by the original invocation, so when sustaining multi-target boon invocations, the boon remains active for all of the original targets.
 
 > ##### Sustaining Boon Examples
 >
@@ -406,7 +421,7 @@ Once per round as part of your defend action, you may also move up to half of yo
 >
 > * * * * *
 >
-> A grenade lands at the feet of Spaz and Tomlinson. The grenade rolls a 25 against their Guard scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Spaz with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 2 on his Agility roll, which totals 26. Spaz takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
+> A grenade lands at the feet of Zak and Tomlinson. The grenade rolls a 25 against their Guard scores of 12 and 18, potentially dealing 13 and 7 damage, respectively. Tomlinson uses the defend action to move half his speed (15 feet) away, opting to move Zak with him, and then makes an Agility roll to shield his ally. Tomlinson is wielding a riot shield, so he gets advantage 2 on his Agility roll, which totals 26. Zak takes no damage. However, since the defend action can only affect a single target, Tomlinson still takes 7 points of damage. Because defend is an interrupt action, when Tomlinson's turn in the initiative comes, he does not get a major action.
 
 #### Improvise
 

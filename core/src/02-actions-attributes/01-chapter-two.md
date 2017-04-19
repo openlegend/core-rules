@@ -156,7 +156,7 @@ To resolve such contests, each character involved makes an action roll using an 
 
 ### Group Action Rolls
 
-In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures then successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
+In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures than successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
 
 The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
 
@@ -231,9 +231,7 @@ The GM may also feel free to establish other rules for awarding legend points. F
 
 A PC may spend a maximum number of legend points equal to their level plus one in order to enhance a single action roll.
 
-Before making an action roll, the PC declares how many legend points they are spending, and gains advantage 1 on the roll for each legend point spent.
-
-Alternatively, a PC may choose to spend legend points after they make an action roll and are dissatisfied with the result. Each legend point spent applies a retroactive advantage 1 to the roll, allowing the player to roll additional attribute dice and recalculate the roll completely as if it was made with the new advantage total.
+Before making an action roll, the PC declares how many legend points they are spending, and gains advantage 1 on the roll for each legend point spent. Additionally, for each legend point spent on the roll a +1 is added to the end result.
 
 ## Attributes and Action Rolls in Play
 
@@ -317,11 +315,11 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 #### Heroic Test of Fortitude (CR 20)
 
-While traversing the deep reaches of space, Spaz was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
+While traversing the deep reaches of space, Zak was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
 
-**Success with a twist:** Spaz's immune system is too compromised, and the disease persists. However, while Spaz was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
+**Success with a twist:** After a day or two of rest, Zak makes a full recovery and is now immune. However, unbeknownst to him, he has become a carrier of the pathogen, endangering his unwary allies.
 
-**Failure, but the story progresses:** Spaz cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Spaz will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: *Chronos Plague*.
+**Failure, but the story progresses:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
 #### Epic Test of Fortitude (CR 25)
 
@@ -365,11 +363,11 @@ Logic is the mental attribute of deductive reasoning and problem solving. Charac
 
 #### Challenging Test of Logic (CR 15)
 
-Commander Zack's sky ship, *The Danger*,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver the powerful gatling guns mounted at the bow the *Danger*. Zack takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
+Commander Grimm's sky ship, *The Danger*,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver the powerful gatling guns mounted at the bow the *Danger*. Grimm takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
 
-**Success with a twist:** Zack's experience pays off, and he is able to issue his crew commands to catch three of the gliders within range of the gatling guns. However, the turn leaves him in vulnerable position to the other three gliders, who receive advantage on their attacks this round.
+**Success with a twist:** Grimm's experience pays off, and he is able to issue his crew commands to catch three of the gliders within range of the gatling guns. However, the turn leaves him in vulnerable position to the other three gliders, who receive advantage on their attacks this round.
 
-**Failure, but the story progresses:** Zack thinks he's got the gliders right where he wants them, but his crew is slow to take orders, and the gliders manage to completely avoid the gatling guns this round.
+**Failure, but the story progresses:** Grimm thinks he's got the gliders right where he wants them, but his crew is slow to take orders, and the gliders manage to completely avoid the gatling guns this round.
 
 #### Heroic Test of Logic (CR 20)
 
@@ -401,11 +399,11 @@ Yldris is interrogating a captured goblin to learn more about the threats of the
 
 #### Heroic Test of Perception (DC 20)
 
-Spaz and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Spaz tells the GM that he will be searching for traps ahead of the party. After clearing several rooms, the party is walking down a corridor that the GM knows to contain a proximity mine, so she asks Spaz to roll Perception.
+Zak and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Zak tells the GM that he will be searching for traps ahead of the party. After clearing several rooms, the party is walking down a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
 
-**Success with a twist:** Spaz notices the mine just as he steps within its activation zone. He is able to shout to his party to take cover, but he will suffer the full force of the mine.
+**Success with a twist:** Zak notices the mine just as he steps within its activation zone. He is able to shout to his party to take cover, but he will suffer the full force of the mine.
 
-**Failure, but the story progresses:** Spaz sets off the trap, and the explosion collapses part of the chamber, separating him from his party.
+**Failure, but the story progresses:** Zak sets off the trap, and the explosion collapses part of the chamber, separating him from his party.
 
 #### Epic Test of Perception (DC 25)
 
