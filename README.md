@@ -73,6 +73,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   `Marksman` feat modified to confer a single range increment bonus rather than a flat 25'.
 -   `Hunter's Foe` feat name changed to `Sworn Enemy` for better genre diversity
 -   `Multi-Target Boon Expert` (reversed change) feat prerequisite is now from Multi-Target Boon Specialist II
+-   `Attribute Substitution` now requires Tier 2 for the benefit of boon and bane invocation prerequisites.
 
 #### 2017 / 03 / 12
 -   `Extraordinary Items` initial release - new chapter `Rewards` for extraordinary items, mounts & vehicles
