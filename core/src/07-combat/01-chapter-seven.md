@@ -111,7 +111,7 @@ These steps are explained in more detail below.
 | |
 | - |
 | **Attack Roll Total** - **Target Defense** = **Damage Dealt** *(minimum of 3 on success)* |
-| *(**Exceptional Success** - trigger a bane if total is 10 or more over defense)* |
+| *(**Exceptional Success** - trigger a bane or disrupt concentration if total is 10 or more over defense)* |
 
 <br><br>
 
@@ -195,6 +195,8 @@ Make an action roll using the attribute determined in step 1. You deal damage eq
 ###### Exceptional Success
 
 If your attack roll exceeds the target's defense by 10 or more, you may apply one bane of a power level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
+
+As an alternative to triggering a bane, you may choose to disrupt the target's concentration. You cancel a single boon being sustained by the target of your attack. If your attack targeted multiple foes, then you may cancel one boon being sustained by each target.
 
 <br><br>
 
@@ -384,13 +386,8 @@ Many boons have a default duration of *sustain persists*, which means that every
 
 Using a focus action involves spending all of your energy and attention on one task. If you choose to forgo your major, move, and minor actions for a round, you may instead take a focus action. Choose one of the following types of focus action:
 
-- Disrupting Attack
 - Superior Action
 - Charge
-
-#### Disrupting Attack
-
-Make a damaging attack using the normal attack rules. If your roll exceeds the target's defense by 10 or more, then any boons being sustained by your target immediately end.
 
 #### Superior Action
 
