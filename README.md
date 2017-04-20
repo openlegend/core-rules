@@ -16,7 +16,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 - Updated the `Artisan` perk to add a cap of wealth level 2 to avoid conflict with `Craft Mundane Item` feat 
 - `Armor Mastery` feat bonus now specifically an _armor bonus_ rather than directly to Guard (affects `Battle Trance`).
 - Clarified that _Reach_ extends range 5'.
-- 
+
 #### 2017 / 04 / 10
 -   Clarify sustaining a boon applies to all original invocation targets
 -   Clarify `Attribute Substitution` replaces the attribute itself, not just the score
