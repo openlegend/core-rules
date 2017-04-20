@@ -1611,6 +1611,7 @@
       any:
         Attribute:
         - Agility: 5
+        - Might: 5
         - Any Extraordinary: 5
   tags:
   - Combat
