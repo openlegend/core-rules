@@ -1,10 +1,10 @@
 # Introduction: This is Your Story. Tell it. #
 
-*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a dusty stasis pod. One of them, covered head to toe in cybernetic implants, attempts to make sense of the alien symbols painted on the pod in dried blood.*
+*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a massive stasis pod. A shadowy form drifts through the clouded liquid, just out of range for them to discern. One of them, covered head to toe in cybernetic implants, attempts to make sense of the hidden symbols, detectable only via ultraviolet spectrum.*
 
-*“Hold that light steady!” he mutters to his companion.*
+*“Hold that UV beam steady!” he mutters to his companion.*
 
-*But his whispers carry far in the long corridors and endless ventilation shafts of the Zeta class cruiser, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn for the flesh of the intruders. “Zak,” stutters the light bearer as he draws a shining six-shooter, “I don't think this freighter is abandoned no more.”*
+*But his whisper is like a shout that shatters the perfect silence of the Zeta class cruiser's massive chamber, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn to taste flesh once again. “Zak,” stutters the light bearer as she draws a shining six-shooter, “I don’t think this freighter is abandoned no more.”*
 
 * * *
 
