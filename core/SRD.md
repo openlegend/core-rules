@@ -3586,16 +3586,17 @@ Below is a complete list of boons available to any character that meets the Powe
 \
 **Power Level:** 6, 8
 \
-**Attributes:** Creation, Entropy \newline
+**Attributes:** Creation, Entropy, Logic \newline
 
-**Description:** You create life or unlife of subhuman intelligence that persists indefinitely and autonomously. \newline
+**Description:** You create a being of subhuman intelligence that persists indefinitely and autonomously. It might be a living creature, an undead fiend, a sentient construct, or any similar creation possessing lifelike properties. Examples of this boon in play include a necromancer creating an undead bodyguard, a mad scientist forging a subhuman being from body parts collected from a variety of corpses, and an engineer creating a cyborg from parts collected at a scrap yard. \newline
 
-**Effect:** You are able to imbue life or unlife into inanimate material components such as dirt, bones, water, vines, or sand (the materials used are subject to GM discretion). You perform a ritual that lasts 8 hours. At the end of the ritual, make your action roll. If successful, the inanimate form is imbued with sentience. If you used the Creation attribute to invoke this boon, then it is a normal living creature. If you used Entropy, then the creature is undead. You can use this boon to animate existing creatures or undead, such as by creating a live wolf from bones and fur or a zombie from an unearthed tomb. However, you cannot use this boon to animate supernatural creatures, such as dragons or basilisks. Your ability to animate the creature grants no permanent control or influence over it. Since it was birthed through magic, it has no concept of family, creator, or parent. In the case of aggressive creatures, the GM would handle interaction normally, but there is a strong possibility that the creature would immediately attack its creator.
+**Effect:** You are able to create an autonomous being from inanimate material components, such as dirt, bones, water, vines, scrap metal, or sand (the materials used are subject to the GM's discretion). To do so, you must first spend 8 hours completing a ritual, experiment, or similar manufacturing process. After this process is complete, make an action roll to invoke this boon. If successful, the inanimate form is permanently imbued with sentience.
 
-The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and should follow the guidelines established by the "Simple Build" section for creating NPCs.
+Your ability to animate a creature does not grant you the permanent ability to control it. However, newly animated beings are affected by the charmed bane (see below), and thus treat you more favorably immediately following their creation.
 
--   **Power Level 6** - You can animate a single creature. Your attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the **charmed** (Minor Charm) bane already in effect (no roll is required).
+The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and should follow the guidelines established by the "Simple Build" section for creating NPCs in Chapter 8: Running the Game. Creatures created using this boon are typically limited to those of subhuman intelligence, such as zombies, combat droids, and golems.
 
+-   **Power Level 6** - You can animate a single creature. Your invoking attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the charmed (Minor Charm) bane already in effect (no roll is required).
 -   **Power Level 8** - You may choose to animate a group of creatures: Either 10 creatures with a max attribute of 2, 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked **charmed** bane is a Major Charm instead of Minor Charm.
 
 ## Aura
