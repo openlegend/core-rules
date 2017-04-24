@@ -12,6 +12,9 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 04 / 23
+-   `Animation` boon can now be accessed via `Logic`. Minor edits to boon text for multi-genre
+
 #### 2017 / 04 / 22
 -   Expand ranges of boss defenses on Boss NPC table
 
