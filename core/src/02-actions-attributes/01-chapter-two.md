@@ -631,11 +631,11 @@ Balthazar has delved deep into the Tomb of Aliki to gain access to the powerful 
 
 #### Epic Test of Entropy (CR 25)
 
-Coach and his team of survivors have located another one of the Apocalypse Gates from which the hordes of undead have been spewed forth upon the earth. As most of the team holds back the zombies with machetes and shotguns, Liza opens her ritual book and attempts to channel the power needed to close the gate.
+Xu Ming and his team of survivors have journeyed in their starcruiser to an abandoned sector of the galaxy emitting a strange energy signature. Touching down on the surface, they discover hordes of nightmarish aliens pouring through a massive portal. As the rest of the team mows down the advancing horde, the voidtouched psion Stryx attempts to channel void energy from a higher dimension to nullify the portal.
 
-**Success with a twist:** Liza must contend with a hell knight who stands on the other side of the portal, using all of his will to thwart her magic. She comes out stronger and closes the portal, though the mental battle scars her for life. She suffers a permanent level of the *fatigue* bane until she can find a means to cure herself.
+**Success with a twist:** Stryx must contend with a horrifying alien brood master holding the portal open and preparing to make the jump itself. It uses all of it's mind-warping power to twist her mind and break her. She prevails and manages to closes the portal, though the mental battle scars her for life. She suffers a permanent level of the fatigue bane until she can find a means to cure herself.
 
-**Failure, but the story progresses:** Although she doesn't have the power to close the Apocalypse Gate, Liza realizes that it is being maintained by a hell knight on the other side. If her team dares to enter the portal and slay him, the gate should close.
+**Failure, but the story progresses:** Although she doesn't have the power to close the portal, Stryx realizes that it is being held open by an alien brood master on the other side. If her team dares to enter the portal and slay the creature, the portal should close.
 
 ### Influence
 
