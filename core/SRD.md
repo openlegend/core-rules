@@ -3089,11 +3089,11 @@ If the target fails three resist rolls to shake off this bane, they die. The dea
 
 **Description:** Whether through grappling, a precise nerve strike, entangling vines, mental compulsion, or a bone-numbing blast of cold, you render your foe incapable of movement. \newline
 
-**Effect:** Your target cannot move from its current space. If you invoked the bane with a Might roll, then both you and the target are immobile in your current space for the duration of the bane (locked in a grapple). While grappling in this manner, you can attempt to inflict this bane again upon the target. If successful, you can move your speed and take the target with you. If this attack fails, you can only move by first releasing the target and ending the bane.
+**Effect:** Your target cannot move from its current space. If you invoked the bane with a Might roll and are within 5' of the target, then both you and the target are immobile in your current space for the duration of the bane (locked in a grapple). While grappling in this manner, you can attempt to inflict this bane again upon the target. If successful, you can move your speed and take the target with you. If this attack fails, you can only move by first releasing the target and ending the bane.
 
 If you invoked the bane with any attribute other than Might, you can move freely while the target remains affected.
 
-You can choose to release the target at any time (a free action that immediately ends the bane). \newline
+You can choose to release the target as a free action, immediately ending the bane. \newline
 
 **Special:** When an affected target succeeds at a resist roll to end this effect, they can move 15' as a free action.
 
