@@ -2555,7 +2555,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Precise** - This weapon can be used to make attacks with the Agility attribute  and invoke banes accessible via Agility.
 
-**Reach** - The weapon can be used to attack enemies 10' away.
+**Reach** - This weapon extends the natural melee range of the creature by 5'.
 
 **Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
