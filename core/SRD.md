@@ -2023,7 +2023,7 @@ shotgun blast that hurls foes back and knocks them to the ground, and a
 wormtongue song that puts targets to sleep and alters their memory are
 all examples of a signature attack that could be created with this feat. \newline
 
-**Effect:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately. \newline
+**Effect:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 1, would require an attribute score of 2). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately. \newline
 
 **Special:** In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 
