@@ -95,7 +95,7 @@ A damaging attack is one in which you are strictly aiming to reduce your foe’s
 
 1. **Determine attribute vs. defense.** Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
 
-1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or extraordinary attack.
+1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or non-physical attack.
 
 1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
 
