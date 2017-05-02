@@ -164,7 +164,7 @@ Non-physical attacks are more open-ended and often require the GM to decide the 
 
 You must choose a target within range of the type of attack you are making:
 
-**Melee physcial attacks** target foes that are within reach of you.
+**Melee physical attacks** target foes that are within reach of you.
 
 **Projectile physical attacks** can target foes within the range of the weapon being used at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
 
