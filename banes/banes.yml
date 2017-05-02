@@ -130,7 +130,7 @@
     </ul>
   special: |
     Resisting this bane is a minor action.
-    Normally, banes inflicted with Agility or Might require a weapon or natural attack, and are thus limited by the range of the attack being used. Because this bane is not always associated with a physical attack, you may determine the range using the Non-Physical Attack Range table (see Chapter 7: Combat) when the situation is appropriate. For example, a character could use Might to inflict this bane by smashing a giant boulder in order to intimidate foes. In this instance, the range of the bane would not be limited to the character's reach and would instead use the Non-Physical Attack Range table.
+    When inflicting this bane using Agility or Might, you may determine range using the Non-Physical Attack Range table (see Chapter 7: Combat).
 - !
   name: Disarmed
   tags:
@@ -244,7 +244,7 @@
     On its turn, the afflicted target must use its entire turn to get as far away as possible from you. It cannot use its actions to do anything other than retreat, and it cannot willingly move closer to you while the bane persists.
   special: |
     While most banes last until the target actively attempts to resist them, this bane prevents the target from thinking clearly. However, the target's logical mind fights to regain control. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from this effect. When your target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next hour.
-    Normally, banes inflicted with Might require a weapon or natural attack, and are thus limited by the range of the attack being used. Because this bane is not always associated with a physical attack, you may determine the range using the Non-Physical Attack Range table (see Chapter 7: Combat) when the situation is appropriate. For example, a character could use Might to inflict this bane by smashing a giant boulder in order to intimidate foes. In this instance, the range of the bane would not be limited to the character's reach and would instead use the Non-Physical Attack Range table.
+    When inflicting this bane using Might, you may determine range using the Non-Physical Attack Range table (see Chapter 7: Combat).
 - !
   name: Forced Move
   tags:
@@ -607,7 +607,7 @@
     </ul>
   special: |
     Resisting this bane is a minor action.
-    Normally, banes inflicted with Agility or Might require a weapon or natural attack, and are thus limited by the range of the attack being used. Because this bane is not always associated with a physical attack, you may determine the range using the Non-Physical Attack Range table (see Chapter 7: Combat) when the situation is appropriate. For example, a character could use Might to inflict this bane by smashing a giant boulder in order to intimidate foes. In this instance, the range of the bane would not be limited to the character's reach and would instead use the Non-Physical Attack Range table.
+    When inflicting this bane using Agility or Might, you may determine range using the Non-Physical Attack Range table (see Chapter 7: Combat).
 
 - !
   name: Scrying
