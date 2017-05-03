@@ -2503,35 +2503,31 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 | Examples | Category | WL | Properties | Banes |
 | :---- | :-: | :-: | :---- | :---- |
-| Unarmed Strike | One-handed Melee | 0  | Forceful, Precise, Swift | Stunned, Knockdown |
+| Unarmed Strike | One-handed Melee | 0 | Forceful, Precise, Swift | Stunned, Knockdown |
 | Bowie Knife, Shiv, Multi-tool | One-handed Melee | 2 | Precise, Swift | Persistent Damage, Disarmed |
-| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
+| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
 | Blow Gun, Dart | Close Ranged | 1 | Forceful, Precise | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 2 | Forceful, Precise, Swift | Persistent Damage, Disarmed |
-| Longsword, Falchion | Versatile Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
-| Katana, Enchanted Longsword | Versatile Melee | 4 | Forceful, Precise, Deadly 1 | Persistent Damage, Disarmed |
-| Plasmablade, Vorpal Sword | One-handed Melee | 5 | Forceful, Precise, Deadly 2 | Persistent Damage, Disarmed, Stunned |
-| Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
-| Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 1 | Forceful, Precise, Heavy | Forced Move, Knockdown |
-| Chainsaw | Two-handed Melee | 1 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
-| Short Spear | Two-handed Melee, Close Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
-| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 1 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
-| Long Spear | Two-handed Melee, Short Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
+| Longsword, Katana, Falchion | Versatile Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
+| Baseball Bat, Club, Improvised Weapon | One-handed Melee | 1 | Forceful | Knockdown, Stunned |
+| Mace, Warhammer | One-handed Melee | 2 | Forceful | Knockdown, Stunned, Forced Move |
+| Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
+| Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
+| Short Spear | Versatile Melee, Short Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
+| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
+| Long Spear | Two-handed Melee, Close Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
 | Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
 | Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Flamethrower | Two-handed Melee | 3 | Precise, Slow, Area (5' / 10' cone) | Fear, Persistent Damage |
-| Pistol, Laser Gun, Handgun, Revolver | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Consumable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
-| Colt 45, .357 Magnum | Medium Ranged | 4 | Precise, Deadly 1 | Persistent Damage, Slowed, Demoralized |
-| Light Crossbow | Medium Ranged | 1 | Precise | Persistent Damage, Immobile |
-| Sawed-off Shotgun | Medium Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
-| Shortbow, Pump Shotgun | Medium Ranged | 1 | Precise | Slowed, Persistent Damage, Knockdown |
+| Laser Pistol, Revolver, Handgun | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
+| Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Expendable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
+| Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
+| Sawed-off Shotgun | Short Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
+| Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (10' cube) | Persistent Damage, Provoked, Demoralized |
-| Heavy Crossbow, Longbow, Rifle | Long Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Laser Rifle | Long Ranged | 4 | Precise, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Sniper Rifle, Phase Rifle | Extreme Ranged | 4 | Precise, Slow, Deadly 2, Delayed Ready | Persistent Damage, Slowed |
-| Laser Cannon | Extreme Ranged | 4 | Precise, Slow, Deadly 3, Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
-| Rocket Launcher, Mech Warhead | Extreme Ranged | 6 | Precise, Deadly 2, Delayed Ready, Heavy, Consumable, Area (15' cube) | Persistent Damage, Stunned, Forced Move |
+| Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
+| Sniper Rifle, Laser Rifle | Extreme Ranged | 2 | Precise | Persistent Damage, Slowed |
+| Cannon | Extreme Ranged | 2 | Precise, Slow, Area (15' square), Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
 | Small Shield | One-handed Melee | 2 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 3 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
@@ -2629,6 +2625,10 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 All weapons (with the exception of unarmed strike), begin with a base Wealth Level of 1. From there, calculate the Wealth Level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
+### Step 5: Check with your GM
+
+Although we've shown how to calculate the Wealth Level of an item based on how powerful it is, the fact remains that many weapons have story value that should not be undermined. A sniper rifle might only have the capabilities of a Wealth Level 1 weapon, but it is expertly crafted and should be beyond the means of a Wealth Level 1 character. You'll notice on the weapons table that it's listed at Wealth Level 2. Your GM should do the same, as a weapon with the Area 9 property, while powerful, clearly does not have the same value as the army of 50,000 mentioned in the Wealth Level 9 example expenditures.
+
 
 #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 
@@ -2642,7 +2642,7 @@ Let's build our own weapon as an example. The kusaria-gama is a very unique weap
 
 **Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
 
-
+**Step 5 (Check With Your GM)** - Does the GM approve? Hopefully. We would hate to disagree with them.
 
 ## Mounts & Vehicles
 

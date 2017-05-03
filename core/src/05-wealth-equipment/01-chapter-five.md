@@ -13,7 +13,7 @@ Every character has a wealth score, which begins at 2 and can range from 0 to 9,
 | - |
 | |
 
-| Wealth Score | Sample Lifestyles | Sample Goods |
+| Wealth Score | Example Lifestyles | Example Expenditures |
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
@@ -119,29 +119,30 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 | Examples | Category | WL | Properties | Banes |
 | :---- | :-: | :-: | :---- | :---- |
-| Unarmed Strike | One-handed Melee | 0  | Forceful, Precise, Swift | Stunned, Knockdown |
+| Unarmed Strike | One-handed Melee | 0 | Forceful, Precise, Swift | Stunned, Knockdown |
 | Bowie Knife, Shiv, Multi-tool | One-handed Melee | 2 | Precise, Swift | Persistent Damage, Disarmed |
-| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
+| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
 | Blow Gun, Dart | Close Ranged | 1 | Forceful, Precise | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 2 | Forceful, Precise, Swift | Persistent Damage, Disarmed |
-| Longsword, Katana, Falchion | Versatile Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
-| Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
-| Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 1 | Forceful, Precise, Heavy | Forced Move, Knockdown |
-| Chainsaw | Two-handed Melee | 1 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
+| Longsword, Katana, Falchion | Versatile Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
+| Baseball Bat, Club, Improvised Weapon | One-handed Melee | 1 | Forceful | Knockdown, Stunned |
+| Mace, Warhammer | One-handed Melee | 2 | Forceful | Knockdown, Stunned, Forced Move |
+| Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
+| Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
 | Short Spear | Versatile Melee, Short Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
-| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 1 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
+| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
 | Long Spear | Two-handed Melee, Close Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
 | Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
 | Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Flamethrower | Two-handed Melee | 3 | Precise, Slow, Area (5' / 10' cone) | Fear, Persistent Damage |
-| Laser Gun, Revolver, Handgun | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
+| Laser Pistol, Revolver, Handgun | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Expendable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
-| Light Crossbow | Medium Ranged | 1 | Precise | Persistent Damage, Immobile |
+| Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
 | Sawed-off Shotgun | Short Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
-| Shortbow, Pump Shotgun | Medium Ranged | 1 | Precise | Slowed, Persistent Damage, Knockdown |
+| Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (10' cube) | Persistent Damage, Provoked, Demoralized |
-| Heavy Crossbow, Longbow, Rifle | Long Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Sniper Rifle, Phase Rifle | Extreme Ranged | 4 | Precise, Slow, Delayed Ready | Persistent Damage, Slowed |
+| Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
+| Sniper Rifle, Laser Rifle | Extreme Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Cannon | Extreme Ranged | 2 | Precise, Slow, Area (15' square), Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
 | Small Shield | One-handed Melee | 2 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 3 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
@@ -266,6 +267,11 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
+### Step 5: Check With Your GM
+
+Although we've shown how to calculate the Wealth Level of an item based on how powerful it is, the fact remains that many weapons have story value that should not be undermined. A sniper rifle might only have the capabilities of a Wealth Level 1 weapon, but it is expertly crafted and should be beyond the means of a Wealth Level 1 character. You'll notice on the weapons table that it's listed at Wealth Level 2. Your GM should do the same, as a weapon with the Area 9 property, while powerful, clearly does not have the same value as the army of 50,000 mentioned in the Wealth Level 9 example expenditures.
+
+
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 >
 > Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
@@ -281,6 +287,9 @@ All weapons (with the exception of unarmed strike), begin with a base wealth lev
 >
 > **Step 4 (Calculate Wealth Level)**
 > The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.
+>
+> **Step 5 (Check With Your GM)**
+> Does the GM approve? Hopefully. We would hate to disagree with them.
 
 
 
