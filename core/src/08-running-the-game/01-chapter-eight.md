@@ -373,6 +373,12 @@ Once you have the basic statistics recorded, choose a few of the following feats
       <br />
       <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
+- **Damage Resistance (tier 1 - 3, your choice, available only to GMs):** Choose a either Precise or Forceful and gain the following benefits:
+
+    - **Tier 1:** Gain +3 to your defense against the chosen damage type.
+    - **Tier 2:** Gain +6 to your defense against the chosen damage type.
+    - **Tier 3:** You are immune to damage of the chosen damage type.
+
 - **Energy Resistance (tier 1 - 4, your choice):** Choose an energy type and gain the following benefits:
 
     - **Tier 1:** Your defense scores are increased by 3 against the chosen energy type.
