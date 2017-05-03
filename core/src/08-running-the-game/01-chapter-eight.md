@@ -375,9 +375,10 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Damage Resistance (tier 1 - 3, your choice, available only to GMs):** Choose a either Precise or Forceful and gain the following benefits:
 
-    - **Tier 1:** Gain +3 to your defense against the chosen damage type.
-    - **Tier 2:** Gain +6 to your defense against the chosen damage type.
-    - **Tier 3:** You are immune to damage of the chosen damage type.
+    - **Tier 1:** Your defense scores are increased by 3 against the chosen damage type.
+    - **Tier 2:** Your defense scores are increased by 6 against the chosen damage type.
+    - **Tier 3:** Your defense scores are increased by 9 against the chosen damage type.
+    - **Tier 4:** You are immune to damage and harmful effects from the chosen damage type.
 
 - **Energy Resistance (tier 1 - 4, your choice):** Choose an energy type and gain the following benefits:
 
