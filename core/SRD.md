@@ -1170,14 +1170,9 @@ attribute in place of Persuasion for the action roll.
 
 -   **Tier 1:** None
 
-**Description:** You are able to decimate many enemies in quick succession, like a
-legendary Samurai warrior or matchless elven archer. \newline
+**Description:** You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you. \newline
 
-**Effect:** Any time you make an attack that reduces a foe to zero hit points or
-less, you can immediately make an extra attack as a free action. \newline
-
-**Special:** The triggering attack must be a Might or Agility
-action roll.
+**Effect:** Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action. \newline
 
 ## Combat Momentum
 
@@ -1187,8 +1182,7 @@ action roll.
 
 -   **Tier 1:** None
 
-**Description:** Whether through brute strength or lightning reflexes, you are able to
-use the momentum of combat to maneuver around the battlefield with ease. \newline
+**Description:** Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease. \newline
 
 **Effect:** Every time you bring an enemy to zero hit points or less with a Might or Agility attack, you can immediately move up to your normal speed as a free action. \newline
 

@@ -430,9 +430,7 @@
   description: |
     You are able to decimate many enemies in quick succession. Like a legendary Samurai warrior or matchless elven archer, your foes fall in waves before you.
   effect: |
-    Any time you make an attack that reduces a foe to zero hit points, you can immediately make an extra attack as a free action.
-  special: |
-    The triggering attack must use a Might or Agility action roll.
+    Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately make an extra attack as a free action.
 - !
   name: Combat Momentum
   prerequisites:
