@@ -2023,7 +2023,7 @@ shotgun blast that hurls foes back and knocks them to the ground, and a
 wormtongue song that puts targets to sleep and alters their memory are
 all examples of a signature attack that could be created with this feat. \newline
 
-**Effect:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately. \newline
+**Effect:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 1, would require an attribute score of 2). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately. \newline
 
 **Special:** In order to benefit from the bane focus feat when using a multi-bane attack, you must possess bane focus for both banes.
 
@@ -3089,11 +3089,11 @@ If the target fails three resist rolls to shake off this bane, they die. The dea
 
 **Description:** Whether through grappling, a precise nerve strike, entangling vines, mental compulsion, or a bone-numbing blast of cold, you render your foe incapable of movement. \newline
 
-**Effect:** Your target cannot move from its current space. If you invoked the bane with a Might roll, then both you and the target are immobile in your current space for the duration of the bane (locked in a grapple). While grappling in this manner, you can attempt to inflict this bane again upon the target. If successful, you can move your speed and take the target with you. If this attack fails, you can only move by first releasing the target and ending the bane.
+**Effect:** Your target cannot move from its current space. If you invoked the bane with a Might roll and are within 5' of the target, then both you and the target are immobile in your current space for the duration of the bane (locked in a grapple). While grappling in this manner, you can attempt to inflict this bane again upon the target. If successful, you can move your speed and take the target with you. If this attack fails, you can only move by first releasing the target and ending the bane.
 
 If you invoked the bane with any attribute other than Might, you can move freely while the target remains affected.
 
-You can choose to release the target at any time (a free action that immediately ends the bane). \newline
+You can choose to release the target as a free action, immediately ending the bane. \newline
 
 **Special:** When an affected target succeeds at a resist roll to end this effect, they can move 15' as a free action.
 

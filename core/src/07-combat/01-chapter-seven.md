@@ -95,7 +95,7 @@ A damaging attack is one in which you are strictly aiming to reduce your foe’s
 
 1. **Determine attribute vs. defense.** Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
 
-1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or extraordinary attack.
+1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or non-physical attack.
 
 1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
 
@@ -122,13 +122,13 @@ First, choose the most logical attribute for the type of attack you are making. 
 
 **Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise* property will determine which attribute to use.
 
-**Extraordinary attacks** are those that make use of one of the attacker's extraordinary attributes, such as by using Energy to summon a ball of fire. A character can only make an extraordinary attack if they possess a score of 1 or higher in the relevant attribute.
+**Non-physical attacks** are those that make use of one of the attacker's attributes other than Might or Agility, such as by using Energy to summon a ball of fire or Logic to spring a trap. A character can only make a non-physical attack if they possess a score of 1 or higher in the relevant attribute.
 
 Once you have chosen your attacking attribute, determine an appropriate defense (Guard, Toughness, or Resolve) to use as the Challenge Rating for your attack, as follows.
 
 Physical attacks always target Guard.
 
-Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
+Non-physical attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
 - **Guard** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame, magical wall of blades, or a laser beam.
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
@@ -164,14 +164,14 @@ Extraordinary attacks are more open-ended and often require the GM to decide the
 
 You must choose a target within range of the type of attack you are making:
 
-**Melee weapon attacks** target foes that are within reach of you.
+**Melee physical attacks** target foes that are within reach of you.
 
-**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
+**Projectile physical attacks** can target foes within the range of the weapon being used at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
 
-**Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
+**Non-physical attacks** have a range determined by the score of the attribute being used, as detailed in the Non-Physical Attack Range table. Unlike projectile weapons, non-physical attacks cannot extend beyond their normal range.
 
 <div class="table-no-body"></div>
-| Extraordinary Attack Range |
+| Non-Physical Attack Range |
 | - |
 | |
 <div class="table-no-head"></div>
@@ -183,7 +183,7 @@ You must choose a target within range of the type of attack you are making:
 
 > ###### Ranged Attacks in Melee
 >
-> Any time you make a ranged attack (weapon or extraordinary) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
+> Any time you make a ranged attack and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 >
 
 <br><br>
@@ -251,7 +251,7 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 
 1. **Determine attribute vs. defense.** The [bane descriptions](http://www.openlegendrpg.com/banes) indicate which attributes you can use to inflict a bane as well as the targeted defense.
 
-1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options.
+1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options. Note that banes invoked with Agility or Might require a weapon or natural attack, and are thus limited by the range of the attack.
 
 1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
