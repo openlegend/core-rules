@@ -4081,7 +4081,7 @@ Multi-targeting for this boon does not work as it does for other boons. You may 
 \
 **Invocation Time:** 1 Major Action
 \
-**Power Level:** 4, 6, 8
+**Power Level:** 3, 5, 7, 9
 \
 **Attributes:** Movement \newline
 
@@ -4089,9 +4089,10 @@ Multi-targeting for this boon does not work as it does for other boons. You may 
 
 **Effect:** Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 30'. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
 
--   **Power Level 4** - The object must be smaller or lighter than a fist-sized rock.
--   **Power Level 6** - The object must be smaller or lighter than a large humanoid creature.
--   **Power Level 8** - The object must be smaller or lighter than a small building, such as a hut or shed.
+-   **Power Level 3** - The object must be smaller than a 1' cube or lighter than 10 pounds.
+-   **Power Level 5** - The object must be smaller than a 5' cube or lighter than 100 pounds.
+-   **Power Level 7** - The object must be smaller than a 10' cube or lighter than 1,000 pounds.
+-   **Power Level 9** - The object must be smaller than a 20' cube or lighter than 10,000 pounds.
 
 ## Telepathy
 

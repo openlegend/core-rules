@@ -604,9 +604,10 @@
   tags:
   - Extraordinary
   power:
-  - 4
-  - 6
-  - 8
+  - 3
+  - 5
+  - 7
+  - 9
   attribute:
   - Movement
   invocationTime: 1 Major Action
@@ -614,10 +615,12 @@
   description: |
     You reach out and extraordinarily control an unattended inanimate object. This may stem from latent psychic ability, magical manipulation of the element of air, anti-gravity technology, or similar sources.
   effect: |
-    Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 30'. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
-    <ul><li><strong>Power Level 4</strong> - The object must be smaller or lighter than a fist-sized rock.</li>
-    <li><strong>Power Level 6</strong> - The object must be smaller or lighter than a large humanoid creature.</li>
-    <li><strong>Power Level 8</strong> - The object must be smaller or lighter than a small building, such as a hut or shed.</li>
+    Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 5' times your invoking attribute score. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
+    <ul>
+    <li><strong>Power Level 3</strong> - The object must be smaller than a 1' cube or lighter than 10 pounds.</li>
+    <li><strong>Power Level 5</strong> - The object must be smaller than a 5' cube or lighter than 100 pounds.</li>
+    <li><strong>Power Level 7</strong> - The object must be smaller than a 10' cube or lighter than 1,000 pounds.</li>
+    <li><strong>Power Level 9</strong> - The object must be smaller than a 20' cube or lighter than 10,000 pounds.</li>
     </ul>
 - !
   name: Telepathy
