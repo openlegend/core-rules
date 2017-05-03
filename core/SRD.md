@@ -3296,6 +3296,7 @@ This bane confers no special ability to know about a target's memory. The invoke
 -   **Power Level 1** - Affect Taste. Manifest a 5' x 5' x 5' area phantasm
 -   **Power Level 2** - Affect Smell, Sound, or Touch
 -   **Power Level 3** - Affect Sight
+-   **Power Level 4** -  Manifest a 10' x 10' x 10' area phantasm
 -   **Power Level 5** - Manifest a 15' x 15' x 15' area phantasm
 -   **Power Level 6** - Affect All Senses
 -   **Power Level 7** - Manifest a 15' x 15' x 15' area phantasm
