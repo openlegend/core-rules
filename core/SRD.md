@@ -1117,7 +1117,7 @@ character. \newline
 -   **Tier 2** - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.
 
 -   **Tier 3** - The effect at tier 3 varies based on the duration of the boon:  \
-\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action. If targeted by the Nullify bane, this effect can only be canceled by a power level 6 or greater invocation of that bane. \
+\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action. If targeted by the *nullify* bane, this effect can only be canceled by a power level 6 or greater invocation of that bane. \
 \ **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
 ## Breakfall (I - II)
@@ -1696,12 +1696,12 @@ bane or boon:
 
 -   You can lead others to join you in ritual casting as long as they are also able to invoke the bane or boon at the same power level that your are invoking it at. At the conclusion of the ritual, each contributor may choose one of the effects granted by Tier 1 of this feat.
 -   You gain the following additional option to choose from when empowering your invocations with ritual magic:
-    -   Cause a boon to persist for 1 minute automatically without needing to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (though the Nullify bane still works).
+    -   Cause a boon to persist for 1 minute automatically without needing to use a sustain action. Furthermore, enemies cannot end the boon through use of a disrupting attack (though the *nullify* bane still works).
     -   Targets may not make resist rolls against a bane for one minute after it is invokes.
 
 **Tier 3** - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the ritual process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the ritual and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active ritual invocation you must be in the same physical or geographic location where the ritual was initiated. When the invocation time is completed, make an action roll as follows:
 
--   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the Nullify bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).
+-   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the *nullify* bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).
 -   **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be nullified either temporarily with the Dispel bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
 -   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the bane automatically.
 -   **Dispel Bane** - Make an Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.
@@ -2185,7 +2185,7 @@ you are able to shake off banes quicker than others.
 unable to alert others of your presence. \newline
 
 **Effect:** Whenever you successfully hit a target that you have advantage against,
-that target is afflicted by the silenced bane.
+that target is afflicted by the *silenced* bane.
 
 ## Skill Specialization (I - V)
 
@@ -2289,7 +2289,7 @@ enthralled by you. \newline
 **Effect:** When you invoke the charmed bane, targets who do not make their resist
 roll within 24 hours of being afflicted become permanently affected by
 the bane. They do not receive any more resist rolls to shake themselves
-free of the effect. Other extraordinary effects like a Nullify bane can
+free of the effect. Other extraordinary effects like a *nullify* bane can
 still end the effect (and other methods may work at the GM's
 discretion).
 
@@ -2825,7 +2825,7 @@ enchanters who control the will of others, not through total domination,
 but through a magical spell of love or friendship. \newline
 
 **Effect:** The charmed bane can only be inflicted via a bane attack. Damaging
-attacks that trigger banes cannot trigger this bane. The Charmed bane
+attacks that trigger banes cannot trigger this bane. The *charmed* bane
 manifests at two levels: minor and major.
 
 **Minor Charm** - The target is mentally compelled to become more friendly, only changing their attitude toward you moderately. If they are about to strike you, they will restrain themselves - still angry and hostile, but no longer violent. If they want to help you and are leaning toward trusting you, but have some hesitation because you've just met, then that hesitation goes away.
@@ -2942,7 +2942,7 @@ If the target fails three resist rolls to shake off this bane, they die. The dea
 
 -   **Power Level 3** - The target drops an object they are holding in a space of your choosing within 15' of the target.
 
--   **Power Level 6** - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a Disarmed bane of their own to counter the effect or make an attribute roll (typically Might) with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
+-   **Power Level 6** - As an alternative to moving the item, you can choose to assume control of it. If you do, you are now the wielder. For the wielder to regain control, they can react with a *disarmed* bane of their own to counter the effect or make an attribute roll (typically Might) with a Challenge Rating equal to 10 + 2 x the attribute score you used to disarm the item.
 
 
 ## Dominated
@@ -2961,11 +2961,11 @@ If the target fails three resist rolls to shake off this bane, they die. The dea
 
 **Description:** Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes by the most powerful of sorcerers or mad scientists who command legions of mindless zombies, completely enslaved to their will. \newline
 
-**Effect:** The dominated bane manifests at two levels: lesser and greater.
+**Effect:** The *dominated* bane manifests at two levels: lesser and greater.
 
 **Lesser Domination** - The target obeys a one word command until the end of their next turn.
 
-**Greater Domination** - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, struggle to regain control of their own body. They cannot take actions of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a resist roll as a free action to break free from the effect. The attacker does not gain special access to the target's mind and so can only order the character to perform actions that they think or know that the character is capable of. Lastly, each mental order that the attacker gives to the target is a major action. However, the order can be a series of verbal commands, such “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
+**Greater Domination** - The target's every action and move is under your control. Unlike the *charmed* bane, characters under the effect of domination lose control of their actions. Their minds, however, struggle to regain control of their own body. They cannot take actions of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a resist roll as a free action to break free from the effect. The attacker does not gain special access to the target's mind and so can only order the character to perform actions that they think or know that the character is capable of. Lastly, each mental order that the attacker gives to the target is a major action. However, the order can be a series of verbal commands, such “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
 
 -   **Power Level 3** - You can target creatures of subhuman intelligence (animals, some elementals, certain undead, etc.) with Lesser Domination.
 
@@ -2995,7 +2995,7 @@ If the target fails three resist rolls to shake off this bane, they die. The dea
 
 -   **Level 1** - The target has disadvantage 1 on all non-attack action rolls.
 
--   **Level 2** - The target is affected by the slowed bane, reducing its speed by half. This instance of the slowed bane cannot be resisted as normal. It persists until the fatigue is removed.
+-   **Level 2** - The target is affected by the *slowed* bane, reducing its speed by half. This instance of the *slowed* bane cannot be resisted as normal. It persists until the fatigue is removed.
 
 -   **Level 3** - The target has disadvantage 1 on all attack rolls.
 
@@ -3005,7 +3005,7 @@ If the target fails three resist rolls to shake off this bane, they die. The dea
 
 -   **Level 6** - The target dies.
 
-**Special:** Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion removes one level of fatigue. If the restoration boon is invoked, the character invoking it can remove one level of Fatigue (in addition to that removed by natural rest) if their attribute used to invoke restoration is between 1 and 6. A target cannot benefit from another invocation of the restoration boon until 24 hours have passed. If the restoration boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one.
+**Special:** Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion removes one level of fatigue. If the *restoration* boon is invoked, the character invoking it can remove one level of Fatigue (in addition to that removed by natural rest) if their attribute used to invoke restoration is between 1 and 6. A target cannot benefit from another invocation of the *restoration* boon until 24 hours have passed. If the *restoration* boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one.
 
 
 ## Fear
@@ -3226,7 +3226,7 @@ This bane confers no special ability to know about a target's memory. The invoke
 - **Power Level 3** - Cancel a boon of Power Level 3
 - **Power Level 4** - Cancel a boon of Power Level 4
 - **Power Level 5** - Cancel a boon of Power Level 5
-- **Power Level 6** - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). Effects that would prevent Nullify from being invoked in this way have no effect. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
+- **Power Level 6** - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). Effects that would prevent *nullify* from being invoked in this way have no effect. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
 - **Power Level 7** -  Cancel a boon of Power Level 7
 - **Power Level 8** -  Cancel a boon of Power Level 8
 - **Power Level 9** -  Cancel a boon of Power Level 9
@@ -3251,7 +3251,7 @@ This bane confers no special ability to know about a target's memory. The invoke
 
 **Description:** Whether by setting the target ablaze, covering them in acid, slicing an artery, or cursing them with a wasting disease, you inflict your foe with a lasting and recurring source of damage. \newline
 
-**Effect:** At the beginning of the target's turn, before they take any actions, they suffer damage determined by the power level of the bane. This damage automatically bypasses the afflicted character's defenses but it can be reduced by any resistance to damage of a certain type (see the resistance boon). Like all dice rolls, these dice explode.
+**Effect:** At the beginning of the target's turn, before they take any actions, they suffer damage determined by the power level of the bane. This damage automatically bypasses the afflicted character's defenses but it can be reduced by any resistance to damage of a certain type (see the *resistance* boon). Like all dice rolls, these dice explode.
 
 -   **Power Level 2** - 1d4 damage per round.
 -   **Power Level 4** - 1d6 damage per round.
@@ -3571,7 +3571,7 @@ Below is a complete list of boons available to any character that meets the Powe
 
 **Description:** By restructuring your bodily composition, creating an extradimensional space, utilizing a cybernetic storage implant, or similar means, you absorb an object into your body, leaving it completely hidden from others and ready for access at a moment's notice. \newline
 
-**Effect:** The object remains in place, completely hidden from the perception of others, until the target summons or recalls it (automatically) as a minor action. If anything happens to cancel this boon (such as the nullify bane), the object is immediately shunted out of the target's body as if the object had been withdrawn.
+**Effect:** The object remains in place, completely hidden from the perception of others, until the target summons or recalls it (automatically) as a minor action. If anything happens to cancel this boon (such as the *nullify* bane), the object is immediately shunted out of the target's body as if the object had been withdrawn.
 
 ## Animation
 
@@ -3587,12 +3587,12 @@ Below is a complete list of boons available to any character that meets the Powe
 
 **Effect:** You are able to create an autonomous being from inanimate material components, such as dirt, bones, water, vines, scrap metal, or sand (the materials used are subject to the GM's discretion). To do so, you must first spend 8 hours completing a ritual, experiment, or similar manufacturing process. After this process is complete, make an action roll to invoke this boon. If successful, the inanimate form is permanently imbued with sentience.
 
-Your ability to animate a creature does not grant you the permanent ability to control it. However, newly animated beings are affected by the charmed bane (see below), and thus treat you more favorably immediately following their creation.
+Your ability to animate a creature does not grant you the permanent ability to control it. However, newly animated beings are affected by the *charmed* bane (see below), and thus treat you more favorably immediately following their creation.
 
 The GM, not the player, is responsible for deciding the attributes and abilities of this animated creature and should follow the guidelines established by the "Simple Build" section for creating NPCs in Chapter 8: Running the Game. Creatures created using this boon are typically limited to those of subhuman intelligence, such as zombies, combat droids, and golems.
 
 -   **Power Level 6** - You can animate a single creature. Your invoking attribute score must be equal to or greater than the highest attribute score of the creature you're animating. With a successful invocation, the creature comes into existence with the charmed (Minor Charm) bane already in effect (no roll is required).
--   **Power Level 8** - You may choose to animate a group of creatures: Either 10 creatures with a max attribute of 2, 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked **charmed** bane is a Major Charm instead of Minor Charm.
+-   **Power Level 8** - You may choose to animate a group of creatures: Either 10 creatures with a max attribute of 2, 5 creatures with a max attribute of 3, or 2 creatures with a max attribute of 5. In addition, the automatically invoked *charmed* bane is a Major Charm instead of Minor Charm.
 
 ## Aura
 
@@ -3658,7 +3658,7 @@ Choose a single bane or boon which uses the same attribute that you used to invo
 
 **Description:** Even in the absence of light you are able to distinguish your surroundings. \newline
 
-**Effect:** The target is immune to the blinded bane and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisiblity, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisible boon.
+**Effect:** The target is immune to the blinded *bane* and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisiblity, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the *invisible* boon.
 
 ## Bolster
 
@@ -3690,7 +3690,7 @@ Choose a single bane or boon which uses the same attribute that you used to invo
 
 **Description:** You create an area of illusory darkness or entropic energy that snuffs out all light. \newline
 
-**Effect:** Choose a space or object within range. Darkness emanates from the target to a radius equal to five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc.) are unaffected. If the darkness area overlaps an area affected by the light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
+**Effect:** Choose a space or object within range. Darkness emanates from the target to a radius equal to five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the *blinded* bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc.) are unaffected. If the darkness area overlaps an area affected by the *light* boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 
 ## Detection
 
@@ -3855,7 +3855,7 @@ If concentration is interrupted or the boon ends while the target is inside of a
 \
 **Attributes:** Entropy \newline
 
-**Description:** This boon allows the target to steal the very lifeforce of their foes.. \newline
+**Description:** This boon allows the target to steal the very lifeforce of their foes. \newline
 
 **Effect:** While this boon persists, the target heals half (round up) of the damage they inflict with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.
 
@@ -3871,7 +3871,7 @@ If concentration is interrupted or the boon ends while the target is inside of a
 
 **Description:** You illuminate an area with a bright light. \newline
 
-**Effect:** Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the darkness boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
+**Effect:** Choose a space or object within range. Extraordinary light emanates from the target to a radius equal five feet per power level of the boon. If the light area overlaps an area affected by the *darkness* boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
 
 ## Precognition
 
@@ -3913,7 +3913,7 @@ object or place within range as follows:
 
 -   **Power Level 6** - The target can read vague ideas and impressions to learn what took place near the object or place within the past hour.
 
--   **Power Level 7** - The target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the scrying bane to locate or view those identified.
+-   **Power Level 7** - The target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the *scrying* bane to locate or view those identified.
 
 -   **Power Level 8** - Choose one: The target sees a vision of the most recent significant event that took place in close proximity to the object or place - OR - the target asks whether or not a specific event is impressed upon the object or place.
 
@@ -3931,7 +3931,7 @@ object or place within range as follows:
 
 **Description:** The target gains an extraordinary ability to heal their wounds. \newline
 
-**Effect:** While the regeneration boon is sustained, the target heals hit points at the beginning of each of the *boon invoker's* turns. The amount of healing is determined by the power level of the boon.
+**Effect:** While the *regeneration* boon is sustained, the target heals hit points at the beginning of each of the *boon invoker's* turns. The amount of healing is determined by the power level of the boon.
 
 -   **Power Level 1** - 1d4
 -   **Power Level 3** - 1d6
