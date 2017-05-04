@@ -2488,7 +2488,7 @@ In this section you will find the tools needed to pick weapons and armor that yo
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the Power Level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack. Some special weapons list banes not normally invoked via Agility or Might. In those cases, the attacking attribute can be used to invoke the bane.
 
 
 \NextTableColumns{OLT{.20}OCT{.15}OCT{.15}OLT{.25}OLT{.25}}

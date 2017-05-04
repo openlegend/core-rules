@@ -37,12 +37,12 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Book of Shadows | 5 |  | Darkness 5, Blinded 5, Summon Creature 5 | Special |
 | Cerebral Probe | 3 |  | Mind Dredge 8 | Special |
 | Collar of Choking | 1 |  |  | Cursed (Persistent Damage 2) |
-| Colt 45 | 3 |  |  | Deadly 1, Potent, Weapon (Revolver) |
+| Colt 45 | 3 |  |  | Deadly 1, Weapon (Revolver) |
 | Crystal Ball | 3 |  | Scrying 6 |  |
 | Digital Camouflage | 4 |  | Invisible 5 | Reliable |
 | Dotanuki | 5 |  |  | Deadly 2, Weapon (Katana), Special |
 | Explosive Ammo | 2 |  | Persistent Damage 4 | Augmenting, Expendable |
-| Firebrand | 4 |  | Persistent Damage 4 | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
+| Firebrand | 4 |  | | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
 | Ghostfire | 2 | Energy 5 |  | Expendable |
 | Helm of Truth | 5 |  | Bolster 3 | Persistent (Bolster), Cursed (Truthfulness 5) |
 | Horn of Thunder | 5 | | | Area (20' cone), Special |
@@ -50,14 +50,14 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Laser Cannon | 6 | Energy 9 |  | Weapon (Cannon) |
 | Maul of Dominance | 4 |  | Aura 8 | Special, Weapon (Maul) |
 | Phase Rifle | 4 |  |  | Damage (Energy), Deadly 2, Weapon (Sniper Rifle) |
-| Plasmablade | 5 |  | Disarmed 3 | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special |
-| Frostblight | 4 |  | Aura 2 | Armor (Plate Mail), Persistent (Immobile), Special |
+| Plasmablade | 5 |  | | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special |
+| Frostblight | 4 |  | Energy 3 | Armor (Plate Mail), Persistent (Aura), Special |
 | Potion of Major Healing | 4 |  | Heal 7 | Consumable |
 | Potion of Minor Healing | 1 |  | Heal 3 | Consumable |
 | Rocket Launcher | 3 |  |  | Deadly 2, Expendable, Weapon (Cannon) |
 | Rod of Fear | 3 |  | Fear 7 |  |
 | Sleeping Gas | 4 |  | Incapacitated 5 | Expendable, Area (15' cube) |
-| Soul Siphon | 3 |  | Fatigued 5 |  |
+| Soul Siphon | 2 |  | Fatigued 5 |  |
 | Spyglass of Farsight | 4 | Perception 6 |  |  |
 | Transmogrification Ray | 5 |  | Polymorph 6 | Potent, Powerful 1 |
 | Universal Access Implant | 6 | Presence 7 |  | Potent 1, Special |
@@ -74,7 +74,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Autonomous** - When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
 
-**Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict one of the listed bane if your attack roll exceeds the target's defense by 5 or more.
+**Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.
 
 **Consumable** -  A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.
 
@@ -90,7 +90,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Potent** - Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.
 
-**Powerful** - Bane or boon invocations made with this item have advantage equal to the item's *powerful* value.
+**Powerful** - Bane or boon invocations made with this item have advantage equal to the item's *powerful* value. An item cannot have a *powerful* value greater than 3.
 
 **Reliable** - The wielder does not have to roll to invoke this item's listed boons if they are targeting a single creature. The invocation automatically succeeds. If the item also has the *area* property, it may still benefit from the automatic success granted by the *reliable* property.
 
@@ -198,7 +198,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 #### Digital Camouflage
 
-**Wealth Level**: 3
+**Wealth Level**: 4
 
 *This specialized digital outerwear is used by elite black ops specialists on ultra-secret espionage missions. 360 degrees of camera coverage feeds dynamic digital concealment which is projected on the suit's exterior.*
 
@@ -231,9 +231,9 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of frost that halts foes in their tracks.*
 
-**Properties**: Aura 2, Armor (Plate Mail), Persistent (Immobile)
+**Properties**: Energy 3, Persistent (Aura), Armor (Plate Mail)
 
-**Special**: Frostblight can only invoke the *immobile* bane via its aura.
+**Special**: Frostblight can only invoke the *immobile* bane via its persistent aura.
 
 #### Firebrand
 
@@ -274,7 +274,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 #### Jet Pack
 
-**Wealth Level**: 4
+**Wealth Level**: 3
 
 *A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.*
 
@@ -370,7 +370,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 #### Soul Siphon
 
-**Wealth Level**: 3
+**Wealth Level**: 2
 
 *This thin black wand emits crackling green necrotic energy capable of draining the very souls from your foes.*
 
@@ -408,7 +408,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 #### Worker Bot
 
-**Wealth Level**: 5
+**Wealth Level**: 4
 
 *This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day to day engineering tasks.*
 
@@ -449,12 +449,12 @@ Choose any additional properties that the item might have. Properties apply a we
 | Consumable | -1 |
 | Cursed | Equal to WL cost for the bane according to the table in step 1 |
 | Damage | +0 |
-| Deadly | Equal to the *deadly* value |
+| Deadly | Equal to the *deadly* value + 2 |
 | Expendable | -1 |
 | Persistent | +3 |
 | Potent | +1 |
 | Reliable | +2 |
-| Powerful | Equal to the *powerful* value |
+| Powerful | Equal to the *powerful* value + 2 |
 | Sentient | +3 |
 | Weapon | Must be acquired or crafted first |
 
@@ -589,9 +589,9 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 *This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.*
 
-Weapon (Longbow), Powerful 2, Slaying (giants), Agility +1, Perception +2, Intelligent
+Weapon (Longbow), Deadly 2, Slaying (giants), Agility +1, Perception +2, Intelligent
 
-**Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Powerful 2. In addition, it grants advantage 2 on all attacks against giants.
+**Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants.
 
 
 #### Infinity Suit
