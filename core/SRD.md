@@ -2585,9 +2585,14 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 | Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
 
 
+
+### Getting in and out of Your Armor
+
+Donning and removing armor takes 1 round for light armor, 1 minute for medium armor, and 10 minutes for heavy armor. Sleeping in medium or heavy armor is only possible with special training. Without the Armor Mastery feat, sleeping in armor causes your character to gain one level of the Fatigued bane, which applies disadvantage 1 to all non-attack rolls until they get a proper night's rest.
+
 ## Building Your Own Weapons
 
-Open Legend is all about freeform creativity, so we've given you lots of examples with the Weapons table, but the list is by no means exhaustive. If you want to build your own custom weapon, follow the steps below
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
@@ -2597,29 +2602,29 @@ Typically a weapon belongs to one category, however some weapons, such as a dagg
 
 Every weapon must have either the *Forceful* or *Precise* property and some weapons have both. Choose one or both.
 
-Next, you will may select a number of properties that have significant game impact, just like *Forceful* and *Precise*, these are listed under properties. The difference is that these other properties each have the effect of raising the Wealth Level of the weapon. The Wealth Level of all weapons begins at 1.
+Next, choose any additional properties that the weapon possesses. Properties adjust the wealth level according to the following table.
 
-The *Deadly* property increases an item's Wealth Level by 2 per tier. So a *Deadly 2* item has a starting Wealth Level of 5.
-
-The *Defensive* property increases the Wealth Level of the item by 1 per tier, so *Defensive 3* would increase the item's Wealth Level by 3.
-
-The *Area* property increases the Wealth Level of the item by 1 per 5' of area, this increase stacks with multiple area instances, so an Area (5' / 10' cone) weapon increases Wealth Level by 3.
-
-The *Reach* and *Swift* properties increase the Wealth Level of an item by 1.
-
-The *Consumable*, *Delayed Ready*, *Slow*, and *Stationary* properties reduce the Wealth Level of the item by 1.
-
-If the item has the *Deadly* property, its Wealth Level cannot be lower than 4.  Depending on the story, a GM may wish to lower this threshold if they want their game to be more dangerous or it takes place in a world where high-tech weapons or firearms are common.
+| Property | WL Modifier |
+| :-: | :-: |
+| Area | + disadvantage penalty incurred by the area via multi-targeting (see Chapter 7: Combat) |
+| Defensive | + *defensive* value |
+| Delayed Ready | -1 |
+| Expendable | -1 |
+| Heavy | 0 |
+| Reach | +1 |
+| Slow | -1 |
+| Stationary | -1 |
+| Swift | +1 |
 
 ### Step 3: Choose Banes
 
-Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact Wealth Level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
+Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact wealth level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
 
 ### Step 4: Calculate Wealth Level
 
-All weapons (with the exception of unarmed strike), begin with a base Wealth Level of 1. From there, calculate the Wealth Level of the weapon based on the decisions from your choices in Step 2 and Step 3.
+All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions from your choices in Step 2 and Step 3.
 
-### Step 5: Check with your GM
+### Step 5: Check With Your GM
 
 Although we've shown how to calculate the Wealth Level of an item based on how powerful it is, the fact remains that many weapons have story value that should not be undermined. A sniper rifle might only have the capabilities of a Wealth Level 1 weapon, but it is expertly crafted and should be beyond the means of a Wealth Level 1 character. You'll notice on the weapons table that it's listed at Wealth Level 2. GMs should also feel free to adjust Wealth Level until it feels correct. Obviously a typical dagger (comes to Wealth Level 2 with the formula), is not worth more than a typical short sword (comes to Wealth Level 1). Similarly, a weapon with the Area 9 property may be powerful, but it does not have the same value as the army of 50,000 mentioned in the Wealth Level 9 example expenditures.
 
@@ -2628,15 +2633,17 @@ Although we've shown how to calculate the Wealth Level of an item based on how p
 
 Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
 
-**Step 1 (Choose a Category)** - While the kusari-gama, might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the  **One-handed Melee** and **Close Ranged** properties.
+**Step 1 (Choose a Category)** - While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the *one-handed melee* and *close ranged* categories.
 
-**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the **Precise** and **Forceful** properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the **Defensive 1** property, and also the **Reach** property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the **Slow** property.
+**Step 2 (Choose Properties)** - Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the *defensive 1* property, and also the *reach* property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the *slow* property.
 
-**Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: **Forced Move**, **Immobile**, **Knockdown**, **Provoked**.
+**Step 3 (Choose Banes)** - In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: *forced move*, *immobile*, *knockdown*, and *provoked*.
 
-**Step 4 (Calculate Wealth Level)** - The properties in step 2 that impact Wealth Level add up to a total Wealth Level of 2, which will be the cost of the weapon. And that's it - we've built our own weapon!
+**Step 4 (Calculate Wealth Level)** - The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.
 
 **Step 5 (Check With Your GM)** - Does the GM approve? Hopefully. We would hate to disagree with them.
+
+
 
 ## Mounts & Vehicles
 

@@ -14,7 +14,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 
 #### 2017 / 05 / 04
 -   `Banes` for weapons now allow the listed banes to be invoked even if the attacking attribute could not normally invoke it. The attacking attribute is used to determine power level.
--   `Baneful` property allows the chosen bane to be invoked even if neither the item, nor wielder can invoke it. The attacking attribute is used to determine power level.
+-   `Baneful` property WL modifier is now dynamic and allows the chosen bane to be invoked even if neither the item, nor wielder can invoke it. The attacking attribute is used to determine power level.
 
 #### 2017 / 04 / 23
 -   `Animation` boon can now be accessed via `Logic`. Minor edits to boon text for multi-genre

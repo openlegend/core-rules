@@ -441,20 +441,20 @@ Choose any additional properties that the item might have. Properties apply a we
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 7: Combat) |
+| Area | + disadvantage penalty incurred by the area via multi-targeting (see Chapter 7: Combat) |
 | Armor | Must be acquired or crafted first |
 | Augmenting | +1 |
 | Autonomous | +2 |
-| Baneful | +2 |
+| Baneful | 1 + WL cost of bane's lowest power level on the table in step 1 |
 | Consumable | -1 |
-| Cursed | Equal to WL cost for the bane according to the table in step 1 |
+| Cursed | WL cost for the bane on the table in step 1 |
 | Damage | +0 |
-| Deadly | Equal to the *deadly* value + 2 |
+| Deadly | 2 + *deadly* value |
 | Expendable | -1 |
 | Persistent | +3 |
 | Potent | +1 |
 | Reliable | +2 |
-| Powerful | Equal to the *powerful* value + 2 |
+| Powerful | 2 + *powerful* value |
 | Sentient | +3 |
 | Weapon | Must be acquired or crafted first |
 
@@ -510,13 +510,13 @@ After you have described your item's special properties, you should assign a wea
 >
 > **Assassin's Rifle** \
 > \
-> This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
+> This weapon has the Baneful (Blinded) and Baneful (Persistent Damage) properties. However, certain conditions must be met to use these properties. If your target is off guard, unaware, or within melee range of one of your allies, you can use the Baneful proprety . \
 > \
 > *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
 > \
 > *Is it versatile?* No. Even though the item can inflict a number of banes, the cost of these are already accounted for because an item pays for every bane it can inflict. \
 > \
-> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack as if it had the *baneful* property. +7 WL. \
+> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack, identical to the *baneful* property. +7 WL. \
 > \
 > *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
 > \

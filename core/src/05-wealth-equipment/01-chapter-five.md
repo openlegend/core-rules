@@ -249,8 +249,8 @@ Next, choose any additional properties that the weapon possesses. Properties adj
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 7: Combat) |
-| Defensive | Equal to the *defensive* value |
+| Area | + disadvantage penalty incurred by the area via multi-targeting (see Chapter 7: Combat) |
+| Defensive | + *defensive* value |
 | Delayed Ready | -1 |
 | Expendable | -1 |
 | Heavy | 0 |
