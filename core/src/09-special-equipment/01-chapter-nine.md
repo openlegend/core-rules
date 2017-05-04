@@ -514,13 +514,13 @@ After you have described your item's special properties, you should assign a wea
 > \
 > *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
 > \
-> *Is it versatile?* No. Even though the item can inflict a number of banes, the cost of these are already accounted for because an item pays for every bane it can inflict. \
+> *Is it versatile?* No. Even though the item has multiple instances of the *baneful* proprety, the cost of these is already accounted for in the properties. \
 > \
-> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack, identical to the *baneful* property. +7 WL. \
+> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack, so we calculate it the same as two instances of the *baneful* property. +3 WL *blinded* +2, WL *persistent damage*. \
 > \
 > *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
 > \
-> **Final WL Modifier**: +6
+> **Final WL Modifier**: +4
 >
 > * * * * *
 >
