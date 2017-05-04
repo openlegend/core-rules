@@ -269,7 +269,7 @@ All weapons (with the exception of unarmed strike), begin with a base wealth lev
 
 ### Step 5: Check With Your GM
 
-Although we've shown how to calculate the Wealth Level of an item based on how powerful it is, the fact remains that many weapons have story value that should not be undermined. A sniper rifle might only have the capabilities of a Wealth Level 1 weapon, but it is expertly crafted and should be beyond the means of a Wealth Level 1 character. You'll notice on the weapons table that it's listed at Wealth Level 2. Your GM should do the same, as a weapon with the Area 9 property, while powerful, clearly does not have the same value as the army of 50,000 mentioned in the Wealth Level 9 example expenditures.
+Although we've shown how to calculate the Wealth Level of an item based on how powerful it is, the fact remains that many weapons have story value that should not be undermined. A sniper rifle might only have the capabilities of a Wealth Level 1 weapon, but it is expertly crafted and should be beyond the means of a Wealth Level 1 character. You'll notice on the weapons table that it's listed at Wealth Level 2. GMs should also feel free to adjust Wealth Level until it feels correct. Obviously a typical dagger (comes to Wealth Level 2 with the formula), is not worth more than a typical short sword (comes to Wealth Level 1). Similarly, a weapon with the Area 9 property may be powerful, but it does not have the same value as the army of 50,000 mentioned in the Wealth Level 9 example expenditures.
 
 
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
