@@ -6,7 +6,7 @@ The Introduction and Chapter 1 provided you with the core mechanic for action re
 
 Open Legend is about creating great stories full of epic moments of heroism, and you will roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to roll a Persuasion check every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
 
-Open Legend includes a number of Extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but Extraordinary attributes require a minimum score of 1 in order to attempt a roll.
+Open Legend includes a number of extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but extraordinary attributes require a minimum score of 1 in order to attempt a roll.
 
 ## Every Roll Matters
 
@@ -68,7 +68,7 @@ The previous scenario involving Pelias provides just one method in which a GM mi
 
 A successful action roll is by far the easiest to interpret: it means that the player gets what they were hoping for. If they were rolling to climb a cliff, then they climb it. If they were trying to pick a pocket, then it's picked. If they were trying to stab an orc, it is stabbed. And so on.
 
-In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 6). Often, though, the GM will need to determine what happens with a successful action roll.
+In some cases, the results of a success are already written into the rules (such as in combat, explained in Chapter 7). Often, though, the GM will need to determine what happens with a successful action roll.
 
 There are two primary factors to consider when adjudicating a success:
 
@@ -156,7 +156,7 @@ To resolve such contests, each character involved makes an action roll using an 
 
 ### Group Action Rolls
 
-In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures then successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
+In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures than successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
 
 The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
 
@@ -187,12 +187,12 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
 
 > #### Example of Advantage with Exploding Dice
-> 
+>
 > Tommy "Two Guns" unloads his pistols on an enemy gangster. His Agility is 3 and he has advantage 2 on the roll, so he rolls 1d20 + 3d8. Tommy's d20 rolls a 10 and the d8s land 8, 8, and 3. Because of his advantage 2, Tommy ignores the lowest two dice: the 3 and one of the 8s. He re-rolls the remaining 8 because dice explode on their maximum result and gets a 5. His final roll is 23 (10 + 8 + 5).
 
-### Advantage and Disadvantage Without Attribute Dice
+### Advantage and Disadvantage without Attribute Dice
 
-When making an action roll without addribute dice, advantage and disadvantage affect the d20. For advantage, roll 2d20 and keep the highest. For disadvantage, roll 2d20 and keep the lowest. Additionally, you cannot accrue advantage or disadvantage greater than 1 in such situations. Your character is already so inept at the action that they cannot capitalize on cumulative circumstancial help or hindrances.
+When making an action roll without attribute dice, advantage and disadvantage affect the d20. For advantage, roll 2d20 and keep the highest. For disadvantage, roll 2d20 and keep the lowest. Additionally, you cannot accrue advantage or disadvantage greater than 1 in such situations. Your character is already so inept at the action that they cannot capitalize on cumulative circumstantial help or hindrances.
 
 These rules apply to both actions performed with an attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus, you cannot multi-target attack if you have an attribute score of zero.
 
@@ -229,7 +229,9 @@ The GM may also feel free to establish other rules for awarding legend points. F
 
 ### Spending Legend Points
 
-Before making an action roll, a PC may spend a maximum number of legend points equal to their level plus one. For each legend point spent, they gain advantage 1 on the action roll.
+A PC may spend a maximum number of legend points equal to their level plus one in order to enhance a single action roll.
+
+Before making an action roll, the PC declares how many legend points they are spending, and gains advantage 1 on the roll for each legend point spent. Additionally, for each legend point spent on the roll a +1 is added to the end result.
 
 ## Attributes and Action Rolls in Play
 
@@ -313,11 +315,11 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 #### Heroic Test of Fortitude (CR 20)
 
-While traversing the deep reaches of space, Spaz was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
+While traversing the deep reaches of space, Zak was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
 
-**Success with a twist:** Spaz's immune system is too compromised, and the disease persists. However, while Spaz was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare subthermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
+**Success with a twist:** After a day or two of rest, Zak makes a full recovery and is now immune. However, unbeknownst to him, he has become a carrier of the pathogen, endangering his unwary allies.
 
-**Failure, but the story progresses:** Spaz cannot shake the Chronos Plague, and like all victims who fail to fight it off in the first week, the symptoms become permanent. Barring some miraculous cure, Spaz will forever suffer from periodic bouts of space-time distortion. He gains a new custom flaw: *Chronos Plague*.
+**Failure, but the story progresses:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
 #### Epic Test of Fortitude (CR 25)
 
@@ -345,7 +347,7 @@ While traversing the jungle planet Thox, Selena encounters a race of alien squid
 
 **Success with a twist:** Selena can understand the squid language well enough to gather a general impression of what they are trying to communicate, though complex ideas are impossible to transmit.
 
-**Failure, but the story progresses:** In her attempt to learn the language, Selena mimicks several of the gurgles and hisses of the squid men. They take her mimicry as an insult, and they are on the verge of taking her prisoner if she cannot find a way to make peace.
+**Failure, but the story progresses:** In her attempt to learn the language, Selena mimics several of the gurgles and hisses of the squid men. They take her mimicry as an insult, and they are on the verge of taking her prisoner if she cannot find a way to make peace.
 
 #### Epic Test of Learning (CR 25)
 
@@ -361,11 +363,11 @@ Logic is the mental attribute of deductive reasoning and problem solving. Charac
 
 #### Challenging Test of Logic (CR 15)
 
-Commander Zack's sky ship, *The Danger*,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver the powerful gatling guns mounted at the bow the *Danger*. Zack takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
+Commander Grimm's sky ship, *The Danger*,  is under attack by a half dozen enemy gliders. The gliders can turn on a dime and easily outmaneuver the powerful gatling guns mounted at the bow the *Danger*. Grimm takes a moment to analyze their attack formation and predict the gliders' most probable movements in hopes of catching as many of them as possible at the front of his ship during the next run.
 
-**Success with a twist:** Zack's experience pays off, and he is able to issue his crew commands to catch three of the gliders within range of the gatling guns. However, the turn leaves him in vulnerable position to the other three gliders, who receive advantage on their attacks this round.
+**Success with a twist:** Grimm's experience pays off, and he is able to issue his crew commands to catch three of the gliders within range of the gatling guns. However, the turn leaves him in vulnerable position to the other three gliders, who receive advantage on their attacks this round.
 
-**Failure, but the story progresses:** Zack thinks he's got the gliders right where he wants them, but his crew is slow to take orders, and the gliders manage to completely avoid the gatling guns this round.
+**Failure, but the story progresses:** Grimm thinks he's got the gliders right where he wants them, but his crew is slow to take orders, and the gliders manage to completely avoid the gatling guns this round.
 
 #### Heroic Test of Logic (CR 20)
 
@@ -385,11 +387,11 @@ Azure and party are attempting to negotiate with the Dragon Council in order to 
 
 ### Perception
 
-Perception governs your ability notice important details in people, places, and things. You roll perception when you are trying to find a secret passage, follow a trail, sense ulterior motives, or spot a hidden foe. For perception rolls especially, it's important to remember that *every roll matters*. The GM should only ask for a perception roll when there is actually something to be perceived. Furthermore, the GM should ask for the roll only at the moment when the outcome matters. So, if a rogue enters a dungeon and declares that he will be searching for traps in every room, the player should not actually roll until he might actually discover a trap. That way, the outcome of the roll will actually matter.
+Perception governs your ability notice important details in people, places, and things. You roll Perception when you are trying to find a secret passage, follow a trail, sense ulterior motives, or spot a hidden foe. For Perception rolls especially, it's important to remember that *every roll matters*. The GM should only ask for a Perception roll when there is actually something to be perceived. Furthermore, the GM should ask for the roll only at the moment when the outcome matters. So, if a rogue enters a dungeon and declares that he will be searching for traps in every room, the player should not actually roll until he might actually discover a trap. That way, the outcome of the roll will actually matter and the game won't be slowed down by unnecessary dice rolling.
 
 #### Challenging Test of Perception (DC 15)
 
-Yldris is interrogating a captured goblin to learn more about the threats of the goblin lair. The captive reveals the location of several pit traps as well as two guard outposts. However, he is holding something back, so the GM asks Yldris to make a perception check. If successful, Yldris would sense that the goblin is holding out on him out of fear of reprisal from the goblin king.
+Yldris is interrogating a captured goblin to learn more about the threats of the goblin lair. The captive reveals the location of several pit traps as well as two guard outposts. However, he is holding something back, so the GM asks Yldris to make a Perception check. If successful, Yldris would sense that the goblin is holding out on him out of fear of reprisal from the goblin king.
 
 **Success with a twist:** Yldris can tell that the goblin is keeping something secret, but he thinks it is out of greed rather than fear.
 
@@ -397,17 +399,17 @@ Yldris is interrogating a captured goblin to learn more about the threats of the
 
 #### Heroic Test of Perception (DC 20)
 
-Spaz and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Spaz tells the GM that he will be searching for traps ahead of the party. After clearing several rooms, the party is walking down a corridor that the GM knows to contain a proximity mine, so she asks Spaz to roll perception.
+Zak and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Zak tells the GM that he will be searching for traps ahead of the party. After clearing several rooms, the party is walking down a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
 
-**Success with a twist:** Spaz notices the mine just as he steps within its activation zone. He is able to shout to his party to take cover, but he will suffer the full force of the mine.
+**Success with a twist:** Zak notices the mine just as he steps within its activation zone. He is able to shout to his party to take cover, but he will suffer the full force of the mine.
 
-**Failure, but the story progresses:** Spaz sets off the trap, and the explosion collapses part of the chamber, separating him from his party.
+**Failure, but the story progresses:** Zak sets off the trap, and the explosion collapses part of the chamber, separating him from his party.
 
 #### Epic Test of Perception (DC 25)
 
 Therilas attempts to track a pixie through the Fey Wood. The trail is two days old, and because the pixie flies, his only hope is to search for occasional drifts of pixie dust settled on leaves and branches.
 
-**Success with a twist:** Therilas loses the trail a mile into the woods. As he searches about in frustration, he is approached by a sentient fox who offers to reveal the location of the pixie… for a price.
+**Success with a twist:** Therilas loses the trail a mile into the woods. As he searches about in frustration, he is approached by a sentient fox who offers to reveal the location of the pixie--for a price.
 
 **Failure, but the story progresses:** Therilas wanders for hours in the Fey Wood trying to pick up the trail. Finally, he finds it, though it seems oddly fresh. Too late does he realize that he has been tricked, and the pixie has led him into a trap. He finds himself surrounded by denizens of the Fey Wood and hears the pixie's mischievous laughter from the canopy above.
 
@@ -421,15 +423,15 @@ Setting Sun and his companions are lost in the desert. They've been without food
 
 **Success with a twist:** The monk's meditation works to an extent. He is only able to stave off his hunger, but not his thirst, so he suffers one level of the *fatigued* bane.
 
-**Failure, but the story progresses:** Setting Sun's training was good, but the calm of the monastery is hard to recall amidst his current struggles. OVercome with hunger and thirst, the monk suffers 2 levels of the *fatigued* bane.
+**Failure, but the story progresses:** Setting Sun's training was good, but the calm of the monastery is hard to recall amidst his current struggles. Overcome with hunger and thirst, the monk suffers 2 levels of the *fatigued* bane.
 
 #### Heroic Test of Will (CR 20)
 
 Deep in the lower chambers of Overhill Asylum, the investigators discover an ancient and alien evil whose very existence in the physical dimension seems an impossibility. Unable to reconcile their understanding of the laws of nature with the creature's writhing form and material instability, the PCs begin to lose touch with reality. The GM calls for each investigator to make a Will roll.
 
-**Success with a twist:** The PCs are overcome with an uncontrollable but temporary horror. While they remain in the Asylum, they suffer a special form of the *demoralized* bane (Power Level 3). It can not be resisted until they leave the Asylum
+**Success with a twist:** The PCs are overcome with an uncontrollable but temporary horror. While they remain in the Asylum, they suffer a special form of the *demoralized* bane (Power Level 3). It cannot be resisted until they leave the Asylum.
 
-**Failure, but the story progresses:** In addition to suffering the *demoralized bane*, the PCs gain the *psychotic* flaw until they find some means of re-orienting their understanding of the universe and its laws.
+**Failure, but the story progresses:** In addition to suffering the *demoralized* bane, the PCs gain the *psychotic* flaw until they find some means of re-orienting their understanding of the universe and its laws.
 
 #### Epic Test of Will (CR 25)
 
@@ -441,7 +443,7 @@ While jacked deep into the Network, Snitch encounters a data file that has been 
 
 ### Deception
 
-Deception is the attribute of fooling others, both directly and indirectly. You make a deception check whenever you attempt to bluff, lie, socially dodge, or otherwise convince someone else that false information is true. Deceptive characters can fool interrogators, create believable disguises, and pass off fake documents.
+Deception is the attribute of fooling others, both directly and indirectly. You make a Deception check whenever you attempt to bluff, lie, socially dodge, or otherwise convince someone else that false information is true. Deceptive characters can fool interrogators, create believable disguises, and pass off fake documents.
 
 #### Challenging Test of Deception (CR 15)
 
@@ -449,7 +451,7 @@ Slade has acquired an appropriate disguise to pass as a city guard. As he attemp
 
 **Success with a twist:** Slade does really well at keeping up his disguise, but he fails to address a superior officer appropriately at one point. Although he will gain access to the armory, this officer remembers the altercation and will be able to identify Slade at a later time if suspicion is ever raised.
 
-**Failure, but the story progresses:** Slade's military etiquette faux pas is worse than expected. The offended officer immediately requests Slade's commanding officer so that he can report the offense.
+**Failure, but the story progresses:** Slade's military etiquette faux pas is worse than expected. The offended officer immediately requests to know Slade's commanding officer so that he can report the offense.
 
 #### Heroic Test of Deception (CR 20)
 
@@ -457,7 +459,7 @@ Adele scans her multi-pass to gain entry to a level 5 sector of her office build
 
 **Success with a twist:** The sentry believes the story, but just to cover his butt he has to escort her to the office so that he doesn't get in trouble.
 
-**Failure, but the story progresses:** The sentry is suspicious and tells Adele that he will need to contact his commanding officer about this.
+**Failure, but the story progresses:** The sentry is suspicious and tells Adele that he will need to contact his shift commander about this.
 
 #### Epic Test of Deception (CR 25)
 
@@ -469,15 +471,15 @@ The chronomancer Rapture has Sarge and his crew tied up as he prepares to unleas
 
 ### Persuasion
 
-Persuasion is the social attribute of negotiation and smooth talking. You make a persuasion roll whenever you are trying to convince someone to see your way or take your suggested course of action based on a clear or clever argument. Persuasion is about selling your ideas to others, whether that be through the use of solid evidence, political pressure, bribery, or similar mechanisms. A persuasion check often takes place as the result of a good deal of dialog and other roleplaying. In these cases, the GM should not ask for a check until a pivotal decision point is reached - a moment when the success or failure of the roll will determine the course of the negotiation.
+Persuasion is the social attribute of negotiation and smooth talking. You make a Persuasion roll whenever you are trying to convince someone to see your way or take your suggested course of action based on a clear or clever argument. Persuasion is about selling your ideas to others, whether that be through the use of solid evidence, emotional appeal, political pressure, bribery, or similar mechanisms. A Persuasion check often takes place as the result of a good deal of dialog and other roleplaying. In these cases, the GM should not ask for a check until a pivotal decision point is reached--a moment when the success or failure of the roll will determine the course of the negotiation.
 
 #### Challenging Test of Persuasion (CR 15)
 
 Pelias is trying to trade a valuable ruby to the barkeep in exchange for the names of three gentlemen who were drinking at the tavern last night. The barkeep says he'll give the rogue one name, so Pelias tries to convince him of the value of this gem in order to get all the info he needs.
 
-**Success with a twist:** The barkeep offers to give him two names. If he wants all three, he'll have to throw in a sack of gold.
+**Success with a twist:** The barkeep offers to give him two names. If the rogue wants all three, he'll have to throw in a sack of gold.
 
-**Failure, but the story progresses:** It's clear that the barkeep is worried about more than just money. Pelias' entreaties have spooked him completely and he won't even give up a single name anymore.
+**Failure, but the story progresses:** It's clear that the barkeep is worried about more than just money. The rogue's entreaties have spooked him completely and he won't even give up a single name anymore.
 
 #### Heroic Test of Persuasion (CR 20)
 
@@ -489,21 +491,21 @@ When they reach the town of Haven, the survivors find the gates closed. The guar
 
 #### Epic Test of Persuasion (CR 25)
 
-Professor Durst and his team of investigators have managed to take one of the Cultists of the Black Claw alive. The cultists are known to be diehard loyalists who will take the secrets of their guild to the grave, but Durst is well versed in the arts of psychological interrogation. He uses every mental tool at his disposal to get the cultist to see the error of his ways and aid their cause.
+Professor Durst and his team of investigators have managed to take one of the cultists of the Black Claw alive. The cultists are known to be diehard loyalists who will take the secrets of their guild to the grave, but Durst is well versed in the arts of psychological interrogation. He uses every mental tool at his disposal to get the cultist to see the error of his ways and aid their cause.
 
-**Success with a twist:** Durst has managed to leverage the cultist's deeply suppressed emotion of guilt to get him to denounce the Black Claw. However, the terror of the dark deeds he has taken part in cannot be reconciled with the cultist's former self, driving him insane. The cultist might provide some useful information to the investigators, but it is always hidden between maniacal ramblings and diabolical riddles.
+**Success with a twist:** Durst has managed to leverage the cultist's deeply suppressed emotions of guilt to get him to denounce the Black Claw. However, the terror of the dark deeds he has taken part in cannot be reconciled with the cultist's former self, driving him insane. The cultist might provide some useful information to the investigators, but it is always hidden between maniacal ramblings and diabolical riddles.
 
 **Failure, but the story progresses:** Durst thinks he has broken the cultist, and unties him as a show of goodwill. However, as soon as the cultist has the chance, he jumps through a nearby window and breaks his own neck in the fall.
 
 ### Presence
 
-Presence is the social attribute of leadership and charisma. A character with a high presence will be able to attract powerful allies, inspire followers, and strike fear in the hearts of enemies. You will make a presence check whenever you are attempting to sway others with your force of personality, such as when making speeches, singing ballads, or staring down a foe.
+Presence is the social attribute of leadership and charisma. A character with a high Presence will be able to attract powerful allies, inspire followers, and strike fear in the hearts of enemies. You will make a Presence check whenever you are attempting to sway others with your force of personality, such as when making speeches, singing ballads, or staring down a foe.
 
 #### Challenging Test of Presence (CR 15)
 
 Shazben Hazben, the halfling bard, enters the tavern with a well-tuned mandolin but not even two coppers to scrape together. After striking up a conversation with the barkeep, Shazben offers to entertain the guests in exchange for room and board. The bartender likes the halfling's style, so he gives him a chance to win him over on stage that night.
 
-**Success with a twist:** The crowd loves the halfling, even bringing in a few silver for tips. The barkeep says the bard can stay as long as he gets a cut of half the tips.
+**Success with a twist:** The crowd loves the halfling, even bringing in a few silver for tips. However, the greedy barkeep says the bard can stay as long as he gets a cut of half the tips.
 
 **Failure, but the story progresses:** Shazben gets booed off the stage after inadvertently insulting a local folk hero in song. He is no longer welcome at the tavern.
 
@@ -517,11 +519,11 @@ Gunner Dag has gotten himself into another one of his situations. He lost big at
 
 #### Epic Test of Presence (CR 25)
 
-The peasant militia is poorly trained, under armed, and small in number. Their odds are hopeless. Still, Maximus knows that the distraction they can provide against the advancing orcish army is the only way that his elite strike force will have the time to reach the shaman commanding the orcs. But only if they stand and fight. The paladin can read the cowardice on their faces, so he gives a long, rousing speech to lift their hearts and instill them with courage they need to get the job done.
+The peasant militia is poorly trained, under armed, and small in number. Their odds are hopeless. Still, Maximus knows that the distraction they can provide against the advancing orcish army is the only way that his elite strike force will have the time to reach the shaman commanding the orcs--but only if they stand and fight. The paladin can read the cowardice on their faces, so he gives a long, rousing speech to lift their hearts and instill them with courage they need to get the job done.
 
 **Success with a twist:** Unfortunately for Maximus, the cowardly mayor is working against him. He has already convinced half of the militia to retreat with him and leave the village for the orcs to sack. The remaining half, however, are ready to die for their home alongside the paladin if need be.
 
-**Failure, but the story progresses:** Maximus doesn't have what it takes to sway the hearts in so hopeless a cause. The militia disbands, and the village is surely lost to the orcs.
+**Failure, but the story progresses:** Maximus doesn't have what it takes to sway the hearts of such hopeless soldiers in so hopeless a cause. The militia disbands, and the village is surely lost to the orcs.
 
 ### Alteration
 
@@ -541,7 +543,7 @@ Wrench and his squad are being pursued through the corridors of a wrecked space 
 
 **Success with a twist**: It looks like it's going to take Wrench a little longer to spring his trap than he thought. The GM says that the rest of his party will have to fend off the mutants for five rounds to buy Wrench enough time, forcing them to make a tough decision.
 
-**Failure, but the story progresses:** The spare parts in the room just aren't good enough to work with. However, Wrench does discover a ventilation shaft in the ceiling that could provide an alternate means of escape… if the mutants don't already know about it.
+**Failure, but the story progresses:** The spare parts in the room just aren't good enough to work with. However, Wrench does discover a ventilation shaft in the ceiling that could provide an alternate means of escape--if the mutants don't already know about it.
 
 #### Epic Test of Alteration (CR 25)
 
@@ -557,15 +559,15 @@ Creation is the attribute of healing and forming matter out of nothing. It can b
 
 #### Challenging Test of Creation (CR 15)
 
-Jaaxy is trying to gain entrance into headquarters of the Order of Outlanders, but she lacks an appropriate keystone attuned to her biometrics required by the door guards. Having studied the shattered remains of a keystone acquired from a previous member of the Order, Jaaxy sits in her lab attempting to create a new one.
+Jaaxy is trying to gain entrance into the headquarters of the Order of Outlanders, but she lacks an appropriate keystone attuned to her biometrics required by the door guards. Having studied the shattered remains of a keystone acquired from a previous member of the Order, Jaaxy sits in her lab attempting to create a new one.
 
 **Success with a twist:** Jaaxy's keystone is good enough to get her through the door. However, it loses its biometric attunement shortly after she enters the headquarters.
 
-**Failure, but the story progresses:** Jaaxy thinks her creation is perfect, but the door guards aren't fooled so easily. They call her on the forgery and imprison her. She's within the headquarters, just not on her own terms.
+**Failure, but the story progresses:** Jaaxy thinks her creation is perfect, but the door guards aren't fooled so easily. They call her on the forgery and imprison her. She's within the headquarters now, just not on her own terms.
 
 #### Heroic Test of Creation (CR 20)
 
-Therilas is attempting to lead a party of refugees safely through the Decaying Desert. Were he in the woods, he could easily forage enough food and water to keep them alive. Lost in the desert, however, he is forced to use his magic to summon forth sustenance for the desperate masses.
+Therilas is attempting to lead a party of refugees safely through the Decaying Desert. Were he in the woods, the druid could easily forage enough food and water to keep them alive. Lost in the desert, however, he is forced to use his magic to summon forth sustenance for the desperate masses.
 
 **Success with a twist:** The only way that Therilas is able to harness enough energy to feed so many people is to draw on his own life reserves. The GM rules that he suffers one level of the *fatigued* bane.
 
@@ -581,8 +583,7 @@ Father Ezekiel is stranded on a jungle island. He attempts to use divine magic t
 
 ### Energy
 
-Energy is the extraordinary attribute that governs control and creation of elemental energy. Though the list is not exhaustive, typical energy types include fire, ice, electricity, water, earth, acid, plasma, and lasers. You could be called upon to make an energy roll when you attempt to create flame out of nothing, calm rough waters at sea, or power up a futuristic plasma cannon beyond the normal range of technology for your setting.
-A character's energy score governs their skill at manipulating all forms of energy, though the character must have a logical explanation for individual uses of this attribute. For example, a storm mage could use energy for manipulating electricity, thunder, water, and wind - but the GM might not allow him to summon ice and fire.
+Energy is the extraordinary attribute that governs the control and creation of elemental energy. Though the list is not exhaustive, typical energy types include fire, ice, electricity, water, earth, acid, plasma, and lasers. You could be called upon to make an Energy roll when you attempt to create flame out of nothing, calm rough waters at sea, or power up a futuristic plasma cannon beyond the normal range of technology for your setting. A character's energy score governs their skill at manipulating all forms of energy, though the character must have a logical explanation for individual uses of this attribute. For example, a storm mage could use energy for manipulating electricity, thunder, water, and wind - but the GM might not allow him to summon ice and fire.
 
 #### Challenging Test of Energy (CR 15)
 
@@ -594,7 +595,7 @@ Asger and Hertha have trekked long and hard through the frozen Fjords of the Tit
 
 #### Heroic Test of Energy (CR 20)
 
-Doctor Heller has accompanied his posse on the raid of a train transporting a large sum of Pinkerton cash. They've neutralized the guards and taken control of the train, but they still have to get the safe open. Doc powers up his patented Slow Drip Acidic Disseminator and attempts to burn through the lock with expert precision.
+Doctor Heller accompanies his posse in raiding a train that is transporting a large sum of Pinkerton cash. They've neutralized the guards and taken control of the train, but they still have to get the safe open. Doc powers up his patented Slow Drip Acidic Disseminator and attempts to burn through the lock with expert precision.
 
 **Success with a twist:** Doc's mad science works a bit too well as the Disseminator overloads and burns through the entire door of the safe, destroying about one-fifth of the score along with it.
 
@@ -610,7 +611,7 @@ Hamlin Harbuckle sits peacefully on the deck of *The Rest*, a merchant vessel hi
 
 ### Entropy
 
-Entropy is the extraordinary attribute of destruction, death, and negative energy. It is the stuff of necromancers and anti-matter rays, ghosts and demons. You would make an entropy roll in order to destroy solid matter, complete a dark ritual, or close a portal to a plane of evil.
+Entropy is the extraordinary attribute of destruction, death, and negative energy. It is the stuff of necromancers and anti-matter rays, ghosts and demons. You would make an Entropy roll in order to destroy solid matter, complete a dark ritual, or close a portal to a plane of evil or shadow.
 
 #### Challenging Test of Entropy (CR 15)
 
@@ -630,21 +631,21 @@ Balthazar has delved deep into the Tomb of Aliki to gain access to the powerful 
 
 #### Epic Test of Entropy (CR 25)
 
-Coach and his team of survivors have located another one of the Apocalypse Gates from which the hordes of undead have been spewed forth upon the earth. As most of the team holds back the zombies with machetes and shotguns, Liza opens her ritual book and attempts to channel the power needed to close the gate.
+Xu Ming and his team of survivors have journeyed in their starcruiser to an abandoned sector of the galaxy emitting a strange energy signature. Touching down on the surface, they discover hordes of nightmarish aliens pouring through a massive portal. As the rest of the team mows down the advancing horde, the voidtouched psion Stryx attempts to channel void energy from a higher dimension to nullify the portal.
 
-**Success with a twist:** Liza must contend with a hell knight who stands on the other side of the portal, using all of his will to thwart her magic. She comes out stronger and closes the portal, though the mental battle scars her for life. She suffers a permanent level of the *fatigue* bane until she can find a means to cure herself.
+**Success with a twist:** Stryx must contend with a horrifying alien brood master holding the portal open and preparing to make the jump itself. It uses all of its mind-warping power to twist her mind and break her. She prevails and manages to close the portal, though the mental battle scars her for life. She suffers a permanent level of the *fatigued* bane until she can find a means to cure herself.
 
-**Failure, but the story progresses:** Although she doesn't have the power to close the Apocalypse Gate, Liza realizes that it is being maintained by a hell knight on the other side. If her team dares to enter the portal and slay him, the gate should close.
+**Failure, but the story progresses:** Although she doesn't have the power to close the portal, Stryx realizes that it is being held open by an alien brood master on the other side. If her team dares to enter the portal and slay the creature, the portal should close.
 
 ### Influence
 
-Influence is used to cover such extraordinary powers as turning invisible, controlling minds, and creating illusory phantasms to deceive others. Any time you are using extraordinary means to affect what another creature perceives or to exert mental control over them, you will likely be making an influence roll. Influence differs from the attributes of presence, deception, and persuasion in that it is used for more extreme or supernatural effects. Whereas persuasion might be used to convince a creature to agree with you by using a strong argument and evidence, influence would be used to accomplish the same effect using mental charm or domination.
+Influence is used to cover such extraordinary powers as turning invisible, controlling minds, and creating illusory phantasms to deceive others. Any time you are using extraordinary means to affect what another creature perceives or to exert mental control over them, you will likely be making an Influence roll. Influence differs from the attributes Presence, Deception, and Persuasion in that it is used for extreme or supernatural effects. Whereas Persuasion might be used to convince a creature to agree with you by using a strong argument and evidence, Influence would be used to accomplish the same effect using mental charm or domination.
 
 #### Challenging Test of Influence (CR 15)
 
 Ensign Destiny attempts to convince the bouncer at the cantina that her friends should be allowed to leave peacefully. To stack the deck against the bouncer, Destiny activates the Pheromone Enhancement Matrix on her cyberwear to cloud his judgement.
 
-**Success with a twist:** The trick works, but her cyberwear has obviously been miscalibrated. Rather than simply convinced, the bouncer has been seduced. He is under the distinct impression that Destiny is hitting on his.
+**Success with a twist:** The trick works, but her cyberwear has obviously been miscalibrated. Rather than simply convinced, the bouncer has been seduced. He is under the distinct impression that Destiny is hitting on him.
 
 **Failure, but the story progresses:** Unfortunately, this bouncer got fooled by Pheromone Enhancements last week and his employer was not too happy about it. He recognizes the trick quickly, and the negotiation quickly escalates to combat.
 
@@ -658,15 +659,15 @@ Shipwrecked on a remote jungle island, Allister and his companions find themselv
 
 #### Epic Test of Influence (CR 25)
 
-The only thing that stands between Sir Thomas and the Sword of Light is an undead skeletal dragon named Char. Char engages the paladin in a test of words, attempting to use his wyrm speak to ensorcel Thomas. Never one for words, Sir Thomas relies instead on his divine magic, channeling the power of his goddess to strike fear in Char's undead heart and make him quit his word games.
+The only thing that stands between Sir Thomas and the Sword of Light is an undead skeletal dragon named Char. Char engages the paladin in a test of words, attempting to use his wyrm speak to ensorcell Thomas. Never one for words, Sir Thomas relies instead on his divine magic, channeling the power of his goddess to strike fear in Char's undead heart and make him quit his word games.
 
-**Success with a twist:** Sir Thomas's prayer is heard, though Char's power is greater than the paladin realized. The dragon fails to completely ensorcel Thomas, but when the fight breaks out, the paladin begins with the *stunned* bane.
+**Success with a twist:** Sir Thomas's prayer is heard, though Char's power is greater than the paladin realized. The dragon fails to completely ensorcell Thomas, but when the fight breaks out, the paladin begins with the *stunned* bane.
 
 **Failure, but the story progresses:** Sir Thomas is far from his god in this dank pit and cannot channel enough divine power to overcome the dragon's wyrm tongue. Before he realizes what he has done, the paladin has revealed his deepest secrets to the ancient beast. Thomas begins the fight with the *stunned* bane and Char gains advantage 1 on every action roll throughout the combat due to his deep knowledge of the paladin's inner self.
 
 ### Movement
 
-Movement governs extraordinary means of locomotion, travel, and speed - as well as secondary effects that are tied to these spheres. Movement is typically used to invoke boons such as *haste*, *teleport*, and *flight*. However, the GM may call for a straight Movement roll when the success of the action isn't tied so much to the successful invocation of the boon as it is to the circumstances of the action. The examples below illustrate such instances.
+Movement governs extraordinary means of locomotion, travel, and speed--as well as secondary effects that are tied to these spheres. Movement is typically used to invoke boons such as *haste*, *teleport*, and *flight*. However, the GM may call for a straight Movement roll when the success of the action isn't tied so much to the successful invocation of the boon as it is to the circumstances of the action. The examples below illustrate such instances.
 
 #### Challenging Test of Movement (CR 15)
 
@@ -686,16 +687,15 @@ Gizmo's party is attempting to evade a pack of wererats amidst the narrow alleys
 
 #### Epic Test of Movement (CR 25)
 
-Wings is piloting the escape pod his crew used to break free from InterGal HQ. Their escape did not go unnoticed, however, and the pod is being pulled back in by the star cruiser's tractor beam. In a last ditch effort to secure their freedom, Wings jacks himself into the pod's power matrix and attempts to use every trick up his sleeve to boost its velocity beyond the force of the tractor beam.
+Ace is piloting the escape pod his crew used to break free from InterGal HQ. Their escape did not go unnoticed, however, and the pod is being pulled back in by the star cruiser's tractor beam. In a last ditch effort to secure their freedom, Ace jacks himself into the pod's power matrix and attempts to use every trick up his sleeve to boost its velocity beyond the force of the tractor beam.
 
-**Success with a twist:** Wings manages to override all of the pod's failsafes in order to redirect every ounce of its power into the forward thrust. The ship escapes the tractor beam, but its navigation systems get fried in the process. The crew no longer has control over their trajectory.
+**Success with a twist:** Ace manages to override all of the pod's failsafes in order to redirect every ounce of its power into the forward thrust. The ship escapes the tractor beam, but its navigation systems get fried in the process. The crew no longer has control over their trajectory, and must drift aimlessly through space until they can manage a repair or find some aid.
 
-**Failure, but the story progresses:** Wings can't break the ship's safety protocols, and the pod is quickly swallowed back into InterGal HQ. It will only be a matter of minutes until they are swarmed by Galactic Troops.
-
+**Failure, but the story progresses:** Ace can't break the ship's safety protocols, and the pod is quickly swallowed back into InterGal HQ. It will only be a matter of minutes until they are swarmed by Galactic Troops.
 
 ### Prescience
 
-Prescience is the attribute that governs knowledge gained from extraordinary sources such as extrasensory perception, divination magic, or even a super heightened awareness of details. You make a prescience roll whenever you are attempting to use means beyond the scope of a normal creature in order to perceive details or communicate with beings that would otherwise be impossible.
+Prescience is the attribute that governs knowledge gained from extraordinary sources such as extrasensory perception, divination magic, or even a super heightened awareness of details. You make a Prescience roll whenever you are attempting to use means beyond the scope of a normal creature in order to perceive details or communicate with beings that would otherwise be impossible.
 
 #### Challenging Test of Prescience (CR 15)
 
@@ -707,7 +707,7 @@ The crew is barricaded in the sporting goods store of the mall with a horde of z
 
 #### Heroic Test of Prescience (CR 20)
 
-As Shane chased him through the corridors of Payne Manor, the Doctor ducked into a side room. Seconds later, Shane busts into the room, only to find no sign of the Doctor, and no other visible exits. Unbeknownst to our hero, his quarry has opened a secret passage behind a bookshelf that is activated by dialing a number on the phone that rests on a nearby desk. Shane takes a deep breath, calms his nerves, and attempts to use his cybernetically enhanced senses to locate a sign of the Doctor.
+As Shane chases him through the corridors of Payne Manor, the Doctor ducks into a side room. Seconds later, Shane busts into the room, only to find no sign of the Doctor, and no other visible exits. Unbeknownst to our hero, his quarry has opened a secret passage behind a bookshelf that is activated by dialing a number on the phone that rests on a nearby desk. Shane takes a deep breath, calms his nerves, and attempts to use his cybernetically enhanced senses to locate a sign of the Doctor.
 
 **Success with a twist:** Shane gains no perception of the secret passage, but he does notice that the phone is slightly askew and the items nearby it disheveled as if having been recently disturbed.
 
@@ -745,6 +745,6 @@ Star and her platoon pilot their mechanized combat suits through the wastelands 
 
 Despite the warning of her mentor sage, Bell has dared to glimpse into the accursed pages of the Book of the Damned, exposing herself to a spiritual assault from devilish foes. She becomes engrossed in the book and compelled to read more. Bell recognizes that an otherworldly force is taking control of her, so she grasps her amulet of warding and attempts to force the demons to leave her presence.
 
-**Success with a twist:** Bell manages to regain control of herself and close the book. However, unbeknownst to her, one of the demons remains and will assail her from time to time until she discovers and has it properly exorcised.
+**Success with a twist:** Bell manages to regain control of herself and close the book. However, unbeknownst to her, one of the demons remains and will assail her from time to time until she discovers it and has the fiend properly exorcised.
 
 **Failure, but the story progresses:** Bell's magic is not strong enough to hold back the forces of hell, and she is compelled to read from the book for hours on end. When the attack finally ends, Bell is changed. She has permanently gained the *psychotic* flaw.

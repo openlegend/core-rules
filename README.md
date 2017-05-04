@@ -13,6 +13,80 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 04 / 23
+-   `Animation` boon can now be accessed via `Logic`. Minor edits to boon text for multi-genre
+
+#### 2017 / 04 / 22
+-   Expand ranges of boss defenses on Boss NPC table
+
+#### 2017 / 04 / 20
+- Updated the `Artisan` perk to add a cap of wealth level 2 to avoid conflict with `Craft Mundane Item` feat 
+- `Armor Mastery` feat bonus now specifically an _armor bonus_ rather than directly to Guard (affects `Battle Trance`).
+- Clarified that _Reach_ extends range 5'.
+
+#### 2017 / 04 / 10
+-   Clarify sustaining a boon applies to all original invocation targets
+-   Clarify `Attribute Substitution` replaces the attribute itself, not just the score
+
+#### 2017 / 04 / 01
+-   `Truesight` boon modified, Power Level 5 reveals extraordinary effects in the area and new Power Level 8 allows for seeing through solid objects.
+-   Added optional rule for `Boss Finale`, allowing a boss to take immediate triggered actions when reduced to 0 HP.
+-   Multi-genre perk & flaw friendliness fixes -- `Outlaw` perk becomes `Fugitive`, `Noble` perk becomes `Upper Class`.
+-   `Marksman` feat renamed to `Longshot` and modified to include Extraordinary attacks as well.
+
+#### 2017 / 03 / 31
+-   Removed option to use Legend Points after a given roll
+
+#### 2017 / 03 / 26
+-   `Reckless Frenzy` name changed to `Reckless Attack` and clarified that it only allows a single extra attack per round.
+-   `Phantasm` bane area sizes cleaned up. Previously power level 7 area size was the same as power levels 1 - 6.
+-   `Provoked` bane can now be invoked via Agility
+-   Damaging attacks now deal a minimum of 3 damage. This prevents the un-intuitive phenomenon of having an "exact hit" (roll total equals target's defense) being "success with a twist", which is in part failure, but you hit the target CR so, failing feels wrong.
+
+#### 2017 / 03 / 21
+-   `Attack Redirection` clarify that you can't redirect the attack to the attacker or yourself
+
+#### 2017 / 03 / 21
+-   `Arcane Bloodline` has been generalized to apply to more groups, name changed to `Legendary Bloodline`
+-   `Barrier` boon clarification - you can't trap a target inside of it
+-   Tweak `Persistent` extraordinary item trait to prevent abuse.
+-   `Stunned` bane wording tweak to clarify extra actions don't work
+-   `Sentinel` feat tweak to require that you first spend a defend action
+
+#### 2017 / 03 / 21
+- New Chapter Structure (Finalized for going to Print, YAY!)
+   -   Introduction
+   -   1: Character Creation
+   -   2: Actions & Attributes
+   -   3: Feats
+   -   4: Perks & Flaws
+   -   5: Wealth & Equipment
+   -   6: Banes & Boons
+   -   7: Combat
+   -   8: Running the Game
+   -   9: Special Equipment
+-   `Sentinel` (new feat added) - grants an additional action that can be used only for defend actions once per turn
+-   Clarify that `defend` action can only grant bonus movement once per round
+-   `Battlefield Sentinel` renamed to `Battlefield Opportunist`, `Battelfield Defender / Reflxes` feat prerequisite dropped, attribute score prerequisite dropped from 5 to 4
+-   `Battlefield Defender` renamed to `Battlefield Reflexes` now allowed with `Any Extraordinary` attribute, pending GM approval
+-   `Battlefield Punisher - Knockdown`, `Battlefield Punisher - Slowed`, and `Battlefield Punisher - Stunned` are all combined and slightly modified to become `Battlefield Punisher` which requires 10 damage be dealt and can be any bane, this restriction was made necessary by the addition of the `Sentinel` feat which allows additional defend actions, and allows for many uses of the defend action each turn.
+-   `Companion` feat fixed to prevent abuse and reduced to 2 feat points. A companion gaining 3 feat points + an extra set of actions for a given turn, means that you spend 3 feat points on a `Companion` and you gain 3 feat points AND a new character. Companions can now buy feats with the character's feat points and get a fraction of the player's attribute points.
+-   `Companion` feat point expenditures apply as a feat point reduction in any case where another effect would give you feat points, at present, this applies only to `Alternate Form` as far as we can tell.
+-   `Genesis` boon Power Level 5 added (greater quantity of organic matter created)
+-   `Genesis` boon invocation times streamlined PL 1 is 10 minutes.
+
+#### 2017 / 03 / 20
+-   `Companion` feat fixed to track with the new max attribute limits
+-   `Nullify` bane at Power Level 6 effect can not be prevented by any other effect
+-   `Multi-Target Attack Specialist` fixed to remove compounded attack complexity and a loophole that could allow you to negate all mutli-attack penalties and combine it with Haste for 9 attacks with no disadvantage.
+
+#### 2017 / 03 / 15
+-   `Genesis` added a new feat for creating short-lived matter that deteriorates / decomposes after 1 hour
+-   `Marksman` feat modified to confer a single range increment bonus rather than a flat 25'.
+-   `Hunter's Foe` feat name changed to `Sworn Enemy` for better genre diversity
+-   `Multi-Target Boon Expert` (reversed change) feat prerequisite is now from Multi-Target Boon Specialist II
+-   `Attribute Substitution` now requires Tier 2 for the benefit of boon and bane invocation prerequisites.
+
 #### 2017 / 03 / 12
 -   `Extraordinary Items` initial release - new chapter `Rewards` for extraordinary items, mounts & vehicles
 -   `Craft Extraordinary Item` (formerly `Craft Beneficial or Baleful Item`) feat completely overhauled, now works with the Wealth Level system and the new rules found in Chapter 8

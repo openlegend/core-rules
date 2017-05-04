@@ -1,10 +1,10 @@
 # Introduction: This is Your Story. Tell it. #
 
-*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a dusty stasis pod. One of them, covered head to toe in cybernetic implants, attempts to make sense of the alien symbols painted on the pod in dried blood.
+*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a massive stasis pod. A shadowy form drifts through the cloudy liquid, barely discernable through the inch-thick glass. One of the explorers, covered head to toe in cybernetic implants, attempts to make sense of the hidden symbols incribed at the base of the pod, detectable only via the ultraviolet spectrum.*
 
-*“Hold that light steady!” he mutters to his companion.*
+*“Hold that UV beam steady!” he mutters to his companion.*
 
-*But his whispers carry far in the long corridors and endless ventilation shafts of the Zeta class cruiser, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn for the flesh of the intruders. “Spaz,” stutters the lightbearer as he draws a shining six-shooter, “I don't think this freighter is abandoned no more.”*
+*But his whispers shatter the perfect silence permeating this vast chamber of the Zeta class cruiser, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn to taste flesh once again. “Zak,” stutters the light bearer as she draws a shining six-shooter, “I don’t think this freighter is abandoned no more.”*
 
 * * *
 
@@ -12,7 +12,7 @@
 
 *“They come for the Stone,” grunts a dwarf, pulling his axe from the skull of another pig-headed orc. “Just give it to them, and maybe we'll get out of this alive.”*
 
-*It is an elven maiden, tall and clad in battleworn mail, who replies: “I'll have no bard sing tales of Luthiel the Cowardly, who surrendered to orc scum while still she drew breath.”*
+*It is an elven maiden, tall and clad in battle worn mail, who replies: “I'll have no bard sing tales of Luthiel the Cowardly, who surrendered to orc scum while still she drew breath.”*
 
 *As elf and dwarf bicker, a grey haired man, cloaked in emerald, stands tall atop a boulder at the center of the ruins. His eyes stare distantly, like sharp daggers, at the golden sun landing upon the horizon. With a smirk, he raises his gnarled oaken staff to the sky, where the gathering storm clouds crackle with the fury of nature's electric potential. “Gentleman, lady…” speaks the druid with soft confidence, “I think the winds have turned in our favor.”*
 
@@ -20,11 +20,11 @@
 
 <div class="sticky-sidebar"></div>
 > ### Why Open Legend?
-If you have played roleplaying games in the past, you may be wondering What makes Open Legend worth my time? What makes it different?
+If you have played roleplaying games in the past, you may be wondering *What makes Open Legend worth my time? What makes it different?*
 >
 >The secret's in the title: Open. Everything about the game has been built to open up the doors of possibility so that every table tells a legend worth telling. Here are a few of the possibilities that Open Legend offers.
 >
->**Open Source**. That's right. The core rules are free to use with accomodation for commercial and non-commercial derivative works. We know the public will love the game as much as we do, and we hope they'll spread the love by publishing their own adventures, rules supplements, and more.
+>**Open Source**. That's right. The unabridged core rules are are available on the website and the [Open Legend Community License](http://www.openlegendrpg.com/community-license) allows for publication of both commercial as well as non-commercial derivative works using the system. We know the public will love the game as much as we do, and we hope they'll spread the love by publishing their own adventures, rules supplements, and more.
 >
 >**Open Dice**. In Open Legend, dice explode! That means that whenever ANY die rolls maximum, you get to reroll it and add the new roll to your total, ad infinitum. The volatile nature of dice rolling makes every roll count, and each session of Open Legend is full of tense moments when the tides can turn at a moment's notice, for better or worse.
 >
@@ -54,7 +54,7 @@ Without well-defined rules, the decisions made by players and GMs can seem arbit
 
 Open Legend was designed to provide enough rules so that players have a clear framework to guide their play, but not so many rules that the game gets bogged down by them. You spend your day job worrying about bookkeeping and policies. We don't want the gaming table to feel like that, and we designed Open Legend to focus on the fun rather than the homework.
 
-For example, you won't have long lists of resources to manage. Any abilities that you can use or spells you can cast in Open Legend can be used at-will. Likewise, spellcasters, psions, and techies don't need to worry about poring over page after page of power descriptions in order to make the right choices. Instead, Open Legend uses a system of **banes** and **boons**, or status effects, that any character can apply if they is built to do so.
+For example, you won't have long lists of resources to manage. Any abilities that you can use or spells you can cast in Open Legend can be used at-will. Likewise, spellcasters, psions, and techies don't need to worry about poring over page after page of power descriptions in order to make the right choices. Instead, Open Legend uses a system of **banes** and **boons**, or status effects, that any character can apply if they are built to do so.
 
 Other mechanics that will ensure that you can focus on the story you want to tell include simplified wealth and encumbrance systems. In Open Legend, you'll never need to record a single gold piece on your character sheet or even think about how many pounds your revolver weighs.
 
