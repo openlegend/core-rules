@@ -4,7 +4,7 @@ The Introduction and Chapter 1 provided you with the core mechanic for action re
 
 ## When to Roll the Dice
 
-Open Legend is about creating great stories full of epic moments of heroism, and you will roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to roll a Persuasion check every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
+Open Legend is about creating great stories full of epic moments of heroism, and you will roll dice to determine the outcome of those moments. In short, you only need to make action rolls when the outcome of the intended action plays a significant role in the story. In combat, for example, you'll be making plenty of action rolls to clash blades, sling spells, shoot blasters, and leap over treacherous chasms. But you don't need to make a Persuasion roll every time you go to buy something from the bazaar, and you don't need to roll Logic to remember where you left your multi-pass.
 
 Open Legend includes a number of extraordinary attributes that can be used to represent futuristic theoretical science, magic, or inherent supernatural capabilities. For all other types of attribute, you can make an action roll with an attribute score of zero, but extraordinary attributes require a minimum score of 1 in order to attempt a roll.
 
@@ -28,7 +28,7 @@ If you look back to the Core Mechanic, you can see that a simple failure is not 
 
 The following example illustrates how to make every roll matter.
 
-*Pelias Quickenfit, a halfling burglar, is attempting to pick the lock on a door. He rolls an Agility check but gets lower than the challenge rating.*
+*Pelias Quickenfit, a halfling burglar, is attempting to pick the lock on a door. He makes an Agility roll but gets lower than the challenge rating.*
 
 Here are two potential outcomes for the roll:
 
@@ -54,7 +54,7 @@ In the above example, what might often happen at a gaming table is that upon see
 
 ### Keep It Simple: Every Roll Matters for the GM
 
-The “every roll matters” rule was designed to make player actions meaningful to the story whether they succeed or fail. It recognizes the fact that static pass/fail checks aren't particularly fun for players. But “every roll matters” also adds an extra layer of complexity to the game because it requires the GM to make on-the-fly interpretations.
+The “every roll matters” rule was designed to make player actions meaningful to the story whether they succeed or fail. It recognizes the fact that static pass / fail rolls aren't particularly fun for players. But “every roll matters” also adds an extra layer of complexity to the game because it requires the GM to make on-the-fly interpretations.
 
 **So when the GM makes a roll**, a success is a success and a failure is a failure.
 
@@ -72,7 +72,7 @@ In some cases, the results of a success are already written into the rules (such
 
 There are two primary factors to consider when adjudicating a success:
 
-**Don't roll if there's nothing to succeed at.** For example, if a character wants to search a corridor for secret passages, but the GM knows there aren't any, they don't need to have the character roll a Perception check, because there's nothing to find; the roll doesn't matter.
+**Don't roll if there's nothing to succeed at.** For example, if a character wants to search a corridor for secret passages, but the GM knows there aren't any, they don't need to have the character make a Perception roll, because there's nothing to find; the roll doesn't matter.
 
 **Describe your success.** Whenever the situation allows, the player should show the rest of the table what success looks like. It's their turn in the spotlight, so let them shine. If your rogue successfully disarms a trap, describe how the scything blade just barely nicked your cheek before you finished the job. If your mech knight makes a successful leap attack against an enemy tank, narrate how you use the extra momentum provided by the leap to dig your servo-blades through the tank's hull. Sometimes, of course, the GM has privileged information, so they need to be the one to describe things. Whenever possible, though, the players should describe their own success.
 
@@ -391,7 +391,7 @@ Perception governs your ability notice important details in people, places, and 
 
 #### Challenging Test of Perception (DC 15)
 
-Yldris is interrogating a captured goblin to learn more about the threats of the goblin lair. The captive reveals the location of several pit traps as well as two guard outposts. However, he is holding something back, so the GM asks Yldris to make a Perception check. If successful, Yldris would sense that the goblin is holding out on him out of fear of reprisal from the goblin king.
+Yldris is interrogating a captured goblin to learn more about the threats of the goblin lair. The captive reveals the location of several pit traps as well as two guard outposts. However, he is holding something back, so the GM asks Yldris to make a Perception roll. If successful, Yldris would sense that the goblin is holding out on him out of fear of reprisal from the goblin king.
 
 **Success with a twist:** Yldris can tell that the goblin is keeping something secret, but he thinks it is out of greed rather than fear.
 
@@ -443,7 +443,7 @@ While jacked deep into the Network, Snitch encounters a data file that has been 
 
 ### Deception
 
-Deception is the attribute of fooling others, both directly and indirectly. You make a Deception check whenever you attempt to bluff, lie, socially dodge, or otherwise convince someone else that false information is true. Deceptive characters can fool interrogators, create believable disguises, and pass off fake documents.
+Deception is the attribute of fooling others, both directly and indirectly. You make a Deception roll whenever you attempt to bluff, lie, socially dodge, or otherwise convince someone else that false information is true. Deceptive characters can fool interrogators, create believable disguises, and pass off fake documents.
 
 #### Challenging Test of Deception (CR 15)
 
@@ -471,7 +471,7 @@ The chronomancer Rapture has Sarge and his crew tied up as he prepares to unleas
 
 ### Persuasion
 
-Persuasion is the social attribute of negotiation and smooth talking. You make a Persuasion roll whenever you are trying to convince someone to see your way or take your suggested course of action based on a clear or clever argument. Persuasion is about selling your ideas to others, whether that be through the use of solid evidence, emotional appeal, political pressure, bribery, or similar mechanisms. A Persuasion check often takes place as the result of a good deal of dialog and other roleplaying. In these cases, the GM should not ask for a check until a pivotal decision point is reached--a moment when the success or failure of the roll will determine the course of the negotiation.
+Persuasion is the social attribute of negotiation and smooth talking. You make a Persuasion roll whenever you are trying to convince someone to see your way or take your suggested course of action based on a clear or clever argument. Persuasion is about selling your ideas to others, whether that be through the use of solid evidence, emotional appeal, political pressure, bribery, or similar mechanisms. A Persuasion roll often takes place as the result of a good deal of dialog and other roleplaying. In these cases, the GM should not ask for a roll until a pivotal decision point is reached--a moment when the success or failure of the roll will determine the course of the negotiation.
 
 #### Challenging Test of Persuasion (CR 15)
 
@@ -499,7 +499,7 @@ Professor Durst and his team of investigators have managed to take one of the cu
 
 ### Presence
 
-Presence is the social attribute of leadership and charisma. A character with a high Presence will be able to attract powerful allies, inspire followers, and strike fear in the hearts of enemies. You will make a Presence check whenever you are attempting to sway others with your force of personality, such as when making speeches, singing ballads, or staring down a foe.
+Presence is the social attribute of leadership and charisma. A character with a high Presence will be able to attract powerful allies, inspire followers, and strike fear in the hearts of enemies. You will make a Presence roll whenever you are attempting to sway others with your force of personality, such as when making speeches, singing ballads, or staring down a foe.
 
 #### Challenging Test of Presence (CR 15)
 

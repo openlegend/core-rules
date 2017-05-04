@@ -159,7 +159,7 @@ Your sense of smell is almost feral or otherwise ultra-heightened. As a focus ac
 
 ### Scholar
 
-You have spent years studying a particular discipline, such as physics, herbalism, dragon lore, history, politics, or religion. Once per session, you can re-roll a failed *Learning* check related to your discipline, gaining advantage 2 on the re-roll. Furthermore, you have colleagues and connections within your discipline, and know the proper channels for gaining access to specialty laboratories, libraries, temples, or other collections of lore related to your field of scholarship.
+You have spent years studying a particular discipline, such as physics, herbalism, dragon lore, history, politics, or religion. Once per session, you can re-attempt a failed *Learning* roll related to your discipline, gaining advantage 2 on the re-roll. Furthermore, you have colleagues and connections within your discipline, and know the proper channels for gaining access to specialty laboratories, libraries, temples, or other collections of lore related to your field of scholarship.
 
 ### Silver Tongue
 

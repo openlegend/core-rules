@@ -106,7 +106,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *Crafted of an ultra-durable leather to ensure they support the wearer's weight, these boots possess bioengineered nanofiber soles that adhere flawlessly to any surface they touch until deactivated.*
 
-**Special**: These boots enable their wearer to automatically succeed at all climbing checks, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
+**Special**: These boots enable their wearer to automatically succeed at all rolls that pertain to climbing, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
 
 
 #### Aegis of Warding
@@ -155,7 +155,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Properties**: Darkness 5, Summon Creature 5, Blinded 5
 
-**Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will check of CR 15 or suffer one level of the *fatigued* bane.
+**Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will roll of CR 15 or suffer one level of the *fatigued* bane.
 
 
 #### Colt 45
@@ -710,19 +710,22 @@ Detailed below are a variety of mounts and vehicles to carry your characters acr
 | All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
 Guard: 14 \
 Resolve: Immune |
-| Battle Cruiser | 9 | 1,000' | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
+| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
 Guard: 25 \
 Resolve: Immune |
-| Drake | 5 | 50' | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
+| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
 Guard: 20 \
 Resolve: 15 |
-| Fighter Ship | 5 | 2,000' | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
+| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
 Guard: 22 \
 Resolve: Immune |
-| Galleon | 6 | 70' | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
+| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist (Area) 2 | 20 | 3 | Toughness: 17 \
+Guard: 20 \
+Resolve: Immune |
+| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
 Guard: 19 \
 Resolve: Immune |
-| Griffin | 4 | 50' | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
+| Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
 Guard: 19 \
 Resolve: 13 |
 | Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
@@ -732,10 +735,10 @@ Resolve: 10 |
 Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
 Guard: 22 \
 Resolve: Immune |
-| Phoenix | 5 | 50' | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
+| Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
 Guard: 20 \
 Resolve: 19 |
-| Pegasus | 4 | 50' | | Might 4 \
+| Pegasus | 4 | 50' flying | | Might 4 \
 Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 \
 Guard: 18 \
 Resolve: 17 |

@@ -18,7 +18,7 @@ When the GM declares that combat will begin, the game is separated into rounds. 
 
 ### Determining Surprise
 
-In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits' Agility roll. Any PC who fails the check is surprised. The GM decides when some or all combatants may be surprised.
+In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits' Agility roll. Any PC who fails the roll is surprised. The GM decides when some or all combatants may be surprised.
 
 Surprised characters always act after non-surprised characters, as explained in the rules for initiative. Furthermore, until a surprised character takes their first turn, they may not take any interrupt actions and all attacks made against them gain advantage 1.
 
@@ -36,7 +36,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >
 > Zak and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
 >
-> Zak and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Zak was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+> Zak and Jalani roll Agility to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Zak was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 >
 >> Zak (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
@@ -326,9 +326,9 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 - **For a long jump,** you cover a number of feet equal to your roll.
 - **For a high jump,** you cover a number of feet equal to your roll divided by 2.
 
-**Climb**. You climb at half of your normal speed. The GM may require a Might or Agility check if the situation is particularly dangerous.
+**Climb**. You climb at half of your normal speed. The GM may require a Might or Agility roll if the situation is particularly dangerous.
 
-**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similarly challenging situations.
+**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude roll if you are swimming a long distance, against a very strong current, or in similarly challenging situations.
 
 #### Resist Banes
 
