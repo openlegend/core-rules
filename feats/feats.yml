@@ -515,7 +515,7 @@
     <li>Herbalism - poultices, natural remedies, stimulants, brewing</li>
     <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins</li>
     </ul>
-  perfect: |
+  special: |
     In addition to taking multiple tiers of this feat, you may take this feat multiple times and select a new craft or profession each time.
 - !
   name: Craft Extraordinary Item (I - III)
