@@ -124,7 +124,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
 | **Movement** | Teleport, fly, hasten, slow |
-| **Prescience** | See the future, read minds or auras, detect magic or evil, scry, communicate with extraplanar entities |
+| **Prescience** | See the future, read minds or auras, view from afar, detect magic or evil, communicate with extraplanar entities |
 | **Protection** | Protect from damage, break mental influence, dispel magic, bind demons |
 
 In *Open Legend*, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
@@ -3379,7 +3379,7 @@ In order to keep track of hit points, the target should record the total damage 
 
 -   **Power Level 9** - The target suffers disadvantage 6 on attacks that do not include you.
 
-## Scrying
+## spying
 
 **Duration:** 10 minutes (special)
 \
@@ -3395,7 +3395,7 @@ In order to keep track of hit points, the target should record the total damage 
 
 **Description:** Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you can view the target from a distance. \newline
 
-**Effect:** You can scry on a person or area that you are familiar with. The power level of this bane determines the maximum distance between you and the target. If successfully invoked, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your scrying if they are familiar with such powers.
+**Effect:** You can spy on a person or area that you are familiar with. The power level of this bane determines the maximum distance between you and the target. If successfully invoked, you can see and hear everything that goes on within a 60' radius of your target. Anyone within the targeted area who has a Resolve defense score higher than your Prescience action roll to invoke this bane becomes aware of an unseen presence in the area (regardless of whether or not you succeed at the roll). Certain creatures may be able to identify your spying if they are familiar with such powers.
 
 -   **Power Level 5** - 1 mile or less
 -   **Power Level 6** - 100 miles or less
@@ -3404,7 +3404,7 @@ In order to keep track of hit points, the target should record the total damage 
 
 **Special:** When you successfully invoke this bane, at the end of its duration, you can make a Prescience roll to attempt to persist the bane. If successful, the bane persists without requiring the invocation time to be repeated. However, you must retest your new roll against the Resolve scores of those in the targeted area to determine whether or not they can sense your presence.
 
-You can attempt to scry the same target any number of times, but if your action roll fails, that target becomes immune to your scrying for 24 hours.
+You can attempt to spy the same target any number of times, but if your action roll fails, that target becomes immune to your spying for 24 hours.
 
 ## Sickened
 

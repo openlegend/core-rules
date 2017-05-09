@@ -38,7 +38,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Cerebral Probe | 3 |  | Mind Dredge 8 | Special |
 | Collar of Choking | 1 |  |  | Cursed (Persistent Damage 2) |
 | Colt 45 | 3 |  |  | Deadly 1, Weapon (Revolver) |
-| Crystal Ball | 3 |  | Scrying 6 |  |
+| Crystal Ball | 3 |  | Spying 6 |  |
 | Digital Camouflage | 4 |  | Invisible 5 | Reliable |
 | Dotanuki | 5 |  |  | Deadly 2, Weapon (Katana), Special |
 | Explosive Ammo | 2 |  | Persistent Damage 4 | Augmenting, Expendable |
@@ -193,7 +193,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *No mystic should go without this quintessential tool for peering beyond the limits of normal sight.*
 
-**Properties**: Scrying 6
+**Properties**: Spying 6
 
 
 #### Digital Camouflage
