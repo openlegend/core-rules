@@ -321,7 +321,8 @@ You may move up to your speed. The base speed for characters is 30'. This moveme
 
 Special movement includes climbing, jumping, swimming, and other movement that is typically more restricted than just running across the battlefield.
 
-**Jump**. Make a Might roll. If you can't get at least a 10' running start, you have disadvantage 1.
+**Jump**. Make a Might roll. You can move up to 10’ for free as a running start before jumping. If you do, you get advantage 1 for every 10' by which your speed exceeds 30'.
+
 
 - **For a long jump,** you cover a number of feet equal to your roll.
 - **For a high jump,** you cover a number of feet equal to your roll divided by 2.
