@@ -13,6 +13,14 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 05 / 09
+-   `Scrying` bane renamed to `Spying` for multi-genre friendliness (scrying is inherently magical).
+-   `Heal` no longer has `Alteration` as a prerequisite attribute. Don't panic, you can still use the `Regeneration` boon, which is more in line with what healing does. `Alteration` allows access to an overly large array of boons.
+
+#### 2017 / 05 / 04
+-   `Banes` for weapons now allow the listed banes to be invoked even if the attacking attribute could not normally invoke it. The attacking attribute is used to determine power level.
+-   `Baneful` property WL modifier is now dynamic and allows the chosen bane to be invoked even if neither the item, nor wielder can invoke it. The attacking attribute is used to determine power level.
+
 #### 2017 / 04 / 23
 -   `Animation` boon can now be accessed via `Logic`. Minor edits to boon text for multi-genre
 
@@ -20,7 +28,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   Expand ranges of boss defenses on Boss NPC table
 
 #### 2017 / 04 / 20
-- Updated the `Artisan` perk to add a cap of wealth level 2 to avoid conflict with `Craft Mundane Item` feat 
+- Updated the `Artisan` perk to add a cap of wealth level 2 to avoid conflict with `Craft Mundane Item` feat
 - `Armor Mastery` feat bonus now specifically an _armor bonus_ rather than directly to Guard (affects `Battle Trance`).
 - Clarified that _Reach_ extends range 5'.
 

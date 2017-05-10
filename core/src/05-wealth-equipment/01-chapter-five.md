@@ -108,7 +108,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack. Some special weapons list banes not normally invoked via Agility or Might. In those cases, the attacking attribute can be used to invoke the bane.
 
 
 <div class="table-no-body"></div>
@@ -121,7 +121,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 | :---- | :-: | :-: | :---- | :---- |
 | Unarmed Strike | One-handed Melee | 0 | Forceful, Precise, Swift | Stunned, Knockdown |
 | Bowie Knife, Shiv, Multi-tool | One-handed Melee | 2 | Precise, Swift | Persistent Damage, Disarmed |
-| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
+| Scimitar, Shortsword, Machete, Sawblade | One-handed Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
 | Blow Gun, Dart | Close Ranged | 1 | Forceful, Precise | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 2 | Forceful, Precise, Swift | Persistent Damage, Disarmed |
 | Longsword, Katana, Falchion | Versatile Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
@@ -129,9 +129,9 @@ The Weapons & Implements table provides information about a wide variety of gear
 | Mace, Warhammer | One-handed Melee | 2 | Forceful | Knockdown, Stunned, Forced Move |
 | Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
 | Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
-| Short Spear | Versatile Melee, Short Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
+| Shortspear | Versatile Melee, Short Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
 | Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
-| Long Spear | Two-handed Melee, Close Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
+| Longspear | Two-handed Melee, Close Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
 | Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
 | Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Flamethrower | Two-handed Melee | 3 | Precise, Slow, Area (5' / 10' cone) | Fear, Persistent Damage |
@@ -149,7 +149,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 > ### Weapons and Game Balance
 >
-> Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a short sword over a long sword, mechanically speaking, because they are identical except that a long sword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a short sword over a long sword. A newly formed thieves guild, for example, might not have the resources to equip everyone with long swords, so their low-level agents might be equipped with short swords.
+> Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a shortsword over a longsword, mechanically speaking, because they are identical except that a longsword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a shortsword over a longsword. A newly formed thieves guild, for example, might not have the resources to equip everyone with longswords, so their low-level agents might be equipped with shortswords.
 
 ### Properties
 
@@ -249,8 +249,8 @@ Next, choose any additional properties that the weapon possesses. Properties adj
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 7: Combat) |
-| Defensive | Equal to the *defensive* value |
+| Area | + disadvantage penalty incurred by the area via multi-targeting (see Chapter 7: Combat) |
+| Defensive | + *defensive* value |
 | Delayed Ready | -1 |
 | Expendable | -1 |
 | Heavy | 0 |
@@ -269,7 +269,7 @@ All weapons (with the exception of unarmed strike), begin with a base wealth lev
 
 ### Step 5: Check With Your GM
 
-Although we've shown how to calculate the Wealth Level of an item based on how powerful it is, the fact remains that many weapons have story value that should not be undermined. A sniper rifle might only have the capabilities of a Wealth Level 1 weapon, but it is expertly crafted and should be beyond the means of a Wealth Level 1 character. You'll notice on the weapons table that it's listed at Wealth Level 2. Your GM should do the same, as a weapon with the Area 9 property, while powerful, clearly does not have the same value as the army of 50,000 mentioned in the Wealth Level 9 example expenditures.
+Although we've shown how to calculate the Wealth Level of an item based on how powerful it is, the fact remains that many weapons have story value that should not be undermined. A sniper rifle might only have the capabilities of a Wealth Level 1 weapon, but it is expertly crafted and should be beyond the means of a Wealth Level 1 character. You'll notice on the weapons table that it's listed at Wealth Level 2. GMs should also feel free to adjust Wealth Level until it feels correct. Obviously a typical dagger (comes to Wealth Level 2 with the formula), is not worth more than a typical shortsword (comes to Wealth Level 1). Similarly, a weapon with the Area 9 property may be powerful, but it does not have the same value as the army of 50,000 mentioned in the Wealth Level 9 example expenditures.
 
 
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)

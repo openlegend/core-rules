@@ -37,12 +37,12 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Book of Shadows | 5 |  | Darkness 5, Blinded 5, Summon Creature 5 | Special |
 | Cerebral Probe | 3 |  | Mind Dredge 8 | Special |
 | Collar of Choking | 1 |  |  | Cursed (Persistent Damage 2) |
-| Colt 45 | 3 |  |  | Deadly 1, Potent, Weapon (Revolver) |
-| Crystal Ball | 3 |  | Scrying 6 |  |
+| Colt 45 | 3 |  |  | Deadly 1, Weapon (Revolver) |
+| Crystal Ball | 3 |  | Spying 6 |  |
 | Digital Camouflage | 4 |  | Invisible 5 | Reliable |
 | Dotanuki | 5 |  |  | Deadly 2, Weapon (Katana), Special |
 | Explosive Ammo | 2 |  | Persistent Damage 4 | Augmenting, Expendable |
-| Firebrand | 4 |  | Persistent Damage 4 | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
+| Firebrand | 4 |  | | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
 | Ghostfire | 2 | Energy 5 |  | Expendable |
 | Helm of Truth | 5 |  | Bolster 3 | Persistent (Bolster), Cursed (Truthfulness 5) |
 | Horn of Thunder | 5 | | | Area (20' cone), Special |
@@ -50,14 +50,14 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Laser Cannon | 6 | Energy 9 |  | Weapon (Cannon) |
 | Maul of Dominance | 4 |  | Aura 8 | Special, Weapon (Maul) |
 | Phase Rifle | 4 |  |  | Damage (Energy), Deadly 2, Weapon (Sniper Rifle) |
-| Plasmablade | 5 |  | Disarmed 3 | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special |
-| Frostblight | 4 |  | Aura 2 | Armor (Plate Mail), Persistent (Immobile), Special |
+| Plasmablade | 5 |  | | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special |
+| Frostblight | 4 |  | Energy 3 | Armor (Plate Mail), Persistent (Aura), Special |
 | Potion of Major Healing | 4 |  | Heal 7 | Consumable |
 | Potion of Minor Healing | 1 |  | Heal 3 | Consumable |
 | Rocket Launcher | 3 |  |  | Deadly 2, Expendable, Weapon (Cannon) |
 | Rod of Fear | 3 |  | Fear 7 |  |
 | Sleeping Gas | 4 |  | Incapacitated 5 | Expendable, Area (15' cube) |
-| Soul Siphon | 3 |  | Fatigued 5 |  |
+| Soul Siphon | 2 |  | Fatigued 5 |  |
 | Spyglass of Farsight | 4 | Perception 6 |  |  |
 | Transmogrification Ray | 5 |  | Polymorph 6 | Potent, Powerful 1 |
 | Universal Access Implant | 6 | Presence 7 |  | Potent 1, Special |
@@ -74,7 +74,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Autonomous** - When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
 
-**Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict one of the listed bane if your attack roll exceeds the target's defense by 5 or more.
+**Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.
 
 **Consumable** -  A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.
 
@@ -90,7 +90,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Potent** - Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.
 
-**Powerful** - Bane or boon invocations made with this item have advantage equal to the item's *powerful* value.
+**Powerful** - Bane or boon invocations made with this item have advantage equal to the item's *powerful* value. An item cannot have a *powerful* value greater than 3.
 
 **Reliable** - The wielder does not have to roll to invoke this item's listed boons if they are targeting a single creature. The invocation automatically succeeds. If the item also has the *area* property, it may still benefit from the automatic success granted by the *reliable* property.
 
@@ -106,7 +106,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *Crafted of an ultra-durable leather to ensure they support the wearer's weight, these boots possess bioengineered nanofiber soles that adhere flawlessly to any surface they touch until deactivated.*
 
-**Special**: These boots enable their wearer to automatically succeed at all climbing checks, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
+**Special**: These boots enable their wearer to automatically succeed at all rolls that pertain to climbing, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
 
 
 #### Aegis of Warding
@@ -155,7 +155,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Properties**: Darkness 5, Summon Creature 5, Blinded 5
 
-**Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will check of CR 15 or suffer one level of the *fatigued* bane.
+**Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will roll of CR 15 or suffer one level of the *fatigued* bane.
 
 
 #### Colt 45
@@ -193,12 +193,12 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *No mystic should go without this quintessential tool for peering beyond the limits of normal sight.*
 
-**Properties**: Scrying 6
+**Properties**: Spying 6
 
 
 #### Digital Camouflage
 
-**Wealth Level**: 3
+**Wealth Level**: 4
 
 *This specialized digital outerwear is used by elite black ops specialists on ultra-secret espionage missions. 360 degrees of camera coverage feeds dynamic digital concealment which is projected on the suit's exterior.*
 
@@ -231,9 +231,9 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *Freezing to the touch and engraved with wintry patterns of arcane magic, this suit of plate mail emits an aura of frost that halts foes in their tracks.*
 
-**Properties**: Aura 2, Armor (Plate Mail), Persistent (Immobile)
+**Properties**: Energy 3, Persistent (Aura), Armor (Plate Mail)
 
-**Special**: Frostblight can only invoke the *immobile* bane via its aura.
+**Special**: Frostblight can only invoke the *immobile* bane via its persistent aura.
 
 #### Firebrand
 
@@ -274,7 +274,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 #### Jet Pack
 
-**Wealth Level**: 4
+**Wealth Level**: 3
 
 *A masterpiece of technology, the jet pack allows those daring enough to use it to take to the skies with the maneuverability of a hummingbird.*
 
@@ -370,7 +370,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 #### Soul Siphon
 
-**Wealth Level**: 3
+**Wealth Level**: 2
 
 *This thin black wand emits crackling green necrotic energy capable of draining the very souls from your foes.*
 
@@ -408,7 +408,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 #### Worker Bot
 
-**Wealth Level**: 5
+**Wealth Level**: 4
 
 *This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day to day engineering tasks.*
 
@@ -441,20 +441,20 @@ Choose any additional properties that the item might have. Properties apply a we
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 7: Combat) |
+| Area | + disadvantage penalty incurred by the area via multi-targeting (see Chapter 7: Combat) |
 | Armor | Must be acquired or crafted first |
 | Augmenting | +1 |
 | Autonomous | +2 |
-| Baneful | +2 |
+| Baneful | 1 + WL cost of bane's lowest power level on the table in step 1 |
 | Consumable | -1 |
-| Cursed | Equal to WL cost for the bane according to the table in step 1 |
+| Cursed | WL cost for the bane on the table in step 1 |
 | Damage | +0 |
-| Deadly | Equal to the *deadly* value |
+| Deadly | 2 + *deadly* value |
 | Expendable | -1 |
 | Persistent | +3 |
 | Potent | +1 |
 | Reliable | +2 |
-| Powerful | Equal to the *powerful* value |
+| Powerful | 2 + *powerful* value |
 | Sentient | +3 |
 | Weapon | Must be acquired or crafted first |
 
@@ -510,17 +510,17 @@ After you have described your item's special properties, you should assign a wea
 >
 > **Assassin's Rifle** \
 > \
-> This weapon has the banes Blinded 5 and Persistent Damage 4. However, they cannot be inflicted in the usual manner. Instead, whenever your target is off guard, unaware, or within melee range of one of your allies, you may automatically apply one of the banes if your attack roll exceeds the target's defense by 5 or more. \
+> This weapon has the Baneful (Blinded) and Baneful (Persistent Damage) properties. However, certain conditions must be met to use these properties. If your target is off guard, unaware, or within melee range of one of your allies, you can use the Baneful proprety . \
 > \
 > *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
 > \
-> *Is it versatile?* No. Even though the item can inflict a number of banes, the cost of these are already accounted for because an item pays for every bane it can inflict. \
+> *Is it versatile?* No. Even though the item has multiple instances of the *baneful* proprety, the cost of these is already accounted for in the properties. \
 > \
-> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack as if it had the *baneful* property. +7 WL. \
+> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack, so we calculate it the same as two instances of the *baneful* property. +3 WL *blinded* +2, WL *persistent damage*. \
 > \
 > *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
 > \
-> **Final WL Modifier**: +6
+> **Final WL Modifier**: +4
 >
 > * * * * *
 >
@@ -589,9 +589,9 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 *This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.*
 
-Weapon (Longbow), Powerful 2, Slaying (giants), Agility +1, Perception +2, Intelligent
+Weapon (Longbow), Deadly 2, Slaying (giants), Agility +1, Perception +2, Intelligent
 
-**Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Powerful 2. In addition, it grants advantage 2 on all attacks against giants.
+**Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants.
 
 
 #### Infinity Suit
@@ -710,19 +710,22 @@ Detailed below are a variety of mounts and vehicles to carry your characters acr
 | All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
 Guard: 14 \
 Resolve: Immune |
-| Battle Cruiser | 9 | 1,000' | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
+| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
 Guard: 25 \
 Resolve: Immune |
-| Drake | 5 | 50' | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
+| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
 Guard: 20 \
 Resolve: 15 |
-| Fighter Ship | 5 | 2,000' | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
+| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
 Guard: 22 \
 Resolve: Immune |
-| Galleon | 6 | 70' | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
+| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist (Area) 2 | 20 | 3 | Toughness: 17 \
+Guard: 20 \
+Resolve: Immune |
+| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
 Guard: 19 \
 Resolve: Immune |
-| Griffin | 4 | 50' | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
+| Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
 Guard: 19 \
 Resolve: 13 |
 | Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
@@ -732,10 +735,10 @@ Resolve: 10 |
 Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
 Guard: 22 \
 Resolve: Immune |
-| Phoenix | 5 | 50' | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
+| Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
 Guard: 20 \
 Resolve: 19 |
-| Pegasus | 4 | 50' | | Might 4 \
+| Pegasus | 4 | 50' flying | | Might 4 \
 Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 \
 Guard: 18 \
 Resolve: 17 |
