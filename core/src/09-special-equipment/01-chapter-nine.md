@@ -419,7 +419,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 The extraordinary items already detailed are meant to serve as a starting point of inspiration for you to understand what these items look like so that you can create your own to fit your campaign. Building your own custom items is a simple four step process that involves deciding the attributes, banes, boons, and properties of the item and then determining an appropriate wealth level to represent the item's overall power.
 
-#### STEP 1: Choose Attributes, Banes, & Boons
+#### Step 1: Choose Attributes, Banes, & Boons
 
 An extraordinary item can grant access to one or more attribute, bane, or boon. Choose any number of them.
 
@@ -434,7 +434,7 @@ Each attribute, bane, and boon increases the wealth level of the item according 
 | 9 | +5 | +6 |
 
 
-#### STEP 2: Choose Properties
+#### Step 2: Choose Properties
 
 Choose any additional properties that the item might have. Properties apply a wealth level modifier according to the following table.
 
@@ -459,7 +459,7 @@ Choose any additional properties that the item might have. Properties apply a we
 | Weapon | Must be acquired or crafted first |
 
 
-#### STEP 3: Create Special Properties
+#### Step 3: Create Special Properties
 
 In the previous step, you chose from the preset properties already created. Here, you can decide to give your item its own unique effects by creating your own special properties. Simply write a clear description of the mechanical effects of the item as well as any special conditions or restrictions that might apply.
 
@@ -539,7 +539,7 @@ After you have described your item's special properties, you should assign a wea
 > **Final WL Modifier**: +2
 
 
-#### STEP 4: Calculate Final Wealth Level
+#### Step 4: Calculate Final Wealth Level
 
 Calculate the total wealth level accrued in the previous steps. Then, compare the item to others of similar power. If necessary, adjust the wealth level up or down slightly so that it is an accurate representation of the item's influence on the game compared to other extraordinary items. No extraordinary item can have a wealth level less than 1.
 
