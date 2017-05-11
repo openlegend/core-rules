@@ -794,7 +794,7 @@ boon through illicit data and hacking nearby systems to gain an edge.
 
 #### Drone Companion
 
-**Attributes:** Agility 3 (1d8), Fortitude 1 (1d4), Logic 1 (1d4), Perception 2 (1d6), Will 2 (1d6), Energy 3 (1d8) \
+**Attributes:** Agility 3 (1d8), Fortitude 1 (1d4), Logic 1 (1d4), Perception 2 (1d6), Will 2 (1d6), Energy 4 (1d10) \
 **Hit Points:** 16 \
 **Guard:** 13 (Agility 3) \
 **Toughness:** 13 \
