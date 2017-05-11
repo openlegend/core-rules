@@ -304,7 +304,7 @@ foes whenever the opportunity presents itself.
 Presence 4 (1d10), Persuasion 3 (1d8), Influence 3 (1d8)
 
 **Hit Points:** 24 \
-**Guard:** 15 \
+**Guard:** 14 (15 with shield - Agility 3, Leather Armor 1) \
 **Toughness:** 13 \
 **Resolve:** 17 \
 **Speed:** 30’
@@ -398,10 +398,10 @@ venomous sting.
 
 **Attributes:** Agility 4 (1d10), Fortitude 3 (1d8), Might 1 (1d4),
 Perception 3 (1d8), Will 3 (1d8), Presence 1 (1d4), Influence 4 (1d10) \
-**Hit Points:** 22 \
-**Guard:** 17 \
+**Hit Points:** 24 \
+**Guard:** 17 (Agility 4, Might 1, Breastplate 2) \
 **Toughness:** 16 \
-**Resolve:** 13 \
+**Resolve:** 14 \
 **Speed:** 30’
 
 **Feats:** Companion III
@@ -421,8 +421,8 @@ advantage 1 \
 
 **Attributes:** Agility 1 (1d4), Fortitude 3 (1d8), Might 4 (1d10),
 Perception 1 (1d4), Will 2 (1d6), Entropy 5 (2d6) \
-**Hit Points:** 22 \
-**Guard:** 15 \
+**Hit Points:** 20 \
+**Guard:** 15 (Agility 1, Might 4) \
 **Toughness:** 15 \
 **Resolve:** 12 \
 **Speed:** 30’ flying
@@ -463,7 +463,7 @@ comes at the cost of one level of the *fatigued* bane.
 
 **Attributes:** Agility 2 (1d6), Fortitude 4 (1d10), Might 5 (2d6), Will 3 (1d8), Presence 3 (1d8) \
 **Hit Points:** 30 \
-**Guard:** 19 (20 in battle trance) \
+**Guard:** 19 (20 in battle trance - Agility 2, Might 5, Chainmail 2) \
 **Toughness:** 17 (20 in battle trance) \
 **Resolve:** 16 (19 in battle trance) \
 **Speed:** 30’
@@ -511,7 +511,7 @@ body, hastening the dissolving of bones and flesh.
 
 **Attributes:** Will 2 (1d6), Creation 3 (1d8), Entropy 4 (1d10), Movement 5 (2d6), Prescience 3 (1d8) \
 **Hit Points:** 14 \
-**Guard:** 16 \
+**Guard:** 16 (Movement 5 via *attribute substitution*, Steelsilk Armor 1) \
 **Toughness:** 12 \
 **Resolve:** 12 \
 **Speed:** 30’
@@ -524,9 +524,9 @@ body, hastening the dissolving of bones and flesh.
 
 *Hyperlapse Decay* (damaging attack): Entropy vs. Guard \
 *Stasis Field* (inoke *aura: immobile*): Auto-success at PL 1 via *boon focus* \
-*Time Dilation Field* (invoke *aura: slowed*): Auto-success at PL 1 via*boon focus* \
+*Time Dilation Field* (invoke *aura: slowed*): Auto-success at PL 1 via *boon focus* \
 *Fast Forward* (invoke *haste*): Movement vs. 14 - 18 (PL 2 - 4) \
-*Mass Fast Forward* (invoke *aura: haste*): Auto-success at PL 2 via*boon focus* \
+*Mass Fast Forward* (invoke *aura: haste*): Auto-success at PL 2 via *boon focus* \
 *Rewind* (invoke *heal*): Creation vs. 12 - 16 (PL 1 - 3) \
 *Time Step* (invoke *teleport*): Movement vs. 16 (PL 3) \
 *Futuresight* (invoke *precognition*): Prescience vs. 12 - 16 (PL 1 - 3)
@@ -554,8 +554,8 @@ the Courtier has earned the trust of a powerful acquaintance via the
 to the Courtier, thanks to the *potent bane* and *unending charm* feats.
 
 **Attributes:** Agility 2 (1d6), Will 3 (1d8), Deception 4 (1d10), Presence 3 (1d8), Influence 5 (2d6) \
-**Hit Points:** 20 \
-**Guard:** 13 \
+**Hit Points:** 22 \
+**Guard:** 13 (Agility 2, Steelsilk Armor 1) \
 **Toughness:** 13 \
 **Resolve:** 16 \
 **Speed:** 30’
@@ -592,10 +592,10 @@ advantage, whether summoning up an imposing wall of briars with the
 *regeneration* boon. Druids also make excellent combatants and scouts.
 As a scout, they are able to sneak unnoticed into an enemy camp as a
 naturally occurring animal species. As a combatant, they can shift into
-massive and a massive and powerful creature, such as a bear to quickly
+a massive and powerful creature, such as a bear to quickly
 deal with enemies.
 
-**Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Might 2 (1d6), Perception 2 (1d6), Will 1 (1d6), Alteration 5 (2d6), Creation 3 (1d8) \
+**Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Might 2 (1d6), Perception 2 (1d6), Will 2 (1d6), Alteration 5 (2d6), Creation 3 (1d8) \
 **Hit Points:** 20 \
 **Guard:** 17 (Agility 2, Might 2, Splint Mail 3) \
 **Toughness:** 15 \
@@ -665,7 +665,7 @@ hand cannon.
 
 **Attributes:** Agility 3 (1d8), Fortitude 3 (1d8), Learning 3 (1d8), Logic 3 (1d8), Perception 1 (1d4), Creation 5 (2d6) \
 **Hit Points:** 16 \
-**Guard:** 15 \
+**Guard:** 15 (Agility 3, Kevlar Vest 2) \
 **Toughness:** 13 \
 **Resolve:** 10 \
 **Speed:** 30’
@@ -710,7 +710,7 @@ getting the job done, Gunslingers can aim their shots to hinder enemies
 in all manner of ways: shooting their weapons out of their hands,
 knocking the wind out of them, or blowing off a toe. The *multi-attack specialist*
 feat allows them to shoot twice as fast as a lesser gunfighter, enabling them to
-take on large groups of foes single-handedly. Supplementing their markshmanship,
+take on large groups of foes single-handedly. Supplementing their markshmanship
 with dark powers, they invoke banes and boons with Entropy. Favorites include
 invoking *life drain* to heal a little bit with every shot and afflicting enemies
 with the *sickened* bane to render their attacks nearly useless. When foes close
@@ -718,8 +718,8 @@ in, a Gunslinger doesn’t hesitate to use Entropy to create a defensive *aura* 
 scare enemies away with *fear*.
 
 **Attributes:** Agility 5 (2d6), Perception 3 (1d8), Will 2 (1d6), Presence 3 (1d8), Entropy 4 (1d10) \
-**Hit Points:** 28 \
-**Guard:** 17 (Entropy 5, Heavy Leather Armor) \
+**Hit Points:** 20 \
+**Guard:** 17 (Agility 5, Heavy Trench Coat 2) \
 **Toughness:** 15 \
 **Resolve:** 16 \
 **Speed:** 30’
@@ -796,7 +796,7 @@ boon through illicit data and hacking nearby systems to gain an edge.
 
 **Attributes:** Agility 3 (1d8), Fortitude 1 (1d4), Logic 1 (1d4), Perception 2 (1d6), Will 2 (1d6), Energy 4 (1d10) \
 **Hit Points:** 16 \
-**Guard:** 13 \
+**Guard:** 13 (Agility 3) \
 **Toughness:** 13 \
 **Resolve:** 12 \
 **Speed:** 30’
@@ -810,15 +810,15 @@ boon through illicit data and hacking nearby systems to gain an edge.
 
 ### Mystic
 
-Mystics are typically found are typically found far removed from the
-hustle and bustle of the city and detached from the advances of the
-society they left behind. They prefer to listen to the still quiet voice
+Mystics are typically found far removed from the hustle and bustle
+of the city and detached from the advances of the society they left behind.
+They prefer to listen to the still quiet voice
 within, eschewing all material possessions and living as ascetics
 attempting to purge themselves of all self-centered ambition.
 
 #### Strategy
 
-Out of combat, Mystics command a vast array of capabilities the make
+Out of combat, Mystics command a vast array of capabilities that make
 them excellent information gatherers, detectives, and supernaturally
 empowered forensic analysts. They are able to predict future danger via
 the *precognition* boon, discover all manner of information by divining
@@ -916,7 +916,7 @@ actions and taking turns with one of its forms at any time.
 
 #### Yoroi Armor Form
 
-**Attributes:** Agility 3, Fortitude 4, Might 5, Will 2, Presence 3 \
+**Attributes:** Agility 3 (1d8), Fortitude 4 (1d10), Might 5 (2d6), Will 2 (1d6), Presence 3 (1d8) \
 **Hit Points:** 28 \
 **Guard:** 21 (Might 5, Agility 3, Yoroi Armor 3) \
 **Toughness:** 16 (19 in *battle trance*) \
@@ -965,7 +965,7 @@ companion uses *immobile* to make the target an easy shot for their
 master.
 
 **Attributes:** Agility 4 (1d10), Fortitude 3 (1d8), Might 2 (1d6),
-Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d8) \
+Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6) \
 **Hit Points:** 20 \
 **Guard:** 18 (Agility 4, Might 2, Chainmail 2) \
 **Toughness:** 15 \
@@ -974,7 +974,7 @@ Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d8) \
 
 **Feats:** Fleet of Foot, Master Tracker, Climbing, Companion I
 
-**Notable Equipment:** Longwword, Dagger, Longbow, Chainmail
+**Notable Equipment:** Longsword, Dagger, Longbow, Chainmail
 
 **Favored Actions:** \
 
@@ -1028,10 +1028,10 @@ they use *haste* to make a fast getaway or blanket an area in *darkness*
 and slip away unseen.
 
 **Attributes:** Agility 4, Perception 3, Will 2, Entropy 3, Movement 5 \
-**Hit Points:** 16 \
+**Hit Points:** 14 \
 **Guard:** 15 (Agility 4, Trenchcoat 1) \
-**Toughness:** 12 (Will 2) \
-**Resolve:** 12 (Will 2) \
+**Toughness:** 12 \
+**Resolve:** 12 \
 **Speed:** 30’
 
 **Feats:** Boon Focus I (Teleport), Lethal Strike I
@@ -1076,7 +1076,7 @@ focus on finishing off damaged foes so that they can use *combat
 momentum* to maneuver around the battlefield.
 
 **Attributes:** Fortitude 3 (1d8), Presence 1 (1d4), Perception 2 (1d6), Will 2 (1d6), Energy 5 (2d6), Protection 3 (1d8), Movement 3 (1d8) \
-**Hit Points:** 20 \
+**Hit Points:** 22 \
 **Guard:** 17 (Energy 5 via *attribute substitution*, Chainmail 2) \
 **Toughness:** 15 \
 **Resolve:** 13 \
@@ -1102,7 +1102,7 @@ decade of training before they are even permitted their first attempt at
 the rigorous test which initiates them as full Templars. A deadly mix of
 soldier and void wielder, they form a heavily armored support unit
 trained to keep other soldiers out of harm’s way. Their highly coveted
-guardian armor conducts amplifies their control of the void,
+guardian armor amplifies their control of the void,
 supercharging their power to nullify enemy attacks.
 
 #### Strategy
@@ -1128,7 +1128,7 @@ decisions with banes and boons such as *forced move, barrier,* and
 
 **Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Will 2 (1d6), Presence 2 (1d6), Energy 5 (2d6), Movement 4 (1d10) \
 **Hit Points:** 24 \
-**Guard:** 16 \
+**Guard:** 15 (16 with shield - Agility 2, Templar Armor 3)\
 **Toughness:** 15 \
 **Resolve:** 14 \
 **Speed:** 25’
