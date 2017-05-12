@@ -245,8 +245,7 @@ Area attacks are only possible when you are using an extraordinary attribute, un
 
 #### Make a Bane Attack
 
-
-Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in Chapter 6: Banes & Boons. While targets may be effected by multiple banes, you may not *stack* banes; a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (such as the *fatigued* bane).
+Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in Chapter 6: Banes & Boons. While targets may be effected by multiple banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (such as the *fatigued* bane).
 
 Resolving a bane attack is very similar to making a damaging attack, except where indicated in the following steps:
 

@@ -108,7 +108,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack. Some special weapons list banes not normally invoked via Agility or Might. In those cases, the attacking attribute can be used to invoke the bane.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. You may use the weapon to inflict the listed banes even if you are not using one of the attack attributes listed in the bane description. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 
 <div class="table-no-body"></div>
@@ -265,11 +265,7 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 ### Step 4: Calculate Wealth Level
 
-All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions from your choices in Step 2 and Step 3.
-
-### Step 5: Check With Your GM
-
-Although we've shown how to calculate the Wealth Level of an item based on how powerful it is, the fact remains that many weapons have story value that should not be undermined. A sniper rifle might only have the capabilities of a Wealth Level 1 weapon, but it is expertly crafted and should be beyond the means of a Wealth Level 1 character. You'll notice on the weapons table that it's listed at Wealth Level 2. GMs should also feel free to adjust Wealth Level until it feels correct. Obviously a typical dagger (comes to Wealth Level 2 with the formula), is not worth more than a typical shortsword (comes to Wealth Level 1). Similarly, a weapon with the Area 9 property may be powerful, but it does not have the same value as the army of 50,000 mentioned in the Wealth Level 9 example expenditures.
+All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions you made in steps 2 and 3. Then, compare the weapon to others of similar power. If necessary, adjust the wealth level up or down slightly so that it is an accurate representation of the item's overall influence on the story and intended power level compared to other items.
 
 
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
@@ -287,10 +283,5 @@ Although we've shown how to calculate the Wealth Level of an item based on how p
 >
 > **Step 4 (Calculate Wealth Level)**
 > The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.
->
-> **Step 5 (Check With Your GM)**
-> Does the GM approve? Hopefully. We would hate to disagree with them.
-
-
 
 
