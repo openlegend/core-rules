@@ -399,8 +399,8 @@ ___
 
 - *Icy Bolt* (damaging attack): Energy vs. Guard
 - *Frigid Wrath* (damaging attack, 10’ cube): Energy vs. Guard
-- *Frostbite* (inflict *persistent damage,* 10’ cube): Energy vs. Guard
-- *Wintry Gust* (inflict *knockdown,* 10’ cube): Energy vs. Guard
+- *Frostbite* (inflict *persistent damage*, 10’ cube): Energy vs. Guard
+- *Wintry Gust* (inflict *knockdown*, 10’ cube): Energy vs. Guard
 - *Flashfreeze* (inflict *immobile*, 10’ cube): Energy vs. Toughness
 - *Longsword* (damaging attack): Might vs. Guard
 - *Longspear* (damaging attack, 10’ reach): Might vs. Guard, advantage 1

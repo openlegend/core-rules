@@ -1,65 +1,9 @@
-<style>
-  .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
-</style>
+<div class='pageNumber auto'></div>
 
-<div style='padding-top: 20px; margin-top:250px;'></div>
-<div class='wide'>
-# Open Legend : Core Rules
-</div>
-
-<div style='margin-top:25px'></div>
-<div class='wide'>
-##### An open-source RPG for any genre. Freeform storytelling with strategic fun.
-</div>
-
-
-
-<div class ='wide'><div style='margin-top:450px'></div>
-
-OPEN LEGEND RPG, Open Legend keyhole, the Open Legend logo, Seventh Sphere Publishing, and all other Seventh Sphere product names, and their respective logos are trademarks of Seventh Sphere Publishing in the USA and other countries.
-
-This work contains material that is copyright Seventh Sphere and/or other authors. Unauthorized use is prohibited. See the [Community License](http://www.openlegendrpg.com/community-license) for details on creating royalty-free derivative content.
-
-Layout by Brian Feister with much help from The Homebrewery.
-
-Rules written by Brian Feister & Ish Stabosz.
-
-Thanks to our many thousands of playtesters.
-
-</div>
-\page
-
-
-<div class='toc'>
-##### Table Of Contents
-- **[1 Open Legend : Core Rules](#p1)**
-- **[2 Introduction: This is Your Story. Tell it.](#p4)**
-- **[1 Tales from Tamriel](#p1)**
-- **[2 Table Of Contents](#p3)**
-- **[3 Chapter 1: Character Creation](#p5)**
-  - [3.1 ](#p5)
-    - [3.1.1 1. Choose a Race](#p5)
-    - [3.1.2 2. Choose a Birthsign](#p5)
-    - [3.1.3 3. Level](#p5)
-    - [3.1.4 4. Starting Ability Scores](#p5)
-    - [3.1.5 5. Skill Points](#p5)
-    - [3.1.6 6. Starting Health](#p5)
-    - [3.1.7 7. Starting Magicka](#p5)
-  - [3.2 Character Advancement](#p5)
-</div>
-
-
-\page
-
-<img class="full-page cover-all"
-  src="http://localhost:8888/_full_page/Sci%20Fi%20Birthing%20Pod%20-%20Mahea%20Rodrigues.jpg" />
-
-\page
-
-# Introduction: This is Your Story. Tell it. #
+# Introduction: This is Your Story. Tell it.
 
 <div class="hr"></div>
+
 
 ---
 
@@ -94,7 +38,7 @@ If you have never played a roleplaying game before, you can think of it as a mov
 
 The rest of the players take the role of **Player Characters** (or PCs). The PCs are the protagonists of the story. In a high fantasy setting, one PC might be a dwarven warrior with a lust for gems, another an immortal elven wizard whose only desire is knowledge, and still another a half-angelic priest who travels the world in order to inspire others to act justly. In another game of Open Legend, the players might star as a
 
-<div style='padding-top: 25px'></div>
+<div style='padding-top: 15px'></div>
 
 
 > ##### Why Open Legend?
@@ -102,23 +46,24 @@ The rest of the players take the role of **Player Characters** (or PCs). The PCs
 >
 >The secret's in the title: Open. Everything about the game has been built to open up the doors of possibility so that every table tells a legend worth telling. Here are a few of the possibilities that Open Legend offers.
 >
->**Open Source**. That's right. The unabridged core rules are are available on the website and the [Open Legend Community License](http://www.openlegendrpg.com/community-license) allows for publication of both commercial as well as non-commercial derivative works using the system. We know the public will love the game as much as we do, and we hope they'll spread the love by publishing their own adventures, rules supplements, and more.
+>**Open Source**. That's right. The unabridged core rules are available on the website and the [Open Legend Community License](http://www.openlegendrpg.com/community-license) allows for publication of both commercial as well as non-commercial derivative works using the system. We know the public will love the game as much as we do, and we hope they'll spread the love by publishing their own adventures, rules supplements, and more.
 >
 >**Open Dice**. In Open Legend, dice explode! That means that whenever ANY die rolls maximum, you get to reroll it and add the new roll to your total, ad infinitum. The volatile nature of dice rolling makes every roll count, and each session of Open Legend is full of tense moments when the tides can turn at a moment's notice, for better or worse.
 >
 >**Open Legend**. You get to tell the story that you want to tell, with the characters you want to play. You aren't tied down to specific class, archetype, or race combinations. The only limit is your imagination (and maybe the GM's veto power). Rather than a list of set classes with a menu of skills to pick from, you start the game with attribute points that you spend as you wish to give your character the powers they need.
 
-<div style='padding-top: 25px'></div>
+<div style='padding-top: 15px'></div>
 
 rag tag crew of space pirates living from score to score on their barely functioning merchant class starship. All the common tropes could make an appearance: the reckless pilot, the brash captain with a troubled past, the hired gun, the stowaway, and the engineer who gets along with the ship better than with the crew.
-
 
 Whatever the motivation of their characters, the players share a common goal: to take the plot and setting established by the GM and have fun. At some tables, this might look like J.R.R Tolkien's *Lord of the Rings*. In others, it might look more like *Monty Python and the Holy Grail*. Whatever fun looks like at your table, Open Legend will be a part of it.
 
 **This is your story. Tell it.**
 
+
 \page
 
+<div class='pageNumber auto'></div>
 
 ## What Defines Open Legend?
 
@@ -160,11 +105,13 @@ Add all of the dice together to find your action roll total. If your total is eq
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | the player succeeds with a twist. <br /> - OR - <br /> *the player fails but the story progresses*. (GM's Choice) |
 
+<div style="margin-top: -5px;"></div>
+
 ### Greater Treasures Lie Within
 
 Action rolls and exploding dice are just the start of what makes Open Legend a blast to play. Read on to discover how to build exciting characters you'll love to play, equip them for adventure, explore unknown worlds, and perform epic deeds.
 
-<div style="margin-top: 7px;"></div>
+<div style="margin-top: 5px;"></div>
 
 > ##### Example Action Roll
 >
@@ -173,8 +120,6 @@ Action rolls and exploding dice are just the start of what makes Open Legend a b
 > Imladril rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, the die is rolled again and it comes up a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so the GM rules that Imladril hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger's bow out of his hands before the combat begins.
 >
 > Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, the GM rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
-
-<div style="margin-bottom: 25px;"></div>
 
 
 
