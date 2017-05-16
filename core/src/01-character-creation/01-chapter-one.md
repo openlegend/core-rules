@@ -1,3 +1,5 @@
+<div class='pageNumber auto'></div>
+
 # Chapter 1: Character Creation
 
 Before you can start telling your story, you'll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In Open Legend, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you'll level up and gain more power. These rules explain how to create a character starting at level one. Later, you'll learn what to do when you level up.
@@ -235,26 +237,10 @@ When an enemy tries to attack you--whether with the shot of a rifle, a deft swor
 > So, 3d6 means that you roll three six-sided dice.
 >
 > 5d4 indicates five four-sided dice.
+>
+> And so on.
 
 <br>
-
-With your character created, you are all ready to start playing Open Legend. Whether you're playing with old friends or complete strangers, and whether you're completely new to roleplaying games or an experienced veteran, the following tips will help ensure a fun time for everyone at the table.
-
-### Relax
-
-Open Legend gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your character's life depends on it and have fun. If you're playing a dwarf, maybe pull out your best Scottish accent. If your character's a witch, squint your eyes and speak in riddles. If you're no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party's escapades, and so on.
-
-### Respect the GM
-
-If you've never GM'd before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put their campaign together and prep for this session. Go with their storyline, overlook any accidental inconsistencies, and don't cause a ruckus just for the sake of causing a ruckus. If there's a dispute over the rules, accept the GM's final ruling and agree to look it up later for the sake of keeping the game going.
-
-\page
-
-<div class='pageNumber auto'></div>
-
-### Respect the Other Players
-
-Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing Open Legend, just remember that not everyone else at the table may enjoy the same aspects. Part of the GM's duty is to give everyone a chance to shine, but you can do your part too by not hogging the spotlight and by encouraging the other players to have fun, whatever that means for them.
 
 ## Step 4: Purchase Feats
 
@@ -274,6 +260,10 @@ You can read the feat descriptions in a searchable list
 
 In a typical game of Open Legend, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
+\page
+
+<div class='pageNumber auto'></div>
+
 Usually, though, you begin with a wealth score of 2, and may select up to three items of wealth level 2 and any number of items of a lesser wealth level. See chapter 5 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
 
 ## Step 6: Choose Perks and Flaws
@@ -283,8 +273,21 @@ Perks and flaws provide you with additional ways to define your character's pers
 At character creation, you may optionally choose up to two perks and up to two flaws. You do not have to choose any.
 
 ## Step 7: Tell Your Story
-foes whenever the opportunity presents itself.
 
+With your character created, you are all ready to start playing Open Legend. Whether you're playing with old friends or complete strangers, and whether you're completely new to roleplaying games or an experienced veteran, the following tips will help ensure a fun time for everyone at the table.
+
+### Relax
+
+Open Legend gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your character's life depends on it and have fun. If you're playing a dwarf, maybe pull out your best Scottish accent. If your character's a witch, squint your eyes and speak in riddles. If you're no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party's escapades, and so on.
+
+### Respect the GM
+
+If you've never GM'd before, you might not realize all the work that goes into it. More likely than not, your GM worked for hours to put their campaign together and prep for this session. Go with their storyline, overlook any accidental inconsistencies, and don't cause a ruckus just for the sake of causing a ruckus. If there's a dispute over the rules, accept the GM's final ruling and agree to look it up later for the sake of keeping the game going.
+
+
+### Respect the Other Players
+
+Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing Open Legend, just remember that not everyone else at the table may enjoy the same aspects. Part of the GM's duty is to give everyone a chance to shine, but you can do your part too by not hogging the spotlight and by encouraging the other players to have fun, whatever that means for them.
 
 
 
@@ -319,10 +322,7 @@ In combat, a Bard supports allies with *bolster*, using the *boon focus*
 feat to inspire as many allies as possible at once. When friends are
 wounded, the Bard uses *heal* to get them back in the fight, and can
 even help several allies hold the line by invoking a healing *aura*.
-Bards are reasonably adept in melee combat, using their rapier to disarm. And so on.
-
-
-
+Bards are reasonably adept in melee combat, using their rapier to disarm foes whenever the opportunity presents itself.
 
 ____
 - **Attributes:** Agility 3 (1d8), Learning 3 (1d8), Will 3 (1d8), Presence 4 (1d10), Persuasion 3 (1d8), Influence 3 (1d8)
@@ -399,8 +399,8 @@ ___
 
 - *Icy Bolt* (damaging attack): Energy vs. Guard
 - *Frigid Wrath* (damaging attack, 10’ cube): Energy vs. Guard
-- *Frostbite* (inflict *persistent damage*, 10’ cube): Energy vs. Guard
-- *Wintry Gust* (inflict *knockdown*, 10’ cube): Energy vs. Guard
+- *Frostbite* (inflict *persistent damage,* 10’ cube): Energy vs. Guard
+- *Wintry Gust* (inflict *knockdown,* 10’ cube): Energy vs. Guard
 - *Flashfreeze* (inflict *immobile*, 10’ cube): Energy vs. Toughness
 - *Longsword* (damaging attack): Might vs. Guard
 - *Longspear* (damaging attack, 10’ reach): Might vs. Guard, advantage 1
