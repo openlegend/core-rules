@@ -1,4 +1,7 @@
-# Chapter 2: Actions and Attributes #
+
+<div class='pageNumber auto'></div>
+
+# Chapter 2: Actions and Attributes
 
 The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to interpret the results.
 
@@ -14,12 +17,11 @@ Another important point in Open Legend is that every action roll should drive th
 
 If you look back to the Core Mechanic, you can see that a simple failure is not an option:
 
-<div class="table-centered"></div>
 | The Action Roll  |
 | - |
 | Roll 1d20 + attribute dice (all dice explode) |
 
-<br />
+
 
 | If the action roll... | then the result is... |
 | :- | :- |
@@ -32,15 +34,21 @@ The following example illustrates how to make every roll matter.
 
 Here are two potential outcomes for the roll:
 
-*If the GM chooses **success with a twist**, they might rule that Pelias is able to open the lock; however, just as he finishes the job, he begins to hear a faint hissing sound from the door. A poison gas trap! The burglar immediately falls unconscious, and the rest of the party must decide what to do before the gas reaches them in a matter of seconds.*
+*If the GM chooses **success with a twist**, they might rule that Pelias is able to open the lock; however, just as he finishes the job, he begins to hear a faint hissing sound from*
+*the door. A poison gas trap! The burglar immediately falls*
+___
+*unconscious, and the rest of the party must decide what to do before the gas reaches them in a matter of seconds.*
 
 *If the GM chooses **failure, but the story progresses**, they might rule that although Pelias is unable to get the lock open, he hears footsteps approaching from around the corner accompanied by the familiar jingle of a jailer's keychain. If the party can position themselves quickly enough, they may be able to get the keys without a fight.*
 
 Notice how both of these options allow Pelias's action to drive the story forward just as much as a successful roll would have.
 
+
 ### What NOT to do
 
 In the above example, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In Open Legend, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll.  The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
+
+<div style="margin-top: 50px"></div>
 
 > ### Old Habits Die Hard
 > If you've played other RPGs in the past, you may be tempted to immediately follow another player's failed roll with an action roll of your own.
@@ -52,13 +60,17 @@ In the above example, what might often happen at a gaming table is that upon see
 > * Persuasion rolls to convince an NPC of something
 > * Learning rolls to recall useful information
 
+<div style="padding-bottom: 50px"></div>
+
 ### Keep It Simple: Every Roll Matters for the GM
 
 The “every roll matters” rule was designed to make player actions meaningful to the story whether they succeed or fail. It recognizes the fact that static pass / fail rolls aren't particularly fun for players. But “every roll matters” also adds an extra layer of complexity to the game because it requires the GM to make on-the-fly interpretations.
 
-**So when the GM makes a roll**, a success is a success and a failure is a failure.
+**So when the GM makes a roll**, a success is a success and a failure is a failure. This is for the sake of simplicity and fun. When a player fails a roll, it's not very fun if something doesn't come out of it. When the GM fails a roll, though, there is usually much rejoicing at the table.
 
-This is for the sake of simplicity and fun. When a player fails a roll, it's not very fun if something doesn't come out of it. When the GM fails a roll, though, there is usually much rejoicing at the table.
+\page
+
+<div class='pageNumber auto'></div>
 
 ## Interpreting Action Rolls
 
@@ -80,6 +92,8 @@ There are two primary factors to consider when adjudicating a success:
 
 When a player fails an action roll, the GM may choose to allow the player's action to succeed with a twist. In this case, the player gets what they wanted originally, but there is some sort of unintended consequence or unexpected cost. The following list is not exhaustive, but it should give you a pretty good idea of what qualifies as a twist.
 
+<div style="margin-bottom: -13px"></div>
+
 - **Put a character in danger**
 - **Expend a resource**
 - **Make an enemy or lose a friend**
@@ -88,7 +102,11 @@ When a player fails an action roll, the GM may choose to allow the player's acti
 - **Attract attention**
 - **Find something you weren't looking for**
 
-The important thing to realize is that a success with a twist is still a success. It just comes at some sort of a cost: You find the trail of the hydra you're tracking, but it leads you through a swamp infested with undead. You sense that the merchant is overcharging you, but you fail to realize that he's also distracting you from the thugs sneaking up behind you. You are able to land a shot against the zombie, but it costs you the last bullet in your magazine.
+<div style="margin-bottom: -13px"></div>
+
+
+The important thing to realize is that a success with a twist is still a success. It just comes at some sort of a cost: You find the trail of the hydra you're tracking, but it leads you through a swamp infested with undead. You sense that the merchant is overcharging you, but you fail to realize that he's also distracting you from the thugs sneaking up behind you. You are  able to land a shot against the zombie, but it costs you the last bullet in your magazine.
+
 
 ### Interpreting Failure, but the Story Progresses
 
@@ -110,10 +128,10 @@ Many actions that you will undertake in *Open Legend* have a Challenge Rating (C
 
 Oftentimes, though, the GM will need to determine the CR for actions that aren't spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
 
-<div class="table-no-body"></div>
-| Challenge Ratings by Difficulty |
-| - |
-| |
+
+<div style="text-align: center">
+##### Challenge Ratings by Difficulty
+</div>
 
 | Difficulty | Challenge Rating | Example Actions |
 | :-: | :-: | :------ |
@@ -123,15 +141,18 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren't
 | Epic | 25 | translate a text in an alien language, break down an iron door |
 | Legendary | 30 | leap a 25' chasm, climb a flat surface, befriend an enemy with a vendetta against you |
 
+\page
+
+<div class='pageNumber auto'></div>
+
 It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth. However, it may be helpful when creating scenarios for GMs to understand the typical capabilities of a character based on their attribute score. The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed score can be expected to succeed at the listed Challenge Rating about **50%** of the time.
 
-<div class="table-no-body table-centered"></div>
-| Average Challenge Ratings vs. Attribute Scores |
-| - |
-| |
-<div class="table-centered"></div>
+<div style="text-align: center">
+##### Average Challenge Ratings <br /> vs. Attribute Scores
+</div>
+
 | Attribute Score | Average Challenge Rating |
-| - | - |
+| :-: | :-: |
 | 0 | 10 |
 | 1 | 12 |
 | 2 | 14 |
@@ -150,9 +171,12 @@ Sometimes, two or more characters are directly opposing each other in a test of 
 
 To resolve such contests, each character involved makes an action roll using an appropriate attribute. Whoever rolls the highest succeeds at the action. Sometimes, all parties use the same attribute for their action rolls, but often, each character will use a different attribute, as in the case of the rogue attempting to sneak (Agility) past the guard's watch (Perception).
 
-> #### Example Contested Action
+> ##### Example: Contested Action
 >
 > As the Unnamed Necromancer attempts to open a portal to release a shade demon upon the land, Uldric the Protector attempts to exert every ounce of his magical will to close the portal. The GM calls for a contested action between the two. The Necromancer makes an Entropy roll and gets a 25, while Uldric gets a 20 on his Protection roll. Unfortunately for the rest of the world, the demon has been unleashed.
+
+```
+```
 
 ### Group Action Rolls
 
@@ -172,23 +196,35 @@ If a situation arises in which you are assigned both advantage and disadvantage,
 
 When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
 
-> #### Example of Advantage
+> ##### Example: Advantage
 >
 > Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. The d20 rolls a 16 and the 4d10 roll 3, 5, 7, and 9. She removes the lowest d10 before calculating her total, leaving her with a final roll of 16 + 5 + 7 + 9 = 37.
 
+\page
+
+<div class='pageNumber auto'></div>
+
 Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
 
-> #### Example of Disadvantage
+<div style="padding-bottom: 50px"></div>
+
+> ##### Example: Disadvantage
 >
 > Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two *highest* rolling d6s.
+
+<div style="padding-bottom: 50px"></div>
 
 ### Advantage and Disadvantage Are Only Applied BEFORE Explosions
 
 Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
 
-> #### Example of Advantage with Exploding Dice
+<div style="padding-bottom: 50px"></div>
+
+> ##### Example: Advantage & Exploding Dice
 >
-> Tommy "Two Guns" unloads his pistols on an enemy gangster. His Agility is 3 and he has advantage 2 on the roll, so he rolls 1d20 + 3d8. Tommy's d20 rolls a 10 and the d8s land 8, 8, and 3. Because of his advantage 2, Tommy ignores the lowest two dice: the 3 and one of the 8s. He re-rolls the remaining 8 because dice explode on their maximum result and gets a 5. His final roll is 23 (10 + 8 + 5).
+> Tommy "Two Guns" unloads his pistols on a rival gangster. His Agility is 3 and he has advantage 2 on the roll, so he rolls 1d20 + 3d8. Tommy's d20 rolls a 10 and the d8s land 8, 8, and 3. Because of his advantage 2, Tommy ignores the lowest two dice: the 3 and one of the 8s. He re-rolls the remaining 8 because dice explode on their maximum result and gets a 5. His final roll is 23 (10 + 8 + 5).
+
+<div style="padding-bottom: 50px"></div>
 
 ### Advantage and Disadvantage without Attribute Dice
 
@@ -196,14 +232,17 @@ When making an action roll without attribute dice, advantage and disadvantage af
 
 These rules apply to both actions performed with an attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus, you cannot multi-target attack if you have an attribute score of zero.
 
+```
+```
+
 ### Assigning Advantage and Disadvantage
 
 Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Table provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
 
-<div class="table-no-body"></div>
-| Advantage and Disadvantage Examples |
-| - |
-| |
+<div style="text-align: center">
+##### Advantage and Disadvantage Examples
+</div>
+
 
 | Situations Meriting Advantage | Situations Meriting Disadvantage |
 | :- | :- |
@@ -221,11 +260,15 @@ An additional layer of depth to action resolution comes in the form of legend po
 
 Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying.
 
-> ### Example of Earning a Legend Point
+> ##### Example: Earning a Legend Point
 >
 > Zaax has the *hot tempered* flaw, causing him to easily lose control of his anger. In the middle of the party's tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
 
 The GM may also feel free to establish other rules for awarding legend points. For example, some GMs like to allow each player to award another PC one legend point each session. Other tables might have a vote for MVP or best roleplayer at the end of each session, with the winner gaining a legend point.
+
+\page
+
+<div class='pageNumber auto'></div>
 
 ### Spending Legend Points
 
@@ -293,6 +336,10 @@ Jax is piloting his one man Beta Flier in a high speed dogfight against a pair o
 
 **Failure, but the story progresses:** Jax zooms between two pillars of raw earth, and misjudges their width by a few inches. He hears a metallic crack as one of his wings is mangled beyond function and the pilot is forced into a crash landing.
 
+\page
+
+<div class='pageNumber auto'></div>
+
 #### Epic Test of Agility (CR 25)
 
 Winston, renowned as the finest archer in the land, has been captured by the giant lord Glorrg. Glorrg demands that Winston proves he really is who he says he is. The giant has one of his servants release four hummingbirds in the air and demands Winston to shoot them all down before they can escape.
@@ -323,7 +370,10 @@ While traversing the deep reaches of space, Zak was unfortunately infected with 
 
 #### Epic Test of Fortitude (CR 25)
 
-A party of legendary heroes has followed the Shadow Demon Yrrllx to his native home on the entropic plane. Every moment within this realm of shade and chaos bites away at the very existence of the heroes, and the GM calls for Fortitude rolls to determine how the party weathers the destructive forces of this foreign plane.
+A party of legendary heroes has followed the Shadow Demon Yrrllx to his native home on the entropic plane. Every
+
+___
+moment within this realm of shade and chaos bites away at the very existence of the heroes, and the GM calls for Fortitude rolls to determine how the party weathers the destructive forces of this foreign plane.
 
 **Success with a twist:** The hero is able to keep his very existence from unraveling. However, upon returning to the material world, he will be forever changed, as some part of his reality was lost to the place of shadows.
 
@@ -348,6 +398,10 @@ While traversing the jungle planet Thox, Selena encounters a race of alien squid
 **Success with a twist:** Selena can understand the squid language well enough to gather a general impression of what they are trying to communicate, though complex ideas are impossible to transmit.
 
 **Failure, but the story progresses:** In her attempt to learn the language, Selena mimics several of the gurgles and hisses of the squid men. They take her mimicry as an insult, and they are on the verge of taking her prisoner if she cannot find a way to make peace.
+
+\page
+
+<div class='pageNumber auto'></div>
 
 #### Epic Test of Learning (CR 25)
 
@@ -377,6 +431,9 @@ Cyril the android is stranded in Junkland, a miles long island of debris that fl
 
 **Failure, but the story progresses:** Cyril can't find anything salvageable from the junk heaps nearby. What he does manage to stir up, however, are a pair of Techno Pack Rats who eye his circuitry and armored plating with much envy.
 
+```
+```
+
 #### Epic Test of Logic (CR 25)
 
 Azure and party are attempting to negotiate with the Dragon Council in order to convince the wyrms to break their vow of neutrality and aid the races of good in the Demon War. Things are looking grim, but Azure is well-studied in the Dragon Code, and he attempts to find a loophole around the Council's insistence that the Law of Gold requires that any dragon who serves the lower races must be paid its weight in gold for the service. The legalistic wyrms insist that even if any of their kin were willing to fight along the humanoids out of the goodness of their hearts, the Law of Gold would still need to be satisfied.
@@ -399,7 +456,18 @@ Yldris is interrogating a captured goblin to learn more about the threats of the
 
 #### Heroic Test of Perception (DC 20)
 
-Zak and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Zak tells the GM that he will be searching for traps ahead of the party. After clearing several rooms, the party is walking down a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
+Zak and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Zak tells the
+GM that he will be
+searching for traps ahead of the party.
+After clearing several rooms, the party is
+walking down
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
 
 **Success with a twist:** Zak notices the mine just as he steps within its activation zone. He is able to shout to his party to take cover, but he will suffer the full force of the mine.
 
@@ -457,6 +525,10 @@ Slade has acquired an appropriate disguise to pass as a city guard. As he attemp
 
 Adele scans her multi-pass to gain entry to a level 5 sector of her office building, even though she only has clearance up to level 4. When the security sentry on duty questions her, Adele spins a tale about how she's been having trouble with her multi-pass all day ever since she got caught in a mag storm on the way to work and that she's just trying to get back into her office to grab her lunch.
 
+\page
+
+<div class='pageNumber auto'></div>
+
 **Success with a twist:** The sentry believes the story, but just to cover his butt he has to escort her to the office so that he doesn't get in trouble.
 
 **Failure, but the story progresses:** The sentry is suspicious and tells Adele that he will need to contact his shift commander about this.
@@ -483,7 +555,10 @@ Pelias is trying to trade a valuable ruby to the barkeep in exchange for the nam
 
 #### Heroic Test of Persuasion (CR 20)
 
-When they reach the town of Haven, the survivors find the gates closed. The guards inform them that the Overseer has placed a blockade on all outsiders due to reports of an outbreak of a new strain of Virus Z. With a few smooth words, Wendell manages to get the Overseer to come to the gate, but now he is attempting the much more difficult task of convincing him that his group isn't infected and that they would be a valuable asset to the town.
+When they reach the town of Haven, the survivors find the gates closed. The guards inform them that the Overseer has placed a blockade on all outsiders due to reports of an outbreak of a new strain of Virus Z. With a few smooth words, Wendell manages to get the Overseer to come to the gate, but now he is attempting the much more difficult task of
+
+___
+convincing him that his group isn't infected and that they would be a valuable asset to the town.
 
 **Success with a twist:** The Overseer finds the group's deeds impressive and believes their story. However, he will accept them into Haven only if they agree to a one week quarantine, which will significantly delay their agenda.
 
@@ -511,7 +586,14 @@ Shazben Hazben, the halfling bard, enters the tavern with a well-tuned mandolin 
 
 #### Heroic Test of Presence (CR 20)
 
-Gunner Dag has gotten himself into another one of his situations. He lost big at poker with a few of the local miners, used a bit of harsh language about one of their mother's, and now he finds himself standing on main street at high noon, his Volt Pistol hanging at his hip and his eyes glaring at another stranger that he really doesn't want to kill. He grits his teeth, hardens his eyes, and calls on every nerve of steel he has to overawe this yokel into backing down before things get bloody.
+Gunner Dag has gotten himself into another one of his situations. He lost big at poker with a few of the local miners, used a bit of harsh language about one of their mother's, and now he finds himself standing on main street at high noon, his Volt Pistol hanging at his hip and his eyes glaring at
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+another stranger that he really doesn't want to kill. He grits his teeth, hardens his eyes, and calls on every nerve of steel he has to overawe this yokel into backing down before things get bloody.
 
 **Success with a twist:** The miner can see in Dag's eyes that he is a born killer. He throws down his gun, but he still wants revenge. He will catch Dag in an alley later with many more thugs if he can.
 
@@ -573,6 +655,10 @@ Therilas is attempting to lead a party of refugees safely through the Decaying D
 
 **Failure, but the story progresses:** Unfortunately, despite his best efforts, Therilas can only create half of the food and water that it would take to adequately sustain the refugees. Half of them won't survive the journey without further intervention.
 
+\page
+
+<div class='pageNumber auto'></div>
+
 #### Epic Test of Creation (CR 25)
 
 Father Ezekiel is stranded on a jungle island. He attempts to use divine magic to create a ship out of nothing so that he may escape his plight.
@@ -599,7 +685,10 @@ Doctor Heller accompanies his posse in raiding a train that is transporting a la
 
 **Success with a twist:** Doc's mad science works a bit too well as the Disseminator overloads and burns through the entire door of the safe, destroying about one-fifth of the score along with it.
 
-**Failure, but the story progresses:** It turns out the safe has been coated with a corrosion proof chemical that renders Doc's acid harmless. The good news is that Doc is smart enough to recognize this. The bad news is that it takes him so long to figure it out that the Pinkerton reinforcements have arrived on horseback.
+**Failure, but the story progresses:** It turns out the safe has been coated with a corrosion proof chemical that renders Doc's acid harmless. The good news is that Doc is smart enough to recognize this. The bad news is that it takes him so
+
+___
+long to figure it out that the Pinkerton reinforcements have arrived on horseback.
 
 #### Epic Test of Energy (CR 25)
 
@@ -631,7 +720,14 @@ Balthazar has delved deep into the Tomb of Aliki to gain access to the powerful 
 
 #### Epic Test of Entropy (CR 25)
 
-Xu Ming and his team of survivors have journeyed in their starcruiser to an abandoned sector of the galaxy emitting a strange energy signature. Touching down on the surface, they discover hordes of nightmarish aliens pouring through a massive portal. As the rest of the team mows down the advancing horde, the voidtouched psion Stryx attempts to channel void energy from a higher dimension to nullify the portal.
+Xu Ming and his team of survivors have journeyed in their starcruiser to an abandoned sector of the galaxy emitting a strange energy signature. Touching down on the surface, they
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+discover hordes of nightmarish aliens pouring through a massive portal. As the rest of the team mows down the advancing horde, the voidtouched psion Stryx attempts to channel void energy from a higher dimension to nullify the portal.
 
 **Success with a twist:** Stryx must contend with a horrifying alien brood master holding the portal open and preparing to make the jump itself. It uses all of its mind-warping power to twist her mind and break her. She prevails and manages to close the portal, though the mental battle scars her for life. She suffers a permanent level of the *fatigued* bane until she can find a means to cure herself.
 
@@ -656,6 +752,10 @@ Shipwrecked on a remote jungle island, Allister and his companions find themselv
 **Success with a twist:** The lizards are convinced of Allister's god-like nature, but they still do not trust his companions, treating them as mere slaves of a god.
 
 **Failure, but the story progresses:** A shaman among the lizardfolk recognizes Allister's illusions and calls him out on them. The lizards, inflamed with rage at the deception, launch an attack.
+
+
+```
+```
 
 #### Epic Test of Influence (CR 25)
 
@@ -684,6 +784,10 @@ Gizmo's party is attempting to evade a pack of wererats amidst the narrow alleys
 **Success with a twist:** Much to the surprise of his allies, Gizmo's invention does the trick, and he easily evades the wererats pursuing him. However, he has pushed them to the limit, and they will not function again until he can get access to a workshop and repair them.
 
 **Failure, but the story progresses:** Gizmo's Rocket Boots hurl him haphazardly about the city, and to no one's surprise, they conk out mid-air in an explosion of gears and smoke, sending the gnome hurdling into dark alley. When he gets to his feet, he finds himself flanked by wererats.
+
+\page
+
+<div class='pageNumber auto'></div>
 
 #### Epic Test of Movement (CR 25)
 
@@ -735,11 +839,18 @@ As Balthazar and his companions make their way up the narrow ledge that encircle
 
 #### Heroic Test of Protection (CR 20)
 
-Star and her platoon pilot their mechanized combat suits through the wastelands of Primus, the first moon of New Terra. During the their week-long trek, one of Primus' much-feared corrosive acid clouds settles over the soldiers, threatening to slowly eat away at their armor. The GM asks each PC what they are doing to protect their mechs, and Star decides to use her Protection attribute to activate her suit's enviro shields to ward off the acid.
+Star and her platoon pilot their mechanized combat suits through the wastelands of Primus, the first moon of New Terra. During their week-long trek, one of Primus' much-feared corrosive acid clouds settles over the soldiers, threatening to slowly eat away at their armor. The GM asks each PC what they are doing to protect their mechas, and Star decides to use her Protection attribute to activate her suit's enviro shields to ward off the acid.
 
 **Success with a twist:** Star's enviro shield does the trick, but the acid storm is so strong that she is forced to reroute power from her mech's combat defenses in order to maintain the shield. As long as she keeps her enviro shield up, Star's max HP is reduced by 5.
 
-**Failure, but the story progresses:** Star's enviro shield just wasn't meant for such prolonged exposure to corrosive matter of this level. After three days in the acid cloud, her mech's hull is severely corroded, reducing her Armor bonus by 3 until it can be repaired.
+**Failure, but the story progresses:** Star's enviro shield just wasn't meant for such prolonged exposure to corrosive matter of this level. After three days in the acid cloud, her
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+mech's hull is severely corroded, reducing her Armor bonus by 3 until it can be repaired.
 
 #### Epic Test of Protection (CR 25)
 
@@ -748,3 +859,7 @@ Despite the warning of her mentor sage, Bell has dared to glimpse into the accur
 **Success with a twist:** Bell manages to regain control of herself and close the book. However, unbeknownst to her, one of the demons remains and will assail her from time to time until she discovers it and has the fiend properly exorcised.
 
 **Failure, but the story progresses:** Bell's magic is not strong enough to hold back the forces of hell, and she is compelled to read from the book for hours on end. When the attack finally ends, Bell is changed. She has permanently gained the *psychotic* flaw.
+
+
+
+\page

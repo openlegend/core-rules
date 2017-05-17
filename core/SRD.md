@@ -119,7 +119,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Creation** | Channeling higher powers for healing, creation, regeneration, divine might, etc. |
+| **Creation** | Channel higher powers, manifest something from nothing, regenerate, divinely bolster, etc. |
 | **Energy** | Create and control the elements--fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
@@ -813,7 +813,7 @@ Below is a complete list of feats available to any character that meets the prer
 
 -   **Tier 1 - 2:** None
 
-**Description:** You have the ability to transform from one persona to another, whether that be through bodily transformation like a werewolf or through exterior mechinisms, such as a cybernetically enhanced soldier who can call forth a symbiotic mech suit. \newline
+**Description:** You have the ability to transform from one persona to another, whether that be through bodily transformation like a werewolf or through exterior mechinisms, such as a cybernetically enhanced soldier who can call forth a symbiotic mecha suit. \newline
 
 **Effect:** Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
 
@@ -2440,7 +2440,7 @@ Tech Levels provide a simplified way of defining the technology available to a g
 
 TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age
 TL 1 - Modern Age
-TL 2 - Near Future (mechs, cyborgs, laser weapons)
+TL 2 - Near Future (mechas, cyborgs, laser weapons)
 TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology)
 
 When planning a campaign, the GM can specify which tech level (or levels) the campaign will use. For example, a typical sword and sorcery campaign would be set at tech level 0, while a steampunk campaign would probably use a good mix of tech levels 0 and 1.
@@ -2716,7 +2716,7 @@ Resolve: 13 |
 | Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
 Guard: 15 \
 Resolve: 10 |
-| Mech Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
+| Mecha Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
 Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
 Guard: 22 \
 Resolve: Immune |
