@@ -813,7 +813,7 @@ Below is a complete list of feats available to any character that meets the prer
 
 -   **Tier 1 - 2:** None
 
-**Description:** You have the ability to transform from one persona to another, whether that be through bodily transformation like a werewolf or through exterior mechinisms, such as a cybernetically enhanced soldier who can call forth a symbiotic mecha suit. \newline
+**Description:** You have the ability to transform from one persona to another, whether that be through bodily transformation like a werewolf or through exterior mechinisms, such as a cybernetically enhanced soldier who can call forth a symbiotic mech suit. \newline
 
 **Effect:** Upon taking this feat, you build a single alternate form using the normal character creation rules, though your attribute and feat points are determined by your tier in this feat:
 

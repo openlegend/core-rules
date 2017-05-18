@@ -1,6 +1,10 @@
 <style>
   .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
+  .phb#p1:after,
+  .phb#p2:after,
+  .phb#p3:after{
+    display:none;
+  }
 </style>
 
 <div style="margin-top:1200px;"></div>

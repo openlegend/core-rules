@@ -1,3 +1,4 @@
+
 <div class='pageNumber auto'></div>
 
 # Chapter 1: Character Creation
@@ -24,12 +25,12 @@ As part of deciding your race, you should also choose your **size**: small, medi
 
 At the GM's discretion, you may choose to be smaller or larger than the listed sizes. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. All creatures have at least a 5' reach.
 
-<div style="padding-top: 104px;"></div>
+<div style="padding-top: 30px;"></div>
 
 > ##### No Racial Abilities or Adjustments?
 > In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you'll have a chance to further define your character in a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing a psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter's bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
 
-<div style="padding: 100px;"></div>
+<div style="padding-top: 30px;"></div>
 
 **Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
 
@@ -37,7 +38,7 @@ At the GM's discretion, you may choose to be smaller or larger than the listed s
 
 **A secret.** Your secret is something that other characters probably won't find out about until they've gotten to know you quite well. It's also a seed for great adventure that the GM can weave into the campaign.
 
-<div style="padding: 60px;"></div>
+<div style="padding-top: 30px;"></div>
 
 > ##### Example Character Secrets
 > Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
@@ -58,8 +59,7 @@ At the GM's discretion, you may choose to be smaller or larger than the listed s
 
 Attributes are the backbone of every character in Open Legend. They define what your character can and can't do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you'll look to your attributes to see how well you succeed or fail.
 
-In Open Legend, attributes are divided into four categories: physical,
-social, mental, and extraordinary.
+In Open Legend, attributes are divided into four categories: physical, social, mental, and extraordinary.
 
 A character's skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero, though physical, social, and mental attributes may still be used untrained.
 
@@ -266,7 +266,7 @@ In a typical game of Open Legend, your character will start with the gear they n
 
 Usually, though, you begin with a wealth score of 2, and may select up to three items of wealth level 2 and any number of items of a lesser wealth level. See chapter 5 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
 
-## Step 6: Choose Perks and Flaws
+## Step 6: Choose Perks & Flaws
 
 Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 4: Perks & Flaws.
 
@@ -289,7 +289,8 @@ If you've never GM'd before, you might not realize all the work that goes into i
 
 Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing Open Legend, just remember that not everyone else at the table may enjoy the same aspects. Part of the GM's duty is to give everyone a chance to shine, but you can do your part too by not hogging the spotlight and by encouraging the other players to have fun, whatever that means for them.
 
-
+```
+```
 
 ## Archetype Builds
 
@@ -411,7 +412,7 @@ ___
 ```
 
 
-<img style="max-width: 58.24cm; position: absolute; top: -10cm; right: -2.8cm;"
+<img style="max-width: 58.24cm; position: absolute; top: -8cm; right: -1.8cm;"
   src="http://localhost:8888/_not_full_page/Battle%20Mage%20-%20Forrest%20Imel.png" />
 
 
@@ -742,9 +743,9 @@ ___
 - **Guard:** 19 (Agility 2, Might 4, Splint Mail 3)
 - **Speed:** 30’ swimming
 
-<br>
+<br><br><br>
 
-<div style="padding-right: 140px">
+<div style="margin-top: -40px; margin-right: 600px">
 ### Engineer
 </div>
 
@@ -893,13 +894,18 @@ ___
 - *Two-Gun Assault* (damaging attacks): Two attacks. <br>
 Agility vs. Guard
 - *Fan the Hammer* (damaging attacks): Three attacks. Agility vs. Guard, disadvantage 3
-- *Bounty's Curse* (inflict *stunned*): Entropy vs. Toughness
-- *Toe Shot* (inflict *slowed*): Agility vs. Guard. advantage 1
+- *Bounty's Curse* (inflict *stunned*): <br>Entropy vs. Toughness
+- *Toe Shot* (inflict *slowed*): Agility vs. Guard, <br> advantage 1
 - *Hand Shot* (inflict *disarmed*): Agility vs. Guard, <br>advantage 1
+
+```
+```
+
+
 - *Darkblast Shot* (inflict *sickened*): Entropy vs. Toughness
 - *Baleful Shadow* (invoke 5’ *aura: persistent damage*): Entropy vs. 18 (PL 4)
 - *Soul Syphon* (invoke *life drain*): Entropy vs. 20 (PL 5)
-- *Unnerving Gaze* (inflict *fear*): Entropy vs. Resolve
+- *Unnerving Gaze* (inflict *fear*): <br> Entropy vs. Resolve
 
 
 <img style="width: 2710px; max-width: 2710px; position: absolute; top: 90px; right: -340px;"
@@ -920,9 +926,7 @@ the fact that nearly anyone can be taken down with the right
 information. Some Hackers are mercenaries that work for the highest
 bidder, primarily in the game for the adrenaline rush and the thrill of
 controlling massive amounts of data and the fates of those who depend on
-it. Others rally
-___
-behind a larger cause with intent of changing the world
+it. Others rally  fbehind a larger cause with intent of changing the world
 for better or worse.
 
 #### Strategy
@@ -994,7 +998,7 @@ Energy vs. Guard
 - *Stun Ray* (inflict *immobile*):
 <br>Energy vs. Toughness
 
-<img style="max-width: 2420px; position: absolute; bottom: 60px; right: -150px;"  src="http://localhost:8888/_not_full_page/Computer_Hacker_Ilse_Gort.png" />
+<img style="max-width: 2420px; position: absolute; bottom: 100px; right: -100px;"  src="http://localhost:8888/_not_full_page/Computer_Hacker_Ilse_Gort.png" />
 
 
 \page
@@ -1077,7 +1081,7 @@ to the party through boons such as *resistance, heal,* and *bolster*. In
 combat, their only means of inflicting damage is by using *summon
 creature* to call forth minor guardian spirits.
 
-<img style="max-width: 2420px; position: absolute; bottom: 105px; right: -40px;"
+<img style="max-width: 2420px; position: absolute; bottom: 145px; right: 20px;"
   src="http://localhost:8888/_not_full_page/ningyozukai_forrest_imel.png" />
 
 
@@ -1180,7 +1184,6 @@ damage, Rangers are disarming foes or whittling away at them with
 enemy, they take to the trees and use their longbow while their wolf
 companion uses *immobile* to make the target an easy shot for their
 master.
-<br>
 ___
 - **Attributes:** Agility 4 (1d10), Fortitude 3 (1d8), Might 2 (1d6),
 Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6)
@@ -1192,7 +1195,7 @@ Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6)
 ___
 - **Feats:** Fleet of Foot, Master Tracker, Climbing, Companion I
 ___
-- **Notable Equipment:** Longsword, Dagger, Longbow, Chainmail
+- **Notable Equipment:** Longsword, Longbow, Chainmail
 ___
 - **Favored Actions:**
 
@@ -1206,6 +1209,7 @@ advantage 2
 - *Foot Shot* (inflict *slowed*): Agility vs. Guard, advantage 1
 
 #### Wolf Companion
+
 ___
 - **Attributes:** Agility 4 (1d10), Fortitude 2 (1d6), Might 2 (1d6), Perception 3 (1d8), Will 1 (1d4), Presence 1 (1d4)
 - **Hit Points:** 18
@@ -1295,10 +1299,7 @@ Movement vs. 18 (PL 4)
 
 Equally skilled with a blade as they are with sorcery, Spellswords weave
 magic and martial prowess together into a powerful combination. Whether
-they are setting foes ablaze with a flaming sword, summoning barriers of force to deflect
-
-___
-attacks, or outmaneuvering foes with teleportation,
+they are setting foes ablaze with a flaming sword, summoning barriers of force to deflect attacks, or outmaneuvering foes with teleportation,
 Spellswords control the battlefield with unrivaled magic.
 
 #### Strategy
@@ -1433,7 +1434,7 @@ ___
 
 
 
-<img style="max-width: 2375px; position: absolute; bottom: -42px; right: -63px;"
+<img style="max-width: 2375px; position: absolute; bottom: 0; right: -63px;"
   src="http://localhost:8888/_not_full_page/void_mage_forrest_imel.png" />
 
 \page
@@ -1499,6 +1500,8 @@ In Open Legend, attributes are the means by which your hit points increase. If y
 
 Sometimes a new player will join a campaign in progress in which the other PCs have already advanced several levels, so it would be unbalanced to insert a first level character into the party. Other times, the GM may decide to run a campaign with PCs who have already accumulated some wealth and power. In situations like these, you can use the Characters Beyond First Level table to determine attribute points, feat points, and wealth for PCs. When choosing starting gear, you may select three items of your current wealth score and any number of lesser valued items.
 
+<br>
+
 <div style="text-align: center">
 ##### Characters Beyond First Level
 </div>
@@ -1518,5 +1521,15 @@ Sometimes a new player will join a campaign in progress in which the other PCs h
 | 10 | 27 | 121 | 9 | 33 | 8  |
 
 
+\page
+
+
+<div class='pageNumber auto'></div>
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/Dark%20Super%20Heroes%20-%20Mahea%20Rodrigues.jpg" />
+
+
 
 \page
+

@@ -102,7 +102,7 @@ When a player fails an action roll, the GM may choose to allow the player's acti
 - **Attract attention**
 - **Find something you weren't looking for**
 
-<div style="margin-bottom: -13px"></div>
+<div style="margin-bottom: -23px"></div>
 
 
 The important thing to realize is that a success with a twist is still a success. It just comes at some sort of a cost: You find the trail of the hydra you're tracking, but it leads you through a swamp infested with undead. You sense that the merchant is overcharging you, but you fail to realize that he's also distracting you from the thugs sneaking up behind you. You are  able to land a shot against the zombie, but it costs you the last bullet in your magazine.
@@ -184,7 +184,7 @@ In certain scenarios, the success of an action relies on the skills of multiple 
 
 The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
 
-## Advantage and Disadvantage
+## Advantage & Disadvantage
 
 Sometimes, you will attempt an action under circumstances that give you a significant upper hand, such as when attacking an enemy from behind. Other times, you'll be working against exceptional hindrances, such as when trying to climb a rope that an enemy has covered in grease. In these types of cases, instead of adjusting the Challenge Rating of the task, the GM should assign your roll either **advantage** or **disadvantage**.
 
@@ -192,7 +192,7 @@ Advantage and disadvantage are always expressed with a numeric level, such as â€
 
 If a situation arises in which you are assigned both advantage and disadvantage, find the difference between the two values to determine your final outcome. For example, if you have advantage 1 and disadvantage 1, they negate each other and thus your action roll is normal. If you have advantage 1 and disadvantage 2, your action roll would be made with disadvantage 1.
 
-### Effects of Advantage and Disadvantage
+### Effects of Advantage & Disadvantage
 
 When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
 
@@ -214,7 +214,7 @@ Disadvantage works in a similar manner. When you have disadvantage, you still ro
 
 <div style="padding-bottom: 50px"></div>
 
-### Advantage and Disadvantage Are Only Applied BEFORE Explosions
+### Advantage & Disadvantage Are Only Applied BEFORE Explosions
 
 Advantage and Disadvantage only apply to your initial pool of dice for an action roll. They do not apply to subsequent rolls granted by exploding dice.
 
@@ -226,7 +226,7 @@ Advantage and Disadvantage only apply to your initial pool of dice for an action
 
 <div style="padding-bottom: 50px"></div>
 
-### Advantage and Disadvantage without Attribute Dice
+### Advantage & Disadvantage without Attribute Dice
 
 When making an action roll without attribute dice, advantage and disadvantage affect the d20. For advantage, roll 2d20 and keep the highest. For disadvantage, roll 2d20 and keep the lowest. Additionally, you cannot accrue advantage or disadvantage greater than 1 in such situations. Your character is already so inept at the action that they cannot capitalize on cumulative circumstantial help or hindrances.
 
@@ -235,7 +235,7 @@ These rules apply to both actions performed with an attribute score of zero, as 
 ```
 ```
 
-### Assigning Advantage and Disadvantage
+### Assigning Advantage & Disadvantage
 
 Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Table provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
 
@@ -260,9 +260,13 @@ An additional layer of depth to action resolution comes in the form of legend po
 
 Characters begin play with zero legend points, and the maximum they may acquire is 10. The GM may reward a PC with a legend point when they use one of their flaws to their own disadvantage or for particularly strong roleplaying.
 
+<div style="padding-top: 50px;"></div>
+
 > ##### Example: Earning a Legend Point
 >
 > Zaax has the *hot tempered* flaw, causing him to easily lose control of his anger. In the middle of the party's tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
+
+<div style="padding-top: 50px;"></div>
 
 The GM may also feel free to establish other rules for awarding legend points. For example, some GMs like to allow each player to award another PC one legend point each session. Other tables might have a vote for MVP or best roleplayer at the end of each session, with the winner gaining a legend point.
 
@@ -334,7 +338,15 @@ Jax is piloting his one man Beta Flier in a high speed dogfight against a pair o
 
 **Success with a twist:** Jax zooms through the rocky terrain at breakneck speed. When he comes out the other end, he has managed to lose one of the Dalturians, but the second is still hot on his trail.
 
-**Failure, but the story progresses:** Jax zooms between two pillars of raw earth, and misjudges their width by a few inches. He hears a metallic crack as one of his wings is mangled beyond function and the pilot is forced into a crash landing.
+**Failure, but the story progresses:** Jax zooms between two pillars of raw earth, and misjudges their width by a few inches. He hears a metallic crack as one of his wings is mangled beyond function and Jax crash lands. Shattering the glass hull, he does manage to escape with his life.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/Jax_Ship_Crash_Mahea_Rodrigues.jpg" />
+
 
 \page
 
@@ -368,12 +380,12 @@ While traversing the deep reaches of space, Zak was unfortunately infected with 
 
 **Failure, but the story progresses:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
 
+```
+```
+
 #### Epic Test of Fortitude (CR 25)
 
-A party of legendary heroes has followed the Shadow Demon Yrrllx to his native home on the entropic plane. Every
-
-___
-moment within this realm of shade and chaos bites away at the very existence of the heroes, and the GM calls for Fortitude rolls to determine how the party weathers the destructive forces of this foreign plane.
+A party of legendary heroes has followed the Shadow Demon Yrrllx to his native home on the entropic plane. Every moment within this realm of shade and chaos bites away at the very existence of the heroes, and the GM calls for Fortitude rolls to determine how the party weathers the destructive forces of this foreign plane.
 
 **Success with a twist:** The hero is able to keep his very existence from unraveling. However, upon returning to the material world, he will be forever changed, as some part of his reality was lost to the place of shadows.
 
@@ -431,6 +443,7 @@ Cyril the android is stranded in Junkland, a miles long island of debris that fl
 
 **Failure, but the story progresses:** Cyril can't find anything salvageable from the junk heaps nearby. What he does manage to stir up, however, are a pair of Techno Pack Rats who eye his circuitry and armored plating with much envy.
 
+
 ```
 ```
 
@@ -462,9 +475,14 @@ searching for traps ahead of the party.
 After clearing several rooms, the party is
 walking down
 
+
 \page
 
 <div class='pageNumber auto'></div>
+
+<img style="position: absolute; top: 0; left: 0; width: 100%;"  src="http://localhost:8888/_not_full_page/amaurean%20elf%20rhuviel%20-%20magic%20reindeer%20-%20vargasni.jpg" />
+
+<div style="padding-top: 2425px;"></div>
 
 ___
 a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
@@ -479,7 +497,16 @@ Therilas attempts to track a pixie through the Fey Wood. The trail is two days o
 
 **Success with a twist:** Therilas loses the trail a mile into the woods. As he searches about in frustration, he is approached by a sentient fox who offers to reveal the location of the pixie--for a price.
 
-**Failure, but the story progresses:** Therilas wanders for hours in the Fey Wood trying to pick up the trail. Finally, he finds it, though it seems oddly fresh. Too late does he realize that he has been tricked, and the pixie has led him into a trap. He finds himself surrounded by denizens of the Fey Wood and hears the pixie's mischievous laughter from the canopy above.
+**Failure, but the story progresses:** Therilas wanders for hours in the Fey Wood trying to pick up the trail. Finally, he finds it, though it seems oddly fresh. Too late does he realize that he has been tricked, and the pixie has led him into a trap. He finds himself surrounded by denizens of the Fey Wood
+
+```
+```
+
+<div style="padding-top: 2462px;"></div>
+
+___
+and hears the pixie's mischievous laughter from the canopy above.
+
 
 ### Will
 
@@ -492,6 +519,8 @@ Setting Sun and his companions are lost in the desert. They've been without food
 **Success with a twist:** The monk's meditation works to an extent. He is only able to stave off his hunger, but not his thirst, so he suffers one level of the *fatigued* bane.
 
 **Failure, but the story progresses:** Setting Sun's training was good, but the calm of the monastery is hard to recall amidst his current struggles. Overcome with hunger and thirst, the monk suffers 2 levels of the *fatigued* bane.
+
+\page
 
 #### Heroic Test of Will (CR 20)
 
@@ -659,13 +688,20 @@ Therilas is attempting to lead a party of refugees safely through the Decaying D
 
 <div class='pageNumber auto'></div>
 
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/jungle_airship_andrey_vasilchenko.jpg" />
+
+\page
+
+<div class='pageNumber auto'></div>
+
 #### Epic Test of Creation (CR 25)
 
-Father Ezekiel is stranded on a jungle island. He attempts to use divine magic to create a ship out of nothing so that he may escape his plight.
+Father Ezekiel is stranded on a jungle island. He attempts to use divine magic to create a massive airship out of nothing so that he and his companions can escape.
 
-**Success with a twist:** The GM rules that Father's magic will only be strong enough to create the ship if he can find a magical focus of appropriate power somewhere within the island.
+**Success with a twist:** The GM rules that Father's magic will only be strong enough to create the airship if he can find a magical focus of appropriate power somewhere within the island.
 
-**Failure, but the story progresses:** Father thinks he has crafted a seaworthy vessel. However, shortly after setting sail, the magic binding his ship together unweaves, and he is forced to swim against the tides or die trying.
+**Failure, but the story progresses:** Father thinks he has crafted a skyworthy vessel. However, shortly after taking to the sky, the magic binding his ship together unweaves, and he is forced to swim against the tides or die trying.
 
 ### Energy
 
@@ -720,14 +756,25 @@ Balthazar has delved deep into the Tomb of Aliki to gain access to the powerful 
 
 #### Epic Test of Entropy (CR 25)
 
-Xu Ming and his team of survivors have journeyed in their starcruiser to an abandoned sector of the galaxy emitting a strange energy signature. Touching down on the surface, they
+Xu Ming and his team of survivors have journeyed in their starcruiser to an abandoned sector of the galaxy emitting a strange energy signature. Touching down on the surface, they discover hordes of nightmarish aliens pouring through a
 
 \page
+
+
+<div class='pageNumber auto'></div>
+
+## TODO: Add Andrey's Portal Illustration
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/final_filename.jpg" />
+
+\page
+
 
 <div class='pageNumber auto'></div>
 
 ___
-discover hordes of nightmarish aliens pouring through a massive portal. As the rest of the team mows down the advancing horde, the voidtouched psion Stryx attempts to channel void energy from a higher dimension to nullify the portal.
+massive portal. As the rest of the team mows down the advancing horde, the voidtouched psion Stryx attempts to channel void energy from a higher dimension to nullify the portal.
 
 **Success with a twist:** Stryx must contend with a horrifying alien brood master holding the portal open and preparing to make the jump itself. It uses all of its mind-warping power to twist her mind and break her. She prevails and manages to close the portal, though the mental battle scars her for life. She suffers a permanent level of the *fatigued* bane until she can find a means to cure herself.
 
@@ -811,9 +858,9 @@ The crew is barricaded in the sporting goods store of the mall with a horde of z
 
 #### Heroic Test of Prescience (CR 20)
 
-As Shane chases him through the corridors of Payne Manor, the Doctor ducks into a side room. Seconds later, Shane busts into the room, only to find no sign of the Doctor, and no other visible exits. Unbeknownst to our hero, his quarry has opened a secret passage behind a bookshelf that is activated by dialing a number on the phone that rests on a nearby desk. Shane takes a deep breath, calms his nerves, and attempts to use his cybernetically enhanced senses to locate a sign of the Doctor.
+As Shane chases him through the corridors of Payne Manor, the Doctor ducks into a side room. Seconds later, Shane busts into the room, only to find no sign of the Doctor, and no other visible exits. Unbeknownst to our hero, his quarry has opened a secret passage behind a bookshelf that is activated by dialing a number on the phone that rests on a nearby desk. Shane takes a deep breath, calms his nerves, and attempts to use his cybernetically enhanced senses to detect the Doctor.
 
-**Success with a twist:** Shane gains no perception of the secret passage, but he does notice that the phone is slightly askew and the items nearby it disheveled as if having been recently disturbed.
+**Success with a twist:** Shane gains no perception of the secret passage, but he does notice that the phone is slightly askew and the items nearby it disheveled as if having been  recently disturbed.
 
 **Failure, but the story progresses:** Shane loses the Doctor, and he wastes a good deal of time in the study trying to pick up a trail. By the time he gives up hope, the Doctor is long gone.
 

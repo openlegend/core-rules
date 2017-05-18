@@ -23,7 +23,7 @@
 
 *It is an elven maiden, tall and clad in battle worn mail, who replies: “I'll have no bard sing tales of Luthiel the Cowardly, who surrendered to orc scum while still she drew breath.”*
 
-*As elf and dwarf bicker, a grey haired man, cloaked in emerald, stands tall atop a boulder at the center of the ruins. His eyes stare distantly, like sharp daggers, at the golden sun landing upon the horizon. With a smirk, he raises his gnarled oaken staff to the sky, where the gathering storm clouds crackle with the fury of nature's electric potential. “Gentleman, lady…” speaks the druid with soft confidence, “I think the winds have turned in our favor.”*
+*As elf and dwarf bicker, a grey haired man, cloaked in emerald, stands tall atop a boulder at the center of the ruins. His eyes stare distantly, like sharp daggers, at the golden sun landing upon the horizon. With a smirk, he raises his gnarled oaken staff to the sky, where the gathering storm clouds crackle with the fury of nature's electric potential. “Gentleman, lady…” speaks the druid with soft confidence, <br>“I think the winds have turned in our favor.”*
 
 <div class="hr"></div>
 
@@ -38,7 +38,7 @@ If you have never played a roleplaying game before, you can think of it as a mov
 
 The rest of the players take the role of **Player Characters** (or PCs). The PCs are the protagonists of the story. In a high fantasy setting, one PC might be a dwarven warrior with a lust for gems, another an immortal elven wizard whose only desire is knowledge, and still another a half-angelic priest who travels the world in order to inspire others to act justly. In another game of Open Legend, the players might star as a
 
-<div style='padding-top: 15px'></div>
+<div style='padding-top: 50px'></div>
 
 
 > ##### Why Open Legend?
@@ -52,13 +52,21 @@ The rest of the players take the role of **Player Characters** (or PCs). The PCs
 >
 >**Open Legend**. You get to tell the story that you want to tell, with the characters you want to play. You aren't tied down to specific class, archetype, or race combinations. The only limit is your imagination (and maybe the GM's veto power). Rather than a list of set classes with a menu of skills to pick from, you start the game with attribute points that you spend as you wish to give your character the powers they need.
 
-<div style='padding-top: 15px'></div>
+<div style='padding-top: 30px'></div>
 
 rag tag crew of space pirates living from score to score on their barely functioning merchant class starship. All the common tropes could make an appearance: the reckless pilot, the brash captain with a troubled past, the hired gun, the stowaway, and the engineer who gets along with the ship better than with the crew.
 
 Whatever the motivation of their characters, the players share a common goal: to take the plot and setting established by the GM and have fun. At some tables, this might look like J.R.R Tolkien's *Lord of the Rings*. In others, it might look more like *Monty Python and the Holy Grail*. Whatever fun looks like at your table, Open Legend will be a part of it.
 
 **This is your story. Tell it.**
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/Dragon%20with%20Child%20-%20Vargasni.jpg" />
+
 
 
 \page
@@ -87,6 +95,8 @@ We hope that we've built a game for players who love to tell a good story but do
 
 We hope that we've built a game for players who love to shake the dice and see them roll but don't want to spend hours min-maxing their characters. Most of all, we hope to have built a game for players like you.
 
+___
+
 ### Core Mechanic: The Action Roll
 
 Most meaningful tasks that a character attempts in Open Legend will be determined by the roll of dice.
@@ -95,6 +105,7 @@ To determine the outcome, you roll 1d20 plus any bonus dice granted by your char
 
 Add all of the dice together to find your action roll total. If your total is equal to or greater than the action's Challenge Rating, then you succeed. Otherwise, the GM decides that you either succeed with a twist or fail in a way that allows the story to progress.
 
+<div style="margin-top: -30px;"></div>
 
 | THE ACTION ROLL |
 | :-: |
@@ -105,13 +116,12 @@ Add all of the dice together to find your action roll total. If your total is eq
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | the player succeeds with a twist. <br /> - OR - <br /> *the player fails but the story progresses*. (GM's Choice) |
 
-<div style="margin-top: -5px;"></div>
+<div style="margin-top: -30px;"></div>
 
 ### Greater Treasures Lie Within
 
 Action rolls and exploding dice are just the start of what makes Open Legend a blast to play. Read on to discover how to build exciting characters you'll love to play, equip them for adventure, explore unknown worlds, and perform epic deeds.
 
-<div style="margin-top: 5px;"></div>
 
 > ##### Example Action Roll
 >
@@ -120,6 +130,16 @@ Action rolls and exploding dice are just the start of what makes Open Legend a b
 > Imladril rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, the die is rolled again and it comes up a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so the GM rules that Imladril hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger's bow out of his hands before the combat begins.
 >
 > Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, the GM rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/Black_%20mage%20-%20saryth%20chareonpanichkul.jpg" />
 
 
 
