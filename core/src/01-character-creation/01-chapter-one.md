@@ -25,12 +25,15 @@ As part of deciding your race, you should also choose your **size**: small, medi
 
 At the GM's discretion, you may choose to be smaller or larger than the listed sizes. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. All creatures have at least a 5' reach.
 
-<div style="padding-top: 30px;"></div>
+```
+```
+
+<div style="padding-top: 10px;"></div>
 
 > ##### No Racial Abilities or Adjustments?
 > In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you'll have a chance to further define your character in a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing a psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter's bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
 
-<div style="padding-top: 30px;"></div>
+<div style="padding-top: 60px;"></div>
 
 **Two exceptional physical traits.** Think of the first two features that other characters notice when they see you. Do your eyes glow red when you are angry? Are you seven feet tall? Is your hair a rainbow hue?
 
@@ -38,7 +41,7 @@ At the GM's discretion, you may choose to be smaller or larger than the listed s
 
 **A secret.** Your secret is something that other characters probably won't find out about until they've gotten to know you quite well. It's also a seed for great adventure that the GM can weave into the campaign.
 
-<div style="padding-top: 30px;"></div>
+<div style="padding-top: 60px;"></div>
 
 > ##### Example Character Secrets
 > Before Volkor changed his name and began wandering the land as a barbarian sellsword, he was heir to the throne.
@@ -490,8 +493,7 @@ ___
 - *Takedown* (inflict *knockdown*): Might vs. Guard
 - *Disorienting Sting* (inflict *stunned*): Entropy vs. Toughness
 
-<img style="width: 3116px; max-width: 3116px; position: absolute; bottom: 291px; left: 166px;"
-  src="http://localhost:8888/_not_full_page/Beast%20Master%20Ilse%20Gort.png" />
+<img style="width: 3716px; max-width: 3306px; position: absolute; bottom: 101px; left: 200px;"  src="http://localhost:8888/_not_full_page/Beast%20Master%20Ilse%20Gort.png" />
 
 \page
 
@@ -508,8 +510,7 @@ that will be the stuff of nightmares for generations to come.
 #### Strategy
 
 Berserkers are born and bred for the sole purpose of slaying foes.
-Outside of combat, they can occasionally lend a hand by bending bars,
-lifting gates, or intimidating foes.
+Outside of combat, they can occasionally lend a hand by bending bars, lifting gates, or intimidating foes.
 
 Once combat ensues, the Berserker is a near unstoppable killing machine.
 Their two handed axe combined with a Might score of 5 ensures that the
@@ -719,6 +720,7 @@ Alteration vs. 18 - 20 (PL 4 - 5)
 
 <div class='pageNumber auto'></div>
 
+
 #### Bear Form
 
 ___
@@ -726,6 +728,7 @@ ___
 - **Hit Points:** 20
 - **Guard:** 19 (Agility 1, Might 5, Splint Mail 3)
 - **Speed:** 25’
+
 
 #### Hawk Form
 
@@ -735,6 +738,7 @@ ___
 - **Guard:** 14 (Agility 3, Might 1)
 - **Speed:** 30’ flying
 
+
 #### Shark Form
 
 ___
@@ -743,7 +747,7 @@ ___
 - **Guard:** 19 (Agility 2, Might 4, Splint Mail 3)
 - **Speed:** 30’ swimming
 
-<br><br><br>
+<br>
 
 <div style="margin-top: -40px; margin-right: 600px">
 ### Engineer
@@ -821,7 +825,7 @@ ___
 
 
 
-<img style="max-width: 2455px; position: absolute; bottom: 125px; right: 65px;"
+<img style="max-width: 2455px; position: absolute; bottom: 325px; right: 125px;"
   src="http://localhost:8888/_not_full_page/Engineer%20-%20Biagio%20D%27Alessandro.png" />
 
 <div style='padding-top:470px'></div>
@@ -897,12 +901,12 @@ Agility vs. Guard
 - *Bounty's Curse* (inflict *stunned*): <br>Entropy vs. Toughness
 - *Toe Shot* (inflict *slowed*): Agility vs. Guard, <br> advantage 1
 - *Hand Shot* (inflict *disarmed*): Agility vs. Guard, <br>advantage 1
-
-```
-```
-
-
 - *Darkblast Shot* (inflict *sickened*): Entropy vs. Toughness
+
+```
+```
+
+
 - *Baleful Shadow* (invoke 5’ *aura: persistent damage*): Entropy vs. 18 (PL 4)
 - *Soul Syphon* (invoke *life drain*): Entropy vs. 20 (PL 5)
 - *Unnerving Gaze* (inflict *fear*): <br> Entropy vs. Resolve
@@ -998,7 +1002,7 @@ Energy vs. Guard
 - *Stun Ray* (inflict *immobile*):
 <br>Energy vs. Toughness
 
-<img style="max-width: 2420px; position: absolute; bottom: 100px; right: -100px;"  src="http://localhost:8888/_not_full_page/Computer_Hacker_Ilse_Gort.png" />
+<img style="max-width: 2420px; position: absolute; bottom: 150px; right: -100px;"  src="http://localhost:8888/_not_full_page/Computer_Hacker_Ilse_Gort.png" />
 
 
 \page
@@ -1320,7 +1324,7 @@ focus on finishing off damaged foes so that they <br>
 can use *combat momentum* to maneuver <br>
 around the battlefield.
 
-<img style="max-width: 2420px; position: absolute; bottom: 92px; right: -40px;"
+<img style="max-width: 2420px; position: absolute; bottom: 192px; right: 20px;"
   src="http://localhost:8888/_not_full_page/Spellsword_forrest_imel.png" />
 
 

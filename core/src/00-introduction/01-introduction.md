@@ -38,7 +38,7 @@ If you have never played a roleplaying game before, you can think of it as a mov
 
 The rest of the players take the role of **Player Characters** (or PCs). The PCs are the protagonists of the story. In a high fantasy setting, one PC might be a dwarven warrior with a lust for gems, another an immortal elven wizard whose only desire is knowledge, and still another a half-angelic priest who travels the world in order to inspire others to act justly. In another game of Open Legend, the players might star as a
 
-<div style='padding-top: 50px'></div>
+<div style='padding-top: 20px'></div>
 
 
 > ##### Why Open Legend?
@@ -95,7 +95,8 @@ We hope that we've built a game for players who love to tell a good story but do
 
 We hope that we've built a game for players who love to shake the dice and see them roll but don't want to spend hours min-maxing their characters. Most of all, we hope to have built a game for players like you.
 
-___
+```
+```
 
 ### Core Mechanic: The Action Roll
 
@@ -144,3 +145,4 @@ Action rolls and exploding dice are just the start of what makes Open Legend a b
 
 
 \page
+

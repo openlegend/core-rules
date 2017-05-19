@@ -48,9 +48,9 @@ Notice how both of these options allow Pelias's action to drive the story forwar
 
 In the above example, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In Open Legend, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll.  The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
 
-<div style="margin-top: 50px"></div>
+<div style="margin-top: 10px"></div>
 
-> ### Old Habits Die Hard
+> ##### Old Habits Die Hard
 > If you've played other RPGs in the past, you may be tempted to immediately follow another player's failed roll with an action roll of your own.
 >
 > The following are common situations in which you should be especially vigilant to give the GM time to interpret the results of a failed action roll:
@@ -60,7 +60,7 @@ In the above example, what might often happen at a gaming table is that upon see
 > * Persuasion rolls to convince an NPC of something
 > * Learning rolls to recall useful information
 
-<div style="padding-bottom: 50px"></div>
+<div style="padding-bottom: 10px"></div>
 
 ### Keep It Simple: Every Roll Matters for the GM
 
@@ -71,6 +71,11 @@ The “every roll matters” rule was designed to make player actions meaningful
 \page
 
 <div class='pageNumber auto'></div>
+
+<img style="position: absolute; top: 0; left: 0; width: 100%;"
+ src="http://localhost:8888/_not_full_page/peregrinaje%20-%20vargasni.jpg" />
+
+<div style="padding-top: 1340px;"></div>
 
 ## Interpreting Action Rolls
 
@@ -88,11 +93,17 @@ There are two primary factors to consider when adjudicating a success:
 
 **Describe your success.** Whenever the situation allows, the player should show the rest of the table what success looks like. It's their turn in the spotlight, so let them shine. If your rogue successfully disarms a trap, describe how the scything blade just barely nicked your cheek before you finished the job. If your mech knight makes a successful leap attack against an enemy tank, narrate how you use the extra momentum provided by the leap to dig your servo-blades through the tank's hull. Sometimes, of course, the GM has privileged information, so they need to be the one to describe things. Whenever possible, though, the players should describe their own success.
 
+
+```
+```
+
+<div style="padding-top: 1340px;"></div>
+
 ### Interpreting Success with a Twist
 
 When a player fails an action roll, the GM may choose to allow the player's action to succeed with a twist. In this case, the player gets what they wanted originally, but there is some sort of unintended consequence or unexpected cost. The following list is not exhaustive, but it should give you a pretty good idea of what qualifies as a twist.
 
-<div style="margin-bottom: -13px"></div>
+<div style="margin-bottom: -33px"></div>
 
 - **Put a character in danger**
 - **Expend a resource**
@@ -116,7 +127,14 @@ Progress, though, can mean a lot of things. When the GM selects this option, the
 
 **The player finds an opportunity for success.** Even though your magic fails to dispel the curse afflicting your ally, you discover during later study that a rare herb growing in a nearby forest would give you the power you require.
 
-**The danger snowballs.** You fail to jump a chasm while fleeing a band of cannibals and fall along the cliffside, taking some damage. When you gather your senses, you realize that you aren't only separated from the rest of your party, but you've also fallen into the nest of a Roc.
+**The danger snowballs.** You fail to jump a chasm while fleeing a band of cannibals and fall along the cliffside, taking some damage. When you gather your senses, you realize that
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+you aren't only separated from the rest of your party, but you've also fallen into the nest of a Roc.
 
 **The information is false.** You think you've got a good read on the mayor during your negotiations. It seems like she's completely in favor of your plan to negotiate an alliance among the neighboring survivor settlements. When you set out the next day, however, it turns out you were wrong, and the guards the mayor sent to ensure your safe passage turn out to be your assassins.
 
@@ -133,6 +151,7 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren't
 ##### Challenge Ratings by Difficulty
 </div>
 
+
 | Difficulty | Challenge Rating | Example Actions |
 | :-: | :-: | :------ |
 | Everyday | 10 | leap a 5' gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
@@ -141,11 +160,10 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren't
 | Epic | 25 | translate a text in an alien language, break down an iron door |
 | Legendary | 30 | leap a 25' chasm, climb a flat surface, befriend an enemy with a vendetta against you |
 
-\page
-
-<div class='pageNumber auto'></div>
-
 It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth. However, it may be helpful when creating scenarios for GMs to understand the typical capabilities of a character based on their attribute score. The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed score can be expected to succeed at the listed Challenge Rating about **50%** of the time.
+
+```
+```
 
 <div style="text-align: center">
 ##### Average Challenge Ratings <br /> vs. Attribute Scores
@@ -175,12 +193,23 @@ To resolve such contests, each character involved makes an action roll using an 
 >
 > As the Unnamed Necromancer attempts to open a portal to release a shade demon upon the land, Uldric the Protector attempts to exert every ounce of his magical will to close the portal. The GM calls for a contested action between the two. The Necromancer makes an Entropy roll and gets a 25, while Uldric gets a 20 on his Protection roll. Unfortunately for the rest of the world, the demon has been unleashed.
 
-```
-```
-
 ### Group Action Rolls
 
-In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures than successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
+In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures than successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+<img style="position: absolute; top: 0; left: 0; width: 100%;"
+ src="http://localhost:8888/_not_full_page/War%20God%20-%20Biagio%20D%27alessandro.jpg" />
+
+
+<div class="wide" style="padding-top: 1900px;"></div>
+
+___
+as if it were a single action roll, rather than interpreting each action roll separately.
 
 The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
 
@@ -194,25 +223,27 @@ If a situation arises in which you are assigned both advantage and disadvantage,
 
 ### Effects of Advantage & Disadvantage
 
-When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
+When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when
+
+<div style="padding-top: 120px;"></div>
 
 > ##### Example: Advantage
 >
 > Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. The d20 rolls a 16 and the 4d10 roll 3, 5, 7, and 9. She removes the lowest d10 before calculating her total, leaving her with a final roll of 16 + 5 + 7 + 9 = 37.
 
-\page
-
-<div class='pageNumber auto'></div>
-
-Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
-
-<div style="padding-bottom: 50px"></div>
+<div style="padding-top: 90px;"></div>
 
 > ##### Example: Disadvantage
 >
-> Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two *highest* rolling d6s.
+> Armand attempts to blast his foe with psychokinetic fire. However, he is currently hindered by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two *highest* rolling d6s.
 
-<div style="padding-bottom: 50px"></div>
+\page
+
+adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
+
+Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
+
+
 
 ### Advantage & Disadvantage Are Only Applied BEFORE Explosions
 
@@ -232,15 +263,16 @@ When making an action roll without attribute dice, advantage and disadvantage af
 
 These rules apply to both actions performed with an attribute score of zero, as well as non-action rolls (like the d20 used for a Resist roll). In addition, if you make a roll without attribute dice, you cannot voluntarily incur disadvantage for some beneficial effect. Thus, you cannot multi-target attack if you have an attribute score of zero.
 
-```
-```
 
 ### Assigning Advantage & Disadvantage
 
 Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons--on the other hand--will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Table provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
 
+```
+```
+
 <div style="text-align: center">
-##### Advantage and Disadvantage Examples
+##### Advantage & Disadvantage Examples
 </div>
 
 
@@ -270,15 +302,18 @@ Characters begin play with zero legend points, and the maximum they may acquire 
 
 The GM may also feel free to establish other rules for awarding legend points. For example, some GMs like to allow each player to award another PC one legend point each session. Other tables might have a vote for MVP or best roleplayer at the end of each session, with the winner gaining a legend point.
 
-\page
-
-<div class='pageNumber auto'></div>
-
 ### Spending Legend Points
 
 A PC may spend a maximum number of legend points equal to their level plus one in order to enhance a single action roll.
 
 Before making an action roll, the PC declares how many legend points they are spending, and gains advantage 1 on the roll for each legend point spent. Additionally, for each legend point spent on the roll a +1 is added to the end result.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
 
 ## Attributes and Action Rolls in Play
 
@@ -340,6 +375,17 @@ Jax is piloting his one man Beta Flier in a high speed dogfight against a pair o
 
 **Failure, but the story progresses:** Jax zooms between two pillars of raw earth, and misjudges their width by a few inches. He hears a metallic crack as one of his wings is mangled beyond function and Jax crash lands. Shattering the glass hull, he does manage to escape with his life.
 
+
+
+#### Epic Test of Agility (CR 25)
+
+Winston, renowned as the finest archer in the land, has been captured by the giant lord Glorrg. Glorrg demands that Winston proves he really is who he says he is. The giant has one of his servants release four hummingbirds in the air and demands Winston to shoot them all down before they can escape.
+
+**Success with a twist:** In his signature style, Winston knocks 4 arrows at once and lets them fly. All four birds fall to the ground. However, the archer was not completely aware of his surroundings, and one of the arrows skewers one of Glorrg's servants, sending the giant lord into a fit of rage.
+
+**Failure, but the story progresses:** Winston fires arrow after arrow, but he can only manage to fell three of the birds.
+
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -352,13 +398,8 @@ Jax is piloting his one man Beta Flier in a high speed dogfight against a pair o
 
 <div class='pageNumber auto'></div>
 
-#### Epic Test of Agility (CR 25)
-
-Winston, renowned as the finest archer in the land, has been captured by the giant lord Glorrg. Glorrg demands that Winston proves he really is who he says he is. The giant has one of his servants release four hummingbirds in the air and demands Winston to shoot them all down before they can escape.
-
-**Success with a twist:** In his signature style, Winston knocks 4 arrows at once and lets them fly. All four birds fall to the ground. However, the archer was not completely aware of his surroundings, and one of the arrows skewers one of Glorrg's servants, sending the giant lord into a fit of rage.
-
-**Failure, but the story progresses:** Winston fires arrow after arrow, but he can only manage to fell three of the birds. Glorrg is not impressed, and he orders the archer to be stripped of his bow and thrown into the Pit of Beasts.
+___
+Glorrg is not impressed, and he orders the archer to be stripped of his bow and thrown into the Pit of Beasts.
 
 ### Fortitude
 
@@ -379,9 +420,6 @@ While traversing the deep reaches of space, Zak was unfortunately infected with 
 **Success with a twist:** After a day or two of rest, Zak makes a full recovery and is now immune. However, unbeknownst to him, he has become a carrier of the pathogen, endangering his unwary allies.
 
 **Failure, but the story progresses:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
-
-```
-```
 
 #### Epic Test of Fortitude (CR 25)
 
@@ -411,9 +449,6 @@ While traversing the jungle planet Thox, Selena encounters a race of alien squid
 
 **Failure, but the story progresses:** In her attempt to learn the language, Selena mimics several of the gurgles and hisses of the squid men. They take her mimicry as an insult, and they are on the verge of taking her prisoner if she cannot find a way to make peace.
 
-\page
-
-<div class='pageNumber auto'></div>
 
 #### Epic Test of Learning (CR 25)
 
@@ -422,6 +457,11 @@ Belmont the Bard is attempting to negotiate peace between two gnoll tribes that 
 **Success with a twist:** Although Belmont cannot come up with anything to help him immediately, he does remember hearing a story of a gnoll witch named Yaga Balbassa who is said to have lived for 200 years in the marsh at the center of the realm. She would likely have memory of how the feud began.
 
 **Failure, but the story progresses:** Belmont falls short in his bardic lore, and the gnoll chief has no more patience for the unwelcome meddling of an outsider. He immediately orders another raid on the enemy.
+
+
+\page
+
+<div class='pageNumber auto'></div>
 
 ### Logic
 
@@ -444,14 +484,14 @@ Cyril the android is stranded in Junkland, a miles long island of debris that fl
 **Failure, but the story progresses:** Cyril can't find anything salvageable from the junk heaps nearby. What he does manage to stir up, however, are a pair of Techno Pack Rats who eye his circuitry and armored plating with much envy.
 
 
-```
-```
-
 #### Epic Test of Logic (CR 25)
 
 Azure and party are attempting to negotiate with the Dragon Council in order to convince the wyrms to break their vow of neutrality and aid the races of good in the Demon War. Things are looking grim, but Azure is well-studied in the Dragon Code, and he attempts to find a loophole around the Council's insistence that the Law of Gold requires that any dragon who serves the lower races must be paid its weight in gold for the service. The legalistic wyrms insist that even if any of their kin were willing to fight along the humanoids out of the goodness of their hearts, the Law of Gold would still need to be satisfied.
 
-**Success with a twist:** Azure notes to the Council that if the payment were to take place on the plane of Chaos, where weights and measures shift unpredictably, then the humanoids could readily provide enough gold to satisfy the law provided the exchange occur at the proper moment. Although much of the Council is dissatisfied with this proposition, they bring it to a vote and favor falls on Azure's side. However, for the inconvenience of interdimensional travel, the Council rules that every wyrm employed must also be compensated with a magical artifact of acceptable power.
+**Success with a twist:** Azure notes to the Council that if the payment were to take place on the plane of Chaos, where weights and measures shift unpredictably, then the humanoids could readily provide enough gold to satisfy the law provided the exchange occur at the proper moment. Although much of the Council is dissatisfied with this proposition, they bring it to a vote and favor falls on Azure's
+
+___
+side. However, for the inconvenience of interdimensional travel, the Council rules that every wyrm employed must also be compensated with a magical artifact of acceptable power.
 
 **Failure, but the story progresses:** Azure fails to come up with a reasonable loophole, and the Council rules that any wyrm who aids in the Demon Wars without the Law of Gold being satisfied will be deemed an outcast of dragonkind.
 
@@ -473,19 +513,7 @@ Zak and his party are exploring the remnants of an abandoned space colony. Sever
 GM that he will be
 searching for traps ahead of the party.
 After clearing several rooms, the party is
-walking down
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
-<img style="position: absolute; top: 0; left: 0; width: 100%;"  src="http://localhost:8888/_not_full_page/amaurean%20elf%20rhuviel%20-%20magic%20reindeer%20-%20vargasni.jpg" />
-
-<div style="padding-top: 2425px;"></div>
-
-___
-a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
+walking down a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
 
 **Success with a twist:** Zak notices the mine just as he steps within its activation zone. He is able to shout to his party to take cover, but he will suffer the full force of the mine.
 
@@ -497,16 +525,20 @@ Therilas attempts to track a pixie through the Fey Wood. The trail is two days o
 
 **Success with a twist:** Therilas loses the trail a mile into the woods. As he searches about in frustration, he is approached by a sentient fox who offers to reveal the location of the pixie--for a price.
 
-**Failure, but the story progresses:** Therilas wanders for hours in the Fey Wood trying to pick up the trail. Finally, he finds it, though it seems oddly fresh. Too late does he realize that he has been tricked, and the pixie has led him into a trap. He finds himself surrounded by denizens of the Fey Wood
+**Failure, but the story progresses:** Therilas wanders for hours in the Fey Wood trying to pick up the trail. Finally, he
 
-```
-```
 
-<div style="padding-top: 2462px;"></div>
 
-___
-and hears the pixie's mischievous laughter from the canopy above.
 
+\page
+
+<div class='pageNumber auto'></div>
+
+<img style="position: absolute; top: 0; left: 0; width: 100%;"  src="http://localhost:8888/_not_full_page/amaurean%20elf%20rhuviel%20-%20magic%20reindeer%20-%20vargasni.jpg" />
+
+<div class="wide" style="padding-top: 2462px;"></div>
+
+finds it, though it seems oddly fresh. Too late does he realize that he has been tricked--the pixie has led him into a trap. He finds himself surrounded by denizens of the Fey Wood and hears the pixie's mischievous laughter from the canopy above.
 
 ### Will
 
@@ -514,19 +546,29 @@ Will is the attribute of mental fortitude and willpower. It represents your char
 
 #### Challenging Test of Will (CR 15)
 
-Setting Sun and his companions are lost in the desert. They've been without food and water for 2 days, and the GM asks what each of them are doing to stave off the negative effects of dehydration and starvation. While the monk's allies call upon their Fortitude to grit their teeth through the pain or their Alteration magic to bolster their bodies, Setting Sun retreats into the calm of his meditative mind, relying on his Will to get him through the trial.
+Setting Sun and his companions are lost in the desert. They've been without food and water for 2 days, and the GM asks what each of them are doing to stave off the negative effects of dehydration and starvation. While the monk's allies call upon their Fortitude to grit their teeth through the pain or their Alteration magic to bolster their bodies, Setting Sun
+
+___
+
+retreats into the calm of his meditative mind, relying on his Will to  get him through the trial.
 
 **Success with a twist:** The monk's meditation works to an extent. He is only able to stave off his hunger, but not his thirst, so he suffers one level of the *fatigued* bane.
 
 **Failure, but the story progresses:** Setting Sun's training was good, but the calm of the monastery is hard to recall amidst his current struggles. Overcome with hunger and thirst, the monk suffers 2 levels of the *fatigued* bane.
 
-\page
 
 #### Heroic Test of Will (CR 20)
 
 Deep in the lower chambers of Overhill Asylum, the investigators discover an ancient and alien evil whose very existence in the physical dimension seems an impossibility. Unable to reconcile their understanding of the laws of nature with the creature's writhing form and material instability, the PCs begin to lose touch with reality. The GM calls for each investigator to make a Will roll.
 
 **Success with a twist:** The PCs are overcome with an uncontrollable but temporary horror. While they remain in the Asylum, they suffer a special form of the *demoralized* bane (Power Level 3). It cannot be resisted until they leave the Asylum.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+
 
 **Failure, but the story progresses:** In addition to suffering the *demoralized* bane, the PCs gain the *psychotic* flaw until they find some means of re-orienting their understanding of the universe and its laws.
 
@@ -550,17 +592,18 @@ Slade has acquired an appropriate disguise to pass as a city guard. As he attemp
 
 **Failure, but the story progresses:** Slade's military etiquette faux pas is worse than expected. The offended officer immediately requests to know Slade's commanding officer so that he can report the offense.
 
+
 #### Heroic Test of Deception (CR 20)
 
 Adele scans her multi-pass to gain entry to a level 5 sector of her office building, even though she only has clearance up to level 4. When the security sentry on duty questions her, Adele spins a tale about how she's been having trouble with her multi-pass all day ever since she got caught in a mag storm on the way to work and that she's just trying to get back into her office to grab her lunch.
 
-\page
-
-<div class='pageNumber auto'></div>
 
 **Success with a twist:** The sentry believes the story, but just to cover his butt he has to escort her to the office so that he doesn't get in trouble.
 
 **Failure, but the story progresses:** The sentry is suspicious and tells Adele that he will need to contact his shift commander about this.
+
+```
+```
 
 #### Epic Test of Deception (CR 25)
 
@@ -582,14 +625,23 @@ Pelias is trying to trade a valuable ruby to the barkeep in exchange for the nam
 
 **Failure, but the story progresses:** It's clear that the barkeep is worried about more than just money. The rogue's entreaties have spooked him completely and he won't even give up a single name anymore.
 
+
+
 #### Heroic Test of Persuasion (CR 20)
 
-When they reach the town of Haven, the survivors find the gates closed. The guards inform them that the Overseer has placed a blockade on all outsiders due to reports of an outbreak of a new strain of Virus Z. With a few smooth words, Wendell manages to get the Overseer to come to the gate, but now he is attempting the much more difficult task of
-
-___
-convincing him that his group isn't infected and that they would be a valuable asset to the town.
+When they reach the town of Haven, the survivors find the gates closed. The guards inform them that the Overseer has placed a blockade on all outsiders due to reports of an outbreak of a new strain of Virus Z. With a few smooth words, Wendell manages to get the Overseer to come to the gate, but now he is attempting the much more difficult task of convincing him that his group isn't infected and that they would be a valuable asset to the town.
 
 **Success with a twist:** The Overseer finds the group's deeds impressive and believes their story. However, he will accept them into Haven only if they agree to a one week quarantine, which will significantly delay their agenda.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<img style="position: absolute; top: 0; left: 0; width: 100%;"  src="http://localhost:8888/_not_full_page/Caught_Cheating_Allen_Morris.jpg" />
+
+<div class="wide" style="padding-top: 2450px;"></div>
+
 
 **Failure, but the story progresses:** The Overseer doesn't care how valuable the group might be to his town, he simply cannot put his people at risk of another outbreak. He orders them away, and commands his guards to shoot them on sight if they return.
 
@@ -599,7 +651,10 @@ Professor Durst and his team of investigators have managed to take one of the cu
 
 **Success with a twist:** Durst has managed to leverage the cultist's deeply suppressed emotions of guilt to get him to denounce the Black Claw. However, the terror of the dark deeds he has taken part in cannot be reconciled with the cultist's former self, driving him insane. The cultist might provide some useful information to the investigators, but it is always hidden between maniacal ramblings and diabolical riddles.
 
-**Failure, but the story progresses:** Durst thinks he has broken the cultist, and unties him as a show of goodwill. However, as soon as the cultist has the chance, he jumps through a nearby window and breaks his own neck in the fall.
+**Failure, but the story progresses:** Durst thinks he has
+
+___
+broken the cultist, and unties him as a show of goodwill. However, as soon as the cultist has the chance, he jumps through a nearby window and breaks his own neck in the fall.
 
 ### Presence
 
@@ -607,22 +662,19 @@ Presence is the social attribute of leadership and charisma. A character with a 
 
 #### Challenging Test of Presence (CR 15)
 
-Shazben Hazben, the halfling bard, enters the tavern with a well-tuned mandolin but not even two coppers to scrape together. After striking up a conversation with the barkeep, Shazben offers to entertain the guests in exchange for room and board. The bartender likes the halfling's style, so he gives him a chance to win him over on stage that night.
+Shazben Hazben, the halfling bard, enters the tavern with a well-tuned mandolin but not even two coppers to scrape together. After striking up a conversation with the barkeep, Shazben offers to entertain the guests in exchange for room  and board. The bartender likes the halfling's style, so he gives him a chance to win him over on stage that night.
 
 **Success with a twist:** The crowd loves the halfling, even bringing in a few silver for tips. However, the greedy barkeep says the bard can stay as long as he gets a cut of half the tips.
-
-**Failure, but the story progresses:** Shazben gets booed off the stage after inadvertently insulting a local folk hero in song. He is no longer welcome at the tavern.
-
-#### Heroic Test of Presence (CR 20)
-
-Gunner Dag has gotten himself into another one of his situations. He lost big at poker with a few of the local miners, used a bit of harsh language about one of their mother's, and now he finds himself standing on main street at high noon, his Volt Pistol hanging at his hip and his eyes glaring at
 
 \page
 
 <div class='pageNumber auto'></div>
 
-___
-another stranger that he really doesn't want to kill. He grits his teeth, hardens his eyes, and calls on every nerve of steel he has to overawe this yokel into backing down before things get bloody.
+**Failure, but the story progresses:** Shazben gets booed off the stage after inadvertently insulting a local folk hero in song. He is no longer welcome at the tavern.
+
+#### Heroic Test of Presence (CR 20)
+
+Gunner Dag has gotten himself into another one of his situations. He lost big at poker with a few of the local miners, used a bit of harsh language about one of their mother's, and now he finds himself standing on main street at high noon, his Volt Pistol hanging at his hip and his eyes glaring at another stranger that he really doesn't want to kill. He grits his teeth, hardens his eyes, and calls on every nerve of steel he has to overawe this yokel into backing down before things get bloody.
 
 **Success with a twist:** The miner can see in Dag's eyes that he is a born killer. He throws down his gun, but he still wants revenge. He will catch Dag in an alley later with many more thugs if he can.
 
@@ -647,6 +699,9 @@ Svyll needs to reach the top of a short cliff, but he hasn't the skill in climbi
 **Success with a twist:** Svyll's magic doesn't fail him, but it doesn't work as efficiently as expected and his climb takes twice as long as it should have.
 
 **Failure, but the story progresses:** Svyll fails to take into account the delicate nature of the cliff, causing a small landslide to fall upon his party. However, when they pick themselves out of the rubble, they discover that the landslide revealed a cavern opening that was previously concealed.
+
+```
+```
 
 #### Heroic Test of Alteration (CR 20)
 
@@ -680,20 +735,24 @@ Jaaxy is trying to gain entrance into the headquarters of the Order of Outlander
 
 Therilas is attempting to lead a party of refugees safely through the Decaying Desert. Were he in the woods, the druid could easily forage enough food and water to keep them alive. Lost in the desert, however, he is forced to use his magic to summon forth sustenance for the desperate masses.
 
-**Success with a twist:** The only way that Therilas is able to harness enough energy to feed so many people is to draw on his own life reserves. The GM rules that he suffers one level of the *fatigued* bane.
-
-**Failure, but the story progresses:** Unfortunately, despite his best efforts, Therilas can only create half of the food and water that it would take to adequately sustain the refugees. Half of them won't survive the journey without further intervention.
-
 \page
+
 
 <div class='pageNumber auto'></div>
 
 <img class="full-page cover-all"
  src="http://localhost:8888/_full_page/jungle_airship_andrey_vasilchenko.jpg" />
 
+
 \page
 
 <div class='pageNumber auto'></div>
+
+
+**Success with a twist:** The only way that Therilas is able to harness enough energy to feed so many people is to draw on his own life reserves. The GM rules that he suffers one level of the *fatigued* bane.
+
+**Failure, but the story progresses:** Unfortunately, despite his best efforts, Therilas can only create half of the food and water that it would take to adequately sustain the refugees. Half of them won't survive the journey without further intervention.
+
 
 #### Epic Test of Creation (CR 25)
 
@@ -717,14 +776,16 @@ Asger and Hertha have trekked long and hard through the frozen Fjords of the Tit
 
 #### Heroic Test of Energy (CR 20)
 
-Doctor Heller accompanies his posse in raiding a train that is transporting a large sum of Pinkerton cash. They've neutralized the guards and taken control of the train, but they still have to get the safe open. Doc powers up his patented Slow Drip Acidic Disseminator and attempts to burn through the lock with expert precision.
+Doctor Heller accompanies his posse in raiding a train that is transporting a large sum of Pinkerton cash. They've neutralized the guards and taken control of the train, but they still have to get the safe open. Doc powers up his patented Slow Drip Acidic Disseminator and attempts to burn through
+
+___
+the lock with expert precision.
 
 **Success with a twist:** Doc's mad science works a bit too well as the Disseminator overloads and burns through the entire door of the safe, destroying about one-fifth of the score along with it.
 
-**Failure, but the story progresses:** It turns out the safe has been coated with a corrosion proof chemical that renders Doc's acid harmless. The good news is that Doc is smart enough to recognize this. The bad news is that it takes him so
+**Failure, but the story progresses:** It turns out the safe has been coated with a corrosion proof chemical that renders Doc's acid harmless. The good news is that Doc is smart enough to recognize this. The bad news is that it takes him so  long to figure it out that the Pinkerton reinforcements have arrived on horseback.
 
-___
-long to figure it out that the Pinkerton reinforcements have arrived on horseback.
+
 
 #### Epic Test of Energy (CR 25)
 
@@ -752,29 +813,31 @@ Balthazar has delved deep into the Tomb of Aliki to gain access to the powerful 
 
 **Success with a twist:** The spell works, though the ghost is unimpressed. Aliki animates the shadows to attack the necromancer, stating that Balthazar can prove his worthiness by defeating the shadows.
 
+
+\page
+
+
+<div class='pageNumber auto'></div>
+
+# Epic Entropy Illustration Here
+
+<!-- <img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/jungle_airship_andrey_vasilchenko.jpg" /> -->
+
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+
 **Failure, but the story progresses:** Balthazar's spell fails, and the shadows do not bend to his will. With a maniacal laugh, Aliki attacks the necromancer, attempting to inflict the *death* bane.
 
 #### Epic Test of Entropy (CR 25)
 
-Xu Ming and his team of survivors have journeyed in their starcruiser to an abandoned sector of the galaxy emitting a strange energy signature. Touching down on the surface, they discover hordes of nightmarish aliens pouring through a
-
-\page
-
-
-<div class='pageNumber auto'></div>
-
-## TODO: Add Andrey's Portal Illustration
-
-<img class="full-page cover-all"
- src="http://localhost:8888/_full_page/final_filename.jpg" />
-
-\page
-
-
-<div class='pageNumber auto'></div>
-
-___
-massive portal. As the rest of the team mows down the advancing horde, the voidtouched psion Stryx attempts to channel void energy from a higher dimension to nullify the portal.
+Xu Ming and his team of survivors have journeyed in their starcruiser to an abandoned sector of the galaxy emitting a strange energy signature. Touching down on the surface, they discover hordes of nightmarish aliens pouring through a  massive portal. As the rest of the team mows down the advancing horde, the voidtouched psion Stryx attempts to channel void energy from a higher dimension to nullify the portal.
 
 **Success with a twist:** Stryx must contend with a horrifying alien brood master holding the portal open and preparing to make the jump itself. It uses all of its mind-warping power to twist her mind and break her. She prevails and manages to close the portal, though the mental battle scars her for life. She suffers a permanent level of the *fatigued* bane until she can find a means to cure herself.
 
@@ -784,13 +847,17 @@ massive portal. As the rest of the team mows down the advancing horde, the voidt
 
 Influence is used to cover such extraordinary powers as turning invisible, controlling minds, and creating illusory phantasms to deceive others. Any time you are using extraordinary means to affect what another creature perceives or to exert mental control over them, you will likely be making an Influence roll. Influence differs from the attributes Presence, Deception, and Persuasion in that it is used for extreme or supernatural effects. Whereas Persuasion might be used to convince a creature to agree with you by using a strong argument and evidence, Influence would be used to accomplish the same effect using mental charm or domination.
 
+
 #### Challenging Test of Influence (CR 15)
 
 Ensign Destiny attempts to convince the bouncer at the cantina that her friends should be allowed to leave peacefully. To stack the deck against the bouncer, Destiny activates the Pheromone Enhancement Matrix on her cyberwear to cloud his judgement.
 
+
 **Success with a twist:** The trick works, but her cyberwear has obviously been miscalibrated. Rather than simply convinced, the bouncer has been seduced. He is under the distinct impression that Destiny is hitting on him.
 
 **Failure, but the story progresses:** Unfortunately, this bouncer got fooled by Pheromone Enhancements last week and his employer was not too happy about it. He recognizes the trick quickly, and the negotiation quickly escalates to combat.
+
+
 
 #### Heroic Test of Influence (CR 20)
 
@@ -799,10 +866,6 @@ Shipwrecked on a remote jungle island, Allister and his companions find themselv
 **Success with a twist:** The lizards are convinced of Allister's god-like nature, but they still do not trust his companions, treating them as mere slaves of a god.
 
 **Failure, but the story progresses:** A shaman among the lizardfolk recognizes Allister's illusions and calls him out on them. The lizards, inflamed with rage at the deception, launch an attack.
-
-
-```
-```
 
 #### Epic Test of Influence (CR 25)
 
@@ -824,17 +887,24 @@ Victoria is trying to create enough of a distraction to allow her ally, Nick, to
 
 **Failure, but the story progresses:** Nick thinks he's got a chance to make a break for it, but Victoria's powers fail her at just the wrong moment, and one of the thugs pistol whips Nick unconscious as he attempts to escape.
 
+
 #### Heroic Test of Movement (CR 20)
 
 Gizmo's party is attempting to evade a pack of wererats amidst the narrow alleys and busy streets of Ystril. The GM asks each PC to describe what they are doing to escape their pursuers. Gizmo decides to rely on the power of his patented Mark VI Rocket Boots to propel him from rooftop to rooftop.
 
-**Success with a twist:** Much to the surprise of his allies, Gizmo's invention does the trick, and he easily evades the wererats pursuing him. However, he has pushed them to the limit, and they will not function again until he can get access to a workshop and repair them.
+**Success with a twist:** Much to the surprise of his allies, Gizmo's invention does the trick, and he easily evades the
 
-**Failure, but the story progresses:** Gizmo's Rocket Boots hurl him haphazardly about the city, and to no one's surprise, they conk out mid-air in an explosion of gears and smoke, sending the gnome hurdling into dark alley. When he gets to his feet, he finds himself flanked by wererats.
+
 
 \page
 
+
 <div class='pageNumber auto'></div>
+
+
+wererats pursuing him. However, he has pushed them to the limit, and they will not function again until he can get access to a workshop and repair them.
+
+**Failure, but the story progresses:** Gizmo's Rocket Boots hurl him haphazardly about the city, and to no one's surprise, they conk out mid-air in an explosion of gears and smoke, sending the gnome hurdling into dark alley. When he gets to his feet, he finds himself flanked by wererats.
 
 #### Epic Test of Movement (CR 25)
 
@@ -858,15 +928,20 @@ The crew is barricaded in the sporting goods store of the mall with a horde of z
 
 #### Heroic Test of Prescience (CR 20)
 
-As Shane chases him through the corridors of Payne Manor, the Doctor ducks into a side room. Seconds later, Shane busts into the room, only to find no sign of the Doctor, and no other visible exits. Unbeknownst to our hero, his quarry has opened a secret passage behind a bookshelf that is activated by dialing a number on the phone that rests on a nearby desk. Shane takes a deep breath, calms his nerves, and attempts to use his cybernetically enhanced senses to detect the Doctor.
+As Shane chases him through the corridors of Payne Manor, the Doctor ducks into a side room. Seconds later, Shane busts into the room, only to find no sign of the Doctor, and no other visible exits. Unbeknownst to our hero, his quarry has opened a secret passage behind a bookshelf that is activated
+
+___
+by dialing a number on the phone that rests on a nearby desk. Shane takes a deep breath, calms his nerves, and attempts to use his cybernetically enhanced senses to detect the Doctor.
 
 **Success with a twist:** Shane gains no perception of the secret passage, but he does notice that the phone is slightly askew and the items nearby it disheveled as if having been  recently disturbed.
 
 **Failure, but the story progresses:** Shane loses the Doctor, and he wastes a good deal of time in the study trying to pick up a trail. By the time he gives up hope, the Doctor is long gone.
 
+
 #### Epic Test of Prescience (CR 25)
 
 Ruby is investigating the scene of the lord mayor's assassination. There are no obvious physical signs of the cause of death, so she touches her hand to the mayor's heart and attempts to communicate with his spirit and learn whatever she can.
+
 
 **Success with a twist:** Ruby can speak briefly with the mayor. However, her connection with his troubled soul becomes semi-permanent. She is tortured by his desire for vengeance until his killer is brought to justice. While this effect persists, Ruby suffers one level of the *fatigued* bane.
 
@@ -888,16 +963,15 @@ As Balthazar and his companions make their way up the narrow ledge that encircle
 
 Star and her platoon pilot their mechanized combat suits through the wastelands of Primus, the first moon of New Terra. During their week-long trek, one of Primus' much-feared corrosive acid clouds settles over the soldiers, threatening to slowly eat away at their armor. The GM asks each PC what they are doing to protect their mechas, and Star decides to use her Protection attribute to activate her suit's enviro shields to ward off the acid.
 
-**Success with a twist:** Star's enviro shield does the trick, but the acid storm is so strong that she is forced to reroute power from her mech's combat defenses in order to maintain the shield. As long as she keeps her enviro shield up, Star's max HP is reduced by 5.
-
-**Failure, but the story progresses:** Star's enviro shield just wasn't meant for such prolonged exposure to corrosive matter of this level. After three days in the acid cloud, her
+**Success with a twist:** Star's enviro shield does the trick, but the acid storm is so strong that she is forced to reroute power from her mech's combat defenses in order to maintain
 
 \page
 
 <div class='pageNumber auto'></div>
 
-___
-mech's hull is severely corroded, reducing her Armor bonus by 3 until it can be repaired.
+the shield. As long as she keeps her enviro shield up, Star's max HP is reduced by 5.
+
+**Failure, but the story progresses:** Star's enviro shield just wasn't meant for such prolonged exposure to corrosive matter of this level. After three days in the acid cloud, her mech's hull is severely corroded, reducing her Armor bonus by 3 until it can be repaired.
 
 #### Epic Test of Protection (CR 25)
 
@@ -906,7 +980,5 @@ Despite the warning of her mentor sage, Bell has dared to glimpse into the accur
 **Success with a twist:** Bell manages to regain control of herself and close the book. However, unbeknownst to her, one of the demons remains and will assail her from time to time until she discovers it and has the fiend properly exorcised.
 
 **Failure, but the story progresses:** Bell's magic is not strong enough to hold back the forces of hell, and she is compelled to read from the book for hours on end. When the attack finally ends, Bell is changed. She has permanently gained the *psychotic* flaw.
-
-
 
 \page
