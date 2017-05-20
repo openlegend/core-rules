@@ -94,39 +94,39 @@
     tier1:
       any:
         Attribute:
-        - Agility: 1
-        - Might: 1
-        - Any Extraordinary: 1
+        - Agility: 3
+        - Might: 3
+        - Any Extraordinary: 3
     tier2:
       any:
         Attribute:
-        - Agility: 1
-        - Might: 1
-        - Any Extraordinary: 1
+        - Agility: 3
+        - Might: 3
+        - Any Extraordinary: 3
     tier3:
       any:
         Attribute:
-        - Agility: 1
-        - Might: 1
-        - Any Extraordinary: 1
+        - Agility: 3
+        - Might: 3
+        - Any Extraordinary: 3
     tier4:
       any:
         Attribute:
-        - Agility: 4
-        - Might: 4
-        - Any Extraordinary: 4
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
     tier5:
       any:
         Attribute:
-        - Agility: 4
-        - Might: 4
-        - Any Extraordinary: 4
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
     tier6:
       any:
         Attribute:
-        - Agility: 4
-        - Might: 4
-        - Any Extraordinary: 4
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
     tier7:
       any:
         Attribute:
@@ -642,22 +642,22 @@
       - Agility: 3
     tier4:
       Attribute:
-      - Agility: 3
+      - Agility: 5
     tier5:
       Attribute:
-      - Agility: 3
+      - Agility: 5
     tier6:
       Attribute:
-      - Agility: 3
+      - Agility: 5
     tier7:
       Attribute:
-      - Agility: 3
+      - Agility: 7
     tier8:
       Attribute:
-      - Agility: 3
+      - Agility: 7
     tier9:
       Attribute:
-      - Agility: 3
+      - Agility: 7
   tags:
   - Agility
   - Extraordinary
@@ -1197,31 +1197,31 @@
   prerequisites:
     tier1:
       Attribute:
-      - Agility: 1
+      - Agility: 3
     tier2:
       Attribute:
-      - Agility: 2
+      - Agility: 3
     tier3:
       Attribute:
       - Agility: 3
     tier4:
       Attribute:
-      - Agility: 4
+      - Agility: 5
     tier5:
       Attribute:
       - Agility: 5
     tier6:
       Attribute:
-      - Agility: 6
+      - Agility: 5
     tier7:
       Attribute:
       - Agility: 7
     tier8:
       Attribute:
-      - Agility: 8
+      - Agility: 7
     tier9:
       Attribute:
-      - Agility: 9
+      - Agility: 7
   tags:
   - Extraordinary
   - Agility
