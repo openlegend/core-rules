@@ -12,6 +12,9 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 05 / 19
+-   Standardized all 9-tier feats (`Attack Specialization`, `Defensive Reflexes`, and `Lethal Strike`) in terms of attribute prerequisite and tier grouping. Each is now Tier 1 - 3: Attribute 3, Tier 4 - 6: Attribute 5, Tier 7 - 9: Attribute 7
+
 #### 2017 / 05 / 09
 -   `Scrying` bane renamed to `Spying` for multi-genre friendliness (scrying is inherently magical).
 -   `Heal` no longer has `Alteration` as a prerequisite attribute. Don't panic, you can still use the `Regeneration` boon, which is more in line with what healing does. `Alteration` allows access to an overly large array of boons.
