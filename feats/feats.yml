@@ -1259,8 +1259,8 @@
     tier2:
       any:
         Attribute:
-        - Agility: 3
-        - Prescience: 3
+        - Agility: 2
+        - Prescience: 2
     tier3:
       any:
         Attribute:
@@ -1269,13 +1269,13 @@
     tier4:
       any:
         Attribute:
-        - Agility: 5
-        - Prescience: 5
+        - Agility: 4
+        - Prescience: 4
     tier5:
       any:
         Attribute:
-        - Agility: 6
-        - Prescience: 6
+        - Agility: 4
+        - Prescience: 4
   tags:
   - Physical
   - Extraordinary
