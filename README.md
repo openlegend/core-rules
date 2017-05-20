@@ -14,6 +14,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 
 #### 2017 / 05 / 19
 -   Standardized all 9-tier feats (`Attack Specialization`, `Defensive Reflexes`, and `Lethal Strike`) in terms of attribute prerequisite and tier grouping. Each is now Tier 1 - 3: Attribute 3, Tier 4 - 6: Attribute 5, Tier 7 - 9: Attribute 7
+-   `Lightning Reflexes` squash prerequisites, no need to have 5 tier bullet points
 
 #### 2017 / 05 / 09
 -   `Scrying` bane renamed to `Spying` for multi-genre friendliness (scrying is inherently magical).
