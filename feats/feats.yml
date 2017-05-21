@@ -1288,6 +1288,42 @@
   effect: |
     For each tier you possess in this feat, you gain advantage 1 on all initiative rolls.
 - !
+  name: Longshot
+  prerequisites:
+    tier1:
+      any:
+        Attribute:
+        - Agility: 5
+        - Might: 5
+        - Any Extraordinary: 5
+  tags:
+  - Combat
+  cost:
+  - 1
+  description: |
+    Your expertise with a particular ranged weapon or extraordinary power enables you to strike targets at extreme distances that others would find impossible. This feat is common among snipers, fighter pilots, and war wizards.
+  effect: |
+    When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
+    If you choose a weapon, the weapon's range is increased to the next greater range increment. Close Ranged becomes Short, Short becomes Medium, Medium becomes Long, Long becomes Extreme, and Extreme becomes 500'.
+    If you chose an attack type, your attack range for that attribute is doubled.
+  special: |
+    You may take this feat multiple times. If you do, select a new weapon or attack type each time.
+- !
+  name: Silencing Strike
+  prerequisites:
+    tier1:
+      Attribute:
+      - Agility: 4
+  tags:
+  - Agility
+  - Physical
+  cost:
+  - 3
+  description: |
+    Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence. This might take the form of a dart to the larynx, a garrote around the throat, or simply a sturdy covering of the mouth.
+  effect: |
+    Whenever you deal damage using a weapon with the precise property to a target that is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the <em>silenced</em> bane.
+- !
   name: Martial Focus
   prerequisites:
     tier1:
@@ -1602,42 +1638,6 @@
     Your heightened awareness on the battlefield means that you are nearly impossible to catch flat-footed and are always prepared to defend yourself or allies. This feat is typified by such character concepts as the bodyguard, the abjurer, and the psychic defender.
   effect: |
     Once per round, after you have expended your next major action to perform a defend action, you get an additional major action that must be spent before the start of your next turn to make another defend action. Multiple tiers of this feat grant additional major actions usable only for defend actions.
-- !
-  name: Longshot
-  prerequisites:
-    tier1:
-      any:
-        Attribute:
-        - Agility: 5
-        - Might: 5
-        - Any Extraordinary: 5
-  tags:
-  - Combat
-  cost:
-  - 1
-  description: |
-    Your expertise with a particular ranged weapon or extraordinary power enables you to strike targets at extreme distances that others would find impossible. This feat is common among snipers, fighter pilots, and war wizards.
-  effect: |
-    When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
-    If you choose a weapon, the weapon's range is increased to the next greater range increment. Close Ranged becomes Short, Short becomes Medium, Medium becomes Long, Long becomes Extreme, and Extreme becomes 500'.
-    If you chose an attack type, your attack range for that attribute is doubled.
-  special: |
-    You may take this feat multiple times. If you do, select a new weapon or attack type each time.
-- !
-  name: Silencing Strike
-  prerequisites:
-    tier1:
-      Attribute:
-      - Agility: 4
-  tags:
-  - Agility
-  - Physical
-  cost:
-  - 3
-  description: |
-    Like an expert assassin or ninja, you can render your foes completely unable to alert others of your presence. This might take the form of a dart to the larynx, a garrote around the throat, or simply a sturdy covering of the mouth.
-  effect: |
-    Whenever you deal damage using a weapon with the precise property to a target that is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the <em>silenced</em> bane.
 - !
   name: Skill Specialization (I - V)
   prerequisites:
