@@ -1,4 +1,19 @@
-# Chapter 9: Special Equipment #
+# blank to get Left / Right ordering
+# started on LEFT
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/extraordinaryitems%20Kolbeck.jpg" />
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+
+# Chapter 9: Special Equipment
 
 Chapter 5 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
 
@@ -27,7 +42,23 @@ Extraordinary items are different from weapons, armor, and other gear because th
 **Properties** are the descriptors that make each extraordinary item unique from others. These properties translate to specific game mechanics listed below.
 
 
-| Extraordinary Item | WL | Attributes | Banes & Boons | Properties |
+#### Properties
+
+**Augmenting** - Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All *augmenting* items must have the *expendable* property.
+
+
+**Area** - An item with the area property always makes multi-target area attacks or invocations of the listed size and shape and cannot be used to make non-area attacks. If an item has multiple area sizes, the attacker chooses from them with each attack. Attack and action rolls do not incur any of the disadvantage penalties usually associated with multi-targeting.
+
+**Armor (type)** - The item functions as a suit of armor of the given type, bestowing all of the benefits and restrictions of that armor upon the wearer.
+
+\page
+
+<div class="wide">
+
+___
+##### Special Equipment
+
+|  Item | WL | Attributes | Banes & Boons | Properties |
 | :----: | :-: | :-: | :---: | :-------: |
 | Adhesion Boots | 2 |   |  | Special |
 | Aegis of Warding | 4 | Energy 5 |  | Autonomous, Special |
@@ -63,18 +94,14 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Universal Access Implant | 6 | Presence 7 |  | Potent 1, Special |
 | Worker Bot | 4 | Might 3 |  | Autonomous |
 
+</div>
 
-#### Properties
-
-**Augmenting** - Banes associated with this item can be delivered via an alternate method, such as a weapon or other damaging attack. Applying the item's augmentation to an attack is a move action which consumes the item. Upon application, you choose a bane the item can invoke. The next attack made with the augmented item triggers that bane if your roll is **equal to or above the target's defense score**. Examples of the *augmenting* property include poison, special ammo cartridges, and magical jewels that can be attuned to a weapon to enhance its power. All *augmenting* items must have the *expendable* property.
-
-**Area** - An item with the area property always makes multi-target area attacks or invocations of the listed size and shape and cannot be used to make non-area attacks. If an item has multiple area sizes, the attacker chooses from them with each attack. Attack and action rolls do not incur any of the disadvantage penalties usually associated with multi-targeting.
-
-**Armor (type)** - The item functions as a suit of armor of the given type, bestowing all of the benefits and restrictions of that armor upon the wearer.
 
 **Autonomous** - When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
 
 **Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.
+
+\page
 
 **Consumable** -  A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.
 
@@ -99,6 +126,9 @@ Extraordinary items are different from weapons, armor, and other gear because th
 **Special** - The item possesses a unique property that is explained in full detail in its description.
 
 **Weapon (type)** - The item is a weapon of the given type. It possesses all of the properties of that weapon and can leverage them when making attacks.
+
+```
+```
 
 #### Adhesion Boots
 
@@ -153,9 +183,11 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *Bound in a black substance harvested from the demiplane of shadow, this ancient tome contains secret words that allow one to manipulate the darkness, and even summon shadowy creatures from otherworldly planes of existence.*
 
-**Properties**: Darkness 5, Summon Creature 5, Blinded 5
+**Properties**: Darkness 5, Summon Creature 5, <br>Blinded 5
 
 **Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will roll of CR 15 or suffer one level of the *fatigued* bane.
+
+\page
 
 
 #### Colt 45
@@ -289,6 +321,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Properties**: Area (50' Line), Deadly 2, Weapon (Cannon)
 
+\page
 
 #### Maul of Dominance
 
@@ -349,6 +382,8 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Every shot counts as a single extraordinary item.
 
+```
+```
 
 #### Rod of Fear
 
@@ -414,6 +449,8 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Properties**: Might 3, Autonomous
 
+\page
+
 
 ### Building Your Own Extraordinary Items
 
@@ -465,77 +502,82 @@ In the previous step, you chose from the preset properties already created. Here
 
 After you have described your item's special properties, you should assign a wealth level modifier by asking yourself several questions about each property:
 
--   **Is it common?** Will a character be able to make use of this property very often? If so, add wealth level +1.
+- **Is it common?** Will a character be able to make use of this property very often? If so, add wealth level +1.
+- **Is it versatile?** Is the property useful in many different types of situations? If so, add wealth level +1.
+- **Is it powerful?** Does the property create a significant advantage for a character or have the potential to impact the game in a very significant way? If so, add wealth level from +1 to +9.
 
--   **Is it versatile?** Is the property useful in many different types of situations? If so, add wealth level +1.
+ A good way to decide how much of a modifier to apply is to compare the property to a bane or boon of similar effect. Then, use the table given in step 1 to determine a similar modifier based on the power level of that bane or boon.
+- **Is it limiting?** Does the property reduce the effectiveness of another ability or is it only useful in very specific situations? If so, reduce wealth level by 1.
 
--   **Is it powerful?** Does the property create a significant advantage for a character or have the potential to impact the game in a very significant way? If so, add wealth level from +1 to +9.
-    - A good way to decide how much of a modifier to apply is to compare the property to a bane or boon of similar effect. Then, use the table given in step 1 to determine a similar modifier based on the power level of that bane or boon.
-
--   **Is it limiting?** Does the property reduce the effectiveness of another ability or is it only useful in very specific situations? If so, reduce wealth level by 1.
-
-> ### Example Items with Special Properties
-> \
-> **Hydraulic Propulsion Implants** \
-> \
-> You always count as having a running start for your jumps, and your distance covered when jumping is doubled. \
-> \
-> *Is it common?* No. Jumping will be useful in many combats, but only if the terrain and situation fits. Jumping might be useful in non-combat situations, but probably not that often. \
-> \
-> *Is it versatile?* Yes. +1 WL. Double jump distance will allow a character to overcome a large variety of obstacles, and provide enhanced maneuverability in both combat and non-combat scenarios. \
-> \
-> *Is it powerful?* Mildly. +1 WL. The maneuverability granted by this property is about on par to Teleport power level 3. \
-> \
-> *Is it limiting?* No. It doesn't restrict other abilities nor is it limited to niche scenarios. \
-> \
+> ##### Example Items with Special Properties
+> **Hydraulic Propulsion Implants**
+>
+> You always count as having a running start for your jumps, and your distance covered when jumping is doubled.
+>
+> *Is it common?* No. Jumping will be useful in many combats, but only if the terrain and situation fits. Jumping might be useful in non-combat situations, but probably not that often.
+>
+> *Is it versatile?* Yes. +1 WL. Double jump distance will allow a character to overcome a large variety of obstacles, and provide enhanced maneuverability in both combat and non-combat scenarios.
+>
+> *Is it powerful?* Mildly. +1 WL. The maneuverability granted by this property is about on par to Teleport power level 3.
+>
+> *Is it limiting?* No. It doesn't restrict other abilities nor is it limited to niche scenarios.
+>
 > **Final WL Modifier**: +2
 >
-> * * * * *
+> ___
 >
-> **Shining Shield** \
-> \
-> Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard. \
-> \
-> *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round. \
-> \
-> *Is it versatile?* No. The Shining Shield really only serves one purpose. \
-> \
-> *Is it powerful?* A little more powerful than an item with Blinded 5 because the Shining Shield allows you to inflict the bane without using an action. +3 WL. \
-> \
-> *Is it limiting?* No. While the Shining Shield is only useful when the wielder is targeted in melee, that situation is pretty common. \
-> \
+> ___
+>
+> **Shining Shield**
+>
+> Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard.
+>
+> *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round.
+>
+> *Is it versatile?* No. The Shining Shield really only serves one purpose.
+>
+> *Is it powerful?* A little more powerful than an item with Blinded 5 because the Shining Shield allows you to inflict the bane without using an action. +3 WL.
+>
+> *Is it limiting?* No. While the Shining Shield is only useful when the wielder is targeted in melee, that situation is pretty common.
+>
 > **Final WL Modifier**: +4
 >
+
+\page
+
+
 > * * * * *
 >
-> **Assassin's Rifle** \
-> \
-> This weapon has the Baneful (Blinded) and Baneful (Persistent Damage) properties. However, certain conditions must be met to use these properties. If your target is off guard, unaware, or within melee range of one of your allies, you can use the Baneful proprety . \
-> \
-> *Is it common?* Not any more common than any item that can inflict banes in the usual manner. \
-> \
-> *Is it versatile?* No. Even though the item has multiple instances of the *baneful* proprety, the cost of these is already accounted for in the properties. \
-> \
-> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack, so we calculate it the same as two instances of the *baneful* property. +3 WL *blinded* +2, WL *persistent damage*. \
-> \
-> *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. \
-> \
+> **Assassin's Rifle**
+>
+> This weapon has the Baneful (Blinded) and Baneful (Persistent Damage) properties. However, certain conditions must be met to use these properties. If your target is off guard, unaware, or within melee range of one of your allies, you can use the Baneful proprety .
+>
+> *Is it common?* Not any more common than any item that can inflict banes in the usual manner.
+>
+> *Is it versatile?* No. Even though the item has multiple instances of the *baneful* proprety, the cost of these is already accounted for in the properties.
+>
+> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack, so we calculate it the same as two instances of the *baneful* property. +3 WL *blinded* +2, WL *persistent damage*.
+>
+> *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up.
+>
 > **Final WL Modifier**: +4
 >
-> * * * * *
+> ___
 >
-> **Helm of Goblin Bane** \
-> \
+> ___
+>
+> **Helm of Goblin Bane**
+>
 >  At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
-> \
-> *Is it common?* No. Unless the campaign takes place in a world overrun with goblins, a character will likely go entire sessions without being able to use this helm. \
-> \
-> *Is it versatile?* No. It only does one thing: scare goblins. \
-> \
-> *Is it powerful?* A little more powerful than an item with Fear 5 because it is activated as a free action. +3 WL. \
-> \
-> *Is it limiting?* Yes. The helm is only useful against a specific kind of creature. -1 WL. \
-> \
+>
+> *Is it common?* No. Unless the campaign takes place in a world overrun with goblins, a character will likely go entire sessions without being able to use this helm.
+>
+> *Is it versatile?* No. It only does one thing: scare goblins.
+>
+> *Is it powerful?* A little more powerful than an item with Fear 5 because it is activated as a free action. +3 WL.
+>
+> *Is it limiting?* Yes. The helm is only useful against a specific kind of creature. -1 WL.
+>
 > **Final WL Modifier**: +2
 
 
@@ -551,7 +593,11 @@ Legendary items are similar to extraordinary items in that they may provide acce
 
 ### Acquiring Legendary Items
 
-Legendary items should be more than mere rewards. When introduced into a new campaign, a legendary item should often serve the plot in a specific way. For example, perhaps the PCs come into possession of *Giant's Bane*, a sentient bow containing the souls of four hunters of legend who have tried and failed to defeat the frost giants who have plagued the realm for a century. Equipped with such power and collective wisdom, the party stands a chance at succeeding where the previous hunters have failed.
+Legendary items should be more than mere rewards. When introduced into a new campaign, a legendary item should often serve the plot in a specific way. For example, perhaps the PCs come into possession of *Giant's Bane*, a sentient bow containing the souls of four hunters of
+
+
+___
+legend who have tried and failed to defeat the frost giants who have plagued the realm for a century. Equipped with such power and collective wisdom, the party stands a chance at succeeding where the previous hunters have failed.
 
 Furthermore, the GM should be prepared for the potentially campaign-altering power that legendary items possess. If you give the players a *Time Machine*, *Void Cannon*, or *Lamp of Wishes*, don't be surprised when they use them to their full potential--and don't try to railroad them into only using legendary items in specific situations if the item obviously has greater potential.
 
@@ -571,9 +617,11 @@ Legendary items may possess any of the same properties as extraordinary items. A
 **Slaying (creature type)** - When the item is used to make a damaging attack against the indicated creature type and exceeds the target’s defense by 5 or more, the target immediately dies.
 
 
-> #### Some Things, Money Can’t Buy
+> ##### Some Things, Money Can’t Buy
 >
 > Possessing a legendary item marks a dramatic shift in the capability and power of a given character. As such, these items are too valuable to be bought, and unlikely to find a buyer unless you want to sell them for a fraction of their value. It is typically the most fun for everyone if players discover these powerful items as part of a quest, or an unexpected reward for achieving a dramatic milestone in a story arc. GMs can even ask their players what kind of powerful artifact or relic they envision being most suited to their character. No character should ever begin play with access to an artifact or a relic.
+
+\page
 
 
 #### Void Cannon
@@ -636,20 +684,15 @@ Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
 **Time Travel**: A character may attempt to travel forward or backward in time by making a Logic roll, CR 20. The roll incurs disadvantage 1 for every 5 years of time travel. Any passengers within the vehicle are also transported, willing or not. The GM may interpret a failed roll in any number of interesting ways, including but not limited to the following:
 
 -   The time travelled is multiplied by 100.
-
 -   The machine instead transports the passengers to a different dimension.
-
 -   The direction of time travel is reversed.
-
 -   The travelers miss the mark by 2d4 years.
-
 -   The travelers is attacked by a horde of 4th dimensional chrono beasts.
 
 Once the time machine is in an alternate time, it may only travel back to its original time. Doing so still requires a Logic roll, CR 20, but disadvantage penalties do not apply.
 
+\page
 
-\
-\
 
 
 ## Mounts & Vehicles
@@ -698,60 +741,28 @@ Detailed below are a variety of mounts and vehicles to carry your characters acr
 
 **Targeted Weapons** - A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.
 
+\page
 
 
-<div class="table-no-body"></div>
-| Mounts & Vehicles |
-| - |
-| |
+<div class="wide">
+___
+##### Mounts & Vehicles
 
 | Examples | WL |  Speed | Properties | Attributes | Feats | HP | DT | Defenses |
 | :----- | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
-| All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
-Guard: 14 \
-Resolve: Immune |
-| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
-Guard: 25 \
-Resolve: Immune |
-| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
-Guard: 20 \
-Resolve: 15 |
-| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
-Guard: 22 \
-Resolve: Immune |
-| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist (Area) 2 | 20 | 3 | Toughness: 17 \
-Guard: 20 \
-Resolve: Immune |
-| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
-Guard: 19 \
-Resolve: Immune |
-| Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
-Guard: 19 \
-Resolve: 13 |
-| Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
-Guard: 15 \
-Resolve: 10 |
-| Mecha Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
-Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
-Guard: 22 \
-Resolve: Immune |
-| Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
-Guard: 20 \
-Resolve: 19 |
-| Pegasus | 4 | 50' flying | | Might 4 \
-Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 \
-Guard: 18 \
-Resolve: 17 |
-| Velociraptor, Dire Wolf | 3 | 40' | | Agility 5 \
-Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 \
-Guard: 17 \
-Resolve: 15 |
-| T-Rex | 5 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 \
-Guard: 20 \
-Resolve: 15 |
-| Giant Scorpion | 4 | 35' | Independent 1 | Agility 5 \
-Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 \
-Guard: 15 \
-Resolve: 18 |
+| All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 <br>Guard: 14 <br>Resolve: Immune |
+| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 <br>Guard: 25 <br>Resolve: Immune |
+| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 <br>Guard: 20 <br>Resolve: 15 |
+| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 <br>Guard: 22 <br>Resolve: Immune |
+| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist (Area) 2 | 20 | 3 | Toughness: 17 <br>Guard: 20 <br>Resolve: Immune |
+| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 <br>Guard: 19 <br>Resolve: Immune |
+| Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 <br>Guard: 19 <br>Resolve: 13 |
+| Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 <br>Guard: 15 <br>Resolve: 10 |
+| Mecha Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 <br>Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 <br>Guard: 22 <br>Resolve: Immune |
+| Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 <br>Guard: 20 <br>Resolve: 19 |
+| Pegasus | 4 | 50' flying | | Might 4 <br>Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 <br>Guard: 18 <br>Resolve: 17 |
+| Velociraptor, Dire Wolf | 3 | 40' | | Agility 5 <br>Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 <br>Guard: 17 <br>Resolve: 15 |
+| T-Rex | 5 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 <br>Guard: 20 <br>Resolve: 15 |
+| Giant Scorpion | 4 | 35' | Independent 1 | Agility 5 <br>Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 <br>Guard: 15 <br>Resolve: 18 |
 
-
+</div>

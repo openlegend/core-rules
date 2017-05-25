@@ -1,5 +1,18 @@
+# blank to get Left / Right ordering
+# started on LEFT
 
-# Chapter 5: Wealth & Equipment #
+\page
+
+<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/Weapons%20and%20Armor%20-%20Forrest%20Imel.jpg" />
+
+\page
+
+<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
+
+# Chapter 5: Wealth & Equipment
 
 No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you'll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you claim space pirate bounties and dip your hands in the coffers of kings.
 
@@ -8,12 +21,11 @@ Rather than tracking every gold piece, credit, or fine art object that you acqui
 
 Every character has a wealth score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each wealth score.
 
-<div class="table-no-body"></div>
-| Wealth Overview |
-| - |
-| |
+<div style="text-align: center;">
+##### Wealth Overview
+</div>
 
-| Wealth Score | Example Lifestyles | Example Expenditures |
+| Wealth Score <div style="width: 200px;"></div> | Example Lifestyles | Example Expenditures |
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
@@ -25,6 +37,9 @@ Every character has a wealth score, which begins at 2 and can range from 0 to 9,
 | 7 | king, president | a stronghold, a jet fighter, an elite covert task force |
 | 8 | intergalactic ruler, 10th level hero | a sprawling estate, a large corporate buyout, an army of 10,000 |
 | 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
+
+```
+```
 
 ### Acquiring Goods and Services
 Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines if you are able. Every good or service is assigned a wealth level (either in the rules or by the GM). This level is compared with your wealth score in order to determine the cost of acquiring the item, as follows:
@@ -41,7 +56,7 @@ You cannot make purchases that are more than one level higher than your wealth s
 >
 > Thanks to a recently successful salvage run, Shara's wealth score just increased to 4. She's had her eyes set on a new cargo ship for a while now, which the GM has set at wealth level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a wealth score of 3.
 >
-> * * * * *
+> ---
 >
 > Slade, master of the local thieves' guild, has a wealth score of 5. He wants to outfit all of his men with new weapons, which the GM has decided equates to wealth level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his wealth score.
 >
@@ -51,6 +66,10 @@ You cannot make purchases that are more than one level higher than your wealth s
 
 #### The Rule of Common Sense
 Your wealth score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
+
+\page
+
+<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
 
 ### Gaining Wealth
 
@@ -104,17 +123,16 @@ The Weapons & Implements table provides information about a wide variety of gear
     * **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
     * **Extreme** Ranged weapons are specially built for distance and cannot be used to attack a target closer than 50'.
 
-**WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
+\page
 
-**Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
+<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. You may use the weapon to inflict the listed banes even if you are not using one of the attack attributes listed in the bane description. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+<br>
+
+<div class="wide">
 
 
-<div class="table-no-body"></div>
-| Weapons & Implements |
-| - |
-| |
+##### Weapons & Implements
 
 
 | Examples | Category | WL | Properties | Banes |
@@ -147,6 +165,20 @@ The Weapons & Implements table provides information about a wide variety of gear
 | Small Shield | One-handed Melee | 2 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 3 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
+</div>
+
+\page
+
+<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
+
+**WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
+
+**Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
+
+
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. You may use the weapon to inflict the listed banes even if you are not using one of the attack attributes listed in the bane description. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+
+
 > ### Weapons and Game Balance
 >
 > Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a shortsword over a longsword, mechanically speaking, because they are identical except that a longsword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a shortsword over a longsword. A newly formed thieves guild, for example, might not have the resources to equip everyone with longswords, so their low-level agents might be equipped with shortswords.
@@ -176,27 +208,31 @@ The Weapons & Implements table provides information about a wide variety of gear
 **Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you still get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
 
 > #### Tech Levels
-> \
-> Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make: \
-> \
-> TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age \
-> TL 1 - Modern Age \
-> TL 2 - Near Future (mechs, cyborgs, laser weapons) \
-> TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology) \
-> \
+>
+> Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make:
+>
+> TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age
+> TL 1 - Modern Age
+> TL 2 - Near Future (mechs, cyborgs, laser weapons)
+> TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology)
+>
 > When planning a campaign, the GM can specify which tech level (or levels) the campaign will use. For example, a typical sword and sorcery campaign would be set at tech level 0, while a steampunk campaign would probably use a good mix of tech levels 0 and 1.
-> \
-> \
-> **Mixing Tech Levels** \
+>
+>
+> **Mixing Tech Levels**
 > You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
 
-\
-\
+
+
 
 
 ## Armor
 
 The armor table details various types of protection that you might equip in order to keep yourself from harm. Like the Weapons and Implements table, it features examples from a variety of genres that can easily be adapted to fit your campaign. Armor provides a bonus to your Guard defense, thus reducing or negating the damage that you would suffer from many types of attacks.
+
+\page
+
+<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
 
 The Armor table summarizes the following properties of each type of armor:
 
@@ -212,7 +248,7 @@ The Armor table summarizes the following properties of each type of armor:
 
 **Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
-<div class="table-no-body"></div>
+
 | Armor |
 | - |
 | |
@@ -225,8 +261,8 @@ The Armor table summarizes the following properties of each type of armor:
 | Yoroi Armor, Plate Mail, Riot Suit | Heavy | 2 | 3 | 3 | 5' |
 | Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
 
-\
-\
+
+
 
 
 ### Getting in and out of Your Armor
@@ -267,6 +303,9 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions you made in steps 2 and 3. Then, compare the weapon to others of similar power. If necessary, adjust the wealth level up or down slightly so that it is an accurate representation of the item's overall influence on the story and intended power level compared to other items.
 
+\page
+
+<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
 
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 >

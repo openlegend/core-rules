@@ -1,8 +1,7 @@
 <style>
   .phb#p1{ text-align:center; }
   .phb#p1:after,
-  .phb#p2:after,
-  .phb#p3:after{
+  .phb#p2:after,{
     display:none;
   }
 </style>
@@ -44,9 +43,12 @@ Thanks to our many thousands of playtesters.
 
 </div>
 
+
 \page
 
 <img class="full-page cover-all"
   src="http://localhost:8888/_full_page/Sci%20Fi%20Birthing%20Pod%20-%20Mahea%20Rodrigues.jpg" />
 
+
 \page
+

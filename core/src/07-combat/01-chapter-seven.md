@@ -1,12 +1,24 @@
-# Chapter 7: Combat #
+# blank to get Left / Right ordering
+# started on LEFT
 
-Sometimes, the well-meaning but far too honest paladin blows your cover.
+\page
 
-Sometimes, the trigger-happy gunslinger gives away your position.
+<div class='footnote'>CHAPTER 7: COMBAT</div>
 
-Sometimes, negotiations fail.
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/scifi_melee_forrest_imel.jpg" />
 
-That's when combat ensues. In this chapter, you'll learn all the rules for fighting strategic and epic battles.
+\page
+
+<div class='footnote'>CHAPTER 7: COMBAT</div>
+
+# Chapter 7: Combat
+
+Sometimes, the well-meaning but far too honest paladin blows your cover. Sometimes, the trigger-happy gunslinger gives away your position.
+Sometimes, negotiations fail. <br><br>
+That's when combat ensues. <br><br>
+
+ In this chapter, you'll learn all the rules for fighting strategic and epic battles.
 
 ## When Combat Ensues
 
@@ -32,36 +44,40 @@ When taking turns in combat, characters act in order from highest initiative sco
 
 If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
 
-> #### Example of Initiative and Surprise
+> ##### Example of Initiative and Surprise
 >
 > Zak and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
 >
 > Zak and Jalani roll Agility to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Zak was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 >
->> Zak (Agility 2) rolls 1d20 + 1d6, and gets a 14.
->>
->> Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
->>
->> The gravity worms (Agility 3) roll 1d20 + 1d8, and get an 11.
+> - Zak (Agility 2) rolls 1d20 + 1d6, and gets a 14.
+> - Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
+> - The gravity worms (Agility 3) roll 1d20 + 1d8, and get an 11.
 >
 > The final initiative order is as follows:
 >
->> **Non-surprised Combatants**
->>
->> Jalani 25 (On her first turn, she must draw her Las Pistol)
->>
->> Gravity Worms 11
->>
->> **Surprised Combatants**
->>
->>  Zak 14
+> **Non-surprised Combatants**
+>
+> - Jalani 25 (On her first turn, she must draw her Las Pistol)
+> - Gravity Worms 11
+>
+> **Surprised Combatants**
+>
+> - Zak 14
 
 
 ### Waiting to Act
 
 If you do not wish to act when your turn comes, you may choose to defer your turn, either by waiting or by preparing to react in response to some sort of situation. If you wait, you may take your turn at any time after another character has finished their turn but before another character has begun.
 
-If you are preparing to react, then you should give a general description of what you are preparing for, such as "I'll act when a threat to come through the door" or "I'm readying my bow to shoot at an enemy who goes for the altar." When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
+If you are preparing to react, then you should give a general description of what you are preparing for, such as "I'll act when a threat to come through the door" or "I'm readying my bow to shoot at an enemy who goes for the altar." When the triggering action occurs, you may choose
+
+\page
+
+<div class='footnote'>CHAPTER 7: COMBAT</div>
+
+
+to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
 
 If, by the end of the round, your triggering conditions were not met, you may take your turn as usual.
 
@@ -80,12 +96,11 @@ When your turn in the initiative order comes, you are allowed one major action, 
 
 Major actions are what you take to get big things done in combat. Your major action can be taken to do one of the following:
 
--   Make a damaging attack
--   Make a bane attack
+- Make a damaging attack
+- Make a bane attack
 -   Invoke a boon
--   Assist an Ally
+- Assist an Ally
 -   Take an extra move action
-
 
 Each of these actions is explained below.
 
@@ -93,27 +108,19 @@ Each of these actions is explained below.
 
 A damaging attack is one in which you are strictly aiming to reduce your foe’s hit points.  When you want to attack a target, follow these steps:
 
-1. **Determine attribute vs. defense.** Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
-
-1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or non-physical attack.
-
-1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
+ 1. **Determine attribute vs. defense.** Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
+ 1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or non-physical attack.
+ 1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
 
 These steps are explained in more detail below.
 
-<br><br>
+___
+##### Damaging Attacks
 
-<div class="table-no-body"></div>
-| Damaging Attacks |
-| - |
 | |
-<div class="table-no-head"></div>
-| |
-| - |
+| :-: |
 | **Attack Roll Total** - **Target Defense** = **Damage Dealt** *(minimum of 3 on success)* |
 | *(**Exceptional Success** - trigger a bane or disrupt concentration if total is 10 or more over defense)* |
-
-<br><br>
 
 
 ##### Determine Attribute Versus Defense
@@ -133,6 +140,36 @@ Non-physical attacks are more open-ended and often require the GM to decide the 
 - **Guard** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame, magical wall of blades, or a laser beam.
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
 - **Resolve** guards against mental assaults and deceptions, such as attacks from a phantasmal beast or damage caused by an illusory pit.
+
+##### Choose Your Target
+
+You must choose a target within range of the type of attack you are making:
+
+**Melee physical attacks** target foes that are within reach of you.
+
+**Projectile physical attacks** can target foes within the range of the weapon being used at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
+
+**Non-physical attacks** have a range determined by the score of the attribute being used, as detailed in the Non-Physical Attack Range table. Unlike projectile weapons, non-physical attacks cannot extend beyond their normal range.
+
+___
+##### Non-Physical Attack Range
+
+| | | | |
+| - | :-: | :-: | :-: |
+| Attribute Score | 1 - 3 | 4 - 6 | 7 - 9 |
+| Range | 25 feet | 50 feet | 75 feet |
+
+
+<br>
+
+> ##### Ranged Attacks in Melee
+>
+> Any time you make a ranged attack and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
+>
+
+
+\page
+
 
 > ##### Using Attributes to Inflict Damage
 >
@@ -160,33 +197,6 @@ Non-physical attacks are more open-ended and often require the GM to decide the 
 >
 > The remaining attributes don't really lend themselves to damage. Without a *very* good explanation, the following cannot be used for damaging attacks: fortitude, learning, perception, will, deception, persuasion, presence, creation, prescience.
 
-##### Choose Your Target
-
-You must choose a target within range of the type of attack you are making:
-
-**Melee physical attacks** target foes that are within reach of you.
-
-**Projectile physical attacks** can target foes within the range of the weapon being used at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
-
-**Non-physical attacks** have a range determined by the score of the attribute being used, as detailed in the Non-Physical Attack Range table. Unlike projectile weapons, non-physical attacks cannot extend beyond their normal range.
-
-<div class="table-no-body"></div>
-| Non-Physical Attack Range |
-| - |
-| |
-<div class="table-no-head"></div>
-| | | | |
-| - | - | - | - |
-| Attribute Score | 1 - 3 | 4 - 6 | 7 - 9 |
-| Range | 25 feet | 50 feet | 75 feet |
-<br><br>
-
-> ###### Ranged Attacks in Melee
->
-> Any time you make a ranged attack and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
->
-
-<br><br>
 
 ##### Roll Your Attack
 
@@ -198,12 +208,8 @@ If your attack roll exceeds the target's defense by 10 or more, you may apply on
 
 As an alternative to triggering a bane, you may choose to disrupt the target's concentration. You cancel a single boon being sustained by the target of your attack. If your attack targeted multiple foes, then you may cancel one boon being sustained by each target.
 
-<br><br>
-
-> #### Combat on a Grid
-> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
-
-<br><br>
+```
+```
 
 ##### Multi-targeting
 
@@ -214,6 +220,9 @@ Targeting more than one foe causes disadvantage on your attack roll, as describe
 ###### Melee Multi-targeting
 
 You may target any number of foes that are within your reach. When targeting more than one foe, you suffer disadvantage equal to the number of foes targeted (2 targets = disadvantage 2, 3 targets = disadvantage 3, etc.)
+
+> ##### Combat on a Grid
+> Many players prefer to conduct combat on a grid of squares using miniatures or tokens to represent combatants. In this style of play, each square on your grid represents a 5' by 5' square. Movement only occurs in increments of 5 feet, and you must have at least 5' of movement remaining in order to enter a new square. Combatants may not move diagonally across the corner of square containing a solid object that would restrict movement, such as a tree, building, or boulder.
 
 ###### Ranged Multi-targeting
 
@@ -229,31 +238,43 @@ Area attacks are only possible when you are using an extraordinary attribute, un
 
 **Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone, unless it's 5' long, which does not incur disadvantage.
 
-<div class="table-no-body"></div>
-| Multi-Targeting Summary |
-| - |
-| |
-<div class="table-no-head"></div>
+
+\page
+
+___
+##### Multi-Targeting Summary
+
+
 | | |
 | - | - |
 | **Melee Attacks** | Disadvantage = number of targets. |
-| **Ranged Attacks** | Disadvantage = number of targets. <br /> Max 5 targets. Must be within a 25' square. |
+| **Ranged Attacks** | Disadvantage = number of targets. Max 5 targets. Must be within a 25' square. |
 | **Cube** | Disadvantage = 1 per 5' of length of cube. |
 | **Line** | Disadvantage = 1 per 5'x10'x10' line. |
 | **Cone** | Disadvantage = 1 per 5' length of cone. |
+
 
 
 #### Make a Bane Attack
 
 Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in Chapter 6: Banes & Boons. While targets may be effected by multiple banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (such as the *fatigued* bane).
 
+
+
 Resolving a bane attack is very similar to making a damaging attack, except where indicated in the following steps:
 
 1. **Determine attribute vs. defense.** The [bane descriptions](http://www.openlegendrpg.com/banes) indicate which attributes you can use to inflict a bane as well as the targeted defense.
-
 1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options. Note that banes invoked with Agility or Might require a weapon or natural attack, and are thus limited by the range of the attack.
-
 1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
+
+
+You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the boon descriptions in Chapter 6: Banes & Boons. To invoke a boon, follow these steps:
+
+#### Invoke a Boon
+
+1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options. If you later sustain this boon, that use of the sustain action persists the boon for all targets affected by the original invocation.
+1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](#boon-descriptions).
+1. **Determine power level.** Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
 
 > ##### Example Bane Attacks
 >
@@ -267,26 +288,19 @@ Resolving a bane attack is very similar to making a damaging attack, except wher
 >
 > Zarthakis, the great wyrm, is surrounded by a party of 4 adventurers. He unfurls the full fury of his wings and bellows a mighty roar, instilling terror in his foes as he attempts to inflict the *demoralized* bane using his Presence attribute. The dragon's Presence is 8, giving him a range of 75', quite enough to target all of the heroes. Because Zarthakis is multi-targeting 4 foes, he has disadvantage 4 on his action roll. Normally, he would roll 1d20 + 3d8, but because he has disadvantage, the wyrm rolls 1d20 + 7d8 (keeping the lowest 3 d8s). His total score is 22, which he compares to each target's Resolve defense score separately. The heroes have Resolve scores of 14, 17, 22, and 25, so the dragon manages to inflict the bane on three of the four.
 
-You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the boon descriptions in Chapter 6: Banes & Boons. To invoke a boon, follow these steps:
-
-#### Invoke a Boon
-
-1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options. If you later sustain this boon, that use of the sustain action persists the boon for all targets affected by the original invocation.
-
-1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](#boon-descriptions).
-
-1. **Determine power level.** Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
 
 
-<div class="table-no-body"></div>
-| Boon Challenge Rating |
-| - |
-| |
-<div class="table-no-head"></div>
+
+___
+##### Boon Challenge Rating
+
 | | | | | | | | | | | |
 | - | - | - | - | - | - | - | - | - | - | - |
 | **Power Level** | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | **Challenge Rating** | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 28 |
+
+
+\page
 
 > ##### Example Boon Invocations
 >
@@ -344,19 +358,25 @@ Many banes will persist for a longer duration after three failed resist attempts
 
 Minor actions are tasks that don't require much time or effort, but often set up larger actions. You may take any number of minor actions on your turn, but you cannot take more than one of the same type of minor action. Minor actions include the following:
 
--   Make an opportunity attack
--   Sustain a boon
--   Draw or sheathe a weapon
--   Retrieve an item stored on your person
--   Make a Perception roll to observe your surroundings
--   Make a Learning roll to recall useful information
--   Open a door, chest, drawer, etc.
+- Make an opportunity attack
+- Sustain a boon
+- Draw or sheathe a weapon
+- Retrieve an item stored on your person
+- Make a Perception roll to observe your surroundings
+- Make a Learning roll to recall useful information
+- Open a door, chest, drawer, etc.
+
 
 #### Make an Opportunity Attack
 
 An opportunity attack is a special kind of minor action because it does not take place during your turn. If you are wielding a melee weapon, and an enemy moves from a space within your reach to a space that is not within your reach, you may make a free attack against the enemy. (Note that, as a minor action, you may only make one opportunity attack per round).
 
+\page
+
+
 Only voluntary movement made on the moving character's turn trigger opportunity attacks. Movement caused by a foe's *forced move* bane or an ally's *telekinesis* boon, for example, does not trigger opportunity attacks.
+
+
 
 > ##### Opportunity Attack Examples
 >
@@ -412,6 +432,8 @@ If your attribute roll is higher than the targeted defense score, then your roll
 
 Once per round as part of your defend action, you may also move up to half of your speed at any time during your action. If you are defending an ally and are adjacent to them at any point during your defend action, they may also move up to half of their speed. Neither you nor your ally provoke opportunity attacks with this movement. This movement cannot negate the original attack, even if it takes the defended character out of the reach or area of the attack.
 
+\page
+
 > ##### Defend Examples
 >
 > Vera is nearing death when the River Troll lunges at her. The troll rolls a 23 against Vera's Guard of 17, so she uses a defend action to catch the troll's arms before he can rend her to death. Vera makes a Might roll and gets a 20, so her roll replaces her Guard, causing her to suffer 3 points of damage instead of 6. Because defend is an interrupt action, when Vera's turn in the initiative comes, she does not get a major action.
@@ -436,7 +458,9 @@ Your hit points (HP) are an abstract measure of your character's ability to igno
 
 When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a *finishing blow* and may cause immediate death. Your defense against a finishing blow does not include any bonus from your attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you are dead.
 
-> #### Finishing Blow Example
+<div style="height: 40px;"></div>
+
+> ##### Finishing Blow Example
 >
 > Ulric's usual Guard defense is 20 (+3 plate mail, +5 Might, +2 Agility). However, he is unconscious when an assassin cuts his throat, dealing a *finishing blow*. Against this attack, Ulric does not include his attribute bonuses, so his Guard is reduced to 13. The assassin rolls a 22 on his attack, dealing 9 damage to Ulric. Furthermore, Ulric must make a Fortitude roll CR 19 or die.
 
@@ -454,17 +478,21 @@ Lethal damage is used sparingly in Open Legend as a way for GMs to paint a pictu
 
 When a character suffers lethal damage, their maximum hit point total is reduced by the amount of lethal damage it sustains. The maximum lethal damage a creature can accrue is equal to its maximum hit points. If a creature sustains lethal damage greater than or equal to its maximum hit point total, the creature is unconscious until it heals at least 1 hit point of lethal damage.
 
-> #### Lethal Damage Example
+> ##### Lethal Damage Example
 >
 > Trish is at full health with 22 hit points when she steps on a land mine which deals 8 points of lethal damage. Her current hit points are now 14, and her hit point maximum is also reduced to 14 until she can heal the lethal damage.
 
 #### Healing Lethal Damage
 
-Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor, any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant's Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
+Lethal damage is more difficult to heal then regular damage, healing at a rate of 1 hit point per day per Fortitude attribute point (minimum of 1 hit point). With the full-time attendance of a capable healer or doctor,
+
+\page
+
+any number of characters who are located in the same area and avoid strenuous activity heal at an additional rate equal to their attendant's Creation, Presence, or Learning score. Multiple attendants do not cumulatively improve this accelerated healing rate (the bonus is simply equal to the highest score among attendants).
 
 For example, a warrior with Fortitude 4 heals 4 lethal damage per day on their own. With the assistance of a physician with a learning score of 8, the same warrior would heal at a rate of 12 lethal damage per day.
 
-> ### Critical Hits (Optional Rule)
+> ##### Critical Hits (Optional Rule)
 >
 > To add a more gritty realism to to a game, GMs can implement the optional critical hits rule.
 >
@@ -476,26 +504,29 @@ The core mechanic of Open Legend is meant to inspire creativity in players and G
 
 Some GMs might love that kind of challenge, and for them, **the core mechanic can be used in combat in the same way it is in every other part of the game**. GMs who want something a little more streamlined **may use the following modification** to the usual core mechanic in combat:
 
-<div class="table-no-body"></div>
-| The Action Roll for Attacks <br /> Roll 1d20 + attribute dice (all dice explode) |
+
+|  |
 | - |
-| |
+| **The Action Roll for Attacks <br /> Roll 1d20 + attribute dice (all dice explode)** |
 
 | If the action roll... | then the result is... |
 | :- | :- |
 | equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of power level <= 3 <br /> Move 10' w/o opportunity attacks |
+| is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> <br /> &bull; Deal 3 damage <br /> &bull;  Inflict 1 bane of power level <= 3 <br /> &bull;  Move 10' w/o opportunity attacks |
 
 With these modified rules, a player's failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
 
-> ### Example of the Core Mechanic in Combat
+<div style="height: 40px;"></div>
+<div style="height: 40px;"></div>
+<div style="height: 40px;"></div>
+
+> ##### Example of the Core Mechanic in Combat
 >
 > Vera hurls herself at the red dragon attempting to cut through his
 scaly hide. However, her attack roll fails to hit the dragon's Guard
 of 25. She chooses to inflict 3 damage, but the GM also gets a choice.
 >
-> He chooses to inflict the *knockdown* bane: The dragon's tail lashes
-around and sweeps Vera to the floor.
+> He chooses to inflict the *knockdown* bane: The dragon's tail lashes around and sweeps Vera to the floor.
 
 ### Why Succeed on a Failed Roll?
 
@@ -505,16 +536,6 @@ Some players might wonder why a PC still gets a taste of success even when their
 
 Those GMs who would like to use the usual methods for interpreting failed rolls may struggle to create interesting outcomes on the fly, especially if they have prior experience with more binary rules systems. This section aims to inspire GMs with several examples of how to interpret *success with a twist* and *failure but the story progresses* in a variety of combat situations.
 
-> #### Twist or Failure?
->
-> A common question that you may have as a GM, especially when it comes to interpreting failed combat rolls, is *Should I use a success with a twist or an outright failure?* There is no hard and fast rule dictating which option should be applied - it is left completely to the discretion of the GM so that you may steer the story in the most desirable and exciting direction for any given situation.
->
-> To that end, whenever a player fails a roll, you should ask yourself a few questions along these lines:
-> - *Has the fight been too easy for the players?* If so, a complete failure could raise the severity of the threat.
-> - *Has the fight been too hard?* Then throwing the PCs a bone would help balance things out a bit.
-> - *Have the dice been exceedingly for or against one side?* A partial success or complete failure can undo the fickle fate cast by the dice.
-> - *Has the combat been running too long?* Choose the option that is more likely to end it quickly.
-> - *What would be the most dramatic action right now?* Remember that the goal of Open Legend is to tell a great story. Think about which outcome would be most memorable for your players several weeks from now.
 
 #### Success with a Twist in Combat
 
@@ -532,7 +553,22 @@ In the examples scenarios that follow, you’ll witness several of these at play
 
 ##### Put a Character in Danger
 
-Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that his ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
+Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that
+
+\page
+
+> ##### Twist or Failure?
+>
+> A common question that you may have as a GM, especially when it comes to interpreting failed combat rolls, is *Should I use a success with a twist or an outright failure?* There is no hard and fast rule dictating which option should be applied - it is left completely to the discretion of the GM so that you may steer the story in the most desirable and exciting direction for any given situation.
+>
+> To that end, whenever a player fails a roll, you should ask yourself a few questions along these lines:
+> - *Has the fight been too easy for the players?* If so, a complete failure could raise the severity of the threat.
+> - *Has the fight been too hard?* Then throwing the PCs a bone would help balance things out a bit.
+> - *Have the dice been exceedingly for or against one side?* A partial success or complete failure can undo the fickle fate cast by the dice.
+> - *Has the combat been running too long?* Choose the option that is more likely to end it quickly.
+> - *What would be the most dramatic action right now?* Remember that the goal of Open Legend is to tell a great story. Think about which outcome would be most memorable for your players several weeks from now.
+
+his ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
 
 ##### Expend a Resource
 
@@ -544,7 +580,10 @@ Soaring over the skyline of New Tokyo, two gangs of Psi-mech Punks settle their 
 
 ##### Lose a Friend
 
-The Tactical Assault Team is under heavy fire within the cavernous tunnels of the Bogan homeworld when Jaaxy hurls a grenade to thin out the enemy numbers. Unfortunately, she was never particularly diligent about her equipment checks, and two of her grenade pins were intertwined. Both activate, and while she manages to throw one successfully, the other falls at her feet. Her team is forced to scramble, and the blast from the grenade causes a cave-in. When the dust settles, the team has been separated by a wall of fallen rock, with plenty of Bogans left for each group to deal with.
+The Tactical Assault Team is under heavy fire within the cavernous tunnels of the Bogan homeworld when Jaaxy hurls a grenade to thin out the enemy numbers. Unfortunately, she was never particularly diligent about her equipment checks, and two of her grenade pins were
+
+___
+intertwined. Both activate, and while she manages to throw one successfully, the other falls at her feet. Her team is forced to scramble, and the blast from the grenade causes a cave-in. When the dust settles, the team has been separated by a wall of fallen rock, with plenty of Bogans left for each group to deal with.
 
 ##### Overlook an Important Detail
 
@@ -569,6 +608,8 @@ Chapter 2 presents the fact that in Open Legend failure is never just a failure.
 - The player finds an opportunity for success
 - The danger snowballs
 - The information is false
+
+\page
 
 In the following scenarios, you’ll read several examples of how these interpretations can be applied in the context of a combat roll.
 
