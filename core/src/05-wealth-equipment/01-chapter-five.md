@@ -175,7 +175,6 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-
 **Banes** indicate specific banes that the weapon is particularly effective at inflicting. You may use the weapon to inflict the listed banes even if you are not using one of the attack attributes listed in the bane description. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 
