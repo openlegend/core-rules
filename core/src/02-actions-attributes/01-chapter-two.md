@@ -57,7 +57,7 @@ ___
 Notice how both of these options allow Pelias's action to drive the story forward just as much as a successful roll would have.
 
 
-### What NOT to do
+### What NOT To Do
 
 In the above example, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In Open Legend, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll.  The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
 
@@ -212,7 +212,7 @@ In certain scenarios, the success of an action relies on the skills of multiple 
  src="http://localhost:8888/_not_full_page/War%20God%20-%20Biagio%20D%27alessandro.jpg" />
 
 
-<div class="wide" style="padding-top: 1900px;"></div>
+<div class="wide" style="padding-top: 1930px;"></div>
 
 ___
 as if it were a single action roll, rather than interpreting each action roll separately.
@@ -231,13 +231,13 @@ If a situation arises in which you are assigned both advantage and disadvantage,
 
 When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
 
-<div style="padding-top: 30px;"></div>
+<div style="padding-top: 10px;"></div>
 
 > ##### Example: Advantage
 >
 > Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. The d20 rolls a 16 and the 4d10 roll 3, 5, 7, and 9. She removes the lowest d10 before calculating her total, leaving her with a final roll of 16 + 5 + 7 + 9 = 37.
 
-<div style="padding-top: 40px;"></div>
+<div style="padding-top: 10px;"></div>
 
 > ##### Example: Disadvantage
 >
@@ -245,7 +245,7 @@ When you have advantage on an action, roll an extra number of attribute dice equ
 
 \page
 
-
+<div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
 
 Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
 
@@ -318,7 +318,6 @@ Before making an action roll, the PC declares how many legend points they are sp
 \page
 
 <div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
-
 
 
 ## Attributes and <br>Action Rolls in Play
@@ -464,7 +463,6 @@ While traversing the jungle planet Thox, Selena encounters a race of alien squid
 
 <div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
 
-
 **Failure, but the story progresses:** In her attempt to learn the language, Selena mimics several of the gurgles and hisses of the squid men. They take her mimicry as an insult, and they are on the verge of taking her prisoner if she cannot find a way to make peace.
 
 #### Epic Test of Learning (CR 25)
@@ -559,6 +557,7 @@ Therilas attempts to track a pixie through the Fey Wood. The trail is two days o
 
 \page
 
+<div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
 
 ### Will
 
@@ -760,15 +759,15 @@ Jaaxy is trying to gain entrance into the headquarters of the Order of Outlander
 
 **Success with a twist:** Jaaxy's keystone is good enough to get her through the door. However, it loses its biometric attunement shortly after she enters the headquarters.
 
-**Failure, but the story progresses:** Jaaxy thinks her creation is perfect, but the door guards aren't fooled so easily. They call her on the forgery and imprison her. She's within the headquarters now, just not on her own terms.
+**Failure, but the story progresses:** Jaaxy thinks her creation is perfect, but the door guards aren't fooled so easily. They identify the forgery and imprison her. She's within the headquarters now, just not on her own terms.
 
 
 #### Heroic Test of Creation (CR 20)
 
-Therilas is attempting to lead a party of refugees safely through the Decaying Desert. Were he in the woods, the druid could easily forage enough food and water to keep
+Therilas is attempting to lead a party of refugees safely through the Decaying Desert. Were he in the woods, the druid could easily forage enough food and water to keep them alive. Lost in the desert, however, he is forced to
 
 ___
-them alive. Lost in the desert, however, he is forced to use his magic to summon forth sustenance for the desperate masses.
+use his magic to summon forth sustenance for the desperate masses.
 
 
 **Success with a twist:** The only way that Therilas is able to harness enough energy to feed so many people is to draw on his own life reserves. The GM rules that he suffers one level of the *fatigued* bane.
@@ -783,7 +782,7 @@ Father Ezekiel is stranded on a jungle island. He attempts to use divine magic t
 
 **Success with a twist:** The GM rules that Father's magic will only be strong enough to create the airship if he can find a magical focus of appropriate power somewhere within the island.
 
-**Failure, but the story progresses:** Father thinks he has crafted a skyworthy vessel. However, shortly after taking to the sky, the magic binding his ship together unweaves, and he is forced to swim against the tides or die trying.
+**Failure, but the story progresses:** Father thinks he has crafted a skyworthy vessel. However, shortly after taking to the sky, the magic binding the ship  unweaves, the party must think fast as the ship begins to plummet to the ground below.
 
 ### Energy
 
@@ -791,15 +790,14 @@ Energy is the extraordinary attribute that governs the control and creation of e
 
 #### Challenging Test of Energy (CR 15)
 
-Asger and Hertha have trekked long and hard through the frozen Fjords of the Titans, and as night falls they manage to take shelter in a cave before the midnight winds drop the temperature to deadly levels. Still, the cave is cold, and though Asger starts a meager fire to keep them warm, Hertha attempts to use her fire magic to maintain and multiply the heat so that they can both rest peacefully.
+Asger and Hertha have trekked long and hard through the frozen Fjords of the Titans, and as night falls they manage to take shelter in a cave before the midnight winds drop the temperature to deadly levels. Still, the cave is cold, and though Asger starts a meager fire to keep them warm, Hertha attempts to use her fire magic to maintain and multiply the heat to ward off hypothermia.
 
 **Success with a twist:** Hertha's spell works, though the cold is stronger than she realized. In order to maintain the magic throughout the night, she must sacrifice a component of minor value to empower her charm. With the GM's approval, Hertha decides to melt down her golden bracelet to power the spell.
 
 
-**Failure, but the story progresses:** Asger's fire is enough to keep them from freezing to death, but without Hertha's magic, they are still quite frostbitten and exhausted by the morning. Both PCs suffer one level of the *fatigue* bane.
+**Failure, but the story progresses:** Asger's fire is enough to keep them from freezing to death, but without Hertha's magic, they are still quite frostbitten and exhausted by the morning. Both PCs suffer one level of the *fatigued* bane.
 
 \page
-
 
 <div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
 
@@ -877,7 +875,6 @@ Ensign Destiny attempts to convince the bouncer at the cantina that her friends 
 
 
 \page
-
 
 <div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
 
@@ -957,9 +954,7 @@ The crew is barricaded in the sporting goods store of the mall with a horde of z
 
 \page
 
-
 <div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
-
 
 loading dock  into the parking lot. Victoria, gifted with psychic abilities ever since the Event, attempts to gain a glimpse of the risk of each path. The GM knows that a handful of zombies crawl about the ducts and that an entire horde lurks in the loading dock.
 

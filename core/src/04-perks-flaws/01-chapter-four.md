@@ -6,6 +6,8 @@
 
 <div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
 
+# Needs Illustration
+
 <!-- <img class="full-page cover-all"
  src="http://localhost:8888/seventh_sphere_logo.svg" /> -->
 
@@ -386,3 +388,9 @@ You let no slight go unpunished. While some might be able to shake off an insult
 ### Zealous
 
 You stand for a cause—whether it is a religion, a nation, a code, a way of life, or otherwise—and you will push the boundaries of normal behavior to uphold your cause. This might mean that you make yourself a social outcast by attempting to convert others to your cause, or it could mean that you are willing to perform an act you might otherwise consider evil, such as putting innocent lives in danger, if doing so would promote your cause.
+
+
+\page
+
+# blank to get Left / Right ordering
+# started on LEFT with NEXT CHAPTER

@@ -6,7 +6,7 @@
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 <img class="full-page cover-all"
- src="http://localhost:8888/seventh_sphere_logo.svg" />
+ src="http://localhost:8888/_full_page/Wolf%20-%20saryth%20chareonpanichkul.jpg" />
 
 \page
 
@@ -65,6 +65,8 @@ The **twist** in an adventure is a surprise that throws the party off course or 
 
 \page
 
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
 the Librim Protectis in the hands of a local book dealer who swears he has no idea how it fell into his hands. And perhaps the night before the Bogans are set to launch their attack, the planetary defense matrix uncovers a swarm of interdimensional space mites that have just phased into existence for no apparent reason.
 
 When planning an adventure, it's usually fine to start with nothing more than a danger to overcome and a motivation to get the PCs invested. You can feel free to come up with a twist ahead of time, but some of the best plot twists occur as a natural result of the party's actions.
@@ -100,8 +102,9 @@ A sandbox is so named because, to a certain extent, the players interact with th
 
 \page
 
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
-> #### Sample Sandbox Adventure Outline: The Scattered Souls
+> ##### Sample Sandbox Adventure Outline: The Scattered Souls
 >
 > **Danger:** A remote wilderness known as the Valley of Souls is home to a large collection of soul shards, magical crystals containing the lost souls of those killed in a cataclysmic war centuries ago. A team of angelic servants, called the Collectors, have been charged with retrieving these souls throughout the cosmos and returning them to their proper resting places among the outer planes. Unfortunately, two forces thwart their attempts within the Valley of Souls: a barbarian tribe whose sacred burial grounds contain the soul shards, and a demon named Vargax who seeks to devour the souls for his own.
 >
@@ -150,6 +153,7 @@ One of the best ways to keep a story interesting and keep yourself inspired is t
 
 \page
 
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 The big secret is an ideal way to start planning your campaign because it will provide you with a common thread to weave every adventure together. Think of your favorite books, movies, or games if you are struggling to come up with a big secret. It is also likely that you will include multiple secrets throughout a campaign, but starting with one core secret will help you ensure that every session has a common link.
 
@@ -200,6 +204,7 @@ Rather than constantly awarding different experience point values to different a
 
 \page
 
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 - **Level 5:** The heroes retrieve the treasure at the bottom of the Sunken Star.
 - **Level 6:** The heroes end the conflict between the barbarians and the Collectors.
@@ -259,6 +264,8 @@ So, when a combat encounter ends, instead of listing off how many crossbow bolts
 
 \page
 
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
 **Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 5):
 
 - Characters can easily bribe NPCs with a **lower wealth score.**
@@ -278,7 +285,6 @@ No campaign or adventure is complete without monsters for the heroes to defeat o
 
 Henchman is a general term to describe any antagonist who simply exists as a small obstacle to the party's short term plans. Examples of henchmen include a wandering band of space pirates that waylays the party mid-flight, a mindless ooze roaming the deep corners of a cavernous dungeon, and a team of assassins dispatched by the local mob boss to put an end to the heroes' meddling. While henchmen typically have realistic motives, their influence on the plot is small enough that you don't need to spend as much energy to make your henchmen deep and convincing. The pirates are motivated by greed, the ooze by hunger, and the assassins by loyalty to their guild.
 
-\
 
 ### Villains
 
@@ -309,6 +315,8 @@ Whatever sorts of allies the party has acquired, it's important for the GM to ab
 If you find the NPCs in your game frequently taking these or similar roles, then there's a good chance your players might become frustrated.
 
 \page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 Sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a villainous mad scientist uses a poisonous gas to control the minds of a group of soldiers and commands them to attack the players. A powerful ally NPC might use her medical knowledge to create an anti-toxin to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn't capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the dominated soldiers and preventing them from harming anyone.
 
@@ -365,6 +373,9 @@ ___
 Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3.
 
 \page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
 ___
 Feel free to select any feat found in Chapter 3 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
 
@@ -434,6 +445,8 @@ ___
 - **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 
 \page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
 
@@ -506,6 +519,8 @@ ___
 A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be
 
 \page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 subject to a finishing blow unless its hit point total has been reduced to zero. Furthermore, a boss NPC gets advantage on all attack rolls equal to its boss edge score.
 
@@ -587,6 +602,8 @@ Rarely do epic movie fight scenes take place in an empty chamber. There are usua
 
 \page
 
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
 ___
 PCs to make meaningful decisions with their move actions.
 
@@ -642,6 +659,8 @@ When determining how a fight ends, remember to consider the motivations of the c
 When planning your encounters, you do not need to strive for balance, but you should aim to be fair to your players.
 
 \page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 Video games are balanced: they are designed to present players with incremental challenges that grow in difficulty alongside the power of the player. Because of the inherent lack of openness and choice in most video games, players would easily get frustrated if the challenges weren't balanced to their progress in the game.
 

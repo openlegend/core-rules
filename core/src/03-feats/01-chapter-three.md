@@ -282,7 +282,7 @@ ___
 - **Cost:**  2 points
 - **Prerequisites:**
  - **Tier 1 - 2:** Agility 4
-- **Description:** Your are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed.
+- **Description:** You are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed.
 - **Effect:**
 - **Tier 1** - As long as you are conscious and able to act, reduce all falling damage by half.
 - **Tier 2** - As long as you are conscious and able to act, you do not suffer falling damage.
