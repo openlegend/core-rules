@@ -676,7 +676,11 @@ As a GM, you don't need to have any anxiety over putting an impossible challenge
 
 ## Attributes and <br>Action Rolls in Play
 
-As previously explained, whenever you need to determine the outcome of a meaningful task, you make an action roll using an attribute appropriate to the task. Sometimes, the results of your roll will be very clearly spelled out in the rules, such as when making attacks or invoking banes and boons. Oftentimes, though, you'll want to attempt an action that isn't spelled out explicitly in the rules. In this section, you'll find examples of the sorts of actions you can accomplish with every attribute, as well as some suggested interpretations of “success with a twist” and “failure, but the story progresses” for those times when the dice just don't go your way.
+The primary focus of this chapter so far has been to help GMs prepare for the game: outlining campaigns, plotting adventures, and developing encounters. Eventually, all of that hard work will come to fruition, and the time will come to actually run a game for your players. To close this chapter, we offer inspiration for one of the biggest challenges you'll face while GMing a session of Open Legend: interpreting action rolls.
+
+As previously explained, whenever a character needs to determine the outcome of a meaningful task, they make an action roll using an appropriate attribute. Sometimes, the results of the roll will be very clearly spelled out in the rules, such as when making attacks or invoking banes and boons. Oftentimes, though, PCs want to attempt an action that isn't spelled out explicitly in the rules. As game master, it's your job to decide what players can do with their attributes, set an appropriate challenge rating, and interpret the result of their roll.
+
+While deciding what a successful action looks like is usually pretty straightforward, interpreting a failure often requires a bit of creativity and improvisation. In this section, you'll find examples of the sorts of actions that PCs can accomplish with every attribute, as well as some suggested interpretations of “success with a twist” and “failure, but the story progresses”.
 
 For each attribute, we offer examples of actions classified at three levels based on difficulty and extent of impact on the narrative:
 
