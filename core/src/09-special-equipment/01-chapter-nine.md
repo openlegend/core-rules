@@ -478,7 +478,7 @@ An extraordinary item can grant access to one or more attribute, bane, or boon. 
 
 Each attribute, bane, and boon increases the wealth level of the item according to the following tables.
 
-| Score | Bane / Boon WL |  Attribte WL |
+| Score | Bane / Boon WL |  Attribute WL |
 | :-: | :-: | :-: |
 | 1 - 3 | +1 | +2 |
 | 4 - 5 | +2 | +3 |
