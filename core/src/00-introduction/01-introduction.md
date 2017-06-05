@@ -32,10 +32,7 @@
 
 Welcome to Open Legend, a tabletop roleplaying game (or RPG) in which the players take the part of mighty heroes and wicked villains in order to tell stories of epic proportion. As in the vignettes above, every game of Open Legend revolves around intrepid characters performing heroic deeds. They will fight mythic beasts, outsmart cunning foes, break ancient curses, crack baffling cases, discover untold treasures, and more.
 
-If you have never played a roleplaying game before, you can think of it as a movie in which the actors make up the script (and even much of the plot) as the movie is being shot. One player, called the **Game Master** (or GM), acts as producer, director, and writer. The GM establishes the setting, creates the antagonists, and develops enough
-
-___
-plot to get the other players started. The GM also acts out the part of the villains and neutral characters in the story.
+If you have never played a roleplaying game before, you can think of it as a movie in which the actors make up the script (and even much of the plot) as the movie is being shot. One player, called the **Game Master** (or GM), acts as producer, director, and writer. The GM establishes the setting, creates the antagonists, and develops enough plot to get the other players started. The GM also acts out the part of the villains and neutral characters in the story.
 
 
 The rest of the players take the role of **Player Characters** (or PCs). The PCs are the protagonists of the story. In a high fantasy setting, one PC might be a dwarven warrior with a lust for gems, another an immortal elven wizard whose only desire is knowledge, and still another a half-angelic priest who travels the world in order to inspire others to act justly. In another game of Open Legend, the players might star as a rag tag crew of space pirates living from score to score on their barely functioning merchant class starship. All the common tropes could make an appearance: the reckless pilot, the brash captain with a troubled past, the hired gun, the stowaway, and the engineer who gets along with the ship better than with the crew.
@@ -92,7 +89,7 @@ Open Legend straddles the line between storytelling and rules mechanics by givin
 
 We hope that we've built a game for players who love to tell a good story but don't want every decision to be made on a whim.
 
-We hope that we've built a game for players who love to shake the dice and see them roll but don't want to spend
+We hope that we've built a game for players who love to shake the dice and see them roll but don't want to spend 
 
 ___
 hours min-maxing their characters. Most of all, we hope to have built a game for players like you.
@@ -130,17 +127,4 @@ Action rolls and exploding dice are just the start of what makes Open Legend a b
 >
 > Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, the GM rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
 
-
 \page
-
-<div class='footnote'>CHAPTER 1: CHARACTER CREATION</div>
-
-
-
-<img class="full-page cover-all"
- src="http://localhost:8888/_full_page/Black_%20mage%20-%20saryth%20chareonpanichkul.jpg" />
-
-
-
-\page
-

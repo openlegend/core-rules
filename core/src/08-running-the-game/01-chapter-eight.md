@@ -3,8 +3,6 @@
 
 \page
 
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
 <img class="full-page cover-all"
  src="http://localhost:8888/_full_page/Wolf%20-%20saryth%20chareonpanichkul.jpg" />
 
@@ -84,7 +82,9 @@ To develop a sequential adventure, you just have to plot out the most logical se
 
 A sandbox is so named because, to a certain extent, the players interact with the adventure in the same way that children explore a sandbox: at their own pace and for their own reasons. In this type of adventure, there is not typically a predictable order of events. Instead, the GM populates an area with plenty of opportunities for adventure and lets the story unfold naturally based on the players' actions and the environment's reactions. Just like a sequential adventure, a sandbox often contains both location and time-based events. The adventure outline for *The Scattered Souls* details a sandbox adventure revolving around a valley wilderness in which a barbarian tribe skirmishes with angelic visitors from another plane.
 
-<br><br><br><br><br><br><br><br><br><br>
+
+Developing a sandbox adventure is similar to developing a sequential one, in that you plan out the logical sequence of events most likely to occur. In this case, however, because the PCs have so much room for decision making, the outline differs slightly. The GM plans out all of the relevant locations to the adventure, perhaps mapping and populating them if necessary. Additionally, the GM will make a list for the key actors in 
+
 
 > ##### Sample Sequential Adventure Outline: The System is Down
 >
@@ -100,16 +100,43 @@ A sandbox is so named because, to a certain extent, the players interact with th
 > 1. *The PCs discover that the hack came from Commander Zap's terminal, but they don't have enough evidence to confront him outright.*
 > 1. *Tailing Zap for a few days, the party learns that the commander has taken a transport craft to the nearby planet Dagaan. They follow him to a secret meeting with several enemy Bogans, and a battle erupts as the PCs attempt to stop the sensitive data from entering enemy hands.*
 
+___
+the adventure. The list provides a series of events that will occur if the party does nothing to intervene.
+
+
+In the above example, Vargax slowly carries out his plan to infiltrate the barbarians while the Collectors are attempting to create leverage so they can avoid an all out war with the tribes. More likely than not, when the adventure actually plays out, the GM won't end up using all of the events outlined because the party *will* do something to intervene.
+
+When planning your own sandbox adventures, it's helpful to divide the different factions involved into two categories: active and passive. You only need to create a list of events for the active factions. In the example above, the barbarians are the monkey caught in the middle, and so they are a passive faction. They don't need their own list because the plot that unfurls around them depends on the actions of the competing factions: the Collectors and Vargax.
+
+
+## Creating a Campaign
+
+In its simplest sense, a campaign is simply a string of adventures tied together by a common link. This link could simply be the party that is doing the adventuring. In this sort of episodic campaign, there may not be an 
+
+\page
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/planetary%20harvest%20-%20sci%20fi%20-%20max%20bedulenko.jpg" />
+
+
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+
+overarching plot that ties each adventure together. As long as everyone at the table is having fun, this is perfectly fine.
+
+More often than not, though, the players (and especially the GM) will want more depth in their campaign. This section contains the information you need to start telling your own ongoing stories with Open Legend.
+
+
+<br>
 
 > ##### Sample Sandbox Adventure Outline: The Scattered Souls
 >
 > **Danger:** A remote wilderness known as the Valley of Souls is home to a large collection of soul shards, magical crystals containing the lost souls of those killed in a cataclysmic war centuries ago. A team of angelic servants, called the Collectors, have been charged with retrieving these souls throughout the cosmos and returning them to their proper resting places among the outer planes. Unfortunately, two forces thwart their attempts within the Valley of Souls: a barbarian tribe whose sacred burial grounds contain the soul shards, and a demon named Vargax who seeks to devour the souls for his own.
 >
 > **Motivation:** The party happens upon the valley during their travels and are thrown into the battle when both the Collectors and the barbarians mistake the PCs for members of the opposition.
->
+> ____
 > **Locations**
 >
 > - The barbarian camps
@@ -117,12 +144,14 @@ A sandbox is so named because, to a certain extent, the players interact with th
 > - The Caverns of Chaos
 > - The Collector camp
 >
+> ___
 > **Vargax Events**
 >
-> 1. *Vargax sends an emissary to the barbarians. Vargax wins over the tribe's trust by delivering the head of a Collector.*
+> 1. *Vargax sends an emissary to the barbarians. Vargax wins over the tribe's trust by delivering the head of a Collector.*f
 > 1. *Vargax converts the barbarian shamans to worship him. The tribe as a whole begins transformation under demonic influence.*
 > 1. *Vargax displaces the barbarian chief and assumes control of the tribe.*
->
+> 
+> ___
 > **Collector Events**
 >
 > 1. *The Collectors increase reconnaissance missions surrounding the barbarian camps.*
@@ -130,17 +159,9 @@ A sandbox is so named because, to a certain extent, the players interact with th
 > 1. *Civil war erupts within the tribe, with half of the barbarians supporting the chief's decision to provide the ransom, and half opposing.*
 > 1. *Infighting reduces the tribe's strength significantly, allowing the Collectors to force their way into the burial grounds.*
 
-Developing a sandbox adventure is similar to developing a sequential one, in that you plan out the logical sequence of events most likely to occur. In this case, however, because the PCs have so much room for decision making, the outline differs slightly. The GM plans out all of the relevant locations to the adventure, perhaps mapping and populating them if necessary. Additionally, the GM will make a list for the key actors in the adventure. The list provides a series of events that will occur if the party does nothing to intervene.
+```
+```
 
-In the above example, Vargax slowly carries out his plan to infiltrate the barbarians while the Collectors are attempting to create leverage so they can avoid an all out war with the tribes. More likely than not, when the adventure actually plays out, the GM won't end up using all of the events outlined because the party *will* do something to intervene.
-
-When planning your own sandbox adventures, it's helpful to divide the different factions involved into two categories: active and passive. You only need to create a list of events for the active factions. In the example above, the barbarians are the monkey caught in the middle, and so they are a passive faction. They don't need their own list because the plot that unfurls around them depends on the actions of the competing factions: the Collectors and Vargax.
-
-## Creating a Campaign
-
-In its simplest sense, a campaign is simply a string of adventures tied together by a common link. This link could simply be the party that is doing the adventuring. In this sort of episodic campaign, there may not be an overarching plot that ties each adventure together. As long as everyone at the table is having fun, this is perfectly fine.
-
-More often than not, though, the players (and especially the GM) will want more depth in their campaign. This section contains the information you need to start telling your own ongoing stories with Open Legend.
 
 ### Plan The Big Secret
 
@@ -151,19 +172,31 @@ One of the best ways to keep a story interesting and keep yourself inspired is t
 - *A world tree is the source of the planet's life. When it dies, the world will not die, but instead be reborn in a new form. Every intelligent being is tied to an invisible spirit. A very few sinister mages, known as the Warlocks, have discovered how to see and bargain with these spirits in order to manipulate the world to their advantage.*
 - *The galactic empress who sits on the throne has a twin sister who was cast out and left for dead at birth because she was prophesied to lead the galaxy to ruin. The twin survived, raised by an evil alien entity, and she will soon return to claim the half of the empire that is her birthright.*
 
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
 The big secret is an ideal way to start planning your campaign because it will provide you with a common thread to weave every adventure together. Think of your favorite books, movies, or games if you are struggling to come up with a big secret. It is also likely that you will include multiple secrets throughout a campaign, but starting with one core secret will help you ensure that every session has a common link.
+
 
 ### Plan The Campaign Arcs
 
 Once you have your secret (or secrets) sketched out, you can begin to divide the campaign into arcs, or extended storylines that develop the plot and reveal the secrets. You can plan these out from the beginning of the campaign to the end, or you can just start with the first few legs of the campaign - enough to get you started without bogging you down. The outline for *Thank You, Dr. Livingston* imagines how a campaign revolving around one of the aforementioned secrets might develop.
 
-> #### Sample Campaign Outline: Thank You, Dr. Livingston
+Like most of the steps laid out in this guide to GMing, your campaign arcs should be planned relatively loosely to allow for players to shape the story by their own actions.
+
+
+### Plan Enough to Get Started
+
+Once you've got your secret and arcs written down, the final step is to plan out enough to get you started. Develop the maps, NPCs, factions, and other elements that you need to get the party through their first couple of adventures. Resist the urge to make everything perfect and plan for every possible player action.
+
+And start with what you love to do. The GM has a big job, so stick to developing the campaign elements that excite you. Some GMs can spend  an afternoon drawing 
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+> ##### Sample Campaign Outline: <br>Thank You, Dr. Livingston
 >
 > **Secret:** The sagely university professor, Dr. Livingston, who advises the investigators throughout the campaign is actually an imprisoned interdimensional demon manipulating them to win his freedom.
+>
+> ___
 >
 > **Campaign Arcs**
 >
@@ -175,13 +208,7 @@ Once you have your secret (or secrets) sketched out, you can begin to divide the
 >
 > - **Part 4:** The PCs hunt Livingston down to his subterranean lair and attempt to complete the ritual.
 
-Like most of the steps laid out in this guide to GMing, your campaign arcs should be planned relatively loosely to allow for players to shape the story by their own actions.
-
-### Plan Enough to Get Started
-
-Once you've got your secret and arcs written down, the final step is to plan out enough to get you started. Develop the maps, NPCs, factions, and other elements that you need to get the party through their first couple of adventures. Resist the urge to make everything perfect and plan for every possible player action.
-
-And start with what you love to do. The GM has a big job, so stick to developing the campaign elements that excite you. Some GMs can spend an afternoon drawing an entire world map, and the act of creating that world inspires them with an infinite number of dungeons, plotlines, and adventures to keep the players happy for a year. Other GMs start with a list of NPCs or factions, thinking through their motivations and personalities. Creating this cast of characters allows them to imagine a host of conflicts and conspiracies that will naturally transform into dramatic encounters once the PCs are thrown into the mix. Still other game masters love to start with memorable combat encounters and action scenes, and connect the dots of plot and setting as these epic battles take shape. Whatever aspect of GMing interests you the most, that is where you should start.
+an entire world map, and the act of creating that world inspires them with an infinite number of dungeons, plotlines, and adventures to keep the players happy for a year. Other GMs start with a list of NPCs or factions, thinking through their motivations and personalities. Creating this cast of characters allows them to imagine a host of conflicts and conspiracies that will naturally transform into dramatic encounters once the PCs are thrown into the mix. Still other game masters love to start with memorable combat encounters and action scenes, and connect the dots of plot and setting as these epic battles take shape. Whatever aspect of GMing interests you the most, that is where you should start.
 
 Once you've got enough planned to get started, get your group together, make some characters, and start playing. After your first few sessions, you can plan forward based on how your players are interacting with the world and how the plot is developing. Use the time in between sessions in order to adjust your campaign arcs, create new adventures, and plan how you will slowly reveal the next big secret.
 
@@ -191,7 +218,10 @@ The thrill of adventure, the satisfaction of character development, and the joy 
 
 ### Awarding XP
 
-In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
+In Open Legend, the primary way that players gain more power is by gaining experience points (XP) and reaching 
+
+___
+higher character levels, thus increasing their attribute scores and unlocking new feats, banes, and boons. Every XP that players receive grants them 1 feat point and 3 attribute points, and every 3 XP results in a new level.
 
 Rather than constantly awarding different experience point values to different adversaries or types of challenges, Open Legend uses a very simple method of determining when players level up: the GM. That's right. You get to decide when your players gain more power. Here are two methods you can use to decide how to award XP:
 
@@ -201,11 +231,6 @@ Rather than constantly awarding different experience point values to different a
 - **Level 3:** The heroes discover the Cult of the Dragon.
 - **Level 4:** The heroes prevent the cult's Ritual of Three
   from being completed.
-
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
 - **Level 5:** The heroes retrieve the treasure at the bottom of the Sunken Star.
 - **Level 6:** The heroes end the conflict between the barbarians and the Collectors.
 - **Level 7:** The heroes free the village of Hilltop from the grasp of the vampire Tessa.
@@ -213,12 +238,16 @@ Rather than constantly awarding different experience point values to different a
 - **Level 9:** The heroes find a way to weaken Dezzer Kai's power over the land.
 - **Level 10:** The heroes defeat Dezzer Kai.
 
-
 **Time Played.** An easy way to schedule rewards is simply to give players 1 XP at the end of each session. This way, they'll always look forward to gaining that little extra bit of power that comes from attributes and feats. Occasionally, you may decide to switch it up a bit and award players with 2 or even 3 XP if they accomplished a particularly important goal. With this method, you don't have to plan out a campaign's milestones ahead of time, but you may need to adapt on the fly to your players' increasing power.
 
 > ##### Beyond 10th Level
 >
-> Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you are up for the challenge (higher level characters can be difficult to manage and properly engineer challenges for). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
+> Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you're up to the task (higher level characters are usually powerful enough that engineering challenges for them can become diffult). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
+
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 ### Awarding Wealth
 
@@ -227,11 +256,9 @@ In addition to power, most players enjoy being able to have more influence on th
 Chapter 5 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
 
 
-You can use this table as a rough guideline for when to give players more wealth, particularly if you have also created an outline of milestones for granting experience levels. For example, the table shows that by 4th level, a typical character should have progressed to wealth score 4. Using the experience level milestone plan detailed previously, we could decide that after stopping the first threat to Woodshold, the people of the town take up a
+You can use this table as a rough guideline for when to give players more wealth, particularly if you have also created an outline of milestones for granting experience levels. For example, the table shows that by 4th level, a typical character should have progressed to wealth score 4. Using the experience level milestone plan detailed previously, we could decide that after stopping the first threat to Woodshold, the people of the town take up a collection to reward the heroes. We can also plan to give the Cult of the Dragon a horde of treasure that will again increase the party's wealth score.
 
-
-```
-```
+However you plan to award wealth, you can see that the general recommendation on the table is for a PC's wealth score to increase twice every three levels.
 
 ___
 ##### Wealth Overview
@@ -250,9 +277,6 @@ ___
 | 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
 ___
-collection to reward the heroes. We can also plan to give the Cult of the Dragon a horde of treasure that will again increase the party's wealth score.
-
-However you plan to award wealth, you can see that the general recommendation on the table is for a PC's wealth score to increase twice every three levels.
 
 #### Understanding Open Legend's Wealth System
 
@@ -261,10 +285,6 @@ If you or your players have a background with other game systems, in which they 
 **NPCs still have stuff on them.** Just because you don't need to spend hours tracking every piece of loot that the players cut from a corpse doesn't mean that those corpses don't have stuff on them. Their loot just fades into the background so that you can focus on the story. Think of any movie or novel. How often does the action focus on the characters picking at the defeated bodies of the antagonists? Rarely. And, if they do take something from a foe, it's usually to serve the plot.
 
 So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it's still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
-
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 **Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 5):
 
@@ -275,11 +295,28 @@ So, when a combat encounter ends, instead of listing off how many crossbow bolts
 So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor. Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
 
 ## Non-Player Characters (NPCs)
-No campaign or adventure is complete without monsters for the heroes to defeat or other types of adversaries for them to overcome. But it's best not to go alone, and often the characters will find help along the way. Collectively these friends and foes are called "NPCs" (non-player characters). When planning out a campaign or adventure, consider that the NPCs of your story typically fall into one of the following categories:
+No campaign or adventure is complete without monsters for the heroes to defeat or other types of adversaries for them to overcome. But it's best not to go alone, and often the characters will find help along the way. Collectively these friends and foes are called "NPCs" (non-player characters). When planning out a campaign or adventure,
+
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+
+<img style="position: absolute; top:0; right: 0;"
+ src="http://localhost:8888/_not_full_page/Lord%20of%20spiders%20-%20vargasni.jpg" />
+
+
+<div class="wide" style="height: 2320px;"></div>
+
+
+
+consider that the NPCs of your story typically fall into  one of the following categories:
 
 - Henchmen
 - Villains
 - Allies
+
 
 ### Henchmen
 
@@ -288,11 +325,10 @@ Henchman is a general term to describe any antagonist who simply exists as a sma
 
 ### Villains
 
-The villain of a plotline is the primary antagonist, and your players will likely deal with multiple villains
-
+The villain of a plotline is the primary antagonist, and your players will likely deal with multiple villains throughout their careers. Examples include the 
 
 ___
-throughout their careers. Examples include the necromancer who has taken up residence in the local graveyard, the sentient interdimensional cloud who pulls the strings from behind the galactic senate, and the bandit king who has united the ruffians of the realm under one banner. Unlike henchmen, your villains will require a good amount of thought to flesh out. To develop strong, convincing villains, consider the following elements.
+necromancer who has taken up residence in the local graveyard, the distributed AI consciousness that controls the galactic senate's every decision, and the bandit king who has united the ruffians of the realm under one banner. Unlike henchmen, your villains will require a good amount of thought to flesh out. To develop strong, convincing villains, consider the following elements.
 
 **Motive.** Every villain should have a realistic motive, or a reason for turning towards their villainous ways. Instead of deciding that your necromancer is simply evil, for example, consider making him fallen. Perhaps he turned to necromancy as a last resort to revive his beloved who was killed in a shipwreck.
 
@@ -300,9 +336,23 @@ throughout their careers. Examples include the necromancer who has taken up resi
 
 **Flaw.** A flaw is part of what makes a villain human (even if the villain is an ancient wyrm). A flaw could be a physical vulnerability, such as the bare patch of the dragon Smaug's left breast, or it could be a social, mental, or emotional insufficiency. Our necromancer, for example, could be easily set into a blind rage against anyone who speaks ill of his beloved.
 
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+<img style="position: absolute; top:0; right: 0;"
+ src="http://localhost:8888/_not_full_page/chinese%20dragon%20vargasni.jpg" />
+
+
+<div class="wide" style="height: 2320px;"></div>
+
+
 ### Allies
 
-NPCs aren't limited to antagonists, of course. Many of the most important characters to your plotline will be allies of the heroes. Perhaps the party is guided by a wizened sage who secludes himself in a high tower and for unknown reasons allows only the PCs access to his wisdom. Another example includes a team of native elves who have been dispatched to see the heroes safely through a haunted wood.
+NPCs aren't limited to antagonists, of course. Many of the most important characters to your plotline will be allies of the heroes. Perhaps the party is guided by a wizened sage who secludes himself in a high tower and for unknown reasons allows only the PCs access to his wisdom. Another example includes a team of native elves who have been dispatched to see the heroes safely 
+
+___
+through a haunted wood.
 
 Whatever sorts of allies the party has acquired, it's important for the GM to abide by a few guidelines to ensure that the allies add to the fun rather than detract from it.
 
@@ -314,17 +364,22 @@ Whatever sorts of allies the party has acquired, it's important for the GM to ab
 
 If you find the NPCs in your game frequently taking these or similar roles, then there's a good chance your players might become frustrated.
 
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 Sometimes it can add to the story to have an ally contribute in a way that the players can't, but it's important to find some purpose for the players to fulfill that the NPC can't for one reason or another. For example, a villainous mad scientist uses a poisonous gas to control the minds of a group of soldiers and commands them to attack the players. A powerful ally NPC might use her medical knowledge to create an anti-toxin to protect the minds of the players by breaking the influence over them and half of the soldiers. However, the NPC isn't capable of providing this protection for all of the soldiers - the players must then complete the vital task of subduing (ideally without killing) the dominated soldiers and preventing them from harming anyone.
 
 The above example will likely be an intriguing scene enjoyed by all, because the ally NPC can't prevail without the help of the players.
 
-**Allies can be used to grant knowledge.** In addition to providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader's guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Universe Portal. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs' hands.
+**Allies can be used to grant knowledge.** In addition to 
+
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+providing players with new power, allies can also be the purveyors of information. A savvy merchant knows how to gain leverage on the members of the trader's guild; a pitiful sanitation clerk turned wererat possesses the only known map of the city sewers; a sage who acts as patron to the party has discovered the location of the Universe Portal. By using allies to inform the players of secret or hidden knowledge, you put the power of what to do with that information in the PCs' hands.
 
 **Allies should be imperfect.** The best allies are the ones who are flawed just like the PCs. They have physical weaknesses that can be taken advantage of, moral faults that can be exploited, or needs that they can't fulfill on their own. If the allies are so powerful that no mortal can stop them and they want for nothing, the players are likely to wonder why the NPC is giving them the time of day in the first place, and, by finding ways to demonstrate your NPCs' imperfections, you'll further immerse your players in the campaign world.
+
 
 ### NPC Statistics
 
@@ -342,12 +397,20 @@ The complex build is a good option when you are creating a very important villai
 
 The simple build option is useful when you need to come up with statistics on the fly. For example, imagine the party fails an action roll to move stealthily through a swamp to avoid the local denizens. You decide that they have attracted the attention of a handful of poisonous serpents that lair in the swamp, but you don't have any stats written up for these enemies. In this situation, you could use the simple build rules to get combat rolling quickly.
 
-Use the NPC Simple Build Table to determine the NPCs's most relevant statistics. For the hit point and defense columns, choose values within the given ranges based on the strengths and weaknesses of the NPC enemy you are building. Choose 1 to 3 primary attributes that will form the main basis of the NPC's attacks and actions, and then choose as many secondary attributes as you need in order to define the NPCs's other capabilities. These form a rough guideline that we recommend you not exceed, though you can feel free to assign lower attributes and even higher ones if you feel that's appropriate. Not all attributes are created equal.
+Use the NPC Simple Build Table to determine the NPCs's most relevant statistics. For the hit point and defense columns, choose values within the given ranges 
+
+___
+based on the strengths and weaknesses of the NPC enemy you are building. Choose 1 to 3 primary attributes that will form the main basis of the NPC's attacks and actions, and then choose as many secondary attributes as you need in order to define the NPCs's other capabilities. These form a rough guideline that we recommend you not exceed, though you can feel free to assign lower attributes and even higher ones if you feel that's appropriate. Not all attributes are created equal.
+
+Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3.
+
+Feel free to select any feat found in Chapter 3 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
+
 
 ___
 ##### NPC SIMPLE BUILD
 
-| NPC Level | Hit Points | Defenses | Primary Attributes | Secondary Attributes |
+| NPC Level <div style="width: 200px;"></div> | Hit Points <div style="width: 300px;"></div> | Defenses <div style="width: 300px;"></div> | Primary Attributes | Secondary Attributes <div style="width: 100px;"></div> |
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | 10 - 22 | 10 - 16 | 4 | 3 |
 | 2 | 12 - 24 | 11 - 17 | 5 | 3 |
@@ -370,14 +433,6 @@ ___
 | 19 | 46 - 58 | 23 - 29 | 10 | 9 |
 | 20 | 48 - 60 | 24 - 30 | 10 | 9 |
 
-Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3.
-
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
-___
-Feel free to select any feat found in Chapter 3 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
 
 ___
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
@@ -389,23 +444,28 @@ ___
 - **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane. When making a bane attack to inflict the  chosen bane, you gain advantage 3 on the bane attack roll
 
 ___
-- **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain the following benefits:
+- **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain these benefits:
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+___
+ - 
   - **Tier 1:** Gain +5 to your defense against the chosen bane.
   - **Tier 2:** You are immune to the chosen bane.
+
 
 ___
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon you can invoke. Gain the following benefits:
  - **Tier 1:** When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
+ 
+
+ ___
  - **Tier 2:** You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.
  - **Tier 3:** The effect at tier 3 varies based on the duration of the boon:
    - **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action.
-
-
-___
- -
-  -
-   -
-     - **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
+   - **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
 ___
 - **Damage Resistance (tier 1 - 3, your choice, available only to GMs):** Choose a either Precise or Forceful and gain the following benefits:
@@ -422,9 +482,15 @@ ___
   - **Tier 4:** You are immune to damage and harmful effects from the chosen energy type.
 
 ___
-- **Evasive Footwork:** When you move from a space adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+- **Evasive Footwork:** When you move from a space 
+
+___
+- 
+ ___
+ adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 ___
 - **Lethal Strike (tier equal to NPC level, max 9):** Your attacks are considered lethal strikes whenever you fulfill *one* of the following conditions:
+  ____
   - Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
   - Your target is within melee attack range of an ally.
 
@@ -443,24 +509,30 @@ ___
 
 ___
 - **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
+ 
+  
+ You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
+
+ The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
+
+___
+- **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 1, would require an attribute score of 2). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
+
+___
+- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** When you choose this feat, you must decide to 
+
 
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
-You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
-
-The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
-
-___
-- **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 1, would require an attribute score of 2). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
+focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
 
 ___
 - **Multi-Target Attack Specialist (tier equals NPC level, max 5):** When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
 
 ___
 - **Potent Bane:** Choose one bane that you can invoke that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.
-
 ___
 - **Resilient:** Any time you make a resist roll, you have advantage 1 on the roll.
 
@@ -471,14 +543,6 @@ ___
 - **Superior Concentration (tier 1 - 3, your choice):** When you take the *sustain a boon* minor action, you may sustain one additional boon per tier of this feat which you possess.
 
 
-#### Boss NPCs
-
-A Boss is a single enemy NPC that is capable of taking on a group of characters due to its extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
-
-When you decide that one of your NPCs merits boss status, use the Boss NPC Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on
-
-___
-entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
 
 > ##### Example Simple Enemy NPC Build: Swamp Snakes
 >
@@ -486,7 +550,14 @@ entire parties of PCs alone. When using the complex build, you can alter your vi
 >
 > When it comes to feats, we decide to highlight the danger of the venom by choosing Multi Bane Specialist and Bane Focus to allow the snakes to inflict both the stunned and persistent damage banes whenever they land a damaging attack that exceeds the target's defense by 5 or more.
 
+#### Boss NPCs
 
+A Boss is a single enemy NPC that is capable of taking on a group of characters due to its extraordinary prowess in combat. Bosses could be epic villains that the party has been pursuing for the entire campaign, such as the Lich King Akrakus, or they could be monstrous beasts with little backstory that simply serve as a dramatic milestone in the course of a larger adventure, such as a bridge troll that must be defeated before the PCs can progress. Other examples of bosses include the Kraken, a legendary gunslinger, a dragon, or the general of an alien armada.
+
+When you decide that one of your NPCs merits boss 
+
+___
+status, use the Boss NPC Build Table to generate statistics in the same way you would if using the simple build rules described previously. You'll notice that bosses have more hit points, higher defenses, and better attributes in order to account for their ability to take on entire parties of PCs alone. When using the complex build, you can alter your villain's hit points and defenses based on this table to better represent the appropriate strength of a boss.
 
 ___
 ##### Boss NPC Build
@@ -516,13 +587,8 @@ ___
 
 **Boss Edge**
 
-A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be
+A boss is a force to be reckoned with, and as such, it is more powerful in a number of ways. A boss cannot be subject to a finishing blow unless its hit point total has been reduced to zero. Furthermore, a boss NPC gets advantage on all attack rolls equal to its boss edge score. In addition to its normal allotment of actions, a boss also 
 
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
-subject to a finishing blow unless its hit point total has been reduced to zero. Furthermore, a boss NPC gets advantage on all attack rolls equal to its boss edge score.
 
 > ##### Optional Rule: Boss Finale
 > Some GMs may find the potential of a boss being killed with one very high attack roll (perhaps even before it attacks) to be counter to their storytelling goals and undermining of the boss's intended gravitas. To prevent bosses from dying unceremonious deaths, a GM may institute the following optional Boss Finale rule.
@@ -530,7 +596,11 @@ subject to a finishing blow unless its hit point total has been reduced to zero.
 > *The first time in a combat when a boss is reduced to zero hit points, it immediately receives a number of boss actions equal to its Boss Edge score plus one. During these boss actions, other characters cannot take interrupt actions. If it was another character's turn and their turn was unfinished, their turn is interrupted by the boss and then resumed when the boss actions are complete.*
 
 
-In addition to its normal allotment of actions, a boss also receives a number of special *boss actions* on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+receives a number of special *boss actions* on its turn equal to its boss edge score. Each boss action is a single major action that does not count against its normal action limit. Each boss action is resolved at a separate position in the initiative order. Start with the boss's usual array of actions on their initiative roll. The first boss action happens immediately after the initiative of the next lowest PC in the initiative order. Continue staggering boss actions to follow the next lowest PC until there are no more boss actions or no more PC initiatives. Any remaining boss actions happen at the end of the round.
 
 > ##### Example Initiative Order Using Boss Actions
 >
@@ -561,11 +631,7 @@ The build rules just explained how to create individual emeny NPCs for the heroe
 
 ### Encounter Difficulty
 
-When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter**
-
-
-___
-shouldn't present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
+When designing a combat encounter, decide if you want it to be easy, moderate, or hard. An **easy encounter** shouldn't present a significant threat to the PCs unless luck is wildly against them or they make a series of poor decisions. A **moderate encounter** will challenge the PCs, but they are still likely to come out on top. A **hard encounter** will push them to the limits, and may end in defeat or the death of one or more characters.
 
 Use the Encounter Difficulty Table to determine how many total enemy NPC levels you should include in your combat.
 
@@ -580,7 +646,10 @@ ___
 
 For example, a moderate encounter for a group of 4 PCs who are all 5th level would have a Total NPC Level of 20. An easy encounter for the same group would have a Total NPC Level of 10, and a hard encounter 40.
 
-Whether you are using the simple or complex method of building your NPCs, you can spend your NPC level budget until you reach approximately the designated total NPC level for your encounter.
+Whether you are using the simple or complex method of building your NPCs, you can spend your NPC level 
+
+___
+budget until you reach approximately the designated total NPC level for your encounter.
 
 #### Bosses
 
@@ -598,14 +667,7 @@ Rarely do epic movie fight scenes take place in an empty chamber. There are usua
 
 **Multiple Levels.** Staircases, ledges, boulders, pits, and other terrain that combatants can ascend or descend will make combat interesting by empowering ranged attacks and spotlighting players who are built for maneuverability.
 
-**Difficult Terrain.** A pool of sludge that cuts movement speed in half or a thin beam that provides a perilous shortcut to the big boss are the sorts of options that allow
-
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
-___
-PCs to make meaningful decisions with their move actions.
+**Difficult Terrain.** A pool of sludge that cuts movement speed in half or a thin beam that provides a perilous shortcut to the big boss are the sorts of options that allow PCs to make meaningful decisions with their move actions.
 
 **Hazards.** Consider adding an extra count in the initiative for some sort of natural or extraordinary hazard, such as a steaming geyser or poisonous mushroom spore. Once per round, randomly choose a PC or two to fall victim to these perils of the battlefield.
 
@@ -613,7 +675,14 @@ PCs to make meaningful decisions with their move actions.
 
 Sometimes in your encounters and adventures, you might have the party take damage from sources other than enemy attacks. For example, the party fails to scour an old battlefield and ends up setting off a chain of land mines. Or maybe someone gets knocked into a pool of lava while invading the red dragon's volcanic lair. Other common sources of ad hoc damage include falling, acid, and frostbite.
 
-In situations like these, in which the damage dealt isn't tied to an attack roll targeting a specific defense, you can roll straight damage dice against the affected characters. Simply pick an appropriate severity level from the Ad Hoc Damage table and roll the dice indicated, calculating exploding dice as usual. You can use the descriptions in the table to help you choose a severity level, or you can use these rough guidelines:
+In situations like these, in which the damage dealt isn't tied to an attack roll targeting a specific defense, you can roll straight damage dice against the affected characters. Simply pick an appropriate severity level from the Ad Hoc Damage table and roll the dice indicated, calculating 
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+___
+exploding dice as usual. You can use the descriptions in the table to help you choose a severity level, or you can use these rough guidelines:
 
 **Light Damage (Severity Level 1 - 4):** The damage is likely to be a minor nuisance, but not particularly threatening to the character.
 
@@ -643,12 +712,14 @@ The GM has the option to make any ad hoc damage *lethal damage*. Typically, this
 
 Not every fight that your party gets into needs to be a knock down drag out fight to the death, nor does every encounter need to have a binary win/loss condition.
 
-___
 When determining how a fight ends, remember to consider the motivations of the combatants and the demands of the plot. Are the PCs worth more to the orc chief alive than dead? Will the story be more interesting if the dragon doesn't wipe out the entire party? Consider some of the following possibilities whenever deciding how a fight will end.
 
 **Don't be afraid to end it early.** Sometimes, despite all your plans, a combat just takes too long. Or maybe the party's luck runs dry and they spend four rounds trying to kill the last two carnivorous shrubs. It's okay to fast-forward the combat when things are going stale and everyone at the table is ready for the next scene. Simply narrate the gist of what happens, and move on. Generally, you should only do this if the combat is obviously going to end in the PCs' favor. If the bad guys are winning, most parties will likely want to fight to the bitter end. If you are fast-forwarding to a party defeat, be sure that ALL of your players are agreeable first.
 
-**Partial defeat is more interesting than a total party kill.** Battles are much greater swirling maelstroms of chaos than our gridded battle mats, top-down views, and sequential turns would lead us to believe. This means that the GM has plenty of wiggle room for creating outcomes that might not have come up in the blow-by-blow narrative of the encounter. So, if the entire party is knocked unconscious or otherwise defeated, you are well within your rights to say that, for example, one of the PCs stumbled out of sight unnoticed before passing out, or that the monsters leave half of the party for dead and capture the few that they think are still alive. Little twists like this allow the players a chance to turn a loss into an epic tale for revenge or recovery.
+**Partial defeat is more interesting than a total party kill.** Battles are much greater swirling maelstroms of chaos than our gridded battle mats, top-down views, and sequential turns would lead us to believe. This means 
+
+___
+that the GM has plenty of wiggle room for creating outcomes that might not have come up in the blow-by-blow narrative of the encounter. So, if the entire party is knocked unconscious or otherwise defeated, you are well within your rights to say that, for example, one of the PCs stumbled out of sight unnoticed before passing out, or that the monsters leave half of the party for dead and capture the few that they think are still alive. Little twists like this allow the players a chance to turn a loss into an epic tale for revenge or recovery.
 
 **Hard decisions test a hero's mettle.** A favorite tactic of super villains everywhere is to force the hero to decide between winning the fight or saving a mass of helpless bystanders. Combat encounters in Open Legend can also end in tough decisions for the party: the sorceress hovers over a magma filled chasm so that landing the final blow also means destroying the magical staff she wields, the hill giant reveals that he has an innocent family captive in a cave which he will only reveal if his life is spared, and so on. Though your players will get tired of these tactics if they are used excessively, forcing hard choices on your heroes will help them define their characters and prove their loyalties.
 
@@ -658,16 +729,11 @@ When determining how a fight ends, remember to consider the motivations of the c
 
 When planning your encounters, you do not need to strive for balance, but you should aim to be fair to your players.
 
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
 Video games are balanced: they are designed to present players with incremental challenges that grow in difficulty alongside the power of the player. Because of the inherent lack of openness and choice in most video games, players would easily get frustrated if the challenges weren't balanced to their progress in the game.
 
 Role playing games, on the other hand, aren't meant to be balanced all of the time. They are meant to be immersive. They are meant to allow players to push the limits of possibility in fantastical worlds. This level of freedom means that sometimes the heroes will come face to face with threats that they cannot overcome.
 
 As a GM, you don't need to have any anxiety over putting an impossible challenge before your party. But you do have to be fair about it. You are responsible for warning the party to the danger that lies ahead. It would be unfair, for example, to drop an ancient red wyrm upon an unsuspecting party of first level PCs with no option to escape. It would be perfectly fair, however, if the party encounters the dragon after exploring the ancient ruins that make his lair despite warnings from the locals and tremors that grow stronger with every step deeper into the ruins.
-
 
 \page
 
@@ -696,15 +762,14 @@ Might is the attribute of brute strength and physical power. Your Might score re
 
 #### Challenging Test of Might (CR 15)
 
-In the midst of combat, a small boulder proves to be a nuisance for maneuvering into tactical positions, so
-
-
-___
-Rogar employs his mighty thews to shove it 10 feet out of the way.
+In the midst of combat, a small boulder proves to be a nuisance for maneuvering into tactical positions, so Rogar employs his mighty thews to shove it 10 feet out of the way.
 
 **Success with a twist:** Rogar manages to move the boulder. However, he pulls a muscle and suffers the *slowed* bane.
 
 **Failure, but the story progresses:** Rogar is so focused on moving the boulder that he fails to notice the pair of goblins that have now flanked him.
+
+```
+```
 
 #### Heroic Test of Might (CR 20)
 
@@ -733,30 +798,14 @@ As Terri chases Gizmo the Gnomtorious bounty hunter through the narrow corridors
 
 **Success with a twist:** Terri glides gracefully across the grease, but fails to notice the broken exhaust pipe hanging from the ceiling until the last minute. She manages to dodge the pipe only by grabbing hold of it and swinging around it, which forces her to drop her shotgun. If she's going to keep up with Gizmo, she'll have to do it unarmed.
 
-**Failure, but the story progresses:** With all the grace and agility of a drunken elephant, Terri falls on her face in a pile of green goo. By the time she struggles to the other edge of the slime, Gizmo is nowhere in sight, and
-
-
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
-___
-she'll have to think fast to decide which direction to take at the T-intersection up ahead if she doesn't want to lose her quarry.
+**Failure, but the story progresses:** With all the grace and agility of a drunken elephant, Terri falls on her face in a pile of green goo. By the time she struggles to the other edge of the slime, Gizmo is nowhere in sight, and she'll have to think fast to decide which direction to take at the T-intersection up ahead if she doesn't want to lose her quarry.
 
 #### Heroic Test of Agility (CR 20)
 
-Jax is piloting his Starfighter in a high speed dogfight against a pair of Dalturian Destroyers. They're both on his tail, and if he doesn't shake them soon, they'll have locked on their homing missiles. Jax slams the throttle forward and attempts to speed through a narrow canyon up ahead.
-
-**Success with a twist:** Jax zooms through the rocky terrain at breakneck speed. When he comes out the other end, he has managed to lose one of the Dalturians, but the second is still hot on his trail.
-
-**Failure, but the story progresses:** Jax zooms between two pillars of raw earth, and misjudges their width by a few inches. He hears a metallic crack as one of his wings is mangled beyond function and Jax crash lands. Shattering the glass hull, he manages to escape with his life, but his flier isn't going anywhere.
-
-
+Jax is piloting his Starfighter in a high speed dogfight against a pair of Dalturian Destroyers. They're both on his tail, and if he doesn't shake them soon, they'll have locked on their homing missiles. Jax slams the throttle 
 
 
 \page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 <img class="full-page cover-all"
  src="http://localhost:8888/_full_page/Jax_Ship_Crash_Mahea_Rodrigues.jpg" />
@@ -765,6 +814,14 @@ Jax is piloting his Starfighter in a high speed dogfight against a pair of Daltu
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+___
+forward and attempts to speed through a narrow canyon up ahead.
+
+
+**Success with a twist:** Jax zooms through the rocky terrain at breakneck speed. When he comes out the other end, he has managed to lose one of the Dalturians, but the second is still hot on his trail.
+
+**Failure, but the story progresses:** Jax zooms between two pillars of raw earth, and misjudges their width by a few inches. He hears a metallic crack as one of his wings is mangled beyond function and Jax crash lands. Shattering the glass hull, he manages to escape with his life, but his flier isn't going anywhere.
 
 
 #### Epic Test of Agility (CR 25)
@@ -789,14 +846,14 @@ Sheriff Bates and his posse of deputies are tracking a pair of bandits through t
 
 #### Heroic Test of Fortitude (CR 20)
 
-While traversing the deep reaches of space, Zak was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to determine how well he recovers.
+While traversing the deep reaches of space, Zak was unfortunately infected with the Chronos Plague - a debilitating disease that distorts the infected's perception of space-time. He lies in the Rebel HQ sick bay, struggling to fight off the illness, and makes a Fortitude roll to 
+
+___
+determine how well he recovers.
 
 **Success with a twist:** After a day or two of rest, Zak makes a full recovery and is now immune. However, unbeknownst to him, he has become a carrier of the pathogen, endangering his unwary allies.
 
 **Failure, but the story progresses:** Zak's immune system is too compromised, and the disease persists. However, while Zak was confined to the sick bay, his ally Dr. Vreck was hard at work researching a potential cure. Vreck has learned of a rare sub thermal lichen that grows only on the asteroids of the Alpha System. This lichen may hold the secret to reversing the disease.
-
-```
-```
 
 #### Epic Test of Fortitude (CR 25)
 
@@ -814,22 +871,23 @@ Learning is the attribute of raw knowledge, memory, and the ability to apply the
 
 Gregory, student of the arcane arts, is travelling with his companions through the Tomb of Sharakandra when they come upon an open doorway carved with eldritch runes. Gregory attempts to decipher the runes based on his past studies.
 
+
 **Success with a twist:** Gregory successfully identifies the runes as a protective ward. However, to do so, he must spend nearly an hour sifting through the tomes of lore that he carries with him.
 
 **Failure, but the story progresses:** While attempting to decipher the runes, Gregory traces his fingers across one of them, immediately activating a trap. He is struck with a bolt of lightning and a loud thunderclap alerts the entire tomb of the interlopers.
-
-#### Heroic Test of Learning (CR 20)
-
-While traversing the jungle planet Thox, Selena encounters a race of alien squid men who speak in a series of gurgles and hisses. Though their language is foreign, she is well practiced in a number of alien languages, and so she attempts to comprehend theirs as well.
-
-**Success with a twist:** Selena can understand the squid language well enough to gather a general impression of what they are trying to communicate, though complex ideas are impossible to transmit.
-
 
 
 
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+
+#### Heroic Test of Learning (CR 20)
+
+While traversing the jungle planet Thox, Selena encounters a race of alien squid men who speak in a series of gurgles and hisses. Though their language is foreign, she is well practiced in a number of alien languages, and so she attempts to comprehend theirs as well.
+
+**Success with a twist:** Selena can understand the squid language well enough to gather a general impression of what they are trying to communicate, though complex ideas are impossible to transmit.
 
 
 **Failure, but the story progresses:** In her attempt to learn the language, Selena mimics several of the gurgles and hisses of the squid men. They take her mimicry as an insult, and they are on the verge of taking her prisoner if she cannot find a way to make peace.
@@ -844,7 +902,10 @@ Belmont the Bard is attempting to negotiate peace between two gnoll tribes that 
 
 ### Logic
 
-Logic is the mental attribute of deductive reasoning and problem solving. Characters who are skilled in Logic might be riddle masters, expert programmers, military geniuses, uncanny sleuths, or ingenious trap smiths. The GM will call for a Logic roll when you attempt to decipher a mystery, predict an opponent's behavior, or devise a foolproof plan.
+Logic is the mental attribute of deductive reasoning and problem solving. Characters who are skilled in Logic might be riddle masters, expert programmers, military geniuses, uncanny sleuths, or ingenious trap smiths. The 
+
+___
+GM will call for a Logic roll when you attempt to decipher a mystery, predict an opponent's behavior, or devise a foolproof plan.
 
 
 #### Challenging Test of Logic (CR 15)
@@ -861,26 +922,21 @@ Cyril the android is stranded in Junkland, a miles long island of debris that fl
 
 **Success with a twist:** Cyril finds what he needs to repair his battery, but the materials are unstable. The GM rules that until Cyril can find appropriate materials, he will suffer the *stunned* bane every time he rolls a 5 or less on the d20 for an action roll.
 
-**Failure, but the story progresses:** Cyril can't find anything salvageable from the junk heaps nearby. What he does manage to stir up, however, are a pair of Techno
-
-___
-Pack Rats who eye his circuitry and armored plating with much envy.
+**Failure, but the story progresses:** Cyril can't find anything salvageable from the junk heaps nearby. What he does manage to stir up, however, are a pair of Techno Pack Rats who eye his circuitry and armored plating with much envy.
 
 
 #### Epic Test of Logic (CR 25)
 
 Azure and party are attempting to negotiate with the Dragon Council in order to convince the wyrms to break their vow of neutrality and aid the races of good in the Demon War. Things are looking grim, but Azure is well-studied in the Dragon Code, and he attempts to find a loophole around the Council's insistence that the Law of Gold requires that any dragon who serves the lower races must be paid its weight in gold for the service. The legalistic wyrms insist that even if any of their kin were willing to fight along the humanoids out of the goodness of their hearts, the Law of Gold would still need to be satisfied.
 
-**Success with a twist:** Azure notes to the Council that if the payment were to take place on the plane of Chaos, where weights and measures shift unpredictably, then the humanoids could readily provide enough gold to satisfy the law provided the exchange occur at the proper moment. Although much of the Council is dissatisfied with this proposition, they bring it to a vote and favor falls on Azure's
-
-___
-side. However, for the inconvenience of interdimensional travel, the Council rules that every wyrm employed must also be compensated with a magical artifact of acceptable power.
+**Success with a twist:** Azure notes to the Council that if the payment were to take place on the plane of Chaos, where weights and measures shift unpredictably, then the humanoids could readily provide enough gold to satisfy the law provided the exchange occur at the proper moment. Although much of the Council is dissatisfied with this proposition, they bring it to a vote and favor falls on Azure's side. However, for the inconvenience of interdimensional travel, the Council rules that every wyrm employed must also be compensated with a magical artifact of acceptable power.
 
 **Failure, but the story progresses:** Azure fails to come up with a reasonable loophole, and the Council rules that any wyrm who aids in the Demon Wars without the Law of Gold being satisfied will be deemed an outcast of dragonkind.
 
 ### Perception
 
-Perception governs your ability notice important details in people, places, and things. You roll Perception when you are trying to find a secret passage, follow a trail, sense ulterior motives, or spot a hidden foe. For Perception rolls especially, it's important to remember that *every roll matters*. The GM should only ask for a Perception roll when there is actually something to be perceived. Furthermore, the GM should ask for the roll only at the moment when the outcome matters. So, if a rogue enters a dungeon and declares that he will be searching for traps in every room, the player should not actually roll until he might actually discover a trap. That way, the outcome of the roll will actually matter and the game won't be slowed down by unnecessary dice rolling.
+Perception governs your ability notice important details in people, places, and things. You roll Perception when you are trying to find a secret passage, follow a trail, sense ulterior motives, or spot a hidden foe. For Perception rolls especially, it's important to remember that *every roll matters*. The GM should only ask for a Perception roll when there is actually something to be perceived. Furthermore, the GM should ask for the roll 
+
 
 
 \page
@@ -891,6 +947,8 @@ Perception governs your ability notice important details in people, places, and 
 
 <div class="wide" style="padding-top: 2462px;"></div>
 
+only at the moment when the outcome matters. So, if a rogue enters a dungeon and declares that he will be searching for traps in every room, the player should not actually roll until he might actually discover a trap. That way, the outcome of the roll will be meaningful and the game won't be slowed down by unnecessary dice rolling.
+
 
 #### Challenging Test of Perception (DC 15)
 
@@ -900,13 +958,12 @@ Yldris is interrogating a captured goblin to learn more about the threats of the
 
 **Failure, but the story progresses:** Yldris falsely senses that the goblin is about to attempt an escape.
 
+```
+```
+
 #### Heroic Test of Perception (DC 20)
 
-Zak and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Zak tells the
-GM that he will be
-searching for traps ahead of the party.
-After clearing several rooms, the party is
-walking down a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
+Zak and his party are exploring the remnants of an abandoned space colony. Several signs suggest that something new has taken up residence in the colony, so Zak tells the GM that he will be searching for traps ahead of the party. After clearing several rooms, the party is walking down a corridor that the GM knows to contain a proximity mine, so she asks Zak to roll Perception.
 
 **Success with a twist:** Zak notices the mine just as he steps within its activation zone. He's able to warn his party, but he takes the full blast impact from the mine.
 
@@ -916,16 +973,15 @@ walking down a corridor that the GM knows to contain a proximity mine, so she as
 
 Therilas attempts to track a pixie through the Fey Wood. The trail is two days old, and because the pixie flies, his only hope is to search for occasional drifts of pixie dust settled on leaves and branches.
 
-**Success with a twist:** Therilas loses the trail a mile into the woods. As he searches about in frustration, he is approached by a sentient fox who offers to reveal the location of the pixie—for a price.
-
-**Failure, but the story progresses:** Therilas wanders for hours in the Fey Wood trying to pick up the trail. Finally, he  finds it, though it seems oddly fresh. Too late does he realize that he has been tricked—the pixie has led him into a trap. He finds himself surrounded by denizens of the Fey Wood and hears the pixie's mischievous laughter from the canopy above.
-
-
-
-
+**Success with a twist:** Therilas loses the trail a mile into the woods. As he searches about in frustration, 
 
 \page
 
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+he is approached by a sentient fox who offers to reveal the location of the pixie—for a price.
+
+**Failure, but the story progresses:** Therilas wanders for hours in the Fey Wood trying to pick up the trail. Finally, he  finds it, though it seems oddly fresh. Too late does he realize that he has been tricked—the pixie has led him into a trap. He finds himself surrounded by denizens of the Fey Wood and hears the pixie's mischievous laughter from the canopy above.
 
 ### Will
 
@@ -954,12 +1010,12 @@ Deep in the lower chambers of Overhill Asylum, the investigators discover an anc
 
 #### Epic Test of Will (CR 25)
 
-While jacked deep into the Network, Snitch encounters a data file that has been encrypted by Prime, who is said to be the first Jacker to find a way to enter the Network. Prime detects the intrusion, but the overzealous Snitch chooses to go head to head with the legend rather than jack out. Snitch puts the full power of his Will against Prime in hopes of breaking through his firewall.
-
-**Success with a twist:** Snitch actually manages to find a way to break through Prime's guard and access some of his data. However, the oldest Jacker in the Network is no pushover. During the battle of wits he discovers a leak in Snitch's security systems. When Snitch jacks out, he
+While jacked deep into the Network, Snitch encounters a data file that has been encrypted by Prime, who is said to be the first Jacker to find a way to enter the Network. 
 
 ___
-discovers that his bank account has been emptied of every single credit he owned.
+Prime detects the intrusion, but the overzealous Snitch chooses to go head to head with the legend rather than jack out. Snitch puts the full power of his Will against Prime in hopes of breaking through his firewall.
+
+**Success with a twist:** Snitch actually manages to find a way to break through Prime's guard and access some of his data. However, the oldest Jacker in the Network is no pushover. During the battle of wits he discovers a leak in Snitch's security systems. When Snitch jacks out, he discovers that his bank account has been emptied of every single credit he owned.
 
 **Failure, but the story progresses:** Snitch's Will is no match for the first Jacker. Prime protects his data and ejects Snitch from the Network.
 
@@ -988,10 +1044,7 @@ Adele scans her multi-pass to gain entry to a level 5 sector of her office build
 
 #### Epic Test of Deception (CR 25)
 
-The chronomancer Rapture has Sarge and his crew tied up as he prepares to unleash his dreaded Time Cannon upon the unsuspecting moon colony below. To power this attack, Rapture loads the Void Crystal, which he has recently stolen back from the heroes. In a final attempt to buy some time, Sarge lies through the skin of his teeth: “Too bad for you, Rapture, ‘cause we switched out the crystal back on Alpha Prime. I can't wait to see what happens to your precious Time Cannon when you try to fire it with that ringer locked and loaded. With any luck, it will blow this whole ship to space dust.”
-
-**Success with a twist:** Rapture is convinced enough to power down the cannon before it can finish charging, thus buying the heroes a little more time. In a fit of rage,
-
+The chronomancer Rapture has Sarge and his crew tied up as he prepares to unleash his dreaded Time Cannon upon the unsuspecting moon colony below. To power this attack, Rapture loads the Void Crystal, which he has recently stolen back from the heroes. In a final attempt to 
 
 
 
@@ -1003,21 +1056,23 @@ The chronomancer Rapture has Sarge and his crew tied up as he prepares to unleas
 
 <div class="wide" style="padding-top: 2450px;"></div>
 
+buy some time, Sarge lies through the skin of his teeth: “Too bad for you, Rapture, ‘cause we switched out the crystal back on Alpha Prime. I can't wait to see what happens to your precious Time Cannon when you try to fire it with that ringer locked and loaded. With any luck, it will blow this whole ship to space dust.”
 
-though, he orders one of his lieutenants to slit Sarge's throat, immediately applying the *death* bane.
+**Success with a twist:** Rapture is convinced enough to power down the cannon before it can finish charging, thus buying the heroes a little more time. In a fit of rage, though, he orders one of his lieutenants to slit Sarge's throat, immediately applying the *death* bane.
 
 **Failure, but the story progresses:** Rapture calls Sarge's bluff and immediately gives the command to fire.
 
+
 ### Persuasion
 
-Persuasion is the social attribute of negotiation and smooth talking. You make a Persuasion roll whenever you are trying to convince someone to see your way or take your suggested course of action based on a clear or clever argument. Persuasion is about selling your ideas to others, whether that be through the use of solid evidence, emotional appeal, political pressure, bribery, or similar mechanisms. A Persuasion roll often takes place as the result of a good deal of dialog and other roleplaying. In these cases, the GM should not ask for a roll until a pivotal decision point is reached—a moment when the success or failure of the roll will determine the course of the negotiation.
+Persuasion is the social attribute of negotiation and smooth talking. You make a Persuasion roll whenever you are trying to convince someone to see your way or take your suggested course of action based on a clear or clever argument. Persuasion is about selling your ideas to others, whether that be through the use of solid 
 
-```
-```
+___
+evidence, emotional appeal, political pressure, bribery, or similar mechanisms. A Persuasion roll often takes place as the result of a good deal of dialog and other roleplaying. In these cases, the GM should not ask for a roll until a pivotal decision point is reached—a moment when the success or failure of the roll will determine the course of the negotiation.
 
 #### Challenging Test of Persuasion (CR 15)
 
-Pelias is trying to trade a valuable ruby to the barkeep in exchange for the names of three gentlemen who were drinking at the tavern last night. The barkeep says he'll give the rogue one name, so Pelias tries to convince him of the value of this gem in order to get all the info he needs.
+Pelias is trying to trade a valuable ruby to the barkeep in exchange for the names of three gentlemen who were drinking at the tavern last night. The barkeep says he'll give the rogue one name, so Pelias tries to convince him of the gem's value in order to get more info out of him.
 
 **Success with a twist:** The barkeep offers to give him two names. If the rogue wants all three, he'll have to throw in a sack of gold.
 
@@ -1025,20 +1080,17 @@ Pelias is trying to trade a valuable ruby to the barkeep in exchange for the nam
 
 
 
-#### Heroic Test of Persuasion (CR 20)
-
-When they reach the town of Haven, the survivors find the gates closed. The guards inform them that the Overseer has placed a blockade on all outsiders due to reports of an outbreak of a new strain of Virus Z. With a few smooth words,  Wendell manages to get the Overseer to come to the gate, but now he is attempting the much
-
-
-
-
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
-more difficult task of convincing him that his group isn't infected and that they would be a valuable asset to the town.
+#### Heroic Test of Persuasion (CR 20)
 
-**Success with a twist:** The Overseer finds the group's deeds impressive and believes their story. However, he will accept them into Haven only if they agree to a one week quarantine, which will significantly delay their agenda.
+When they reach the town of Haven, the survivors find the gates closed. The guards inform them that the Overseer has placed a blockade on all outsiders due to reports of an outbreak of a new strain of Virus Z.
+
+ With a few smooth words,  Wendell manages to get the Overseer to come to the gate. Now he must convince the guard that the group isn't infected and that they would be a valuable asset to the town.
+
+**Success with a twist:** The Overseer finds the group's deeds impressive and believes their story. However, he will accept them into Haven only if they agree to a one week quarantine, which significantly delays their agenda.
 
 **Failure, but the story progresses:** The Overseer doesn't care how valuable the group might be to his town, he simply cannot put his people at risk of another outbreak. He orders them away, and commands his guards to shoot them on sight if they return.
 
@@ -1048,23 +1100,24 @@ Professor Durst and his team of investigators have managed to take one of the cu
 
 **Success with a twist:** Durst has managed to leverage the cultist's deeply suppressed emotions of guilt to get him to denounce the Black Claw. However, the terror of the dark deeds he has taken part in cannot be reconciled with the cultist's former self, driving him insane. The cultist might provide some useful information to the investigators, but it is always hidden between maniacal ramblings and diabolical riddles.
 
-**Failure, but the story progresses:** Durst thinks he has
-broken the cultist, and unties him as a show of goodwill. However, as soon as the cultist has the chance, he jumps through a nearby window and breaks his own neck in the fall.
+**Failure, but the story progresses:** Durst thinks he has broken the cultist, and unties him as a show of goodwill. However, as soon as the cultist has the chance, he jumps through a nearby window breaking his neck in the fall.
 
 ### Presence
 
-Presence is the social attribute of leadership and charisma. A character with a high Presence will be able to attract powerful allies, inspire followers, and strike fear in the hearts of enemies. You will make a Presence roll whenever you are attempting to sway others with your force of personality, such as when making speeches, singing ballads, or staring down a foe.
+Presence is the social attribute of leadership and charisma. A character with a high Presence will be able to attract powerful allies, inspire followers, and strike fear in the hearts of enemies. You will make a Presence roll whenever you are attempting to sway others with your force of personality, such as when making speeches, singing  ballads, or staring down a foe.
 
 #### Challenging Test of Presence (CR 15)
 
 Shazben Hazben, the halfling bard, enters the tavern with a well-tuned mandolin but not even two coppers to scrape together. After striking up a conversation with the barkeep, Shazben offers to entertain the guests in exchange for room  and board. The bartender likes the halfling's style, so he gives him a chance to win him over on stage that night.
 
-**Success with a twist:** The crowd loves the halfling, even bringing in a few silver for tips. However, the greedy barkeep says the bard can stay as long as he gets a cut of half the tips.
+**Success with a twist:** The crowd loves the halfling, even bringing in a few silver for tips. However, the greedy 
+
+```
+```
+___
+barkeep says the bard can stay as long as he gets a cut of half the tips.
 
 **Failure, but the story progresses:** Shazben gets booed off the stage after inadvertently insulting a local folk hero in song. He is no longer welcome at the tavern.
-
-```
-```
 
 #### Heroic Test of Presence (CR 20)
 
@@ -1082,28 +1135,32 @@ The peasant militia is poorly trained, under armed, and small in number. Their o
 
 **Failure, but the story progresses:** Maximus doesn't have what it takes to sway the hearts of such hopeless soldiers in so hopeless a cause. The militia disbands, and the village is surely lost to the orcs.
 
-
 ### Alteration
 
 Alteration is the attribute of changing matter from one form to another. It can be used to animate tree roots, carve statuary from boulders, shapeshift into a dragon, and transmute flesh to stone.
 
+
+
+
 #### Challenging Test of Alteration (CR 15)
 
-Svyll needs to reach the top of a short cliff, but he hasn't the skill in climbing to manage. He is one with the earth, though, so he attempts to mold the cliff face temporarily to create a sort of stone ladder upon which he can ascend.
+Svyll needs to reach the top of a short cliff, but he hasn't the skill in climbing to manage. He is one with the earth, though, so he attempts to mold the cliff face temporarily to create a rough stone ladder upon which he can ascend.
 
 **Success with a twist:** Svyll's magic doesn't fail him, but it doesn't work as efficiently as expected and his climb takes twice as long as it should have.
-
-**Failure, but the story progresses:** Svyll fails to take into account the delicate nature of the cliff, causing a small landslide to fall upon his party. However, when they pick themselves out of the rubble, they discover that the landslide revealed a cavern opening that was previously concealed.
 
 
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
+**Failure, but the story progresses:** Svyll fails to take into account the delicate nature of the cliff, causing a small landslide to fall upon his party. However, after dusting themselves off, they discover that the landslide revealed a cavern opening that was previously concealed.
+
 
 #### Heroic Test of Alteration (CR 20)
 
-Wrench and his squad are being pursued through the corridors of a wrecked space station by a horde of cannibalistic mutants. While the mutants are temporarily delayed breaking down one of the blast doors, Wrench attempts to animate the electronic gizmos in the room to slow down the horde and buy the group enough time to get back to their ship.
+Wrench and his squad are being pursued through the 
+
+corridors of a wrecked space station by a horde of cannibalistic mutants. While the mutants are temporarily delayed breaking down one of the blast doors, Wrench attempts to animate the electronic gizmos in the room to slow down the horde and buy the group enough time to get back to their ship.
 
 **Success with a twist**: It looks like it's going to take Wrench a little longer to spring his trap than he thought. The GM says that the rest of his party will have to fend off the mutants for five rounds to buy Wrench enough time, forcing them to make a tough decision.
 
@@ -1119,24 +1176,25 @@ Artemis isn't going to let a little thing like a thrice-locked stone door keep h
 
 ### Creation
 
-Creation is the attribute of healing and forming matter out of nothing. It can be used to close wounds, summon creatures out of thin air, and even raise the dead. Creation is also a tool for channeling higher powers, and thus it can be used to empower allies with divine might, inspiration, or similar effects.
+Creation is the attribute of healing and forming matter out of nothing. It can be used to close wounds, summon creatures out of thin air, and even raise the dead. Creation is also a tool for channeling higher powers, and  thus it can be used to empower allies with divine might, inspiration, or similar effects.
 
 #### Challenging Test of Creation (CR 15)
 
 Jaaxy is trying to gain entrance into the headquarters of the Order of Outlanders, but she lacks an appropriate keystone attuned to her biometrics required by the door guards. Having studied the shattered remains of a keystone acquired from a previous member of the Order, Jaaxy sits in her lab attempting to create a new one.
 
-**Success with a twist:** Jaaxy's keystone is good enough to get her through the door. However, it loses its biometric attunement shortly after she enters the headquarters.
+
+**Success with a twist:** Jaaxy's keystone is good enough to get her through the door. However, unbeknownst to her, a magnetic field erases the key right after she enters.
 
 **Failure, but the story progresses:** Jaaxy thinks her creation is perfect, but the door guards aren't fooled so easily. They identify the forgery and imprison her. She's within the headquarters now, just not on her own terms.
 
 
+```
+```
+
+
 #### Heroic Test of Creation (CR 20)
 
-Therilas is attempting to lead a party of refugees safely through the Decaying Desert. Were he in the woods, the druid could easily forage enough food and water to keep them alive. Lost in the desert, however, he is forced to
-
-___
-use his magic to summon forth sustenance for the desperate masses.
-
+Therilas is attempting to lead a party of refugees safely through the Decaying Desert. Were he in the woods, the druid could easily forage enough food and water to keep them alive. Lost in the desert, however, he is forced to use his magic to summon forth sustenance for the desperate masses.
 
 **Success with a twist:** The only way that Therilas is able to harness enough energy to feed so many people is to draw on his own life reserves. The GM rules that he suffers one level of the *fatigued* bane.
 
@@ -1158,25 +1216,22 @@ Energy is the extraordinary attribute that governs the control and creation of e
 
 #### Challenging Test of Energy (CR 15)
 
-Asger and Hertha have trekked long and hard through the frozen Fjords of the Titans, and as night falls they manage to take shelter in a cave before the midnight winds drop the temperature to deadly levels. Still, the cave is cold, and though Asger starts a meager fire to keep them warm, Hertha attempts to use her fire magic to maintain and multiply the heat to ward off hypothermia.
+Asger and Hertha have trekked long and hard through the frozen Fjords of the Titans, and as night falls they manage to take shelter in a cave before the midnight winds drop the temperature to deadly levels. Still, the cave is cold, and though Asger starts a meager fire to keep them warm, Hertha attempts to use her fire magic
 
-**Success with a twist:** Hertha's spell works, though the cold is stronger than she realized. In order to maintain the magic throughout the night, she must sacrifice a component of minor value to empower her charm. With the GM's approval, Hertha decides to melt down her golden bracelet to power the spell.
+to maintain and multiply the heat to ward off hypothermia.
 
-
-**Failure, but the story progresses:** Asger's fire is enough to keep them from freezing to death, but without Hertha's magic, they are still quite frostbitten and exhausted by the morning. Both PCs suffer one level of the *fatigued* bane.
+**Success with a twist:** Hertha's spell works, though the cold is stronger than she realized. In order to maintain the magic throughout the night, she must sacrifice a component of minor value to empower her charm. With the GM's approval,Hertha decides to melt down her golden bracelet to power the spell.
 
 \page
-
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
 <img class="full-page cover-all"
  src="http://localhost:8888/_full_page/jungle_airship_andrey_vasilchenko.jpg" />
 
-
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
+**Failure, but the story progresses:** Asger's fire is enough to keep them from freezing to death, but without Hertha's magic, they are still quite frostbitten and exhausted by the morning. Both PCs suffer one level of the *fatigued* bane.
 
 
 #### Heroic Test of Energy (CR 20)
@@ -1197,13 +1252,15 @@ Hamlin Harbuckle sits peacefully on the deck of *The Rest*, a merchant vessel hi
 
 **Failure, but the story progresses:** Hamlin attempts to settle the waves and the wind to no avail. A massive lightning bolt sunders the mast to pieces.
 
+
 ### Entropy
 
 Entropy is the extraordinary attribute of destruction, death, and negative energy. It is the stuff of necromancers and anti-matter rays, ghosts and demons. You would make an Entropy roll in order to destroy solid matter, complete a dark ritual, or close a portal to a plane of evil or shadow.
 
+
 #### Challenging Test of Entropy (CR 15)
 
-Gizmo is attempting to bypass a lock on a mundane door using his Pocket Matter Disintegration Device. He focuses the beam on the lock and rolls to remove it from existence.
+Gizmo attempts to bypass a lock on a mundane door with his Pocket Matter Disintegration Device. He focuse the beam on the lock and rolls to remove it from  existence.
 
 **Success with a twist:** Gizmo's device works, but overheats in the process due to the volatile nature of his mad science. He can't use it again until he has the time and equipment to make repairs.
 
@@ -1211,10 +1268,7 @@ Gizmo is attempting to bypass a lock on a mundane door using his Pocket Matter D
 
 #### Heroic Test of Entropy (CR 20)
 
-Balthazar has delved deep into the Tomb of Aliki to gain access to the powerful death magics rumored to be buried within. The necromancer encounters the shade
-
-___
-of Aliki himself, who demands that Balthazar prove his power over the things of the night or face his own destruction. Balthazar channels his necromantic magic to manipulate the shadows in the chamber, shaping and moving them about to his desire.
+Balthazar has delved deep into the Tomb of Aliki to gain access to the powerful death magics rumored to be buried within. The necromancer encounters the shade of Aliki himself, who demands that Balthazar prove his power over the things of the night or face his own destruction. Balthazar channels his necromantic magic to manipulate the shadows in the chamber, shaping and moving them about to his desire.
 
 **Success with a twist:** The spell works, though the ghost is unimpressed. Aliki animates the shadows to attack the necromancer, stating that Balthazar can prove his worthiness by defeating the shadows.
 
@@ -1230,39 +1284,27 @@ Xu Ming and his team of survivors have journeyed in their starcruiser to an aban
 
 ### Influence
 
-Influence is used to cover such extraordinary powers as turning invisible, controlling minds, and creating illusory phantasms to deceive others. Any time you are using extraordinary means to affect what another creature perceives or to exert mental control over them, you will likely be making an Influence roll. Influence differs from the attributes Presence, Deception, and Persuasion in that it is used for extreme or supernatural effects. Whereas Persuasion might be used to convince a creature to agree with you by using a strong argument and evidence, Influence would be used to accomplish the same effect using mental charm or domination.
+Influence is used to cover such extraordinary powers as turning invisible, controlling minds, and creating illusory phantasms to deceive others. Any time you are using extraordinary means to affect what another creature perceives or to exert mental control over them, you will likely be making an Influence roll. 
 
-
-
+Influence differs from the attributes Presence, Deception, and Persuasion in that it is used for extreme or supernatural effects. Whereas Persuasion might be used to convince a creature to agree with you by using a strong argument and evidence, Influence would be used to accomplish the same effect using mental charm or domination.
 
 #### Challenging Test of Influence (CR 15)
 
 Ensign Destiny attempts to convince the bouncer at the cantina that her friends should be allowed to leave peacefully. To stack the deck against the bouncer, Destiny activates the Pheromone Enhancement Matrix on her cyberwear to cloud his judgement.
 
 
+\page
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/stryx_portal_andrey_vasilchenko.jpg" />
+
+\page
+
+<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+
 **Success with a twist:** The trick works, but her cyberwear has obviously been miscalibrated. Rather than simply convinced, the bouncer has been seduced. He is under the distinct impression that Destiny is hitting on him.
 
-
-\page
-
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
-# Epic Entropy Illustration Here
-
-<!-- <img class="full-page cover-all"
- src="http://localhost:8888/_full_page/jungle_airship_andrey_vasilchenko.jpg" /> -->
-
-
-
-
-\page
-
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
 **Failure, but the story progresses:** Unfortunately, this bouncer got fooled by Pheromone Enhancements last week and his employer was not too happy about it. He recognizes the trick quickly, and the negotiation quickly escalates to combat.
-
-
 
 #### Heroic Test of Influence (CR 20)
 
@@ -1278,11 +1320,20 @@ The only thing that stands between Sir Thomas and the Sword of Light is an undea
 
 **Success with a twist:** Sir Thomas's prayer is heard, though Char's power is greater than the paladin realized. The dragon fails to completely ensorcell Thomas, but when the fight breaks out, the paladin begins with the *stunned* bane.
 
-**Failure, but the story progresses:** Sir Thomas is far from his god in this dank pit and cannot channel enough divine power to overcome the dragon's wyrm tongue. Before he realizes what he has done, the paladin has revealed his deepest secrets to the ancient beast. Thomas begins the fight with the *stunned* bane and Char gains advantage 1 on every action roll throughout the combat due to his deep knowledge of the paladin's inner self.
+**Failure, but the story progresses:** Sir Thomas is far from his god in this dank pit and cannot channel enough divine power to overcome the dragon's wyrm tongue. 
+
+___
+Before he realizes what he has done, the paladin has revealed his deepest secrets to the ancient beast. Thomas begins the fight with the *stunned* bane and Char gains advantage 1 on every action roll throughout the combat due to his deep knowledge of the paladin's inner self.
 
 ### Movement
 
-Movement governs extraordinary means of locomotion, travel, and speed—as well as secondary effects that are tied to these spheres. Movement is typically used to invoke boons such as *haste*, *teleport*, and *flight*. However, the GM may call for a straight Movement roll when the success of the action isn't tied so much to the successful invocation of the boon as it is to the circumstances of the action. The examples below illustrate such instances.
+Movement governs extraordinary means of locomotion, travel, and speed—as well as secondary effects that are tied to these spheres. Movement is typically used to invoke boons such as *haste*, *teleport*, and *flight*. However, 
+
+___
+the GM may call for a straight Movement roll when the success of the action isn't tied so much to the successful invocation of the boon as it is to the circumstances of the action. The examples below illustrate such instances.
+
+```
+```
 
 #### Challenging Test of Movement (CR 15)
 
@@ -1291,7 +1342,6 @@ Victoria is trying to create enough of a distraction to allow her ally, Nick, to
 **Success with a twist:** The whirlwind of junk distracts the guards long enough to let Nick dive behind some cover and grab an improvised weapon, but the thugs are right on his tail.
 
 **Failure, but the story progresses:** Nick thinks he's got a chance to make a break for it, but Victoria's powers fail her at just the wrong moment, and one of the thugs pistol whips Nick unconscious as he attempts to escape.
-
 
 #### Heroic Test of Movement (CR 20)
 
@@ -1308,27 +1358,22 @@ Ace is piloting the escape pod his crew used to break free from InterGal HQ. The
 
 **Success with a twist:** Ace manages to override all of the pod's failsafes in order to redirect every ounce of its power into the forward thrust. The ship escapes the tractor beam, but its navigation systems get fried in the process. The crew no longer has control over their trajectory, and must drift aimlessly through space until they can manage a repair or find some aid.
 
-
-
-
-
 **Failure, but the story progresses:** Ace can't break the ship's safety protocols, and the pod is quickly swallowed back into InterGal HQ. It will only be a matter of minutes until they are swarmed by Galactic Troops.
 
 ### Prescience
 
-Prescience is the attribute that governs knowledge gained from extraordinary sources such as extrasensory perception, divination magic, or even a super heightened awareness of details. You make a Prescience roll whenever you are attempting to use means beyond the scope of a normal creature in order to perceive details or communicate with beings that would otherwise be impossible.
-
-#### Challenging Test of Prescience (CR 15)
-
-The crew is barricaded in the sporting goods store of the mall with a horde of zombies attempting to tear down the entrance gate. They have two means of escape to choose from: take the air ducts to the roof or exit from the
+Prescience is the attribute that governs knowledge  gained from extraordinary  sources such as extrasensory perception, divination magic, or even a super heightened awareness of details. You make a Prescience roll whenever you are attempting to use means beyond the
 
 \page
 
-
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
+___
+scope of a normal creature in order to perceive details or communicate with beings that would otherwise be impossible.
 
-loading dock  into the parking lot. Victoria, gifted with psychic abilities ever since the Event, attempts to gain a glimpse of the risk of each path. The GM knows that a handful of zombies crawl about the ducts and that an entire horde lurks in the loading dock.
+#### Challenging Test of Prescience (CR 15)
+
+The crew is barricaded in the sporting goods store of the mall with a horde of zombies attempting to tear down the entrance gate. They have two means of escape to choose from: take the air ducts to the roof or exit from the loading dock  into the parking lot. Victoria, gifted with psychic abilities ever since the Event, attempts to gain a glimpse of the risk of each path. The GM knows that a handful of zombies crawl about the ducts and that an entire horde lurks in the loading dock.
 
 **Success with a twist:** Victoria gets impressions of death in the air ducts, but she is a neophyte in the ways of her powers, and suffers a severe headache before she can get a reading on the loading bay.
 
@@ -1336,37 +1381,33 @@ loading dock  into the parking lot. Victoria, gifted with psychic abilities ever
 
 #### Heroic Test of Prescience (CR 20)
 
-As Shane chases him through the corridors of Payne Manor, the Doctor ducks into a side room. Seconds later, Shane busts into the room, only to find no sign of the Doctor, and no other visible exits. Unbeknownst to our hero, his quarry has opened a secret passage behind a bookshelf that is activated
-
-___
-by dialing a number on the phone that rests on a nearby desk. Shane takes a deep breath, calms his nerves, and attempts to use his cybernetically enhanced senses to detect the Doctor.
+As Shane chases him through the corridors of Payne Manor, the Doctor ducks into a side room. Seconds later, Shane busts into the room, only to find no sign of the Doctor, and no other visible exits. Unbeknownst to our hero, his quarry has opened a secret passage behind a bookshelf that is activated by dialing a number on the phone that rests on a nearby desk. Shane takes a deep breath, calms his nerves, and attempts to use his cybernetically enhanced senses to detect the Doctor.
 
 **Success with a twist:** Shane gains no perception of the secret passage, but he does notice that the phone is slightly askew and the items nearby it disheveled as if having been  recently disturbed.
 
 **Failure, but the story progresses:** Shane loses the Doctor, and he wastes a good deal of time in the study trying to pick up a trail. By the time he gives up hope, the Doctor is long gone.
 
-
 #### Epic Test of Prescience (CR 25)
 
 Ruby is investigating the scene of the lord mayor's assassination. There are no obvious physical signs of the cause of death, so she touches her hand to the mayor's heart and attempts to communicate with his spirit and learn whatever she can.
 
-
-**Success with a twist:** Ruby can speak briefly with the mayor. However, her connection with his troubled soul becomes semi-permanent. She is tortured by his desire for vengeance until his killer is brought to justice. While this effect persists, Ruby suffers one level of the *fatigued* bane.
+**Success with a twist:** Ruby can speak briefly with the mayor. However, her connection with his troubled soul becomes semi-permanent. She is tortured by his desire for vengeance until his killer is brought to justice. Ruby suffers a level of the *fatigued* bane, until his soul is at rest. 
 
 **Failure, but the story progresses:** In her attempts to contact the dead, Ruby instead makes contact with something far more sinister. An undead shadow takes form before her and attacks.
+
+```
+```
 
 ### Protection
 
 The Protection attribute represents a character's extraordinary means of preventing harm, warding off danger, and breaking unwanted control. You might make a Protection roll in order to keep allies safe in the face of a trap or hazard, prevent unwanted creatures from approaching, or hold back a powerful force of nature.
 
-```
-```
 
 #### Challenging Test of Protection (CR 15)
 
 As Balthazar and his companions make their way up the narrow ledge that encircles the Mountain of Shade, a snowy gale of unnatural force threatens to hurl them to their doom. Balthazar slams his staff into the ground and utters a spell of shielding to wrap his companions in a shield of force to deflect the wind.
 
-**Success with a twist:** Balthazar manages to complete his spell, but his shield is not as big as he had hoped, and two of his companions must still resist the winds on their own.
+**Success with a twist:** Balthazar manages to complete his spell, but his shield is not as big as he had hoped. Two of his companions must resist the winds on their own.
 
 **Failure, but the story progresses:** The mighty gale hurls Balthazar's staff from his hands before he can finish the spell. Now he must not only fight to remain on the cliff, but he also risks losing his staff.
 

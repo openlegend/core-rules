@@ -6,7 +6,7 @@
 <div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
 
 <img class="full-page cover-all"
- src="http://localhost:8888/_full_page/Dark%20Super%20Heroes%20-%20Mahea%20Rodrigues.jpg" />
+ src="http://localhost:8888/_full_page/Dark%20Superheroes%20Mahea%20Rodrigues.jpg" />
 
 \page
 
@@ -152,10 +152,12 @@ Many actions that you will undertake in *Open Legend* have a Challenge Rating (C
 
 Oftentimes, though, the GM will need to determine the CR for actions that aren't spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
 
+It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth. However, it may be helpful when creating scenarios for GMs to understand the typical capabilities of a character based on their attribute score. The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed score can be expected to succeed at the listed Challenge Rating about **50%** of the time.
 
-<div style="text-align: center">
+<br>
+
+___
 ##### Challenge Ratings by Difficulty
-</div>
 
 
 | Difficulty | Challenge Rating | Example Actions |
@@ -166,14 +168,13 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren't
 | Epic | 25 | translate a text in an alien language, break down an iron door |
 | Legendary | 30 | leap a 25' chasm, climb a flat surface, befriend an enemy with a vendetta against you |
 
-It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth. However, it may be helpful when creating scenarios for GMs to understand the typical capabilities of a character based on their attribute score. The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed score can be expected to succeed at the listed Challenge Rating about **50%** of the time.
 
 ```
 ```
 
-<div style="text-align: center">
+___
 ##### Average Challenge Ratings <br /> vs. Attribute Scores
-</div>
+
 
 | Attribute Score | Average Challenge Rating |
 | :-: | :-: |
@@ -201,7 +202,7 @@ To resolve such contests, each character involved makes an action roll using an 
 
 ### Group Action Rolls
 
-In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures than successes, the task fails. Otherwise, the task succeeds. The GM interprets this success or failure
+In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures than successes, the task fails. Otherwise, the task 
 
 \page
 
@@ -215,7 +216,7 @@ In certain scenarios, the success of an action relies on the skills of multiple 
 <div class="wide" style="padding-top: 1930px;"></div>
 
 ___
-as if it were a single action roll, rather than interpreting each action roll separately.
+succeeds. The GM interprets this success or failure as if it were a single action roll, rather than interpreting each action roll separately.
 
 The GM always has the final say as to when a group action roll is called for and, if so, which characters may contribute to the task.
 
@@ -227,17 +228,18 @@ Advantage and disadvantage are always expressed with a numeric level, such as â€
 
 If a situation arises in which you are assigned both advantage and disadvantage, find the difference between the two values to determine your final outcome. For example, if you have advantage 1 and disadvantage 1, they negate each other and thus your action roll is normal. If you have advantage 1 and disadvantage 2, your action roll would be made with disadvantage 1.
 
+
 ### Effects of Advantage & Disadvantage
 
 When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
 
-<div style="padding-top: 10px;"></div>
+
 
 > ##### Example: Advantage
 >
 > Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. The d20 rolls a 16 and the 4d10 roll 3, 5, 7, and 9. She removes the lowest d10 before calculating her total, leaving her with a final roll of 16 + 5 + 7 + 9 = 37.
 
-<div style="padding-top: 10px;"></div>
+<div></div>
 
 > ##### Example: Disadvantage
 >
@@ -313,5 +315,4 @@ The GM may also feel free to establish other rules for awarding legend points. F
 A PC may spend a maximum number of legend points equal to their level plus one in order to enhance a single action roll.
 
 Before making an action roll, the PC declares how many legend points they are spending, and gains advantage 1 on the roll for each legend point spent. Additionally, for each legend point spent on the roll a +1 is added to the end result.
-
 

@@ -1,21 +1,20 @@
-# blank to get Left / Right ordering
+# blank to get Left / Right ordering 
 # started on LEFT
 
 \page
 
 
-<div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
+<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
 
-# Needs Illustration
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/AlixBranwyn-AstraeaRathe.jpg" />
 
-<!-- <img class="full-page cover-all"
- src="http://localhost:8888/seventh_sphere_logo.svg" /> -->
 
 \page
 
-<div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
-
-# Chapter 4: Perks & Flaws
+<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
+ 
+# Chapter 5: Perks & Flaws
 
 In this chapter, you'll find detailed descriptions of the perks and flaws that you can use to round out your character's personality, background, strengths, and weaknesses. Additionally, you'll learn how to activate your perks and flaws to enhance your roleplaying and gain mechanical benefits.
 
@@ -47,27 +46,27 @@ Perks provide very specific bonuses or effects in specific situations. Your perk
 
 While perks provide specific benefits according to their descriptions, flaws are actively used by players to hinder the actions of their characters. You would do this for two primary reasons: first, to add depth and variety to your character and the story; and, second, to earn legend points, which can be used to enhance your chances of success on a future action (see Chapter 2: Actions and Attributes). In this way, flaws and legend points provide a sort of karmic balance to one another. Your sacrifice in one situation is rewarded in a future situation.
 
-To activate a flaw, you should intentionally make a disadvantageous choice based on your flaw that creates an interesting or tense moment in the plot. When you do so, let your GM know that you are activating your flaw and describe how it is hindering your efforts or influencing your decisions. If the GM approves that your flaw is creating a significant disadvantage and advancing the story, you receive one legend point. Sometimes, the GM may recognize that you are roleplaying a flaw without
+To activate a flaw, you should intentionally make a disadvantageous choice based on your flaw that creates an interesting or tense moment in the plot. When you do so, let your GM know that you are activating your flaw and describe how it is hindering your efforts or influencing your decisions. If the GM approves that your flaw is creating a significant disadvantage and advancing the story, you receive one legend point. Sometimes, the GM may recognize that you are roleplaying a flaw without 
 
 \page
 
-<div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
+<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
 
 you having to overtly activate it. In such cases, the GM may award you with a legend point as well. You may not gain a legend point from the same flaw more than once per game session. Furthermore, you are in complete control of how and when your own flaws affect you. For example, you might play a blind samurai (using the *disabled* flaw) who has such heightened senses of hearing, smell, and touch that they're usually completely unaffected by their blindness. Only under extreme circumstances does the blindness hinder them.
 
 The type of hindrance caused by activating a flaw should be more than a simple reduced chance of success. Good examples of activating a flaw include putting yourself or an ally in danger, making a bad decision, wasting a resource, and missing out on an opportunity, among others. It's also important to note that a good use of a flaw makes something new and interesting happen in the story rather than ending the narrative. For example, instead of activating a flaw to miss an attack, you might target an ally. Or, rather than activating a flaw to fail to find a secret door, you might make so much noise in your search that you attract unwanted attention.
 
-> ### Examples of Activating Flaws
+> ##### Examples of Activating Flaws
 > Oxnar the Barbarian was never known for his brains, so when the pixie promised him that eating the golden mushroom would make him as strong as a hundred mules, he gobbled it up with no questions and much gusto. A minute later he was dozing in a puddle of his own drool as the imp made off with his coin purse. The GM awards Oxnar with a legend point for effectively roleplaying his *dimwitted* flaw to his own detriment.
 > ___
 >
 > ___
->
+> 
 > Normally, Celeste's blindness from the *disabled* flaw doesn't stop her from being one of the best shots in the Badlands. Her keen hearing and extrasensory perception more than make up for her lack of sight. The unearthly wailing of these zombie shriekers, however, have overwhelmed her senses. The player who is role-playing Celeste decides that the situation is dicey enough that she will unintentionally target one of her allies. She lets the GM know that she is specifically activating her *disabled* flaw, and the GM agrees that the impact is significant enough to merit a legend point for adding a new level of depth and realism to the story the group is telling together.
 > ___
 >
 > ___
->
+> 
 > The psion Madrina has the *ambitious* flaw. After rescuing a group of mining colony civilians from a catastrophic air lock breach, Madrina is given the chance to ask a reward of the Chancellor. Madrina asks for the hand of the Chancellor's eldest in marriage, rather than a more reasonable request such as a pick from the Chancellor's treasury. The Chancellor becomes infuriated, but the GM awards a legend point for role-playing a flaw in a way that advances the story.
 
 ```
@@ -77,7 +76,7 @@ The type of hindrance caused by activating a flaw should be more than a simple r
 
 ### Ageless
 
-Whether you are an android constructed of space age material that does not erode over time, the loyal servant of a higher power, or the subject of an arcane ritual, you have unlocked the secret to immortality. You are immune to the passage of time and the effects of old age. Your body does not
+Whether you are an android constructed of space age material that does not erode over time, the loyal servant of a higher power, or the subject of an arcane ritual, you have unlocked the secret to immortality. You are immune to the passage of time and the effects of old age. Your body does not 
 
 ___
 age and you cannot be harmed by extraordinary effects that cause aging. Based on the source of your agelessness, you can decide whether or not your appearance changes over time.
@@ -101,7 +100,7 @@ While others might convince with a silver tongue, you speak the universal langua
 
 \page
 
-<div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
+<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
 
 ### Courageous
 
@@ -158,7 +157,7 @@ You are well-known and respected as a protector of the common folk in a small re
 
 \page
 
-<div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
+<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
 
 ### Lucky
 
@@ -209,11 +208,11 @@ You have practiced the ways of sneaking hidden charms and subliminal messages wi
 
 ### Stone Sense
 
-While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which
+While underground you may fail to find what you're looking for, but you can never be truly lost. You can always find your way back to the entrance through which 
 
 \page
 
-<div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
+<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
 
 you entered. Furthermore, you have advantage 1 on any action rolls in which a familiarity with underground environments would prove helpful, such as attempts to identify the risk of a cave-in or to find a secret passage within a cavern.
 
@@ -253,7 +252,7 @@ The roll of the dice, the smoke of the Black Lotus, or the escape of the virtual
 
 ### Ambitious
 
-You are willing to do anything to get ahead in life and often that means trampling upon other people on your way to the
+You are willing to do anything to get ahead in life and often that means trampling upon other people on your way to the 
 
 
 top. When presented with a situation requiring empathy for those beneath you, it's typical for you to ignore their need. In addition, you may sometimes overreach in your attempts to get ahead, making bold and risky choices that can put you and those close to you in danger.
@@ -277,7 +276,7 @@ Something about you makes you less attractive, undesirable to behold, or even ju
 
 \page
 
-<div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
+<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
 
 
 ### Compulsion
@@ -344,13 +343,19 @@ You are terrified and incapable of rational thought when you are presented with 
 
 ### Proud
 
-Some call it an inflated ego. Others call it conceit. But you know that you really are just that good. The rabble
+Some call it an inflated ego. Others call it conceit. But you know that you really are just that good. The rabble 
 
 
 \page
 
-<div class='footnote'>CHAPTER 4: PERKS & FLAWS</div>
+<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
 
+<img style="position: absolute; top: 0px; left: 0; width: 100%;"
+ src="http://localhost:8888/_not_full_page/samurai%20-%20vargasni.jpg" />
+
+<div class="wide" style="padding-top: 1650px;"></div>
+
+___
 are inferior, and you're not afraid to let them know. Your pride may be a universal sense of self-worth, or it may only manifest itself within certain spheres or situations. For example, your rank in the Royal Star Force leads you to look down upon anyone trained in less illustrious armed forces.
 
 ### Psychotic
@@ -368,11 +373,15 @@ You suffer from some sort of chronic illness or condition, such as tuberculosis,
 
 ### Socially Awkward
 
-Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, tend to ramble in conversation, or share overly personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.
+Something about your behavior tends to rub people the wrong way. Perhaps you don't respect the personal space of others, tend to ramble in conversation, or share overly 
+
+___
+personal details. Whatever the nature of your awkwardness, it makes social situations difficult for you at times.
 
 ### Stubborn
 
 It's your way or the highway. Maybe not all of the time, but once you've made your mind up on an important matter, you won't budge. You probably won't even compromise.
+
 
 ### Uncoordinated
 
@@ -382,15 +391,9 @@ Your body just doesn't work well with itself. You have trouble balancing, catchi
 
 You let no slight go unpunished. While some might be able to shake off an insult from a tavern drunk, you take it as a personal assault that demands satisfaction. The more severe the crime, the greater the vengeance you will mete out.
 
-```
-```
+
 
 ### Zealous
 
 You stand for a cause—whether it is a religion, a nation, a code, a way of life, or otherwise—and you will push the boundaries of normal behavior to uphold your cause. This might mean that you make yourself a social outcast by attempting to convert others to your cause, or it could mean that you are willing to perform an act you might otherwise consider evil, such as putting innocent lives in danger, if doing so would promote your cause.
 
-
-\page
-
-# blank to get Left / Right ordering
-# started on LEFT with NEXT CHAPTER

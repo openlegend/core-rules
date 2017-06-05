@@ -1,23 +1,27 @@
-# blank to get Left / Right ordering
+# blank to get Left / Right ordering 
 # started on LEFT
+
 
 \page
 
-<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
+<div class='footnote'>CHAPTER 6: WEALTH & EQUIPMENT</div>
 
 <img class="full-page cover-all"
  src="http://localhost:8888/_full_page/Weapons%20and%20Armor%20-%20Forrest%20Imel.jpg" />
 
+
+
+
 \page
 
-<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
+<div class='footnote'>CHAPTER 6: WEALTH & EQUIPMENT</div>
 
-# Chapter 5: Wealth & Equipment
+# Chapter 6: Wealth & Equipment
 
 No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you'll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you claim space pirate bounties and dip your hands in the coffers of kings.
 
 ## Wealth
-Rather than tracking every gold piece, credit, or fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
+Rather than tracking every gold piece, credit, or fine art object acquired over the course of your adventures, Open Legend uses a simplified wealth system.
 
 Every character has a wealth score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each wealth score.
 
@@ -38,11 +42,12 @@ Every character has a wealth score, which begins at 2 and can range from 0 to 9,
 | 8 | intergalactic ruler, 10th level hero | a sprawling estate, a large corporate buyout, an army of 10,000 |
 | 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
-```
-```
 
 ### Acquiring Goods and Services
-Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines if you are able. Every good or service is assigned a wealth level (either in the rules or by the GM). This level is compared with your wealth score in order to determine the cost of acquiring the item, as follows:
+Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score
+
+___
+determines if you are able. Every good or service is assigned a wealth level (either in the rules or by the GM). This level is compared with your wealth score in order to determine the cost of acquiring the item, as follows:
 
 If the good you want to purchase has a level **lower than** your wealth score, you can acquire the item easily without taxing your time and resources.
 
@@ -52,7 +57,7 @@ If the object of your purchase is **one level higher than** your wealth score an
 
 You cannot make purchases that are more than one level higher than your wealth score.
 
-> #### Examples of Acquiring Goods and Services
+> ##### Examples of Acquiring Goods and Services
 >
 > Thanks to a recently successful salvage run, Shara's wealth score just increased to 4. She's had her eyes set on a new cargo ship for a while now, which the GM has set at wealth level 5. Shara chooses to spend her savings to get the ship. Because it is one level higher than her current wealth score, her wealth is permanently reduced by 1, leaving her again with a wealth score of 3.
 >
@@ -60,22 +65,24 @@ You cannot make purchases that are more than one level higher than your wealth s
 >
 > Slade, master of the local thieves' guild, has a wealth score of 5. He wants to outfit all of his men with new weapons, which the GM has decided equates to wealth level 5. Slade can complete the purchase, but it is so taxing on his resources that for the next two weeks he can only acquire goods that are below his wealth score.
 >
-> * * * * *
+> ---
 >
 > Crazy Mac has panhandled his way up to a wealth score of 1. From now on, he can afford 3 square meals and a warm bed every night, because they are priced at wealth level 0.
 
 #### The Rule of Common Sense
 Your wealth score determines which purchases are possible given the proper circumstances. Obviously, if you are in the middle of a desert, you can't buy a keg of water even if you have the wealth of an emperor. Likewise, even though you have enough money to raise an army, the GM may rule that you still require the appropriate amount of time, effort, and charisma to convince the soldiers to follow you.
 
-\page
-
-<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
 
 ### Gaining Wealth
 
-As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character's wealth increases, and the Wealth Overview table provides a few milestones of typical character wealth scores at different levels.
+As you travel the stars, slay mythic beasts, and win over affluent nobles, your wealth will increase. The GM decides when a character's wealth increases, and the Wealth Overview table provides a few milestones of typical character wealth scores at different levels. Typical situations of when the GM would grant you an increase
 
-Typical situations of when the GM would grant you an increase in your wealth score include acquiring a large hoard from a monster's lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
+\page
+
+<div class='footnote'>CHAPTER 6: WEALTH & EQUIPMENT</div>
+
+
+in your wealth score include acquiring a large hoard from a monster's lair, finding a buyer for an item of great power or value, or being rewarded by a great ruler.
 
 ## Carrying Capacity
 
@@ -87,11 +94,11 @@ You can carry up to twenty pieces of gear. No more. Only track the items that wi
 
 Multiple items of a similar nature that can be stowed together, such as twenty arrows in a quiver or a belt of healing potions, only count as a single item. The GM can use their own discretion to apply common sense limits if necessary. For example, even though technically 1000 clips of ammo would count as a single item, the GM is free to rule that a PC can't carry them or that they would count as a *bulky* item (see below).
 
-### Maximum *Heavy* Items Equals Might Score
+### Maximum Heavy Items Equals Might Score
 
 Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score. Once you're carrying your maximum number of *heavy* items, your speed is cut in half. A character with a zero Might score cannot carry any heavy items.
 
-### One (Maybe Two) *Bulky* Items
+### One (Maybe Two) Bulky Items
 
 Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5'.
 
@@ -105,37 +112,48 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 
 * **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
-
+    ___
     * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, if neither has the *defensive* property, you gain advantage 1 to all melee attacks. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
     * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks.
     * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
 
 * **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you.
-    * **Range Increments**
+   ___
+   - **Range Increments**
+     ___
+     * **Close Ranged** - Range increment of 25'.
+     * **Short Ranged** - Range increment of 50'.
+     * **Medium Ranged** - Range increment of 75'.
+     * **Long Ranged** - Range increment of 125'.
+     * **Extreme Ranged** - Range increment of 300'.
+   ___
+   * **Close** and **Short** Ranged weapons are built to be compact and effective in close quarters, so they are less bulky. They can be wielded with a single hand, allowing the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
+   * **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
+   * **Extreme** Ranged weapons are specially built for distance and cannot be used to attack a target closer than 50'.
 
-        * **Close Ranged** - Range increment of 25'.
-        * **Short Ranged** - Range increment of 50'.
-        * **Medium Ranged** - Range increment of 75'.
-        * **Long Ranged** - Range increment of 125'.
-        * **Extreme Ranged** - Range increment of 300'.
 
-    * **Close** and **Short** Ranged weapons are built to be compact and effective in close quarters, so they are less bulky. They can be wielded with a single hand, allowing the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
-    * **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
-    * **Extreme** Ranged weapons are specially built for distance and cannot be used to attack a target closer than 50'.
+**WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
+
+**Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
+
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. You may use the weapon to inflict the listed banes even if you are not using one of the attack attributes listed in the bane description. When an attacker uses the weapon to
 
 \page
 
-<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
+<div class='footnote'>CHAPTER 6: WEALTH & EQUIPMENT</div>
 
 <br>
 
 <div class="wide">
 
+___
+## Weapons & Implements
 
-##### Weapons & Implements
+---
 
+---
 
-| Examples | Category | WL | Properties | Banes |
+| Examples | Category | WL <div style="width: 200px;"></div> | Properties | Banes |
 | :---- | :-: | :-: | :---- | :---- |
 | Unarmed Strike | One-handed Melee | 0 | Forceful, Precise, Swift | Stunned, Knockdown |
 | Bowie Knife, Shiv, Multi-tool | One-handed Melee | 2 | Precise, Swift | Persistent Damage, Disarmed |
@@ -169,18 +187,9 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 \page
 
-<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
+<div class='footnote'>CHAPTER 6: WEALTH & EQUIPMENT</div>
 
-**WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
-
-**Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
-
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. You may use the weapon to inflict the listed banes even if you are not using one of the attack attributes listed in the bane description. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
-
-
-> ### Weapons and Game Balance
->
-> Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a shortsword over a longsword, mechanically speaking, because they are identical except that a longsword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a shortsword over a longsword. A newly formed thieves guild, for example, might not have the resources to equip everyone with longswords, so their low-level agents might be equipped with shortswords.
+inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
 
 ### Properties
 
@@ -188,25 +197,29 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Expendable** - An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.
 
-**Defensive** - A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you don't gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.
 
-**Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
+**Delayed Ready** - This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
-**Forceful** - This weapon can be used to make attacks with the Might attribute and invoke banes accessible via Might.
+**Forceful** - This weapon can make attacks with the Might attribute and invoke banes accessible via Might.
 
 **Heavy** - The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
-**Precise** - This weapon can be used to make attacks with the Agility attribute and invoke banes accessible via Agility.
+**Precise** - This weapon can make attacks with the Agility attribute and invoke banes accessible via Agility.
 
 **Reach** - This weapon extends the natural melee range of the creature by 5'.
 
-**Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is still applied. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+**Slow** - If you are wielding this weapon at the beginning of combat, you gain disadvantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, this penalty is still applied. If you are wielding multiple  weapons, your initiative modifier is  equal to the slowest among them (slow, swift, or neither).
 
-**Stationary** - The bulk and weight of this weapon is enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.
+**Stationary** - The bulk and weight of this weapon is
 
-**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you still get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+> ##### Weapons and Game Balance
+>
+> Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a shortsword over a longsword, mechanically speaking, because they are identical except that a longsword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a shortsword over a longsword. A newly formed thieves guild, for example, might not have the resources to equip everyone with longswords, so their low-level agents might be equipped with shortswords.
 
-> #### Tech Levels
+<div></div>
+
+> ##### Tech Levels
 >
 > Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make:
 >
@@ -222,6 +235,10 @@ The Weapons & Implements table provides information about a wide variety of gear
 > You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
 
 
+enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.
+
+**Swift** - If you are wielding this weapon at the beginning of combat, you gain advantage 2 on your initiative roll. If you are not wielding the weapon but plan to use it on your first turn, you still get this bonus. If you are wielding multiple weapons, your initiative modifier is equal to the slowest among them (slow, swift, or neither).
+
 
 
 
@@ -229,9 +246,6 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 The armor table details various types of protection that you might equip in order to keep yourself from harm. Like the Weapons and Implements table, it features examples from a variety of genres that can easily be adapted to fit your campaign. Armor provides a bonus to your Guard defense, thus reducing or negating the damage that you would suffer from many types of attacks.
 
-\page
-
-<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
 
 The Armor table summarizes the following properties of each type of armor:
 
@@ -241,18 +255,24 @@ The Armor table summarizes the following properties of each type of armor:
 
 **Wealth Level** is an indication of how expensive the armor is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
-**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the appropriate Fortitude score, a character cannot benefit from the protection afforded by the armor.
+**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the requisite Fortitude score, a character cannot benefit from the protection it affords.
 
 **Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
-**Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
+\page
+
+<div class='footnote'>CHAPTER 6: WEALTH & EQUIPMENT</div>
 
 
-| Armor |
-| - |
-| |
+<div class="wide" style="margin-top: -70px; margin-bottom: 50px;">
+___
+## Armor
 
-| Examples | Type | Wealth Level | Required Fortitude | Defense Bonus | Speed Penalty |
+---
+
+---
+
+| Examples | Type <div style="width: 400px;"></div> | Wealth <br>Level <div style="width: 400px;"></div> | Required <br>Fortitude <div style="width: 400px;"></div> | Defense <br>Bonus | Speed <br>Penalty <div style="width: 300px;"></div> |
 | :----- | :-: | :-: | :-: | :-: | :-: |
 | Leather Armor, Steelsilk, Padded Armor | Light | 1 | 0 | 1 | 0 |
 | Armored Trench Coat, Electropolymer Armor | Medium | 3 | 2 | 2 | 0 |
@@ -261,7 +281,10 @@ The Armor table summarizes the following properties of each type of armor:
 | Power Armor, Elven Plate Mail | Heavy | 4 | 1 | 3 | 0 |
 
 
+</div>
 
+&nbsp;&nbsp;&nbsp;
+**Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
 
 
 ### Getting in and out of Your Armor
@@ -270,7 +293,7 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 ## Building Your Own Weapons
 
-Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the four step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
@@ -278,9 +301,23 @@ Typically a weapon belongs to one category, however some weapons, such as a dagg
 
 ### Step 2: Choose Properties
 
-Every weapon must have either the *Forceful* or *Precise* property and some weapons have both. Choose one or both.
+Every weapon must be either *Forceful* or *Precise*. Some weapons are both. Choose one or both.
 
-Next, choose any additional properties that the weapon possesses. Properties adjust the wealth level according to the following table.
+Next, choose any other properties that the weapon possesses. Step 4 includes a table that details the wealth level adjustment of each.
+
+
+### Step 3: Choose Banes
+
+Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact wealth level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
+
+
+
+### Step 4: Calculate Wealth Level
+
+All weapons (with the exception of unarmed strike), begin
+
+___
+with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions you made in steps 2 and 3. Then, compare the weapon to others of similar power. If necessary, adjust the wealth level up or down slightly so that it is an accurate representation of the item's overall influence on the story and intended power level compared to other items.
 
 | Property | WL Modifier |
 | :-: | :-: |
@@ -294,32 +331,19 @@ Next, choose any additional properties that the weapon possesses. Properties adj
 | Stationary | -1 |
 | Swift | +1 |
 
-### Step 3: Choose Banes
-
-Weapons are distinguished in terms of combat style and effectiveness by the banes associated with them. Banes do not impact wealth level, and a typical weapon will have 2 or 3 associated banes. Weapons with 4 or more associated banes must be approved by the GM.
-
-### Step 4: Calculate Wealth Level
-
-All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions you made in steps 2 and 3. Then, compare the weapon to others of similar power. If necessary, adjust the wealth level up or down slightly so that it is an accurate representation of the item's overall influence on the story and intended power level compared to other items.
-
-\page
-
-<div class='footnote'>CHAPTER 5: WEALTH & EQUIPMENT</div>
-
-> #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
+> ##### Weapon Building Example: <br>Kusari-Gama (Chain & Sickle)
 >
-> Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
+> The kusaria-gama is an unique weapon from Japanese history. It is a combination of a chain and a kama (traditional farming implement).
 >
 > **Step 1 (Choose a Category)**
-> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the *one-handed melee* and *close ranged* categories.
+> While the kusari-gama can be used as a short bladed melee weapon, its chain can also be swung long distances. As such, we will give it both the *one-handed melee* and *close ranged* categories.
 >
 > **Step 2 (Choose Properties)**
-> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the *defensive 1* property, and also the *reach* property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the *slow* property.
+> Because the kusari-gama can be wielded either with nimble precision or a mighty swing, lets give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks merits the *defensive 1* property, and also the *reach* property for striking at a distance. Because swinging the weapon is time-consuming, we will also give it the *slow* property.
 >
 > **Step 3 (Choose Banes)**
-> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: *forced move*, *immobile*, *knockdown*, and *provoked*.
+> The kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will give it the *forced move*, *immobile*, *knockdown*, and *provoked* banes.
 >
 > **Step 4 (Calculate Wealth Level)**
 > The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.
-
 

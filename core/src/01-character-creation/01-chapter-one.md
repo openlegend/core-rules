@@ -1,5 +1,17 @@
 <div class='footnote'>CHAPTER 1: CHARACTER CREATION</div>
 
+
+
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/Black_%20mage%20-%20saryth%20chareonpanichkul.jpg" />
+
+
+
+\page
+
+
+<div class='footnote'>CHAPTER 1: CHARACTER CREATION</div>
+
 # Chapter 1: Character Creation
 
 Before you can start telling your story, you'll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In Open Legend, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you'll level up and gain more power. These rules explain how to create a character starting at level one. Later, you'll learn what to do when you level up.
@@ -360,20 +372,16 @@ their own in some non-combat situations. They are typically strong
 leaders who carry an intimidating aura, capable of commanding attention
 when the circumstances demand it.
 
-In combat, Battle Mages serve as a one man front line brute squad. Their
-heavy armor makes them nearly impervious to lesser foes, and their
-command <br>
-over  the elements of earth and ice allow them to <br>
-control the battlefield with area attacks. Making use <br>
-of the *multi-target attack
+In combat, Battle Mages serve as a one man front <br>
+line brute squad. Their heavy armor makes them <br>
+nearly impervious to lesser foes, and their <br>
+command over the elements of earth and ice <br>
+allow them to control the battlefield with area <br>
+attacks. Making use of the *multi-target attack
 specialist* feat, they can attack multiple foes without hindrance. When
-enemies do <br>
-manage to outmaneuver their earthquakes and icy <br>
-bolts, Battle
-Mages are ready to engage in hand to <br>
-hand combat with an arsenal of
-weaponry for any <br>
-occasion.
+enemies do manage to outmaneuver their earthquakes and icy bolts, Battle
+Mages are ready to engage in hand to hand combat with an arsenal of
+weaponry for any occasion.
 
 ___
 - **Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), <br>Might 4 (1d10), Presence 3 (1d8), Energy 5 (2d6)
@@ -406,7 +414,7 @@ ___
 ```
 
 
-<img style="max-width: 58.24cm; position: absolute; top: -8.3cm; right: -1.3cm;"
+<img style="max-width: 58.24cm; position: absolute; top: -7cm; right: -0.5cm;"
   src="http://localhost:8888/_not_full_page/Battle%20Mage%20-%20Forrest%20Imel.png" />
 
 
@@ -571,11 +579,11 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Chronomages see and manipulate the flow &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 of the most powerful force in
-the universe: time.
+the universe: time. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-They possess the power to unravel the very fabric
+They possess the power to unravel the very fabric 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-of the universe and rearrange it to suit their needs.
+of the universe and rearrange it to suit their needs. 
 &nbsp;&nbsp;Past, present, and
 future are all one to the Chronomage, and their preternatural connection to the fourth dimension often creates rifts between those with a more
 conventional understanding of time.
@@ -833,7 +841,7 @@ ___
 
 
 
-<img style="max-width: 2455px; position: absolute; bottom: 190px; right: 70px;"
+<img style="max-width: 2455px; position: absolute; bottom: 250px; right: 70px;"
   src="http://localhost:8888/_not_full_page/Engineer%20-%20Biagio%20D%27Alessandro.png" />
 
 <div style='padding-top:470px'></div>
@@ -897,7 +905,7 @@ ___
 ___
 - **Feats:** Multi-Attack Specialist II
 ___
-- **Notable Equipment:** Heavy Trench Coat (Kevlar Vest), <br>
+- **Notable Equipment:** Heavy Trench Coat (treat as <br>Kevlar Vest),
  2 Revolvers, Rifle
 
 <div class="favored-actions"></div>
@@ -911,6 +919,11 @@ Agility vs. Guard
 - _**Fan the Hammer**_ (damaging attacks): Three attacks. Agility vs. Guard, disadvantage 3
 - _**Bounty's Curse**_ (inflict *stunned*): <br>Entropy vs. Toughness
 - _**Toe Shot**_ (inflict *slowed*): Agility vs. Guard, <br> advantage 1
+
+```
+```
+
+___
 - _**Hand Shot**_ (inflict *disarmed*): Agility vs. Guard, <br>advantage 1
 - _**Darkblast Shot**_ (inflict *sickened*): Entropy vs. Toughness
 - _**Baleful Shadow**_ (invoke 5’ *aura: persistent damage*): Entropy vs. 18 (PL 4)
@@ -918,7 +931,7 @@ Agility vs. Guard
 - _**Unnerving Gaze**_ (inflict *fear*): <br> Entropy vs. Resolve
 
 
-<img style="width: 2710px; max-width: 2710px; position: absolute; top: 310px; right: -370px;"
+<img style="width: 2710px; max-width: 2710px; position: absolute; top: 350px; right: -300px;"
   src="http://localhost:8888/_not_full_page/gunslinger_ivan_sevic.png" />
 
 
@@ -944,7 +957,7 @@ for better or worse.
 The Hacker is a master of data and information. Above all, they seek to
 gather information and harness its power. Hackers use information to
 piece together secrets and data which others assume is secured beyond
-access. Out of combat, the Hacker uses banes and boons such as *seeing*
+access. Out of combat, the Hacker uses banes and boons such as *seeing* 
 via their drone and *spying* or *precognition* to track information or
 persons of interest through databases, servers, surveillance cameras,
 credit card records, and and other sources of poorly secured or encrypted data. If
@@ -975,7 +988,7 @@ ___
 - **Favored Actions**
 
 ___
-- _**Dark Web Insight**_ (invoke *bolster*): <br>Prescience vs. 16
+- _**Dark Web Insight**_ (invoke *bolster*): <br>Prescience vs. 16 
 (PL 3)
 - _**Algorithmic Prediction**_ (invoke *precognition*): <br> Prescience vs. 12 - 20 (PL 1 - 5)
 - _**Multivariate Sensor Sweep**_ (invoke *truesight*): <br>
@@ -1013,7 +1026,7 @@ Energy vs. Guard
 - _**Stun Ray**_ (inflict *immobile*):
 <br>Energy vs. Toughness
 
-<img style="max-width: 2420px; position: absolute; bottom: 100px; right: -100px;"  src="http://localhost:8888/_not_full_page/Computer_Hacker_Ilse_Gort.png" />
+<img style="max-width: 2420px; position: absolute; bottom: 155px; right: -100px;"  src="http://localhost:8888/_not_full_page/Computer_Hacker_Ilse_Gort.png" />
 
 
 \page
@@ -1064,7 +1077,7 @@ ___
 - **Favored Actions**
 
 ___
-- _**See the Path**_ (defend action): <br> Protection vs.
+- _**See the Path**_ (defend action): <br> Protection vs. 
 target’s attack roll, advantage 1
 - _**Break Free**_ (special action): Use *hospitaler* <br>
 feat to grant a resist roll to an ally
@@ -1100,7 +1113,7 @@ When the situation calls for it, the sorcerer will animate their Yoroi
 armor, which serves as an indestructible melee warrior. The Yoroi form
 has very high defenses and hit points, and its Might score of 5 combined with a two-handed naginata ensures that it will deal out significant
 
-<img style="max-width: 2290px; position: absolute; bottom: 95px; right: 20px;"
+<img style="max-width: 2290px; position: absolute; bottom: 135px; right: 90px;"
   src="http://localhost:8888/_not_full_page/ningyozukai_forrest_imel.png" />
 
 
@@ -1299,7 +1312,7 @@ ___
 ___
 - **Feats:** Boon Focus I (Teleport), Lethal Strike I
 ___
-- **Notable Equipment:** Sniper Rifle, Submachine Gun, Handgun, Knife,
+- **Notable Equipment:** Sniper Rifle, Submachine  <br>Gun, Handgun, Knife,
 Trench Coat (treat as <br>
 Leather Armor)
 
@@ -1348,7 +1361,7 @@ selection of banes and boons. *Lightning reflexes* ensures that they
 will often act early in combat, and Spellswords will use this
 opportunity to invoke the *resistance* boon or inflict <br >
 a vulnerable target with *persistent damage*. Once <br>
-combat is underway, Spellswords focus on <br>
+combat is underway, Spellswords focus on <br> 
 finishing off damaged foes so that they <br>
 can use *combat momentum* to maneuver <br>
 around the battlefield.
@@ -1421,8 +1434,8 @@ standard soldier, they can *teleport* or <br>
 even invoke *aura: haste* to speed up <br>
 themselves and their comrades. Also, <br>
 *teleport* allows them to access areas <br>
-and bypass obstacles that others <br>
-might struggle with.
+and bypass obstacles that others might <br>
+ struggle with.
 
 Within combat, a Templar’s primary duty is to <br>
 keep their allies alive. They make extensive use <br>
@@ -1469,7 +1482,7 @@ ___
 
 
 
-<img style="max-width: 2375px; position: absolute; bottom: 0; right: -63px;"
+<img style="max-width: 2375px; position: absolute; bottom: 60px; right: -23px;"
   src="http://localhost:8888/_not_full_page/void_mage_forrest_imel.png" />
 
 \page
@@ -1554,3 +1567,5 @@ Sometimes a new player will join a campaign in progress in which the other PCs h
 | 8 | 21 | 103 | 8 | 27 | 6 |
 | 9 | 24 | 112 | 9 | 30 | 7 |
 | 10 | 27 | 121 | 9 | 33 | 8  |
+
+

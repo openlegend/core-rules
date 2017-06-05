@@ -3,19 +3,17 @@
 
 \page
 
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
 <img class="full-page cover-all"
- src="http://localhost:8888/_full_page/extraordinaryitems%20Kolbeck.jpg" />
+ src="http://localhost:8888/_full_page/Mounts%20and%20Vehicles%20-%20Forrest%20Imel.jpg" />
 
 \page
 
-<div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
 
+# Chapter 9: Special Equipment 
 
-# Chapter 9: Special Equipment
-
-Chapter 5 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>Chapt
+er 5 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
 
 ## Extraordinary Items
 
@@ -33,7 +31,10 @@ However, extraordinary items are so powerful that they have the potential to dra
 
 Extraordinary items are different from weapons, armor, and other gear because they give the wielder access to attributes, banes, and boons that are beyond their current power--or they bolster the attributes, banes, and boons that the wielder can already access. The Extraordinary Items Table outlines a variety of such items spanning many genres. The examples include weapons and gear of powerful magic, alchemy, and technology--and they should provide plenty of inspiration for coming up with your own extraordinary items for your campaign.
 
-**WL (Wealth Level)** indicates the wealth level associated with this extraordinary item. Acquiring the item requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 5: Weapons & Equipment.
+**WL (Wealth Level)** indicates the wealth level associated with this extraordinary item. Acquiring the item requires a sufficient wealth level and follows all of 
+
+___
+the rules for wealth established in Chapter 5: Weapons & Equipment.
 
 **Attributes** indicate which attributes, if any, the item can make use of. An item can use an attribute to make attacks, invoke banes and boons, and perform other actions that would reasonably fall within the item's capabilities. The wielder spends their own actions to use an item's attributes, but all attribute dice and power levels are determined by the item's attribute score, not the wielder's. The wielder's applicable feats still apply. If the wielder's attribute is greater than the item's by one or two points, they may use their own attribute, and the item instead grants advantage 1 on rolls with that attribute. This bonus can only be applied once to a given attribute, regardless of how many items you wield that possess the attribute.
 
@@ -51,15 +52,29 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Armor (type)** - The item functions as a suit of armor of the given type, bestowing all of the benefits and restrictions of that armor upon the wearer.
 
+**Autonomous** - When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
+
+
 \page
 
-<div class="wide">
+<img class="full-page cover-all"
+ src="http://localhost:8888/_full_page/Extraordinary%20Items%20Mat%20Kolbeck.jpg" />
+
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
+
+<div class="wide" style="margin-bottom: 50px;">
 
 ___
-##### Special Equipment
+## Special Equipment
 
-|  Item | WL | Attributes | Banes & Boons | Properties |
-| :----: | :-: | :-: | :---: | :-------: |
+---
+
+---
+
+|  Item  <div style="width: 620px;"></div> | WL <div style="width: 120px;"></div> | Attributes <div style="width: 320px;"></div>  | Banes & Boons | Properties |
+| :---- | :-: | :-: | :---: | :------- |
 | Adhesion Boots | 2 |   |  | Special |
 | Aegis of Warding | 4 | Energy 5 |  | Autonomous, Special |
 | Adrenal Biomod | 4 |  | Heal 3 | Persistent (Heal) |
@@ -94,20 +109,23 @@ ___
 | Universal Access Implant | 6 | Presence 7 |  | Potent 1, Special |
 | Worker Bot | 4 | Might 3 |  | Autonomous |
 
+
+
 </div>
 
 
-**Autonomous** - When created, the item's crafter sets a specific condition that causes the item to trigger one particular action. This autonomy could be magical guidance, algorithmic targeting via a guidance system, or even mundane autonomy, such as pressure plates surrounded by murder holes (arrow slits with self-reloading crossbows).
-
 **Baneful (bane)** - When making a damaging attack with this item, you may automatically inflict a listed bane if your attack roll exceeds the target's defense by 5 or more. The bane can be triggered this way in lieu of other banes, even if the item or wielder cannot access the bane. The invoking attribute for this bane is equal to the attacking attribute.
-
-\page
 
 **Consumable** -  A consumable item can be used once to invoke a boon at the listed power level. This boon invocation succeeds automatically without a roll and cannot be invoked with multi-targeting. Afterwards, the item is consumed and cannot be used again.
 
-**Cursed (bane)** - The wielder of this item is automatically afflicted with the indicated bane at the listed power level. The bane cannot be shaken off using the resist bane action. Furthermore, the cursed item cannot be unequipped unless the wielder is subject to the *restoration* boon at a power level high enough to dispel the bane.
+**Cursed (bane)** - The wielder of this item is automatically afflicted with the indicated bane at the listed power level. The bane cannot be shaken off using the resist bane action. Furthermore, the item cannot be unequipped unless the wielder is subject to a *restoration* boon at a power level high enough to dispel the bane.
 
-**Damage (type)** - When making a damaging attack with this item, you may choose to have it inflict damage of the listed type in lieu of the type it would otherwise deal. This property can only be applied to an item once. The damage types are: precise, forceful, fire, cold, lightning, acid, influence, and entropy, though a GM may allow or create other types.
+**Damage (type)** - When making a damaging attack with this item, you may have it inflict damage of the listed type in lieu of the type it would have dealt. An item can only be granted this property once. Damage types include: precise, forceful, fire, cold, lightning, acid, influence, and entropy, though a GM may allow or create other types.
+
+
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
 
 **Deadly** - Some weapons are so effective that their potency makes the wielder significantly more capable. Attacks made with this weapon gain advantage equal to their *deadly* value. A weapon cannot have a *deadly* value greater than 3.
 
@@ -127,8 +145,6 @@ ___
 
 **Weapon (type)** - The item is a weapon of the given type. It possesses all of the properties of that weapon and can leverage them when making attacks.
 
-```
-```
 
 #### Adhesion Boots
 
@@ -138,12 +154,14 @@ ___
 
 **Special**: These boots enable their wearer to automatically succeed at all rolls that pertain to climbing, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
 
-
 #### Aegis of Warding
 
 **Wealth Level**: 4
 
-*These magical glyphs are usually created to guard items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered.*
+*These magical glyphs are usually created to guard*
+
+___
+*items of power. While diverse in pattern and style, they are usually ornately designed and appear as art objects affixed to a wall until triggered.*
 
 **Properties**: Energy 5, Autonomous
 
@@ -187,9 +205,6 @@ ___
 
 **Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will roll of CR 15 or suffer one level of the *fatigued* bane.
 
-\page
-
-
 #### Colt 45
 
 **Wealth Level**: 3
@@ -197,7 +212,6 @@ ___
 *With its smooth and ornately carved ivory handle, this marvel of frontier ingenuity is the only protection a gunfighter needs.*
 
 **Properties**: Deadly 1, Potent, Weapon (Revolver)
-
 
 #### Cerebral Probe
 
@@ -209,6 +223,9 @@ ___
 
 **Special**: This apparatus must be carefully secured to the target. As such the target must first be unconscious, helpless, or immobile before a the *mind dredge* attack can be made. As long as the target is afflicted by a bane from this item, they are automatically inflicted with the *immobile* bane until the first bane ceases.
 
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
 
 #### Collar of Choking
 
@@ -275,7 +292,6 @@ ___
 
 **Properties**: Persistent Damage 4, Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword)
 
-
 #### Ghostfire
 
 **Wealth Level**: 2
@@ -321,8 +337,6 @@ ___
 
 **Properties**: Area (50' Line), Deadly 2, Weapon (Cannon)
 
-\page
-
 #### Maul of Dominance
 
 **Wealth Level**: 4
@@ -343,6 +357,11 @@ ___
 **Properties**: Damage (Energy), Deadly 2, Weapon (Sniper Rifle)
 
 
+
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
+
 #### Plasmablade
 
 **Wealth Level**: 5
@@ -358,7 +377,7 @@ ___
 
 **Wealth Level**: 1
 
-*This small flask of viscous blue liquid can heal minor wounds in the blink of an eye when consumed or applied topically.*
+*This small flask of viscous blue liquid can heal minor wounds in moments when consumed or applied topically.*
 
 **Properties**: Heal 3, Consumable
 
@@ -376,14 +395,12 @@ ___
 
 **Wealth Level**: 3
 
-*Whether outfitted on a mecha unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.*
+*Whether outfitted on a mech unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.*
 
 **Properties**: Deadly 2, Expendable, Weapon (Cannon)
 
-**Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Every shot counts as a single extraordinary item.
+**Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Each shot uses single extraordinary item.
 
-```
-```
 
 #### Rod of Fear
 
@@ -416,7 +433,7 @@ ___
 
 **Wealth Level**: 4
 
-*A master creation of steampunk technology, this masterfully crafted spyglass grants its user the eyes of an eagle.*
+*A product steampunk innovation, this masterfully crafted spyglass grants its user the sight of an eagle.*
 
 **Properties**: Perception 6
 
@@ -449,12 +466,11 @@ ___
 
 **Properties**: Might 3, Autonomous
 
-\page
-
 
 ### Building Your Own Extraordinary Items
 
 The extraordinary items already detailed are meant to serve as a starting point of inspiration for you to understand what these items look like so that you can create your own to fit your campaign. Building your own custom items is a simple four step process that involves deciding the attributes, banes, boons, and properties of the item and then determining an appropriate wealth level to represent the item's overall power.
+
 
 #### Step 1: Choose Attributes, Banes, & Boons
 
@@ -471,10 +487,15 @@ Each attribute, bane, and boon increases the wealth level of the item according 
 | 9 | +5 | +6 |
 
 
+
 #### Step 2: Choose Properties
 
 Choose any additional properties that the item might have. Properties apply a wealth level modifier according to the following table.
 
+
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
 
 | Property | WL Modifier |
 | :-: | :-: |
@@ -504,87 +525,15 @@ After you have described your item's special properties, you should assign a wea
 
 - **Is it common?** Will a character be able to make use of this property very often? If so, add wealth level +1.
 - **Is it versatile?** Is the property useful in many different types of situations? If so, add wealth level +1.
-- **Is it powerful?** Does the property create a significant advantage for a character or have the potential to impact the game in a very significant way? If so, add wealth level from +1 to +9.
-
- A good way to decide how much of a modifier to apply is to compare the property to a bane or boon of similar effect. Then, use the table given in step 1 to determine a similar modifier based on the power level of that bane or boon.
+- **Is it powerful?** Does the property create a significant advantage for a character or have the potential to impact the game in a very significant way? If so, add wealth level from +1 to +9.<br> &nbsp;&nbsp;&nbsp; A good way to decide how much of a modifier to apply is to compare the property to a bane or boon of similar effect. Then, use the table given in step 1 to determine a similar modifier based on the power level of that bane or boon.
 - **Is it limiting?** Does the property reduce the effectiveness of another ability or is it only useful in very specific situations? If so, reduce wealth level by 1.
-
-> ##### Example Items with Special Properties
-> **Hydraulic Propulsion Implants**
->
-> You always count as having a running start for your jumps, and your distance covered when jumping is doubled.
->
-> *Is it common?* No. Jumping will be useful in many combats, but only if the terrain and situation fits. Jumping might be useful in non-combat situations, but probably not that often.
->
-> *Is it versatile?* Yes. +1 WL. Double jump distance will allow a character to overcome a large variety of obstacles, and provide enhanced maneuverability in both combat and non-combat scenarios.
->
-> *Is it powerful?* Mildly. +1 WL. The maneuverability granted by this property is about on par to Teleport power level 3.
->
-> *Is it limiting?* No. It doesn't restrict other abilities nor is it limited to niche scenarios.
->
-> **Final WL Modifier**: +2
->
-> ___
->
-> ___
->
-> **Shining Shield**
->
-> Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard.
->
-> *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round.
->
-> *Is it versatile?* No. The Shining Shield really only serves one purpose.
->
-> *Is it powerful?* A little more powerful than an item with Blinded 5 because the Shining Shield allows you to inflict the bane without using an action. +3 WL.
->
-> *Is it limiting?* No. While the Shining Shield is only useful when the wielder is targeted in melee, that situation is pretty common.
->
-> **Final WL Modifier**: +4
->
-
-\page
-
-
-> * * * * *
->
-> **Assassin's Rifle**
->
-> This weapon has the Baneful (Blinded) and Baneful (Persistent Damage) properties. However, certain conditions must be met to use these properties. If your target is off guard, unaware, or within melee range of one of your allies, you can use the Baneful proprety .
->
-> *Is it common?* Not any more common than any item that can inflict banes in the usual manner.
->
-> *Is it versatile?* No. Even though the item has multiple instances of the *baneful* proprety, the cost of these is already accounted for in the properties.
->
-> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack, so we calculate it the same as two instances of the *baneful* property. +3 WL *blinded* +2, WL *persistent damage*.
->
-> *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up.
->
-> **Final WL Modifier**: +4
->
-> ___
->
-> ___
->
-> **Helm of Goblin Bane**
->
->  At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
->
-> *Is it common?* No. Unless the campaign takes place in a world overrun with goblins, a character will likely go entire sessions without being able to use this helm.
->
-> *Is it versatile?* No. It only does one thing: scare goblins.
->
-> *Is it powerful?* A little more powerful than an item with Fear 5 because it is activated as a free action. +3 WL.
->
-> *Is it limiting?* Yes. The helm is only useful against a specific kind of creature. -1 WL.
->
-> **Final WL Modifier**: +2
-
 
 #### Step 4: Calculate Final Wealth Level
 
-Calculate the total wealth level accrued in the previous steps. Then, compare the item to others of similar power. If necessary, adjust the wealth level up or down slightly so that it is an accurate representation of the item's influence on the game compared to other extraordinary items. No extraordinary item can have a wealth level less than 1.
+Calculate the total wealth level accrued in the previous steps. Then, compare the item to others of similar power. If necessary, adjust the wealth level up or down so that it is an accurate representation of the item's influence on the game compared to other extraordinary items. No extraordinary item can have a wealth level less than 1.
 
+```
+```
 
 
 ## Legendary Items
@@ -593,11 +542,77 @@ Legendary items are similar to extraordinary items in that they may provide acce
 
 ### Acquiring Legendary Items
 
-Legendary items should be more than mere rewards. When introduced into a new campaign, a legendary item should often serve the plot in a specific way. For example, perhaps the PCs come into possession of *Giant's Bane*, a sentient bow containing the souls of four hunters of
+Legendary items should be more than mere rewards. When introduced into a campaign, a legendary item should often serve the plot in a specific way. For example, perhaps the PCs come into possession of *Giant's Bane*, a sentient bow containing the souls of four hunters of legend who have tried and failed to defeat the frost giants who pillaged the realm for a century. Equipped with such power and collective wisdom, the party stands a chance at succeeding where the previous hunters have failed.
 
 
-___
-legend who have tried and failed to defeat the frost giants who have plagued the realm for a century. Equipped with such power and collective wisdom, the party stands a chance at succeeding where the previous hunters have failed.
+> ##### Example Items with Special Properties
+> **Hydraulic Propulsion Implants** 
+> 
+> You always count as having a running start for your jumps, and your distance covered when jumping is doubled. 
+> 
+> *Is it common?* No. Jumping will be useful in many combats, but only if the terrain and situation fits. Jumping might be useful in non-combat situations, but probably not that often. 
+> 
+> *Is it versatile?* Yes. +1 WL. Double jump distance will allow a character to overcome a large variety of obstacles, and provide enhanced maneuverability in both combat and non-combat scenarios. 
+> 
+> *Is it powerful?* Mildly. +1 WL. The maneuverability granted by this property is about on par to Teleport power level 3. 
+> 
+> *Is it limiting?* No. It doesn't restrict other abilities nor is it limited to niche scenarios. 
+> 
+> **Final WL Modifier**: +2
+>
+> ___
+>
+>
+> **Shining Shield** 
+> 
+> Once per round, when the wielder of this shield is subject to a melee attack, they may make a *blinded* bane attack against the attacker. The item makes the following attack: Blinded 5 versus Guard. 
+> 
+> *Is it common?* Yes. +1 WL. If the wielder is a melee fighter, they have the potential to use this item every combat round. 
+> 
+> *Is it versatile?* No. The Shining Shield really only serves one purpose. 
+> 
+> *Is it powerful?* A little more powerful than an item with Blinded 5 because the Shining Shield allows you to inflict the bane without using an action. +3 WL. 
+> 
+> *Is it limiting?* No. While the Shining Shield is only useful when the wielder is targeted in melee, that situation is pretty common. 
+> 
+> **Final WL Modifier**: +4
+>
+
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
+
+> **Assassin's Rifle** 
+> 
+> This weapon has the Baneful (Blinded) and Baneful (Persistent Damage) properties. However, certain conditions must be met to use these properties. If your target is off guard, unaware, or within melee range of one of your allies, you can use the Baneful proprety . 
+> 
+> *Is it common?* Not any more common than any item that can inflict banes in the usual manner. 
+> 
+> *Is it versatile?* No. Even though the item has multiple instances of the *baneful* proprety, the cost of these is already accounted for in the properties. 
+> 
+> *Is it powerful?* Yes. It allows access to multiple banes that can be inflicted as part of an attack, so we calculate it the same as two instances of the *baneful* property. +3 WL *blinded* +2, WL *persistent damage*. 
+> 
+> *Is it limiting?* Yes. -1 WL. The target must meet certain conditions before the item can be used, so the attacker will often have to set these conditions up. 
+> 
+> **Final WL Modifier**: +4
+>
+> --- 
+>
+>
+> **Helm of Goblin Bane** 
+> 
+>  At the beginning of their turn, the wearer of this helm may take a free action to make a bane attack against all goblinoids within 100' who can see the helm. The item makes the following attack: Fear 5 versus Resolve.
+> 
+> *Is it common?* No. Unless the campaign takes place in a world overrun with goblins, a character will likely go entire sessions without being able to use this helm. 
+> 
+> *Is it versatile?* No. It only does one thing: scare goblins. 
+> 
+> *Is it powerful?* A little more powerful than an item with Fear 5 because it is activated as a free action. +3 WL. 
+> 
+> *Is it limiting?* Yes. The helm is only useful against a specific kind of creature. -1 WL. 
+> 
+> **Final WL Modifier**: +2
+
 
 Furthermore, the GM should be prepared for the potentially campaign-altering power that legendary items possess. If you give the players a *Time Machine*, *Void Cannon*, or *Lamp of Wishes*, don't be surprised when they use them to their full potential--and don't try to railroad them into only using legendary items in specific situations if the item obviously has greater potential.
 
@@ -610,18 +625,14 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 **Attribute _bonus/penalty_** - When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.
 
-**Intelligent** - The item is sentient and possesses its own unique intelligence. It possesses its own mental and social attributes, and has the ability to communicate either audibly or telepathically. The item’s description will detail any attribute scores as well as restrictions to its communication (such as the ability to only communicate with the wielder).
+**Intelligent** - The item is sentient and possesses its own psyche and personality, including mental and social attributes. It also has the ability to communicate audibly or telepathically. The item description will detail any attribute scores as well as communication limits (such as the ability to only communicate with the wielder).
 
 **Unfailing** - Any dice rolled when using this item’s abilities treat a result of 1 as a result of the maximum instead. Rolling a 1 also results in a dice explosion just as if the die had rolled maximum. So, for example, rolling a 1 on a d8 would be treated as an 8. A 1 on a d20 would be a 20.
 
 **Slaying (creature type)** - When the item is used to make a damaging attack against the indicated creature type and exceeds the target’s defense by 5 or more, the target immediately dies.
 
 
-> ##### Some Things, Money Can’t Buy
->
-> Possessing a legendary item marks a dramatic shift in the capability and power of a given character. As such, these items are too valuable to be bought, and unlikely to find a buyer unless you want to sell them for a fraction of their value. It is typically the most fun for everyone if players discover these powerful items as part of a quest, or an unexpected reward for achieving a dramatic milestone in a story arc. GMs can even ask their players what kind of powerful artifact or relic they envision being most suited to their character. No character should ever begin play with access to an artifact or a relic.
-
-\page
+## Legendary Items
 
 
 #### Void Cannon
@@ -632,21 +643,26 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 **Void**: The wielder may fire the cannon at full blast by spending 2 uninterrupted rounds using a focus action to charge its power. On the third round, the wielder may use another focus action to fire the beam, which targets a 10’ wide line up to the weapon’s maximum range. Objects and structures in the area of effect are completely obliterated from existence. Creatures must make an Agility roll, CR 15 or suffer the same fate. On a successful roll, they suffer 50 damage. Once fired at full blast, the Void Cannon cannot function at all for 24 hours.
 
-
 #### Giant’s Bane
 
 *This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.*
 
-Weapon (Longbow), Deadly 2, Slaying (giants), Agility +1, Perception +2, Intelligent
+**Properties:** Weapon (Longbow), Deadly 2, Slaying (giants), Agility +1, Perception +2, Intelligent
 
 **Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants.
 
-
 #### Infinity Suit
 
-*It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mecha unit so powerful that the pilot becomes nigh indestructible.*
+*It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mech unit so powerful that the pilot becomes nigh indestructible.*
 
-Armor (power armor), Might 8, Bolster 6 (Might), Regeneration 9, Flight 8, Persistent
+
+
+
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
+
+&nbsp;&nbsp;&nbsp; **Properties:** Armor (power armor), Might 8, Bolster 6 (Might), Regeneration 9, Flight 8, Persistent
 
 **Indestructible:** While wearing the Infinity Suit, the pilot is immune to lethal damage and any effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit.
 
@@ -655,7 +671,7 @@ Armor (power armor), Might 8, Bolster 6 (Might), Regeneration 9, Flight 8, Persi
 
 *When rubbed, this dusty old lamp spews forth an ancient genie of unimaginable power, ready to do the owner’s bidding. However, the genie’s services are often served with a bit of mischief on the side.*
 
-Presence +3
+**Properties:** Presence +3
 
 **Wishes**: The genie will grant the owner of the lamp 3 wishes. The genie will often twist or interpret wishes in such a way that the owner gets what they asked for in a completely unfavorable way. For example, if a person wishes to be king of the realm, the genie may transport him upon the throne 1000 years into the future, where the kingdom is a desolate wasteland. Once the lamp has been claimed, a new owner cannot be had until all three wishes are used. After all three wishes have expired, the lamp transports to a completely random point in the world.
 
@@ -664,7 +680,7 @@ Presence +3
 
 *This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.*
 
-Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
+**Properties:** Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
 
 **Warble**: Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.
 
@@ -673,9 +689,13 @@ Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
 
 *Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.*
 
-Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
+**Properties:** Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
 
 **Retributive Strike**: The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard.
+
+> ##### Some Things, Money Can’t Buy
+>
+> Possessing a legendary item marks a dramatic shift in the capability and power of a given character. As such, these items are too valuable to be bought, and unlikely to find a buyer unless you want to sell them for a fraction of their value. It is typically the most fun for everyone if players discover these powerful items as part of a quest, or an unexpected reward for achieving a dramatic milestone in a story arc. GMs can even ask their players what kind of powerful artifact or relic they envision being most suited to their character. No character should ever begin play with access to an artifact or a relic.
 
 #### Time Machine
 
@@ -690,9 +710,6 @@ Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
 -   The travelers is attacked by a horde of 4th dimensional chrono beasts.
 
 Once the time machine is in an alternate time, it may only travel back to its original time. Doing so still requires a Logic roll, CR 20, but disadvantage penalties do not apply.
-
-\page
-
 
 
 ## Mounts & Vehicles
@@ -709,8 +726,18 @@ Typically, mounts and vehicles cannot act independently of their riders, and so 
 
 ### Example Mounts & Vehicles
 
-Detailed below are a variety of mounts and vehicles to carry your characters across land, sea, sky, and space. These samples represent multiple genres and are not meant to be an exhaustive list. GMs and players should use these examples as guidelines and work together to create stats for additional mounts as necessary to fit their campaigns.
+Detailed below are a variety of mounts and vehicles to carry your characters across land, sea, sky, and space. These samples represent multiple genres and are not meant to be an exhaustive list. GMs and players should use these examples as guidelines and work together to 
 
+
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
+
+<img style="position: absolute; top: 0; left: 0; width: 100%;"  src="http://localhost:8888/_not_full_page/Manta_Carrage_Alexander_Gustafson.jpg" />
+
+<div class="wide" style="height: 2350px;"></div>
+
+create stats for additional mounts as necessary to fit their campaigns.
 
 **WL (Wealth Level)** indicates the wealth level associated with this particular mount or vehicle. Acquiring one requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 5: Wealth & Equipment.
 
@@ -724,7 +751,10 @@ Detailed below are a variety of mounts and vehicles to carry your characters acr
 
 **HP (Hit Points)** indicates the total hit points possessed by the vehicle or mount.
 
-**DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the its new hit point total. Thus, a vehicle can suffer multiple damage levels from a single attack. A mount has disadvantage equal to its damage level on all action rolls. Once the mount's damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
+**DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. Upon reaching zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is 
+
+___
+carried over to the its new hit point total. Thus, a vehicle can suffer multiple damage levels from a single attack. A mount has disadvantage equal to its damage level on all action rolls. Once the mount's damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
 
 **Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If "Immune" is listed for a given defense, then attacks targeting that defense have no effect.
 
@@ -733,32 +763,40 @@ Detailed below are a variety of mounts and vehicles to carry your characters acr
 
 **Faster than Light** - The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.
 
-**Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target an opponent's Guard defense.
+**Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target the Guard defense.
 
 **Multi-Pilot** - The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.
+
+
+\page
+
+<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>
 
 **Independent** - A mount or vehicle with this property is capable of acting on its own, without the instructions of its controller. It receives a number of major actions every round equal to the value indicated. These cannot be used to perform move actions. The rider may still assign actions to the mount as usual.
 
 **Targeted Weapons** - A vehicle with this property is more potent in the hands of a skilled operator. If the pilot's Agility score is greater than the attacking attribute score of the vehicle, attacks receive advantage equal to the difference. Attacks are still made by the vehicle and not the pilot.
 
-\page
+<br><br>
 
-
-<div class="wide">
+<div class="wide" style="margin-left: -175px;">
 ___
-##### Mounts & Vehicles
+## Mounts & Vehicles
+ 
+---
 
-| Examples | WL |  Speed | Properties | Attributes | Feats | HP | DT | Defenses |
+---
+  
+| Examples <div style="width: 300px;"></div> | WL |  Speed | Properties <div style="width: 700px;"></div> | Attributes | Feats <div style="width: 600px;"></div>| HP <div style="width: 200px;"></div>| DT <div style="width: 200px;"></div>| Defenses <div style="width: 600px;"></div>|
 | :----- | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
 | All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 <br>Guard: 14 <br>Resolve: Immune |
-| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 <br>Guard: 25 <br>Resolve: Immune |
-| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 <br>Guard: 20 <br>Resolve: 15 |
-| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 <br>Guard: 22 <br>Resolve: Immune |
-| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist (Area) 2 | 20 | 3 | Toughness: 17 <br>Guard: 20 <br>Resolve: Immune |
-| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 <br>Guard: 19 <br>Resolve: Immune |
+| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist V (Area) | 50 | 5 | Toughness: 18 <br>Guard: 25 <br>Resolve: Immune |
+| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist III (Area) | 38 | 1 | Toughness: 18 <br>Guard: 20 <br>Resolve: 15 |
+| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist III (Area) | 36 | 4 | Toughness: 15 <br>Guard: 22 <br>Resolve: Immune |
+| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist II (Area) | 20 | 3 | Toughness: 17 <br>Guard: 20 <br>Resolve: Immune |
+| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist III (Area) | 30 | 5 | Toughness: 15 <br>Guard: 19 <br>Resolve: Immune |
 | Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 <br>Guard: 19 <br>Resolve: 13 |
 | Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 <br>Guard: 15 <br>Resolve: 10 |
-| Mecha Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 <br>Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 <br>Guard: 22 <br>Resolve: Immune |
+| Mech Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 <br>Agility 6 | Multi-Target Attack Specialist II (Area) | 22 | 3 | Toughness: 20 <br>Guard: 22 <br>Resolve: Immune |
 | Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 <br>Guard: 20 <br>Resolve: 19 |
 | Pegasus | 4 | 50' flying | | Might 4 <br>Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 <br>Guard: 18 <br>Resolve: 17 |
 | Velociraptor, Dire Wolf | 3 | 40' | | Agility 5 <br>Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 <br>Guard: 17 <br>Resolve: 15 |
