@@ -1412,8 +1412,22 @@ ___
 - **Invocation Time:** 1 Major Action
 - **Power Level:** 3 / 5 / 7 / 9
 - **Attributes:** Movement
-- **Description:** You reach out and extraordinarily control an unattended inanimate object. This may stem from latent psychic ability, magical manipulation of the element of air, anti-gravity technology, or similar sources.
-- **Effect:** Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 5' times your invoking attribute score. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
+- **Description:** You reach out and assume control of an unattended inanimate object. This may stem from latent psychic ability, magical manipulation of the element of air, anti-gravity technology, or similar sources.
+- **Effect:** Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 5' times your invoking attribute score. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin 
+ 
+\page
+
+<div class='footnote'>CHAPTER 3: BANES & BOONS</div>
+
+<div class="bane-boon-entry"></div>
+
+___
+- 
+- 
+- 
+- 
+- 
+ purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
 
  - **Power Level 3** - The object must be smaller than a 1' cube or lighter than 10 pounds.
  - **Power Level 5** - The object must be smaller than a 5' cube or lighter than 100 pounds.
@@ -1433,20 +1447,6 @@ ___
 - **Attributes:** Influence, Prescience
 - **Description:** You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication. Examples of this boon in action include a psychic who can connect with the minds of others and a far future artificial intelligence capable of passing information to other beings through the vibration of quantum strings.
 - **Effect:** You and the target can communicate with each other simply through thought. Note that this telepathy does not bestow intelligence upon creatures, so you could not use it to communicate with a squirrel unless you already possessed other means of doing so. 
-
- 
-\page
-
-<div class='footnote'>CHAPTER 3: BANES & BOONS</div>
-
-<div class="bane-boon-entry"></div>
-
-___
-- 
-- 
-- 
-- 
-- 
  Additionally, telepathy does not bypass language barriers, so you would need to already speak the language of your target.
  - **Power Level 3** - You can communicate telepathically with a single creature of animal-level intelligence or lower. Keep in mind that it can only communicate concepts with you that it can understand.
  - **Power Level 5** - You can communicate telepathically with a single creature of humanoid intelligence.
@@ -1466,13 +1466,22 @@ ___
 - **Description:** You are able to instantly move yourself or an ally from one place to another, either by stepping into an intermediate realm, deconstructing and reforming a physical body, transporting magically, or similar means.
 - **Effect:**
 
- - **Power Level 3** - You can teleport the target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see your destination.
+ - **Power Level 3** - Teleport the target to any unoccupied space within 5 feet per Movement attribute score as long as you can naturally see the destination.
+ 
+<div class="bane-boon-entry"></div>
+
+___
+- 
+- 
+- 
+- 
+- 
+- 
+
  - **Power Level 5** - Your teleportation range is unchanged, but you can now teleport your target to spaces that you can't see. If you choose an occupied space, your target lands in the nearest adjacent space (roll randomly to decide if there are multiple options) and your target is stunned for 1 round (a resist roll is not needed to end the effect).
  - **Power Level 7** - You can opt to take longer in invoking the boon. If you choose to do so, for each minute of invocation (delay before making your action roll) you can teleport the target 1 mile, up to a maximum number of miles equal to your Movement attribute score. While the distance is greater, this mode is also dangerous, as a misunderstanding of direction or geography can put your target many miles in an unfavorable direction. You simply choose a direction (relative to your starting location) and teleport your target a number of miles equal to your Movement score. During invocation, you must spend a focus action each turn until the invocation time passes.
  - **Power Level 9** - Using the same longer invocation time for power level 7, you can now teleport your target to any location without range limit, provided you have personally seen (through magical or normal means) the destination.
 
-```
-```
 
 ### Tongues
 
@@ -1499,17 +1508,29 @@ ___
 - **Power Level:** 3 / 5 / 7 / 8 / 9
 - **Attributes:** Alteration
 - **Description:** You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.
-- **Effect:** Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either _temporary_ or _permanent_. A **temporary** transmutation must be sustained every round. A **permanent** transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.
- - **Power Level 3** - _Temporarily_ transmute an object into another object of the same size and weight.
- - **Power Level 5** - _Temporarily_ transmute an object into another object of the same size and 50% greater or lesser weight. _Temporarily_ transmute an object into another object of the same weight and 50% greater or lesser size.
- - **Power Level 7** - _Permanently_ transmute an object into another object of the same size and weight. _Temporarily_ transmute an object into another object of the same size and 200% greater or lesser weight. _Temporarily_ transmute an object into another object of the same weight and 200% greater or lesser size.
- - **Power Level 8** - _Permanently_ transmute an object into another object of up to 200% difference in size and/or weight. _Temporarily_ transmute a simple object into a mundane object of notable complexity. The resulting object must be of Wealth Level 2 or less.
- - **Power Level 9** - _Permanently_ transmute a simple object into a mundane and complex one. The resulting object must be of Wealth Level 2 or less.
+- **Effect:** Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either _temporary_ or _permanent_. A **temporary** transmutation must be sustained every round. A **permanent** transmutation does not have to be
 
 
 \page
 
 <div class='footnote'>CHAPTER 3: BANES & BOONS</div>
+
+<div class="bane-boon-entry"></div>
+
+___
+- 
+- 
+- 
+- 
+- 
+- 
+ ___
+ sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.
+ - **Power Level 3** - _Temporarily_ transmute an object into another object of the same size and weight.
+ - **Power Level 5** - _Temporarily_ transmute an object into another object of the same size and 50% greater or lesser weight. _Temporarily_ transmute an object into another object of the same weight and 50% greater or lesser size.
+ - **Power Level 7** - _Permanently_ transmute an object into another object of the same size and weight. _Temporarily_ transmute an object into another object of the same size and 200% greater or lesser weight. _Temporarily_ transmute an object into another object of the same weight and 200% greater or lesser size.
+ - **Power Level 8** - _Permanently_ transmute an object into another object of up to 200% difference in size and/or weight. _Temporarily_ transmute a simple object into a mundane object of notable complexity. The resulting object must be of Wealth Level 2 or less.
+ - **Power Level 9** - _Permanently_ transmute a simple object into a mundane and complex one. The resulting object must be of Wealth Level 2 or less.
 
 
 ### Truesight
@@ -1521,7 +1542,7 @@ ___
 - **Invocation Time:** 1 Major Action
 - **Power Level:** 5 / 7 / 8 / 9
 - **Attributes:** Prescience
-- **Description:** You grant yourself or an ally the ability to extraordinarily perceive things through impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.
+- **Description:** You grant yourself or an ally the ability to perceive that which cannot be detected with mundane senses, piercing impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.
 - **Effect:**
 
  - **Power Level 5** - The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.
