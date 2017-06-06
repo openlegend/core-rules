@@ -1383,6 +1383,26 @@ ___
 - **Special:** These minions cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it. Multi-targeting for this boon does not work as it does for other boons. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Any effect that modifies multi-targeting penalties will work as normal in offsetting this disadvantage.
 
 
+
+### Sustenance
+
+<div class="bane-boon-entry"></div>
+
+___
+- **Duration:** 24 hours
+- **Invocation Time:** 1 Major Action
+- **Power Level:** 3 / 4 / 5 / 7 / 9
+- **Attributes:** Alteration, Creation, Protection
+- **Description:** Whether through far-future biomodification, morphing of the body to grow gills, or protection from a higher power, you render the target immune to conditions triggered by a biological need, such as exposure, starvation, dehydration, or suffocation.
+- **Effect:** The target gains immunity to the negative effects of one of the following, depending on the power level the boon is invoked at:
+ - **Power Level 3** - Target is unaffected by a chosen type of hostile climate. Examples include heat, cold, and radiation, to name a few. 
+ - **Power Level 4** - Target can extract a necessity in an alternate form, for example, allowing them to breathe the oxygen found in water, drink irradiated water, or eat food not normally edible.  
+ - **Power Level 5** - Target can subsist without essential nourishment, periodically required for sustenance, such as food or water.
+ - **Power Level 7** - Target can subsist without the most critical nourishment, that which is typically consumed on a moment-to-moment basis, such as air.
+ - **Power Level 9** - Target is unaffected even when cut off from all biological necessities, including warmth, water, air, food, and any other biological need.
+
+
+
 ### Telekinesis
 
 <div class="bane-boon-entry"></div>
