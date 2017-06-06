@@ -12,8 +12,7 @@
 
 # Chapter 9: Special Equipment 
 
-<div class='footnote'>CHAPTER 9: SPECIAL EQUIPMENT</div>Chapt
-er 5 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
+Chapter 5 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
 
 ## Extraordinary Items
 
@@ -632,7 +631,7 @@ Legendary items may possess any of the same properties as extraordinary items. A
 **Slaying (creature type)** - When the item is used to make a damaging attack against the indicated creature type and exceeds the target’s defense by 5 or more, the target immediately dies.
 
 
-## Legendary Items
+## Legendary Items List
 
 
 #### Void Cannon
@@ -788,19 +787,19 @@ ___
   
 | Examples <div style="width: 300px;"></div> | WL |  Speed | Properties <div style="width: 700px;"></div> | Attributes | Feats <div style="width: 600px;"></div>| HP <div style="width: 200px;"></div>| DT <div style="width: 200px;"></div>| Defenses <div style="width: 600px;"></div>|
 | :----- | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
-| All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 <br>Guard: 14 <br>Resolve: Immune |
-| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist V (Area) | 50 | 5 | Toughness: 18 <br>Guard: 25 <br>Resolve: Immune |
-| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist III (Area) | 38 | 1 | Toughness: 18 <br>Guard: 20 <br>Resolve: 15 |
-| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist III (Area) | 36 | 4 | Toughness: 15 <br>Guard: 22 <br>Resolve: Immune |
-| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist II (Area) | 20 | 3 | Toughness: 17 <br>Guard: 20 <br>Resolve: Immune |
-| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist III (Area) | 30 | 5 | Toughness: 15 <br>Guard: 19 <br>Resolve: Immune |
-| Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 <br>Guard: 19 <br>Resolve: 13 |
-| Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 <br>Guard: 15 <br>Resolve: 10 |
-| Mech Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 <br>Agility 6 | Multi-Target Attack Specialist II (Area) | 22 | 3 | Toughness: 20 <br>Guard: 22 <br>Resolve: Immune |
-| Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 <br>Guard: 20 <br>Resolve: 19 |
-| Pegasus | 4 | 50' flying | | Might 4 <br>Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 <br>Guard: 18 <br>Resolve: 17 |
-| Velociraptor, Dire Wolf | 3 | 40' | | Agility 5 <br>Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 <br>Guard: 17 <br>Resolve: 15 |
-| T-Rex | 5 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 <br>Guard: 20 <br>Resolve: 15 |
-| Giant Scorpion | 4 | 35' | Independent 1 | Agility 5 <br>Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 <br>Guard: 15 <br>Resolve: 18 |
+| All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Guard: 14 <br>Toughness: 14 <br>Resolve: Immune |
+| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist V (Area) | 50 | 5 | Guard: 25 <br>Toughness: 18 <br>Resolve: Immune |
+| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist III (Area) | 38 | 1 | Guard: 20 <br>Toughness: 18 <br>Resolve: 15 |
+| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist III (Area) | 36 | 4 | Guard: 22 <br>Toughness: 15 <br>Resolve: Immune |
+| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist II (Area) | 20 | 3 | Guard: 20 <br>Toughness: 17 <br>Resolve: Immune |
+| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist III (Area) | 30 | 5 | Guard: 19 <br>Toughness: 15 <br>Resolve: Immune |
+| Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Guard: 19 <br>Toughness: 16 <br>Resolve: 13 |
+| Horse | 3 | 40' | | Might 4 | | 28 | 1 | Guard: 15 <br>Toughness: 15 <br>Resolve: 10 |
+| Mech Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 <br>Agility 6 | Multi-Target Attack Specialist II (Area) | 22 | 3 | Guard: 22 <br>Toughness: 20 <br>Resolve: Immune |
+| Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Guard: 20 <br>Toughness: 16 <br>Resolve: 19 |
+| Pegasus | 4 | 50' flying | | Might 4 <br>Creation 4 | Boon Focus I (Heal) | 28 | 1 | Guard: 18 <br>Toughness: 17 <br>Resolve: 17 |
+| Velociraptor, Dire Wolf | 3 | 40' | | Agility 5 <br>Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Guard: 17 <br>Toughness: 14 <br>Resolve: 15 |
+| T-Rex | 5 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Guard: 20 <br>Toughness: 15 <br>Resolve: 15 |
+| Giant Scorpion | 4 | 35' | Independent 1 | Agility 5 <br>Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Guard: 15 <br>Toughness: 15 <br>Resolve: 18 |
 
 </div>
