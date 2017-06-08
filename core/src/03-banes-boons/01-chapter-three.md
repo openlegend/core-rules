@@ -1393,14 +1393,14 @@ ___
 - **Invocation Time:** 1 Major Action
 - **Power Level:** 3 / 4 / 5 / 7 / 9
 - **Attributes:** Alteration, Creation, Protection
-- **Description:** Whether through far-future biomodification, morphing of the body to grow gills, or protection from a higher power, you render the target immune to conditions triggered by a biological need, such as exposure, starvation, dehydration, or suffocation.
-- **Effect:** The target gains immunity to the negative effects of one of the following, depending on the power level the boon is invoked at:
- - **Power Level 3** - Target is unaffected by a chosen type of hostile climate. Examples include heat, cold, and radiation, to name a few. 
- - **Power Level 4** - Target can extract a necessity in an alternate form, for example, allowing them to breathe the oxygen found in water, drink irradiated water, or eat food not normally edible.  
- - **Power Level 5** - Target can subsist without essential nourishment, periodically required for sustenance, such as food or water.
+- **Description:** You protect the target from environmental dangers or suspend their usual biological needs. Examples include sprouting gills to allow for underwater breathing, calling on a divine power to be sustained without food, and using far-future biomodifications to endure extreme cold.
+- **Effect:** You protect the target from one environmental danger, biological need, or similar condition. The power level of this boon determines the type of conditions you may protect against.
+ - **Power Level 3** - Target is unaffected by a chosen type of hostile climate. Examples include heat, cold, and radiation.
+ - **Power Level 4** - Target can sustain a single biological need from an alternate source, such as by breathing the oxygen found in water, drinking from an irradiated stream, or eating food not normally edible.
+ - **Power Level 5** - Target can subsist without the essential nourishment periodically required for sustenance, such as food or water.
  - **Power Level 7** - Target can subsist without the most critical nourishment, that which is typically consumed on a moment-to-moment basis, such as air.
  - **Power Level 9** - Target is unaffected even when cut off from all biological necessities, including warmth, water, air, food, and any other biological need.
-
+- Special: You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately cancelled.
 
 
 ### Telekinesis
@@ -1413,7 +1413,6 @@ ___
 - **Power Level:** 3 / 5 / 7 / 9
 - **Attributes:** Movement
 - **Description:** You reach out and assume control of an unattended inanimate object. This may stem from latent psychic ability, magical manipulation of the element of air, anti-gravity technology, or similar sources.
-- **Effect:** Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 5' times your invoking attribute score. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin 
  
 \page
 
@@ -1426,8 +1425,7 @@ ___
 - 
 - 
 - 
-- 
- purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
+- **Effect:** Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 5' times your invoking attribute score. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
 
  - **Power Level 3** - The object must be smaller than a 1' cube or lighter than 10 pounds.
  - **Power Level 5** - The object must be smaller than a 5' cube or lighter than 100 pounds.
@@ -1508,7 +1506,7 @@ ___
 - **Power Level:** 3 / 5 / 7 / 8 / 9
 - **Attributes:** Alteration
 - **Description:** You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.
-- **Effect:** Your power level determines the types of matter you can transmute as well as the duration of the effect. The duration is either _temporary_ or _permanent_. A **temporary** transmutation must be sustained every round. A **permanent** transmutation does not have to be
+- **Effect:** Your power level determines the types of matter
 
 
 \page
@@ -1525,13 +1523,15 @@ ___
 - 
 - 
  ___
- sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.
+  you can transmute as well as the duration of the effect. The duration is either _temporary_ or _permanent_. A **temporary** transmutation must be sustained every round. A **permanent** transmutation does not have to be sustained and persists until some other effect would cancel it. The maximum volume of matter you can transmute is on 5 cubic feet multiplied by your attribute score.
  - **Power Level 3** - _Temporarily_ transmute an object into another object of the same size and weight.
  - **Power Level 5** - _Temporarily_ transmute an object into another object of the same size and 50% greater or lesser weight. _Temporarily_ transmute an object into another object of the same weight and 50% greater or lesser size.
  - **Power Level 7** - _Permanently_ transmute an object into another object of the same size and weight. _Temporarily_ transmute an object into another object of the same size and 200% greater or lesser weight. _Temporarily_ transmute an object into another object of the same weight and 200% greater or lesser size.
  - **Power Level 8** - _Permanently_ transmute an object into another object of up to 200% difference in size and/or weight. _Temporarily_ transmute a simple object into a mundane object of notable complexity. The resulting object must be of Wealth Level 2 or less.
  - **Power Level 9** - _Permanently_ transmute a simple object into a mundane and complex one. The resulting object must be of Wealth Level 2 or less.
 
+```
+```
 
 ### Truesight
 
