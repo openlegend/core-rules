@@ -74,7 +74,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 
 If you do not wish to act when your turn comes, you may choose to defer your turn, either by waiting or by preparing to react in response to some sort of situation. If you wait, you may take your turn at any time after another character has finished their turn but before another character has begun.
 
-If you are preparing to react, then you should give a general description of what you are preparing for, such as "I'll act when a threat to come through the door" or "I'm readying my bow to shoot at an enemy who goes for the altar." When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
+If you are preparing to react, then you should give a general description of what you are preparing for, such as “I'll act when a threat to come through the door" or “I'm readying my bow to shoot at an enemy who goes for the altar.” When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
 
 
 
@@ -440,7 +440,7 @@ Many boons have a default duration of *sustain persists*, which means that every
 >
 > * * * * *
 >
-> Doctor Van Strankenkloff has invoked the *darkness* boon using his patented Light Sucker Mark IV. On his next turn, under cover of darkness, he activates his Personal Transmogrification Belt to invoke the *shapeshift* boon to turn into a mouse. Because both boons have a duration of "sustain persists", and the doctor may only sustain one boon at a time, he chooses to sustain the *shapeshift*. At the end of his turn, the *darkness* is dispelled and the *shapeshift* persists.
+> Doctor Van Strankenkloff has invoked the *darkness* boon using his patented Light Sucker Mark IV. On his next turn, under cover of darkness, he activates his Personal Transmogrification Belt to invoke the *shapeshift* boon to turn into a mouse. Because both boons have a duration of “sustain persists” , and the doctor may only sustain one boon at a time, he chooses to sustain the *shapeshift*. At the end of his turn, the *darkness* is dispelled and the *shapeshift* persists.
 
 ### Focus Actions
 
@@ -579,7 +579,7 @@ of 25. She chooses to inflict 3 damage, but the GM also gets a choice.
 
 ### Why Succeed on a Failed Roll?
 
-Some players might wonder why a PC still gets a taste of success even when their roll fails to meet the Challenge Rating. This might seem unrealistic because in movies and novels, for example, sometimes the bullet just misses or the sword fails to connect. In Open Legend, the "success with a twist" rules for combat ensure that a fight never gets stagnant. Even when the dice go against the player, the battle still builds to a cinematic conclusion as combatants shift around the battlefield and wear away at each other's reserves. Hit points represent more than just physical endurance and missing a target's defense score can mean more than just a shot going wide. Even if a hail of gunfire fails to penetrate an enemy's body armor, it might still weaken their resolve (*deal 3 damage*), force them to take cover (*inflict knockdown*), or give the attacker an opportunity to gain ground (*move 10'*).
+Some players might wonder why a PC still gets a taste of success even when their roll fails to meet the Challenge Rating. This might seem unrealistic because in movies and novels, for example, sometimes the bullet just misses or the sword fails to connect. In Open Legend, the “success with a twist”  rules for combat ensure that a fight never gets stagnant. Even when the dice go against the player, the battle still builds to a cinematic conclusion as combatants shift around the battlefield and wear away at each other's reserves. Hit points represent more than just physical endurance and missing a target's defense score can mean more than just a shot going wide. Even if a hail of gunfire fails to penetrate an enemy's body armor, it might still weaken their resolve (*deal 3 damage*), force them to take cover (*inflict knockdown*), or give the attacker an opportunity to gain ground (*move 10'*).
 
 ### Interpreting Twists and Failures in Combat
 

@@ -105,7 +105,7 @@ ___
 | Soul Siphon | 2 |  | Fatigued 5 |  |
 | Spyglass of Farsight | 4 | Perception 6 |  |  |
 | Transmogrification Ray | 5 |  | Polymorph 6 | Potent, Powerful 1 |
-| Universal Access Implant | 6 | Presence 7 |  | Potent 1, Special |
+| Universal Access Implant | 6 | Presence 7 |  | Potent, Special |
 | Worker Bot | 4 | Might 3 |  | Autonomous |
 
 
@@ -130,7 +130,7 @@ ___
 
 **Expendable** -  An expendable item can be used once to make an attack or invoke a bane. Afterwards, the item is expended and cannot be used again.
 
-**Persistent (boons)** - An item with this property automatically invokes and sustains a single instance of the indicated boon without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn. The wielder does not have to invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.
+**Persistent (boon)** - An item with this property automatically invokes and sustains a single instance of the indicated boon without requiring the wielder to make an invocation roll or use the sustain a boon action. If the duration of a boon is instantaneous, the item automatically invokes the boon each round at the start of the wielder's turn. The wielder does not have to invoke this effect. The item's effect persists automatically unless the wielder spends a minor action to deactivate it, in which case it remains deactivated until the wielder spends a minor action to reactivate it.
 
 **Potent** - Targets suffer disadvantage 1 on resist rolls to shake off banes inflicted by this item.
 
@@ -755,7 +755,7 @@ create stats for additional mounts as necessary to fit their campaigns.
 ___
 carried over to the its new hit point total. Thus, a vehicle can suffer multiple damage levels from a single attack. A mount has disadvantage equal to its damage level on all action rolls. Once the mount's damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
 
-**Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If "Immune" is listed for a given defense, then attacks targeting that defense have no effect.
+**Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If “Immune” is listed for a given defense, then attacks targeting that defense have no effect.
 
 
 #### Properties

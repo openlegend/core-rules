@@ -295,7 +295,7 @@ So, when a combat encounter ends, instead of listing off how many crossbow bolts
 So, a character with a wealth score of 2 will be inconvenienced in bribing a town guard, and a character probably needs a wealth score of 5 before they can easily bribe powerful political figures like the town mayor. Keep these same guidelines in mind when it comes to arbitrating similar situations, such as players trying to hire laborers, schmooze with bigwigs, or impress a crowd with their wealth.
 
 ## Non-Player Characters (NPCs)
-No campaign or adventure is complete without monsters for the heroes to defeat or other types of adversaries for them to overcome. But it's best not to go alone, and often the characters will find help along the way. Collectively these friends and foes are called "NPCs" (non-player characters). When planning out a campaign or adventure,
+No campaign or adventure is complete without monsters for the heroes to defeat or other types of adversaries for them to overcome. But it's best not to go alone, and often the characters will find help along the way. Collectively these friends and foes are called “NPCs”  (non-player characters). When planning out a campaign or adventure,
 
 
 \page
@@ -459,12 +459,9 @@ ___
 ___
 - **Boon Focus (tier 1 - 3, your choice):** Pick a boon you can invoke. Gain the following benefits:
  - **Tier 1:** When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.
- 
-
- ___
  - **Tier 2:** You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.
  - **Tier 3:** The effect at tier 3 varies based on the duration of the boon:
-   - **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action.
+   - **If the chosen boon has a duration of “sustain persists”**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action.
    - **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
 ___
@@ -482,12 +479,7 @@ ___
   - **Tier 4:** You are immune to damage and harmful effects from the chosen energy type.
 
 ___
-- **Evasive Footwork:** When you move from a space 
-
-___
-- 
- ___
- adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+- **Evasive Footwork:** When you move from a space  adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
 ___
 - **Lethal Strike (tier equal to NPC level, max 9):** Your attacks are considered lethal strikes whenever you fulfill *one* of the following conditions:
   ____
@@ -532,7 +524,7 @@ ___
 - **Multi-Target Attack Specialist (tier equals NPC level, max 5):** When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
 
 ___
-- **Potent Bane:** Choose one bane that you can invoke that has a duration of "resist ends". When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.
+- **Potent Bane:** Choose one bane that you can invoke that has a duration of “resist ends”. When a target makes a resist roll to shake off your invocation of the chosen bane, they have disadvantage 1.
 ___
 - **Resilient:** Any time you make a resist roll, you have advantage 1 on the roll.
 

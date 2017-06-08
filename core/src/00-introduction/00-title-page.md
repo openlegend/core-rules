@@ -43,7 +43,7 @@ Written, created, and developed by Brian Feister & Ish Stabosz
 
 \page
 
-<div class="wide" style="margin-top:3000px;">
+<div class="wide" style="margin-top:2600px;">
 
 **Cover Illustration by** Saryth Chareonpanichkul & Ivan Sevic
 ___

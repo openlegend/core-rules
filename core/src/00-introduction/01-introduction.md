@@ -1,3 +1,9 @@
+<img class="full-page cover-all"
+  src="http://localhost:8888/_full_page/Sci%20Fi%20Birthing%20Pod%20-%20Mahea%20Rodrigues.jpg" />
+
+
+\page
+
 <div class='footnote'>INTRODUCTION</div>
 
 # Introduction: This is Your Story. Tell it.
@@ -127,4 +133,6 @@ Action rolls and exploding dice are just the start of what makes Open Legend a b
 >
 > Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, the GM rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
 
+
 \page
+ 

@@ -110,27 +110,25 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Category** is the general group that the weapon falls into. Some weapons may fall into multiple categories. If a weapon falls into multiple categories, for each attack, the wielder must choose the mode being used and the attack gains the benefits of that category. For example, a dagger is both “Close Ranged” and “One-handed Melee”. On each attack, the wielder chooses the mode.
 
-
-* **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
+___
+- **Melee** - weapons in this category are meant for close quarters hand-to-hand combat.
     ___
-    * **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, if neither has the *defensive* property, you gain advantage 1 to all melee attacks. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
-    * **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks.
-    * **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.
-
-* **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you.
+   - **One-handed Melee** - The weapon uses a single hand and allows the other hand to be used for carrying another object, second weapon, or kept free for other actions. When wielding a one-handed weapon in each hand, if neither has the *defensive* property, you gain advantage 1 to all melee attacks. If both weapons you are wielding have passive benefits such as the *defensive* property, use the best of the two benefits; they are not added together.
+   - **Two-Handed Melee** - The weapon requires two hands to wield and cannot be used with a shield or other weapon. Two-handed melee weapons grant advantage 1 to all attacks.
+   - **Versatile Melee** - The weapon can be wielded either one-handed or two-handed. The wielder can freely switch between the two modes and has all of the benefits and restrictions of whichever mode they are using.  
+- **Ranged** - Weapons in this category can be used to make ranged attacks with no penalty up to their range increment (in feet). Attacks made up to twice the normal range suffer disadvantage 1, and attacks made up to three times the normal range suffer disadvantage 2. Attacks at farther distances cannot be made. Note that ammunition for ranged weapons is generally not kept track of, as it is assumed you have brought enough ammo with you.
    ___
    - **Range Increments**
      ___
-     * **Close Ranged** - Range increment of 25'.
-     * **Short Ranged** - Range increment of 50'.
-     * **Medium Ranged** - Range increment of 75'.
-     * **Long Ranged** - Range increment of 125'.
-     * **Extreme Ranged** - Range increment of 300'.
+     - **Close Ranged** - Range increment of 25'.
+     - **Short Ranged** - Range increment of 50'.
+     - **Medium Ranged** - Range increment of 75'.
+     - **Long Ranged** - Range increment of 125'.
+     - **Extreme Ranged** - Range increment of 300'.
    ___
-   * **Close** and **Short** Ranged weapons are built to be compact and effective in close quarters, so they are less bulky. They can be wielded with a single hand, allowing the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
-   * **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
-   * **Extreme** Ranged weapons are specially built for distance and cannot be used to attack a target closer than 50'.
-
+   - **Close** and **Short** Ranged weapons are built to be compact and effective in close quarters, so they are less bulky. They can be wielded with a single hand, allowing the other hand to be used for carrying a shield, second weapon, or kept free for other actions.
+   - **Medium**, **Long**, and **Extreme** Ranged weapons have various strengths, but are not built for close quarters combat. As such, they require two hands and cannot be used with any weapon or other item in the wielders off hand.
+   - **Extreme** Ranged weapons are specially built for distance and cannot be used to attack a target closer than 50'.
 
 **WL (Wealth Level)** is an indication of how expensive the item is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
