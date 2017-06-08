@@ -646,9 +646,9 @@ ___
 ___
 - **Cost:**  2 points
 - **Prerequisites:**
- - **Tier 1:** Influence 3
- - **Tier 2:** Influence 5
- - **Tier 3:** Influence 7
+ - **Tier 1:** Invoking Attribute 4
+ - **Tier 2:** Invoking Attribute 5
+ - **Tier 3:** Invoking Attribute 7
 - **Description:** Whether you are a necromancer who summons hordes of undead, an inventor who crafts autonomous defense droids, or a psychic capable of bending others to your will, minions are exceptionally strong under your command.
 - **Effect:** Creatures under the effects of your _charmed_ or _dominated_ banes, or those created by your invocation of the _summon creature_ boon, gain advantage 1 on all attack rolls to protect you or act in your favor for each tier of this feat you possess.
 
