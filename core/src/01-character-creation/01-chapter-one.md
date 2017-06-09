@@ -1199,7 +1199,7 @@ ___
 - **Resolve:** 13
 - **Speed:** 30’
 ___
-- **Feats:** Companion I (Drone), Boon Focus (Seeing), Untrackable
+- **Feats:** Companion I (Drone), Bane Focus (Spying), Untrackable
 ___
 - **Notable Equipment:** Tablet, Laptop, VR Goggles
 
