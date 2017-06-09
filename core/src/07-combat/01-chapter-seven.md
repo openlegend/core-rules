@@ -272,7 +272,7 @@ ___
 <div class='footnote'>CHAPTER 7: COMBAT</div>
 
 &nbsp;&nbsp;&nbsp;
-**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone, unless it's 5' long, which does not incur disadvantage.
+**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as its distance from you. Your attack suffers disadvantage 1 per 5' of length of the cone, unless it's 5' long, which does not incur disadvantage.
 
 
 #### Make a Bane Attack
