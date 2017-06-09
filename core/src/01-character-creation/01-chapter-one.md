@@ -502,7 +502,7 @@ Usually, though, you begin with a wealth score of 2, and may select up to three 
 
 ## Step 6: Choose Perks & Flaws
 
-Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 4: Perks & Flaws.
+Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 5: Perks & Flaws.
 
 At character creation, you may optionally choose up to two perks and up to two flaws. You do not have to choose any.
 
