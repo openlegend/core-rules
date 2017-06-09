@@ -923,7 +923,7 @@ advantage, whether summoning up an imposing wall of briars with the
 *regeneration* boon. Druids also make excellent combatants and scouts.
 As a scout, they are able to sneak unnoticed into an enemy camp as a
 naturally occurring animal species. As a combatant, they can shift into
-a massive and powerful creature, such as a bear to quickly
+a massive and powerful creature, such as a bear, to quickly
 deal with enemies.
 
 
