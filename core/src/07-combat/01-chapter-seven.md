@@ -74,7 +74,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 
 If you do not wish to act when your turn comes, you may choose to defer your turn, either by waiting or by preparing to react in response to some sort of situation. If you wait, you may take your turn at any time after another character has finished their turn but before another character has begun.
 
-If you are preparing to react, then you should give a general description of what you are preparing for, such as “I'll act when a threat to come through the door" or “I'm readying my bow to shoot at an enemy who goes for the altar.” When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
+If you are preparing to react, then you should give a general description of what you are preparing for, such as “I'll act when a threat comes through the door" or “I'm readying my bow to shoot at an enemy who goes for the altar.” When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
 
 
 
