@@ -84,7 +84,7 @@ Choose a specific craft, such as gunsmithing, hardware assembly, glass blowing, 
 
 ### Ascetic
 
-You are well-versed in the art of living with less. Whether a cloistered monk, a transcendant psion, or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your asceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
+You are well-versed in the art of living with less. Whether a cloistered monk, a transcendent psion, or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your asceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
 
 ### Attractive
 
