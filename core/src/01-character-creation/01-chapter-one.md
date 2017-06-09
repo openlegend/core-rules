@@ -171,7 +171,7 @@ Whatever the motivation of their characters, the players share a common goal: to
 
 Open Legend is a game designed for players who want enough rules to make a game fair, but not so many that the rules interfere with the fun or imagination. *Open Legend* provides a way to make sure that the game is balanced while adjusting the story of character abilities on the fly. The rules should be robust, but their only value is in telling a story.
 
-For example, Open Legend's streamlined systems for secondary effects (banes) and multi-target attacks mean that all characters use the same mechanics to craft unique attacks. In a fantasy campaign, an elemental mage might blast a fork of lightning to damage and stun his foes. A star trooper in a far future campaign might shoot an energy beam to create the very same effect. The rules for both attacks are the same regardless of the story you want the rules tell.
+For example, Open Legend's streamlined systems for secondary effects (banes) and multi-target attacks mean that all characters use the same mechanics to craft unique attacks. In a fantasy campaign, an elemental mage might blast a fork of lightning to damage and stun his foes. A star trooper in a far future campaign might shoot an energy beam to create the very same effect. The rules for both attacks are the same regardless of the story you want the rules to tell.
 
 As storytellers, we love intricate plotlines that feature characters of depth and beauty. But as gamers, we also love rolling dice. If all we wanted to do with our friends was tell stories, we would write a novel together or join an improv theater group. What we want to do is game. To do that, we need rules.
 
