@@ -1110,7 +1110,7 @@ knocking the wind out of them, or blowing off a toe. The *multi-attack specialis
 feat allows them to shoot twice <br>
 as fast as a lesser gunfighter, enabling them to
 take on large groups of foes single-handedly. Supplementing <br>
-their markshmanship
+their marksmanship
 with dark powers, they invoke <br>
 banes and boons with Entropy. Favorites include <br>
 invoking *life drain* to
