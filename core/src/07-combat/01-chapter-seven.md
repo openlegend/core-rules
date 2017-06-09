@@ -277,7 +277,7 @@ ___
 
 #### Make a Bane Attack
 
-Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in Chapter 6: Banes & Boons. While targets may be effected by multiple banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (such as the *fatigued* bane).
+Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in Chapter 3: Banes & Boons. While targets may be effected by multiple banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (such as the *fatigued* bane).
 
 
 
@@ -288,7 +288,7 @@ Resolving a bane attack is very similar to making a damaging attack, except as i
 1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
 
-You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the boon descriptions in Chapter 6: Banes & Boons. To invoke a boon, follow these steps:
+You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the boon descriptions in Chapter 3: Banes & Boons. To invoke a boon, follow these steps:
 
 
 #### Invoke a Boon
