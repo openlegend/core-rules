@@ -179,7 +179,7 @@ Without well-defined rules, the decisions made by players and GMs can seem arbit
 
 Open Legend was designed to provide enough rules so that players have a clear framework to guide their play, but not so many rules that the game gets bogged down by them. You spend your day job worrying about bookkeeping and policies. We don't want the gaming table to feel like that, and we designed Open Legend to focus on the fun rather than the homework.
 
-For example, you won't have long lists of resources to manage. Any abilities that you can use or spells you can cast in Open Legend can be used at-will. Likewise, spellcasters, psions, and techies don't need to worry about poring over page after page of power descriptions in order to make the right choices. Instead, Open Legend uses a system of **banes** and **boons**, or status effects, that any character can apply if they are built to do so.
+For example, you won't have long lists of resources to manage. Any abilities that you can use or spells you can cast in Open Legend can be used at will. Likewise, spellcasters, psions, and techies don't need to worry about poring over page after page of power descriptions in order to make the right choices. Instead, Open Legend uses a system of **banes** and **boons**, or status effects, that any character can apply if they are built to do so.
 
 Other mechanics that will ensure that you can focus on the story you want to tell include simplified wealth and encumbrance systems. In Open Legend, you'll never need to record a single gold piece on your character sheet or even think about how many pounds your revolver weighs.
 
