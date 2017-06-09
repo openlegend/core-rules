@@ -147,7 +147,7 @@ More often than not, though, the players (and especially the GM) will want more 
 > ___
 > **Vargax Events**
 >
-> 1. *Vargax sends an emissary to the barbarians. Vargax wins over the tribe's trust by delivering the head of a Collector.*f
+> 1. *Vargax sends an emissary to the barbarians. Vargax wins over the tribe's trust by delivering the head of a Collector.*
 > 1. *Vargax converts the barbarian shamans to worship him. The tribe as a whole begins transformation under demonic influence.*
 > 1. *Vargax displaces the barbarian chief and assumes control of the tribe.*
 > 
