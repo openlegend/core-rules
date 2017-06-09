@@ -354,7 +354,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | <div style="width: 400px;"></div> | |
 | :-: | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Creation** | Channel higher powers, manifest something from nothing, regenerate, divinely bolster, etc. |
+| **Creation** | Channel higher powers, manifest something from nothing, regenerate, divinely bolster |
 | **Energy** | Create and control the elements—fire, cold, electricity, etc. |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
