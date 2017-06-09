@@ -93,7 +93,7 @@ When your turn in the initiative order comes, you are allowed one major action, 
 | 1 Major Action* <br /> 1 Move Action <br />  Any number of minor actions | 1 Focus Action |
 
 
-*Major action may be traded for a move action*
+*\*Major action may be traded for a move action*
 
 ### Major Actions
 
