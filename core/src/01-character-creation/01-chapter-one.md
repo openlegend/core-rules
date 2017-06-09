@@ -605,7 +605,7 @@ when the circumstances demand it.
 In combat, Battle Mages serve as a one man front <br>
 line brute squad. Their heavy armor makes them <br>
 nearly impervious to lesser foes, and their <br>
-command over the element of and ice <br>
+command over the element of ice <br>
 allow them to control the battlefield with area <br>
 attacks. Making use of the *multi-target attack
 specialist* feat, they can attack multiple foes without hindrance. When
