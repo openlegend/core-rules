@@ -609,7 +609,7 @@ command over the element of ice <br>
 allow them to control the battlefield with area <br>
 attacks. Making use of the *multi-target attack
 specialist* feat, they can attack multiple foes without hindrance. When
-enemies do manage to outmaneuver their earthquakes and icy bolts, Battle
+enemies do manage to outmaneuver their wintry gusts and icy bolts, Battle
 Mages are ready to engage in hand to hand combat with an arsenal of
 weaponry for any occasion.
 
