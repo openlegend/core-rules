@@ -605,7 +605,7 @@ In the examples scenarios that follow, you’ll witness several of these at play
 
 ##### Put a Character in Danger
 
-Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that
+Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shotgun on the enemy barreling down on him, failing to realize that
 
 
 his ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
