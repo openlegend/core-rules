@@ -1500,7 +1500,7 @@ ___
 ### Shade
 
 Shades are highly trained assassins that draw upon unearthly power
-from the in-between the void of shadows where most mortals dare not
+from the in-between, the void of shadows where most mortals dare not
 travel. One with the darkness, they use their powers to deceive and
 misdirect, catching their prey off guard. These night hunters are
 trained to slay from a distance—unseen, unheard, and without a trace.
