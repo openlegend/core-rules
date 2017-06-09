@@ -436,7 +436,7 @@ Many boons have a default duration of *sustain persists*, which means that every
 
 > ##### Sustaining Boon Examples
 >
-> Ruby invokes the *flight* boon and takes to the skies. On her next turn, she wants to keep the *flight* active, so she uses a minor action to sustain it. An enemy then inflicts her with the *stunned* boon, limiting her to a single major, move, or minor action. When her turn comes up again, she uses a single move action to reach a safe landing spot. Because she is *stunned* she does not have a minor action to use to sustain the boon, so it ends when her turn is over.
+> Ruby invokes the *flight* boon and takes to the skies. On her next turn, she wants to keep the *flight* active, so she uses a minor action to sustain it. An enemy then inflicts her with the *stunned* bane, limiting her to a single major, move, or minor action. When her turn comes up again, she uses a single move action to reach a safe landing spot. Because she is *stunned* she does not have a minor action to use to sustain the boon, so it ends when her turn is over.
 >
 > * * * * *
 >
