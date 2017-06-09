@@ -1445,9 +1445,9 @@ Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6)
 - **Guard:** 18 (Agility 4, Might 2, Chainmail 2)
 - **Toughness:** 15
 - **Resolve:** 12
-- **Speed:** 30’
+- **Speed:** 35’
 ___
-- **Feats:** Fleet of Foot, Master Tracker, Climbing, Companion I
+- **Feats:** Fleet of Foot I, Master Tracker, Climbing, Companion I
 ___
 - **Notable Equipment:** Longsword, Longbow, Chainmail
 
