@@ -107,7 +107,7 @@ ___
 - **Power Level:** 3 / 4 / 6
 - **Attack:**
  - Influence vs. Resolve
-- **Description:** Charms are one of the great banes of legend, wielded by powerful enchantresses like Circe (of Homer's The Odyssey), nymphs, pyschics, and other characters who control the will of others, not through total domination, but through a magical spell of love or friendship.
+- **Description:** Charms are one of the great banes of legend, wielded by powerful enchantresses like Circe (of Homer's The Odyssey), nymphs, psychics, and other characters who control the will of others, not through total domination, but through a magical spell of love or friendship.
 - **Effect:** The charmed bane can only be inflicted via a bane attack. Damaging attacks that trigger banes cannot trigger this bane. The charmed bane manifests at two levels: minor and major.
 
  **Minor Charm** - The target is mentally compelled to become more friendly, only changing their attitude toward you moderately. If they are about to strike you, they will restrain themselves - still angry and hostile, but no longer violent. If they want to help you and are leaning toward trusting you, but have some hesitation because you've just met, then that hesitation goes away.
