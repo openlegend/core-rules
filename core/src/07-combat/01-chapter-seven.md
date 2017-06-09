@@ -414,7 +414,7 @@ Only voluntary movement made on the moving character's turn trigger opportunity 
 
 > ##### Opportunity Attack Examples
 >
-> Tommy has no choice but to flee from the three orcs that have closed upon him. He moves as far as he can to get away from them. However, because he moved from a space adjacent to them into a space not adjacent to them, all three orcs get to make an opportunity attack.
+> Sir Cathelinaud has no choice but to flee from the three orcs that have closed upon him. He moves as far as he can to get away from them. However, because he moved from a space adjacent to them into a space not adjacent to them, all three orcs get to make an opportunity attack.
 >
 > * * * * *
 >
