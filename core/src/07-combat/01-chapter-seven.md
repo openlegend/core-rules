@@ -386,7 +386,7 @@ Special movement includes climbing, jumping, swimming, and other movement that i
 
 You can use a move action to recover from one or more banes afflicting you. This move action cost is a simplified way of representing any number of different ways you might go about shaking off the wide range of banes you might be afflicted by. Roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed. Note that some banes have different rules for how they can be resisted.
 
-Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you to fail resist.
+Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you fail to resist.
 
 > ##### Example of Resisting Banes
 >
