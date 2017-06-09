@@ -1040,7 +1040,7 @@ ___
 - **Speed:** 30’
 ___
 - **Feats:** Boon Focus I (Summon Creature), <br>
-Craft Extraordinary Item
+Craft Extraordinary Item I
 ___
 - **Notable Equipment:** Hand cannon (same as revolver), <br>Kevlar Vest, 2
 Grenades, Engineering Tools
