@@ -850,10 +850,10 @@ ___
 - **Favored Actions**
 ___
 - _**Hyperlapse Decay**_ (damaging attack): Entropy vs. Guard
-- _**Stasis Field**_ (invoke *aura: immobile*): Auto-success at PL 1 via *boon focus*
-- _**Time Dilation Field**_ (invoke *aura: slowed*): Auto-success at PL 1 via *boon focus*
+- _**Stasis Field**_ (invoke *5' aura: immobile*): Auto-success at PL 1 via *boon focus*
+- _**Time Dilation Field**_ (invoke *5' aura: slowed*): Auto-success at PL 1 via *boon focus*
 - _**Fast Forward**_ (invoke *haste*): Movement vs. 14 - 18 <br> (PL 2 - 4)
-- _**Mass Fast Forward**_ (invoke *aura: haste*): Auto-success at PL 2 via *boon focus*
+- _**Mass Fast Forward**_ (invoke *5' aura: haste*): Auto-success at PL 2 via *boon focus*
 - _**Rewind**_ (invoke *heal*): Creation vs. 12 - 16 (PL 1 - 3)
 - _**Time Step**_ (invoke *teleport*): Movement vs. 16 (PL 3)
 - _**Futuresight**_ (invoke *precognition*): Prescience vs. 12 - 16 (PL 1 - 3)
