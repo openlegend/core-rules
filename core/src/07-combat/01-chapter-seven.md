@@ -10,12 +10,12 @@
 
 <div class='footnote'>CHAPTER 7: COMBAT</div>
 
-# Chapter 7: Combat 
+# Chapter 7: Combat
 
-Sometimes, the well-meaning but far too honest paladin blows your cover. Sometimes, the trigger-happy gunslinger gives away your position. 
+Sometimes, the well-meaning but far too honest paladin blows your cover. Sometimes, the trigger-happy gunslinger gives away your position.
 Sometimes, negotiations fail. <br><br>
 That's when combat ensues. <br><br>
- 
+
  In this chapter, you'll learn all the rules for fighting strategic and epic battles.
 
 ## When Combat Ensues
@@ -36,7 +36,7 @@ Surprised characters always act after non-surprised characters, as explained in 
 
 After surprise has been determined, each combatant makes an Agility action roll. The total of a combatant's Agility roll is their initiative score. The GM may decide to make one roll for each group of NPC enemies or allies instead of tracking each NPC initiative individually.
 
-When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high 
+When taking turns in combat, characters act in order from highest initiative score to lowest. In case of ties, characters act in order of their Agility scores (from high
 
 ___
 to low). If Agility scores are also tied, determine the order randomly.
@@ -50,7 +50,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 > Zak and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
 >
 > Zak and Jalani roll Agility to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Zak was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
-> 
+>
 > - Zak (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 > - Jalani (Agility 4) rolls 1d20 + 3d10 (keeping the highest d10), and gets a 25.
 > - The gravity worms (Agility 3) roll 1d20 + 1d8, and get an 11.
@@ -60,7 +60,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 >
 > ___
 > **Non-surprised Combatants**
-> 
+>
 > - Jalani 25 (On her first turn, she must draw her Las Pistol)
 > - Gravity Worms 11
 >
@@ -130,7 +130,7 @@ ___
 
 First, choose the most logical attribute for the type of attack you are making. Every attack is either physical or extraordinary.
 
-**Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise* 
+**Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise*
 
 ___
 property will determine which attribute to use.
@@ -158,7 +158,7 @@ You must choose a target within range of the type of attack you are making:
 **Non-physical attacks** have a range determined by the score of the attribute being used, as detailed in the Non-Physical Attack Range table. Unlike projectile weapons, these attacks cannot extend beyond their normal range.
 
 ___
-##### Non-Physical Attack Range 
+##### Non-Physical Attack Range
 
 | | | | |
 | - | :-: | :-: | :-: |
@@ -244,7 +244,7 @@ You may target up to five foes that fall within a 25' square. When targeting mor
 Area attacks are only possible when you are using an extraordinary attribute, unless a specific weapon property or other rule allows you to make area attacks without an extraordinary attribute. You may choose from a variety of shapes when making an area attack, as described below. Friends and foes alike that fall within the targeted area will be subject to your attack.
 
 ___
-##### Multi-Targeting Summary 
+##### Multi-Targeting Summary
 
 
 | <div style="width: 300px;"></div> | |
@@ -283,7 +283,7 @@ Instead of attempting to damage a target, you may instead choose to inflict your
 
 Resolving a bane attack is very similar to making a damaging attack, except as indicated in these steps:
 
-1. **Determine attribute vs. defense.** The [bane descriptions](http://www.openlegendrpg.com/banes) indicate which attributes you can use to inflict a bane as well as the targeted defense.
+1. **Determine attribute vs. defense.** The [bane descriptions](#banes-list) indicate which attributes you can use to inflict a bane as well as the targeted defense.
 1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options. Note that banes invoked with Agility or Might require a weapon or natural attack, and are thus limited by the range of the attack.
 1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
@@ -294,16 +294,16 @@ You can invoke boons in order to aid yourself or allies. In order to invoke a bo
 #### Invoke a Boon
 
 1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options. If you later sustain this boon, that use of the sustain action persists the boon for all targets affected by the original invocation.
-1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](#boon-descriptions).
-1. **Determine power level.** Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which 
+1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](#boons-list).
+1. **Determine power level.** Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which
 
 <div class="bane-boon-entry"></div>
 
 ___
-- 
-- 
-- 
-- 
+-
+-
+-
+-
   ___
      you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
 
@@ -321,12 +321,12 @@ ___
 > Takeo is heavily wounded and needs a chance to escape from the samurai who is mercilessly pressing the attack. With a well-timed snake strike, the monk attempts to blind the armored warrior. Takeo is making a melee attack targeting a single foe, so he makes an action roll using his Agility of 5 versus the samurai's Guard of 18. The monk rolls 1d20 + 2d6 and scores a 20, so his foe is inflicted with the *blinded* bane.
 >
 > ---
-> 
+>
 >
 > Surrounded by a rapidly growing horde of zombies, Selene pumps her sawed-off shotgun and prepares to blast a number out of the way and make a run for her life. Her weapon gives her three benefits in this situation: the ability to make a 10' cone attack without penalty, advantage 1 on *forced move* bane attacks, and access to *forced move* at one power level above her attribute. Since she is only trying to move the zombies rather than damage them, she attacks 3 (the number of targets for a 10' cone) of them with a Forced Move bane attack. Selene's Agility is 5, so she would normally roll 1d20 + 2d6, but the sawed-off shotgun's Forced Move bane property gives advantage 1, so she rolls 1d20 + 3d6 (keeping 2 of the d6's) and gets a total of 23, easily beating the zombies Guard defense of 15. Since the sawed-off shotgun has the *forced move* bane property, Selene can invoke *forced move* at power level 6, which is normally not available with an Agility of 5. Selene blasts all 3 zombies back 15' and begins running for her life.
 >
 > ---
-> 
+>
 >
 > Zarthakis, the great wyrm, is surrounded by a party of 4 adventurers. He unfurls the full fury of his wings and bellows a mighty roar, instilling terror in his foes as he attempts to inflict the *demoralized* bane using his Presence attribute. The dragon's Presence is 8, giving him a range of 75', quite enough to target all of the heroes. Because Zarthakis is multi-targeting 4 foes, he has disadvantage 4 on his action roll. Normally, he would roll 1d20 + 3d8, but because he has disadvantage, the wyrm rolls 1d20 + 7d8 (keeping the lowest 3 d8s). His total score is 22, which he compares to each target's Resolve defense score separately. The heroes have Resolve scores of 14, 17, 22, and 25, so the dragon manages to inflict the bane on three of the four.
 
@@ -459,7 +459,7 @@ Move up to twice your speed and make one melee attack at disadvantage 1.
 
 ### Interrupt Actions
 
-In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. 
+In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up.
 
 You can use your interrupt action to attempt any of the following:
 
@@ -485,7 +485,7 @@ Once per round as part of your defend action, you may also move up to half of yo
 
 #### Improvise
 
-You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke the *flight* boon and save them or to dive and try to catch them at the edge of the cliff. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies. 
+You may also use your interrupt action in order to improvise a response to a situation in combat. For example, if an ally falls off a cliff, you may use your interrupt action to invoke the *flight* boon and save them or to dive and try to catch them at the edge of the cliff. Improvised interrupt actions should generally be limited to non-offensive reactions meant to assist allies.
 
 \page
 
@@ -555,7 +555,7 @@ ___
 **it is in every other part of the game**. GMs who want something a little more streamlined **may use the following modification** to the usual core mechanic in combat:
 
 ___
-##### The Action Roll for Attacks 
+##### The Action Roll for Attacks
 
 | |
 | :-: |
@@ -583,7 +583,7 @@ Some players might wonder why a PC still gets a taste of success even when their
 
 ### Interpreting Twists and Failures in Combat
 
-Those GMs who would like to use the usual methods for interpreting failed rolls may struggle to create interesting outcomes on the fly, especially if they have prior experience with more binary rules systems. This section aims to inspire GMs with several examples of how to 
+Those GMs who would like to use the usual methods for interpreting failed rolls may struggle to create interesting outcomes on the fly, especially if they have prior experience with more binary rules systems. This section aims to inspire GMs with several examples of how to
 
 ___
  *success with a twist* and *failure but the story progresses* in a variety of combat situations.
@@ -605,7 +605,7 @@ In the examples scenarios that follow, you’ll witness several of these at play
 
 ##### Put a Character in Danger
 
-Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that 
+Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that
 
 
 his ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
@@ -658,7 +658,7 @@ Cook’s rifle is blazing as he mows down bandits one after another from his loo
 
 ##### Find Something You Weren’t Looking For
 
-In perhaps the bravest moment of his life, Snitch creeps within reach of the dreaded Venom Wyvern and attempts a daring sneak attack on the unsuspecting beast, attempting to inflict the *stunned* bane so that his allies can move in for the kill. When Snitch’s roll fails, the GM  offers a success with a twist. The wyvern notices Snitch 
+In perhaps the bravest moment of his life, Snitch creeps within reach of the dreaded Venom Wyvern and attempts a daring sneak attack on the unsuspecting beast, attempting to inflict the *stunned* bane so that his allies can move in for the kill. When Snitch’s roll fails, the GM  offers a success with a twist. The wyvern notices Snitch
 
 ___
 at the last minute, and manages to sweep the rogue away with its tail just as  his blade pierces the beast’s hide. The wyvern is *stunned*, but Snitch has been knocked down a shallow pit, where he discovers a brood of hungry wyvern hatchlings waiting for their next meal.

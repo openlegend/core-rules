@@ -35,7 +35,7 @@ Each feat description includes the following elements.
 ```
 ```
 
-## Feat List
+## Feats List
 
 
 ### Alternate Form (I - II)
