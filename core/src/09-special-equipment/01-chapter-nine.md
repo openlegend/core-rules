@@ -490,7 +490,7 @@ ___
 
 ___
  - **Wealth Level**: 4
- - *This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day to day engineering tasks.*
+ - *This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day-to-day engineering tasks.*
  - **Properties**: Might 3, Autonomous
 
 
