@@ -486,7 +486,7 @@ While your character's attributes define your skill at accomplishing heroic task
 
 For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so she takes the *Combat Momentum* feat to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Battle Trance* so that he can fly into a frenzied rage in order to decimate foes.
 
-### Choose your feats
+### Choose Your Feats
 
 Feats are purchased using feat points. At 1st level, you have 6 feat points to spend. Any leftover feat points may be saved for the future.
 
