@@ -1190,7 +1190,7 @@ piece together secrets and data which others assume is secured beyond
 access. Out of combat, the Hacker uses banes and boons such as *seeing*
 via their drone and *spying* or *precognition* to track information or
 persons of interest through databases, servers, surveillance cameras,
-credit card records, and and other sources of poorly secured or encrypted data. If
+credit card records, and other sources of poorly secured or encrypted data. If
 deception is called for, Hackers tap into the almost omni-present streams of data of systems distributed throughout the world to fabricate video feeds, holograms, or audio transmissions using the *phantasm* bane.
 
 When combat breaks out, Hackers tend to avoid the front lines, relying
