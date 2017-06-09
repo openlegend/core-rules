@@ -1603,7 +1603,7 @@ ___
 - **Resolve:** 13
 - **Speed:** 30’
 ___
-- **Feats:** Attribute Substitution II (Energy > Agility), Combat Momentum, Lightning Reflexes
+- **Feats:** Attribute Substitution II (Energy > Agility), Combat Momentum, Lightning Reflexes I
 ___
 - **Notable Equipment:** Chainmail, Falchion
 
