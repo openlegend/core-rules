@@ -5,11 +5,11 @@
   .phb#p2:after,
   .phb#p3:after,
   .phb#p4:after,
-  .phb#p6:after{
-    display: none !important;
+  .phb#p6:after{ 
+    display: none !important; 
   }
   .phb#p1 h1 {
-  	font-size: 5cm;
+    font-size: 5cm;
     margin-bottom: 10px;
   }
 </style>
@@ -47,14 +47,14 @@ Written, created, and developed by Brian Feister & Ish Stabosz
 
 **Cover Illustration by** Saryth Chareonpanichkul & Ivan Sevic
 ___
-**Interior Illustrations by** Alix Branwyn, Tom Field, Ivan Sevic, Ilse Gort, Max Bedulenko, Andrey Vasilchenko, Mahea Rodrigues, Randy Vargas, Saryth Chareonpanichkul, Biagio D'Alessandro, Forest Imel, Allen Morris, Paris Iannou, Simon Tjong, Dleoblack,
+**Interior Illustrations by** Alix Branwyn, Tom Field, Ivan Sevic, Ilse Gort, Max Bedulenko, Andrey Vasilchenko, Mahea Rodrigues, Randy Vargas, Saryth Chareonpanichkul, Biagio D'Alessandro, Forest Imel, Allen Morris, Paris Iannou, Simon Tjong, Dleoblack, 
 
 <br>
 </div>
 
 <div class="wide" style="text-align: center;">
 
-OPEN LEGEND RPG, Open Legend keyhole, the Open Legend logo, Seventh Sphere Productions, and all other Seventh Sphere product names, and their respective logos are trademarks of Seventh Sphere Productions in the USA and other countries.
+OPEN LEGEND RPG, Open Legend keyhole, the Open Legend logo, Seventh Sphere Entertainment, and all other Seventh Sphere product names, and their respective logos are trademarks of Seventh Sphere Entertainment in the USA and other countries.
 
 This work contains material that is copyright Seventh Sphere and/or other authors. Unauthorized use is prohibited.
 
@@ -187,7 +187,7 @@ Open Legend straddles the line between storytelling and rules mechanics by givin
 
 We hope that we've built a game for players who love to tell a good story but don't want every decision to be made on a whim.
 
-We hope that we've built a game for players who love to shake the dice and see them roll but don't want to spend
+We hope that we've built a game for players who love to shake the dice and see them roll but don't want to spend 
 
 ___
 hours min-maxing their characters. Most of all, we hope to have built a game for players like you.
@@ -809,11 +809,11 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Chronomages see and manipulate the flow &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 of the most powerful force in
-the universe: time.
+the universe: time. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-They possess the power to unravel the very fabric
+They possess the power to unravel the very fabric 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-of the universe and rearrange it to suit their needs.
+of the universe and rearrange it to suit their needs. 
 &nbsp;&nbsp;Past, present, and
 future are all one to the Chronomage, and their preternatural connection to the fourth dimension often creates rifts between those with a more
 conventional understanding of time.
@@ -1187,7 +1187,7 @@ for better or worse.
 The Hacker is a master of data and information. Above all, they seek to
 gather information and harness its power. Hackers use information to
 piece together secrets and data which others assume is secured beyond
-access. Out of combat, the Hacker uses banes and boons such as *seeing*
+access. Out of combat, the Hacker uses banes and boons such as *seeing* 
 via their drone and *spying* or *precognition* to track information or
 persons of interest through databases, servers, surveillance cameras,
 credit card records, and and other sources of poorly secured or encrypted data. If
@@ -1218,7 +1218,7 @@ ___
 - **Favored Actions**
 
 ___
-- _**Dark Web Insight**_ (invoke *bolster*): <br>Prescience vs. 16
+- _**Dark Web Insight**_ (invoke *bolster*): <br>Prescience vs. 16 
 (PL 3)
 - _**Algorithmic Prediction**_ (invoke *precognition*): <br> Prescience vs. 12 - 20 (PL 1 - 5)
 - _**Multivariate Sensor Sweep**_ (invoke *truesight*): <br>
@@ -1307,7 +1307,7 @@ ___
 - **Favored Actions**
 
 ___
-- _**See the Path**_ (defend action): <br> Protection vs.
+- _**See the Path**_ (defend action): <br> Protection vs. 
 target’s attack roll, advantage 1
 - _**Break Free**_ (special action): Use *hospitaler* <br>
 feat to grant a resist roll to an ally
@@ -1591,7 +1591,7 @@ selection of banes and boons. *Lightning reflexes* ensures that they
 will often act early in combat, and Spellswords will use this
 opportunity to invoke the *resistance* boon or inflict <br >
 a vulnerable target with *persistent damage*. Once <br>
-combat is underway, Spellswords focus on <br>
+combat is underway, Spellswords focus on <br> 
 finishing off damaged foes so that they <br>
 can use *combat momentum* to maneuver <br>
 around the battlefield.
