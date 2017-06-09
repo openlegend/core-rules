@@ -1098,10 +1098,10 @@ upon their foes. When damage alone isn’t
 getting the job done, Gunslingers can aim their shots to hinder enemies
 in all manner of ways: shooting their weapons out of their hands,
 knocking the wind out of them, or blowing off a toe. The *multi-attack specialist*
-feat allows them to shoot twice <br>
-as fast as a lesser gunfighter, enabling them to
+feat allows them to shoot <br> 
+twice as fast as a lesser gunfighter, enabling them to
 take on large groups of foes single-handedly. Supplementing <br>
-their marksmanship
+their markshmanship
 with dark powers, they invoke <br>
 banes and boons with Entropy. Favorites include <br>
 invoking *life drain* to
