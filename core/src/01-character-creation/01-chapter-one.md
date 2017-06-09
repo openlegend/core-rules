@@ -302,7 +302,7 @@ In Open Legend, attributes are divided into four categories: physical, social, m
 
 A character's skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero, though physical, social, and mental attributes may still be used untrained.
 
-The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
+The average commoner or craftsman usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
 
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish. All of the attributes are explained in further detail in Chapter 2: Actions and Attributes.
 
