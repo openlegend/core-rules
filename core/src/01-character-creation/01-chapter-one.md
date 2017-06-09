@@ -502,7 +502,7 @@ Usually, though, you begin with a wealth score of 2, and may select up to three 
 
 ## Step 6: Choose Perks & Flaws
 
-Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 5: Perks & Flaws.
+Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 4: Perks & Flaws.
 
 At character creation, you may optionally choose up to two perks and up to two flaws. You do not have to choose any.
 
@@ -751,23 +751,14 @@ Outside of combat, they can occasionally lend a hand by bending bars, lifting ga
 Once combat ensues, the Berserker is a near unstoppable killing machine.
 Their two handed axe combined with a Might score of 5 ensures that the
 Berserker will dish out considerable damage. They have exceptionally
-high
-&nbsp;
-defenses, so Berserkers are always willing to call out
-<br> foes with
-the *provoked* bane. In particularly difficult <br>
-fights, they will
-activate their *battle trance* to fly <br>
-into a rage, making their attacks
-even more <br>
-deadly and further improving their
-survivability. <br>
-Berserkers must use their rage
-sparingly, <br>
-however, as entering a *battle trance*
-comes at <br>
-the cost of one level of the <br>
-*fatigued* bane.
+high defenses, so Berserkers are always willing to call out foes with
+the *provoked* bane. In particularly difficult 
+fights, they will activate their <br>
+*battle trance* to fly into a rage, making their <br>
+attacks even more deadly and further improving <br>
+their survivability. Berserkers must use their rage
+sparingly, however, as entering a *battle trance* comes at 
+the cost of one level of the *fatigued* bane.
 
 ___
 - **Attributes:** Agility 2 (1d6), Fortitude 4 (1d10), <br> Might 5 (2d6), Will 3 (1d8), Presence 3 (1d8)
