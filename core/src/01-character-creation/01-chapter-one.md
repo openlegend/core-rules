@@ -832,7 +832,7 @@ companions to move with seemingly inhuman speed, speeding up the flow of
 time to exhaust the enemy, or reversing time to close wounds, the
 Chronomage is able to use their mastery over the fourth dimension to
 gain an advantage in any situation. They make use of the *boon focus*
-feat to invoke these beneficial baleful effects in a field around them
+feat to invoke these beneficial and baleful effects in a field around them
 or an ally. *Attribute substitution* protects their fragile physical
 forms, which are neither strong nor agile outside of their powers. When
 enemies incur their wrath, the Chronomage hyperlapses time within a foe’s body, hastening the entropic decay of bones and flesh.
