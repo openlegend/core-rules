@@ -746,7 +746,7 @@ ___
    - The machine instead transports the passengers to a different dimension.
    - The direction of time travel is reversed.
    - The travelers miss the mark by 2d4 years.
-   - The travelers is attacked by a horde of 4th dimensional chrono beasts.
+   - The travelers are attacked by a horde of 4th dimensional chrono beasts.
 
 ## Mounts & Vehicles
 
