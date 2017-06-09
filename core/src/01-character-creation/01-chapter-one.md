@@ -859,7 +859,7 @@ ___
 - **Favored Actions**
 ___
 - _**Hyperlapse Decay**_ (damaging attack): Entropy vs. Guard
-- _**Stasis Field**_ (inoke *aura: immobile*): Auto-success at PL 1 via *boon focus*
+- _**Stasis Field**_ (invoke *aura: immobile*): Auto-success at PL 1 via *boon focus*
 - _**Time Dilation Field**_ (invoke *aura: slowed*): Auto-success at PL 1 via *boon focus*
 - _**Fast Forward**_ (invoke *haste*): Movement vs. 14 - 18 <br> (PL 2 - 4)
 - _**Mass Fast Forward**_ (invoke *aura: haste*): Auto-success at PL 2 via *boon focus*
