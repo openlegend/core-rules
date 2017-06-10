@@ -327,10 +327,10 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 | <div style="width: 400px;"></div> | |
 | :----: | :- |
-| **Learning** | Recall facts about history, arcane magic, the natural world, etc. |
-| **Logic** | Solve riddles, decipher a code, improvise a tool, understand the enemy's strategy, find a loophole |
+| **Learning** | Recall facts about history, arcane magic, the natural world |
+| **Logic** | Innovate a new crafting method, decipher a code, jury-rig a device, get the gist of a language you don't speak  |
 | **Perception** | Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door |
-| **Will** | Maintain your resolve, overcome adversity, resist torture, stay awake on watch, stave off insanity |
+| **Will** | Maintain your resolve, resist torture, study long hours, stay awake on watch, stave off insanity |
 
 <div style='margin-top:150px'></div>
 
@@ -355,12 +355,12 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | :-: | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
 | **Creation** | Channel higher powers, manifest something from nothing, regenerate, divinely bolster |
-| **Energy** | Create and control the elements—fire, cold, electricity, etc. |
-| **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
+| **Energy** | Create and control the elements—fire, cold, electricity |
+| **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others, bestow |
 | **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
-| **Movement** | Teleport, fly, hasten, slow |
+| **Movement** | Teleport, fly, hasten, telekinetically push |
 | **Prescience** | See the future, read minds or auras, view from afar, detect magic or evil, communicate with extraplanar entities |
-| **Protection** | Protect from damage, break supernatural influence, dispel magic, bind demons |
+| **Protection** | Protect from damage, break supernatural influence, dispel magic, exile extradimensional beings |
 
 
 In Open Legend, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.

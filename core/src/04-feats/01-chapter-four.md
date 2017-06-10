@@ -1235,13 +1235,14 @@ ___
 
 <div class='footnote'>CHAPTER 4: FEATS</div>
 
-<div class="feat-entry"></div>
+<div class="feat-entry" style="margin-top: -0.6em;"></div>
 
 ___
 - 
 - 
 - 
-- **Effect:** Whenever you deal damage using a weapon with the precise property to a target that is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the _silenced_ bane.
+- 
+  **Effect:** Whenever you deal damage using a weapon with the precise property to a target that is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them, the target is afflicted with the _silenced_ bane.
 
 
 ### Skill Specialization (I - V)
@@ -1289,7 +1290,7 @@ ___
 - **Cost:**  1 point
 - **Prerequisites:**
  - **Tier 1 - 9:** None
-- **Description:** You are expertly focused on dealing with a 
+- **Description:** You are expertly focused on dealing with a  particular species, race, or faction. Perhaps your family 
 
 <div class="feat-entry"></div>
 
@@ -1297,7 +1298,7 @@ ___
 - 
 - 
 - 
- particular species, race, or faction. Perhaps your family was slain by werewolves, and you have devoted your life to studying their mannerisms in order to hunt them down. Or maybe you were raised in a prison on the third moon of Vogax Prime, and you know the Vogans better than they know themselves.
+ was slain by werewolves, and you have devoted your life to studying their mannerisms in order to hunt them down. Or maybe you were raised in a prison on the third moon of Vogax Prime, and you know the Vogans better than they know themselves.
 - **Effect:** Choose a species, race, or faction (e.g., dragons, Void Templars, gnolls, or vampires). You learn the primary conversational language of that species, and at the GM's discretion, you may have some level of access to other special forms of communication (such as thieves' cant or secret hand signals). Furthermore, you gain advantage 1 per tier of this feat to all Mental attribute rolls (Learning, Logic, Perception, and Will) pertaining to your chosen group.
 - **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new group each time. Your total advantage on Mental attribute rolls is equal to your tier for that particular group. For example, a character might have Sworn Enemy II (Void Templars) and Sworn Enemy IV (Werewolves).
 
