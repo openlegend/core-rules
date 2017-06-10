@@ -432,7 +432,7 @@ Only voluntary movement made on the moving character's turn trigger opportunity 
 
 #### Sustain a Boon
 
-Many boons have a default duration of *sustain persists*, which means that every time a character uses the *sustain a boon* action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action. You do not need to sustain a boon on the round in which it is invoked. Each time you sustain a boon, it remains active for all targets affected by the original invocation, so when sustaining multi-target boon invocations, the boon remains active for all of the original targets. 
+Many boons have a default duration of *sustain persists*, which means that every time a character uses the *sustain a boon* action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action. You do not need to sustain a boon on the round in which it is invoked as long as you are not sustaining any other boons. Each time you sustain a boon, it remains active for all targets affected by the original invocation, so when sustaining multi-target boon invocations, the boon remains active for all of the original targets. 
 
 > ##### Sustaining Boon Examples
 >
