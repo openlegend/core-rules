@@ -242,7 +242,7 @@ Rather than constantly awarding different experience point values to different a
 
 > ##### Beyond 10th Level
 >
-> Although officially, Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you're up to the task (higher level characters are usually powerful enough that engineering challenges for them can become diffult). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
+> Although officially Open Legend was designed with a maximum character level of 10, there is no reason you can't extend your campaign beyond this threshold if you're up to the task (higher level characters are usually powerful enough that engineering challenges for them can become difficult). Feel free to continue the campaign for as many levels as is fun for both you and your players. To do so, simply continue the established progression of 3 XP to gain a new level, with each XP also providing 1 feat point and 3 attribute points.
 
 
 \page
