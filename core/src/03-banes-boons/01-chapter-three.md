@@ -46,7 +46,7 @@ Each bane description includes the following elements.
 
 **Attack.** This list indicates what type of attack roll to make when inflicting the bane. As long as you possess at least one of the listed attributes at a score greater than or equal to the Power Level, then you can inflict the bane. Each entry consists of an attribute that the attacking player should roll and the defense score targeted by the attack. If the attacker's roll equals or exceeds the target's defense score, then the bane is inflicted.
 
-**Duration.** A bane typically remains in effect until the target resists it with a *Resist* roll, hence most banes have 
+**Duration.** A bane typically remains in effect until the target resists it with a resist roll, hence most banes have 
 
 
 \page
