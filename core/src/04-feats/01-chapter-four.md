@@ -475,8 +475,8 @@ ___
 - **Cost:**  3 points
 - **Prerequisites:**
  - **Tier 1:**
-  - Fortitude 7
-  - Battle Trance
+   - Fortitude 7
+   - Battle Trance
 - **Description:** Whether you are a berserker of the icy north, a hulking superhero of unstoppable might, or a cybernetically enhanced soldier, your battle fury is legendary. You possess the rare ability to fight on long after your body should have given up.
 - **Effect:** While in a battle trance you cannot be knocked unconscious. All damage dealt to you should be recorded, possibly resulting in a negative hit point total. 
 
