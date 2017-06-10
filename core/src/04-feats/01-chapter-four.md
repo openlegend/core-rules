@@ -637,7 +637,7 @@ ___
 - **Prerequisites:**
  - **Tier 1:** Agility 5 and Perception 5
 - **Description:** Following a trail is an everyday part of your life, and as such it is no more taxing than breathing or blinking. Whether you are an experienced woodsman, a bounty hunter for the Galactic Senate, or a humanoid cat creature with heightened senses, your expertise at tracking allows you to get it done faster than the average hunter.
-- **Effect:** You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred.
+- **Effect:** You move unhindered and at full speed when tracking your quarry.
 
 ### Ferocious Minions (I - III)
 
