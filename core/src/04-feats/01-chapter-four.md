@@ -344,7 +344,7 @@ ___
  - **Tier 1:** None
 - **Description:** Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.
 - **Effect:** Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
-- **Special:** If you have the Movement attribute, you can use the Teleport boon instead of a normal move.
+- **Special:** If you have access to the Teleport boon, you may use it instead of a normal move.
 
 
 
