@@ -1109,14 +1109,14 @@ ___
 - **Description:** You have so mastered the art of aiding groups of allies that you can invoke certain boons effortlessly. A healing nova, a supernatural wind that gives flight to a group, and a time dilation that hastens a group of allies are all examples of this feat in action.
 - **Effect:** When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
 
-### Multi-Target Boon Specialist (I - V)
+### Multi-Target Boon Specialist (I - IX)
 
 <div class="feat-entry"></div>
 
 ___
 - **Cost:**  2 points
 - **Prerequisites:**
- - **Tier 1 - 5:** None
+ - **Tier 1 - 9:** None
 - **Description:** You are a master of invoking boons for more than one target. A mass dimensional shift to an intermediary plane and a mass manifestation of entropic life draining are some examples of what this might look like in play.
 - **Effect:** For each tier of this feat, you reduce the disadvantage penalty associated with invoking boons for multiple targets by 1.
 
