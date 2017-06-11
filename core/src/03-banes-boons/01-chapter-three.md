@@ -1400,7 +1400,7 @@ ___
  - **Power Level 5** - Target can subsist without the essential nourishment periodically required for sustenance, such as food or water.
  - **Power Level 7** - Target can subsist without the most critical nourishment, that which is typically consumed on a moment-to-moment basis, such as air.
  - **Power Level 9** - Target is unaffected even when cut off from all biological necessities, including warmth, water, air, food, and any other biological need.
-- Special: You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately cancelled.
+- Special: You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately canceled.
 
 
 ### Telekinesis

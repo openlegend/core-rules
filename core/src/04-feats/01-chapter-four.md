@@ -272,7 +272,7 @@ ___
 - 
 - 
  - 
-   - **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to  invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action. If targeted by the _nullify_ bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
+   - **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to  invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily canceled, in the absence of other rules, you can invoke it again as a free action. If targeted by the _nullify_ bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
    - **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 - **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new boon each time. Your tier of this feat is independent for each boon.
 
@@ -800,7 +800,7 @@ ___
      ___
      - **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a 
  non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will with a free action, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the _nullify_ bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).
-      - **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be cancelled either temporarily with the _nullify_ bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
+      - **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be canceled either temporarily with the _nullify_ bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
      - **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the boon automatically.
 
 <div class="feat-entry"></div>
