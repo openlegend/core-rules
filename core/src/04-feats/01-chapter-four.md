@@ -689,7 +689,7 @@ ___
 - **Description:** Through extraordinary power or exceptional agility, you can jump much farther than the average creature. A telekinetic superhero and an insectoid race of bipedal cricket-like beings are both examples of this feat in play.
 - **Effect:** You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
 
-### Hallucination
+### Hallucination (I - II)
 
 <div class="feat-entry"></div>
 
