@@ -15,26 +15,26 @@
 # Chapter 3: Banes & Boons
 Banes and boons are a huge part of what makes *Open Legend* so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
 
-Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses a prerequisite attribute. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *blindsight* boon with their Entropy attribute of 5, but won't be able to invoke the *insubstantial* boon for themself or their allies until they gain enough experience to increase their Entropy to 7.
+Banes and boons are not tied to specific spells, attacks, or items. Any character can invoke any bane or boon as long as the character possesses a prerequisite attribute. Attribute prerequisites are meant to limit the power of banes and boons so that they scale as your character gains power. That is why, for example, your first level necromancer can invoke the *Blindsight* boon with their Entropy attribute of 5, but won't be able to invoke the *Insubstantial* boon for themself or their allies until they gain enough experience to increase their Entropy to 7.
 
 ## Telling Your Story with Banes and Boons
 
-Because *Open Legend* focuses on separating the mechanics from the story, when you invoke a bane or boon, you get to decide what it looks like in the narrative. For example, did you *knockdown* a foe with an agile sweep kick, a herculean shove, or a telekinetic thrust? When you grant your allies *resistance*, do they become coated in armor of ice or are they protected by a swarm of droids that surround them and deflect attacks?
+Because *Open Legend* focuses on separating the mechanics from the story, when you invoke a bane or boon, you get to decide what it looks like in the narrative. For example, did you *Knockdown* a foe with an agile sweep kick, a herculean shove, or a telekinetic thrust? When you grant your allies *Resistance*, do they become coated in armor of ice or are they protected by a swarm of droids that surround them and deflect attacks?
 
 ### With Great Power Comes Great Responsibility
 
-When you browse these lists, you will find that your attributes grant access to far more banes and boons than you could typically make use of. Sometimes, attributes can mean different things for different types of characters. For example, imagine using the Alteration attribute to invoke the *shapeshift* boon - a Druid would do so to turn into a massive bear, while a genetically enhanced military operative might assume the identity of a high profile enemy commander. These examples of using *shapeshift* make sense and follow our normal expectations from similar stories, but Alteration also grants access to the *invisible* boon. This can be confusing, because having access to a bane or boon might make you feel that you should use it, but that's not necessarily the case. The best time to use a bane or boon is when it adds to the story and makes the game more fun for everyone.
+When you browse these lists, you will find that your attributes grant access to far more banes and boons than you could typically make use of. Sometimes, attributes can mean different things for different types of characters. For example, imagine using the *Alteration* attribute to invoke the *Shapeshift* boon - a Druid would do so to turn into a massive bear, while a genetically enhanced military operative might assume the identity of a high profile enemy commander. These examples of using *Shapeshift* make sense and follow our normal expectations from similar stories, but *Alteration* also grants access to the *Invisible* boon. This can be confusing, because having access to a bane or boon might make you feel that you should use it, but that's not necessarily the case. The best time to use a bane or boon is when it adds to the story and makes the game more fun for everyone.
 
 In *Open Legend*, we use the rules to make sure the game is fair and that everyone gets equal opportunity to drive the story forward - we don't use the rules to ensure the game is logical. Whether or not a story makes sense or is enjoyable is a matter of personal preference. *Open Legend* expects that these details will be worked out 
 
 ___
-between the players and the GM during a game. Certain attributes give you access to an incredible toolbox of banes and boons, but it is the responsibility of everyone playing the game to respect each other's wish to tell a story that the group can get excited about. So, while your Druid with Alteration might not have a good excuse to become *invisible*, the rules make it possible just in case, and in the process it also becomes possible to play an alien psychic warrior that uses Alteration to bend waves of light and become *invisible*.
+between the players and the GM during a game. Certain attributes give you access to an incredible toolbox of banes and boons, but it is the responsibility of everyone playing the game to respect each other's wish to tell a story that the group can get excited about. So, while your Druid with *Alteration* might not have a good excuse to become *Invisible*, the rules make it possible just in case, and in the process it also becomes possible to play an alien psychic warrior that uses *Alteration* to bend waves of light and become *Invisible*.
 
 ## Invoking Banes and Boons
 
 To invoke a bane, the primary method is to succeed at an appropriate attribute roll using one of your target's defense scores as the Challenge Rating, as indicated in the bane description. An alternate method of invoking a bane is to make a successful damaging attack that exceeds the target's defense by 10 or more. When this happens, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target. While targets may be effected by multiple banes, banes do not *stack*; A bane cannot be inflicted on a target already suffering from it, unless the bane's effect says so (the *fatigued* bane, for example).
 
-To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon's Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke after making your action roll. While targets may be effected by different boons, you may not stack the same boon multiple times; if a second invocation of a boon would affect a character, they choose which boon to keep and which one to negate.
+To invoke a boon, you must succeed at an appropriate attribute roll with a Challenge Rating determined by the boon's Power Level. The CR equals 10 + 2 x Power Level. If a boon can be invoked at multiple Power Levels, you decide which Power Level to invoke after making your action roll. While targets may be effected by different boons, you may not *stack* the same boon multiple times; if a second invocation of a boon would affect a character, they choose which boon to keep and which one to negate.
 
 Additional details about invoking banes and boons, such as attack range and targeting multiple creatures, can be found in Chapter 7: Combat.
 
@@ -42,11 +42,11 @@ Additional details about invoking banes and boons, such as attack range and targ
 
 Each bane description includes the following elements.
 
-**Power Level.** This number indicates the required attribute score needed to inflict the bane. If multiple power levels are listed (such as 2 / 4 / 6), then the bane can be inflicted at multiple tiers of power. The *persistent damage* bane, for example, deals increased damage as you inflict it at higher power levels.
+**Power Level.** This number indicates the required attribute score needed to inflict the bane. If multiple power levels are listed (such as 2 / 4 / 6), then the bane can be inflicted at multiple tiers of power. The *Persistent Damage* bane, for example, deals increased damage as you inflict it at higher power levels.
 
 **Attack.** This list indicates what type of attack roll to make when inflicting the bane. As long as you possess at least one of the listed attributes at a score greater than or equal to the Power Level, then you can inflict the bane. Each entry consists of an attribute that the attacking player should roll and the defense score targeted by the attack. If the attacker's roll equals or exceeds the target's defense score, then the bane is inflicted.
 
-**Duration.** A bane typically remains in effect until the target resists it with a resist roll, hence most banes have 
+**Duration.** A bane typically remains in effect until the target resists it with a *Resist* roll, hence most banes have 
 
 
 \page
@@ -63,13 +63,13 @@ a duration of “resist ends”. If a target fails three resist rolls against a 
 
 Each boon description includes the following elements.
 
-**Power Level.** This number indicates the required attribute score needed to invoke the boon. If multiple power levels are listed (such as 2 / 4 / 6), then the boon can be invoked at multiple tiers of power. The *heal* boon, for example, heals more damage as you invoke it at higher power levels. The power level of a boon also determines the Challenge Rating of the attribute roll to invoke the boon. The CR equals 10 + 2 x Power Level.
+**Power Level.** This number indicates the required attribute score needed to invoke the boon. If multiple power levels are listed (such as 2 / 4 / 6), then the boon can be invoked at multiple tiers of power. The *Heal* boon, for example, heals more damage as you invoke it at higher power levels. The power level of a boon also determines the Challenge Rating of the attribute roll to invoke the boon. The CR equals 10 + 2 x Power Level.
 
 **Attributes.** This is a list of the attribute or attributes that can be used to invoke the boon. As long as you possess at least one of the listed attributes at a score greater than or equal to the Power Level, then you can invoke the boon.
 
 **Invocation Time.** The required time that it takes to invoke the boon. Most boons have an invocation time of 1 major action. For boons that have a longer time, you must spend the entire invocation time concentrating on nothing other than invoking the boon. If you are interrupted, you must start the casting over.
 
-**Duration.** Most boons have a duration of “sustain persists”, which indicates that the invoker must use a sustain action every round in order to keep the boon in effect. If you have a boon in effect and don't sustain it, the boon's effects cease at the end of your turn. Because sustaining a boon is a minor action, which can only be taken once per turn, you can typically sustain only one boon at a time. You do not need to sustain a boon on the round in which it is invoked as long as you are not sustaining any other boons.
+**Duration.** Most boons have a duration of “sustain persists”, which indicates that the invoker must use a sustain action every round in order to keep the boon in effect. If you have a boon in effect and don't sustain it, the boon's effects cease at the end of your turn. Because sustaining a boon is a minor action, which can only be taken once per turn, you can typically sustain only one boon at a time.
 
 **Description.** This entry simply provides a general idea of what the boon could look like in the story.
 
@@ -236,7 +236,7 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
-- **Duration:** Special
+- **Duration:** Resist ends (Fail x 3 = 1 hour)
 - **Invocation Time:** 1 Major Action
 - **Power Level:** 3 / 5 / 9
 - **Attack:**
@@ -256,9 +256,9 @@ ___
 - 
 - 
  **&nbsp;&nbsp;&nbsp;
- Lesser Domination** - The target obeys a one word command until the end of their next turn, at which time the bane immediately ends.
+ Lesser Domination** - The target obeys a one word command until the end of their next turn.
   
- **Greater Domination** - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, struggle to regain control of their own body. They cannot take actions of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a resist roll as a free action to end the effect. The attacker does not gain special access to the target's mind and so can only order the character to perform actions that they think the character is capable of. Lastly, each mental order that the attacker gives to the target is a major action. However, the order can be a series of verbal commands, such “Attack enemy X unless someone comes through the door, in which case flee”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time. Greater Domination has a duration of Resist ends (Fail x 3 = 1 hour).
+ **Greater Domination** - The target's every action and move is under your control. Unlike the charmed bane, characters under the effect of domination lose control of their actions. Their minds, however, struggle to regain control of their own body. They cannot take actions of any kind (except thought) unless it is ordered by you. Every action which the attacker orders the afflicted character to perform which is in extreme violation of their nature gives the target a resist roll as a free action to break free from the effect. The attacker does not gain special access to the target's mind and so can only order the character to perform actions that they think or know that the character is capable of. Lastly, each mental order that the attacker gives to the target is a major action. However, the order can be a series of verbal commands, such “Attack enemy X unless someone comes through the door, in which case flee.”. The dominated creature will continue to obey the last mental command they were given until you give a new command. Only one such command can be active at a given time, so giving a new command cancels all previous ones.
  - **Power Level 3** - You can target creatures of subhuman intelligence (animals, some elementals, certain undead, etc.) with Lesser Domination.
  - **Power Level 5** - You can target creatures of human intelligence or better with Lesser Domination. You can target creatures of subhuman intelligence (animals, some elementals, etc.) with Greater Domination.
  - **Power Level 9** - You can target creatures of human intelligence or greater with Greater Domination. 
@@ -304,7 +304,7 @@ ___
  - **Level 4** - The target loses their attribute bonuses to their defense scores (Agility and Might for Guard, Fortitude and Will for Toughness, Will and Presence for Resolve). They retain any armor, extraordinary, or feat bonuses.
  - **Level 5** - The target loses consciousness and is helpless. Being forced into a state of rest, one level of fatigue will be removed automatically after 24 hours, unless circumstances prevent the target from resting peacefully.
  - **Level 6** - The target dies.
-- **Special:** Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion removes one level of fatigue. If the *restoration* boon is successfully invoked to dispel this bane, only one level of fatigue is removed (in addition to that removed by natural rest). If the *restoration* boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one. A target may only benefit from one invocation of the *restoration* boon to remove fatigue within a 24 hour period.
+- **Special:** Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion removes one level of fatigue. If the restoration boon is invoked, the character invoking it can remove one level of Fatigue (in addition to that removed by natural rest) if their attribute used to invoke restoration is between 1 and 6. A target cannot benefit from another invocation of the restoration boon until 24 hours have passed. If the restoration boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one.
 
 ```
 ```
@@ -420,7 +420,7 @@ ___
  - Might vs. Guard
  - Movement vs. Guard
 - **Description:** Whether via a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak, you knock the target off their feet. Knockdown is a favorite of hulking brutes, telekinetisists, martial artists, and earth elementalists.
-- **Effect:** The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Characters that are prone due to the *knockdown* bane (or any other reason) get +2 to Guard versus Ranged attacks and -2 Guard versus Melee attacks. Standing up from prone requires a move action and costs a character half (round down) of their speed for the round.
+- **Effect:** The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Melee and area attacks against prone characters gain advantage 1. Projectile attacks against prone targets suffer disadvantage 1. Standing up from prone requires a move action and costs a character half (round down) of their speed for the round.
 
 ### Memory Alteration
 
@@ -670,11 +670,11 @@ ___
 ___
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3
+- **Power Level:** 5
 - **Attack:**
  - Entropy vs. Toughness
-- **Description:** Entropic energy overcomes the target, bombarding their system and inducing nausea that makes any kind of action difficult. This bane might stem from a witch's curse, chemical warfare, a powerful poison, or exposure to alien toxins.
-- **Effect:** The target has disadvantage 2 on all action rolls.
+- **Description:** Entropic energy overcomes the target, bombarding their system and inducing nausea that makes self-defense and any kind of action difficult. This bane might stem from a witch's curse, chemical warfare, a powerful poison, or exposure to alien toxins.
+- **Effect:** The target has disadvantage 1 on all action rolls and -1 to all defenses.
 
 
 
@@ -1400,7 +1400,7 @@ ___
  - **Power Level 5** - Target can subsist without the essential nourishment periodically required for sustenance, such as food or water.
  - **Power Level 7** - Target can subsist without the most critical nourishment, that which is typically consumed on a moment-to-moment basis, such as air.
  - **Power Level 9** - Target is unaffected even when cut off from all biological necessities, including warmth, water, air, food, and any other biological need.
-- Special: You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately canceled.
+- Special: You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately cancelled.
 
 
 ### Telekinesis
@@ -1540,12 +1540,13 @@ ___
 ___
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5 / 7 / 8 / 9
+- **Power Level:** 5 / 6 / 7 / 8 / 9
 - **Attributes:** Prescience
 - **Description:** You grant yourself or an ally the ability to perceive that which cannot be detected with mundane senses, piercing impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.
 - **Effect:**
 
  - **Power Level 5** - The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.
- - **Power Level 7** - The target's extraordinary sight pierces through all illusory effects, allowing them to see an illusion for what it is.
+ - **Power Level 6** - The target's extraordinary sight pierces natural and magical darkness.
+ - **Power Level 7** - The target's extraordinary sight pierces through all illusory effects, allowing them to see a *phantasm*  for what it is.
  - **Power Level 8** - The target can see through solid objects and their natural visual range is unhindered by them.
  - **Power Level 9** - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on. In addition, the target's visual range becomes supercharged.

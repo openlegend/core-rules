@@ -327,7 +327,7 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 
 | <div style="width: 400px;"></div> | |
 | :----: | :- |
-| **Learning** | Recall facts about history, arcane magic, the natural world |
+| **Learning** | Recall facts about history, arcane magic, the natural world, or any information you picked up from an external source |
 | **Logic** | Innovate a new crafting method, decipher a code, jury-rig a device, get the gist of a language you don't speak  |
 | **Perception** | Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door |
 | **Will** | Maintain your resolve, resist torture, study long hours, stay awake on watch, stave off insanity |
@@ -752,12 +752,12 @@ Once combat ensues, the Berserker is a near unstoppable killing machine.
 Their two handed axe combined with a Might score of 5 ensures that the
 Berserker will dish out considerable damage. They have exceptionally
 high defenses, so Berserkers are always willing to call out foes with
-the *provoked* bane. In particularly difficult 
+the *provoked* bane. In particularly difficult
 fights, they will activate their <br>
 *battle trance* to fly into a rage, making their <br>
 attacks even more deadly and further improving <br>
 their survivability. Berserkers must use their rage
-sparingly, however, as entering a *battle trance* comes at 
+sparingly, however, as entering a *battle trance* comes at
 the cost of one level of the *fatigued* bane.
 
 ___
@@ -1098,7 +1098,7 @@ upon their foes. When damage alone isn’t
 getting the job done, Gunslingers can aim their shots to hinder enemies
 in all manner of ways: shooting their weapons out of their hands,
 knocking the wind out of them, or blowing off a toe. The *multi-attack specialist*
-feat allows them to shoot <br> 
+feat allows them to shoot <br>
 twice as fast as a lesser gunfighter, enabling them to
 take on large groups of foes single-handedly. Supplementing <br>
 their markshmanship
@@ -1665,7 +1665,7 @@ countermeasures from their Templar Armor, <br>
 such as laser netting, or the
 onboard nano <br>
 missiles to intercept incoming projectiles. <br>
-Their *battlefield reflexes* feat allows the Templar <br>
+Their *battlefield retribution* feat allows the Templar <br>
 to turn these defensive actions against the attacker. <br>
 In addition to these countermeasures,
 Templars also <br>
@@ -1682,7 +1682,7 @@ ___
 - **Resolve:** 14
 - **Speed:** 25’
 ___
-- **Feats:** Defensive Reflexes I, Battlefield Reflexes I, Sentinel I
+- **Feats:** Defensive Reflexes I, Battlefield Retribution I, Sentinel I
 ___
 - **Notable Equipment:** Combat Shield, Pistol, Templar Armor (treat as
 Full Plate), 1 Grenade
