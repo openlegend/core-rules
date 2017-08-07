@@ -132,13 +132,13 @@ ___
 - **Effect:** When you take this feat, you create a permanent link between two attributes: one stronger (the primary attribute) and one weaker (the dependent attribute). You may use your primary attribute in place of the dependent attribute for different purposes depending on which tier of the feat you have:
  - **Tier 1**
    ___
-   - Making non-attack, non-invocation action rolls
+   - Making non-attack, non-defend, non-invocation action rolls
    - Calculating hit points, defenses, and other secondary statistics
    - Meeting feat prerequisites
    - Other situations at the GM's discretion
  - **Tier 2**
    ___
-   - Making attack action rolls
+   - Making attack and defend action rolls
    - Invoking banes and boons
 
  The relationship formed by your two attributes is subject to case-by-case approval and must be approved by the GM first. The link must be logical and consistent with the story you are trying to tell. For example, a brawler who substitutes their Logic for their Might to represent their ability to use leverage in grappling rather than strength would likely not get to use their Logic score for an attempt to bend the bars on a prison cell. 
