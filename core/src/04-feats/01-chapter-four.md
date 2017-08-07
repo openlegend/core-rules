@@ -1093,9 +1093,9 @@ ___
 - 
 - 
  energy, or a devastating ball of flame.
-- **Effect:** When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
+- **Effect:** When you choose this feat, you must decide to focus in area, ranged, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
 
-- **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, projectile, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.
+- **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, ranged, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.
 
 ### Multi-Target Boon Expert
 
