@@ -892,7 +892,7 @@ ___
 
  **Damaging:** A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.
 
- **Obscuring:** Creatures cannot see through more than 10' of the barrier.
+ **Obscuring:** Creatures cannot see anything that falls within the barrier's area of effect.
 
  **Hindering:** Creatures move at half speed when travelling within the barrier.
 
