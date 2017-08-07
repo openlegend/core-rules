@@ -179,7 +179,7 @@
     <ul>
     <li><strong>Tier 1</strong>
       <ul>
-      <li>Making non-attack, non-invocation action rolls</li>
+      <li>Making non-attack, non-defend, non-invocation action rolls</li>
       <li>Calculating hit points, defenses, and other secondary statistics</li>
       <li>Meeting feat prerequisites</li>
       <li>Other situations at the GM's discretion</li>
@@ -187,7 +187,7 @@
     </li>
     <li><strong>Tier 2</strong>
       <ul>
-      <li>Making attack action rolls</li>
+      <li>Making attack and defend action rolls</li>
       <li>Invoking banes and boons</li>
       </ul>
     </ul>
