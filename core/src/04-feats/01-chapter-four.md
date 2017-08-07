@@ -1253,7 +1253,7 @@ ___
 - **Prerequisites:**
  - **Tier 1 - 5:** None
 - **Description:** You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similarly exceptional non-combat talent. It might come from intense training, prolonged study, or even an inherent natural talent.
-- **Effect:** Choose one attribute. Any time you make a non-attack, non-invocation roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
+- **Effect:** Choose one attribute. Any time you make a roll using the chosen attribute that is not for initiative, attacks, invocations, or the defend action, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
 - **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new attribute each time. Track your feat tier separately for each attribute that you choose for this feat.
 
 
