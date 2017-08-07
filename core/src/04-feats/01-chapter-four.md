@@ -422,7 +422,7 @@ ___
  
  You can determine the wealth level of the item you want to create by consulting the sample items in **Chapter 9: Special Equipment** or by developing a custom item using the rules for **Building Your Own Extraordinary Items** in that chapter.
  
- Creating an item with the _consumable_ property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their wealth level, as follows:
+ Creating an item with the _consumable_ or _expendable_ property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their wealth level, as follows:
 
  - **Wealth Level 1 - 3**: Two days per wealth level.
  - **Wealth Level 4 - 5**: Four days per wealth level.
