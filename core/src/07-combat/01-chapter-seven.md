@@ -112,7 +112,7 @@ Each of these actions is explained below.
 A damaging attack is one in which you are strictly aiming to reduce your foe’s hit points.  When you want to attack a target, follow these steps:
 
  1. **Determine attribute vs. defense.** Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
- 1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or non-physical attack.
+ 1. **Choose your target.** The range of your attack depends on whether you are using a melee, ranged, or non-physical attack.
  1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
 
 These steps are explained in more detail below.
@@ -153,9 +153,9 @@ You must choose a target within range of the type of attack you are making:
 
 **Melee physical attacks** target foes that are within reach of you.
 
-**Projectile physical attacks** can target foes within the range of the weapon being used at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
+**Ranged physical attacks** can target foes within the range of the weapon being used at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
 
-**Non-physical attacks** have a range determined by the score of the attribute being used, as detailed in the Non-Physical Attack Range table. Unlike projectile weapons, these attacks cannot extend beyond their normal range.
+**Non-physical attacks** have a range determined by the score of the attribute being used, as detailed in the Non-Physical Attack Range table. Unlike ranged weapons, these attacks cannot extend beyond their normal range.
 
 ___
 ##### Non-Physical Attack Range
