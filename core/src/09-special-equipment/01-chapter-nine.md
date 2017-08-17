@@ -4,7 +4,7 @@ Chapter 5 introduced you to the most common types of equipment your characters w
 
 ## Extraordinary Items
 
-In Chapter 5, we talked about memorable and extraordinary items and how important they are in stories - items of power, such as King Arthur's **Excalibur**, H.P Lovecraft's **Necronomicon**, Thor's hammer **Mjolnir**, and Frank Herbert's **"The Spice"** (Melange) from the novel *Dune*. Many great stories hinge upon such relics, and in this section, we'll show you how to create them for your Open Legend game.
+In Chapter 5, we talked about memorable and extraordinary items and how important they are in stories - items of power, such as King Arthur's **Excalibur**, H.P Lovecraft's **Necronomicon**, Thor's hammer **Mjolnir**, and Frank Herbert's **“The Spice”** (Melange) from the novel *Dune*. Many great stories hinge upon such relics, and in this section, we'll show you how to create them for your Open Legend game.
 
 In Open Legend, such items of power are called *extraordinary items* because they grant powers beyond those of mundane weapons, armor, and other gear.
 
@@ -16,7 +16,7 @@ However, extraordinary items are so powerful that they have the potential to dra
 
 ### Extraordinary Item Descriptions
 
-Extraordinary items are different from weapons, armor, and other gear because they give the wielder access to attributes, banes, and boons that are beyond their current power--or they bolster the attributes, banes, and boons that the wielder can already access. The Extraordinary Items Table outlines a variety of such items spanning many genres. The examples include weapons and gear of powerful magic, alchemy, and technology--and they should provide plenty of inspiration for coming up with your own extraordinary items for your campaign.
+Extraordinary items are different from weapons, armor, and other gear because they give the wielder access to attributes, banes, and boons that are beyond their current power—or they bolster the attributes, banes, and boons that the wielder can already access. The Extraordinary Items Table outlines a variety of such items spanning many genres. The examples include weapons and gear of powerful magic, alchemy, and technology—and they should provide plenty of inspiration for coming up with your own extraordinary items for your campaign.
 
 **WL (Wealth Level)** indicates the wealth level associated with this extraordinary item. Acquiring the item requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 5: Weapons & Equipment.
 
@@ -60,7 +60,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Soul Siphon | 2 |  | Fatigued 5 |  |
 | Spyglass of Farsight | 4 | Perception 6 |  |  |
 | Transmogrification Ray | 5 |  | Polymorph 6 | Potent, Powerful 1 |
-| Universal Access Implant | 6 | Presence 7 |  | Potent 1, Special |
+| Universal Access Implant | 6 | Presence 7 |  | Potent, Special |
 | Worker Bot | 4 | Might 3 |  | Autonomous |
 
 
@@ -325,7 +325,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Wealth Level**: 1
 
-*This small flask of viscous blue liquid can heal minor wounds in the blink of an eye when consumed or applied topically.*
+*This small flask of viscous blue liquid can heal minor wounds in moments when consumed or applied topically.*
 
 **Properties**: Heal 3, Consumable
 
@@ -343,11 +343,11 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Wealth Level**: 3
 
-*Whether outfitted on a mecha unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.*
+*Whether outfitted on a mech unit or launched via a soldier's shoulder mount, this anti-air and anti-tank missile can stop just about anything.*
 
 **Properties**: Deadly 2, Expendable, Weapon (Cannon)
 
-**Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Every shot counts as a single extraordinary item.
+**Special**: This is an Extreme Ranged weapon with the Precise, Delayed Ready, Heavy, Area (15' cube) properties, and the Persistent Damage, Stunned, and Forced Move banes. The *expendable* property applies to the ammo. Each shot uses single extraordinary item.
 
 
 #### Rod of Fear
@@ -381,7 +381,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Wealth Level**: 4
 
-*A master creation of steampunk technology, this masterfully crafted spyglass grants its user the eyes of an eagle.*
+*A product steampunk innovation, this masterfully crafted spyglass grants its user the sight of an eagle.*
 
 **Properties**: Perception 6
 
@@ -410,7 +410,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Wealth Level**: 4
 
-*This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day to day engineering tasks.*
+*This pint-sized mechanical creature is made up of quite the array of moving parts, covered in gears, knobs, and fans. While not always perfect in comprehension, it's a useful assistant for day-to-day engineering tasks.*
 
 **Properties**: Might 3, Autonomous
 
@@ -545,7 +545,7 @@ Calculate the total wealth level accrued in the previous steps. Then, compare th
 
 
 
-## Legendary Items
+## Legendary Items List
 
 Legendary items are similar to extraordinary items in that they may provide access to attributes, banes, and boons. However, they are different in two ways: First, they have additional properties that cannot be found in extraordinary items. Second, they can confer such immense and unique powers that they often cannot be easily quantified with a wealth level.
 
@@ -553,7 +553,7 @@ Legendary items are similar to extraordinary items in that they may provide acce
 
 Legendary items should be more than mere rewards. When introduced into a new campaign, a legendary item should often serve the plot in a specific way. For example, perhaps the PCs come into possession of *Giant's Bane*, a sentient bow containing the souls of four hunters of legend who have tried and failed to defeat the frost giants who have plagued the realm for a century. Equipped with such power and collective wisdom, the party stands a chance at succeeding where the previous hunters have failed.
 
-Furthermore, the GM should be prepared for the potentially campaign-altering power that legendary items possess. If you give the players a *Time Machine*, *Void Cannon*, or *Lamp of Wishes*, don't be surprised when they use them to their full potential--and don't try to railroad them into only using legendary items in specific situations if the item obviously has greater potential.
+Furthermore, the GM should be prepared for the potentially campaign-altering power that legendary items possess. If you give the players a *Time Machine*, *Void Cannon*, or *Lamp of Wishes*, don't be surprised when they use them to their full potential—and don't try to railroad them into only using legendary items in specific situations if the item obviously has greater potential.
 
 
 ### Attributes, Banes, and Boons
@@ -564,7 +564,7 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 **Attribute _bonus/penalty_** - When wielding the item, the owner’s attribute is increased or decreased by the amount indicated.
 
-**Intelligent** - The item is sentient and possesses its own unique intelligence. It possesses its own mental and social attributes, and has the ability to communicate either audibly or telepathically. The item’s description will detail any attribute scores as well as restrictions to its communication (such as the ability to only communicate with the wielder).
+**Intelligent** - The item is sentient and possesses its own psyche and personality, including mental and social attributes. It also has the ability to communicate audibly or telepathically. The item description will detail any attribute scores as well as communication limits (such as the ability to only communicate with the wielder).
 
 **Unfailing** - Any dice rolled when using this item’s abilities treat a result of 1 as a result of the maximum instead. Rolling a 1 also results in a dice explosion just as if the die had rolled maximum. So, for example, rolling a 1 on a d8 would be treated as an 8. A 1 on a d20 would be a 20.
 
@@ -589,16 +589,16 @@ Legendary items may possess any of the same properties as extraordinary items. A
 
 *This unassuming longbow hides a secret power. It contains the souls of four hunters of legend who failed in the past to defeat the frost giants that have oppressed the realm for a hundred years. Longing for both vengeance and a proper rest, the hunters cannot move on to the afterlife until the giant lord is slain.*
 
-Weapon (Longbow), Deadly 2, Slaying (giants), Agility +1, Perception +2, Intelligent
+**Properties:** Weapon (Longbow), Deadly 2, Slaying (giants), Agility +1, Perception +2, Intelligent
 
 **Intelligent**: The bow can communicate telepathically with anyone within 30’, and contains four distinct personalities of heroes past. The GM is free to develop these personalities as much as desired, but they are all eager to amend their past failure to defeat the giants. As long as the party is working towards this goal, the spirits willingly share their wealth of information about the giants’ previous tactics, locations, numbers, and such. Once the giant king is slain, the spirits are released from the bow. From that point forward, it becomes an extraordinary item with the properties Weapon (Longbow) and Deadly 2. In addition, it grants an additional advantage 2 on all attacks against giants.
 
 
 #### Infinity Suit
 
-*It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mecha unit so powerful that the pilot becomes nigh indestructible.*
+*It is said that deep in the far reaches of spaces, abandoned on a remote moon, lies the Infinity Suit, a mech unit so powerful that the pilot becomes nigh indestructible.*
 
-Armor (power armor), Might 8, Bolster 6 (Might), Regeneration 9, Flight 8, Persistent
+**Properties:** Armor (power armor), Might 8, Bolster 6 (Might), Regeneration 9, Flight 8, Persistent
 
 **Indestructible:** While wearing the Infinity Suit, the pilot is immune to lethal damage and any effects that cause immediate death. Furthermore, the pilot gains 30 additional hit points while wearing the Infinity Suit.
 
@@ -607,7 +607,7 @@ Armor (power armor), Might 8, Bolster 6 (Might), Regeneration 9, Flight 8, Persi
 
 *When rubbed, this dusty old lamp spews forth an ancient genie of unimaginable power, ready to do the owner’s bidding. However, the genie’s services are often served with a bit of mischief on the side.*
 
-Presence +3
+**Properties:** Presence +3
 
 **Wishes**: The genie will grant the owner of the lamp 3 wishes. The genie will often twist or interpret wishes in such a way that the owner gets what they asked for in a completely unfavorable way. For example, if a person wishes to be king of the realm, the genie may transport him upon the throne 1000 years into the future, where the kingdom is a desolate wasteland. Once the lamp has been claimed, a new owner cannot be had until all three wishes are used. After all three wishes have expired, the lamp transports to a completely random point in the world.
 
@@ -616,7 +616,7 @@ Presence +3
 
 *This vicious axe features a serrated blade atop an ebony haft carved with screaming faces. When swung in combat, it sends forth an otherworldly warble that strikes terror in the hearts of the wielder’s foes.*
 
-Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
+**Properties:** Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
 
 **Warble**: Any foe that starts its turn within 10’ of the wielder automatically suffers the demoralized bane at power level 8.
 
@@ -625,7 +625,7 @@ Weapon (battle axe), Fear 8, Might +2, Presence +2, Unfailing
 
 *Carved from the oak of the World Tree and set with gems from the elemental planes, this staff is one of the most powerful additions to an evoker’s arsenal.*
 
-Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
+**Properties:** Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
 
 **Retributive Strike**: The wielder may willingly break the staff to unleash its power in a devastating blast of elemental energy. The wielder is immediately killed, and creatures within 100 feet suffer a damaging attack as follows: 1d20 + 4d8, advantage 9 versus Guard.
 
@@ -643,9 +643,7 @@ Energy 7, Energy +2, Potent, Persistent Damage 9, Baneful (Persistent Damage)
 
 -   The travelers miss the mark by 2d4 years.
 
--   The travelers is attacked by a horde of 4th dimensional chrono beasts.
-
-Once the time machine is in an alternate time, it may only travel back to its original time. Doing so still requires a Logic roll, CR 20, but disadvantage penalties do not apply.
+-   The travelers are attacked by a horde of 4th dimensional chrono beasts.
 
 
 \
@@ -683,14 +681,14 @@ Detailed below are a variety of mounts and vehicles to carry your characters acr
 
 **DT (Damage Threshold)** is an indication of how much punishment the mount or vehicle can take. When a vehicle reaches zero hit points, it gains one damage level and its hit points return to maximum. Any remaining damage is carried over to the its new hit point total. Thus, a vehicle can suffer multiple damage levels from a single attack. A mount has disadvantage equal to its damage level on all action rolls. Once the mount's damage level reaches its damage threshold, it is disabled (unable to act) until healed or repaired. Repairing or healing one damage level requires 1 day per wealth level of the vehicle.
 
-**Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If "Immune" is listed for a given defense, then attacks targeting that defense have no effect.
+**Defenses** are the Toughness, Guard, and Resolve defenses of the vehicle or mount. If “Immune” is listed for a given defense, then attacks targeting that defense have no effect.
 
 
 #### Properties
 
 **Faster than Light** - The vehicle is capable of traveling faster than the speed of light. Doing so requires that a pilot expend a focus action on three consecutive rounds.
 
-**Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target an opponent's Guard defense.
+**Guided Weapons** - Attacks made with this vehicle are particularly difficult to evade. When the vehicle makes an attack using an attribute greater than zero, it rolls an additional d20 and keeps the higher die. This benefit only applies to attacks that target the Guard defense.
 
 **Multi-Pilot** - The vehicle can be piloted by a number of people equal to the value indicated. Each pilot can make use of the vehicle to make actions, but no more than 2 move actions can be taken by the vehicle in each round.
 
@@ -707,51 +705,51 @@ Detailed below are a variety of mounts and vehicles to carry your characters acr
 
 | Examples | WL |  Speed | Properties | Attributes | Feats | HP | DT | Defenses |
 | :----- | :-: | :-: | :-----: | :----: | :-----: | :-: | :-: | :-------- |
-| All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Toughness: 14 \
-Guard: 14 \
+| All-Terrain Vehicle | 2 | 80' | | Agility 4 | | 20 | 2 | Guard: 14 \
+Toughness: 14 \
 Resolve: Immune |
-| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) 5 | 50 | 5 | Toughness: 18 \
-Guard: 25 \
+| Battle Cruiser | 9 | 1,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Independent 2, Multi-Pilot 4 | Energy 7 | Multi-Target Attack Specialist (Area) V | 50 | 5 | Guard: 25 \
+Toughness: 18 \
 Resolve: Immune |
-| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 38 | 1 | Toughness: 18 \
-Guard: 20 \
+| Drake | 5 | 50' flying | Independent 1 | Energy 6 | Multi-Target Attack Specialist (Area) III | 38 | 1 | Guard: 20 \
+Toughness: 18 \
 Resolve: 15 |
-| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) 3 | 36 | 4 | Toughness: 15 \
-Guard: 22 \
+| Fighter Ship | 5 | 2,000' flying | Faster than Light, Guided Weapons, Targeted Weapons, Multi-Pilot 2 | Energy 6 | Multi-Target Attack Specialist (Area) III | 36 | 4 | Guard: 22 \
+Toughness: 15 \
 Resolve: Immune |
-| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist (Area) 2 | 20 | 3 | Toughness: 17 \
-Guard: 20 \
+| Hydropod | 4 | 50' swimming | Targeted Weapons, Guided Weapons, Multi-Pilot 2 | Agility 5, Energy 4 | Multi-Target Attack Specialist (Area) II | 20 | 3 | Guard: 20 \
+Toughness: 17 \
 Resolve: Immune |
-| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) 3 | 30 | 5 | Toughness: 15 \
-Guard: 19 \
+| Galleon | 6 | 70' swimming | Targeted Weapons, Multi-Pilot 10 | Agility 6 | Multi-Target Attack Specialist (Area) III | 30 | 5 | Guard: 19 \
+Toughness: 15 \
 Resolve: Immune |
-| Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Toughness: 16 \
-Guard: 19 \
+| Griffin | 4 | 50' flying | Independent 1 | Might 5 | Bane Focus (Immobile) | 34 | 1 | Guard: 19 \
+Toughness: 16 \
 Resolve: 13 |
-| Horse | 3 | 40' | | Might 4 | | 28 | 1 | Toughness: 15 \
-Guard: 15 \
+| Horse | 3 | 40' | | Might 4 | | 28 | 1 | Guard: 15 \
+Toughness: 15 \
 Resolve: 10 |
-| Mecha Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
-Agility 6 | Multi-Target Attack Specialist (Area) 2 | 22 | 3 | Toughness: 20 \
-Guard: 22 \
+| Mech Unit | 4 | 40' | Guided Weapons, Targeted Weapons | Energy 5 \
+Agility 6 | Multi-Target Attack Specialist (Area) II | 22 | 3 | Guard: 22 \
+Toughness: 20 \
 Resolve: Immune |
-| Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Toughness: 16 \
-Guard: 20 \
+| Phoenix | 5 | 50' flying | | Energy 7 | Attack Specialization II (Fire) | 32 | 1 | Guard: 20 \
+Toughness: 16 \
 Resolve: 19 |
 | Pegasus | 4 | 50' flying | | Might 4 \
-Creation 4 | Boon Focus I (Heal) | 28 | 1 | Toughness: 17 \
-Guard: 18 \
+Creation 4 | Boon Focus I (Heal) | 28 | 1 | Guard: 18 \
+Toughness: 17 \
 Resolve: 17 |
 | Velociraptor, Dire Wolf | 3 | 40' | | Agility 5 \
-Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Toughness: 14 \
-Guard: 17 \
+Perception 5 | Bane Focus I (Knockdown) | 24 | 1 | Guard: 17 \
+Toughness: 14 \
 Resolve: 15 |
-| T-Rex | 5 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Toughness: 15 \
-Guard: 20 \
+| T-Rex | 5 | 50' | Independent 1 | Might 6 | Attack Specialization II (Bite) | 38 | 1 | Guard: 20 \
+Toughness: 15 \
 Resolve: 15 |
 | Giant Scorpion | 4 | 35' | Independent 1 | Agility 5 \
-Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 |  Toughness: 15 \
-Guard: 15 \
+Perception 5 | Bane Focus I (Persistent Damage) | 20 | 2 | Guard: 15 \
+Toughness: 15 \
 Resolve: 18 |
 
 

@@ -1005,7 +1005,7 @@ blows with your defensive strikes. \newline
 
 **Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Knockdown bane. If the attack
-hits, the remainder of the target's movement is cancelled until the
+hits, the remainder of the target's movement is canceled until the
 start of its next turn.
 
 ## Battlefield Punisher - Slowed
@@ -1024,7 +1024,7 @@ blows with your defensive strikes. \newline
 **Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Slowed bane. If the attack hits
 and the target has already moved more than 10', the remainder of
-their movement is cancelled until the start of their next turn.
+their movement is canceled until the start of their next turn.
 
 ## Battlefield Punisher - Stunned
 
@@ -1042,7 +1042,7 @@ blows with your defensive strikes. \newline
 **Effect:** If you deal damage with a Defend action via the Battlefield Defender
 feat, you can automatically trigger the Stunned bane. If the target has
 taken any action prior to this attack, any remaining actions are
-cancelled by the Stunned bane until the start of the target's next turn.
+canceled by the Stunned bane until the start of the target's next turn.
 
 ## Battlefield Sentinel (I - V)
 
@@ -1117,7 +1117,7 @@ character. \newline
 -   **Tier 2** - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action, beyond that it can be invoked by expending a move or major action.
 
 -   **Tier 3** - The effect at tier 3 varies based on the duration of the boon:  \
-\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action. If targeted by the *nullify* bane, this effect can only be canceled by a power level 6 or greater invocation of that bane. \
+\ **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily canceled, in the absence of other rules, you can invoke it again as a free action. If targeted by the *nullify* bane, this effect can only be canceled by a power level 6 or greater invocation of that bane. \
 \ **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
 ## Breakfall (I - II)
@@ -1699,7 +1699,7 @@ increase the strength of your invocations. \newline
 **Tier 3** - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the invocation process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the invocation and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active heightened invocation you must be in the same physical or geographic location where the invocation was initiated. When the invocation time is completed, make an action roll as follows:
 
 -   **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will with a free action, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the  *nullify* bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).
--   **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be cancelled either temporarily with the *nullify* bane, bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
+-   **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be canceled either temporarily with the *nullify* bane, bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
 -   **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the boon automatically.
 -   **Dispel Bane** - Make a Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.
 
@@ -2776,7 +2776,7 @@ Each bane description includes the following elements.
 
 **Attack.** This list indicates what type of attack roll to make when inflicting the bane. Each entry consists of an attribute that the attacking player should roll and the defense score targeted by the attack. If the attacker's roll equals or exceeds the target's defense score, then the bane is inflicted.
 
-**Duration.** A bane typically remains in effect until the target resists it with a *Resist* roll, hence most banes have a duration of “resist ends”. If a target fails three resist rolls against a bane, the bane can no longer be resisted. It persists for an extended duration indicated in parentheses.
+**Duration.** A bane typically remains in effect until the target resists it with a resist roll, hence most banes have a duration of “resist ends”. If a target fails three resist rolls against a bane, the bane can no longer be resisted. It persists for an extended duration indicated in parentheses.
 
 **Description.** This entry simply provides a general idea of what the bane could look like in the story.
 
@@ -4351,7 +4351,7 @@ To attack a foe in an attempt to damage them, follow the steps in the Attack Sum
 
 **Melee weapon attacks** target foes that are within reach of you.
 
-**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
+**Ranged weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
 
 **Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
 
@@ -4822,7 +4822,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
     - **Tier 3:** The effect at tier 3 varies based on the duration of the boon:
       <br />
-      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action.
+      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, the boon is always active for your character and persists each round as a free action, rather than a minor action. If the boon is somehow temporarily canceled, in the absence of other rules, you can invoke it again as a free action.
       <br />
       <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 
@@ -4862,7 +4862,7 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. There is no limit to the number of additional attacks you can make using this feat.
 
-- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, projectile, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with multi-targeting by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
+- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** Choose either area, ranged, or melee when you take this feat. For each tier, you offset the disadvantage penalty associated with multi-targeting by 1. So, when you would normally get disadvantage 2, you instead get disadvantage 1 and so on.
 
 - **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 2, would require an attribute score of 4). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
 

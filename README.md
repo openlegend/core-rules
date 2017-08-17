@@ -12,6 +12,24 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 08 / 17
+-   Moved Action & Attributes Examples to GM chapter
+-   Add `Sustenance` boon
+-   Removed `Hallucination - Mass` feat. Effects moved to second tier of `Hallucination` feat.
+-   `Knockdown` effect updated. Now prone targets get +2 to Guard vs ranged and -2 Guard vs melee attacks.
+-   `Ferocious Minions` now works with the attributes you use to invoke *charmed*, *dominated* or *summon creature*.
+-   `Battle Trance` now works with Agility, Energy and Entropy 7.
+-   `Domination` bane duration is now based on type of domination (Lesser or Greater).
+-   `Natural Defense` now gives a bonus to both Guard and Toughness defenses.
+-   `Skill Specialization` now works for rolls that are not for initiative, attacks, invocations, or the defend action.
+-   `Attribute Subsitution I` now doesn't work for defend actions.
+-   `Craft Extraordinary Items`: *expendable* items now require only one full 8-hour day.
+-   `Projectile attacks` are now known as `ranged attacks`.
+-   `Barrier` obscuring property now works with the barrier's area of effect rather than the hardcoded 10'.
+
+#### 2017 / 07 / 01
+-   `Battlefield Reflexes` renamed to `Battlefield Retribution` since the word "reflexes" doesn't imply reciprocal damage
+
 #### 2017 / 05 / 19
 -   Standardized all 9-tier feats (`Attack Specialization`, `Defensive Reflexes`, and `Lethal Strike`) in terms of attribute prerequisite and tier grouping. Each is now Tier 1 - 3: Attribute 3, Tier 4 - 6: Attribute 5, Tier 7 - 9: Attribute 7
 -   `Lightning Reflexes` squash prerequisites, no need to have 5 tier bullet points

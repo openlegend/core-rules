@@ -4,7 +4,7 @@
 No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you'll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you claim space pirate bounties and dip your hands in the coffers of kings.
 
 ## Wealth
-Rather than tracking every gold piece, credit, or fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
+Rather than tracking every gold piece, credit, or fine art object acquired over the course of your adventures, Open Legend uses a simplified wealth system.
 
 Every character has a wealth score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each wealth score.
 
@@ -68,11 +68,11 @@ You can carry up to twenty pieces of gear. No more. Only track the items that wi
 
 Multiple items of a similar nature that can be stowed together, such as twenty arrows in a quiver or a belt of healing potions, only count as a single item. The GM can use their own discretion to apply common sense limits if necessary. For example, even though technically 1000 clips of ammo would count as a single item, the GM is free to rule that a PC can't carry them or that they would count as a *bulky* item (see below).
 
-### Maximum *Heavy* Items Equals Might Score
+### Maximum Heavy Items Equals Might Score
 
 Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score. Once you're carrying your maximum number of *heavy* items, your speed is cut in half. A character with a zero Might score cannot carry any heavy items.
 
-### One (Maybe Two) *Bulky* Items
+### One (Maybe Two) Bulky Items
 
 Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5'.
 
@@ -135,10 +135,10 @@ The Weapons & Implements table provides information about a wide variety of gear
 | Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
 | Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Flamethrower | Two-handed Melee | 3 | Precise, Slow, Area (5' / 10' cone) | Fear, Persistent Damage |
-| Laser Pistol, Revolver, Handgun | Close Ranged | 2 | Precise | Persistent Damage, Slowed |
+| Laser Pistol, Revolver, Handgun | Short Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Expendable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
 | Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
-| Sawed-off Shotgun | Short Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
+| Sawed-off Shotgun | Close Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
 | Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (10' cube) | Persistent Damage, Provoked, Demoralized |
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
@@ -157,11 +157,11 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Expendable** - An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.
 
-**Defensive** - A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you don't gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.
 
-**Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
+**Delayed Ready** - This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
-**Forceful** - This weapon can be used to make attacks with the Might attribute and invoke banes accessible via Might.
+**Forceful** - This weapon can make attacks with the Might attribute and invoke banes accessible via Might.
 
 **Heavy** - The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
@@ -206,7 +206,7 @@ The Armor table summarizes the following properties of each type of armor:
 
 **Wealth Level** is an indication of how expensive the armor is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
-**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the appropriate Fortitude score, a character cannot benefit from the protection afforded by the armor.
+**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the requisite Fortitude score, a character cannot benefit from the protection it affords.
 
 **Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
@@ -235,7 +235,7 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 ## Building Your Own Weapons
 
-Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the four step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
@@ -270,16 +270,16 @@ All weapons (with the exception of unarmed strike), begin with a base wealth lev
 
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 >
-> Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
+> The kusaria-gama is an unique weapon from Japanese history. It is a combination of a chain and a kama (traditional farming implement).
 >
 > **Step 1 (Choose a Category)**
-> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the *one-handed melee* and *close ranged* categories.
+> While the kusari-gama can be used as a short bladed melee weapon, its chain can also be swung long distances. As such, we will give it both the *one-handed melee* and *close ranged* categories.
 >
 > **Step 2 (Choose Properties)**
-> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the *defensive 1* property, and also the *reach* property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the *slow* property.
+> Because the kusari-gama can be wielded either with nimble precision or a mighty swing, lets give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks merits the *defensive 1* property, and also the *reach* property for striking at a distance. Because swinging the weapon is time-consuming, we will also give it the *slow* property.
 >
 > **Step 3 (Choose Banes)**
-> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: *forced move*, *immobile*, *knockdown*, and *provoked*.
+> The kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will give it the *forced move*, *immobile*, *knockdown*, and *provoked* banes.
 >
 > **Step 4 (Calculate Wealth Level)**
 > The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.

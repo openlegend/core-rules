@@ -72,7 +72,7 @@
     Your training allows you to sleep in armor without gaining one level of the <em>fatigued</em> bane. In addition, while wearing armor, you gain the following benefits:
     <ul>
     <li><strong>Tier 1</strong> - The Fortitude prerequisite for wearing armor is reduced by 1. When wearing armor, you get a +1 armor bonus to your Guard defense.</li>
-    <li><strong>Tier 2</strong> - The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 armor bonus to your Guard defense. Any movement penalty is reduced by 5 feet.</li>
+    <li><strong>Tier 2</strong> - The Fortitude prerequisite for wearing armor is reduced by 2. When wearing armor, you get a +2 armor bonus to your Guard defense. Any movement penalty is reduced by 5'.</li>
     </ul>
 - !
   name: Attack Redirection
@@ -179,7 +179,7 @@
     <ul>
     <li><strong>Tier 1</strong>
       <ul>
-      <li>Making non-attack, non-invocation action rolls</li>
+      <li>Making non-attack, non-defend, non-invocation action rolls</li>
       <li>Calculating hit points, defenses, and other secondary statistics</li>
       <li>Meeting feat prerequisites</li>
       <li>Other situations at the GM's discretion</li>
@@ -187,7 +187,7 @@
     </li>
     <li><strong>Tier 2</strong>
       <ul>
-      <li>Making attack action rolls</li>
+      <li>>Making attack and defend action rolls</li>
       <li>Invoking banes and boons</li>
       </ul>
     </ul>
@@ -276,7 +276,7 @@
         - Might: 5
         - Any Extraordinary: 5
       Feat:
-      - Battlefield Reflexes
+      - Battlefield Retribution
   tags:
   - Might
   - Passive
@@ -287,9 +287,9 @@
   description: |
     Not only are your battle reflexes uncanny, but you can devastate your opponents with a signature secondary effect. Examples of this feat in action include a stalwart paladin who knocks foes prone, a ninja who blinds enemies, or a telekinetic psychic who hurls attacks away.
   effect: |
-    Choose a bane you can inflict. Any time you use the defend action with an attribute that could inflict the chosen bane and deal 10 damage via the Battlefield Reflexes feat, you may choose to automatically afflict the attacker with the chosen bane.
+    Choose a bane you can inflict. Any time you use the defend action with an attribute that could inflict the chosen bane and deal 10 damage via the Battlefield Retribution feat, you may choose to automatically afflict the attacker with the chosen bane.
 - !
-  name: Battlefield Reflexes
+  name: Battlefield Retribution
   prerequisites:
     tier1:
       any:
@@ -357,13 +357,13 @@
   description: |
     You are specialized in the use a particular boon that is iconic to your character. Examples of this feat in action include a druid who can shapechange at-will, a combat medic who can tend the wounds of many with expert skill, and a mad scientist who can animate mechanical minions effortlessly.
   effect: |
-    Choose a single boon that you can invoke. You can benefits with that boon according to your tier in this feat.
+    Choose a single boon that you can invoke. You gain benefits with that boon according to your tier in this feat.
     <ul>
     <li><strong>Tier 1</strong> - When you invoke the chosen boon on a single target, you succeed automatically and do not need to make an action roll. You can invoke the boon at any of the power levels you could access via your other means. If the invocation is not a single target, success is not automatic, but you get advantage 2 on the action roll to invoke the boon.</li>
     <li><strong>Tier 2</strong> - You gain advantage 3 on your action roll to invoke the boon if you are not single-targeting. Additionally, you may invoke the boon one time increment faster, as follows: If the invocation time is a major action or move action, it becomes a minor action. If the invocation time is 1 focus action, it becomes 1 major action. If the invocation time is 1 minute, it becomes 1 focus action. If the invocation time is 10 minutes, it becomes 1 minute. If the invocation time is 1 hour, it becomes 10 minutes. If the invocation time is 8 hours, it becomes 1 hour. If the invocation time for a boon is 1 minor action, it can be invoked only once as a minor action. Beyond that it can be invoked by expending a move or major action.</li>
     <li><strong>Tier 3</strong> - The effect at tier 3 varies based on the duration of the boon:
       <br />
-      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action. If targeted by the <em>nullify</em> bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
+      <strong>If the chosen boon has a duration of "sustain persists"</strong>, you gain advantage 4 on your action roll to invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily canceled, in the absence of other rules, you can invoke it again as a free action. If targeted by the <em>nullify</em> bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
       <br />
       <strong>If the boon has a different duration</strong>, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
     </li>
@@ -383,7 +383,7 @@
   cost:
   - 2
   description: |
-    Your are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed.
+    You are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed.
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - As long as you are conscious and able to act, reduce all falling damage by half.</li>
@@ -446,7 +446,7 @@
   effect: |
     Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
   special: |
-    If you have the Movement attribute, you can use the Teleport boon instead of a normal move.
+    If you have access to the Teleport boon, you may use it instead of a normal move.
 - !
   name: Companion (I - III)
   prerequisites:
@@ -504,16 +504,16 @@
     <li><strong>Tier 1</strong> - You can craft items equal to your wealth level.</li>
     <li><strong>Tier 2</strong> - You can craft items equal to your wealth level + 1.</li>
     </ul>
-    <strong>Craft Examples</strong> (This list is not exhaustive, and you can work with your GM to come up with other suitable crafts).
+    <strong>Craft Examples</strong> (This list is not exhaustive, and you can work with your GM to come up with other suitable crafts):
     <ul>
-    <li>Alchemy - acid, chemicals, non-magical tinctures, incense, reagents</li>
-    <li>Arcane - magical ingredients, inks, scrolls, exotic components</li>
-    <li>Blacksmithing - metal, leather, weapons, armor, wheels, horseshoes</li>
-    <li>Chemistry - acid, explosives, narcotics</li>
-    <li>Engineering - machines, wheels, gears, guns, vehicles</li>
-    <li>Geography - maps, cartography, instruments of navigation</li>
-    <li>Herbalism - poultices, natural remedies, stimulants, brewing</li>
-    <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins</li>
+    <li>Alchemy - acid, chemicals, non-magical tinctures, incense, reagents.</li>
+    <li>Arcane - magical ingredients, inks, scrolls, exotic components.</li>
+    <li>Blacksmithing - metal, leather, weapons, armor, wheels, horseshoes.</li>
+    <li>Chemistry - acid, explosives, narcotics.</li>
+    <li>Engineering - machines, wheels, gears, guns, vehicles.</li>
+    <li>Geography - maps, cartography, instruments of navigation.</li>
+    <li>Herbalism - poultices, natural remedies, stimulants, brewing.</li>
+    <li>Medicine - medical tools, tonics, tinctures, pain relievers, anti-toxins.</li>
     </ul>
   special: |
     In addition to taking multiple tiers of this feat, you may take this feat multiple times and select a new craft or profession each time.
@@ -551,8 +551,8 @@
     <ul><li><strong>Tier 1</strong> - Maximum wealth level equals attribute minus 2</li><li><strong>Tier 2</strong> - Maximum wealth level equals attribute minus 1</li><li><strong>Tier 3</strong> - Maximum wealth level equals attribute</li></ul>
     For example, a character with Creation 5 and tier 1 in this feat could create items up to wealth level 3.
     You can determine the wealth level of the item you want to create by consulting the sample items in <strong>Chapter 9: Special Equipment</strong> or by developing a custom item using the rules for <strong>Building Your Own Extraordinary Items</strong> in that chapter.
-    Creating an item with the <em>consumable</em> property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their wealth level, as follows:
-    <ul><li><strong>Wealth Level 1 - 3</strong>: Two days per wealth level</li><li><strong>Wealth Level 4 - 5</strong>: Four days per wealth level</li><li><strong>Wealth Level 6 - 7</strong>: One week per wealth level</li><li><strong>Wealth Level 8 - 9</strong>: One month per wealth level</li></ul>
+    Creating an item with the <em>consumable</em> or <em>expendable</em> property requires one full 8-hour day of uninterrupted work. Other items require a duration of uninterrupted work based on their wealth level, as follows:
+    <ul><li><strong>Wealth Level 1 - 3</strong>: Two days per wealth level.</li><li><strong>Wealth Level 4 - 5</strong>: Four days per wealth level.</li><li><strong>Wealth Level 6 - 7</strong>: One week per wealth level.</li><li><strong>Wealth Level 8 - 9</strong>: One month per wealth level.</li></ul>
     At the end of this time, your item is created. Crafting an item still counts as an expenditure of wealth, so you must have a sufficient wealth score to purchase the item, following all the rules for spending wealth provided in <strong>Chapter 5: Wealth & Equipment</strong>. The GM may waive some or all of the costs associated with an item if you possess special materials for the crafting of your item. For example, if you have recently collected the hide of a slain red dragon and decide to make a suit of Armor of Fire Resistance, the GM may decide that the dragon’s hide is enough to make up most of the costs of the armor, so the armor’s wealth level is reduced by 3 for purposes of determining crafting costs.
 - !
   name: Crushing Blow
@@ -672,7 +672,10 @@
   prerequisites:
     tier1:
       Attribute:
+      - Agility: 7 
       - Might: 7
+      - Energy: 7
+      - Entropy: 7
       Feat:
       - Battle Trance
   tags:
@@ -683,7 +686,7 @@
   description: |
     In the heat of combat, you become a destructive force to be reckoned with. Whether a raging barbarian or a hyper-focused intergalactic knight, your attacks become particularly ferocious when you enter your battle trance.
   effect: |
-    While you are in a battle trance, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
+    When you make an attack roll in a battle trance, all of the dice in your dice pool explode on either maximum or the number 1 below maximum (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
 - !
   name: Diehard
   prerequisites:
@@ -839,19 +842,19 @@
   description: |
     Following a trail is an everyday part of your life, and as such it is no more taxing than breathing or blinking. Whether you are an experienced woodsman, a bounty hunter for the Galactic Senate, or a humanoid cat creature with heightened senses, your expertise at tracking allows you to get it done faster than the average hunter.
   effect: |
-    You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred.
+    You move unhindered and at full speed when tracking your quarry.
 - !
   name: Ferocious Minions (I - III)
   prerequisites:
     tier1:
       Attribute:
-      - Influence: 3
+      - Invoking Attribute: 4
     tier2:
       Attribute:
-      - Influence: 5
+      - Invoking Attribute: 5
     tier3:
       Attribute:
-      - Influence: 7
+      - Invoking Attribute: 7
   tags:
   - Extraordinary
   - Influence
@@ -939,29 +942,14 @@
   effect: |
     You can use your Movement or Agility score instead of your Might score when determining how far you can jump. In addition, you gain advantage 1 per tier on action rolls to jump.
 - !
-  name: Hallucination
+  name: Hallucination (I - II)
   prerequisites:
     tier1:
       Attribute:
       - Influence: 5
-  tags:
-  - Extraordinary
-  - Non-Combat
-  - Influence
-  cost:
-  - 3
-  description: |
-    You are able to use your powers of illusion to not only create phantasmal figments, but to completely dominate the sensory perceptions of individual targets. Such power is wielded by the likes of legendary enchanters, psychics, and shamans.
-  effect: |
-    When you invoke the <em>phantasm</em> bane, you may choose to create a hallucination within a single target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the power level of your bane), and thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature and is not eligible for multi-targeting attacks.
-- !
-  name: Hallucination - Mass
-  prerequisites:
-    tier1:
+    tier2:
       Attribute:
       - Influence: 7
-      Feat:
-      - Hallucination
   tags:
   - Extraordinary
   - Non-Combat
@@ -969,10 +957,13 @@
   cost:
   - 3
   description: |
-    Your hallucinations become legendary in power, granting you the power to affect small groups or even crowds. Those who can master such powers are often capable of neutralizing angry mobs without shedding a drop of blood.
+    You are able to use your powers of illusion to not only create phantasmal figments, but to completely dominate the sensory perceptions of individual targets. Such power is wielded by the likes of legendary enchanters, psychics, and shamans. Those who can master such powers are often capable of neutralizing angry mobs without shedding a drop of blood.
   effect: |
-    When you invoke the hallucination form of the <em>phantasm</em> bane, you may target additional creatures within range as determined by your Influence score. This does not count as a multi-target attack and thus does not incur disadvantage on your action roll.
-    <ul><li><strong>Influence 7</strong> - 5 targets</li><li><strong>Influence 8</strong> - 10 targets</li><li><strong>Influence 9</strong> - 50 targets</li></ul>
+    <ul>
+    <li><strong>Tier 1</strong> - When you invoke the <em>phantasm</em> bane, you may choose to create a hallucination within a single target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the power level of your bane), and thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature and is not eligible for multi-targeting attacks.</li>
+    <li><strong>Tier 2</strong> - When you invoke the hallucination form of the <em>phantasm</em> bane, you may target additional creatures within range as determined by your Influence score. This does not count as a multi-target attack and thus does not incur disadvantage on your action roll.
+    <ul><li><strong>Influence 7</strong> - 5 targets</li><li><strong>Influence 8</strong> - 10 targets</li><li><strong>Influence 9</strong> - 50 targets</li></ul></li>
+    </ul>
 - !
   name: Heightened Invocation (I - III)
   prerequisites:
@@ -1027,7 +1018,7 @@
     <strong>Tier 3</strong> - You gain the ability to permanently bestow or dispel banes and boons. In order to bestow the bane or boon, you must rigorously attend to the invocation process for a number of days equal to the power level of the bane or boon to be invoked or nullified. During that time you can eat, sleep, and act normally with two exceptions: 1) You must work actively on the invocation and with minimal interruption for 8 hours out of each day. 2) You can leave the area and move about freely during the down time each day, but for the 8 hours of active heightened invocation you must be in the same physical or geographic location where the invocation was initiated. When the invocation time is completed, make an action roll as follows:
     <ul>
     <li><strong>Bestow Boon</strong> - Make an action roll to invoke the boon as usual. If successful, you cause a non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will with a free action, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).</li>
-    <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be cancelled either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).</li>
+    <li><strong>Bestow Bane</strong> - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be canceled either temporarily with the <em>nullify</em> bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).</li>
     <li><strong>Dispel Boon</strong> - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the boon automatically.</li>
     <li><strong>Dispel Bane</strong> - Make a Protection roll with a Challenge Rating equal to 10 + twice the power level of the bane you are attempting to dispel. If successful, you break the curse of a permanent bane afflicting the target, though your target gains no special immunity to it.</li>
     </ul>
@@ -1238,15 +1229,15 @@
     </ul>
     You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat).
     <ul>
-    <li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage</li>
-    <li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage</li>
-    <li><strong>Tier 3</strong> - Advantage 3. Up to 10 lethal damage</li>
-    <li><strong>Tier 4</strong> - Advantage 4. Up to 10 lethal damage</li>
-    <li><strong>Tier 5</strong> - Advantage 5. Up to 15 lethal damage</li>
-    <li><strong>Tier 6</strong> - Advantage 6. Up to 20 lethal damage</li>
-    <li><strong>Tier 7</strong> - Advantage 7. Up to 20 lethal damage</li>
-    <li><strong>Tier 8</strong> - Advantage 8. Up to 25 lethal damage</li>
-    <li><strong>Tier 9</strong> - Advantage 9. Up to 25 lethal damage</li>
+    <li><strong>Tier 1</strong> - Advantage 1. Up to 5 lethal damage.</li>
+    <li><strong>Tier 2</strong> - Advantage 2. Up to 5 lethal damage.</li>
+    <li><strong>Tier 3</strong> - Advantage 3. Up to 10 lethal damage.</li>
+    <li><strong>Tier 4</strong> - Advantage 4. Up to 10 lethal damage.</li>
+    <li><strong>Tier 5</strong> - Advantage 5. Up to 15 lethal damage.</li>
+    <li><strong>Tier 6</strong> - Advantage 6. Up to 20 lethal damage.</li>
+    <li><strong>Tier 7</strong> - Advantage 7. Up to 20 lethal damage.</li>
+    <li><strong>Tier 8</strong> - Advantage 8. Up to 25 lethal damage.</li>
+    <li><strong>Tier 9</strong> - Advantage 9. Up to 25 lethal damage.</li>
     </ul>
 - !
   name: Lightning Reflexes (I - V)
@@ -1355,7 +1346,7 @@
   description: |
     You were made for the hunt. Whether you gained this ability through years of practice or possess it through heightened senses, the effect is the same: once you've picked up a trail, you almost never lose track of your quarry.
   effect: |
-    Unless blinded or thwarted through extraordinary means, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only extraordinarily concealed tracks, targets in flight, or similarly exceptional cases can cause you to lose your mark.
+    Unless blinded or thwarted through extraordinary means, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only extraordinary concealment, targets in flight, or similarly exceptional cases can cause you to lose your mark.
 - !
   name: Mimic
   prerequisites:
@@ -1448,9 +1439,9 @@
   description: |
     You are a master of wreaking havoc on many foes at once, whether it be with a whirlwind of your twin blades, a hail of gun fire, a massive wave of psionic energy, or a devastating ball of flame.
   effect: |
-    When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
+    When you choose this feat, you must decide to focus in area, ranged, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
   special: |
-    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, projectile, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.
+    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, ranged, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.
 - !
   name: Multi-Target Boon Expert
   prerequisites:
@@ -1468,7 +1459,7 @@
   effect: |
     When multi-targeting a boon for which you have the Boon Focus feat, you do not need to make an action roll if the disadvantage normally incurred from multi-targeting is completely negated by your Multi-Target Boon Specialist feat. Your invocation automatically succeeds.
 - !
-  name: Multi-Target Boon Specialist (I - V)
+  name: Multi-Target Boon Specialist (I - IX)
   prerequisites:
     tier1:
       Other:
@@ -1483,6 +1474,18 @@
       Other:
       - None
     tier5:
+      Other:
+      - None
+    tier6:
+      Other:
+      - None
+    tier7:
+      Other:
+      - None
+    tier8:
+      Other:
+      - None
+    tier9:
       Other:
       - None
   tags:
@@ -1516,7 +1519,7 @@
   description: |
     Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.
   effect: |
-    When you are not wearing armor, you gain an armor bonus to your Guard defense. Your armor bonus is determined by your tier in this feat:
+    When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat:
     <ul>
     <li><strong>Tier 1</strong> - +1 bonus to Guard and Toughness.</li>
     <li><strong>Tier 2</strong> - +2 bonus to Guard and Toughness.</li>
@@ -1663,7 +1666,7 @@
   description: |
     You have the eyes of an eagle, the endurance of an ox, the guile of a fox, or some similarly exceptional non-combat talent. It might come from intense training, prolonged study, or even an inherent natural talent.
   effect: |
-    Choose one attribute. Any time you make a non-attack, non-invocation roll with the chosen attribute, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
+    Choose one attribute. Any time you make a roll using the chosen attribute that is not for initiative, attacks, invocations, or the defend action, you gain advantage 1 on the roll per tier of this feat you possess for that attribute.
   special: |
     In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new attribute each time. Track your feat tier separately for each attribute that you choose for this feat.
 - !
@@ -1820,9 +1823,9 @@
     tier1:
       any:
         Attribute:
+        - Agility: 3
         - Alteration: 3
         - Influence: 3
-        - Protection: 3
   tags:
   - Non-Combat
   - Protection
@@ -1845,7 +1848,7 @@
   cost:
   - 2
   description: |
-    Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious. Berserkers, assassins, and superheros of exceptional combat skill are all good examples of this feat in play.
+    Whether through brute force, lethal precision, or volatile magic, a deadly attack delivered by you is exceptionally vicious. Berserkers, assassins, and superheroes of exceptional combat skill are all good examples of this feat in play.
   effect: |
     Any time you roll a natural 20 on the d20 for an attack action roll, you get advantage 1 on all subsequent d20 re-rolls granted by dice explosions.
 - !
