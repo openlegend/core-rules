@@ -12,7 +12,7 @@
 
 <div class='footnote'>CHAPTER 2: ACTIONS & ATTRIBUTES</div>
 
-# Chapter 2: Actions and Attributes
+# Chapter 2: Actions & Attributes
 
 The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to interpret the results.
 
@@ -202,7 +202,7 @@ To resolve such contests, each character involved makes an action roll using an 
 
 ### Group Action Rolls
 
-In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures than successes, the task fails. Otherwise, the task 
+In certain scenarios, the success of an action relies on the skills of multiple characters, such as a party of treasure hunters attempting to sneak past a pair of guards or two hackers working together to access restricted data. In these cases, all characters who are contributing to the task describe what they are doing and make an action roll using an appropriate attribute. Count the number of successes and failures based on the Challenge Rating of the task. If there are more failures than successes, the task fails. Otherwise, the task
 
 \page
 
