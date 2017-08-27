@@ -16,7 +16,7 @@
 
 <div style="margin-top:400px; margin-bottom: 0;"></div>
 <div class="wide" style="font-size: 3cm !important;">
-# Open Legend: Core Rules
+# Open Legend: Core Rule Book
 </div>
 
 <div style="margin-top:0px"></div>
@@ -62,7 +62,7 @@ See the Community License at [openlegendrpg.com/community-license](http://www.op
 
 ---
 
-Rules written by Brian Feister & Ish Stabosz.
+Developed by Brian Feister & Ish Stabosz.
 
 ---
 
