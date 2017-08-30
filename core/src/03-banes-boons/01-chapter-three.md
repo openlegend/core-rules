@@ -1318,8 +1318,8 @@ ___
  In order to keep track of hit points, the target should record the total damage they have suffered. When transforming, damage remains with the character even if their maximum hit points change. For example, Vera has a max HP of 20 but is turned into a dragon and her Fortitude increases from 5 to 9, increasing her hit points to 28. During combat, she suffers 10 damage. When she later transforms back into her human form, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
 
  Limitations are applied starting at power level 2 and are gradually removed at higher power levels:
- - **Power Level 2** - The new form cannot be a different size than that of the target. It must possess similar physiology to the target. Examples of different physiology classifications include animals, plants, elementals, and oozes. This list is not exhaustive, and the GM has final say as to what forms are allowed. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form 
-
+ - **Power Level 2** - The new form cannot be a different size than that of the target. It must possess similar physiology to the target. Examples of different physiology classifications include animals, plants, elementals, and oozes. This list is not exhaustive, and the GM has final say as to what forms are allowed. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form (hence, they cannot inflict banes that rely on the creature's extraordinary attributes).
+ - **Power Level 3** - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.
 \page
 
 <div class='footnote'>CHAPTER 3: BANES & BOONS</div>
@@ -1332,8 +1332,8 @@ ___
 - 
 - 
 -  
- -    (hence, they cannot inflict banes that rely on the creature's extraordinary attributes).
- - **Power Level 3** - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.
+ -    
+ - 
  - **Power Level 4** - Shapeshift into a creature between one quarter and quadruple the target's original size.
  - **Power Level 5** - Gain the flying movement mode of the new form, if applicable.
  - **Power Level 6** - Shapeshift into a living creature of a different physiology, such as an elemental, ooze, or a plant.
@@ -1363,7 +1363,7 @@ ___
 | 8 | 8 | 15 | 6, 5, 5 |
 | 9 | 9 | 16 | 7, 6, 6 |
 
- Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions. Your maximum 
+ Your minion cannot act on the turn that it is summoned. On each of your following turns, your minion acts on your initiative count according to your direction, receiving the usual assortment of actions. Your maximum number of summoned creatures is equal to your invoking attribute score. Feats and other abilities cannot increase this limit.
  
 ```
 ```
@@ -1376,7 +1376,7 @@ ___
 - 
 - 
 -  
- number of summoned creatures is equal to your invoking attribute score. Feats and other abilities cannot increase this limit.
+ 
 - **Special:** These minions cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it. Multi-targeting for this boon does not work as it does for other boons. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Any effect that modifies multi-targeting penalties will work as normal in offsetting this disadvantage.
 
 
