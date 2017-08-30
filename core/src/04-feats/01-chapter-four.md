@@ -118,7 +118,7 @@ ___
 - **Description:** Like a samurai who masters the art of the katana or an elementalist who specializes in summoning flame, you are so well trained with a particular form of attack that you can devastate foes with much more skill than the average combatant.
 - **Effect:** When you take this feat, select one weapon or attack type. You gain advantage 1 per tier of this feat for any _damaging_ attack made with your chosen attack type. This bonus does not apply to bane attacks or boon invocations.
  Examples of attack types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, and force - though this list is not exhaustive.
-- **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or attack type each time. Your total advantage to an attack is equal to your tier for that particular weapon or attack type. For example, a character might have Attack Specialization II (Fire) for fire attacks and Attack Specialization IV (Longsword) for long sword attacks.
+- **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or attack type each time. Your total advantage to an attack is equal to your tier for that particular weapon or attack type. For example, a character might have Attack Specialization II (Fire) for fire attacks and Attack Specialization IV (Longsword) for longsword attacks.
 
 ### Attribute Substitution (I - II)
 
