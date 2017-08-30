@@ -383,7 +383,7 @@
   cost:
   - 2
   description: |
-    Your are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed.
+    You are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed.
   effect: |
     <ul>
     <li><strong>Tier 1</strong> - As long as you are conscious and able to act, reduce all falling damage by half.</li>

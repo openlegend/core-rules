@@ -1128,7 +1128,7 @@ character. \newline
 
 -   **Tier 1 - 2:** Agility 4
 
-**Description:** Your agility enables you to fall from deadly heights unharmed. \newline
+**Description:** You are as graceful as a swan. Like the martial artists and swashbucklers of legendary tales, your agility enables you to fall from deadly heights unharmed. \newline
 
 **Effect:**
 
