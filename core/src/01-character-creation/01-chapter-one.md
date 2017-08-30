@@ -1338,9 +1338,9 @@ enemy boons via *nullify*, as well as canceling banes afflicting allies
 via the *hospitaler* feat.
 
 ___
-- **Attributes:** Learning 3 (1d8), <br> Will 3 (1d8), Creation 2 (1d6), <br> Prescience 5 (2d6), <br>Protection 4 (1d10)
+- **Attributes:** Agility 3 (1d8), <br> Will 3 (1d8), Creation 2 (1d6), <br> Prescience 5 (2d6), <br>Protection 4 (1d10)
 - **Hit Points:** 16
-- **Guard:** 10
+- **Guard:** 13
 - **Toughness:** 13
 - **Resolve:** 13
 - **Speed:** 30’
