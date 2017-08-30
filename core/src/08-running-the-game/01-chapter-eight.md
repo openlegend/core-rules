@@ -652,7 +652,7 @@ If your encounter includes boss NPCs, multiply their level by 4 for purposes of 
 
 When designing an encounter, you may want to designate some enemies as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any NPC for three minions of the same level. Minions have the same stats as any other enemy NPC of their level, but their hit points are divided by four.
 
-For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your NPC level budget would only allow you to include six 1st level NPCs, but you decide to replace them all with minions, allowing you to include 18 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 hit points each.
+For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your NPC level budget would only allow you to include three 1st level NPCs, but you decide to replace them all with minions, allowing you to include 9 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 hit points each.
 
 ### Encounter Setting
 
