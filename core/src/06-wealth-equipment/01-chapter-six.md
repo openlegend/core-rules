@@ -4,13 +4,8 @@
 
 \page
 
-<div class='footnote'>CHAPTER 6: WEALTH & EQUIPMENT</div>
-
 <img class="full-page cover-all"
  src="http://localhost:8888/_full_page/Weapons%20and%20Armor%20-%20Forrest%20Imel.jpg" />
-
-
-
 
 \page
 

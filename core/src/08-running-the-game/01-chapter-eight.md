@@ -480,15 +480,16 @@ ___
 
 ___
 - **Evasive Footwork:** When you move from a space  adjacent to an enemy to another space not adjacent to that enemy, the enemy does not get the usual opportunity attack.
+
 ___
 - **Lethal Strike (tier equal to NPC level, max 9):** Your attacks are considered lethal strikes whenever you fulfill *one* of the following conditions:
-  ____
-  - Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
-  - Your target is within melee attack range of an ally.
-
-
-- You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat)
-
+   - Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
+   - Your target is within melee attack range of an ally.
+   
+  
+  You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat)
+____
+- 
    - **Tier 1** - Advantage 1, Up to 5 lethal damage
    - **Tier 2** - Advantage 2, Up to 5 lethal damage
    - **Tier 3** - Advantage 3, Up to 10 lethal damage

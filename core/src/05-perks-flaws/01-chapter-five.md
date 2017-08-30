@@ -4,8 +4,6 @@
 \page
 
 
-<div class='footnote'>CHAPTER 5: PERKS & FLAWS</div>
-
 <img class="full-page cover-all"
  src="http://localhost:8888/_full_page/AlixBranwyn-AstraeaRathe.jpg" />
 

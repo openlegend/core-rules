@@ -92,8 +92,8 @@ When your turn in the initiative order comes, you are allowed one major action, 
 | :- | :- |
 | 1 Major Action* <br /> 1 Move Action <br />  Any number of minor actions | 1 Focus Action |
 
-
-*\*Major action may be traded for a move action*
+___
+*Major action may be traded for a move action*
 
 ### Major Actions
 
@@ -295,17 +295,7 @@ You can invoke boons in order to aid yourself or allies. In order to invoke a bo
 
 1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options. If you later sustain this boon, that use of the sustain action persists the boon for all targets affected by the original invocation.
 1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](#boons-list).
-1. **Determine power level.** Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which
-
-<div class="bane-boon-entry"></div>
-
-___
--
--
--
--
-  ___
-     you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
+1. **Determine power level.** Some boons only possess a single power level, while others can be invoked at multiple power levels. Use the Boon Challenge Rating Table to determine the highest power level at which you can invoke the boon based on your action roll. Regardless of your roll, you cannot invoke a boon at a power level greater than the attribute you are using to invoke the boon. If you fail to meet the Challenge Rating of your boon's lowest power level, your invocation fails.
 
 
 ___
@@ -459,7 +449,10 @@ Move up to twice your speed and make one melee attack at disadvantage 1.
 
 ### Interrupt Actions
 
-In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up.
+In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the 
+
+___
+next time your turn in the initiative order comes up.
 
 You can use your interrupt action to attempt any of the following:
 

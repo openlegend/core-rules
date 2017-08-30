@@ -205,7 +205,7 @@ ___
  - **Tier 1:**
   - Agility 5, Might 5, or any Extraordinary 5
   - Battlefield Retribution
-- **Description:** Not only are your battle reflexes uncanny, but you can devastate your opponents with a signature secondary effect. Examples of this feat in action include a stalwart paladin who knocks foes prone, a ninja who blinds enemies, or a telekinetic psychic who hurls attacks away.
+- **Description:** Not only can you deal out retributive damage, you can devastate your opponents with a signature secondary effect. Examples of this feat in action include a stalwart paladin who knocks foes prone, a ninja who blinds enemies, or a telekinetic psychic who hurls attacks away.
 - **Effect:** Choose a bane you can inflict. Any time you use the defend action with an attribute that could inflict the chosen bane and deal 10 damage via the Battlefield Retribution feat, you may choose to automatically afflict the attacker with the chosen bane.
 
 ### Battlefield Retribution
@@ -216,7 +216,7 @@ ___
 - **Cost:**  2 points
 - **Prerequisites:**
  - **Tier 1:** Agility 4, Might 4, or any Extraordinary 4
-- **Description:** You are a master of the counter attack. This might take the form of deftly redirecting a strike back upon the attacker or simply capitalizing on holes in your foe's guard when they are in the midst of an attack. Your prowess on the battlefield allows you to not only intercept attacks but also decimate foes with your retaliatory strikes.
+- **Description:** You are a master of the counter attack. This might take the form of deftly redirecting a strike back upon the attacker or even energetic feedback from an extraordinary barrier that damages the attacker. Your prowess on the battlefield allows you to not only intercept attacks but also decimate your foes with retributive damage.
 - **Effect:** When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
 
 ### Boon Access

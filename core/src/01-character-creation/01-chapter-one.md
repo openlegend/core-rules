@@ -81,9 +81,70 @@ Thanks to our many thousands of playtesters.
 \page
 
 
-<div class="wide">
+
 
 # Table of Contents
+
+<div class="wide">
+
+<div class="toc" style="margin-top: -90px;">
+- <div><span>Introduction: This is Your Story. Tell it.</span> <span>1</span></div>
+  - <span>What Defines Open Legend?</span> <span>3</span>
+- <div><span>Chapter 1: Character Creation </span> <span>5</span></div>
+  - <span>Gaining XP and Leveling Up</span> <span>21</span>
+  - <span>Starting Beyond First Level</span> <span>21</span>
+- <div><span>Chapter 2: Actions & Attributes</span> <span>23</span></div>
+  - <span>When to Roll the Dice</span> <span>23</span>
+  - <span>Every Roll Matters</span> <span>23</span>
+  - <span>Interpreting Action Rolls</span> <span>24</span>
+  - <span>Determining Challenge Rating</span> <span>25</span>
+  - <span>Advantage & Disadvantage</span> <span>26</span>
+  - <span>Legend Points</span> <span>27</span>
+- <div><span>Chapter 3: Banes & Boons</span> <span>29</span></div>
+  - <span>Telling Your Story with Banes and Boons</span> <span>29</span>
+  - <span>Invoking Banes and Boons</span> <span>29</span>
+  - <span>Reading a Bane Description</span> <span>29</span>
+  - <span>Reading a Boon Description</span> <span>30</span>
+  - <span>Banes List</span> <span>30</span>
+  - <span>Boons List</span> <span>40</span>
+- <div><span>Chapter 4: Feats</span> <span>53</span></div>
+  - <span>Acquiring Feats</span> <span>53</span>
+  - <span>Reading a Feat Description</span> <span>53</span>
+  - <span>Feats List</span> <span>53</span>
+- <div><span>Chapter 5: Perks & Flaws</span> <span>73</span></div>
+  - <span>Fleshing Out Your Character with Perks and Flaws</span> <span>73</span>
+  - <span>Activating Perks</span> <span>73</span>
+  - <span>Activating Flaws</span> <span>73</span>
+  - <span>Perk Descriptions</span> <span>74</span>
+  - <span>Flaw Descriptions</span> <span>77</span>
+- <div><span>Chapter 6: Wealth & Equipment</span> <span>81</span></div>
+  - <span>Wealth</span> <span>81</span>
+  - <span>Carrying Capacity</span> <span>82</span>
+  - <span>Weapons & Implements</span> <span>83</span>
+  - <span>Armor</span> <span>84</span>
+  - <span>Building Your Own Weapons</span> <span>85</span>
+- <div><span>Chapter 7: Combat</span> <span>87</span></div>
+  - <span>When Combat Ensues</span> <span>87</span>
+  - <span>Starting Combat</span> <span>87</span>
+  - <span>Taking Your Turn</span> <span>88</span>
+  - <span>Damage and Healing</span> <span>94</span>
+  - <span>The Core Mechanic in Combat</span> <span>94</span>
+- <div><span>Chapter 8: Running the Game</span> <span>99</span></div>
+  - <span>The Game Master's Calling</span> <span>99</span>
+  - <span>Creating Adventures</span> <span>99</span>
+  - <span>Creating a Campaign</span> <span>100</span>
+  - <span>Rewarding the Players</span> <span>103</span>
+  - <span>Non-Player Characters (NPCs)</span> <span>104</span>
+  - <span>Planning Combat Encounters</span> <span>110</span>
+  - <span>Attributes and Action Rolls in Play</span> <span>112</span>
+- <div><span>Chapter 9: Special Equipment</span> <span>127</span></div>
+  - <span>Extraordinary Items</span> <span>127</span>
+  - <span>Special Equipment</span> <span>129</span>
+  - <span>Legendary Items</span> <span>133</span>
+  - <span>Legendary Items List</span> <span>134</span>
+  - <span>Mounts & Vehicles</span> <span>135</span>
+</div>
+
 
 </div>
 
@@ -156,7 +217,6 @@ Whatever the motivation of their characters, the players share a common goal: to
 
 \page
 
-<div class='footnote'>INTRODUCTION</div>
 
 <img class="full-page cover-all"
  src="http://localhost:8888/_full_page/Dragon%20with%20Child%20-%20Vargasni.jpg" />
@@ -227,9 +287,6 @@ Action rolls and exploding dice are just the start of what makes Open Legend a b
 
 
 \page
-
-<div class='footnote'>CHAPTER 1: CHARACTER CREATION</div>
-
 
 
 <img class="full-page cover-all"
@@ -752,12 +809,12 @@ Once combat ensues, the Berserker is a near unstoppable killing machine.
 Their two handed axe combined with a Might score of 5 ensures that the
 Berserker will dish out considerable damage. They have exceptionally
 high defenses, so Berserkers are always willing to call out foes with
-the *provoked* bane. In particularly difficult
+the *provoked* bane. In particularly difficult 
 fights, they will activate their <br>
 *battle trance* to fly into a rage, making their <br>
 attacks even more deadly and further improving <br>
 their survivability. Berserkers must use their rage
-sparingly, however, as entering a *battle trance* comes at
+sparingly, however, as entering a *battle trance* comes at 
 the cost of one level of the *fatigued* bane.
 
 ___
@@ -1098,7 +1155,7 @@ upon their foes. When damage alone isn’t
 getting the job done, Gunslingers can aim their shots to hinder enemies
 in all manner of ways: shooting their weapons out of their hands,
 knocking the wind out of them, or blowing off a toe. The *multi-attack specialist*
-feat allows them to shoot <br>
+feat allows them to shoot <br> 
 twice as fast as a lesser gunfighter, enabling them to
 take on large groups of foes single-handedly. Supplementing <br>
 their markshmanship
