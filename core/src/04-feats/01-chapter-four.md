@@ -118,7 +118,7 @@ ___
 - **Description:** Like a samurai who masters the art of the katana or an elementalist who specializes in summoning flame, you are so well trained with a particular form of attack that you can devastate foes with much more skill than the average combatant.
 - **Effect:** When you take this feat, select one weapon or attack type. You gain advantage 1 per tier of this feat for any _damaging_ attack made with your chosen attack type. This bonus does not apply to bane attacks or boon invocations.
  Examples of attack types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, and force - though this list is not exhaustive.
-- **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or attack type each time. Your total advantage to an attack is equal to your tier for that particular weapon or attack type. For example, a character might have Attack Specialization II (Fire) for fire attacks and Attack Specialization IV (Longsword) for longsword attacks.
+- **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or attack type each time. Your total advantage to an attack is equal to your tier for that particular weapon or attack type. For example, a character might have Attack Specialization II (Fire) for fire attacks and Attack Specialization IV (Longsword) for long sword attacks.
 
 ### Attribute Substitution (I - II)
 
@@ -271,7 +271,7 @@ ___
 - 
 - 
  - 
-   - **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to  invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily cancelled, in the absence of other rules, you can invoke it again as a free action. If targeted by the _nullify_ bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
+   - **If the chosen boon has a duration of "sustain persists"**, you gain advantage 4 on your action roll to  invoke if you are not single-targeting. Additionally, one instance of the boon can be sustained each round as a free action, rather than a minor action. If the boon is somehow temporarily canceled, in the absence of other rules, you can invoke it again as a free action. If targeted by the _nullify_ bane, this effect can only be canceled by a power level 6 or greater invocation of that bane.
    - **If the boon has a different duration**, you gain advantage 5 on your action roll to invoke if you are not single-targeting.
 - **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new boon each time. Your tier of this feat is independent for each boon.
 
@@ -341,9 +341,17 @@ ___
 - **Cost:**  1 point
 - **Prerequisites:**
  - **Tier 1:** None
-- **Description:** Whether through brute strength or lightning reflexes, you are able to use the momentum of combat to maneuver around the battlefield with ease.
+- **Description:** If you have access to the *teleport* boon, you may use it instead of a normal move.
+
+```
+```
+
+<div class="feat-entry"></div>
+
+___
+- 
 - **Effect:** Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
-- **Special:** If you have the Movement attribute, you can use the Teleport boon instead of a normal move.
+- **Special:** If you have access to the *teleport* boon, you may use it instead of a normal move.
 
 
 
@@ -517,7 +525,7 @@ ___
    - Agility 7, Might 7, Energy 7, or Entropy 7
    - Battle Trance
 - **Description:** In the heat of combat, you become a destructive force to be reckoned with. Whether a raging barbarian or a hyper-focused intergalactic knight, your attacks become particularly ferocious when you enter your battle trance.
-- **Effect:** While you are in a battle trance, in addition to dice exploding on any maximum die roll (as normal), all of the dice in your dice pool explode on the number 1 below maximum as well (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
+- **Effect:** When you make an attack roll in a battle trance, all of the dice in your dice pool explode on either maximum or the number 1 below maximum (though the total is still the number rolled). This means that d4s explode on a 3 or 4, d6s explode on a 5 or 6, d8s explode on a 7 or 8, and so on.
 
 
 \page
@@ -636,7 +644,8 @@ ___
 - **Prerequisites:**
  - **Tier 1:** Agility 5 and Perception 5
 - **Description:** Following a trail is an everyday part of your life, and as such it is no more taxing than breathing or blinking. Whether you are an experienced woodsman, a bounty hunter for the Galactic Senate, or a humanoid cat creature with heightened senses, your expertise at tracking allows you to get it done faster than the average hunter.
-- **Effect:** You can move at your full speed while tracking your quarry rather than the reduced speed typically incurred.
+- **Effect:** You move unhindered and at full speed when tracking your quarry.
+
 
 ### Ferocious Minions (I - III)
 
@@ -796,7 +805,7 @@ ___
      ___
      - **Bestow Boon** - Make an action roll to invoke the boon as usual. If successful, you cause a 
  non-instantaneous & non-permanent boon to permanently affect the target. The target can thereafter invoke the boon at will with a free action, without requiring an action roll to do so. The target does not need to use a sustain action to persist the effect, and the effect can only be nullified either temporarily with the _nullify_ bane, or permanently with the Heightened Invocation feat (see the Dispel Boon entry that follows).
-      - **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be cancelled either temporarily with the _nullify_ bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
+      - **Bestow Bane** - Make an action roll to invoke the bane as usual. If successful, you cause a non-instantaneous & non-permanent bane to permanently affect the target. The bane persists indefinitely and does not allow resist rolls to end its effects. The effect can be canceled either temporarily with the _nullify_ bane, or permanently with the Heightened Invocation feat (see the Dispel Bane entry that follows).
      - **Dispel Boon** - Make an Entropy roll with a Challenge Rating equal to 10 + twice the power level of the boon you are attempting to dispel. If successful, you cause a permanent boon to be forever stripped from the target, causing them to lose the ability to invoke the boon automatically.
 
 <div class="feat-entry"></div>
@@ -1131,7 +1140,7 @@ ___
  - **Tier 2:** Fortitude 1
  - **Tier 3:** Fortitude 2
 - **Description:** Whether through draconic heritage, a cyborg exoskeleton, or just a lifetime of conditioning, your skin is tough as nails, allowing your body to deflect blows that would cripple others.
-- **Effect:** When you are not wearing armor, you gain an armor bonus to your Guard and Toughness defenses. Your armor bonus is determined by your tier in this feat:
+- **Effect:** When you are not wearing armor, you gain a bonus to your Guard and Toughness defenses. Your bonus is determined by your tier in this feat:
  - **Tier 1** - +1 bonus to Guard and Toughness.
  - **Tier 2** - +2 bonus to Guard and Toughness.
  - **Tier 3** - +3 bonus to Guard and Toughness.
