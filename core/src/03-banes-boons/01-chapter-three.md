@@ -1312,14 +1312,13 @@ ___
 - **Power Level:** 2 / 3 / 4 / 5 / 6 / 7 / 8
 - **Attributes:** Alteration
 - **Description:** A target's physical structure is temporarily altered, allowing it to assume the form of potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), amorphous alien lifeforms, dopplegangers, and certain types of druids.
-- **Effect:** You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this boon is limited to the maximum attribute score permitted by your level. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.
-
+- **Effect:** The target transforms into a creature whose highest attribute is less than or equal to your Alteration score. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.
  The GM, not the player, is responsible for deciding the attributes and abilities of creature. It is recommended that this creature follow the guidelines established by the "Simple Build" section for creating NPCs in Chapter 8: Running the Game.
 
  In order to keep track of hit points, the target should record the total damage they have suffered. When transforming, damage remains with the character even if their maximum hit points change. For example, Vera has a max HP of 20 but is turned into a dragon and her Fortitude increases from 5 to 9, increasing her hit points to 28. During combat, she suffers 10 damage. When she later transforms back into her human form, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
 
  Limitations are applied starting at power level 2 and are gradually removed at higher power levels:
- - **Power Level 2** - The new form cannot be a different size than that of the target. It must possess similar physiology to the target. For example, humanoids may transform into other animals. However animals, dragons, plants, elementals, and oozes all have different physiologies, so they cannot be shifted between. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form
+ - **Power Level 2** - The new form cannot be a different size than that of the target. It must possess similar physiology to the target. Examples of different physiology classifications include animals, plants, elementals, and oozes. This list is not exhaustive, and the GM has final say as to what forms are allowed. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form 
 
 \page
 
@@ -1338,7 +1337,7 @@ ___
  - **Power Level 4** - Shapeshift into a creature between one quarter and quadruple the target's original size.
  - **Power Level 5** - Gain the flying movement mode of the new form, if applicable.
  - **Power Level 6** - Shapeshift into a living creature of a different physiology, such as an elemental, ooze, or a plant.
- - **Power Level 7** - Gain all extraordinary attributes possessed by the target. If both forms have an Alteration attribute, the target chooses between the two scores.
+ - **Power Level 7** - Gain all extraordinary attributes possessed by the new form. If both forms have an Alteration attribute, the target chooses between the two scores.
  - **Power Level 8** - Shapeshift into a creature of any size.
 
 - **Special:** Shapeshifting into a specific creature (attempting to impersonate them) requires a Deception action roll which is opposed by Perception attribute of anyone who sees the shapeshifted creature. In addition, at power levels 4 and lower, the target does not gain mastery over any special movement modes granted by the new form. As such, the movement speed is cut in half for movement modes not native to the original form, and the GM may rule that certain actions, such as swimming in combat, suffer disadvantage on relevant action rolls.
