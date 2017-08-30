@@ -438,10 +438,10 @@ ___
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
 ___
-- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane. When making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll
+- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack deals 5 damage or more, you may automatically inflict that bane. When making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll
 
 ___
-- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane. When making a bane attack to inflict the  chosen bane, you gain advantage 3 on the bane attack roll
+- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack deals any damage, you may automatically inflict that bane. When making a bane attack to inflict the  chosen bane, you gain advantage 3 on the bane attack roll
 
 ___
 - **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain these benefits:
