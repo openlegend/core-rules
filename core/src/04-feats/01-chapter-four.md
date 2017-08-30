@@ -980,9 +980,7 @@ ___
 - **Description:** Your expertise with a particular ranged weapon or extraordinary power enables you to strike targets at extreme distances that others would find impossible. This feat is common among snipers, fighter pilots, and war wizards.
 - **Effect:** When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
 
- If you choose a weapon, the weapon's range is increased to the next greater range increment. Close Ranged becomes Short, Short becomes Medium, Medium becomes Long, Long becomes Extreme, and Extreme becomes 500'.
-
- If you chose an attack type, your attack range for that attribute is doubled.
+ With the chosen weapon or attack type, your range with that weapon or attribute is doubled.
 - **Special:** You may take this feat multiple times. If you do, select a new weapon or attack type each time.
 
 
@@ -997,8 +995,6 @@ ___
 - **Description:** Like a kensai warrior devoted to mastery of their katana or an assassin who exclusively wields their favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
 - **Effect:** Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: Agility or Might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any damaging attacks that you make without your martial focus suffer disadvantage 1.
 
-```
-```
 
 ### Master Tracker
 
@@ -1008,7 +1004,15 @@ ___
 - **Cost:**  1 point
 - **Prerequisites:**
  - **Tier 1:** Perception 4
-- **Description:** You were made for the hunt. Whether you gained this ability through years of practice or possess it through heightened senses, the effect is the same: once you've picked up a trail, you almost never lose track of your quarry.
+- **Description:** You were made for the hunt. Whether you gained this ability through years of practice or possess it through heightened senses, the effect is the same: once 
+
+
+<div class="feat-entry"></div>
+
+___
+- 
+- 
+- you've picked up a trail, you almost never lose track of your quarry.
 - **Effect:** Unless blinded or thwarted through extraordinary means, you always know the direction of true north. In addition, once you successfully locate the trail of a target, you automatically succeed at all tracking attempts to continue following that trail for 7 days after the time you first picked it up. Only extraordinary concealment, targets in flight, or similarly exceptional cases can cause you to lose your mark.
 
 ### Mimic
@@ -1033,7 +1037,7 @@ ___
 - **Description:** Whether you are delivering a flurry of blows, wielding two weapons, or calling a chain of lightning bolts from the sky, you have mastered the art of delivering multiple attacks.
 - **Effect:** At the start of your turn, you may declare that you are multi-attacking. You must state how many extra attacks you would like to make. You receive a corresponding number of additional major actions, which can only be used for attacks. _All_ of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
  
- You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons.
+ You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
 
 \page
 
@@ -1051,8 +1055,6 @@ ___
 - 
 - 
 - 
-- Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once. 
- The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
 - **Example** - Vax the Deathbringer has Multi-Attack Specialist (Tier III). He declares that he will be making three attacks this round (two additional attacks). Therefore, all of his attacks suffer disadvantage 3 (3 x 2 = 6, minus 3 for feat tier 3). His first attack is a necromantic burst targeting a 10'-cube. Because of the area of effect, Vax suffers an additional disadvantage 2, making his total disadvantage for that attack 5. For his second attack, Vax casts a spell of blindness on a single foe, making an action roll at disadvantage 3. For his final attack, Vax moves in to melee and uses his touch of death on three foes. Targeting 3 foes incurs an additional disadvantage 3, making his final attack roll suffer a total of disadvantage 6.
 
 
@@ -1081,7 +1083,7 @@ ___
 - **Cost:**  2 points
 - **Prerequisites:**
  - **Tier 1 - 5:** None
-- **Description:** You are a master of wreaking havoc on many foes at once, whether it be with a whirlwind of your twin blades, a hail of gun fire, a massive wave of psionic 
+- **Description:** You are a master of wreaking havoc on many foes at once, whether it be with a whirlwind of your twin blades, a hail of gun fire, a massive wave of psionic  energy, or a devastating ball of flame.
 
 <div class="feat-entry"></div>
 
@@ -1089,7 +1091,7 @@ ___
 - 
 - 
 - 
- energy, or a devastating ball of flame.
+
 - **Effect:** When you choose this feat, you must decide to focus in area, ranged, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
 
 - **Special:** In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new multi-target mode (area, ranged, or melee) each time. Track your feat tier separately for each targeting mode that you select for this feat.
