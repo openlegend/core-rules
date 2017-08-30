@@ -352,9 +352,9 @@ Once you have the basic statistics recorded, choose a few of the following feats
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
-- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 5 or more, you may automatically inflict that bane. When making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll
+- **Bane Focus:** Pick a bane you can invoke. Whenever a damaging attack deals 5 damage or more, you may automatically inflict that bane. When making a bane attack to inflict your chosen bane, you gain advantage 2 on the bane attack roll.
 
-- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack exceeds the target's defense by 1 or more, you may automatically inflict that bane. When making a bane attack to inflict the  chosen bane, you gain advantage 3 on the bane attack roll
+- **Superior Bane Focus (available only to GMs):** Pick a bane you can invoke. Whenever a damaging attack deals any damage, you may automatically inflict that bane. When making a bane attack to inflict the  chosen bane, you gain advantage 3 on the bane attack roll.
 
 - **Bane Resistance (tier 1 - 2, your choice, available only to GMs):** Choose a bane and gain the following benefits:
 
@@ -533,7 +533,7 @@ If your encounter includes boss NPCs, multiply their level by 4 for purposes of 
 
 When designing an encounter, you may want to designate some enemies as minions, or easily dispensable grunts that still pose a threat to the party. You can trade any NPC for three minions of the same level. Minions have the same stats as any other enemy NPC of their level, but their hit points are divided by four.
 
-For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your NPC level budget would only allow you to include six 1st level NPCs, but you decide to replace them all with minions, allowing you to include 18 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 hit points each.
+For example, imagine you are planning an easy encounter with a horde of goblins for a group of six 1st level heroes. Your NPC level budget would only allow you to include three 1st level NPCs, but you decide to replace them all with minions, allowing you to include 9 goblin minions. If your goblins would usually have 12 hit points, your minions have one-quarter of that, or 3 hit points each.
 
 ### Encounter Setting
 

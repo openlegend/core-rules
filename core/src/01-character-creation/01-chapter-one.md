@@ -834,9 +834,9 @@ the *defensive reflexes* feat. Mystics are also adept at shutting down
 enemy boons via *nullify*, as well as canceling banes afflicting allies
 via the *hospitaler* feat.
 
-**Attributes:** Learning 3 (1d8), Will 3 (1d8), Creation 2 (1d6), Prescience 5 (2d6), Protection 4 (1d10) \
+**Attributes:** Agility 3 (1d8), Will 3 (1d8), Creation 2 (1d6), Prescience 5 (2d6), Protection 4 (1d10) \
 **Hit Points:** 16 \
-**Guard:** 10 \
+**Guard:** 13 \
 **Toughness:** 13 \
 **Resolve:** 13 \
 **Speed:** 30’

@@ -156,9 +156,9 @@
     Like a samurai who masters the art of the katana or an elementalist who specializes in summoning flame, you are so well trained with a particular form of attack that you can devastate foes with much more skill than the average combatant.
   effect: |
     When you take this feat, select one weapon or attack type. You gain advantage 1 per tier of this feat for any <em>damaging</em> attack made with your chosen attack type. This bonus does not apply to bane attacks or boon invocations.
-    Examples of attack types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
+    Examples of attack types you can choose to specialize in include fire, cold, lightning, acid, poison, entropy, and force - though this list is not exhaustive.
   special: |
-    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or attack type each time. Your total advantage to an attack is equal to your tier for that particular weapon or attack type. For example, a character might have Attack Specialization II (Fire) for fire attacks and Attack Specialization IV (Long Sword) for long sword attacks.
+    In addition to purchasing multiple tiers of this feat, you may take this feat multiple times and select a new weapon or attack type each time. Your total advantage to an attack is equal to your tier for that particular weapon or attack type. For example, a character might have Attack Specialization II (Fire) for fire attacks and Attack Specialization IV (Longsword) for longsword attacks.
 - !
   name: Attribute Substitution (I - II)
   prerequisites:
@@ -285,7 +285,7 @@
   cost:
   - 3
   description: |
-    Not only are your battle reflexes uncanny, but you can devastate your opponents with a signature secondary effect. Examples of this feat in action include a stalwart paladin who knocks foes prone, a ninja who blinds enemies, or a telekinetic psychic who hurls attacks away.
+    Not only can you deal out retributive damage, you can devastate your opponents with a signature secondary effect. Examples of this feat in action include a stalwart paladin who knocks foes prone, a ninja who blinds enemies, or a telekinetic psychic who hurls attacks away.
   effect: |
     Choose a bane you can inflict. Any time you use the defend action with an attribute that could inflict the chosen bane and deal 10 damage via the Battlefield Retribution feat, you may choose to automatically afflict the attacker with the chosen bane.
 - !
@@ -306,7 +306,7 @@
   cost:
   - 2
   description: |
-    You are a master of the counter attack. This might take the form of deftly redirecting a strike back upon the attacker or simply capitalizing on holes in your foe's guard when they are in the midst of an attack. Your prowess on the battlefield allows you to not only intercept attacks but also decimate foes with your retaliatory strikes.
+    You are a master of the counter attack. This might take the form of deftly redirecting a strike back upon the attacker or even energetic feedback from an extraordinary barrier that damages the attacker. Your prowess on the battlefield allows you to not only intercept attacks but also decimate your foes with retributive damage.
   effect: |
     When you use the defend interrupt action, you also deal damage to the attacker equal to the amount by which your action roll exceeds the attacker's roll.
 - !
@@ -446,7 +446,7 @@
   effect: |
     Every time you bring an enemy to zero hit points with a Might or Agility attack, you can immediately move up to your normal speed as a free action.
   special: |
-    If you have access to the Teleport boon, you may use it instead of a normal move.
+    If you have access to the <em>teleport</em> boon, you may use it instead of a normal move.
 - !
   name: Companion (I - III)
   prerequisites:
@@ -847,14 +847,26 @@
   name: Ferocious Minions (I - III)
   prerequisites:
     tier1:
-      Attribute:
-      - Invoking Attribute: 4
+      any:
+        Attribute:
+        - Creation: 4
+        - Entropy: 4
+        - Influence: 4
+        - Logic: 4
     tier2:
-      Attribute:
-      - Invoking Attribute: 5
+      any:
+        Attribute:
+        - Creation: 5
+        - Entropy: 5
+        - Influence: 5
+        - Logic: 5
     tier3:
-      Attribute:
-      - Invoking Attribute: 7
+      any:
+        Attribute:
+        - Creation: 7
+        - Entropy: 7
+        - Influence: 7
+        - Logic: 7
   tags:
   - Extraordinary
   - Influence
@@ -960,7 +972,7 @@
     You are able to use your powers of illusion to not only create phantasmal figments, but to completely dominate the sensory perceptions of individual targets. Such power is wielded by the likes of legendary enchanters, psychics, and shamans. Those who can master such powers are often capable of neutralizing angry mobs without shedding a drop of blood.
   effect: |
     <ul>
-    <li><strong>Tier 1</strong> - When you invoke the <em>phantasm</em> bane, you may choose to create a hallucination within a single target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the power level of your bane), and thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature and is not eligible for multi-targeting attacks.</li>
+    <li><strong>Tier 1</strong> - When you invoke the <em>phantasm</em> bane, you may choose to create a hallucination within a single target's mind instead of an illusion that is perceptible to everyone. You gain complete control over the target's senses (as granted by the power level of your bane), and thus the hallucination is not restricted by size or area. Your hallucination may only target a single creature and is not eligible for multi-targeting attacks. In addition, unless the target is damaged, they suffer disadvantage on resist rolls against the bane.</li>
     <li><strong>Tier 2</strong> - When you invoke the hallucination form of the <em>phantasm</em> bane, you may target additional creatures within range as determined by your Influence score. This does not count as a multi-target attack and thus does not incur disadvantage on your action roll.
     <ul><li><strong>Influence 7</strong> - 5 targets</li><li><strong>Influence 8</strong> - 10 targets</li><li><strong>Influence 9</strong> - 50 targets</li></ul></li>
     </ul>
@@ -1295,8 +1307,7 @@
     Your expertise with a particular ranged weapon or extraordinary power enables you to strike targets at extreme distances that others would find impossible. This feat is common among snipers, fighter pilots, and war wizards.
   effect: |
     When you take this feat, select one weapon or attack type. Examples of attack types you include fire, cold, lightning, acid, poison, entropy, creation, and force - though this list is not exhaustive.
-    If you choose a weapon, the weapon's range is increased to the next greater range increment. Close Ranged becomes Short, Short becomes Medium, Medium becomes Long, Long becomes Extreme, and Extreme becomes 500'.
-    If you chose an attack type, your attack range for that attribute is doubled.
+    With the chosen weapon or attack type, your range with that weapon or attribute is doubled.
   special: |
     You may take this feat multiple times. If you do, select a new weapon or attack type each time.
 - !
@@ -1330,7 +1341,7 @@
   description: |
     Like a kensai warrior devoted to mastery of their katana or an assassin who exclusively wields their favored pistols, your training is hyper-focused on a single style of combat to the exclusion of all others.
   effect: |
-    Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: Agility or Might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any damaging attacks that you make which do not use your martial focus suffer disadvantage 1.
+    Choose a single weapon (or choose unarmed combat), and specify the attribute that your martial focus relies upon: Agility or Might. When making attacks using your chosen weapon, your attribute is considered 1 greater for the purposes of determining attribute dice. Your attribute is not changed for purposes of feats, banes, boons, or similar items. Because of your intense focus on a single combat style, any attacks that you make without your martial focus suffer disadvantage 1.
 - !
   name: Master Tracker
   prerequisites:

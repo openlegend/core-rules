@@ -1,4 +1,4 @@
-# Chapter 2: Actions and Attributes #
+# Chapter 2: Actions & Attributes #
 
 The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to interpret the results.
 
