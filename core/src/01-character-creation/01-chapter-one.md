@@ -26,7 +26,7 @@ Open Legend is a role playing game, which means your character will need more de
 
 As part of deciding your race, you should also choose your **size**: small, medium, or large. A medium character is roughly the size of an average human. Small creatures range from about 2 - 4 feet in height, while large creatures are about 7 - 10 feet tall. A large creature occupies a 10'x10' square in combat and has a 10' reach (see Chapter 7: Combat for details). The GM may assign advantage or disadvantage during situations in which your size is relevant. For example, small creatures may gain advantage on rolls to hide and receive disadvantage on rolls to kick down a door. Likewise, large creatures might suffer disadvantage on attack rolls when fighting in confined spaces but gain advantage on rolls to intimidate smaller creatures.
 
-At the GM's discretion, you may choose to be even smaller or larger than the sizes described above. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. Small creatures always have at least a 5' reach.
+At the GM's discretion, you may choose to be even smaller or larger than the listed sizes. A large creature's reach is always equal to the length of its base. So, a giant with a 15'x15' base would have a 15' reach. All creatures always have at least a 5' reach.
 
 > ### No Racial Abilities or Adjustments?
 > In Open Legend, races do not provide specific mechanical costs and benefits. Instead, you'll have a chance to further define your character in a later step of character creation by choosing your perks and flaws. Some or all of your decisions at that stage may be influenced by your race, and you are encouraged to explain to the rest of your group how your race informs your choice of perks and flaws. For example, if you are playing a psionic humanoid tiger, you might choose the *scent* perk to highlight your hunter's bloodline and the *observant* perk to simulate your extrasensory perception. Likewise, you could select the *hot tempered* flaw to represent the savage animal that still lurks beneath your intelligent outer shell.
@@ -42,7 +42,7 @@ At the GM's discretion, you may choose to be even smaller or larger than the siz
 >
 > * * * * *
 >
-> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child--that's when he began his road to the priesthood.
+> Sir Thomas Tuckburrough served as an assassin for the local thieves guild until a job went bad and he murdered an innocent child—that's when he began his road to the priesthood.
 >
 > * * * * *
 >
@@ -51,14 +51,14 @@ At the GM's discretion, you may choose to be even smaller or larger than the siz
 
 ## Step 2: Choose Attributes
 
-Attributes are the backbone of every character in Open Legend. They define what your character can and can't do--the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you'll look to your attributes to see how well you succeed or fail.
+Attributes are the backbone of every character in Open Legend. They define what your character can and can't do—the spheres they excel in, as well as their greatest weaknesses. Whenever your character attempts a heroic action in Open Legend, you'll look to your attributes to see how well you succeed or fail.
 
 In Open Legend, attributes are divided into four categories: physical,
 social, mental, and extraordinary.
 
 A character's skill with each attribute is expressed as a score from 0 (completely unpracticed) to 9 (superhuman). A character cannot use an extraordinary attribute if they have a score of zero, though physical, social, and mental attributes may still be used untrained.
 
-The average commoner or craftsmen usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
+The average commoner or craftsman usually has scores ranging from 1 - 3 in several physical, social, and mental attributes. Extraordinary attributes are generally reserved for characters of power and note.
 
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish. All of the attributes are explained in further detail in Chapter 2: Actions and Attributes.
 
@@ -80,10 +80,10 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 <div class="table-no-head thirty-seventy"></div>
 | | |
 | - | - |
-| **Learning** | Recall facts about history, arcane magic, the natural world, etc. |
-| **Logic** | Solve riddles, decipher a code, improvise a tool, understand the enemy's strategy, find a loophole |
+| **Learning** | Recall facts about history, arcane magic, the natural world, or any information you picked up from an external source |
+| **Logic** | Innovate a new crafting method, decipher a code, jury-rig a device, get the gist of a language you don't speak |
 | **Perception** | Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door |
-| **Will** | Maintain your resolve, overcome adversity, resist torture, stay awake on watch, stave off insanity |
+| **Will** | Maintain your resolve, resist torture, study long hours, stay awake on watch, stave off insanity |
 
 
 <div class="table-no-body"></div>
@@ -105,13 +105,13 @@ The Attributes at a Glance tables provide a quick overview of some of the common
 | | |
 | - | - |
 | **Alteration** | Change shape, alter molecular structures, transmute one material into another |
-| **Creation** | Channel higher powers for healing, creation, regeneration, divine might, etc. |
-| **Energy** | Create and control the elements--fire, cold, electricity, etc. |
+| **Creation** | Channel higher powers, manifest something from nothing, regenerate, divinely bolster |
+| **Energy** | Create and control the elements—fire, cold, electricity |
 | **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
 | **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
-| **Movement** | Teleport, fly, hasten, slow |
+| **Movement** | Teleport, fly, hasten, telekinetically push |
 | **Prescience** | See the future, read minds or auras, view from afar, detect magic or evil, communicate with extraplanar entities |
-| **Protection** | Protect from damage, break supernatural influence, dispel magic, bind demons |
+| **Protection** | Protect from damage, break supernatural influence, dispel magic, exile extradimensional beings |
 
 In Open Legend, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
 
@@ -190,7 +190,7 @@ Every attribute score above 0 grants you bonus dice to increase your chance of s
 
 ## Step 3: Record Defenses, Hit Points, and Speed
 
-When an enemy tries to attack you--whether with the shot of a rifle, a deft sword thrust, or a mental assault--it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
+When an enemy tries to attack you—whether with the shot of a rifle, a deft sword thrust, or a mental assault—it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
 <div class="table-no-body table-no-stripes table-even-header"></div>
 | Toughness = 10 + Fortitude + Will |
@@ -230,7 +230,7 @@ While your character's attributes define your skill at accomplishing heroic task
 
 For example, two different characters who specialize in melee combat might both start with a Might score of 5. However, one character is a swashbuckling pirate, so she takes the *Combat Momentum* feat to move deftly from one foe to the next like a whirling dervish. The other, a battle-scarred barbarian, takes *Battle Trance* so that he can fly into a frenzied rage in order to decimate foes.
 
-### Choose your feats
+### Choose Your Feats
 
 Feats are purchased using feat points. At 1st level, you have 6 feat points to spend. Any leftover feat points may be saved for the future.
 
@@ -256,7 +256,7 @@ With your character created, you are all ready to start playing Open Legend. Whe
 
 ### Relax
 
-Open Legend gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels--but whatever you do, shake the dice like your character's life depends on it and have fun. If you're playing a dwarf, maybe pull out your best Scottish accent. If your character's a witch, squint your eyes and speak in riddles. If you're no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party's escapades, and so on.
+Open Legend gives you a chance to step out of everyday life for a few hours and into a fantastical world where you can perform heroic deeds. Pour the Mountain Dew or grab a beer, order some takeout or pop open the pretzels—but whatever you do, shake the dice like your character's life depends on it and have fun. If you're playing a dwarf, maybe pull out your best Scottish accent. If your character's a witch, squint your eyes and speak in riddles. If you're no expert thespian, think of other ways to add to the fun: play adventurous music on your phone, illustrate the party's escapades, and so on.
 
 ### Respect the GM
 
@@ -264,7 +264,7 @@ If you've never GM'd before, you might not realize all the work that goes into i
 
 ### Respect the Other Players
 
-Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing Open Legend, just remember that not everyone else at the table may enjoy the same aspects. Part of the GM's duty is to give everyone a chance to shine, but you can do your part too by not hogging the spotlight and by encouraging the other players to have fun, whatever that means for them.
+Different people play roleplaying games for different reasons. Some enjoy the tactical, chess-like combat encounters. Others just want to tell an epic story. Still others are born actors, reveling in every conversation with every character. Whatever it is that you enjoy about playing Open Legend, just remember that not everyone else at the table may enjoy the same aspects. The GM is there to help every character shine, but you can help by not hogging the spotlight and by encouraging the other players to have fun, whatever that means for them.
 
 
 ## Archetype Builds
@@ -314,17 +314,17 @@ Presence 4 (1d10), Persuasion 3 (1d8), Influence 3 (1d8)
 **Notable Equipment:** Leather Armor, Rapier (treat as Longsword), Small
 Shield, Lore Book, Musical Instrument
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Rapier* (damaging attack): Agility vs. Guard \
-*En Garde!* (inflict *disarm*): Agility vs. Guard, advantage 1 \
-*Inspiring Word* (invoke *bolster*): \
+_**Rapier**_ (damaging attack): Agility vs. Guard \
+_**En Garde!**_ (inflict *disarm*): Agility vs. Guard, advantage 1 \
+_**Inspiring Word**_ (invoke *bolster*): \
 =>  1 target: Auto-success of PL 3 via *boon focus* \
 =>  10’ cube: Presence vs. 16 (PL 3) \
-*Healing Word* (invoke *heal*): Presence vs. 12 - 18 (PL 1 - 4) \
-*Song of Vivification* (invoke 5’ *aura: heal*): Presence vs. 18 (PL 4) \
-*Winning Smile* (inflict *charmed*): Influence vs. Resolve \
-*Magic Trick* (inflict *phantasm*): Influence vs. Resolve
+_**Healing Word**_ (invoke *heal*): Presence vs. 12 - 18 (PL 1 - 4) \
+_**Song of Vivification**_ (invoke 5’ *aura: heal*): Presence vs. 18 (PL 4) \
+_**Winning Smile**_ (inflict *charmed*): Influence vs. Resolve \
+_**Magic Trick**_ (inflict *phantasm*): Influence vs. Resolve
 
 ### Battle Mage
 
@@ -343,10 +343,10 @@ when the circumstances demand it.
 
 In combat, Battle Mages serve as a one man front line brute squad. Their
 heavy armor makes them nearly impervious to lesser foes, and their
-command over the elements of earth and ice allow them to control the
+command over the element of ice allow them to control the
 battlefield with area attacks. Making use of the *multi-target attack
 specialist* feat, they can attack multiple foes without hindrance. When
-enemies do manage to outmaneuver their earthquakes and icy bolts, Battle
+enemies do manage to outmaneuver their wintry gusts and icy bolts, Battle
 Mages are ready to engage in hand to hand combat with an arsenal of
 weaponry for any occasion.
 
@@ -363,15 +363,15 @@ Feat 1) \
 
 **Notable Equipment:** Full Plate Armor, Small Shield, Longsword, Longspear, Mace
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Icy Bolt* (damaging attack): Energy vs. Guard \
-*Earthquake* (damaging attack, 10’ cube): Energy vs. Guard \
-*Frostbite* (inflict *persistent damage,* 10’ cube): Energy vs. Guard \
-*Tremor* (inflict *knockdown,* 10’ cube): Energy vs. Guard \
-*Quicksand* (inflict *immobile*, 10’ cube): Energy vs. Toughness \
-*Longsword* (damaging attack): Might vs. Guard \
-*Longspear* (damaging attack, 10’ reach): Might vs. Guard, advantage 1
+_**Icy Bolt**_ (damaging attack): Energy vs. Guard \
+_**Earthquake**_ (damaging attack, 10’ cube): Energy vs. Guard \
+_**Frostbite**_ (inflict *persistent damage,* 10’ cube): Energy vs. Guard \
+_**Tremor**_ (inflict *knockdown,* 10’ cube): Energy vs. Guard \
+_**Quicksand**_ (inflict *immobile*, 10’ cube): Energy vs. Toughness \
+_**Longsword**_ (damaging attack): Might vs. Guard \
+_**Longspear**_ (damaging attack, 10’ reach): Might vs. Guard, advantage 1
 
 ### Beast Master
 
@@ -408,14 +408,14 @@ Perception 3 (1d8), Will 3 (1d8), Presence 1 (1d4), Influence 4 (1d10) \
 
 **Notable Equipment:** Breastplate, Longbow, Longspear
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Longbow* (damaging attack): Agility vs. Guard \
-*Barbed Arrow* (inflict *persistent damage*): Agility vs. Guard,
+_**Longbow**_ (damaging attack): Agility vs. Guard \
+_**Barbed Arrow**_ (inflict *persistent damage*): Agility vs. Guard,
 advantage 1 \
-*Longspear* (damaging attack, 10’ reach): Agility vs. Guard, advantage 1 \
-*Charm Animal* (inflict *charmed*): Influence vs. Resolve \
-*Command Animal* (inflict *dominated*): Influence vs. Resolve
+_**Longspear**_ (damaging attack, 10’ reach): Agility vs. Guard, advantage 1 \
+_**Charm Animal**_ (inflict *charmed*): Influence vs. Resolve \
+_**Command Animal**_ (inflict *dominated*): Influence vs. Resolve
 
 #### Manticore Companion
 
@@ -429,13 +429,13 @@ Perception 1 (1d4), Will 2 (1d6), Entropy 5 (2d6) \
 
 **Feats:** Flying
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Claws* (damaging attack): Might vs. Guard \
-*Deadly Sting* (damaging attack): Entropy vs. Guard \
-*Toxic Sting* (inflict *persistent damage*): Entropy vs. Toughness \
-*Takedown* (inflict *knockdown*): Might vs. Guard \
-*Disorienting Sting* (inflict *stunned*): Entropy vs. Toughness
+_**Claws**_ (damaging attack): Might vs. Guard \
+_**Deadly Sting**_ (damaging attack): Entropy vs. Guard \
+_**Toxic Sting**_ (inflict *persistent damage*): Entropy vs. Toughness \
+_**Takedown**_ (inflict *knockdown*): Might vs. Guard \
+_**Disorienting Sting**_ (inflict *stunned*): Entropy vs. Toughness
 
 
 ### Berserker
@@ -472,14 +472,14 @@ comes at the cost of one level of the *fatigued* bane.
 
 **Notable Equipment:** Great Axe, Chainmail, Throwing Axe \
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Great Axe* (damaging attack): Might vs. Guard, advantage 1 \
-*Forceful Blow* (inflict *forced move*): Might vs. Guard, advantage 2 \
-*Devastating Blow* (inflict *stunned*): Might vs. Toughness, advantage 2 \
-*Battle Cry* (inflict *fear*): Might vs. Resolve \
-*Foam at the Mouth* (inflict *provoked*): Might vs. Resolve \
-*Warrior’s Chant* (invoke *bolster*): Presence vs. 16 (PL 3)
+_**Great Axe**_ (damaging attack): Might vs. Guard, advantage 1 \
+_**Forceful Blow**_ (inflict *forced move*): Might vs. Guard, advantage 2 \
+_**Devastating Blow**_ (inflict *stunned*): Might vs. Toughness, advantage 2 \
+_**Battle Cry**_ (inflict *fear*): Might vs. Resolve \
+_**Foam at the Mouth**_ (inflict *provoked*): Might vs. Resolve \
+_**Warrior’s Chant**_ (invoke *bolster*): Presence vs. 16 (PL 3)
 
 ### Chronomage
 
@@ -503,11 +503,11 @@ companions to move with seemingly inhuman speed, speeding up the flow of
 time to exhaust the enemy, or reversing time to close wounds, the
 Chronomage is able to use their mastery over the fourth dimension to
 gain an advantage in any situation. They make use of the *boon focus*
-feat to invoke these beneficial baleful effects in a field around them
+feat to invoke these beneficial and baleful effects in a field around them
 or an ally. *Attribute substitution* protects their fragile physical
 forms, which are neither strong nor agile outside of their powers. When
-enemies incur their wrath, the Chronomage hyperlapses time within foe’s
-body, hastening the dissolving of bones and flesh.
+enemies incur their wrath, the Chronomage hyperlapses time within a foe’s body, 
+hastening the entropic decay of bones and flesh.
 
 **Attributes:** Will 2 (1d6), Creation 3 (1d8), Entropy 4 (1d10), Movement 5 (2d6), Prescience 3 (1d8) \
 **Hit Points:** 14 \
@@ -520,35 +520,35 @@ body, hastening the dissolving of bones and flesh.
 
 **Notable Equipment:** Steelsilk Armor
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Hyperlapse Decay* (damaging attack): Entropy vs. Guard \
-*Stasis Field* (inoke *aura: immobile*): Auto-success at PL 1 via *boon focus* \
-*Time Dilation Field* (invoke *aura: slowed*): Auto-success at PL 1 via *boon focus* \
-*Fast Forward* (invoke *haste*): Movement vs. 14 - 18 (PL 2 - 4) \
-*Mass Fast Forward* (invoke *aura: haste*): Auto-success at PL 2 via *boon focus* \
-*Rewind* (invoke *heal*): Creation vs. 12 - 16 (PL 1 - 3) \
-*Time Step* (invoke *teleport*): Movement vs. 16 (PL 3) \
-*Futuresight* (invoke *precognition*): Prescience vs. 12 - 16 (PL 1 - 3)
+_**Hyperlapse Decay**_ (damaging attack): Entropy vs. Guard \
+_**Stasis Field**_ (invoke *5' aura: immobile*): Auto-success at PL 1 via *boon focus* \
+_**Time Dilation Field**_ (invoke *5' aura: slowed*): Auto-success at PL 1 via *boon focus* \
+_**Fast Forward**_ (invoke *haste*): Movement vs. 14 - 18 (PL 2 - 4) \
+_**Mass Fast Forward**_ (invoke *5' aura: haste*): Auto-success at PL 2 via *boon focus* \
+_**Rewind**_ (invoke *heal*): Creation vs. 12 - 16 (PL 1 - 3) \
+_**Time Step**_ (invoke *teleport*): Movement vs. 16 (PL 3) \
+_**Futuresight**_ (invoke *precognition*): Prescience vs. 12 - 16 (PL 1 - 3)
 
 ### Courtier
 
 Courtiers are career politicians who make it their life’s pursuit to be
 an embodiment of majestic social grace. The air of gravitas that they
-carry compels all who encounter them like clay in the courtier’s hands.
+carry makes all who encounter them like clay in a Courtier’s hands.
 As a host, a courtier will often have a social gathering engineered down
 to the most minute detail, such that guests feel exactly as the courtier
 has planned for them to feel. Often they command respect with regal
 attire, whether a showcase of Victorian splendor, Far Eastern grace, or
-the sleek fashion of the world’s modern day rich and powerful.
+the sleek fashion of modern day corporate fat cats.
 
 #### Strategy
 
 Specialized primarily in social situations and of little help when a
 fight breaks out, a courtier invests most of their effort in engineering
 circumstances to avoid bloodshed. When that fails, they aim to ally
-themselves with the side heavily favored to win. This is accomplished
-through the use of Deception, Persuasion, Presence, and Influence. Once
+themselves with the side heavily favored to win through the use of 
+Deception, Persuasion, Presence, and Influence. Once
 the Courtier has earned the trust of a powerful acquaintance via the
 *charmed* bane, it’s common for the target to remain indefinitely loyal
 to the Courtier, thanks to the *potent bane* and *unending charm* feats.
@@ -564,14 +564,14 @@ to the Courtier, thanks to the *potent bane* and *unending charm* feats.
 
 **Notable Equipment:** Majestic Clothing, Dagger, Compact Pistol (Handgun), Steelsilk Armor
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Master Conversationalist* (inflict *charmed*): Influence vs. Resolve \
-*Scathing Insult* (inflict *demoralized*): Influence vs. Resolve \
-*Conflicting Stories* (inflict *memory alteration*): Influence vs. Resolve \
-*Sympathetic Ear* (inflict *truthfulness*): Influence vs. Resolve \
-*Personal Favor* (inflict *dominated*): Influence vs. Resolve \
-*Hidden Pistol* (damaging attack): Agility vs. Guard
+_**Master Conversationalist**_ (inflict *charmed*): Influence vs. Resolve \
+_**Scathing Insult**_ (inflict *demoralized*): Influence vs. Resolve \
+_**Conflicting Stories**_ (inflict *memory alteration*): Influence vs. Resolve \
+_**Sympathetic Ear**_ (inflict *truthfulness*): Influence vs. Resolve \
+_**Personal Favor**_ (inflict *dominated*): Influence vs. Resolve \
+_**Hidden Pistol**_ (damaging attack): Agility vs. Guard
 
 ### Druid
 
@@ -592,7 +592,7 @@ advantage, whether summoning up an imposing wall of briars with the
 *regeneration* boon. Druids also make excellent combatants and scouts.
 As a scout, they are able to sneak unnoticed into an enemy camp as a
 naturally occurring animal species. As a combatant, they can shift into
-a massive and powerful creature, such as a bear to quickly
+a massive and powerful creature, such as a bear, to quickly
 deal with enemies.
 
 **Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Might 2 (1d6), Perception 2 (1d6), Will 2 (1d6), Alteration 5 (2d6), Creation 3 (1d8) \
@@ -606,13 +606,13 @@ deal with enemies.
 
 **Notable Equipment:** Splint Mail (treat as Full Plate), Staff, Shortspear
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Shapechange* (invoke *shapeshift*): Auto-success at PL 5 via *boon focus* \
-*Ensnaring Vines* (inflict *immobile*): Creation vs. Toughness \
-*Wall of Briars* (invoke *barrier*): Creation vs. 16 (PL 3) \
-*Animate Plants* (invoke *summon creature*): Alteration vs. 18 - 20 (PL 4 - 5) \
-*Regrowth* (invoke *regeneration*): Alteration vs. 12 - 20 (PL 1 - 5)
+_**Shapechange**_ (invoke *shapeshift*): Auto-success at PL 5 via *boon focus* \
+_**Ensnaring Vines**_ (inflict *immobile*): Creation vs. Toughness \
+_**Wall of Briars**_ (invoke *barrier*): Creation vs. 16 (PL 3) \
+_**Animate Plants**_ (invoke *summon creature*): Alteration vs. 18 - 20 (PL 4 - 5) \
+_**Regrowth**_ (invoke *regeneration*): Alteration vs. 12 - 20 (PL 1 - 5)
 
 #### Bear Form
 
@@ -670,20 +670,20 @@ hand cannon.
 **Resolve:** 10 \
 **Speed:** 30’
 
-**Feats:** Boon Focus I (Summon Creature), Craft Extraordinary Item
+**Feats:** Boon Focus I (Summon Creature), Craft Extraordinary Item I
 
 **Notable Equipment:** Hand cannon (same as revolver), Kevlar Vest, 2
 Grenades, Engineering Tools
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Hand Cannon* (damaging attack): Agility vs. Guard \
-*Grenade* (damaging attack, 10’ cube): Agility vs. Guard \
-*Leg Shot* (inflict *slowed*): Agility vs. Guard, advantage 1 \
-*Reinforcements!* (invoke *summon creature*): Auto-success at PL 5 via *boon focus* \
-*Gadgets & Gizmos* (invoke *bolster*): Creation vs. 16 (PL 3) \
-*Jerry Rig* (invoke *genesis*): Creation vs. 12 - 20 (PL 1 - 5) \
-*Cauterize Wounds* (invoke *heal*): Creation vs. 12 - 20 (PL 1 - 5)
+_**Hand Cannon**_ (damaging attack): Agility vs. Guard \
+_**Grenade**_ (damaging attack, 10’ cube): Agility vs. Guard \
+_**Leg Shot**_ (inflict *slowed*): Agility vs. Guard, advantage 1 \
+_**Reinforcements!**_ (invoke *summon creature*): Auto-success at PL 5 via *boon focus* \
+_**Gadgets & Gizmos**_ (invoke *bolster*): Creation vs. 16 (PL 3) \
+_**Jerry Rig**_ (invoke *genesis*): Creation vs. 12 - 20 (PL 1 - 5) \
+_**Cauterize Wounds**_ (invoke *heal*): Creation vs. 12 - 20 (PL 1 - 5)
 
 ### Gunslinger
 
@@ -710,7 +710,7 @@ getting the job done, Gunslingers can aim their shots to hinder enemies
 in all manner of ways: shooting their weapons out of their hands,
 knocking the wind out of them, or blowing off a toe. The *multi-attack specialist*
 feat allows them to shoot twice as fast as a lesser gunfighter, enabling them to
-take on large groups of foes single-handedly. Supplementing their markshmanship
+take on large groups of foes single-handedly. Supplementing their marksmanship
 with dark powers, they invoke banes and boons with Entropy. Favorites include
 invoking *life drain* to heal a little bit with every shot and afflicting enemies
 with the *sickened* bane to render their attacks nearly useless. When foes close
@@ -726,20 +726,20 @@ scare enemies away with *fear*.
 
 **Feats:** Multi-Attack Specialist II
 
-**Notable Equipment:** Heavy Trench Coat (Kevlar Vest), 2 Revolvers, Rifle
+**Notable Equipment:** Heavy Trench Coat (treat as Kevlar Vest), 2 Revolvers, Rifle
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Two-Gun Assault* (damaging attacks): Two attacks. Agility vs. Guard \
-*Fan the Hammer* (damaging attacks): Three attacks. Agility vs. Guard, disadvantage 3 \
-*Bounty's Curse* (inflict *stunned*): Entropy vs. Toughness \
-*Toe Shot* (inflict *slowed*): Agility vs. Guard. advantage 1 \
-*Hand Shot* (inflict *disarmed*): Agility vs. Guard, advantage 1 \
-*Rifle* (damaging attack): Agility vs. Guard \
-*Darkblast Shot* (inflict *sickened*): Entropy vs. Toughness \
-*Baleful Shadow* (invoke 5’ *aura: persistent damage*): Entropy vs. 18 (PL 4) \
-*Soul Syphon* (invoke *life drain*): Entropy vs. 20 (PL 5) \
-*Unnerving Gaze* (inflict *fear*): Entropy vs. Resolve
+_**Two-Gun Assault**_ (damaging attacks): Two attacks. Agility vs. Guard \
+_**Fan the Hammer**_ (damaging attacks): Three attacks. Agility vs. Guard, disadvantage 3 \
+_**Bounty's Curse**_ (inflict *stunned*): Entropy vs. Toughness \
+_**Toe Shot**_ (inflict *slowed*): Agility vs. Guard. advantage 1 \
+_**Hand Shot**_ (inflict *disarmed*): Agility vs. Guard, advantage 1 \
+_**Rifle**_ (damaging attack): Agility vs. Guard \
+_**Darkblast Shot**_ (inflict *sickened*): Entropy vs. Toughness \
+_**Baleful Shadow**_ (invoke 5’ *aura: persistent damage*): Entropy vs. 18 (PL 4) \
+_**Soul Syphon**_ (invoke *life drain*): Entropy vs. 20 (PL 5) \
+_**Unnerving Gaze**_ (inflict *fear*): Entropy vs. Resolve
 
 
 ### Hacker
@@ -760,10 +760,10 @@ piece together secrets and data which others assume is secured beyond
 access. Out of combat, the Hacker uses banes and boons such as *seeing*
 via their drone and *spying* or *precognition* to track information or
 persons of interest through databases, servers, surveillance cameras,
-credit card records, and and other sources of poorly encrypted data. If
-deception is called for, Hackers can tap into Big Brother’s ever-present
-communication systems to project holograms or audio transmissions using
-the *phantasm* bane.
+credit card records, and and other sources of poorly secured or encrypted data. 
+If deception is called for, Hackers tap into the almost omni-present streams 
+of data of systems distributed throughout the world to fabricate video feeds, 
+holograms, or audio transmissions using the *phantasm* bane.
 
 When combat breaks out, Hackers tend to avoid the front lines, relying
 on their drones to do the fighting for them. From a secure vantage
@@ -779,18 +779,18 @@ boon through illicit data and hacking nearby systems to gain an edge.
 **Resolve:** 13 \
 **Speed:** 30’
 
-**Feats:** Companion I (Drone), Boon Focus (Seeing), Untrackable
+**Feats:** Companion I (Drone), Bane Focus (Spying), Untrackable
 
 **Notable Equipment:** Tablet, Laptop, VR Goggles
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Dark Web Insight* (invoke *bolster*): Prescience vs. 16 (PL 3) \
-*Algorithmic Prediction* (invoke *precognition*): Prescience vs. 12 - 20 (PL 1 - 5) \
-*Multivariate Sensor Sweep* (invoke *truesight*): Prescience vs. 20 (PL 5) \
-*IoT Zombie Network* (inflict *spying*): Prescience vs. Resolve, advantage 2 \
-*Hologram Projection* (inflict *phantasm*): Influence vs. Resolve \
-*Neural Rewiring* (inflict *charmed*): Influence vs. Resolve
+_**Dark Web Insight**_ (invoke *bolster*): Prescience vs. 16 (PL 3) \
+_**Algorithmic Prediction**_ (invoke *precognition*): Prescience vs. 12 - 20 (PL 1 - 5) \
+_**Multivariate Sensor Sweep**_ (invoke *truesight*): Prescience vs. 20 (PL 5) \
+_**IoT Zombie Network**_ (inflict *spying*): Prescience vs. Resolve, advantage 2 \
+_**Hologram Projection**_ (inflict *phantasm*): Influence vs. Resolve \
+_**Neural Rewiring**_ (inflict *charmed*): Influence vs. Resolve
 
 #### Drone Companion
 
@@ -803,10 +803,10 @@ boon through illicit data and hacking nearby systems to gain an edge.
 
 **Feats:** none
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Laser* (damaging attack): Energy vs. Guard \
-*Stun Ray* (inflict *immobile*): Energy vs. Toughness
+_**Laser**_ (damaging attack): Energy vs. Guard \
+_**Stun Ray**_ (inflict *immobile*): Energy vs. Toughness
 
 ### Mystic
 
@@ -834,9 +834,9 @@ the *defensive reflexes* feat. Mystics are also adept at shutting down
 enemy boons via *nullify*, as well as canceling banes afflicting allies
 via the *hospitaler* feat.
 
-**Attributes:** Learning 3 (1d8), Will 3 (1d8), Creation 2 (1d6), Prescience 5 (2d6), Protection 4 (1d10) \
+**Attributes:** Agility 3 (1d8), Will 3 (1d8), Creation 2 (1d6), Prescience 5 (2d6), Protection 4 (1d10) \
 **Hit Points:** 16 \
-**Guard:** 10 \
+**Guard:** 13 \
 **Toughness:** 13 \
 **Resolve:** 13 \
 **Speed:** 30’
@@ -845,26 +845,26 @@ via the *hospitaler* feat.
 
 **Notable Equipment:** Staff, Robe
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*See the Path* (defend action): Protection vs. target’s attack roll, advantage 1 \
-*Break Free* (special action): Use *hospitaler* feat to grant a resist \roll to an ally \
-*Shared Insight* (invoke *bolster*): Prescience vs. 16 (PL 3) \
-*View from Afar* (inflict *spying*): Prescience vs. Resolve \
-*Mind Link* (invoke *telepathy*): Prescience vs. 16 - 20 (PL 3 - 5) \
-*Power Drain* (inflict *nullify*): Protection vs. Resolve \
-*Read Thoughts* (inflict *mind dredge*): Prescience vs. Resolve \
-*See the Past* (invoke *reading*): Prescience vs. 20 (PL 5) \
-*Pierce the Veil* (invoke *precognition*): Prescience vs. 12 - 20 (PL 1 - 5) \
-*Rejuvenate* (invoke *heal*): Creation vs. 12 - 14 (PL 1 - 2)
+_**See the Path**_ (defend action): Protection vs. target’s attack roll, advantage 1 \
+_**Break Free**_ (special action): Use *hospitaler* feat to grant a resist \roll to an ally \
+_**Shared Insight**_ (invoke *bolster*): Prescience vs. 16 (PL 3) \
+_**View from Afar**_ (inflict *spying*): Prescience vs. Resolve \
+_**Mind Link**_ (invoke *telepathy*): Prescience vs. 16 - 20 (PL 3 - 5) \
+_**Power Drain**_ (inflict *nullify*): Protection vs. Resolve \
+_**Read Thoughts**_ (inflict *mind dredge*): Prescience vs. Resolve \
+_**See the Past**_ (invoke *reading*): Prescience vs. 20 (PL 5) \
+_**Pierce the Veil**_ (invoke *precognition*): Prescience vs. 12 - 20 (PL 1 - 5) \
+_**Rejuvenate**_ (invoke *heal*): Creation vs. 12 - 14 (PL 1 - 2)
 
 ### Ningyozukai
 
 The Ningyozukai, or Puppeteers, are sorcerers capable of channeling
-their spirit to possess enchanted suits of Yoroi armor, transforming the
+their spirits to possess enchanted suits of Yoroi armor, transforming the
 armor into a powerful animated weapon. Also gifted with magics of
-healing and protection, the Ningyozukai only call on their Yoroi armor
-when circumstances call for force of arms or brute strength.
+healing and protection, the Ningyozukai only call on the Yoroi armor
+when a situation call for force of arms or brute strength.
 
 #### Strategy
 
@@ -887,11 +887,11 @@ defenses and better attack prowess.
 Although the Ningyozukai make use of the *alternate form* feat, they do
 not actually physically transform when switching between sorcerer or
 Yoroi forms. Rather, the Yoroi armor, possessed by the sorcerer’s
-spirit, surrounds their frail master to encase and protect them.
+spirit, surrounds its frail master to encase and protect.
 Activating the *alternate form* feat represents the sorcerer focusing
 all of their will on possessing the Yoroi to make full use of its
-offensive powers. Thus, the Ningyozukai only has the capability of using
-actions and taking turns with one of its forms at any time.
+offensive powers. Thus, the Ningyozukai can only utilize actions and
+attributes from one of its forms at any time.
 
 #### Sorcerer Form
 
@@ -906,13 +906,13 @@ actions and taking turns with one of its forms at any time.
 
 **Notable Equipment:** None
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Spirit Guide* (invoke *bolster*): Creation vs. 16 (PL 3) \
-*Spirit Guardian* (invoke *summon creature*): Creation vs. 18 (PL 4) \
-*Circle of Wonder* (invoke 5’ *aura: immobile*): Creation vs. 18 (PL 4) \
-*Ward of Protection* (invoke *resistance*): Protection vs. 16 (PL 3) \
-*Healing Word* (invoke *heal*): Creation vs. 12 - 18 (PL 1 - 4)
+_**Spirit Guide**_ (invoke *bolster*): Creation vs. 16 (PL 3) \
+_**Spirit Guardian**_ (invoke *summon creature*): Creation vs. 18 (PL 4) \
+_**Circle of Wonder**_ (invoke 5’ *aura: immobile*): Creation vs. 18 (PL 4) \
+_**Ward of Protection**_ (invoke *resistance*): Protection vs. 16 (PL 3) \
+_**Healing Word**_ (invoke *heal*): Creation vs. 12 - 18 (PL 1 - 4)
 
 #### Yoroi Armor Form
 
@@ -927,16 +927,16 @@ actions and taking turns with one of its forms at any time.
 
 **Notable Equipment:** Yoroi Armor, Naginata, 3 Javelins
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Naginata* (damaging attack): Might vs. Guard, advantage 1 \
-*Fang and Claw* (damaging attack, 2 targets): Might vs. Guard, disadvantage 1 \
-*Javelin* (damaging attack): Might vs. Guard \
-*Sweeping Strike* (inflict *knockdown*): Might vs. Guard, advantage 2 \
-*Naginata Snatch* (inflict *forced move*): Might vs. Guard, advantage 2 \
-*Scorpion’s Sting* (inflict *immobile*): Might vs. Guard, advantage 2 \
-*Show of Strength* (inflict *fear*): Might vs. Resolve \
-*Battle Command* (invoke: *heal*): Presence vs. 12 - 16 (PL 1 - 3)
+_**Naginata**_ (damaging attack): Might vs. Guard, advantage 1 \
+_**Fang and Claw**_ (damaging attack, 2 targets): Might vs. Guard, disadvantage 1 \
+_**Javelin**_ (damaging attack): Might vs. Guard \
+_**Sweeping Strike**_ (inflict *knockdown*): Might vs. Guard, advantage 2 \
+_**Naginata Snatch**_ (inflict *forced move*): Might vs. Guard, advantage 2 \
+_**Scorpion’s Sting**_ (inflict *immobile*): Might vs. Guard, advantage 2 \
+_**Show of Strength**_ (inflict *fear*): Might vs. Resolve \
+_**Battle Command**_ (invoke: *heal*): Presence vs. 12 - 16 (PL 1 - 3)
 
 ### Ranger
 
@@ -956,13 +956,12 @@ them to access paths that might be unreachable by their allies.
 
 When combat breaks out, the Ranger typically fights in a coordinated
 effort with their animal companion. In melee, the wolf will attempt to
-inflict *knockdown* upon foes, allowing their master to strike with
-advantage 1 on prone enemies. When they aren’t striking for direct
-damage, Rangers are disarming foes or whittling away at them with
-*persistent damage*. If the Ranger needs to keep a distance from the
-enemy, they take to the trees and use their longbow while their wolf
-companion uses *immobile* to make the target an easy shot for their
-master.
+inflict *knockdown* upon foes, allowing its master to strike with
+advantage 1 on prone enemies. When not striking for direct
+damage, Rangers disarm foes or whittle away at them with
+*persistent damage*. To keep a distance from the enemy, Rangers take 
+to the trees to use their longbow while their wolf uses *immobile* to 
+make the target an easy shot.
 
 **Attributes:** Agility 4 (1d10), Fortitude 3 (1d8), Might 2 (1d6),
 Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6) \
@@ -970,19 +969,19 @@ Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6) \
 **Guard:** 18 (Agility 4, Might 2, Chainmail 2) \
 **Toughness:** 15 \
 **Resolve:** 12 \
-**Speed:** 30’
+**Speed:** 35’
 
-**Feats:** Fleet of Foot, Master Tracker, Climbing, Companion I
+**Feats:** Fleet of Foot I, Master Tracker, Climbing, Companion I
 
 **Notable Equipment:** Longsword, Dagger, Longbow, Chainmail
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Longsword + Dagger* (damaging attack): Agility vs. Guard, advantage 1 \
-*Wounding Strike* (inflict *persistent damage*): Agility vs. Guard, advantage 2 \
-*Artful Parry* (inflict *disarmed*): Agility vs. Guard, advantage 2 \
-*Longbow* (damaging attack): Agility vs. Guard \
-*Foot Shot* (inflict *slowed*): Agility vs. Guard, advantage 1
+_**Longsword + Dagger**_ (damaging attack): Agility vs. Guard, advantage 1 \
+_**Wounding Strike**_ (inflict *persistent damage*): Agility vs. Guard, advantage 2 \
+_**Artful Parry**_ (inflict *disarmed*): Agility vs. Guard, advantage 2 \
+_**Longbow**_ (damaging attack): Agility vs. Guard \
+_**Foot Shot**_ (inflict *slowed*): Agility vs. Guard, advantage 1
 
 #### Wolf Companion
 
@@ -995,19 +994,19 @@ Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6) \
 
 **Feats:** none
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Bite* (damaging attack): Agility vs. Guard \
-*Takedown* (inflict *knockdown*): Agility vs. Guard
+_**Bite**_ (damaging attack): Agility vs. Guard \
+_**Takedown**_ (inflict *knockdown*): Agility vs. Guard
 
 
 ### Shade
 
 Shades are highly trained assassins that draw upon unearthly power drawn
-from the in-between the void of shadows where most mortals dare not
+from the in-between, the void of shadows where most mortals dare not
 travel. One with the darkness, they use their powers to deceive and
 misdirect, catching their prey off guard. These night hunters are
-trained to slay from a distance--unseen, unheard, and without a trace.
+trained to slay from a distance—unseen, unheard, and without a trace.
 
 #### Strategy
 
@@ -1039,17 +1038,17 @@ and slip away unseen.
 **Notable Equipment:** Sniper Rifle, Submachine Gun, Handgun, Knife,
 Trench Coat (treat as Leather Armor)
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Hidden Shot* (damaging attack): Agility vs. Guard, advantage 1 if target is unaware or engaging your ally \
-*Rifle* (damaging attack): Agility vs. Guard \
-*Tranquilizer Round* (inflict *incapacitated*): Agility vs. Toughness \
-*Leg Shot* (inflict *slowed*): Agility vs. Guard, advantage 1 \
-*Submachine Gun* (damaging attack, 10’ cube): Agility vs. Guard \
-*Void Step* (invoke *teleport*): Auto-success at PL 5 via *boon focus* \
-*Veil of Shadows* (invoke *darkness*): Entropy vs. 12 - 16 (PL 1 - 3) \
-*Shadow Dodge* (invoke *resistance*): Movement vs. 16 (PL 3) \
-*Extraplanar Pocket* (invoke *absorb object*): Movement vs. 18 (PL 4)
+_**Hidden Shot**_ (damaging attack): Agility vs. Guard, advantage 1 if target is unaware or engaging your ally \
+_**Rifle**_ (damaging attack): Agility vs. Guard \
+_**Tranquilizer Round**_ (inflict *incapacitated*): Agility vs. Toughness \
+_**Leg Shot**_ (inflict *slowed*): Agility vs. Guard, advantage 1 \
+_**Submachine Gun**_ (damaging attack, 10’ cube): Agility vs. Guard \
+_**Void Step**_ (invoke *teleport*): Auto-success at PL 5 via *boon focus* \
+_**Veil of Shadows**_ (invoke *darkness*): Entropy vs. 12 - 16 (PL 1 - 3) \
+_**Shadow Dodge**_ (invoke *resistance*): Movement vs. 16 (PL 3) \
+_**Extraplanar Pocket**_ (invoke *absorb object*): Movement vs. 18 (PL 4)
 
 ### Spellsword
 
@@ -1082,18 +1081,18 @@ momentum* to maneuver around the battlefield.
 **Resolve:** 13 \
 **Speed:** 30’
 
-**Feats:** Attribute Substitution II (Energy > Agility), Combat Momentum, Lightning Reflexes
+**Feats:** Attribute Substitution II (Energy > Agility), Combat Momentum, Lightning Reflexes I
 
 **Notable Equipment:** Chainmail, Falchion
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Falchion* (damaging attack): Energy vs. Guard, advantage 1 \
-*Enflame* (inflict *persistent damage*): Energy vs. Guard (advantage 1 if using falchion) \
-*Disabling Strike* (inflict *stunned*): Energy vs. Toughness \
-*Wall of Fire* (invoke *barrier, 10’ line*): Energy vs. 16 - 20 (PL 1 - 5), disadvantage 1 \
-*Smoke Step* (invoke *teleport*): Movement vs. 16 (PL 3) \
-*Shield of Force* (invoke *resistance*): Protection vs. 16 (PL 3)
+_**Falchion**_ (damaging attack): Energy vs. Guard, advantage 1 \
+_**Enflame**_ (inflict *persistent damage*): Energy vs. Guard (advantage 1 if using falchion) \
+_**Disabling Strike**_ (inflict *stunned*): Energy vs. Toughness \
+_**Wall of Fire**_ (invoke *barrier, 10’ line*): Energy vs. 16 - 20 (PL 1 - 5), disadvantage 1 \
+_**Smoke Step**_ (invoke *teleport*): Movement vs. 16 (PL 3) \
+_**Shield of Force**_ (invoke *resistance*): Protection vs. 16 (PL 3)
 
 ### Void Templar
 
@@ -1120,7 +1119,7 @@ Within combat, a Templar’s primary duty is to keep their allies alive.
 They make extensive use of the defend action by deploying all manner of
 countermeasures from their Templar Armor, such as laser netting, or the
 onboard micro missiles to intercept incoming projectiles. Their
-*battlefield* *reflexes* feat allows the Templar to turn these defensive
+*battlefield retribution* feat allows the Templar to turn these defensive
 actions against the attacker. In addition to these countermeasures,
 Templars also reshape the battlefield and force enemies into tough
 decisions with banes and boons such as *forced move, barrier,* and
@@ -1133,20 +1132,20 @@ decisions with banes and boons such as *forced move, barrier,* and
 **Resolve:** 14 \
 **Speed:** 25’
 
-**Feats:** Defensive Reflexes I, Battlefield Reflexes I, Sentinel I
+**Feats:** Defensive Reflexes I, Battlefield Retribution I, Sentinel I
 
 **Notable Equipment:** Combat Shield, Pistol, Templar Armor (treat as
 Full Plate), 1 Grenade
 
-**Favored Actions:** \
+**Favored Actions** \
 
-*Void Nullification* (defend action): Energy vs. target’s attack roll, advantage 1 \
-*Void Matrix* (invoke 10’ line *barrier*): Energy vs. 16 - 20 (PL 3 - 5) \
-*Quickening Aura* (invoke *aura: haste*): Movement vs. 18 (PL 4) \
-*Telekinetic Blast* (inflict *forced move*): Movement vs. Guard \
-*Paralysis Beam* (inflict *immobile*): Movement vs. Guard \
-*Telekinesis* (invoke: *telekinesis*): Movement vs. 16 (PL 3) \
-*Suppressor Field* (invoke 5’ *aura: forced move*): Energy vs. 18 (PL 4)
+_**Void Nullification**_ (defend action): Energy vs. target’s attack roll, advantage 1 \
+_**Void Matrix**_ (invoke 10’ line *barrier*): Energy vs. 16 - 20 (PL 3 - 5) \
+_**Quickening Aura**_ (invoke *aura: haste*): Movement vs. 18 (PL 4) \
+_**Force Push**_ (inflict *forced move*): Movement vs. Guard \
+_**Paralysis Beam**_ (inflict *immobile*): Movement vs. Guard \
+_**Telekinesis**_ (invoke: *telekinesis*): Movement vs. 16 (PL 3) \
+_**Suppression Field**_ (invoke 5’ *aura: forced move*): Energy vs. 18 (PL 4)
 
 
 ## Gaining XP and Leveling Up
@@ -1177,7 +1176,7 @@ Your total XP earned determines your level, with every 3 XP allowing you to adva
 
 ### Feat and Attribute Points
 
-For every XP that you earn, you also gain 1 feat point and 3 attribute points. These can be spent immediately or saved for later. You gain these feat and attribute points *every* time you are awarded XP, not just when you level up.
+For every XP that you earn, you also gain 1 feat point and 3 attribute points. These can be spent immediately or saved for later. You gain these points *every* time you are awarded XP, not just when you level up.
 
 Attribute points can be used to increase your current attributes or buy completely new ones. The cost to increase an attribute is equal to the new score. So, for example, to raise your Might from 3 to 4 would cost 4 attribute points. The cost to purchase a brand new attribute is summarized in the Attribute Overview Table, which also details the attribute dice for scores above 5.
 

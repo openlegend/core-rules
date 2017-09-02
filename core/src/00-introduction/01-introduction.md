@@ -54,7 +54,7 @@ Without well-defined rules, the decisions made by players and GMs can seem arbit
 
 Open Legend was designed to provide enough rules so that players have a clear framework to guide their play, but not so many rules that the game gets bogged down by them. You spend your day job worrying about bookkeeping and policies. We don't want the gaming table to feel like that, and we designed Open Legend to focus on the fun rather than the homework.
 
-For example, you won't have long lists of resources to manage. Any abilities that you can use or spells you can cast in Open Legend can be used at-will. Likewise, spellcasters, psions, and techies don't need to worry about poring over page after page of power descriptions in order to make the right choices. Instead, Open Legend uses a system of **banes** and **boons**, or status effects, that any character can apply if they are built to do so.
+For example, you won't have long lists of resources to manage. Any abilities that you can use or spells you can cast in Open Legend can be used at will. Likewise, spellcasters, psions, and techies don't need to worry about poring over page after page of power descriptions in order to make the right choices. Instead, Open Legend uses a system of **banes** and **boons**, or status effects, that any character can apply if they are built to do so.
 
 Other mechanics that will ensure that you can focus on the story you want to tell include simplified wealth and encumbrance systems. In Open Legend, you'll never need to record a single gold piece on your character sheet or even think about how many pounds your revolver weighs.
 
@@ -87,7 +87,7 @@ Add all of the dice together to find your action roll total. If your total is eq
 >
 > An adventuring party is traveling through the Darkwood, a forest cursed with malignant energy and cast in shadows at every turn. The party spies a gathering of lights in the distance ahead. At the same time, though, a Shade Demon has crept up behind the heroes. The GM tells Imladril, the elven ranger who is at the back of the marching order, to make a Perception roll against a Challenge Rating of 18. Imladril's Perception score of 5 grants him a 2d6 bonus to Perception action rolls, so he grabs 1d20 + 2d6 and lets them fly.
 >
-> Imladril rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, the die is rolled again and it comes up a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so the GM rules that Imladril hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger's bow out of his hands before the combat begins.
+> Imladril rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, the die is rolled again and it comes up a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so the GM rules that Imladril hears the demon fast enough to alert the party, but the demon is already within melee distance and is able to knock the ranger's bow out of his hands before the combat begins.
 >
 > Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, the GM rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
 
