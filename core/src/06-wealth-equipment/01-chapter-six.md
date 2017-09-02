@@ -25,10 +25,10 @@ Every character has a wealth score, which begins at 2 and can range from 0 to 9,
 </div>
 
 | Wealth Score <div style="width: 200px;"></div> | Example Lifestyles | Example Expenditures |
-| :-: | :----- | :----- |
+| :-: | :-----: | :-----: |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 2 | skilled laborer, town guard, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
 | 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
@@ -39,10 +39,10 @@ Every character has a wealth score, which begins at 2 and can range from 0 to 9,
 
 
 ### Acquiring Goods and Services
-Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score
+Whether you are trying to buy new equipment, construct a building, or hire a craftsman, your wealth score determines if you are able. Every good or service is
 
 ___
-determines if you are able. Every good or service is assigned a wealth level (either in the rules or by the GM). This level is compared with your wealth score in order to determine the cost of acquiring the item, as follows:
+ assigned a wealth level (either in the rules or by the GM). This level is compared with your wealth score in order to determine the cost of acquiring the item, as follows:
 
 If the good you want to purchase has a level **lower than** your wealth score, you can acquire the item easily without taxing your time and resources.
 
@@ -167,7 +167,7 @@ ___
 | Laser Pistol, Revolver, Handgun | Short Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Expendable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
 | Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
-| Sawed-off Shotgun | Close Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
+| Sawed-off Shotgun | Short Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
 | Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (10' cube) | Persistent Damage, Provoked, Demoralized |
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |

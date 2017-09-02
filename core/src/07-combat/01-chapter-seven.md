@@ -101,9 +101,9 @@ Major actions are what you take to get big things done in combat. Your major act
 
 - Make a damaging attack
 - Make a bane attack
--   Invoke a boon
+- Invoke a boon
 - Assist an Ally
--   Take an extra move action
+- Take an extra move action
 
 Each of these actions is explained below.
 
@@ -113,9 +113,7 @@ A damaging attack is one in which you are strictly aiming to reduce your foe’s
 
  1. **Determine attribute vs. defense.** Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
  1. **Choose your target.** The range of your attack depends on whether you are using a melee, ranged, or non-physical attack.
- 1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
-
-These steps are explained in more detail below.
+ 1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage. These steps are explained in more detail below.
 
 ___
 ##### Damaging Attacks
@@ -130,12 +128,9 @@ ___
 
 First, choose the most logical attribute for the type of attack you are making. Every attack is either physical or extraordinary.
 
-**Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise*
+**Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise* property will determine which attribute to use.
 
-___
-property will determine which attribute to use.
-
-**Non-physical attacks** are those that make use of one of the attacker's attributes other than Might or Agility, such as by using Energy to summon a ball of fire or Logic to spring a trap. A character can only make a non-physical attack if they possess a score of 1 or higher in the relevant attribute.
+**Non-physical attacks** are those that make use of one of the attacker's attributes other than Might or Agility, such as by using Energy to summon a ball of fire or Logic to spring a trap. A character can only make a non-physical attack with an extraordinary attribute if they possess a score of 1 or higher in the relevant attribute.
 
 Once you have chosen your attacking attribute, determine an appropriate defense (Guard, Toughness, or Resolve) to use as the Challenge Rating for your attack, as follows.
 
@@ -279,8 +274,6 @@ ___
 
 Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in Chapter 3: Banes & Boons. While targets may be effected by multiple banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (such as the *fatigued* bane).
 
-
-
 Resolving a bane attack is very similar to making a damaging attack, except as indicated in these steps:
 
 1. **Determine attribute vs. defense.** The [bane descriptions](#banes-list) indicate which attributes you can use to inflict a bane as well as the targeted defense.
@@ -288,10 +281,10 @@ Resolving a bane attack is very similar to making a damaging attack, except as i
 1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
 
+#### Invoke a Boon
+
 You can invoke boons in order to aid yourself or allies. In order to invoke a boon, you must possess an appropriate attribute of at least the boon's power level, as detailed in the boon descriptions in Chapter 3: Banes & Boons. To invoke a boon, follow these steps:
 
-
-#### Invoke a Boon
 
 1. **Choose your target.** Choosing targets and determining range for boon invocations is identical to the process for damaging attacks, including multi-targeting options. If you later sustain this boon, that use of the sustain action persists the boon for all targets affected by the original invocation.
 1. **Roll to invoke.** Make an action roll using the appropriate attribute, as determined by the [boon descriptions](#boons-list).
@@ -598,10 +591,7 @@ In the examples scenarios that follow, you’ll witness several of these at play
 
 ##### Put a Character in Danger
 
-Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shotgun on the enemy barreling down on him, failing to realize that
-
-
-his ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
+Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shotgun on the enemy barreling down on him, failing to realize thathis ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
 
 ##### Expend a Resource
 

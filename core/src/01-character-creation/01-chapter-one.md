@@ -32,7 +32,7 @@
 
 <div class="wide" style="margin-top:2640px; font-size: 1.13em;">
 
-Written, created, and developed by Brian Feister & Ish Stabosz
+by Brian Feister & Ish Stabosz
 
 
 <img style="width: 11%; margin: 70px auto 0; padding: 0 0 10px;" src="http://localhost:8888/open%20legend%20keyhole%20stylized.png">
@@ -43,22 +43,18 @@ Written, created, and developed by Brian Feister & Ish Stabosz
 
 \page
 
-<div class="wide" style="margin-top:2600px;">
+<div class="wide" style="text-align: center; margin-top:2400px;">
 
 **Cover Illustration by** Saryth Chareonpanichkul & Ivan Sevic
 ___
-**Interior Illustrations by** Alix Branwyn, Tom Field, Ivan Sevic, Ilse Gort, Max Bedulenko, Andrey Vasilchenko, Mahea Rodrigues, Randy Vargas, Saryth Chareonpanichkul, Biagio D'Alessandro, Forest Imel, Allen Morris, Paris Iannou, Simon Tjong, Dleoblack,
+**Interior Illustrations by** Alexander Gustafson, Alix Branwyn, Allen Morris, Andrey Vasilchenko, Biagio D'Alessandro, Deloblack, Forrest Imel, Ilse Gort, Ivan Sevic, Mahea Rodrigues, Mat Kolbeck, Max Bedulenko, Paris Ioannou, Saryth Chareonpanichkul, Simon Tjong, Tom Field, Vargasni (Randy Vargas) 
 
 <br>
 </div>
 
 <div class="wide" style="text-align: center;">
 
-OPEN LEGEND RPG, Open Legend keyhole, the Open Legend logo, Seventh Sphere Entertainment, and all other Seventh Sphere product names, and their respective logos are trademarks of Seventh Sphere Entertainment in the USA and other countries.
-
-This work contains material that is copyright Seventh Sphere and/or other authors. Unauthorized use is prohibited.
-
-See the Community License at [openlegendrpg.com/community-license](http://www.openlegendrpg.com/community-license) for details on creating royalty-free derivative content.
+OPEN LEGEND RPG, Open Legend keyhole, the Open Legend logo, Seventh Sphere Entertainment, and all other Seventh Sphere product names, and their respective logos are trademarks of Seventh Sphere Entertainment in the USA and other countries. This work contains material that is copyright Seventh Sphere and/or other authors. Unauthorized use is prohibited. See the Community License at [openlegendrpg.com/community-license](http://www.openlegendrpg.com/community-license) for details on creating royalty-free derivative content.
 
 ---
 
@@ -70,10 +66,14 @@ Layout design & typesetting by Brian Feister with help from The Homebrewery.
 
 ---
 
-Thanks to our many thousands of playtesters.
+Printed by KrakenPrint LLC in Taiwan.
+
+---
+
+Thanks to our many thousands of playtesters!
 
 <img style="width: 38%; overflow: visible; padding: 0 0 10px; margin: 0 130px 0 0;" src="http://localhost:8888/open_legend_main_logo_gold.0.6.svg">
-<img style="width: 25%; margin: 20px 13px 0 0;" src="http://localhost:8888/seventh_sphere_logo.svg">
+<img style="width: 25%; margin: 20px 13px 0 0; padding: 0 0 40px 0" src="http://localhost:8888/seventh_sphere_logo.svg">
 
 </div>
 
@@ -93,7 +93,7 @@ Thanks to our many thousands of playtesters.
 - <div><span>Chapter 1: Character Creation </span> <span>5</span></div>
   - <span>Gaining XP and Leveling Up</span> <span>21</span>
   - <span>Starting Beyond First Level</span> <span>21</span>
-- <div><span>Chapter 2: Actions & Attributes</span> <span>23</span></div>
+- <div><span>[Chapter 2: Actions & Attributes](#chapter-2-actions-attributes)</span> <span>23</span></div>
   - <span>When to Roll the Dice</span> <span>23</span>
   - <span>Every Roll Matters</span> <span>23</span>
   - <span>Interpreting Action Rolls</span> <span>24</span>
@@ -1192,9 +1192,8 @@ ___
 - **Favored Actions**
 
 ___
-- _**Two-Gun Assault**_ (damaging attacks): Two attacks. <br>
-Agility vs. Guard
-- _**Fan the Hammer**_ (damaging attacks): Three attacks. Agility vs. Guard, disadvantage 3
+- _**Two-Gun Assault**_ (focus action, damaging attack, <br>2 attacks):  Agility vs. Guard
+- _**Fan the Hammer**_ (focus action, damaging attack, <br>3 attacks):  Agility vs. Guard, disadvantage 3
 - _**Bounty's Curse**_ (inflict *stunned*): <br>Entropy vs. Toughness
 - _**Toe Shot**_ (inflict *slowed*): Agility vs. Guard, <br> advantage 1
 

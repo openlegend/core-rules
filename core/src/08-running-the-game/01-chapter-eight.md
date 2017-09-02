@@ -260,14 +260,15 @@ You can use this table as a rough guideline for when to give players more wealth
 
 However you plan to award wealth, you can see that the general recommendation on the table is for a PC's wealth score to increase twice every three levels.
 
-___
+<div style="text-align: center;">
 ##### Wealth Overview
+</div>
 
-| Wealth Score | Sample Lifestyles | Sample Goods |
-| :-: | :----- | :----- |
+| Wealth Score <div style="width: 200px;"></div> | Example Lifestyles | Example Expenditures |
+| :-: | :-----: | :-----: |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 2 | skilled laborer, town guard, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
 | 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
@@ -276,7 +277,8 @@ ___
 | 8 | intergalactic ruler, 10th level hero | a sprawling estate, a large corporate buyout, an army of 10,000 |
 | 9 | supreme emperor | a castle, a space station, an army of 50,000, a fleet of warships |
 
-___
+```
+```
 
 #### Understanding Open Legend's Wealth System
 
@@ -349,10 +351,7 @@ necromancer who has taken up residence in the local graveyard, the distributed A
 
 ### Allies
 
-NPCs aren't limited to antagonists, of course. Many of the most important characters to your plotline will be allies of the heroes. Perhaps the party is guided by a wizened sage who secludes himself in a high tower and for unknown reasons allows only the PCs access to his wisdom. Another example includes a team of native elves who have been dispatched to see the heroes safely 
-
-___
-through a haunted wood.
+NPCs aren't limited to antagonists, of course. Many of the most important characters to your plotline will be allies of the heroes. Perhaps the party is guided by a wizened sage who secludes himself in a high tower and for unknown reasons allows only the PCs access to his wisdom. Another example includes a team of native elves who have been dispatched to see the heroes safely through a haunted wood.
 
 Whatever sorts of allies the party has acquired, it's important for the GM to abide by a few guidelines to ensure that the allies add to the fun rather than detract from it.
 
@@ -483,43 +482,38 @@ ___
 
 ___
 - **Lethal Strike (tier equal to NPC level, max 9):** Your attacks are considered lethal strikes whenever you fulfill *one* of the following conditions:
-   - Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
-   - Your target is within melee attack range of an ally.
+   - &bull;&nbsp; Your target is caught off guard or otherwise unaware of the attack, such as when you are hidden from them, disguised as a friend, or have successfully deceived them.
+   - &bull;&nbsp; Your target is within melee attack range of an ally.
    
   
   You gain advantage on lethal strikes equal to your tier in this feat. Additionally, a certain portion of the damage (not to exceed the total damage dealt) is considered lethal damage, which is more difficult to heal from (see Chapter 7: Combat)
 ____
 - 
-   - **Tier 1** - Advantage 1, Up to 5 lethal damage
-   - **Tier 2** - Advantage 2, Up to 5 lethal damage
-   - **Tier 3** - Advantage 3, Up to 10 lethal damage
-   - **Tier 4** - Advantage 4, Up to 10 lethal damage
-   - **Tier 5** - Advantage 5, Up to 15 lethal damage
-   - **Tier 6** - Advantage 6, Up to 20 lethal damage
-   - **Tier 7** - Advantage 7, Up to 20 lethal damage
-   - **Tier 8** - Advantage 8, Up to 25 lethal damage
-   - **Tier 9** - Advantage 9, Up to 25 lethal damage
+   - **Tier 1** - Advantage 1, Up to 5 lethal damage.
+   - **Tier 2** - Advantage 2, Up to 5 lethal damage.
+   - **Tier 3** - Advantage 3, Up to 10 lethal damage.
+   - **Tier 4** - Advantage 4, Up to 10 lethal damage.
+   - **Tier 5** - Advantage 5, Up to 15 lethal damage.
+   - **Tier 6** - Advantage 6, Up to 20 lethal damage.
+   - **Tier 7** - Advantage 7, Up to 20 lethal damage.
+   - **Tier 8** - Advantage 8, Up to 25 lethal damage.
+   - **Tier 9** - Advantage 9, Up to 25 lethal damage.
 
 ___
 - **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
  
-  
  You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
-
+ 
  The number of additional attacks you can make with this feat is limited to 1 + half your level, rounded up. Thus, the limit is 2 additional attacks at 1st level, 3 additional attacks at 3rd level, and 6 additional attacks at 9th level.
 
 ___
 - **Multi-Bane Specialist:** Choose two banes that you are able to inflict and that share a common prerequisite attribute. You are able to inflict both banes with a single attack. The required attribute score for combining the banes is equal to the sum of their power levels (e.g., combining knockdown and slowed, both power level 1, would require an attribute score of 2). If the banes target different defenses, you choose which defense your attack targets. On a successful attack roll, the target is inflicted with both banes. They each persist independently of one another and must be resisted separately.
 
-___
-- **Multi-Target Attack Specialist (tier equals NPC level, max 5):** When you choose this feat, you must decide to 
 
 
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
-
-focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
 
 ___
 - **Multi-Target Attack Specialist (tier equals NPC level, max 5):** When you choose this feat, you must decide to focus in area, projectile, or melee attacks. For each tier, you reduce the disadvantage penalty associated with multi-targeting for your chosen attack type by 1.
@@ -1320,17 +1314,15 @@ Before he realizes what he has done, the paladin has revealed his deepest secret
 
 ### Movement
 
-Movement governs extraordinary means of locomotion, travel, and speed—as well as secondary effects that are tied to these spheres. Movement is typically used to invoke boons such as *haste*, *teleport*, and *flight*. However, 
+Movement governs extraordinary means of locomotion, travel, and speed—as well as secondary effects that are tied to these spheres. Movement is typically used to invoke boons such as *haste*, *teleport*, and *flight*. However, the GM may call for a straight Movement roll when the success of the action isn't tied so much to the successful invocation of the boon as it is to the circumstances of the action. The examples below illustrate such instances.
 
-___
-the GM may call for a straight Movement roll when the success of the action isn't tied so much to the successful invocation of the boon as it is to the circumstances of the action. The examples below illustrate such instances.
-
-```
-```
 
 #### Challenging Test of Movement (CR 15)
 
-Victoria is trying to create enough of a distraction to allow her ally, Nick, to escape from the two junkyard thugs who have him at gun point. She taps into her telekinetic powers to create a storm of debris from the junk littered around the area, attempting to throw the thugs' attention away from Nick.
+Victoria is trying to create enough of a distraction to allow her ally, Nick, to escape from the two junkyard 
+
+___
+thugs who have him at gun point. She taps into her telekinetic powers to create a storm of debris from the junk littered around the area, attempting to throw the thugs' attention away from Nick.
 
 **Success with a twist:** The whirlwind of junk distracts the guards long enough to let Nick dive behind some cover and grab an improvised weapon, but the thugs are right on his tail.
 
@@ -1355,14 +1347,12 @@ Ace is piloting the escape pod his crew used to break free from InterGal HQ. The
 
 ### Prescience
 
-Prescience is the attribute that governs knowledge  gained from extraordinary  sources such as extrasensory perception, divination magic, or even a super heightened awareness of details. You make a Prescience roll whenever you are attempting to use means beyond the
+Prescience is the attribute that governs knowledge  gained from extraordinary  sources such as extrasensory perception, divination magic, or even a super heightened awareness of details. You make a Prescience roll whenever you are attempting to use means beyond the scope of a normal creature in order to perceive details or communicate with beings that would otherwise be impossible.
 
 \page
 
 <div class='footnote'>CHAPTER 8: RUNNING THE GAME</div>
 
-___
-scope of a normal creature in order to perceive details or communicate with beings that would otherwise be impossible.
 
 #### Challenging Test of Prescience (CR 15)
 
@@ -1388,8 +1378,7 @@ Ruby is investigating the scene of the lord mayor's assassination. There are no 
 
 **Failure, but the story progresses:** In her attempts to contact the dead, Ruby instead makes contact with something far more sinister. An undead shadow takes form before her and attacks.
 
-```
-```
+
 
 ### Protection
 

@@ -247,10 +247,7 @@ The roll of the dice, the smoke of the Black Lotus, or the escape of the virtual
 
 ### Ambitious
 
-You are willing to do anything to get ahead in life and often that means trampling upon other people on your way to the 
-
-
-top. When presented with a situation requiring empathy for those beneath you, it's typical for you to ignore their need. In addition, you may sometimes overreach in your attempts to get ahead, making bold and risky choices that can put you and those close to you in danger.
+You are willing to do anything to get ahead in life and often that means trampling upon other people on your way to the top. When presented with a situation requiring empathy for those beneath you, it's typical for you to ignore their need. In addition, you may sometimes overreach in your attempts to get ahead, making bold and risky choices that can put you and those close to you in danger.
 
 ### Bloodlust
 
