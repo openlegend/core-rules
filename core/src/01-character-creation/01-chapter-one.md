@@ -730,8 +730,8 @@ scare enemies away with *fear*.
 
 **Favored Actions** \
 
-_**Two-Gun Assault**_ (damaging attacks): Two attacks. Agility vs. Guard \
-_**Fan the Hammer**_ (damaging attacks): Three attacks. Agility vs. Guard, disadvantage 3 \
+_**Two-Gun Assault**_ (focus action, damaging attack, 2 attacks): Agility vs. Guard \
+_**Fan the Hammer**_ (focus action, damaging attack, 3 attacks): Agility vs. Guard, disadvantage 3 \
 _**Bounty's Curse**_ (inflict *stunned*): Entropy vs. Toughness \
 _**Toe Shot**_ (inflict *slowed*): Agility vs. Guard. advantage 1 \
 _**Hand Shot**_ (inflict *disarmed*): Agility vs. Guard, advantage 1 \

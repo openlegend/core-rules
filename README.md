@@ -21,7 +21,7 @@ Click [Here](https://github.com/openlegend/core-rules/commits/master) to see cha
 -   Removed `Hallucination - Mass` feat. Effects moved to second tier of `Hallucination` feat.
 -   `Knockdown` effect updated. Now prone targets get +2 to Guard vs ranged and -2 Guard vs melee attacks.
 -   `Ferocious Minions` now works with the attributes you use to invoke *charmed*, *dominated* or *summon creature*.
--   `Battle Trance` now works with Agility, Energy and Entropy 7.
+-   `Destructive Trance` now works with Agility, Energy and Entropy 7.
 -   `Domination` bane duration is now based on type of domination (Lesser or Greater).
 -   `Natural Defense` now gives a bonus to both Guard and Toughness defenses.
 -   `Skill Specialization` now works for rolls that are not for initiative, attacks, invocations, or the defend action.

@@ -219,11 +219,11 @@ Chapter 5 explains Open Legend's simplified wealth system, and the Wealth Overvi
 | - |
 | |
 
-| Wealth Score | Sample Lifestyles | Sample Goods |
+| Wealth Score | Example Lifestyles | Example Expenditures |
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 2 | skilled laborer, town guard, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
 | 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |

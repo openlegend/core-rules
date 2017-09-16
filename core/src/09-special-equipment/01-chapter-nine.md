@@ -209,7 +209,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Wealth Level**: 5
 
-*This exceptionally crafted katana is far heavier than the average blade of its type, bringing far more force to bear on its razor edge blade. A Dotaunki is known to cut foes in two.*
+*This exceptionally crafted katana is far heavier than the average blade of its type, bringing far more force to bear on its razor edge blade. A Dotanuki is known to cut foes in two.*
 
 **Properties**: Deadly 2, Weapon (Katana)
 

@@ -17,7 +17,7 @@ Every character has a wealth score, which begins at 2 and can range from 0 to 9,
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 2 | skilled laborer, town guard, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
 | 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
@@ -138,7 +138,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 | Laser Pistol, Revolver, Handgun | Short Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Expendable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
 | Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
-| Sawed-off Shotgun | Close Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
+| Sawed-off Shotgun | Short Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
 | Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (10' cube) | Persistent Damage, Provoked, Demoralized |
 | Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |

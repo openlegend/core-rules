@@ -1083,7 +1083,7 @@ replicate a single boon. \newline
 requisite attribute to invoke. The cost of this feat is equal to the
 Power Level of the chosen boon. You can invoke the chosen boon despite
 lacking the necessary attribute. For invocation rolls, treat your
-attribute score as the Power Level of the boon. If the boons has multiple
+attribute score as the Power Level of the boon. If the boon has multiple
 attribute prerequisite options, you choose one attribute when you take
 this feat. Additionally, you count as having access to the chosen boon for
 the purpose of meeting feat prerequisites, and your attribute for meeting
