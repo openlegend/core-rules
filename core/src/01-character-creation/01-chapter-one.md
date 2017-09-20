@@ -47,7 +47,7 @@ by Brian Feister & Ish Stabosz
 
 **Cover Illustration by** Saryth Chareonpanichkul & Ivan Sevic
 ___
-**Interior Illustrations by** Alexander Gustafson, Alix Branwyn, Allen Morris, Andrey Vasilchenko, Biagio D'Alessandro, Deloblack, Forrest Imel, Ilse Gort, Ivan Sevic, Mahea Rodrigues, Mat Kolbeck, Max Bedulenko, Paris Ioannou, Saryth Chareonpanichkul, Simon Tjong, Tom Field, Vargasni (Randy Vargas) 
+**Interior Illustrations by** Alexander Gustafson, Alix Branwyn, Allen Morris, Andrey Vasilchenko, Biagio D'Alessandro, Deloblack, Forrest Imel, Ilse Gort, Ivan Sevic, Mahea Rodrigues, Mat Kolbeck, Max Bedulenko, Paris Ioannou, Saryth Chareonpanichkul, Simon Tjong, Tom Field, Vargasni
 
 <br>
 </div>
@@ -58,7 +58,7 @@ OPEN LEGEND RPG, Open Legend keyhole, the Open Legend logo, Seventh Sphere Enter
 
 ---
 
-Developed by Brian Feister & Ish Stabosz.
+Created by Brian Feister & Ish Stabosz.
 
 ---
 
@@ -66,7 +66,9 @@ Layout design & typesetting by Brian Feister with help from The Homebrewery.
 
 ---
 
-Printed by KrakenPrint LLC in Taiwan.
+ISBN: 978-1-947868-00-7. First Printing: October 2017. 
+
+Printed by KrakenPrint LLC in Taiwan. &copy; 2017 Seventh Sphere LLC, PO Box 7880, Newark, DE 19714.
 
 ---
 
@@ -712,36 +714,34 @@ ___
 
 The Beast Master summons and commands the creatures of the wild, and is
 capable of taming even monsters of great legend, such as dragons and
-manticores. At home in the wilderness, Beast Masters even possess magic
-to control plants, earth, and other natural elements.
+manticores. 
 
 
 #### Strategy
 
 The Beast Master commands a legendary manticore, which serves as both
-mount and combatant. The manticore’s flight
-allows the Beast Master
+mount and combatant. The manticore’s flight allows the Beast Master
 access to areas that might be out of reach for the rest of the party.
-Out of combat, Beast Masters can wield Alteration magic to shape the
-terrain, transmute materials, or even summon creatures to aid in manual
-labor and mundane tasks.
+Out of combat, Beast Masters can use their Influence attribute to soothe
+and command a wide array of animals and mythical beasts, gradually winning 
+their loyalty.
 
 Once combat ensues, the Beast Master takes to the sky, picking off foes
-with a longbow and commanding summoned creatures to gain control over
+with a longbow and commanding dominated creatures to gain control over
 the battlefield. When their arrows aren’t getting the job done, the Beast Master doesn’t
 hesitate to close into melee and let the manticore tear foes to shreds with its
-razor sharp claws or disable them with its venomous sting.
+razor sharp claws or disable them with its venomous sting. 
 
 \page
 
 <div class='footnote'>CHAPTER 1: CHARACTER CREATION</div>
 
 ___
-- **Attributes:** Agility 4 (1d10), Fortitude 3 (1d8), <br>Might 1 (1d4), Perception 3 (1d8), Will 3 (1d8), Presence 1 (1d4), Influence 4 (1d10)
-- **Hit Points:** 24
+- **Attributes:** Agility 4 (1d10), Fortitude 2 (1d6), <br>Might 1 (1d4), Perception 3 (1d8), Will 2 (1d6), Presence 1 (1d4), Influence 5 (2d6)
+- **Hit Points:** 22
 - **Guard:** 17 (Agility 4, Might 1, Breastplate 2)
-- **Toughness:** 16
-- **Resolve:** 14
+- **Toughness:** 14
+- **Resolve:** 13
 - **Speed:** 30’
 ___
 - **Feats:** Companion III
@@ -756,8 +756,8 @@ ___
 - _**Longbow**_ (damaging attack): Agility vs. Guard
 - _**Barbed Arrow**_ (inflict *persistent damage*): <br>Agility vs. Guard, advantage 1
 - _**Longspear**_ (damaging attack, 10’ reach): <br>Agility vs. Guard, advantage 1
-- _**Charm Animal**_ (inflict *charmed*): Influence vs. Resolve
-- _**Command Animal**_ (inflict *dominated*): <br>
+- _**Charm Beast**_ (inflict *charmed*): Influence vs. Resolve
+- _**Command Beast**_ (inflict *dominated*): <br>
 Influence vs. Resolve
 
 ```

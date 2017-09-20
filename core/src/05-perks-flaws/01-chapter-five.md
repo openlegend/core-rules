@@ -16,6 +16,8 @@
 
 In this chapter, you'll find detailed descriptions of the perks and flaws that you can use to round out your character's personality, background, strengths, and weaknesses. Additionally, you'll learn how to activate your perks and flaws to enhance your roleplaying and gain mechanical benefits.
 
+<br>
+
 ## Fleshing Out Your Character with Perks and Flaws
 
 **Perks** are characteristics that describe very specific skills, attitudes, backgrounds, or opportunities that tend to give your character the upper hand in certain situations. For example, maybe you are a noble and thus able to draw favors from powerful political figures, or perhaps you once served as mechanic on a starship and those technical skills still help you out in your adventuring life today.

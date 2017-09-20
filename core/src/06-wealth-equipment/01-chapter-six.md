@@ -151,7 +151,7 @@ ___
 | Unarmed Strike | One-handed Melee | 0 | Forceful, Precise, Swift | Stunned, Knockdown |
 | Bowie Knife, Shiv, Multi-tool | One-handed Melee | 2 | Precise, Swift | Persistent Damage, Disarmed |
 | Scimitar, Shortsword, Machete, Sawblade | One-handed Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
-| Blow Gun, Dart | Close Ranged | 1 | Forceful, Precise | Immobile |
+| Blow Gun, Dart | Close Ranged | 1 | Precise | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 2 | Forceful, Precise, Swift | Persistent Damage, Disarmed |
 | Longsword, Katana, Falchion | Versatile Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
 | Baseball Bat, Club, Improvised Weapon | One-handed Melee | 1 | Forceful | Knockdown, Stunned |
@@ -186,7 +186,7 @@ inflict one of the listed banes, they may treat the power level as reduced by on
 
 ### Properties
 
-**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
+&nbsp;&nbsp;&nbsp;**Area** - An area weapon always makes multi-target area attacks of the listed size and shape and cannot be used for single-target attacks. If a weapon has multiple area sizes, the attacker chooses from them with each attack. These attacks do not incur any of the disadvantage penalties associated with multi-target attacks.
 
 **Expendable** - An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.
 
@@ -216,16 +216,17 @@ inflict one of the listed banes, they may treat the power level as reduced by on
 >
 > Tech Levels provide a simplified way of defining the technology available to a given society. Open Legend uses the following four tech levels to broadly categorize the technological advances that a society can make:
 >
-> TL 0 - Stone Age, Bronze Age, Iron Age, Medieval Age
-> TL 1 - Modern Age
-> TL 2 - Near Future (mechs, cyborgs, laser weapons)
-> TL 3 - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology)
+> ___
+> * **TL 0** - Stone Age, Bronze Age, Iron Age, Medieval Age
+> * **TL 1** - Modern Age
+> * **TL 2** - Near Future (mechs, cyborgs, laser weapons)
+> * **TL 3** - Far Future (intergalactic space travel, nanotechnology, quantum-powered technology)
 >
 > When planning a campaign, the GM can specify which tech level (or levels) the campaign will use. For example, a typical sword and sorcery campaign would be set at tech level 0, while a steampunk campaign would probably use a good mix of tech levels 0 and 1.
 >
 >
 > **Mixing Tech Levels**
-> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
+> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would conversely have advantage 3.
 
 
 enormous. Moving it requires a focus action, which allows it to be moved up to 30 feet.
@@ -250,7 +251,7 @@ The Armor table summarizes the following properties of each type of armor:
 
 **Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the requisite Fortitude score, a character cannot benefit from the protection it affords.
 
-**Defense Bonus** indicates the bonus that your character gains to their Guard defense.
+
 
 \page
 
@@ -277,7 +278,9 @@ ___
 </div>
 
 &nbsp;&nbsp;&nbsp;
-**Speed Penalty** indicates the reduction in speed that your character suffers due to the bulkiness and weight of the armor.
+**Defense Bonus** indicates the bonus that your character gains to their Guard defense.
+
+**Speed Penalty** indicates the reduction in speed that your character suffers due to the armor's bulk or weight.
 
 
 ### Getting in and out of Your Armor
@@ -286,7 +289,7 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 ## Building Your Own Weapons
 
-Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the four step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in customizing your character or campaign setting with new home brewed weapons. To do so, simply follow the four step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
