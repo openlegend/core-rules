@@ -82,9 +82,9 @@ Each boon description includes the following elements.
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5
 - **Attack:**
  - Agility vs. Guard
  - Creation vs. Guard
@@ -101,9 +101,9 @@ Perception rolls based partially on sight that can be supplemented by another se
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 4 / 6
 - **Duration:** Resist ends (special) (Fail x 3 = 24 hours)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 4 / 6
 - **Attack:**
  - Influence vs. Resolve
 - **Description:** Charms are one of the great banes of legend, wielded by powerful enchantresses like Circe (of Homer's The Odyssey), nymphs, psychics, and other characters who control the will of others, not through total domination, but through a magical spell of love or friendship.
@@ -138,9 +138,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 4
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 4
 - **Attack:**
  - Agility vs. Guard
  - Energy vs. Toughness
@@ -153,9 +153,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 9
 - **Duration:** Resist ends (special) (Fail x 3 = Permanent)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 9
 - **Attack:**
  - Agility vs. Toughness
  - Entropy vs. Toughness
@@ -170,9 +170,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 6 / 8
 - **Duration:** Resist (minor) ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 6 / 8
 - **Attack:**
  - Agility vs. Resolve
  - Energy vs. Resolve
@@ -211,9 +211,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 6
 - **Duration:** Instantaneous
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 6
 - **Attack:**
  - Agility vs. Guard
  - Alteration vs. Guard
@@ -235,9 +235,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 5 / 9
 - **Duration:** Resist ends (Fail x 3 = 1 hour)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 5 / 9
 - **Attack:**
  - Influence vs. Resolve
 - **Description:** Though rare, domination is seen from time to time in legendary tales, often wielded by vampires, and sometimes by the most powerful of sorcerers or mad scientists who command legions of mindless zombies, completely enslaved to their will.
@@ -269,9 +269,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5
 - **Duration:** Special
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5
 - **Attack:**
  - Entropy vs. Toughness
 - **Description:** You cause the target's body to wither and weaken, gradually losing its ability to function until the victim finally succumbs to death. Fatigue may be the result of a necromancer's curse, an assassin's poison, a radiation ray, or similar life sapping effects.
@@ -314,9 +314,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5
 - **Duration:** Special
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5
 - **Attack:**
  - Creation vs. Resolve
  - Entropy vs. Resolve
@@ -336,9 +336,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 2 / 4 / 6 / 8
 - **Duration:** Instantaneous
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 2 / 4 / 6 / 8
 - **Attack:**
  - Agility vs. Guard
  - Energy vs. Guard
@@ -357,9 +357,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1
 - **Duration:** Resist ends (special) (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1
 - **Attack:**
  - Agility vs. Guard
  - Alteration vs. Guard
@@ -382,9 +382,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 7 / 9
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5 / 7 / 9
 - **Attack:**
  - Agility vs. Toughness
  - Entropy vs. Toughness
@@ -411,9 +411,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1
 - **Duration:** Instantaneous
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1
 - **Attack:**
  - Agility vs. Guard
  - Energy vs. Guard
@@ -427,9 +427,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 6 / 8
 - **Duration:** Instantaneous
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5 / 6 / 8
 - **Attack:**
  - Influence vs. Resolve
 
@@ -462,9 +462,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 2 / 4 / 6 / 8 / 9
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 2 / 4 / 6 / 8 / 9
 - **Attack:**
  - Prescience vs. Resolve
 - **Description:** You gaze into the mind of another creature and read their thoughts. The most powerful wielders of this bane can even pry into the distant memories of their subjects. Fortune tellers, psychics, and mentalists all use mind dredge to learn the deepest dreams and darkest secrets of others.
@@ -492,9 +492,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Duration:** Instantaneous
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Attack:**
  - Protection vs. Resolve
 - **Description:** Through magical power, technological hacking, or similar means, you are able to nullify your enemy's boons. The nullify bane is often used by abjurers, engineers, bards, and similar characters built to neutralize the powers of their enemy.
@@ -523,9 +523,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 2 / 4 / 6 / 8 / 9
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 2 / 4 / 6 / 8 / 9
 - **Attack:**
  - Agility vs. Guard
  - Energy vs. Guard
@@ -555,9 +555,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Duration:** Special
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Attack:**
  - Influence vs. Resolve
 - **Description:** You create an illusory manifestation to deceive the senses. Some examples include making a meal taste rotten, altering the data on a screen where a user is logging in, creating the sound of a stampede of 
@@ -597,9 +597,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 6 / 8 / 9
 - **Duration:** Resist ends (Fail x 3 = 1 hour)
 - **Invocation Time:** 1 Minute
-- **Power Level:** 5 / 6 / 8 / 9
 - **Attack:**
  - Alteration vs. Toughness
 \page
@@ -638,9 +638,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 4 / 5 / 6 / 7 / 8 / 9
 - **Duration:** Resist (minor) ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Minor Action
-- **Power Level:** 4 / 5 / 6 / 7 / 8 / 9
 - **Attack:**
  - Agility vs. Resolve
  - Creation vs. Resolve
@@ -668,9 +668,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5
 - **Attack:**
  - Entropy vs. Toughness
 - **Description:** Entropic energy overcomes the target, bombarding their system and inducing nausea that makes self-defense and any kind of action difficult. This bane might stem from a witch's curse, chemical warfare, a powerful poison, or exposure to alien toxins.
@@ -683,9 +683,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 2
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 2
 - **Attack:**
  - Agility vs. Toughness
  - Alteration vs. Toughness
@@ -704,9 +704,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1
 - **Attack:**
  - Agility vs. Guard
  - Energy vs. Guard
@@ -722,9 +722,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 6 / 7 / 9
 - **Duration:** 10 minutes (special)
 - **Invocation Time:** 10 Minutes
-- **Power Level:** 5 / 6 / 7 / 9
 - **Attack:**
  - Prescience vs. Resolve (special)
 - **Description:** Either through innate extrasensory perception or a special conduit such as a computer terminal, bubbling cauldron, or a crystal ball, you can view the target from a distance.
@@ -744,9 +744,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 4
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 4
 - **Attack:**
  - Agility vs. Toughness
  - Energy vs. Toughness
@@ -761,9 +761,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 7
 - **Duration:** Resist ends (Fail x 3 = 1 minute)
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 7
 - **Attack:**
  - Influence vs. Resolve
 - **Description:** The stupefied bane has examples in many stories and legends: a vampire's eyes, a siren's song, and a nymph's beauty are all known to cast a stupor upon the weak-willed. Being stupefied causes a target to be lulled into a false sense of security, tranquility, and pacifism.
@@ -791,9 +791,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5
 - **Duration:** 10 minutes (special)
 - **Invocation Time:** 10 Minutes
-- **Power Level:** 5
 - **Attack:**
  - Influence vs. Resolve
 - **Description:** By controlling the target's mind through compulsion magic, chemical injection, neural probes, or similar means, you render them incapable of lying deliberately. This is a favored bane among enchanters, mad scientists, psychics, and thought police.
@@ -812,9 +812,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 4
 - **Duration:** Permanent
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 4
 - **Attributes:** Alteration, Movement
 - **Description:** By restructuring your bodily composition, creating an extradimensional space, utilizing a cybernetic storage implant, or similar means, you absorb an object into your body, leaving it completely hidden from others and ready for access at a moment's notice.
 - **Effect:** The object remains in place, completely hidden from the perception of others, until the target summons or recalls it (automatically) as a minor action. If anything happens to cancel this boon (such as the nullify bane), the object is immediately shunted out of the target's body as if the object had been withdrawn.
@@ -824,9 +824,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 6 / 8
 - **Duration:** Permanent
 - **Invocation Time:** 8 Hours
-- **Power Level:** 6 / 8
 - **Attributes:** Creation, Entropy, Logic
 - **Description:** You create a being of subhuman intelligence that persists indefinitely and autonomously. It might be a living creature, an undead fiend, a sentient construct, or any similar creation possessing lifelike properties. Examples of this boon in play include a necromancer creating an undead bodyguard, a mad scientist forging a subhuman being from body parts collected from a variety of corpses, and an engineer creating a cyborg from parts collected at a scrap yard.
 - **Effect:** You are able to create an autonomous being from inanimate material components, such as dirt, bones, water, vines, scrap metal, or sand (the materials used are subject to the GM's discretion). To do so, you must first spend 8 hours completing a ritual, experiment, or similar manufacturing process. After this process is complete, make an action roll to invoke this boon. If successful, the inanimate form is permanently imbued with sentience.
@@ -841,9 +841,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 4 / 6 / 8
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 4 / 6 / 8
 - **Attributes:** Alteration, Creation, Energy, Entropy, Influence, Movement, Presence, Prescience, Protection
 - **Description:** You surround a willing target in an aura that hurts their foes or helps their allies. A shield of gamma radiation that burns attackers, a circle of healing, and an aura of elemental protection are all examples of this boon in action.
 - **Effect:** An aura extends from a willing target to a distance determined by the power level of this boon:
@@ -878,9 +878,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 5 / 7 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 5 / 7 / 9
 - **Attributes:** Creation, Energy, Entropy, Protection
 - **Description:** You summon forth a wall of thorns, ring of fire, swarm of robotic pests, cloud of entropic fog, or similar barrier to hurt or hinder your foes.
 - **Effect:** When you invoke this boon, you must use multi-targeting to create a specific area of effect to define the space of your barrier. Upon successful invocation, choose a number of available properties for your wall based on your power level:
@@ -907,9 +907,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5
 - **Attributes:** Alteration, Entropy, Perception, Prescience
 - **Description:** Even in the absence of light you are able to distinguish your surroundings. Some examples of blindsight include tremorsense, echolocation, heat vision, divine insight, or extraordinarily heightened senses.
 - **Effect:** The target is immune to the blinded bane and they are able to see normally even in conditions of little or no light. Blindsight can also potentially counter invisibility, though the GM will have to decide if the source creating the blindsight is appropriate to counter the source creating the invisible boon.
@@ -919,9 +919,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 6 / 8
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 6 / 8
 - **Attributes:** Alteration, Creation, Prescience, Presence
 - **Description:** You bolster your target's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
 - **Effect:** Choose a single attribute. The target gains advantage on their action rolls with that attribute according to the power level of the boon.
@@ -935,9 +935,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Attributes:** Entropy, Influence
 - **Description:** You create an area of illusory darkness or entropic energy that snuffs out all light. This boon is a favorite among illusionists, shadow casters, psions, and mad scientists.
 - **Effect:** Choose a space or object within range. Darkness emanates from the target to a radius equal to five feet per power level of the boon. The effect cancels the effect of all natural light within its radius of effect and creatures that depend on light for vision suffer as though they have the blinded bane while in the area of effect. Creatures that do not depend on light for their vision (if they have tremorsense, blindsight, etc.) are unaffected. If the darkness area overlaps an area affected by the light boon, then the one of greater power level supersedes the other. If the power level of both is equal, then they cancel each other out.
@@ -952,9 +952,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1
 - **Attributes:** Prescience
 - **Description:** You gain extraordinary vision that allows you to see colored auras which correlate to magical, spiritual, or other extraordinary forces. Common examples of this boon include a paladin detecting a suspect's true intentions, a psychic reading the aura of a location, and a cyborg scanning  terrain for signs of life.
 - **Effect:** When calling on this boon, you must choose the type of aura you are detecting: **holy**, **unholy**, **life**, **death**, or **magic**. You can perceive invisible auras pertaining to the chosen type of force and have an approximate sense of their strength (from weak to overwhelming). These auras are usually based on an action that is deliberate, so an otherwise kind shopkeeper would radiate an aura of death for a time after poisoning or killing someone. Even a paladin slaying an evil archmage will give off a radius of death for a time after the killing blow.
@@ -972,9 +972,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 6 / 8
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5 / 6 / 8
 - **Attributes:** Alteration, Movement
 - **Description:** By sprouting wings, activating an anti-gravity device, focusing telekinetic power, or similar means, the target takes to the skies.
 - **Effect:**
@@ -991,9 +991,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 3 / 5 / 7 / 9
 - **Duration:** Instantaneous
 - **Invocation Time:** Special
-- **Power Level:** 1 / 3 / 5 / 7 / 9
 - **Attributes:** Creation
 - **Description:** You create something from nothing. Depending on the power of your invocation, you are able to manifest a wide array of materials, from temporary vegetable matter to permanent crafted goods of remarkable complexity. This boon is commonly invoked by druids to create food or grow plants, and by engineers to jury rig equipment or invent ingenious solutions to complex problems.
 - **Effect:**
@@ -1010,9 +1010,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 2 / 4 / 6 / 8
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 2 / 4 / 6 / 8
 - **Attributes:** Alteration, Movement
 - **Description:** The target moves with extraordinary speed, dodging attacks more deftly and accomplishing actions at an uncanny rate. This may be the result of a chemical injection, psychic enhancement, time-altering magic, or similar means.
 - **Effect:**
@@ -1049,9 +1049,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Duration:** Instantaneous
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Attributes:** Creation, Learning, Logic, Presence
 - **Description:** Healing can be one of two things: the actual mending of wounds and broken bones through sources like medicine, surgery, or supernatural creative life force, or the inspiration of your target to carry on fighting, even in the face of death. This boon is common among clerics, medics, bards, and combat leaders.
 - **Effect:** Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
@@ -1073,9 +1073,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 7
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 7
 - **Attributes:** Alteration, Entropy
 - **Description:** When a creature becomes insubstantial, it is no longer bound by physical barriers. Ghosts, wizards assuming gaseous form, and creatures who blink between dimensions are all exemplars of the insubstantial boon in action.
 - **Effect:** The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their base speed (30' for most characters). While insubstantial, the target becomes immune to all attacks that target either Guard or Toughness. However, they also cannot deliver any attacks that target Guard or Toughness.  If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane 
@@ -1097,9 +1097,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 6
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5 / 6
 - **Attributes:** Alteration, Influence
 - **Description:** The target vanishes from the visible spectrum, either by bending light, creating an illusion, or stepping into an extradimensional space between the fabric of the planes. This boon is a favorite of special ops agents, illusionists, shadow dancers, inventors, and similar characters.
 - **Effect:** Light passes through the target, making them translucent, however their physical form distorts and refracts light in a way that only the keenest sight can perceive. The target gains advantage according to the boon's Power Level on Agility rolls to hide. If completely still, this bonus is doubled. The target's Guard defense is increased against melee and ranged attacks, though it is unchanged against area attacks. When making an attack against target's that can't see you, their Guard defense is reduced. You cannot be the target of opportunity attacks unless the enemy can see you through non-visual means.
@@ -1113,9 +1113,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5
 - **Attributes:** Entropy
 - **Description:** Like the bite of a vampire, the soul draining touch of a black mage, or the life sucking ray gun of a mad supervillain, this boon allows the target to steal the very lifeforce of their foes.
 - **Effect:** While this boon persists, the target heals half (round up) of the damage they inflict with each attack. If an attack damages multiple foes, the target of this boon heals based on the total damage inflicted against all foes.
@@ -1127,9 +1127,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Minor Action
-- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Attributes:** Creation, Energy
 - **Description:** Whether through magical summoning, energy manipulation, or some other means, you illuminate an area with a bright light. An android activating its head lamp, a fire mage creating a dancing torch flame, and an alchemist cracking a glow globe are all examples of this boon in play.
 - **Effect:** Choose a space or object within range. Extraordinary light emanates from the target to a radius 
@@ -1151,9 +1151,9 @@ equal five feet per power level of the boon. If the light area overlaps an area 
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 3 / 5 / 7
 - **Duration:** 1 round
 - **Invocation Time:** 1 Minute
-- **Power Level:** 1 / 3 / 5 / 7
 - **Attributes:** Prescience
 - **Description:** You peer into the future to gain insight into a course of action, an event, a person, or a place. Examples of this boon include a fortune teller throwing the bones, a superhuman detective analyzing evidence, a priest consulting a higher power for direction, and an advanced artificial intelligence calculating every possible outcome of a complex assortment of variables.
 - **Effect:**
@@ -1169,9 +1169,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 6 / 7 / 8 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5 / 6 / 7 / 8 / 9
 - **Attributes:** Prescience
 - **Description:** Through divination magic, extrasensory perception, or far-future forensic technology you analyze an object or place, gaining the ability to read residual information from it and know what has occurred in its vicinity in the past. This boon is common among psychics, detectives, and specialized hunters.
 - **Effect:** When you successfully invoke this boon, you gain information from a target object or place as follows:
@@ -1197,9 +1197,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 3 / 5 / 7 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1 / 3 / 5 / 7 / 9
 - **Attributes:** Alteration, Creation
 - **Description:** The target gains an extraordinary ability to heal their wounds. Examples of this include the supernatural regeneration of a troll, a super soldier's adrenal biomod, or the ability to channel energy that results in continuous healing. Regardless of the source, wounds close before the very eyes of an onlooker.
 - **Effect:** While the regeneration boon is sustained, the target heals hit points at the beginning of each of the _boon invoker's_ turns. The amount of healing is determined by the power level of the boon.
@@ -1217,9 +1217,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 5 / 7 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 5 / 7 / 9
 - **Attributes:** Alteration, Energy, Movement, Protection
 - **Description:** Whether through a magical force field, an elemental wall, self-attaching body armor, or a temporary mutation, the target becomes resistant to the effects of damage from a certain type of attack. This boon is common among abjurers, engineers, telekinetisists, and elemental mages.
 - **Effect:** When the boon is invoked, the invoker chooses 
@@ -1256,9 +1256,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Duration:** Instantaneous
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 1 / 2 / 3 / 4 / 5 / 6 / 7 / 8 / 9
 - **Attributes:** Creation, Protection
 - **Description:** By invoking protective magic, creative force, or similar powers, you cancel all harmful afflictions that are affecting your target. Examples of this boon in action include a cleric breaking enchantments, an engineer deploying a team of rescue bots, or a combat medic applying advanced medical techniques.
 - **Effect:** You can dispel all banes affecting your target of a power level less than or equal to the level at which you invoke this boon.
@@ -1279,9 +1279,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 4 / 5 / 6
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 4 / 5 / 6
 - **Attributes:** Prescience
 - **Description:** You are able to see through the eyes of a willing ally. This power might stem from a psychic link, cybernetic implant, or magical enchantment.
 - **Effect:** For as long as you concentrate, you can see through the eyes of the target, a willing ally. The target 
@@ -1309,9 +1309,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 2 / 3 / 4 / 5 / 6 / 7 / 8
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 2 / 3 / 4 / 5 / 6 / 7 / 8
 - **Attributes:** Alteration
 - **Description:** A target's physical structure is temporarily altered, allowing it to assume the form of potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), amorphous alien lifeforms, dopplegangers, and certain types of druids.
 - **Effect:** The target transforms into a creature whose highest attribute is less than or equal to your Alteration score. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.
@@ -1349,9 +1349,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 4 / 5 / 6 / 7 / 8 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Focus Action
-- **Power Level:** 4 / 5 / 6 / 7 / 8 / 9
 - **Attributes:** Alteration, Creation, Entropy, Energy
 - **Description:** You summon forth a creature to assist your cause, whether they are animals called from the wild, undead minions built from the remains of your foes, or worker bots constructed of spare parts from a salvage yard. This boon is favored by druids, conjurers, engineers, necromancers, and mad scientists.
 - **Effect:** You create or summon a temporary NPC companion that is under your control, though of limited intelligence. Your minion's statistics are determined by the power level of this boon. You may assign the attributes as you see fit among the following: Agility, Fortitude, Might, Perception, Energy, and Entropy. Their attributes do not affect their hit points or defenses.
@@ -1388,9 +1388,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 4 / 5 / 7 / 9
 - **Duration:** 24 hours
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 4 / 5 / 7 / 9
 - **Attributes:** Alteration, Creation, Protection
 - **Description:** You protect the target from environmental dangers or suspend their usual biological needs. Examples include sprouting gills to allow for underwater breathing, calling on a divine power to be sustained without food, and using far-future biomodifications to endure extreme cold.
 - **Effect:** You protect the target from one environmental danger, biological need, or similar condition. The power level of this boon determines the type of conditions you may protect against.
@@ -1407,9 +1407,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 5 / 7 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3 / 5 / 7 / 9
 - **Attributes:** Movement
 - **Description:** You reach out and assume control of an unattended inanimate object. This may stem from latent psychic ability, magical manipulation of the element of air, anti-gravity technology, or similar sources.
  
@@ -1438,9 +1438,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 5 / 6, 7
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 3, 5, 6, 7
 - **Attributes:** Influence, Prescience
 - **Description:** You reach out mentally to a willing target and speak wordlessly with thought-to-thought communication. Examples of this boon in action include a psychic who can connect with the minds of others and a far future artificial intelligence capable of passing information to other beings through the vibration of quantum strings.
 - **Effect:** You and the target can communicate with each other simply through thought. Note that this telepathy does not bestow intelligence upon creatures, so you could not use it to communicate with a squirrel unless you already possessed other means of doing so. 
@@ -1456,9 +1456,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 5 / 7 / 9
 - **Duration:** Instantaneous
 - **Invocation Time:** 1 Move Action
-- **Power Level:** 3 / 5 / 7 / 9
 - **Attributes:** Movement
 - **Description:** You are able to instantly move yourself or an ally from one place to another, either by stepping into an intermediate realm, deconstructing and reforming a physical body, transporting magically, or similar means.
 - **Effect:**
@@ -1485,9 +1485,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 6
 - **Duration:** Sustain Persists
 - **Invocation Time:** 10 Minutes
-- **Power Level:** 5 / 6
 - **Attributes:** Prescience
 - **Description:** You or an ally temporarily gains the ability to read, write, and speak languages that they are otherwise unfamiliar with. This ability may come by channeling interplanar spirits, tapping the power of a super intelligence, making deductions based on an extraordinary understanding of the science of communication, or similar means.
 - **Effect:**
@@ -1500,9 +1500,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 3 / 5 / 7 / 8 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Minute
-- **Power Level:** 3 / 5 / 7 / 8 / 9
 - **Attributes:** Alteration
 - **Description:** You are able to change the size, shape, and composition of physical matter that you touch. Transmute rocks to gold, a wall into a door, or a lump of metal into a loaded gun. This boon is favored among druids, transmuters, engineers, and mad scientists.
 - **Effect:** Your power level determines the types of matter
@@ -1537,9 +1537,9 @@ ___
 <div class="bane-boon-entry"></div>
 
 ___
+- **Power Level:** 5 / 6 / 7 / 8 / 9
 - **Duration:** Sustain Persists
 - **Invocation Time:** 1 Major Action
-- **Power Level:** 5 / 6 / 7 / 8 / 9
 - **Attributes:** Prescience
 - **Description:** You grant yourself or an ally the ability to perceive that which cannot be detected with mundane senses, piercing impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.
 - **Effect:**
