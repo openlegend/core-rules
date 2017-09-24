@@ -118,7 +118,7 @@ A sandbox is so named because, to a certain extent, the players interact with th
 
 Developing a sandbox adventure is similar to developing a sequential one, in that you plan out the logical sequence of events most likely to occur. In this case, however, because the PCs have so much room for decision making, the outline differs slightly. The GM plans out all of the relevant locations to the adventure, perhaps mapping and populating them if necessary. Additionally, the GM will make a list for the key actors in the adventure. The list provides a series of events that will occur if the party does nothing to intervene.
 
-In the above example, Vargax slowly carries out his plan to infiltrate the barbarians while the Collectors are attempting to create leverage so they can avoid an all out war with the tribes. More likely than not, when the adventure actually plays out, the GM won't end up using all of the events outlined because the party *will* do something to intervene.
+In the following example, Vargax slowly carries out his plan to infiltrate the barbarians while the Collectors are attempting to create leverage so they can avoid an all out war with the tribes. More likely than not, when the adventure actually plays out, the GM won't end up using all of the events outlined because the party *will* do something to intervene.
 
 When planning your own sandbox adventures, it's helpful to divide the different factions involved into two categories: active and passive. You only need to create a list of events for the active factions. In the example above, the barbarians are the monkey caught in the middle, and so they are a passive faction. They don't need their own list because the plot that unfurls around them depends on the actions of the competing factions: the Collectors and Vargax.
 
@@ -405,7 +405,7 @@ You gain advantage on lethal strikes equal to your tier in this feat. Additional
    - **Tier 8** - Advantage 8, Up to 25 lethal damage
    - **Tier 9** - Advantage 9, Up to 25 lethal damage
 
-- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
+- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. **All** of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 
 You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
 
