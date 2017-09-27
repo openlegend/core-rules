@@ -671,11 +671,12 @@
   name: Destructive Trance
   prerequisites:
     tier1:
-      Attribute:
-      - Agility: 7 
-      - Might: 7
-      - Energy: 7
-      - Entropy: 7
+      any:
+        Attribute:
+        - Agility: 7 
+        - Might: 7
+        - Energy: 7
+        - Entropy: 7
       Feat:
       - Battle Trance
   tags:
