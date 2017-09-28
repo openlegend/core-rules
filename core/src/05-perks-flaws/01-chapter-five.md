@@ -1,4 +1,4 @@
-# Perks & Flaws #
+# Chapter 5: Perks & Flaws #
 
 In this chapter, you'll find detailed descriptions of the perks and flaws that you can use to round out your character's personality, background, strengths, and weaknesses. Additionally, you'll learn how to activate your perks and flaws to enhance your roleplaying and gain mechanical benefits.
 

@@ -212,7 +212,7 @@ Rather than constantly awarding different experience point values to different a
 
 In addition to power, most players enjoy being able to have more influence on the campaign world by amassing hoards of treasure. With money comes the ability to buy better equipment, employ hirelings, construct fortifications, and even raise armies.
 
-Chapter 5 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
+Chapter 6 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
 
 <div class="table-no-body"></div>
 | Wealth Overview |
@@ -245,7 +245,7 @@ If you or your players have a background with other game systems, in which they 
 
 So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it's still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
 
-**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 5):
+**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 6):
 
 - Characters can easily bribe NPCs with a **lower wealth score.**
 
@@ -348,7 +348,7 @@ Use the NPC Simple Build Table to determine the NPCs's most relevant statistics.
 | 19 | 46 - 58 | 23 - 29 | 10 | 9 |
 | 20 | 48 - 60 | 24 - 30 | 10 | 9 |
 
-Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Feel free to select any feat found in Chapter 3 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
+Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 4. Feel free to select any feat found in Chapter 4 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 

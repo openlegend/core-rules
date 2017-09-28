@@ -1,10 +1,10 @@
 # Chapter 9: Special Equipment #
 
-Chapter 5 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
+Chapter 6 introduced you to the most common types of equipment your characters will make use of. In this chapter, we present rules for specialized equipment that won't see quite as much play time. First, you'll read about extraordinary items: weapons, armor, and other gear that is imbued with magic, forged with extraordinary skill, enhanced with superior technology, or otherwise granted power above and beyond that of mundane equipment. Then, you'll read about mounts and vehicles that your characters can ride or pilot for enhanced mobility and additional tactical options.
 
 ## Extraordinary Items
 
-In Chapter 5, we talked about memorable and extraordinary items and how important they are in stories - items of power, such as King Arthur's **Excalibur**, H.P Lovecraft's **Necronomicon**, Thor's hammer **Mjolnir**, and Frank Herbert's **“The Spice”** (Melange) from the novel *Dune*. Many great stories hinge upon such relics, and in this section, we'll show you how to create them for your Open Legend game.
+In Chapter 6, we talked about memorable and extraordinary items and how important they are in stories - items of power, such as King Arthur's **Excalibur**, H.P Lovecraft's **Necronomicon**, Thor's hammer **Mjolnir**, and Frank Herbert's **“The Spice”** (Melange) from the novel *Dune*. Many great stories hinge upon such relics, and in this section, we'll show you how to create them for your Open Legend game.
 
 In Open Legend, such items of power are called *extraordinary items* because they grant powers beyond those of mundane weapons, armor, and other gear.
 
@@ -18,7 +18,7 @@ However, extraordinary items are so powerful that they have the potential to dra
 
 Extraordinary items are different from weapons, armor, and other gear because they give the wielder access to attributes, banes, and boons that are beyond their current power—or they bolster the attributes, banes, and boons that the wielder can already access. The Extraordinary Items Table outlines a variety of such items spanning many genres. The examples include weapons and gear of powerful magic, alchemy, and technology—and they should provide plenty of inspiration for coming up with your own extraordinary items for your campaign.
 
-**WL (Wealth Level)** indicates the wealth level associated with this extraordinary item. Acquiring the item requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 5: Weapons & Equipment.
+**WL (Wealth Level)** indicates the wealth level associated with this extraordinary item. Acquiring the item requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 6: Weapons & Equipment.
 
 **Attributes** indicate which attributes, if any, the item can make use of. An item can use an attribute to make attacks, invoke banes and boons, and perform other actions that would reasonably fall within the item's capabilities. The wielder spends their own actions to use an item's attributes, but all attribute dice and power levels are determined by the item's attribute score, not the wielder's. The wielder's applicable feats still apply. If the wielder's attribute is greater than the item's by one or two points, they may use their own attribute, and the item instead grants advantage 1 on rolls with that attribute. This bonus can only be applied once to a given attribute, regardless of how many items you wield that possess the attribute.
 
@@ -667,7 +667,7 @@ Typically, mounts and vehicles cannot act independently of their riders, and so 
 Detailed below are a variety of mounts and vehicles to carry your characters across land, sea, sky, and space. These samples represent multiple genres and are not meant to be an exhaustive list. GMs and players should use these examples as guidelines and work together to create stats for additional mounts as necessary to fit their campaigns.
 
 
-**WL (Wealth Level)** indicates the wealth level associated with this particular mount or vehicle. Acquiring one requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 5: Wealth & Equipment.
+**WL (Wealth Level)** indicates the wealth level associated with this particular mount or vehicle. Acquiring one requires a sufficient wealth level and follows all of the rules for wealth established in Chapter 6: Wealth & Equipment.
 
 **Speed** indicates the number of feet the mount or vehicle moves with a single move action.
 

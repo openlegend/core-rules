@@ -242,11 +242,11 @@ You can read the feat descriptions in a searchable list
 
 In a typical game of Open Legend, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
-Usually, though, you begin with a wealth score of 2, and may select up to three items of wealth level 2 and any number of items of a lesser wealth level. See chapter 5 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
+Usually, though, you begin with a wealth score of 2, and may select up to three items of wealth level 2 and any number of items of a lesser wealth level. See chapter 6 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
 
 ## Step 6: Choose Perks and Flaws
 
-Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 4: Perks & Flaws.
+Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 5: Perks & Flaws.
 
 At character creation, you may optionally choose up to two perks and up to two flaws. You do not have to choose any.
 

@@ -1,4 +1,4 @@
-# Chapter 6: Banes & Boons #
+# Chapter 3: Banes & Boons #
 
 Banes and boons are a huge part of what makes Open Legend so open. They represent the endless possibilities of effects that your character can have on other characters beyond simply dealing damage. Banes are negative conditions that you inflict upon your foes, such as by stunning them, demoralizing them, or setting them on fire. Boons are the opposite: helpful effects that assist your allies by allowing them to fly, shrug off damage, or move with extraordinary speed.
 
