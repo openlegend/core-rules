@@ -160,10 +160,10 @@ ___
  - Agility vs. Toughness
  - Entropy vs. Toughness
 - **Description:** Utilizing either incredible precision or the power of entropy, you snuff out the target's life force completely. The deadliest assassins and most powerful necromancers are known for such legendary skill at ending life.
-- **Effect:** Upon a successful invocation, the target is immediately rendered immobile, unconscious, and unable to take actions. They have disadvantage 5 on all perception rolls, and any damaging attacks against them count as finishing blows.
+- **Effect:** Upon a successful invocation, the target is immediately rendered immobile, unconscious, and unable to take actions. They have disadvantage 5 on all Perception rolls, and any damaging attacks against them count as finishing blows.
 
  If the target fails three resist rolls to shake off this bane, they die. The death is permanent and can only be reversed if the GM allows a special mission, use of a rare technology, or long-forgotten magic to restore the target to life.
-- **Special:** While most banes last until the target actively attempts to resist it, this bane renders the target incapable of taking actions and thus prevents them from actively attempting to break free. However, the targets body fights to regain consciousness and resist the impending death. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When the target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
+- **Special:** While most banes last until the target actively attempts to resist it, this bane renders the target incapable of taking actions and thus prevents them from actively attempting to break free. However, the target's body fights to regain consciousness and resist the impending death. As such, at the end of each of its turns, the target receives a resist roll as a free action to break free from the effect. When the target succeeds at a resist roll against this bane, they become immune to all subsequent attempts by you to inflict the bane for the next 24 hours.
 
 ### Demoralized
 
@@ -198,9 +198,9 @@ ___
 - **Description:** Using your quick wit, intimidating presence, or even a strong display of magical power, you cause your enemies to doubt themselves. A berserker might achieve this effect by foaming at the mouth while a swashbuckling space captain might dishearten his foes simply with intimidating words.
 - **Effect:** The affected target has disadvantage on all action rolls.
 
- - **Power Level 3** - Disadvantage 1
- - **Power Level 6** - Disadvantage 2
- - **Power Level 8** - Disadvantage 3
+ - **Power Level 3** - Disadvantage 1.
+ - **Power Level 6** - Disadvantage 2.
+ - **Power Level 8** - Disadvantage 3.
 - **Special:** Resisting this bane is a minor action.
 
 
@@ -500,16 +500,16 @@ ___
 - **Description:** Through magical power, technological hacking, or similar means, you are able to nullify your enemy's boons. The nullify bane is often used by abjurers, engineers, bards, and similar characters built to neutralize the powers of their enemy.
 - **Effect:** You cancel a single boon currently in effect if it is of this bane's power level or lower. The invoking power level further impacts the effect as follows:
 
- - **Power Level 1** - Cancel a boon of Power Level 1. You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute
- - **Power Level 2** - Cancel a boon of Power Level 2
- - **Power Level 3** - Cancel a boon of Power Level 3
- - **Power Level 4** - Cancel a boon of Power Level 4
- - **Power Level 5** - Cancel a boon of Power Level 5
+ - **Power Level 1** - Cancel a boon of Power Level 1. You can cancel a boon that must be actively invoked. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
+ - **Power Level 2** - Cancel a boon of Power Level 2.
+ - **Power Level 3** - Cancel a boon of Power Level 3.
+ - **Power Level 4** - Cancel a boon of Power Level 4.
+ - **Power Level 5** - Cancel a boon of Power Level 5.
  - **Power Level 6** - Cancel a boon of Power Level 6. You can cancel a boon that is permanent, passive, or inherent to the target (e.g. the invisibility of a Will o' Wisp). Effects that would prevent Nullify from being invoked in this way have no effect. In addition, the target cannot benefit from or have the target boon invoked upon them for 1 minute.
- - **Power Level 7** -  Cancel a boon of Power Level 7
- - **Power Level 8** -  Cancel a boon of Power Level 8
- - **Power Level 9** -  Cancel a boon of Power Level 9
-- **Special:** If the targeted boon covers a large area, you can cancel all of it by targeting any portion of the effect you can see, or multi-targeting a number of 5' cubes you believe it to be in. If the targeted boon is affecting an area rather than a creature, you roll against the CR of the boon instead of a Resolve defense. The CR is 10 + 2 x the boons invoked power level.
+ - **Power Level 7** -  Cancel a boon of Power Level 7.
+ - **Power Level 8** -  Cancel a boon of Power Level 8.
+ - **Power Level 9** -  Cancel a boon of Power Level 9.
+- **Special:** If the targeted boon covers a large area, you can cancel all of it by targeting any portion of the effect you can see, or multi-targeting a number of 5' cubes you believe it to be in. If the targeted boon is affecting an area rather than a creature, you roll against the CR of the boon instead of a Resolve defense. The CR is 10 + 2 x the boon's invoked power level.
 
 \page
 
@@ -571,15 +571,15 @@ ___
 - 
 - horses, hiding allies behind a false wall, or creating an illusion of an intergalactic emperor who can converse intelligibly.
 - **Effect:** You create a phantasm of your choosing. The power level at which you invoke the bane determines which senses you can deceive as well as the maximum size of your illusion, as follows:
- - **Power Level 1** - Affect Taste. Manifest a 5' x 5' x 5' area phantasm
- - **Power Level 2** - Affect Smell, Sound, or Touch
- - **Power Level 3** - Affect Sight
- - **Power Level 4** - Manifest a 10' x 10' x 10' area phantasm
- - **Power Level 5** - Manifest a 15' x 15' x 15' area phantasm
- - **Power Level 6** - Affect All Senses
- - **Power Level 7** - Manifest a 20' x 20' x 20' area phantasm
- - **Power Level 8** - Manifest a 30' x 30' x 30' area phantasm
- - **Power Level 9** - Manifest a 50' x 50' x 50' area phantasm
+ - **Power Level 1** - Affect Taste. Manifest a 5' x 5' x 5' area phantasm.
+ - **Power Level 2** - Affect Smell, Sound, or Touch.
+ - **Power Level 3** - Affect Sight.
+ - **Power Level 4** - Manifest a 10' x 10' x 10' area phantasm.
+ - **Power Level 5** - Manifest a 15' x 15' x 15' area phantasm.
+ - **Power Level 6** - Affect All Senses.
+ - **Power Level 7** - Manifest a 20' x 20' x 20' area phantasm.
+ - **Power Level 8** - Manifest a 30' x 30' x 30' area phantasm.
+ - **Power Level 9** - Manifest a 50' x 50' x 50' area phantasm.
 
  Until reaching power level 6, you can combine sensory illusions by adding the required power levels together (e.g., mimicking both sight and sound requires power level 5). While the phantasm persists, you can make logical changes to it freely. For example, an illusory person can speak naturally as you direct it and could be made to fall in response to an attack. However, substantial changes to the illusion (such as transforming a human into a goblin) require a new invocation of the illusion.
 
@@ -614,7 +614,7 @@ ___
 - 
 - 
 - **Description:** You alter the size, shape, and composition of the target by causing them to grow, shrink, or assume a completely new form, like that of a sheep or a newt. Polymorph might be accomplished by a druid's curse, a mad scientist's transmogrification ray, or exposure to alien radiation.
-- **Effect:** Your power level determines the extent to which you can transform your target, as follows. If the target is nto a different creature, it uses the Might, Agility, Fortitude, and Perception attribute scores of the new creature.
+- **Effect:** Your power level determines the extent to which you can transform your target, as follows. If the target is not a different creature, it uses the Might, Agility, Fortitude, and Perception attribute scores of the new creature.
  - **Power Level 5** - Polymorph a creature into another creature of the same size. This effect can reduce the target's attribute scores by up to 2. If the new form would have higher attributes, the target becomes an exceptional version of that creature. For example, transforming a deadly sniper with Agility 5 into a clumsy ogre with Agility 0, would leave the target with an Agility of 3 instead of the 0 typical for the new form.
  
 
@@ -926,9 +926,9 @@ ___
 - **Description:** You bolster your target's chances of success via inspiration, augmentation, divine blessing, or supernatural insight. Your target becomes more competent than they normally are. You might grant the sight of an eagle, the problem solving skills of an elite computer hacker, or the social grace of a trained courtier.
 - **Effect:** Choose a single attribute. The target gains advantage on their action rolls with that attribute according to the power level of the boon.
 
- - **Power Level 3** - Advantage 1
- - **Power Level 6** - Advantage 2
- - **Power Level 8** - Advantage 3
+ - **Power Level 3** - Advantage 1.
+ - **Power Level 6** - Advantage 2.
+ - **Power Level 8** - Advantage 3.
  
 ### Darkness
 
@@ -997,8 +997,7 @@ ___
 - **Attributes:** Creation
 - **Description:** You create something from nothing. Depending on the power of your invocation, you are able to manifest a wide array of materials, from temporary vegetable matter to permanent crafted goods of remarkable complexity. This boon is commonly invoked by druids to create food or grow plants, and by engineers to jury rig equipment or invent ingenious solutions to complex problems.
 - **Effect:**
-
- - **Power Level 1** - You can create _temporary_ non-sentient matter (plants, dirt, water, vines, etc.), anything created in this way deteriorates or decomposes to become useless after 1 hour. Using this boon you can create 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 10 minutes.
+ - **Power Level 1** - You can create _temporary_ non-sentient matter (plants, dirt, water, vines, etc.), anything created in this way deteriorates or decomposes, becoming useless after 1 hour. Using this boon you can create 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 10 minutes.
  - **Power Level 3** - You can create _permanent_ non-sentient matter (plants, dirt, water, vines, etc.). Using this boon you can either create enough food for 1 person or 1 cubic foot of nonliving matter per attribute point of the invoking attribute. The invocation time for this application is 1 hour.
  - **Power Level 5** - The quantity of _permanent_ non-sentient matter (plants, dirt, water, vines, etc.). you can create expands, you can now produce 5 cubic feet per attribute point of the invoking attribute.
  - **Power Level 7** - You can create _permanent_ mundane and organically complex or dense non-sentient matter, such as gems, iron, or marble. The resulting object's value can't be greater than a Wealth Level 2 item. You produce 1 cubic foot of such matter per attribute point of the invoking attribute. The invocation time for this application is 8 hours.
@@ -1056,15 +1055,15 @@ ___
 - **Description:** Healing can be one of two things: the actual mending of wounds and broken bones through sources like medicine, surgery, or supernatural creative life force, or the inspiration of your target to carry on fighting, even in the face of death. This boon is common among clerics, medics, bards, and combat leaders.
 - **Effect:** Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
 
- - **Power Level 1** - Heal 1d4
- - **Power Level 2** - Heal 1d6
- - **Power Level 3** - Heal 1d8
- - **Power Level 4** - Heal 1d10
- - **Power Level 5** - Heal 2d6
- - **Power Level 6** - Heal 2d8
- - **Power Level 7** - Heal 2d10
- - **Power Level 8** - Heal 3d8
- - **Power Level 9** - Heal 3d10
+ - **Power Level 1** - Heal 1d4.
+ - **Power Level 2** - Heal 1d6.
+ - **Power Level 3** - Heal 1d8.
+ - **Power Level 4** - Heal 1d10.
+ - **Power Level 5** - Heal 2d6.
+ - **Power Level 6** - Heal 2d8.
+ - **Power Level 7** - Heal 2d10.
+ - **Power Level 8** - Heal 3d8.
+ - **Power Level 9** - Heal 3d10.
 
 - **Special:** This boon does not heal lethal damage.
 
