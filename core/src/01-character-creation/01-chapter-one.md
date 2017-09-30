@@ -242,11 +242,11 @@ You can read the feat descriptions in a searchable list
 
 In a typical game of Open Legend, your character will start with the gear they need for the basic adventuring life. The GM, however, may decide that the campaign starts under special circumstances (such as the entire party caged in a slave convoy) that might dictate otherwise.
 
-Usually, though, you begin with a wealth score of 2, and may select up to three items of wealth level 2 and any number of items of a lesser wealth level. See chapter 5 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
+Usually, though, you begin with a wealth score of 2, and may select up to three items of wealth level 2 and any number of items of a lesser wealth level. See chapter 6 for rules concerning wealth as well as equipment details. After selecting your equipment, be sure to note any changes to your defenses or other statistics.
 
 ## Step 6: Choose Perks and Flaws
 
-Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 4: Perks & Flaws.
+Perks and flaws provide you with additional ways to define your character's personality, appearance, strengths, weaknesses, and background. Complete descriptions of the available perks and flaws, as well as how they are used in play, are described in Chapter 5: Perks & Flaws.
 
 At character creation, you may optionally choose up to two perks and up to two flaws. You do not have to choose any.
 
@@ -377,31 +377,30 @@ _**Longspear**_ (damaging attack, 10’ reach): Might vs. Guard, advantage 1
 
 The Beast Master summons and commands the creatures of the wild, and is
 capable of taming even monsters of great legend, such as dragons and
-manticores. At home in the wilderness, Beast Masters even possess magic
-to control plants, earth, and other natural elements.
+manticores.
 
 #### Strategy
 
 The Beast Master commands a legendary manticore, which serves as both
 mount and combatant. The manticore’s flight allows the Beast Master
 access to areas that might be out of reach for the rest of the party.
-Out of combat, Beast Masters can wield Alteration magic to shape the
-terrain, transmute materials, or even summon creatures to aid in manual
-labor and mundane tasks.
+Out of combat, Beast Masters can use their Influence attribute to soothe
+and command a wide array of animals and mythical beasts, gradually winning
+their loyalty.
 
 Once combat ensues, the Beast Master takes to the sky, picking off foes
-with a longbow and commanding summoned creatures to gain control over
+with a longbow and commanding dominated creatures to gain control over
 the battlefield. When their arrows aren’t getting the job done, the
 Beast Master doesn’t hesitate to close into melee and let the manticore
 tear foes to shreds with its razor sharp claws or disable them with its
 venomous sting.
 
-**Attributes:** Agility 4 (1d10), Fortitude 3 (1d8), Might 1 (1d4),
-Perception 3 (1d8), Will 3 (1d8), Presence 1 (1d4), Influence 4 (1d10) \
+**Attributes:** Agility 4 (1d10), Fortitude 2 (1d6), Might 1 (1d4),
+Perception 3 (1d8), Will 2 (1d6), Presence 1 (1d4), Influence 5 (2d6) \
 **Hit Points:** 24 \
 **Guard:** 17 (Agility 4, Might 1, Breastplate 2) \
-**Toughness:** 16 \
-**Resolve:** 14 \
+**Toughness:** 14 \
+**Resolve:** 13 \
 **Speed:** 30’
 
 **Feats:** Companion III
@@ -414,8 +413,8 @@ _**Longbow**_ (damaging attack): Agility vs. Guard \
 _**Barbed Arrow**_ (inflict *persistent damage*): Agility vs. Guard,
 advantage 1 \
 _**Longspear**_ (damaging attack, 10’ reach): Agility vs. Guard, advantage 1 \
-_**Charm Animal**_ (inflict *charmed*): Influence vs. Resolve \
-_**Command Animal**_ (inflict *dominated*): Influence vs. Resolve
+_**Charm Beast**_ (inflict *charmed*): Influence vs. Resolve \
+_**Command Beast**_ (inflict *dominated*): Influence vs. Resolve
 
 #### Manticore Companion
 
@@ -730,8 +729,8 @@ scare enemies away with *fear*.
 
 **Favored Actions** \
 
-_**Two-Gun Assault**_ (damaging attacks): Two attacks. Agility vs. Guard \
-_**Fan the Hammer**_ (damaging attacks): Three attacks. Agility vs. Guard, disadvantage 3 \
+_**Two-Gun Assault**_ (focus action, damaging attack, 2 attacks): Agility vs. Guard \
+_**Fan the Hammer**_ (focus action, damaging attack, 3 attacks): Agility vs. Guard, disadvantage 3 \
 _**Bounty's Curse**_ (inflict *stunned*): Entropy vs. Toughness \
 _**Toe Shot**_ (inflict *slowed*): Agility vs. Guard. advantage 1 \
 _**Hand Shot**_ (inflict *disarmed*): Agility vs. Guard, advantage 1 \

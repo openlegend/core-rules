@@ -122,7 +122,7 @@ First, choose the most logical attribute for the type of attack you are making. 
 
 **Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise* property will determine which attribute to use.
 
-**Non-physical attacks** are those that make use of one of the attacker's attributes other than Might or Agility, such as by using Energy to summon a ball of fire or Logic to spring a trap. A character can only make a non-physical attack if they possess a score of 1 or higher in the relevant attribute.
+**Non-physical attacks** are those that make use of one of the attacker's attributes other than Might or Agility, such as by using Energy to summon a ball of fire or Logic to spring a trap. A character can only make a non-physical attack with an extraordinary attribute if they possess a score of 1 or higher in the relevant attribute.
 
 Once you have chosen your attacking attribute, determine an appropriate defense (Guard, Toughness, or Resolve) to use as the Challenge Rating for your attack, as follows.
 

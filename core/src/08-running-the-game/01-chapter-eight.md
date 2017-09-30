@@ -118,7 +118,7 @@ A sandbox is so named because, to a certain extent, the players interact with th
 
 Developing a sandbox adventure is similar to developing a sequential one, in that you plan out the logical sequence of events most likely to occur. In this case, however, because the PCs have so much room for decision making, the outline differs slightly. The GM plans out all of the relevant locations to the adventure, perhaps mapping and populating them if necessary. Additionally, the GM will make a list for the key actors in the adventure. The list provides a series of events that will occur if the party does nothing to intervene.
 
-In the above example, Vargax slowly carries out his plan to infiltrate the barbarians while the Collectors are attempting to create leverage so they can avoid an all out war with the tribes. More likely than not, when the adventure actually plays out, the GM won't end up using all of the events outlined because the party *will* do something to intervene.
+In the following example, Vargax slowly carries out his plan to infiltrate the barbarians while the Collectors are attempting to create leverage so they can avoid an all out war with the tribes. More likely than not, when the adventure actually plays out, the GM won't end up using all of the events outlined because the party *will* do something to intervene.
 
 When planning your own sandbox adventures, it's helpful to divide the different factions involved into two categories: active and passive. You only need to create a list of events for the active factions. In the example above, the barbarians are the monkey caught in the middle, and so they are a passive faction. They don't need their own list because the plot that unfurls around them depends on the actions of the competing factions: the Collectors and Vargax.
 
@@ -212,18 +212,18 @@ Rather than constantly awarding different experience point values to different a
 
 In addition to power, most players enjoy being able to have more influence on the campaign world by amassing hoards of treasure. With money comes the ability to buy better equipment, employ hirelings, construct fortifications, and even raise armies.
 
-Chapter 5 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
+Chapter 6 explains Open Legend's simplified wealth system, and the Wealth Overview Table indicates the typical wealth score of PCs at varying experience levels. Players start with a wealth score of 2, and it will increase whenever the GM decides. Just as experience levels represent a vast increase in power, new wealth scores drastically improve the players' access to valuable goods. A character who goes from wealth 3 to 4, for example, has progressed from being able to purchase a fine horse to being able to buy a siege engine.
 
 <div class="table-no-body"></div>
 | Wealth Overview |
 | - |
 | |
 
-| Wealth Score | Sample Lifestyles | Sample Goods |
+| Wealth Score | Example Lifestyles | Example Expenditures |
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 2 | skilled laborer, town guard, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
 | 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
@@ -245,7 +245,7 @@ If you or your players have a background with other game systems, in which they 
 
 So, when a combat encounter ends, instead of listing off how many crossbow bolts each bandit has on them, just tell the party that they find a few valuables to add to their ever-growing stash, but that it's still not enough to increase their wealth score. If a player does legitimately need another clip of ammo or another dagger or a new cloak, then you can decide whether or not it makes sense for the NPCs to have them.
 
-**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 5):
+**Wealth represents influence.** Since players aren't tracking individual gold pieces, dollars, or gems, situations like bribery might initially prove to be a bit sticky. But a good guideline is that a character can use money to influence someone in the same way they use their wealth score to purchase goods (as described in Chapter 6):
 
 - Characters can easily bribe NPCs with a **lower wealth score.**
 
@@ -348,7 +348,7 @@ Use the NPC Simple Build Table to determine the NPCs's most relevant statistics.
 | 19 | 46 - 58 | 23 - 29 | 10 | 9 |
 | 20 | 48 - 60 | 24 - 30 | 10 | 9 |
 
-Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 3. Feel free to select any feat found in Chapter 3 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
+Once you have the basic statistics recorded, choose a few of the following feats to provide your NPC enemy with special attacks and abilities. These feat descriptions have been simplified from the list provided in Chapter 4. Feel free to select any feat found in Chapter 4 as well, if it helps tell the NPC's story. Some of these are new feats that are only available to GM controlled NPCs.
 
 - **Attack Specialization (tier equal to NPC level, max 9):** With one attack type, gain advantage 1 per tier. This bonus does not apply to bane attacks or boon invocations.
 
@@ -405,7 +405,7 @@ You gain advantage on lethal strikes equal to your tier in this feat. Additional
    - **Tier 8** - Advantage 8, Up to 25 lethal damage
    - **Tier 9** - Advantage 9, Up to 25 lethal damage
 
-- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. ALL of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
+- **Multi-Attack Specialist (tier equals NPC level, max 6):** Before attacking, you may declare that you are multi-attacking, and must state how many extra attacks you would like to make. **All** of your attacks this round suffer disadvantage equal to 3 times the number of **additional** attacks you declare (i.e., if you make 2 attacks, you suffer disadvantage 3; 3 attacks suffers disadvantage 6). For each tier of this feat that you possess, reduce the disadvantage penalty by 1.
 
 You may use your attacks to make any combination of bane or damaging attacks, but you may not invoke boons. Resolve each attack individually, applying any other multi-targeting options as you wish. You can move between each of these attacks and they can be used to target the same creature more than once.
 
