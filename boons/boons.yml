@@ -145,9 +145,9 @@
   effect: |
     Choose a single attribute. The target gains advantage on their action rolls with that attribute according to the power level of the boon.
     <ul>
-    <li><strong>Power Level 3</strong> - Advantage 1</li>
-    <li><strong>Power Level 6</strong> - Advantage 2</li>
-    <li><strong>Power Level 8</strong> - Advantage 3</li>
+    <li><strong>Power Level 3</strong> - Advantage 1.</li>
+    <li><strong>Power Level 6</strong> - Advantage 2.</li>
+    <li><strong>Power Level 8</strong> - Advantage 3.</li>
     </ul>
 - !
   name: Darkness
@@ -290,15 +290,15 @@
   effect: |
     Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <ul>
-    <li><strong>Power Level 1</strong> - Heal 1d4 </li>
-    <li><strong>Power Level 2</strong> - Heal 1d6 </li>
-    <li><strong>Power Level 3</strong> - Heal 1d8 </li>
-    <li><strong>Power Level 4</strong> - Heal 1d10 </li>
-    <li><strong>Power Level 5</strong> - Heal 2d6 </li>
-    <li><strong>Power Level 6</strong> - Heal 2d8 </li>
-    <li><strong>Power Level 7</strong> - Heal 2d10 </li>
-    <li><strong>Power Level 8</strong> - Heal 3d8 </li>
-    <li><strong>Power Level 9</strong> - Heal 3d10 </li>
+    <li><strong>Power Level 1</strong> - Heal 1d4.</li>
+    <li><strong>Power Level 2</strong> - Heal 1d6.</li>
+    <li><strong>Power Level 3</strong> - Heal 1d8.</li>
+    <li><strong>Power Level 4</strong> - Heal 1d10.</li>
+    <li><strong>Power Level 5</strong> - Heal 2d6.</li>
+    <li><strong>Power Level 6</strong> - Heal 2d8.</li>
+    <li><strong>Power Level 7</strong> - Heal 2d10.</li>
+    <li><strong>Power Level 8</strong> - Heal 3d8.</li>
+    <li><strong>Power Level 9</strong> - Heal 3d10.</li>
     </ul>
   special: |
     This boon does not heal lethal damage.
