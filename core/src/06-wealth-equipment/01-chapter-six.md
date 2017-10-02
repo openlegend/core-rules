@@ -1,10 +1,9 @@
-
-# Chapter 5: Wealth & Equipment #
+# Chapter 6: Wealth & Equipment #
 
 No story of heroic deeds is complete without equally heroic gear, weapons and armor. Indiana Jones had his whip, King Arthur had *Excalibur*, and Bilbo had his mithril shirt. In this chapter, you'll learn everything you need to know about how to equip your character at first level and beyond, as well as how to keep track of your wealth as you claim space pirate bounties and dip your hands in the coffers of kings.
 
 ## Wealth
-Rather than tracking every gold piece, credit, or fine art object that you acquire over the course of your adventures, Open Legend uses a simplified wealth system.
+Rather than tracking every gold piece, credit, or fine art object acquired over the course of your adventures, Open Legend uses a simplified wealth system.
 
 Every character has a wealth score, which begins at 2 and can range from 0 to 9, fluctuating up and down as you acquire and spend your riches. Your wealth score provides a general description of how well-off you are and the typical types of goods and services you can acquire. The Wealth Overview table describes the typical lifestyles and available goods for each wealth score.
 
@@ -13,11 +12,11 @@ Every character has a wealth score, which begins at 2 and can range from 0 to 9,
 | - |
 | |
 
-| Wealth Score | Sample Lifestyles | Sample Goods |
+| Wealth Score | Example Lifestyles | Example Expenditures |
 | :-: | :----- | :----- |
 | 0 | beggar, street urchin | 3 square meals and a warm bed |
 | 1 | unskilled laborer | a night on the town, leather armor, simple weapons |
-| 2 | skilled laborer, town guardsman, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
+| 2 | skilled laborer, town guard, 1st level hero | martial weapons, all-terrain vehicle, chainmail armor, a good horse |
 | 3 | master artisan, village mayor | armored trench coat, silver bullets, a small boat, a fine horse, a nice car |
 | 4 | 4th level hero, noble, city mayor | elven full plate, a light tank, a small ship, a siege engine |
 | 5 | lord of a realm, mob boss in a large city | a large cargo ship, a city wall, a heavily armored tank, weapons to outfit a small militia |
@@ -68,11 +67,11 @@ You can carry up to twenty pieces of gear. No more. Only track the items that wi
 
 Multiple items of a similar nature that can be stowed together, such as twenty arrows in a quiver or a belt of healing potions, only count as a single item. The GM can use their own discretion to apply common sense limits if necessary. For example, even though technically 1000 clips of ammo would count as a single item, the GM is free to rule that a PC can't carry them or that they would count as a *bulky* item (see below).
 
-### Maximum *Heavy* Items Equals Might Score
+### Maximum Heavy Items Equals Might Score
 
 Some items have the *heavy* property. You can carry a number of *heavy* items equal to your Might score. Once you're carrying your maximum number of *heavy* items, your speed is cut in half. A character with a zero Might score cannot carry any heavy items.
 
-### One (Maybe Two) *Bulky* Items
+### One (Maybe Two) Bulky Items
 
 Some items have the *bulky* property. You can carry one *bulky* item at no penalty. You can carry a second *bulky* item, but your speed is reduced to 5'.
 
@@ -108,7 +107,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Properties** are the descriptors that make each weapon unique from others. These properties translate to specific game mechanics described below.
 
-**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack.
+**Banes** indicate specific banes that the weapon is particularly effective at inflicting. When an attacker uses the weapon to inflict one of the listed banes, they may treat the power level as reduced by one for purposes of meeting bane invocation attribute prerequisites, which the attacker still must meet. In addition, if you make a bane attack with the weapon, you get advantage 1 on the attack. Some special weapons list banes not normally invoked via Agility or Might. In those cases, the attacking attribute can be used to invoke the bane.
 
 
 <div class="table-no-body"></div>
@@ -119,36 +118,37 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 | Examples | Category | WL | Properties | Banes |
 | :---- | :-: | :-: | :---- | :---- |
-| Unarmed Strike | One-handed Melee | 0  | Forceful, Precise, Swift | Stunned, Knockdown |
+| Unarmed Strike | One-handed Melee | 0 | Forceful, Precise, Swift | Stunned, Knockdown |
 | Bowie Knife, Shiv, Multi-tool | One-handed Melee | 2 | Precise, Swift | Persistent Damage, Disarmed |
-| Scimitar, Short Sword, Machete, Sawblade | One-handed Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
-| Blow Gun, Dart | Close Ranged | 1 | Forceful, Precise | Immobile |
+| Scimitar, Shortsword, Machete, Sawblade | One-handed Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
+| Blow Gun, Dart | Close Ranged | 1 | Precise | Immobile |
 | Hatchet, Dagger | Close Ranged, One-handed Melee | 2 | Forceful, Precise, Swift | Persistent Damage, Disarmed |
-| Longsword, Katana, Falchion | Versatile Melee | 1 | Forceful, Precise | Persistent Damage, Disarmed |
-| Mace, Baseball Bat, Club, Improvised Weapon, Warhammer | One-handed Melee | 1 | Forceful | Knockdown, Stunned, Forced Move |
-| Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 1 | Forceful, Precise, Heavy | Forced Move, Knockdown |
-| Chainsaw | Two-handed Melee | 1 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
-| Short Spear | Versatile Melee, Short Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
-| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 1 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
-| Long Spear | Two-handed Melee, Close Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
+| Longsword, Katana, Falchion | Versatile Melee | 2 | Forceful, Precise | Persistent Damage, Disarmed |
+| Baseball Bat, Club, Improvised Weapon | One-handed Melee | 1 | Forceful | Knockdown, Stunned |
+| Mace, Warhammer | One-handed Melee | 2 | Forceful | Knockdown, Stunned, Forced Move |
+| Greatsword, No-dachi, Claymore, Bastard Sword | Two-handed Melee | 2 | Forceful, Precise, Heavy | Forced Move, Knockdown |
+| Chainsaw | Two-handed Melee | 2 | Forceful, Heavy | Persistent Damage, Demoralized, Provoked, Fear |
+| Shortspear | Versatile Melee, Short Ranged | 1 | Forceful, Precise | Persistent Damage, Disarmed, Immobile |
+| Sledge Hammer, Maul, Great Axe | Two-handed Melee | 2 | Forceful, Heavy | Knockdown, Forced Move, Stunned |
+| Longspear | Two-handed Melee, Close Ranged | 2 | Forceful, Precise, Reach | Persistent Damage, Disarmed, Immobile |
 | Pitchfork, Staff | Two-handed Melee | 1 | Forceful | Knockdown, Immobile, Forced Move |
 | Glaive, Halberd, Naginata | Two-handed Melee | 2 | Forceful, Reach | Knockdown, Immobile, Forced Move |
 | Flamethrower | Two-handed Melee | 3 | Precise, Slow, Area (5' / 10' cone) | Fear, Persistent Damage |
-| Laser Gun, Revolver, Handgun | Close Ranged | 1 | Precise | Persistent Damage, Slowed |
+| Laser Pistol, Revolver, Handgun | Short Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Grenade, Firebomb Elixir | Close Ranged | 2 | Precise, Expendable, Area (10' cube) | Persistent Damage, Knockdown, Forced Move |
-| Light Crossbow | Medium Ranged | 1 | Precise | Persistent Damage, Immobile |
+| Light Crossbow | Medium Ranged | 2 | Precise | Persistent Damage, Immobile |
 | Sawed-off Shotgun | Short Ranged | 2 | Precise, Slow, Area (10' cone) | Persistent Damage, Stunned, Forced Move |
-| Shortbow, Pump Shotgun | Medium Ranged | 1 | Precise | Slowed, Persistent Damage, Knockdown |
+| Shortbow, Pump Shotgun | Medium Ranged | 2 | Precise | Slowed, Persistent Damage, Knockdown |
 | Submachine Gun, M16 | Medium Ranged | 3 | Precise, Area (10' cube) | Persistent Damage, Provoked, Demoralized |
-| Heavy Crossbow, Longbow, Rifle | Long Ranged | 1 | Precise | Persistent Damage, Slowed |
-| Sniper Rifle, Phase Rifle | Extreme Ranged | 4 | Precise, Slow, Delayed Ready | Persistent Damage, Slowed |
+| Heavy Crossbow, Longbow, Rifle | Long Ranged | 2 | Precise | Persistent Damage, Slowed |
+| Sniper Rifle, Laser Rifle | Extreme Ranged | 2 | Precise | Persistent Damage, Slowed |
 | Cannon | Extreme Ranged | 2 | Precise, Slow, Area (15' square), Delayed Ready, Heavy, Stationary | Persistent Damage, Forced Move, Stunned |
 | Small Shield | One-handed Melee | 2 | Forceful, Defensive 1 | Forced Move, Stunned, Knockdown |
 | Riot Shield, Tower Shield | One-handed Melee | 3 | Forceful, Defensive 2 | Forced Move, Stunned, Knockdown |
 
 > ### Weapons and Game Balance
 >
-> Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a short sword over a long sword, mechanically speaking, because they are identical except that a long sword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a short sword over a long sword. A newly formed thieves guild, for example, might not have the resources to equip everyone with long swords, so their low-level agents might be equipped with short swords.
+> Open Legend often stresses narrative over balance, and this is especially true when it comes to weapons. Not all weapons will be perfectly balanced (just as they aren't in real life), and so some weapons will often see play more than others. For example, a character would have little reason to use a shortsword over a longsword, mechanically speaking, because they are identical except that a longsword has the versatility of being used in either one or two hands. However, that does not mean that the narrative will never favor or require a shortsword over a longsword. A newly formed thieves guild, for example, might not have the resources to equip everyone with longswords, so their low-level agents might be equipped with shortswords.
 
 ### Properties
 
@@ -156,11 +156,11 @@ The Weapons & Implements table provides information about a wide variety of gear
 
 **Expendable** - An expendable item can be used once to make an attack. Afterwards, the item is expended and cannot be used again.
 
-**Defensive** - A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you do not gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.
+**Defensive** - A defensive weapon grants advantage equal to the listed value when its wielder takes the *defend* action. Additionally, you gain a +1 armor bonus when wielding a defensive weapon (regardless of the *defensive* value listed). While wielding an item with the *defensive* property, you don't gain the advantage 1 to attacks normally associated with Melee One-handed or Two-handed weapons. A weapon cannot have a *defensive* value greater than 3.
 
-**Delayed Ready** - the weapon cannot be used more than once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
+**Delayed Ready** - This weapon can only be used once per round. In addition, prior to using the weapon, the wielder must spend a move action to ready it.
 
-**Forceful** - This weapon can be used to make attacks with the Might attribute and invoke banes accessible via Might.
+**Forceful** - This weapon can make attacks with the Might attribute and invoke banes accessible via Might.
 
 **Heavy** - The weapon is particularly heavy to carry. You may carry a maximum number of *heavy* items equal to your Might score.
 
@@ -187,7 +187,7 @@ The Weapons & Implements table provides information about a wide variety of gear
 > \
 > \
 > **Mixing Tech Levels** \
-> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would receive advantage 3 on such actions.
+> You may encounter situations in which one group has a significant technological advantage over another group, such as an intergalactic empire (tech level 3) waging war upon a primitive civilization (tech level 0). In cases like these, the GM may assign blanket advantage or disadvantage to actions equal to the difference of the opposing tech levels. Using the previous example, the primitive civilization would receive disadvantage 3 on all actions in which the technology disparity plays an important role, while the intergalactic empire would conversely have advantage 3.
 
 \
 \
@@ -205,7 +205,7 @@ The Armor table summarizes the following properties of each type of armor:
 
 **Wealth Level** is an indication of how expensive the armor is to purchase. See the **Wealth** section earlier in this chapter for an explanation of how that works.
 
-**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the appropriate Fortitude score, a character cannot benefit from the protection afforded by the armor.
+**Required Fortitude** lists the minimum Fortitude attribute score that a character requires in order to wear the armor. Without the requisite Fortitude score, a character cannot benefit from the protection it affords.
 
 **Defense Bonus** indicates the bonus that your character gains to their Guard defense.
 
@@ -234,7 +234,7 @@ Donning and removing armor takes 1 round for light armor, 1 minute for medium ar
 
 ## Building Your Own Weapons
 
-Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in making your character or campaign setting unique by creating stats for your own home brewed weapons. To do so, simply follow the five step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
+Previously, we detailed the mechanical benefits of a variety of sample weapons. But you may be interested in customizing your character or campaign setting with new home brewed weapons. To do so, simply follow the four step process explained in this section. Every weapon begins with a default wealth level of 1, and may be increased or decreased at various stages of this process.
 
 ### Step 1: Choose a Category
 
@@ -248,8 +248,8 @@ Next, choose any additional properties that the weapon possesses. Properties adj
 
 | Property | WL Modifier |
 | :-: | :-: |
-| Area | Equal to the total disadvantage incurred by the area from multi-targeting (see Chapter 7: Combat) |
-| Defensive | Equal to the *defensive* value |
+| Area | + disadvantage penalty incurred by the area via multi-targeting (see Chapter 7: Combat) |
+| Defensive | + *defensive* value |
 | Delayed Ready | -1 |
 | Expendable | -1 |
 | Heavy | 0 |
@@ -264,24 +264,23 @@ Weapons are distinguished in terms of combat style and effectiveness by the bane
 
 ### Step 4: Calculate Wealth Level
 
-All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions from your choices in Step 2 and Step 3.
+All weapons (with the exception of unarmed strike), begin with a base wealth level of 1. From there, calculate the wealth level of the weapon based on the decisions you made in steps 2 and 3. Then, compare the weapon to others of similar power. If necessary, adjust the wealth level up or down slightly so that it is an accurate representation of the item's overall influence on the story and intended power level compared to other items.
+
 
 > #### Weapon Building Example: Kusari-Gama (Chain & Sickle)
 >
-> Let's build our own weapon as an example. The kusaria-gama is a very unique weapon from Japanese history which is a combination of a chain and a kama (typical farming implement).
+> The kusaria-gama is an unique weapon from Japanese history. It is a combination of a chain and a kama (traditional farming implement).
 >
 > **Step 1 (Choose a Category)**
-> While the kusari-gama might typically be used as a short bladed melee weapon, it can also be swung via its long chain. As such, we will give it both the *one-handed melee* and *close ranged* categories.
+> While the kusari-gama can be used as a short bladed melee weapon, its chain can also be swung long distances. As such, we will give it both the *one-handed melee* and *close ranged* categories.
 >
 > **Step 2 (Choose Properties)**
-> Because the kusari-gama could be wielded either with nimble precision or a mighty swing of the chain or sickle, we will give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks gives it the *defensive 1* property, and also the *reach* property for striking at a distance. Lastly, swinging the weapon is very time-consuming, so we will give it the *slow* property.
+> Because the kusari-gama can be wielded either with nimble precision or a mighty swing, lets give it both the *precise* and *forceful* properties. For extra flavor, we will say that the chain's ability to intercept and deflect attacks merits the *defensive 1* property, and also the *reach* property for striking at a distance. Because swinging the weapon is time-consuming, we will also give it the *slow* property.
 >
 > **Step 3 (Choose Banes)**
-> In terms of combat style, the kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will say it has the following banes associated: *forced move*, *immobile*, *knockdown*, and *provoked*.
+> The kusari-gama can be used to pull, trip, entangle, and threaten enemies in a wide area, as such we will give it the *forced move*, *immobile*, *knockdown*, and *provoked* banes.
 >
 > **Step 4 (Calculate Wealth Level)**
 > The total wealth level modifier of the properties chosen in step 2 is +1. Added to the base wealth level of 1, we arrive at a final wealth level of 2 for our kusari-gama.
-
-
 
 

@@ -18,7 +18,7 @@ When the GM declares that combat will begin, the game is separated into rounds. 
 
 ### Determining Surprise
 
-In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits' Agility roll. Any PC who fails the check is surprised. The GM decides when some or all combatants may be surprised.
+In any combat, one or more combatants may be surprised if their enemy catches them off guard or unaware. For example, if a pack of bandits lays an ambush for the PCs in a rocky chasm, the GM may have every member of the party make a Perception roll contested by the bandits' Agility roll. Any PC who fails the roll is surprised. The GM decides when some or all combatants may be surprised.
 
 Surprised characters always act after non-surprised characters, as explained in the rules for initiative. Furthermore, until a surprised character takes their first turn, they may not take any interrupt actions and all attacks made against them gain advantage 1.
 
@@ -30,13 +30,13 @@ When taking turns in combat, characters act in order from highest initiative sco
 
 **Note:** If any character is wielding a weapon with the *swift* property at the beginning of combat, they gain advantage 2 on their initiative. A character may also gain this benefit even if they are not wielding the weapon at the beginning of combat, but in doing so they commit themselves to drawing the weapon on their first turn.
 
-If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, after which characters in the surprised order act.
+If any characters are surprised, keep two initiative orders: one for surprised combatants and one for non-surprised ones. All characters in the non-surprised order act first, followed by characters in the surprised order.
 
 > #### Example of Initiative and Surprise
 >
 > Zak and Jalani are exploring the crash site of an Armada Star Cruiser for salvage when they are ambushed by a pack of gravity worms.
 >
-> Zak and Jalani roll Agility checks to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Zak was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
+> Zak and Jalani roll Agility to determine initiative, and the GM makes one roll for the worms as a group. Jalani announces that she'll be drawing her Las Pistol, which has the *swift* property, granting her advantage 2 on her Agility roll. Zak was rummaging through a closet at the moment of attack, so the GM rules that he is surprised.
 >
 >> Zak (Agility 2) rolls 1d20 + 1d6, and gets a 14.
 >>
@@ -61,7 +61,7 @@ If any characters are surprised, keep two initiative orders: one for surprised c
 
 If you do not wish to act when your turn comes, you may choose to defer your turn, either by waiting or by preparing to react in response to some sort of situation. If you wait, you may take your turn at any time after another character has finished their turn but before another character has begun.
 
-If you are preparing to react, then you should give a general description of what you are preparing for, such as "I'll act when a threat to come through the door" or "I'm readying my bow to shoot at an enemy who goes for the altar." When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
+If you are preparing to react, then you should give a general description of what you are preparing for, such as “I'll act when a threat comes through the door” or “I'm readying my bow to shoot at an enemy who goes for the altar.” When the triggering action occurs, you may choose to take your turn even if it interrupts another character's turn (such as if they are in the process of moving). Once your turn is complete, any characters who you may have interrupted may complete their turn.
 
 If, by the end of the round, your triggering conditions were not met, you may take your turn as usual.
 
@@ -74,7 +74,7 @@ When your turn in the initiative order comes, you are allowed one major action, 
 | 1 Major Action* <br /> 1 Move Action <br />  Any number of minor actions | 1 Focus Action |
 
 
-*Major action may be traded for a move action*
+*\*Major action may be traded for a move action*
 
 ### Major Actions
 
@@ -95,7 +95,7 @@ A damaging attack is one in which you are strictly aiming to reduce your foe’s
 
 1. **Determine attribute vs. defense.** Every attack consists of a single attribute roll that is compared to one of the target’s defenses.
 
-1. **Choose your target.** The range of your attack depends on whether you are using a melee, projectile, or extraordinary attack.
+1. **Choose your target.** The range of your attack depends on whether you are using a melee, ranged, or non-physical attack.
 
 1. **Roll your attack.** Make an attribute roll. You deal damage equal to the amount that your roll exceeds your target’s defense. If you meet or exceed the target's defense, you deal a minimum of three damage.
 
@@ -122,13 +122,13 @@ First, choose the most logical attribute for the type of attack you are making. 
 
 **Physical attacks** involve weapons, claws, teeth, or other natural means of inflicting damage that typically rely on the attacker's Might or Agility attribute. When attacking with a weapon, your weapon’s *forceful* or *precise* property will determine which attribute to use.
 
-**Extraordinary attacks** are those that make use of one of the attacker's extraordinary attributes, such as by using Energy to summon a ball of fire. A character can only make an extraordinary attack if they possess a score of 1 or higher in the relevant attribute.
+**Non-physical attacks** are those that make use of one of the attacker's attributes other than Might or Agility, such as by using Energy to summon a ball of fire or Logic to spring a trap. A character can only make a non-physical attack with an extraordinary attribute if they possess a score of 1 or higher in the relevant attribute.
 
 Once you have chosen your attacking attribute, determine an appropriate defense (Guard, Toughness, or Resolve) to use as the Challenge Rating for your attack, as follows.
 
 Physical attacks always target Guard.
 
-Extraordinary attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
+Non-physical attacks are more open-ended and often require the GM to decide the type of defense targeted using the following guidelines:
 
 - **Guard** protects against attacks that can be dodged, deflected, or avoided by taking cover, such as a ball of flame, magical wall of blades, or a laser beam.
 - **Toughness** is used to defend against attacks that require bodily endurance, health, or sturdiness, such as poison and necrotic energy.
@@ -164,14 +164,14 @@ Extraordinary attacks are more open-ended and often require the GM to decide the
 
 You must choose a target within range of the type of attack you are making:
 
-**Melee weapon attacks** target foes that are within reach of you.
+**Melee physical attacks** target foes that are within reach of you.
 
-**Projectile weapon attacks** can target foes within their range at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
+**Ranged physical attacks** can target foes within the range of the weapon being used at no penalty. Attacks suffer disadvantage 1 per extra range increment beyond the first, to a maximum of disadvantage 2 at three times the weapon's range.
 
-**Extraordinary attacks** have a range according to the attribute being used, as detailed in the Extraordinary Attack Range table. Unlike projectile weapons, extraordinary attacks cannot extend beyond their normal range.
+**Non-physical attacks** have a range determined by the score of the attribute being used, as detailed in the Non-Physical Attack Range table. Unlike ranged weapons, these attacks cannot extend beyond their normal range.
 
 <div class="table-no-body"></div>
-| Extraordinary Attack Range |
+| Non-Physical Attack Range |
 | - |
 | |
 <div class="table-no-head"></div>
@@ -183,7 +183,7 @@ You must choose a target within range of the type of attack you are making:
 
 > ###### Ranged Attacks in Melee
 >
-> Any time you make a ranged attack (weapon or extraordinary) and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
+> Any time you make a ranged attack and there is an enemy within melee reach of you, you have disadvantage 1 on your attack roll. Area attacks are considered ranged attacks if the area does not include at least one space adjacent to the attacker.
 >
 
 <br><br>
@@ -227,7 +227,7 @@ Area attacks are only possible when you are using an extraordinary attribute, un
 
 **Line.** You target a line that is 5' wide, 10' long, and 10' high. You may create several lines as part of a single attack, as long as at least one corner of each line touches. For each line, the attack suffers disadvantage 1.
 
-**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as it is long. Your attack suffers disadvantage 1 per 5' of length of the cone, unless it's 5' long, which does not incur disadvantage.
+**Cone.** You target a cone that extends from your space to a length you designate. At any given point, the cone is as wide as its distance from you. Your attack suffers disadvantage 1 per 5' of length of the cone, unless it's 5' long, which does not incur disadvantage.
 
 <div class="table-no-body"></div>
 | Multi-Targeting Summary |
@@ -245,13 +245,13 @@ Area attacks are only possible when you are using an extraordinary attribute, un
 
 #### Make a Bane Attack
 
-Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in the [bane descriptions](http://www.openlegendrpg.com/banes). While targets may be affected by multiple different banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the boon's effect (*e.g.* [*fatigued*](http://www.openlegendrpg.com/banes/fatigued)).
+Instead of attempting to damage a target, you may instead choose to inflict your enemy with a bane. In order to inflict a bane, you must possess an appropriate attribute of at least the bane's power level, as detailed in the [bane descriptions](http://www.openlegendrpg.com/banes). While targets may be affected by multiple different banes, you may not *stack* banes. That is, a target cannot be inflicted with a bane it is currently suffering from, unless specified in the bane's effect (*e.g.* [*fatigued*](http://www.openlegendrpg.com/banes/fatigued)).
 
-Resolving a bane attack is very similar to making a damaging attack, except where indicated in the following steps:
+Resolving a bane attack is very similar to making a damaging attack, except as indicated in these steps:
 
 1. **Determine attribute vs. defense.** The [bane descriptions](http://www.openlegendrpg.com/banes) indicate which attributes you can use to inflict a bane as well as the targeted defense.
 
-1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options.
+1. **Choose your target.** Choosing targets and determining range for bane attacks is identical to the process for damaging attacks, including multi-targeting options. Note that banes invoked with Agility or Might require a weapon or natural attack, and are thus limited by the range of the attack.
 
 1. **Roll your attack.** Make an action roll using the appropriate attribute. If your total equals or exceeds the target's defense score, your target suffers the bane.
 
@@ -321,20 +321,21 @@ You may move up to your speed. The base speed for characters is 30'. This moveme
 
 Special movement includes climbing, jumping, swimming, and other movement that is typically more restricted than just running across the battlefield.
 
-**Jump**. Make a Might roll. If you can't get at least a 10' running start, you have disadvantage 1.
+**Jump**. Make a Might roll. You can move up to 10’ for free as a running start before jumping. If you do, you get advantage 1 for every 10' by which your speed exceeds 30'.
+
 
 - **For a long jump,** you cover a number of feet equal to your roll.
 - **For a high jump,** you cover a number of feet equal to your roll divided by 2.
 
-**Climb**. You climb at half of your normal speed. The GM may require a Might or Agility check if the situation is particularly dangerous.
+**Climb**. You climb at half of your normal speed. The GM may require a Might or Agility roll if the situation is particularly dangerous.
 
-**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude check if you are swimming a long distance, against a very strong current, or in similarly challenging situations.
+**Swim**. You swim at half of your normal speed. The GM may require a Might or Fortitude roll if you are swimming a long distance, against a very strong current, or in similarly challenging situations.
 
 #### Resist Banes
 
 You can use a move action to recover from one or more banes afflicting you. This move action cost is a simplified way of representing any number of different ways you might go about shaking off the wide range of banes you might be afflicted by. Roll 1d20 (with no attribute modifiers). If your roll is a 10 or higher, the bane is removed. Note that some banes have different rules for how they can be resisted.
 
-Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you to fail resist.
+Many banes will persist for a longer duration after three failed resist attempts to shake them off. As such, you should keep a tally of any banes which you fail to resist.
 
 > ##### Example of Resisting Banes
 >
@@ -372,15 +373,15 @@ Only voluntary movement made on the moving character's turn trigger opportunity 
 
 #### Sustain a Boon
 
-Many boons have a default duration of *sustain persists*, which means that every time a character uses the *sustain a boon* action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action. Each time you sustain a boon, it remains active for all targets affected by the original invocation, so when sustaining multi-target boon invocations, the boon remains active for all of the original targets.
+Many boons have a default duration of *sustain persists*, which means that every time a character uses the *sustain a boon* action, the boon remains in effect for 1 additional round. If you have a boon in effect and do not sustain it, the boon ends when your turn is over. Because sustaining a boon is a minor action, you can normally only sustain one boon at a time, and you cannot sustain a boon on a round in which you take a focus action. You do not need to sustain a boon on the round in which it is invoked as long as you are not sustaining any other boons. Each time you sustain a boon, it remains active for all targets affected by the original invocation, so when sustaining multi-target boon invocations, the boon remains active for all of the original targets.
 
 > ##### Sustaining Boon Examples
 >
-> Ruby invokes the *flight* boon and takes to the skies. On her next turn, she wants to keep the *flight* active, so she uses a minor action to sustain it. An enemy then inflicts her with the *stunned* boon, limiting her to a single major, move, or minor action. When her turn comes up again, she uses a single move action to reach a safe landing spot. Because she is *stunned* she does not have a minor action to use to sustain the boon, so it ends when her turn is over.
+> Ruby invokes the *flight* boon and takes to the skies. On her next turn, she wants to keep the *flight* active, so she uses a minor action to sustain it. An enemy then inflicts her with the *stunned* bane, limiting her to a single major, move, or minor action. When her turn comes up again, she uses a single move action to reach a safe landing spot. Because she is *stunned* she does not have a minor action to use to sustain the boon, so it ends when her turn is over.
 >
 > * * * * *
 >
-> Doctor Van Strankenkloff has invoked the *darkness* boon using his patented Light Sucker Mark IV. On his next turn, under cover of darkness, he activates his Personal Transmogrification Belt to invoke the *shapeshift* boon to turn into a mouse. Because both boons have a duration of "sustain persists", and the doctor may only sustain one boon at a time, he chooses to sustain the *shapeshift*. At the end of his turn, the *darkness* is dispelled and the *shapeshift* persists.
+> Doctor Van Strankenkloff has invoked the *darkness* boon using his patented Light Sucker Mark IV. On his next turn, under cover of darkness, he activates his Personal Transmogrification Belt to invoke the *shapeshift* boon to turn into a mouse. Because both boons have a duration of “sustain persists”, and the doctor may only sustain one boon at a time, he chooses to sustain the *shapeshift*. At the end of his turn, the *darkness* is dispelled and the *shapeshift* persists.
 
 ### Focus Actions
 
@@ -399,7 +400,9 @@ Move up to twice your speed and make one melee attack at disadvantage 1.
 
 ### Interrupt Actions
 
-In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. You can use your interrupt action to attempt any of the following:
+In some situations, you may want to take an action in response to another combatant's action. In these cases, you can use an interrupt action. However, whenever you use an interrupt action, you lose your major action the next time your turn in the initiative order comes up. 
+
+You can use your interrupt action to attempt any of the following:
 
 - Defend
 - Improvise
@@ -434,7 +437,7 @@ Your hit points (HP) are an abstract measure of your character's ability to igno
 
 ### Finishing Blows
 
-When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a *finishing blow* and may cause immediate death. Your defense against a finishing blow does not include any bonus from your attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you are dead.
+When you suffer a damaging attack while unconscious, incapacitated, or otherwise unable to defend yourself, the attack counts as a *finishing blow* and may cause immediate death. Your defense against a finishing blow does not include any bonus from your attributes. Furthermore, if a finishing blow deals any damage, you must make a Fortitude roll with a Challenge Rating equal to 10 plus the damage dealt. If you fail this roll, you die.
 
 > #### Finishing Blow Example
 >
@@ -532,7 +535,7 @@ In the examples scenarios that follow, you’ll witness several of these at play
 
 ##### Put a Character in Danger
 
-Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shot gun on the enemy barreling down on him, failing to realize that his ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
+Deputy Grey panics amidst the swirling ambush of the cannibal troglodytes. He unloads his shotgun on the enemy barreling down on him, failing to realize that his ally, Doc, was standing right behind his target. The GM interprets Grey’s failed roll as a success with a twist and lets him deal five damage to the troglodyte. However, Doc is forced to dive to avoid becoming collateral damage. Now he finds himself prone at the feet of two more of the cannibals.
 
 ##### Expend a Resource
 
@@ -540,7 +543,7 @@ Slade is fighting off two giant spiders with his plasma blade as he hangs from a
 
 ##### Make an Enemy
 
-Soaring over the skyline of New Tokyo, two gangs of Mech Punks settle their differences in the only way they know how: plasma blasts and scatter missiles. Trish sends a heat-seeking warhead to finish off one of her foes, but her roll comes up short. The GM lets the missile hit, destroying the enemy mech and sending it hurtling through the windows of the Dentsu Building. Within moments, the Dentsu security bots have joined the fray and begin unloading their ion cannons on the mechs without prejudice.
+Soaring over the skyline of New Tokyo, two gangs of Psi-mech Punks settle their differences in the only way they know how: plasma blasts and scatter missiles. Trish sends a heat-seeking warhead to finish off one of her foes, but her roll comes up short. The GM lets the missile hit, destroying the enemy mech and sending it hurtling through the windows of the Dentsu Building. Within moments, the Dentsu security bots have joined the fray and begin unloading their ion cannons on the mechs without prejudice.
 
 ##### Lose a Friend
 

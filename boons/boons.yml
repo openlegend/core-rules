@@ -97,7 +97,7 @@
     </ul>
     <strong>Damaging:</strong> A creature who ends its turn within the barrier or willingly enters it, automatically suffers the indicated damage. A creature may only suffer this damage once per round.
     <br>
-    <strong>Obscuring:</strong> Creatures cannot see through more than 10' of the barrier.
+    <strong>Obscuring:</strong> Creatures cannot see through any part of the barrier or anything within it.
     <br>
     <strong>Hindering:</strong> Creatures move at half speed when travelling within the barrier.
     <br>
@@ -145,9 +145,9 @@
   effect: |
     Choose a single attribute. The target gains advantage on their action rolls with that attribute according to the power level of the boon.
     <ul>
-    <li><strong>Power Level 3</strong> - Advantage 1</li>
-    <li><strong>Power Level 6</strong> - Advantage 2</li>
-    <li><strong>Power Level 8</strong> - Advantage 3</li>
+    <li><strong>Power Level 3</strong> - Advantage 1.</li>
+    <li><strong>Power Level 6</strong> - Advantage 2.</li>
+    <li><strong>Power Level 8</strong> - Advantage 3.</li>
     </ul>
 - !
   name: Darkness
@@ -279,7 +279,6 @@
   - 8
   - 9
   attribute:
-  - Alteration
   - Creation
   - Learning
   - Logic
@@ -291,15 +290,15 @@
   effect: |
     Roll dice according to the boon power level below. These dice explode as normal. The target is healed a number of hit points equal to the total roll.
     <ul>
-    <li><strong>Power Level 1</strong> - Heal 1d4 </li>
-    <li><strong>Power Level 2</strong> - Heal 1d6 </li>
-    <li><strong>Power Level 3</strong> - Heal 1d8 </li>
-    <li><strong>Power Level 4</strong> - Heal 1d10 </li>
-    <li><strong>Power Level 5</strong> - Heal 2d6 </li>
-    <li><strong>Power Level 6</strong> - Heal 2d8 </li>
-    <li><strong>Power Level 7</strong> - Heal 2d10 </li>
-    <li><strong>Power Level 8</strong> - Heal 3d8 </li>
-    <li><strong>Power Level 9</strong> - Heal 3d10 </li>
+    <li><strong>Power Level 1</strong> - Heal 1d4.</li>
+    <li><strong>Power Level 2</strong> - Heal 1d6.</li>
+    <li><strong>Power Level 3</strong> - Heal 1d8.</li>
+    <li><strong>Power Level 4</strong> - Heal 1d10.</li>
+    <li><strong>Power Level 5</strong> - Heal 2d6.</li>
+    <li><strong>Power Level 6</strong> - Heal 2d8.</li>
+    <li><strong>Power Level 7</strong> - Heal 2d10.</li>
+    <li><strong>Power Level 8</strong> - Heal 3d8.</li>
+    <li><strong>Power Level 9</strong> - Heal 3d10.</li>
     </ul>
   special: |
     This boon does not heal lethal damage.
@@ -318,7 +317,7 @@
     When a creature becomes insubstantial, it is no longer bound by physical barriers. Ghosts, wizards assuming gaseous form, and creatures who blink between dimensions are all exemplars of the insubstantial boon in action.
   effect: |
     The target gains the ability to pass freely through all physical barriers as if they were unoccupied spaces. In addition, they gain the ability to freely move in any direction in both the horizontal and vertical planes at their base speed (30' for most characters). While insubstantial, the target becomes immune to all attacks that target either Guard or Toughness. However, they also cannot deliver any attacks that target Guard or Toughness.
-    If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically the Astral or Ethereal plane).
+    If concentration is interrupted or the boon ends while the target is inside of a solid structure, then the target is forcibly transported to the alternate plane they were traveling by way of at the time (typically an alternate dimension or plane).
 - !
   name: Invisible
   tags:
@@ -419,7 +418,7 @@
     <ul>
     <li><strong>Power Level 5</strong> - The target can read vague ideas and impressions to learn what took place near the object or place within the past hour.</li>
     <li><strong>Power Level 6</strong> - The target can see a vivid vision, similar to a recording, of what took place near the object or place within the last hour.</li>
-    <li><strong>Power Level 7</strong> - The target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the scrying bane to locate or view those identified.</li>
+    <li><strong>Power Level 7</strong> - The target can ascertain the most recent owner of the object or the people who have most recently been in a place. This knowledge grants enough information for your target to use the spying bane to locate or view those identified.</li>
     <li><strong>Power Level 8</strong> - Choose one: The target sees a vision of the most recent significant event that took place in close proximity to the object or place - OR - the target asks whether or not a specific event is impressed upon the object or place.</li>
     <li><strong>Power Level 9</strong> - The target is able, given sufficient time, to access all memories impressed upon the object or place. You must maintain concentration, with each 10 minutes yielding a new vision from the object's or place's past. The GM determines the order in which the information is revealed. At the GM's discretion, concealed or particularly distant memories may require a much longer time to discover.</li>
     </ul>
@@ -556,17 +555,17 @@
   description: |
     A target's physical structure is temporarily altered, allowing it to assume the form of potentially any creature no matter how fantastic or exotic. Common examples of shapeshifting include lyncanthropes (such as werewolves), amorphous alien lifeforms, dopplegangers, and certain types of druids.
   effect: |
-    You or a willing creature you touch transform into a creature whose highest attribute is less than or equal to your Alteration score. Your Alteration score for the purpose of this boon is limited to the maximum attribute score permitted by your level. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.
+    The target transforms into a creature whose highest attribute is less than or equal to your Alteration score. With the exception of Alteration, all of the target's extraordinary attribute scores drop to zero, and they acquire the Agility, Fortitude, Might, and Perception attributes of the new form.
     The GM, not the player, is responsible for deciding the attributes and abilities of creature. It is recommended that this creature follow the guidelines established by the "Simple Build" section for creating NPCs in Chapter 8: Running the Game.
     In order to keep track of hit points, the target should record the total damage they have suffered. When transforming, damage remains with the character even if their maximum hit points change. For example, Vera has a max HP of 20 but is turned into a dragon and her Fortitude increases from 5 to 9, increasing her hit points to 28. During combat, she suffers 10 damage. When she later transforms back into her human form, the 10 damage remains and is subtracted from her new maximum, leaving her with 10 out of 20 hit points. Additionally, if the shift would reduce the target's hit points to less than 1, the target's hit point total becomes 1 instead.
     Limitations are applied starting at power level 2 and are gradually removed at higher power levels:
     <ul>
-    <li><strong>Power Level 2</strong> - The new form cannot be a different size than that of the target. It must possess similar physiology to the target, so humanoids and animals are both mammals and therefore can be shifted between. However animals, dragons, plants, elementals, and oozes all have different physiologies, so they cannot be shifted between. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form (hence, they cannot inflict banes that rely on the creature's extraordinary attributes).</li>
+    <li><strong>Power Level 2</strong> - The new form cannot be a different size than that of the target. It must possess similar physiology to the target. Examples of different physiology classifications include animals, plants, elementals, and oozes. This list is not exhaustive, and the GM has final say as to what forms are allowed. The target does not gain alternate forms of movement (flight, swimming, climbing, burrowing, etc.). The target does not gain extraordinary attributes of the new form (hence, they cannot inflict banes that rely on the creature's extraordinary attributes).</li>
     <li><strong>Power Level 3</strong> - Shapeshift into a creature between half and double the target's original size. Gain any non-flight movement modes of the new form.</li>
     <li><strong>Power Level 4</strong> - Shapeshift into a creature between one quarter and quadruple the target's original size. </li>
     <li><strong>Power Level 5</strong> - Gain the flying movement mode of the new form, if applicable.</li>
     <li><strong>Power Level 6</strong> - Shapeshift into a living creature of a different physiology, such as an elemental, ooze, or a plant.</li>
-    <li><strong>Power Level 7</strong> - Gain all extraordinary attributes possessed by the target. If both forms have an Alteration attribute, the target chooses between the two scores.</li>
+    <li><strong>Power Level 7</strong> - Gain all extraordinary attributes possessed by the new form. If both forms have an Alteration attribute, the target chooses between the two scores.</li>
     <li><strong>Power Level 8</strong> - Shapeshift into a creature of any size. </li>
 
     </ul>
@@ -600,13 +599,43 @@
     Creatures summoned by this boon cannot be healed if they reach zero hit points. They are permanently dead. Additionally, creatures summoned by this boon cannot invoke it.
     Multi-targeting for this boon does not work as it does for other boons. You may use a single invocation to summon multiple creatures. For each additional creature summoned beyond the first, you suffer an additional disadvantage 2 on your action roll to invoke. Any effect that modifies multi-targeting penalties will work as normal in offsetting this disadvantage.
 - !
+  name: Sustenance
+  tags:
+  - Extraordinary
+  power:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 9
+  attribute:
+  - Alteration
+  - Creation
+  - Protection
+  invocationTime: 1 Major Action
+  duration: 24 hours
+  description: |
+    You protect the target from environmental dangers or suspend their usual biological needs. Examples include sprouting gills to allow for underwater breathing, calling on a divine power to be sustained without food, and using far-future biomodifications to endure extreme cold.
+  effect: |
+    You protect the target from one environmental danger, biological need, or similar condition. The power level of this boon determines the type of conditions you may protect against.
+    <ul>
+    <li><strong>Power Level 3</strong> - Target is unaffected by a chosen type of hostile climate. Examples include heat, cold, and radiation.</li>
+    <li><strong>Power Level 4</strong> - Target can sustain a single biological need from an alternate source, such as by breathing the oxygen found in water, drinking from an irradiated stream, or eating food not normally edible</li>
+    <li><strong>Power Level 5</strong> - Target can subsist without the essential nourishment periodically required for sustenance, such as food or water.</li>
+    <li><strong>Power Level 7</strong> - Target can subsist without the most critical nourishment, that which is typically consumed on a moment-to-moment basis, such as air.</li>
+    <li><strong>Power Level 9</strong> - Target is unaffected even when cut off from all biological necessities, including warmth, water, air, food, and any other biological need.</li>
+    </ul>
+  special: |
+    You may only have one instance of this boon in effect at any given time. As soon as you invoke it, any previous invocations are immediately canceled.
+- !
   name: Telekinesis
   tags:
   - Extraordinary
   power:
-  - 4
-  - 6
-  - 8
+  - 3
+  - 5
+  - 7
+  - 9
   attribute:
   - Movement
   invocationTime: 1 Major Action
@@ -614,10 +643,12 @@
   description: |
     You reach out and extraordinarily control an unattended inanimate object. This may stem from latent psychic ability, magical manipulation of the element of air, anti-gravity technology, or similar sources.
   effect: |
-    Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 30'. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
-    <ul><li><strong>Power Level 4</strong> - The object must be smaller or lighter than a fist-sized rock.</li>
-    <li><strong>Power Level 6</strong> - The object must be smaller or lighter than a large humanoid creature.</li>
-    <li><strong>Power Level 8</strong> - The object must be smaller or lighter than a small building, such as a hut or shed.</li>
+    Immediately upon invoking the boon, and again each round when you sustain the boon, you may move the target object up to 5' times your invoking attribute score. As part of moving an object, you may also manipulate it (for example, turning a door knob or opening a coin purse). A new invocation of this boon must be attempted whenever you wish to target a different object. The power level of the boon determines the size and weight of the objects you may target:
+    <ul>
+    <li><strong>Power Level 3</strong> - The object must be smaller than a 1' cube or lighter than 10 pounds.</li>
+    <li><strong>Power Level 5</strong> - The object must be smaller than a 5' cube or lighter than 100 pounds.</li>
+    <li><strong>Power Level 7</strong> - The object must be smaller than a 10' cube or lighter than 1,000 pounds.</li>
+    <li><strong>Power Level 9</strong> - The object must be smaller than a 20' cube or lighter than 10,000 pounds.</li>
     </ul>
 - !
   name: Telepathy
@@ -713,6 +744,7 @@
   - Extraordinary
   power:
   - 5
+  - 6
   - 7
   - 8
   - 9
@@ -721,11 +753,11 @@
   invocationTime: 1 Major Action
   duration: Sustain Persists
   description: |
-    You grant yourself or an ally the ability to extraordinarily perceive things through impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.
+    You grant yourself or an ally the ability to perceive that which cannot be detected with mundane senses, piercing impediments that would block or deceive normal sight, including darkness, solid objects, illusions, and even the barrier between alternate planes of reality. This power may stem from extrasensory perception, divine blessing, cybernetically enhanced senses, or similar means.
   effect: |
     <ul>
     <li><strong>Power Level 5</strong> - The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.</li>
-    <li><strong>Power Level 7</strong> - The target's extraordinary sight pierces through all illusory effects, allowing them to see an illusion for what it is.</li>
+    <li><strong>Power Level 7</strong> - The target's extraordinary sight pierces through all illusory effects, allowing them to see a *phantasm* for what it is.</li>
     <li><strong>Power Level 8</strong> - The target can see through solid objects and their natural visual range is unhindered by them.</li>
     <li><strong>Power Level 9</strong> - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on. In addition, the target's visual range becomes supercharged.</li>
     </ul>

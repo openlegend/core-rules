@@ -1,4 +1,4 @@
-# Perks & Flaws #
+# Chapter 5: Perks & Flaws #
 
 In this chapter, you'll find detailed descriptions of the perks and flaws that you can use to round out your character's personality, background, strengths, and weaknesses. Additionally, you'll learn how to activate your perks and flaws to enhance your roleplaying and gain mechanical benefits.
 
@@ -59,7 +59,7 @@ Choose a specific craft, such as gunsmithing, hardware assembly, glass blowing, 
 
 ### Ascetic
 
-You are well-versed in the art of living with less. Whether a cloistered monk, a transcendant psion, or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your asceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
+You are well-versed in the art of living with less. Whether a cloistered monk, a transcendent psion, or a wizened sage who spent years locked away in a tower of books, you are experienced at going long stretches of time with very little food, water, or company - and as such, these situations tend not to affect you as they do others. You are hardened against physical and mental deprivation and have developed an enviable degree of self-mastery. Whenever your asceticism would play a role in a situation, you gain advantage 1 to any relevant action rolls.
 
 ### Attractive
 
@@ -95,7 +95,7 @@ You have done something in the past to earn the favor of someone in a high place
 
 ### Extraordinary Presence
 
-Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you--or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
+Your inherent extraordinary nature manifests itself in a tangible way of your choosing. For example, your eyes may glow, your skin might emanate an icy chill, or a trail of withering plants could follow you wherever you set foot. Depending on the nature of your extraordinary presence, it might make others more likely to fear, admire, or trust you—or otherwise alter their initial perceptions of you. Whenever your extraordinary presence is relevant in a social situation, you gain advantage 1 on any action rolls you make.
 
 ### Fugitive
 
@@ -159,7 +159,7 @@ Your sense of smell is almost feral or otherwise ultra-heightened. As a focus ac
 
 ### Scholar
 
-You have spent years studying a particular discipline, such as physics, herbalism, dragon lore, history, politics, or religion. Once per session, you can re-roll a failed *Learning* check related to your discipline, gaining advantage 2 on the re-roll. Furthermore, you have colleagues and connections within your discipline, and know the proper channels for gaining access to specialty laboratories, libraries, temples, or other collections of lore related to your field of scholarship.
+You have spent years studying a particular discipline, such as physics, herbalism, dragon lore, history, politics, or religion. Once per session, you can re-attempt a failed *Learning* roll related to your discipline, gaining advantage 2 on the re-roll. Furthermore, you have colleagues and connections within your discipline, and know the proper channels for gaining access to specialty laboratories, libraries, temples, or other collections of lore related to your field of scholarship.
 
 ### Silver Tongue
 
@@ -314,4 +314,4 @@ You let no slight go unpunished. While some might be able to shake off an insult
 
 ### Zealous
 
-You stand for a cause--whether it is a religion, a nation, a code, a way of life, or otherwise--and you will push the boundaries of normal behavior to uphold your cause. This might mean that you make yourself a social outcast by attempting to convert others to your cause, or it could mean that you are willing to perform an act you might otherwise consider evil, such as putting innocent lives in danger, if doing so would promote your cause.
+You stand for a cause—whether it is a religion, a nation, a code, a way of life, or otherwise—and you will push the boundaries of normal behavior to uphold your cause. This might mean that you make yourself a social outcast by attempting to convert others to your cause, or it could mean that you are willing to perform an act you might otherwise consider evil, such as putting innocent lives in danger, if doing so would promote your cause.

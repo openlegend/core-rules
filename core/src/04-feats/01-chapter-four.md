@@ -1,6 +1,6 @@
-# Chapter 3: Feats #
+# Chapter 4: Feats #
 
-In this chapter, you'll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character's specializations--the actions, tasks, and abilities they excel at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
+In this chapter, you'll find complete descriptions of all of the feats available to customize your character in Open Legend. Feats are used to define your character's specializations—the actions, tasks, and abilities they excel at beyond all others. Some feats will enhance your major actions, such as by allowing you to multi-attack with reduced disadvantage, while others will grant you completely new powers, such as the ability to change your shape.
 
 ## Acquiring Feats
 

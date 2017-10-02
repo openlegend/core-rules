@@ -1,10 +1,10 @@
 # Introduction: This is Your Story. Tell it. #
 
-*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a massive stasis pod. A shadowy form drifts through the clouded liquid, just out of range for them to discern. One of them, covered head to toe in cybernetic implants, attempts to make sense of the hidden symbols, detectable only via ultraviolet spectrum.*
+*Deep in the bowels of a long abandoned star freighter, a pair of rogues huddle around a massive stasis pod. A shadowy form drifts through the cloudy liquid, barely discernable through the inch-thick glass. One of the explorers, covered head to toe in cybernetic implants, attempts to make sense of the hidden symbols incribed at the base of the pod, detectable only via the ultraviolet spectrum.*
 
 *“Hold that UV beam steady!” he mutters to his companion.*
 
-*But his whisper is like a shout that shatters the perfect silence of the Zeta class cruiser's massive chamber, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn to taste flesh once again. “Zak,” stutters the light bearer as she draws a shining six-shooter, “I don’t think this freighter is abandoned no more.”*
+*But his whispers shatter the perfect silence permeating this vast chamber of the Zeta class cruiser, and soon the echoes are like a siren in the darkness. Pairs of red eyes awaken at the edge of the light, fires of malice that yearn to taste flesh once again. “Zak,” stutters the light bearer as she draws a shining six-shooter, “I don’t think this freighter is abandoned no more.”*
 
 * * *
 
@@ -24,7 +24,7 @@ If you have played roleplaying games in the past, you may be wondering *What mak
 >
 >The secret's in the title: Open. Everything about the game has been built to open up the doors of possibility so that every table tells a legend worth telling. Here are a few of the possibilities that Open Legend offers.
 >
->**Open Source**. That's right. The core rules are free to use with accommodation for [commercial](/commercial-terms) and [non-commercial](/noncommercial-terms) derivative works. We know the public will love the game as much as we do, and we hope they'll spread the love by publishing their own adventures, rules supplements, and more.
+>**Open Source**. That's right. The unabridged core rules are available on the website and the [Open Legend Community License](http://www.openlegendrpg.com/community-license) allows for publication of both commercial as well as non-commercial derivative works using the system. We know the public will love the game as much as we do, and we hope they'll spread the love by publishing their own adventures, rules supplements, and more.
 >
 >**Open Dice**. In Open Legend, dice explode! That means that whenever ANY die rolls maximum, you get to reroll it and add the new roll to your total, ad infinitum. The volatile nature of dice rolling makes every roll count, and each session of Open Legend is full of tense moments when the tides can turn at a moment's notice, for better or worse.
 >
@@ -54,7 +54,7 @@ Without well-defined rules, the decisions made by players and GMs can seem arbit
 
 Open Legend was designed to provide enough rules so that players have a clear framework to guide their play, but not so many rules that the game gets bogged down by them. You spend your day job worrying about bookkeeping and policies. We don't want the gaming table to feel like that, and we designed Open Legend to focus on the fun rather than the homework.
 
-For example, you won't have long lists of resources to manage. Any abilities that you can use or spells you can cast in Open Legend can be used at-will. Likewise, spellcasters, psions, and techies don't need to worry about poring over page after page of power descriptions in order to make the right choices. Instead, Open Legend uses a system of **banes** and **boons**, or status effects, that any character can apply if they are built to do so.
+For example, you won't have long lists of resources to manage. Any abilities that you can use or spells you can cast in Open Legend can be used at will. Likewise, spellcasters, psions, and techies don't need to worry about poring over page after page of power descriptions in order to make the right choices. Instead, Open Legend uses a system of **banes** and **boons**, or status effects, that any character can apply if they are built to do so.
 
 Other mechanics that will ensure that you can focus on the story you want to tell include simplified wealth and encumbrance systems. In Open Legend, you'll never need to record a single gold piece on your character sheet or even think about how many pounds your revolver weighs.
 
@@ -87,7 +87,7 @@ Add all of the dice together to find your action roll total. If your total is eq
 >
 > An adventuring party is traveling through the Darkwood, a forest cursed with malignant energy and cast in shadows at every turn. The party spies a gathering of lights in the distance ahead. At the same time, though, a Shade Demon has crept up behind the heroes. The GM tells Imladril, the elven ranger who is at the back of the marching order, to make a Perception roll against a Challenge Rating of 18. Imladril's Perception score of 5 grants him a 2d6 bonus to Perception action rolls, so he grabs 1d20 + 2d6 and lets them fly.
 >
-> Imladril rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, the die is rolled again and it comes up a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so the GM rules that Imladril hears the demon fast enough to alert the party, but that the demon has already closed into melee distance and is able to knock the ranger's bow out of his hands before the combat begins.
+> Imladril rolls a 7 on the d20, and the d6s come up 1 and 6. Since the 6 explodes, the die is rolled again and it comes up a 3, for a grand total of 17 (7+1+6+3), just shy of the required 18. The GM decides to allow Imladril to **succeed with a twist**, so the GM rules that Imladril hears the demon fast enough to alert the party, but the demon is already within melee distance and is able to knock the ranger's bow out of his hands before the combat begins.
 >
 > Alternatively, the GM could decide that Imladril **fails, but the story progresses**. For example, the GM rules that the demon is able to grab the ranger and drag him silently into the darkness completely unbeknownst to the rest of the party distracted by the lights in the distance.
 
