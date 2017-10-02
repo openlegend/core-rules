@@ -116,7 +116,7 @@ Oftentimes, though, the GM will need to determine the CR for actions that aren't
 | |
 
 | Difficulty | Challenge Rating | Example Actions |
-| :-: | :-: | :——— |
+| :-: | :-: | :- |
 | Everyday | 10 | leap a 5' gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
 | Challenging | 15 | climb a rough surface, catch the drift of a text in an unfamiliar language, break down a strong wooden door |
 | Heroic | 20 | climb a smooth surface, leap a 15' gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
