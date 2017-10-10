@@ -850,24 +850,27 @@
     tier1:
       any:
         Attribute:
+        - Alteration: 4
         - Creation: 4
         - Entropy: 4
+        - Energy: 4
         - Influence: 4
-        - Logic: 4
     tier2:
       any:
         Attribute:
+        - Alteration: 5
         - Creation: 5
         - Entropy: 5
+        - Energy: 5
         - Influence: 5
-        - Logic: 5
     tier3:
       any:
         Attribute:
+        - Alteration: 7
         - Creation: 7
         - Entropy: 7
+        - Energy: 7
         - Influence: 7
-        - Logic: 7
   tags:
   - Extraordinary
   - Influence

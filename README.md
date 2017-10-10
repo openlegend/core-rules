@@ -12,6 +12,9 @@ The game rules content of this repository are released under a special open-sour
 
 Click [Here](https://github.com/openlegend/core-rules/commits/master) to see changes in more detail.
 
+#### 2017 / 10 / 06
+-   `Ferocious Minions` incorrectly stated `Logic` as a prerequisite attribute. However, that was wrong. It should have said `Alteration` and `Energy`. It is now corrected.
+
 #### 2017 / 08 / 30
 -   Now while in `Shapeshift` you acquire only the Agility, Fortitude, Might, and Perception attributes of the new form.
 
