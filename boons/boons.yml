@@ -757,7 +757,7 @@
   effect: |
     <ul>
     <li><strong>Power Level 5</strong> - The target sees the presence of extraordinary effects such as magic, cloaking technology, and other effects that could be seen through extra-visual perception. In addition, this boon grants advantage 1 on rolls used to detect mundane concealment such as hidden passages, furniture with hidden storage, and concealed traps or other hazards.</li>
-    <li><strong>Power Level 7</strong> - The target's extraordinary sight pierces through all illusory effects, allowing them to see a *phantasm* for what it is.</li>
+    <li><strong>Power Level 7</strong> - The target's extraordinary sight pierces through all illusory effects, allowing them to see a <em>phantasm</em> for what it is.</li>
     <li><strong>Power Level 8</strong> - The target can see through solid objects and their natural visual range is unhindered by them.</li>
     <li><strong>Power Level 9</strong> - The extraordinary sight enables the target to peer into alternate planes or dimensions. They can see into dimensional pockets and other planes that overlap with the one they are currently on. In addition, the target's visual range becomes supercharged.</li>
     </ul>
