@@ -489,7 +489,7 @@ Some GMs might love that kind of challenge, and for them, **the core mechanic ca
 | equals or exceeds the Challenge Rating, | the player succeeds. |
 | is less than the Challenge Rating, | The GM and the PC both choose 1: <br /> -<br /> Deal 3 damage <br /> Inflict 1 bane of power level <= 3 <br /> Move 10' w/o opportunity attacks |
 
-With these modified rules, a player's failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (See chapter 2 for more details).
+With these modified rules, a player's failed attack roll means that the player may not get what they were aiming for, but they get something. And it comes at a cost because the GM also gets to choose an effect. Remember, also, that the rules for interpreting a failed roll only apply to PCs. For the GM, a success is a success and a failure is a failure (see Chapter 2 for more details).
 
 > ### Example of the Core Mechanic in Combat
 >
@@ -589,6 +589,6 @@ Drustina casts a spell to coat the ground in a sheet of ice, attempting to infli
 
 ##### The Information is False
 
-Sergeant O’Dell attempts to invoke the *heal* boon in order close a gunshot wound suffered by one of her fellow troopers. Unfortunately, she assesses the wound incorrectly, attempting to remove a bullet that actually went clean through. The patient falls unconscious from the extreme pain caused by O'Dell digging around for a non-existent slug.
+Sergeant O’Dell attempts to invoke the *heal* boon in order to close a gunshot wound suffered by one of her fellow troopers. Unfortunately, she assesses the wound incorrectly, attempting to remove a bullet that actually went clean through. The patient falls unconscious from the extreme pain caused by O'Dell digging around for a non-existent slug.
 
 Inspector Bell attempts to blast one of the werewolves besetting her party with a shell of silver buckshot from her trusty sawed-off. She watches in horror, however, as the silver holds no power over the fiends. Their investigation was incorrect; these are no ordinary lycanthropes.
