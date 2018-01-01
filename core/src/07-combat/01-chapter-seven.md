@@ -589,6 +589,6 @@ Drustina casts a spell to coat the ground in a sheet of ice, attempting to infli
 
 ##### The Information is False
 
-Sergeant O’Dell attempts to invoke the *heal* boon in order close a gunshot wound suffered by one of her fellow troopers. Unfortunately, she assesses the wound incorrectly, attempting to remove a bullet that actually went clean through. The patient falls unconscious from the extreme pain caused by O'Dell digging around for a non-existent slug.
+Sergeant O’Dell attempts to invoke the *heal* boon in order to close a gunshot wound suffered by one of her fellow troopers. Unfortunately, she assesses the wound incorrectly, attempting to remove a bullet that actually went clean through. The patient falls unconscious from the extreme pain caused by O'Dell digging around for a non-existent slug.
 
 Inspector Bell attempts to blast one of the werewolves besetting her party with a shell of silver buckshot from her trusty sawed-off. She watches in horror, however, as the silver holds no power over the fiends. Their investigation was incorrect; these are no ordinary lycanthropes.
