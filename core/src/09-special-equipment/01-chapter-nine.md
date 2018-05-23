@@ -30,8 +30,8 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Extraordinary Item | WL | Attributes | Banes & Boons | Properties |
 | :----: | :-: | :-: | :---: | :-------: |
 | Adhesion Boots | 2 |   |  | Special |
-| Aegis of Warding | 4 | Energy 5 |  | Autonomous, Special |
 | Adrenal Biomod | 4 |  | Heal 3 | Persistent (Heal) |
+| Aegis of Warding | 4 | Energy 5 |  | Autonomous, Special |
 | Black Lotus Extract | 6 |  | Death 9 | Augmenting, Expendable, Potent |
 | Blowfish Venom | 3 |  | Immobile 5 | Augmenting, Expendable |
 | Book of Shadows | 5 |  | Darkness 5, Blinded 5, Summon Creature 5 | Special |
@@ -43,6 +43,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Dotanuki | 5 |  |  | Deadly 2, Weapon (Katana), Special |
 | Explosive Ammo | 2 |  | Persistent Damage 4 | Augmenting, Expendable |
 | Firebrand | 4 |  | | Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword) |
+| Frostblight | 4 | Energy 3 |  | Armor (Plate Mail), Persistent (Aura), Special |
 | Ghostfire | 2 | Energy 5 |  | Expendable |
 | Helm of Truth | 5 |  | Bolster 3 | Persistent (Bolster), Cursed (Truthfulness 5) |
 | Horn of Thunder | 5 | | | Area (20' cone), Special |
@@ -51,7 +52,6 @@ Extraordinary items are different from weapons, armor, and other gear because th
 | Maul of Dominance | 4 |  | Aura 8 | Special, Weapon (Maul) |
 | Phase Rifle | 4 |  |  | Damage (Energy), Deadly 2, Weapon (Sniper Rifle) |
 | Plasmablade | 5 |  | | Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special |
-| Frostblight | 4 |  | Energy 3 | Armor (Plate Mail), Persistent (Aura), Special |
 | Potion of Major Healing | 4 |  | Heal 7 | Consumable |
 | Potion of Minor Healing | 1 |  | Heal 3 | Consumable |
 | Rocket Launcher | 3 |  |  | Deadly 2, Expendable, Weapon (Cannon) |
