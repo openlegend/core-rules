@@ -109,6 +109,15 @@ Extraordinary items are different from weapons, armor, and other gear because th
 **Special**: These boots enable their wearer to automatically succeed at all rolls that pertain to climbing, and magically affixes them to the surface they're climbing on, even while upside down. Because the affixion is mechanical, no action is required to sustain the effect, and an unconscious wearer still remains affixed.
 
 
+#### Adrenal Biomod
+
+**Wealth Level**: 4
+
+*Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with an automatic adrenaline pump.*
+
+**Properties**: Heal 3, Persistent (Heal)
+
+
 #### Aegis of Warding
 
 **Wealth Level**: 4
@@ -118,15 +127,6 @@ Extraordinary items are different from weapons, armor, and other gear because th
 **Properties**: Energy 5, Autonomous
 
 **Special**: Once activated and affixed to a surface, an Aegis of Warding cannot be moved. A successful removal destroys it in the process. In addition, all damage dealt by the Aegis is lethal damage.
-
-
-#### Adrenal Biomod
-
-**Wealth Level**: 4
-
-*Those willing to undergo the invasive procedure will thank themselves the next time they take a bullet in the heat of battle and their biomod compensates for the pain with an automatic adrenaline pump.*
-
-**Properties**: Heal 3, Persistent (Heal)
 
 
 #### Black Lotus Extract
@@ -158,15 +158,6 @@ Extraordinary items are different from weapons, armor, and other gear because th
 **Special**: Calling upon the power of the Book of Shadows is draining to normal mortals. Every time a creature successfully uses this item to invoke a bane or boon of power level 5 or above, they must make a Will roll of CR 15 or suffer one level of the *fatigued* bane.
 
 
-#### Colt 45
-
-**Wealth Level**: 3
-
-*With its smooth and ornately carved ivory handle, this marvel of frontier ingenuity is the only protection a gunfighter needs.*
-
-**Properties**: Deadly 1, Potent, Weapon (Revolver)
-
-
 #### Cerebral Probe
 
 **Wealth Level**: 3
@@ -185,6 +176,15 @@ Extraordinary items are different from weapons, armor, and other gear because th
 *This plain steel collar will choke the life out of anyone who wears it.*
 
 **Properties**: Cursed (Persistent Damage 2)
+
+
+#### Colt 45
+
+**Wealth Level**: 3
+
+*With its smooth and ornately carved ivory handle, this marvel of frontier ingenuity is the only protection a gunfighter needs.*
+
+**Properties**: Deadly 1, Potent, Weapon (Revolver)
 
 
 #### Crystal Ball
@@ -225,6 +225,15 @@ Extraordinary items are different from weapons, armor, and other gear because th
 **Properties**: Persistent Damage 4, Augmenting, Expendable
 
 
+#### Firebrand
+
+**Wealth Level**: 4
+
+*A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.*
+
+**Properties**: Persistent Damage 4, Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword)
+
+
 #### Frostblight
 
 **Wealth Level**: 4
@@ -234,14 +243,6 @@ Extraordinary items are different from weapons, armor, and other gear because th
 **Properties**: Energy 3, Persistent (Aura), Armor (Plate Mail)
 
 **Special**: Frostblight can only invoke the *immobile* bane via its persistent aura.
-
-#### Firebrand
-
-**Wealth Level**: 4
-
-*A longsword with a golden hilt. Along the blade are runes of power that burn red at all times. Upon command, the sword erupts in flame.*
-
-**Properties**: Persistent Damage 4, Baneful (Persistent Damage), Damage (Fire), Weapon (Longsword)
 
 
 #### Ghostfire
@@ -272,6 +273,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 **Special**: The wielder can blow this horn as a major action to make an area attack targeting a 20' cone. The attack is Might 5 versus Toughness. Creatures in the area who are hit by the attack suffer the *deafened* (power level 4) and *knock down* (power level 1) banes. Unattended objects in the area, such as doors or locked chests, are instead subject to a damaging attack that deals double damage. The horn can be blown once per day at no cost. Every time it is blown after that, there is a 25% chance that it shatters to pieces.
 
+
 #### Jet Pack
 
 **Wealth Level**: 3
@@ -296,7 +298,7 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *This massive two-handed hammer is etched with elegant patterns that indicate its value. When held, it pulses with a power felt by all nearby, emitting an aura of menace that draws the attention foes.*
 
-**Properties**: Aura 8, Special, Weapon (Maul)
+**Properties**: Aura 8, Weapon (Maul)
 
 **Special**: The maul's aura boon can only emit the provoked bane. During the first round of combat, its aura can be invoked as a minor action.
 
@@ -316,18 +318,9 @@ Extraordinary items are different from weapons, armor, and other gear because th
 
 *This regal weapon features a compact hilt made of non-conducting carbon fiber. When activated, a blade of infinitely hot plasma emerges, along with dome-shaped force-field for a hand guard.*
 
-**Properties**: Disarmed 3, Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana), Special
+**Properties**: Disarmed 3, Baneful (Disarmed), Damage (Energy), Deadly 1, Weapon (Katana)
 
 **Special**: When an attack with the plasmablade exceeds the target's defense by 10 or more, the attack severs the target's limb  completely and all damage from the attack is lethal. Furthermore, the target is suffers *demoralized* (power level 3) for the remainder of the combat and the effect can't be canceled.
-
-
-#### Potion of Minor Healing
-
-**Wealth Level**: 1
-
-*This small flask of viscous blue liquid can heal minor wounds in moments when consumed or applied topically.*
-
-**Properties**: Heal 3, Consumable
 
 
 #### Potion of Major Healing
@@ -337,6 +330,15 @@ Extraordinary items are different from weapons, armor, and other gear because th
 *A deeper blue and larger flask than its weaker cousin, this alchemical concoction can close even grievous wounds.*
 
 **Properties**: Heal 7, Consumable
+
+
+#### Potion of Minor Healing
+
+**Wealth Level**: 1
+
+*This small flask of viscous blue liquid can heal minor wounds in moments when consumed or applied topically.*
+
+**Properties**: Heal 3, Consumable
 
 
 #### Rocket Launcher
