@@ -10,7 +10,7 @@ In Open Legend, such items of power are called *extraordinary items* because the
 
 ### Acquiring Extraordinary Items
 
-Extraordinary items can be acquired in a number of ways. They may be taken from the horde of a fallen enemy, gifted from a patron as a reward for a job well done, purchased from an obscure wandering merchant, or even crafted by a PC using the *Craft Extraordinary Item* feat.
+Extraordinary items can be acquired in a number of ways. They may be taken from the hoard of a fallen enemy, gifted from a patron as a reward for a job well done, purchased from an obscure wandering merchant, or even crafted by a PC using the *Craft Extraordinary Item* feat.
 
 However, extraordinary items are so powerful that they have the potential to dramatically alter the course of the story and the wielder's capabilities. As such, they always require the approval of the GM to acquire. The GM can use an item's wealth level as an indication of the relative strength of an extraordinary item, but the decision to allow a character to acquire such an item should depend on factors such as how much it adds to the story and how it affects the balance of power among all of the PCs.
 
