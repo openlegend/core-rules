@@ -8,7 +8,7 @@ During your adventurers, the GM will award you Experience Points (or XP) for acc
 
 ## Reading a Feat Description
 
-The full listing of feats is available in a searchable list [here](http://www.openlegendrpg.com/feats).
+The full listing of feats is available in a searchable list [here](http://openlegendrpg.com/feats).
 
 Each feat description includes the following elements.
 
