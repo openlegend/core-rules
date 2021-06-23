@@ -4,6 +4,10 @@ title: "1: Character Creation"
 index: 1
 ---
 
+import { TableOfContents } from "../../../../mdx-components/TableOfContents.js"
+
+<TableOfContents headings={props.headings} />
+
 # Chapter 1: Character Creation
 
 Before you can start telling your story, you'll need a character to play. This chapter will offer you step-by-step instructions to create your own hero. In Open Legend, you typically begin as a level one character. As you complete missions or quests and gain more experience as a hero, you'll level up and gain more power. These rules explain how to create a character starting at level one. Later, you'll learn what to do when you level up.
@@ -69,53 +73,59 @@ The average commoner or craftsman usually has scores ranging from 1 - 3 in sever
 
 The Attributes at a Glance tables provide a quick overview of some of the common actions that each attribute will help you accomplish. All of the attributes are explained in further detail in Chapter 2: Actions and Attributes.
 
-<div class="table-no-body"></div>
+<h4 class='table-no-body-heading'>Physical Attributes at a Glance</h4>
 
-| **Physical Attributes at a Glance** | | - | |
-|
+<div class="table-no-body">
+  
 
-|               |                                                                                  |
-| ------------- | -------------------------------------------------------------------------------- |
-| **Agility**   | Dodge attacks, move with stealth, perform acrobatics, shoot a bow, pick a pocket |
-| **Fortitude** | Resist poison, shrug off pain, survive in a desert, wear heavy armor             |
-| **Might**     | Swing a maul, jump over a chasm, break down a door, wrestle a foe to submission  |
+| &nbsp; |                                                                                   
+| ----------------------------------- | -------------------------------------------------------------------------------- |
+| **Agility**                         | Dodge attacks, move with stealth, perform acrobatics, shoot a bow, pick a pocket |
+| **Fortitude**                       | Resist poison, shrug off pain, survive in a desert, wear heavy armor             |
+| **Might**                           | Swing a maul, jump over a chasm, break down a door, wrestle a foe to submission  |
 
-<div class="table-no-body"></div>
+</div>
 
-| Mental Attributes at a Glance | | - | | |<div class="table-no-head thirty-seventy"></div>
-| | | | - | - | | **Learning** | Recall facts about history, arcane magic, the natural
-world, or any information you picked up from an external source | | **Logic** | Innovate
-a new crafting method, decipher a code, jury-rig a device, get the gist of a language
-you don't speak | | **Perception** | Sense ulterior motives, track someone, catch
-a gut feeling, spot a hidden foe, find a secret door | | **Will** | Maintain your
-resolve, resist torture, study long hours, stay awake on watch, stave off insanity
-|
+<h4 class='table-no-body-heading'>Mental Attributes at a Glance</h4>
 
-<div class="table-no-body"></div>
+<div class="table-no-body">
 
-| Social Attributes at a Glance | | - | | |<div class="table-no-head thirty-seventy"></div>
-| | | | - | - | | **Deception** | Tell a lie, bluff at cards, disguise yourself,
-spread rumors, swindle a sucker | | **Persuasion** | Negotiate a deal, convince someone,
-haggle a good price, pry information | | **Presence** | Give a speech, sing a song,
-inspire an army, exert your force of personality, have luck smile upon you |
+| &nbsp; | 
+|:------------- | ----------------------------------------------------------------------- | 
+| **Learning** | Recall facts about history, arcane magic, the natural world, or any information you picked up from an external source | 
+| **Logic** | Innovate a new crafting method, decipher a code, jury-rig a device, get the gist of a language you don't speak | 
+| **Perception** | Sense ulterior motives, track someone, catch a gut feeling, spot a hidden foe, find a secret door | 
+| **Will** | Maintain your resolve, resist torture, study long hours, stay awake on watch, stave off insanity |
+</div>
 
-<div class="table-no-body"></div>
+<h4 class='table-no-body-heading'>Social Attributes at a Glance</h4>
 
-| Extraordinary Attributes at a Glance | | - | |
+<div class="table-no-body">
 
-|<div class="table-no-head thirty-seventy"></div>
-| | | | - | - | |
-**Alteration** | Change shape, alter molecular structures, transmute one
-material into another | | **Creation** | Channel higher powers, manifest
-something from nothing, regenerate, divinely bolster | | **Energy** | Create and
-control the elements—fire, cold, electricity | | **Entropy** | Disintegrate
-matter, kill with a word, create undead, sicken others | | **Influence** |
-Control the minds of others, speak telepathically, instill fear, create illusory
-figments, cloak with invisibility | | **Movement** | Teleport, fly, hasten,
-telekinetically push | | **Prescience** | See the future, read minds or auras,
-view from afar, detect magic or evil, communicate with extraplanar entities | |
-**Protection** | Protect from damage, break supernatural influence, dispel
-magic, exile extradimensional beings |
+| &nbsp; | 
+|--------| ------------------------------------------------------------------------------ | 
+| **Deception** | Tell a lie, bluff at cards, disguise yourself, spread rumors, swindle a sucker | 
+| **Persuasion** | Negotiate a deal, convince someone, haggle a good price, pry information | 
+| **Presence** | Give a speech, sing a song, inspire an army, exert your force of personality, have luck smile upon you |
+</div>
+
+
+<h4 class='table-no-body-heading'>Extraordinary Attributes at a Glance </h4>
+
+<div class="table-no-body">
+
+| &nbsp; | 
+|------- | ------------------------------------------------------------------------------------------| 
+|**Alteration** | Change shape, alter molecular structures, transmute one material into another |
+| **Creation** | Channel higher powers, manifest something from nothing, regenerate, divinely bolster |
+| **Energy** | Create and control the elements—fire, cold, electricity |
+| **Entropy** | Disintegrate matter, kill with a word, create undead, sicken others |
+| **Influence** | Control the minds of others, speak telepathically, instill fear, create illusory figments, cloak with invisibility |
+| **Movement** | Teleport, fly, hasten, telekinetically push |
+| **Prescience** | See the future, read minds or auras, view from afar, detect magic or evil, communicate with extraplanar entities |
+|**Protection** | Protect from damage, break supernatural influence, dispel magic, exile extradimensional beings |
+
+</div>
 
 In Open Legend, you get to define your character's strengths and weaknesses by choosing the attributes that fit your character concept. Described below are several methods by which you can assign your attributes.
 
@@ -123,32 +133,61 @@ In Open Legend, you get to define your character's strengths and weaknesses by c
 
 If you are new to roleplaying games, or are just looking to get your character built quickly, choose one of the attribute sets listed in the Attribute Quick Builds table. Assign the scores listed to the attributes that define the type of character you want to play. The rest of your attributes begin with a score of zero.
 
-<div class="table-centered"></div>
+<h4 class='table-no-body-heading'></h4>
+<div class="table-centered">
 
-| ATTRIBUTE QUICK BUILDS | | - | | **Specialized
-Hero** | | 5, 4, 3, 2, 2, 2 | | **Well-rounded Hero** | | 4, 4, 3, 3, 3, 1, 1 | |
-**Jack of All Trades** | | 3, 3, 3, 3, 3, 2, 2, 2, 1 |
+| ATTRIBUTE QUICK BUILDS |
+|-----------------------|
+| **Specialized Hero** |
+| 5, 4, 3, 2, 2, 2 |
+| **Well-rounded Hero** |
+| 4, 4, 3, 3, 3, 1, 1 | 
+|**Jack of All Trades** |
+| 3, 3, 3, 3, 3, 2, 2, 2, 1 |
+
+</div>
 
 ### Custom Build
 
 If you would like more control over your attributes, you can purchase them to create your own set. With this method, at first level, you have a budget of 40 attribute points to spend, and the cost of each score is defined in the Purchasing Attributes table. The highest any score can reach at first level is 5, and you don't have to spend all of your points at character creation.
 
-<div class="table-no-body table-centered"></div>
 
-| PURCHASING ATTRIBUTES | | - | |
-|<div></div>| Attribute Score | Cost | | :-: | :-: | | 0 | 0 | | 1 | 1 | | 2 | 3
-| | 3 | 6 | | 4 | 10 | | 5 | 15 |
+
+
+<div class="table-no-body table-centered">
+
+| Attribute Score | Cost |
+| :-: | :-: |
+| 0 | 0 |
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 6 |
+| 4 | 10 |
+| 5 | 15 |
+
+</div>
 
 ### Record Attribute Dice
 
 Every attribute score above 0 grants you bonus dice to increase your chance of success. Consult the Attribute Dice table for each of your attributes and record the appropriate dice. (You'll learn what to do with these dice later on.)
 
-<div class="table-no-body"></div>
+<h4 class='table-no-body-heading'>Attribute Dice</h4>
+<div class="table-no-body">
 
-| Attribute Dice | | - | | |<div></div>|
-Attribute Score | Attribute Dice | | :-: | :-: | | 1 | 1d4 | | 2 | 1d6 | | 3 |
-1d8 | | 4 | 1d10 | | 5 | 2d6 | | 6 | 2d8 | | 7 | 2d10 | | 8 | 3d8 | | 9 | 3d10 |
+|Attribute Score | Attribute Dice |
+| :-: | :-: |
+| 1 | 1d4 |
+| 2 | 1d6 |
+| 3 | 1d8 |
+| 4 | 1d10 |
+| 5 | 2d6 |
+| 6 | 2d8 |
+| 7 | 2d10 | 
+| 8 | 3d8 |
+| 9 | 3d10 |
 | 10 | 4d8 |
+
+</div>
 
 <br />
 <br />
@@ -174,27 +213,40 @@ Attribute Score | Attribute Dice | | :-: | :-: | | 1 | 1d4 | | 2 | 1d6 | | 3 |
 
 When an enemy tries to attack you—whether with the shot of a rifle, a deft sword thrust, or a mental assault—it will first need to overcome your defense. You have three defense scores, and each one protects you from different types of attacks. The higher your defense, the better you are at avoiding or shrugging off whatever your foes throw at you.
 
-<div class="table-no-body table-no-stripes table-even-header"></div>
+<div class="table-no-body table-no-stripes table-even-header">
 
-| Toughness = 10 + Fortitude + Will | | - | | |
+| Toughness = 10 + Fortitude + Will |
+| - |
+
+</div>
 
 **Toughness** protects you from attacks that test your endurance, bodily health, sturdiness, and survivability. For example, foes attempting to poison you, drain your life force, or stun you will target your toughness.
 
-<div class="table-no-body table-no-stripes table-even-header"></div>
+<div class="table-no-body table-no-stripes table-even-header">
 
-| Guard = 10 + Agility + Might + Armor | | - | | |
+| Guard = 10 + Agility + Might + Armor |
+| - |
+
+</div>
 
 **Guard** protects you from attacks that can either be dodged, deflected, or directly withstood via raw physical power. Your enemies would need to overcome your guard in order to hit you with a grenade, shoot you with an arrow, or smash you with a maul.
 
-<div class="table-no-body table-no-stripes table-even-header"></div>
+<div class="table-no-body table-no-stripes table-even-header">
 
-| Resolve = 10 + Presence + Will | | - | | |
+| Resolve = 10 + Presence + Will |
+| - |
+
+</div>
 
 **Resolve** represents your character's ability to resist mental domination and stand brave in the face of danger. Enemies who wish to charm you, deceive you with illusions, or frighten you must target your resolve.
 
-<div class="table-no-body table-no-stripes table-even-header"></div>
 
-| Hit Points = 2 x (Fortitude + Presence + Will) + 10 | | - | | |
+<div class="table-no-body table-no-stripes table-even-header">
+
+| Hit Points = 2 x (Fortitude + Presence + Will) + 10 |
+| - |
+
+</div>
 
 _That is, add your Fortitude, Presence, and Will scores. Multiply the total by 2. Finally, add 10._
 
@@ -279,27 +331,27 @@ foes whenever the opportunity presents itself.
 **Attributes:** Agility 3 (1d8), Learning 3 (1d8), Will 3 (1d8),
 Presence 4 (1d10), Persuasion 3 (1d8), Influence 3 (1d8)
 
-**Hit Points:** 24 \
-**Guard:** 14 (15 with shield - Agility 3, Leather Armor 1) \
-**Toughness:** 13 \
-**Resolve:** 17 \
-**Speed:** 30’
+**Hit Points:** 24<br/> 
+**Guard:** 14 (15 with shield - Agility 3, Leather Armor 1)<br/>
+**Toughness:** 13<br/>
+**Resolve:** 17<br/>
+**Speed:** 30’<br/>
 
 **Feats:** Well-rounded, Boon Focus I (Bolster), Great Leap
 
 **Notable Equipment:** Leather Armor, Rapier (treat as Longsword), Small
 Shield, Lore Book, Musical Instrument
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Rapier**_ (damaging attack): Agility vs. Guard \
-_**En Garde!**_ (inflict _disarm_): Agility vs. Guard, advantage 1 \
-_**Inspiring Word**_ (invoke _bolster_): \
-=> 1 target: Auto-success of PL 3 via _boon focus_ \
-=> 10’ cube: Presence vs. 16 (PL 3) \
-_**Healing Word**_ (invoke _heal_): Presence vs. 12 - 18 (PL 1 - 4) \
-_**Song of Vivification**_ (invoke 5’ _aura: heal_): Presence vs. 18 (PL 4) \
-_**Winning Smile**_ (inflict _charmed_): Influence vs. Resolve \
+_**Rapier**_ (damaging attack): Agility vs. Guard <br/>
+_**En Garde!**_ (inflict _disarm_): Agility vs. Guard, advantage 1 <br/>
+_**Inspiring Word**_ (invoke _bolster_): <br/>
+=> 1 target: Auto-success of PL 3 via _boon focus_ <br/>
+=> 10’ cube: Presence vs. 16 (PL 3) <br/>
+_**Healing Word**_ (invoke _heal_): Presence vs. 12 - 18 (PL 1 - 4) <br/>
+_**Song of Vivification**_ (invoke 5’ _aura: heal_): Presence vs. 18 (PL 4) <br/>
+_**Winning Smile**_ (inflict _charmed_): Influence vs. Resolve <br/>
 _**Magic Trick**_ (inflict _phantasm_): Influence vs. Resolve
 
 ### Battle Mage
@@ -327,26 +379,26 @@ Mages are ready to engage in hand to hand combat with an arsenal of
 weaponry for any occasion.
 
 **Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Might 4 (1d10),
-Presence 3 (1d8), Energy 5 (2d6) \
-**Hit Points:** 22 \
+Presence 3 (1d8), Energy 5 (2d6) <br/>
+**Hit Points:** 22 <br/>
 **Guard:** 20 (21 with shield - Agility 2, Might 4, Full Plate Armor 3,
-Feat 1) \
-**Toughness:** 13 \
-**Resolve:** 13 \
+Feat 1) <br/>
+**Toughness:** 13 <br/>
+**Resolve:** 13 <br/>
 **Speed:** 25’
 
 **Feats:** Multi-Target Attack Specialist II (Area), Armor Mastery I
 
 **Notable Equipment:** Full Plate Armor, Small Shield, Longsword, Longspear, Mace
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Icy Bolt**_ (damaging attack): Energy vs. Guard \
-_**Earthquake**_ (damaging attack, 10’ cube): Energy vs. Guard \
-_**Frostbite**_ (inflict _persistent damage,_ 10’ cube): Energy vs. Guard \
-_**Tremor**_ (inflict _knockdown,_ 10’ cube): Energy vs. Guard \
-_**Quicksand**_ (inflict _immobile_, 10’ cube): Energy vs. Toughness \
-_**Longsword**_ (damaging attack): Might vs. Guard \
+_**Icy Bolt**_ (damaging attack): Energy vs. Guard <br/>
+_**Earthquake**_ (damaging attack, 10’ cube): Energy vs. Guard <br/>
+_**Frostbite**_ (inflict _persistent damage,_ 10’ cube): Energy vs. Guard <br/>
+_**Tremor**_ (inflict _knockdown,_ 10’ cube): Energy vs. Guard <br/>
+_**Quicksand**_ (inflict _immobile_, 10’ cube): Energy vs. Toughness <br/>
+_**Longsword**_ (damaging attack): Might vs. Guard <br/>
 _**Longspear**_ (damaging attack, 10’ reach): Might vs. Guard, advantage 1
 
 ### Beast Master
@@ -372,44 +424,44 @@ tear foes to shreds with its razor sharp claws or disable them with its
 venomous sting.
 
 **Attributes:** Agility 4 (1d10), Fortitude 2 (1d6), Might 1 (1d4),
-Perception 3 (1d8), Will 2 (1d6), Presence 1 (1d4), Influence 5 (2d6) \
-**Hit Points:** 24 \
-**Guard:** 17 (Agility 4, Might 1, Breastplate 2) \
-**Toughness:** 14 \
-**Resolve:** 13 \
+Perception 3 (1d8), Will 2 (1d6), Presence 1 (1d4), Influence 5 (2d6) <br/>
+**Hit Points:** 24 <br/>
+**Guard:** 17 (Agility 4, Might 1, Breastplate 2) <br/>
+**Toughness:** 14 <br/>
+**Resolve:** 13 <br/>
 **Speed:** 30’
 
 **Feats:** Companion III
 
 **Notable Equipment:** Breastplate, Longbow, Longspear
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Longbow**_ (damaging attack): Agility vs. Guard \
+_**Longbow**_ (damaging attack): Agility vs. Guard 
 _**Barbed Arrow**_ (inflict _persistent damage_): Agility vs. Guard,
-advantage 1 \
-_**Longspear**_ (damaging attack, 10’ reach): Agility vs. Guard, advantage 1 \
-_**Charm Beast**_ (inflict _charmed_): Influence vs. Resolve \
+advantage 1 <br/>
+_**Longspear**_ (damaging attack, 10’ reach): Agility vs. Guard, advantage 1 <br/>
+_**Charm Beast**_ (inflict _charmed_): Influence vs. Resolve <br/>
 _**Command Beast**_ (inflict _dominated_): Influence vs. Resolve
 
 #### Manticore Companion
 
-**Attributes:** Agility 1 (1d4), Fortitude 3 (1d8), Might 4 (1d10),
-Perception 1 (1d4), Will 2 (1d6), Entropy 5 (2d6) \
-**Hit Points:** 20 \
-**Guard:** 15 (Agility 1, Might 4) \
-**Toughness:** 15 \
-**Resolve:** 12 \
+**:** Agility 1 (1d4), Fortitude 3 (1d8), Might 4 (1d10),
+Perception 1 (1d4), Will 2 (1d6), Entropy 5 (2d6) <br/>
+**Hit Points:** 20 <br/>
+**Guard:** 15 (Agility 1, Might 4) <br/>
+**Toughness:** 15 <br/>
+**Resolve:** 12 <br/>
 **Speed:** 30’ flying
 
 **Feats:** Flying
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Claws**_ (damaging attack): Might vs. Guard \
-_**Deadly Sting**_ (damaging attack): Entropy vs. Guard \
-_**Toxic Sting**_ (inflict _persistent damage_): Entropy vs. Toughness \
-_**Takedown**_ (inflict _knockdown_): Might vs. Guard \
+_**Claws**_ (damaging attack): Might vs. Guard <br/>
+_**Deadly Sting**_ (damaging attack): Entropy vs. Guard <br/>
+_**Toxic Sting**_ (inflict _persistent damage_): Entropy vs. Toughness <br/>
+_**Takedown**_ (inflict _knockdown_): Might vs. Guard <br/>
 _**Disorienting Sting**_ (inflict _stunned_): Entropy vs. Toughness
 
 ### Berserker
@@ -435,24 +487,24 @@ even more deadly and further improving their survivability. Berserkers
 must use their rage sparingly, however, as entering a _battle trance_
 comes at the cost of one level of the _fatigued_ bane.
 
-**Attributes:** Agility 2 (1d6), Fortitude 4 (1d10), Might 5 (2d6), Will 3 (1d8), Presence 3 (1d8) \
-**Hit Points:** 30 \
-**Guard:** 19 (20 in battle trance - Agility 2, Might 5, Chainmail 2) \
-**Toughness:** 17 (20 in battle trance) \
-**Resolve:** 16 (19 in battle trance) \
+**Attributes:** Agility 2 (1d6), Fortitude 4 (1d10), Might 5 (2d6), Will 3 (1d8), Presence 3 (1d8) <br/>
+**Hit Points:** 30 <br/>
+**Guard:** 19 (20 in battle trance - Agility 2, Might 5, Chainmail 2) <br/>
+**Toughness:** 17 (20 in battle trance) <br/>
+**Resolve:** 16 (19 in battle trance) <br/>
 **Speed:** 30’
 
 **Feats:** Battle Trance, Reckless Attack
 
-**Notable Equipment:** Great Axe, Chainmail, Throwing Axe \
+**Notable Equipment:** Great Axe, Chainmail, Throwing Axe <br/>
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Great Axe**_ (damaging attack): Might vs. Guard, advantage 1 \
-_**Forceful Blow**_ (inflict _forced move_): Might vs. Guard, advantage 2 \
-_**Devastating Blow**_ (inflict _stunned_): Might vs. Toughness, advantage 2 \
-_**Battle Cry**_ (inflict _fear_): Might vs. Resolve \
-_**Foam at the Mouth**_ (inflict _provoked_): Might vs. Resolve \
+_**Great Axe**_ (damaging attack): Might vs. Guard, advantage 1 <br/>
+_**Forceful Blow**_ (inflict _forced move_): Might vs. Guard, advantage 2 <br/>
+_**Devastating Blow**_ (inflict _stunned_): Might vs. Toughness, advantage 2 <br/>
+_**Battle Cry**_ (inflict _fear_): Might vs. Resolve <br/>
+_**Foam at the Mouth**_ (inflict _provoked_): Might vs. Resolve <br/>
 _**Warrior’s Chant**_ (invoke _bolster_): Presence vs. 16 (PL 3)
 
 ### Chronomage
@@ -483,26 +535,26 @@ forms, which are neither strong nor agile outside of their powers. When
 enemies incur their wrath, the Chronomage hyperlapses time within a foe’s body,
 hastening the entropic decay of bones and flesh.
 
-**Attributes:** Will 2 (1d6), Creation 3 (1d8), Entropy 4 (1d10), Movement 5 (2d6), Prescience 3 (1d8) \
-**Hit Points:** 14 \
-**Guard:** 16 (Movement 5 via _attribute substitution_, Steelsilk Armor 1) \
-**Toughness:** 12 \
-**Resolve:** 12 \
+**Attributes:** Will 2 (1d6), Creation 3 (1d8), Entropy 4 (1d10), Movement 5 (2d6), Prescience 3 (1d8) <br/>
+**Hit Points:** 14 <br/>
+**Guard:** 16 (Movement 5 via _attribute substitution_, Steelsilk Armor 1) <br/>
+**Toughness:** 12 <br/>
+**Resolve:** 12 <br/>
 **Speed:** 30’
 
 **Feats:** Boon Focus I (Aura), Lightning Reflexes I, Attribute Substitution I (Movement > Agility)
 
 **Notable Equipment:** Steelsilk Armor
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Hyperlapse Decay**_ (damaging attack): Entropy vs. Guard \
-_**Stasis Field**_ (invoke _5' aura: immobile_): Auto-success at PL 1 via _boon focus_ \
-_**Time Dilation Field**_ (invoke _5' aura: slowed_): Auto-success at PL 1 via _boon focus_ \
-_**Fast Forward**_ (invoke _haste_): Movement vs. 14 - 18 (PL 2 - 4) \
-_**Mass Fast Forward**_ (invoke _5' aura: haste_): Auto-success at PL 2 via _boon focus_ \
-_**Rewind**_ (invoke _heal_): Creation vs. 12 - 16 (PL 1 - 3) \
-_**Time Step**_ (invoke _teleport_): Movement vs. 16 (PL 3) \
+_**Hyperlapse Decay**_ (damaging attack): Entropy vs. Guard <br/>
+_**Stasis Field**_ (invoke _5' aura: immobile_): Auto-success at PL 1 via _boon focus_ <br/>
+_**Time Dilation Field**_ (invoke _5' aura: slowed_): Auto-success at PL 1 via _boon focus_ <br/>
+_**Fast Forward**_ (invoke _haste_): Movement vs. 14 - 18 (PL 2 - 4) <br/>
+_**Mass Fast Forward**_ (invoke _5' aura: haste_): Auto-success at PL 2 via _boon focus_ <br/>
+_**Rewind**_ (invoke _heal_): Creation vs. 12 - 16 (PL 1 - 3) <br/>
+_**Time Step**_ (invoke _teleport_): Movement vs. 16 (PL 3) <br/>
 _**Futuresight**_ (invoke _precognition_): Prescience vs. 12 - 16 (PL 1 - 3)
 
 ### Courtier
@@ -527,24 +579,24 @@ the Courtier has earned the trust of a powerful acquaintance via the
 _charmed_ bane, it’s common for the target to remain indefinitely loyal
 to the Courtier, thanks to the _potent bane_ and _unending charm_ feats.
 
-**Attributes:** Agility 2 (1d6), Will 3 (1d8), Deception 4 (1d10), Presence 3 (1d8), Influence 5 (2d6) \
-**Hit Points:** 22 \
-**Guard:** 13 (Agility 2, Steelsilk Armor 1) \
-**Toughness:** 13 \
-**Resolve:** 16 \
+**Attributes:** Agility 2 (1d6), Will 3 (1d8), Deception 4 (1d10), Presence 3 (1d8), Influence 5 (2d6) <br/>
+**Hit Points:** 22 <br/>
+**Guard:** 13 (Agility 2, Steelsilk Armor 1) <br/>
+**Toughness:** 13 <br/>
+**Resolve:** 16 <br/>
 **Speed:** 30’
 
 **Feats:** Potent Bane (Charmed), Unending Charm
 
 **Notable Equipment:** Majestic Clothing, Dagger, Compact Pistol (Handgun), Steelsilk Armor
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Master Conversationalist**_ (inflict _charmed_): Influence vs. Resolve \
-_**Scathing Insult**_ (inflict _demoralized_): Influence vs. Resolve \
-_**Conflicting Stories**_ (inflict _memory alteration_): Influence vs. Resolve \
-_**Sympathetic Ear**_ (inflict _truthfulness_): Influence vs. Resolve \
-_**Personal Favor**_ (inflict _dominated_): Influence vs. Resolve \
+_**Master Conversationalist**_ (inflict _charmed_): Influence vs. Resolve <br/>
+_**Scathing Insult**_ (inflict _demoralized_): Influence vs. Resolve <br/>
+_**Conflicting Stories**_ (inflict _memory alteration_): Influence vs. Resolve <br/>
+_**Sympathetic Ear**_ (inflict _truthfulness_): Influence vs. Resolve <br/>
+_**Personal Favor**_ (inflict _dominated_): Influence vs. Resolve <br/>
 _**Hidden Pistol**_ (damaging attack): Agility vs. Guard
 
 ### Druid
@@ -569,44 +621,44 @@ naturally occurring animal species. As a combatant, they can shift into
 a massive and powerful creature, such as a bear, to quickly
 deal with enemies.
 
-**Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Might 2 (1d6), Perception 2 (1d6), Will 2 (1d6), Alteration 5 (2d6), Creation 3 (1d8) \
-**Hit Points:** 20 \
-**Guard:** 17 (Agility 2, Might 2, Splint Mail 3) \
-**Toughness:** 15 \
-**Resolve:** 12 \
+**Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Might 2 (1d6), Perception 2 (1d6), Will 2 (1d6), Alteration 5 (2d6), Creation 3 (1d8) <br/>
+**Hit Points:** 20 <br/>
+**Guard:** 17 (Agility 2, Might 2, Splint Mail 3) <br/>
+**Toughness:** 15 <br/>
+**Resolve:** 12 <br/>
 **Speed:** 25’
 
 **Feats:** Boon Focus II (Shapeshift)
 
 **Notable Equipment:** Splint Mail (treat as Full Plate), Staff, Shortspear
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Shapechange**_ (invoke _shapeshift_): Auto-success at PL 5 via _boon focus_ \
-_**Ensnaring Vines**_ (inflict _immobile_): Creation vs. Toughness \
-_**Wall of Briars**_ (invoke _barrier_): Creation vs. 16 (PL 3) \
-_**Animate Plants**_ (invoke _summon creature_): Alteration vs. 18 - 20 (PL 4 - 5) \
+_**Shapechange**_ (invoke _shapeshift_): Auto-success at PL 5 via _boon focus_ <br/>
+_**Ensnaring Vines**_ (inflict _immobile_): Creation vs. Toughness <br/>
+_**Wall of Briars**_ (invoke _barrier_): Creation vs. 16 (PL 3) <br/>
+_**Animate Plants**_ (invoke _summon creature_): Alteration vs. 18 - 20 (PL 4 - 5) <br/>
 _**Regrowth**_ (invoke _regeneration_): Alteration vs. 12 - 20 (PL 1 - 5)
 
 #### Bear Form
 
-**Attributes:** Might 5 (2d6), Agility 1 (1d4), Fortitude 3 (1d8), Perception 2 (1d6) \
-**Hit Points:** 20 \
-**Guard:** 19 (Agility 1, Might 5, Splint Mail 3) \
+**Attributes:** Might 5 (2d6), Agility 1 (1d4), Fortitude 3 (1d8), Perception 2 (1d6) <br/>
+**Hit Points:** 20 <br/>
+**Guard:** 19 (Agility 1, Might 5, Splint Mail 3) <br/>
 **Speed:** 25’
 
 #### Hawk Form
 
-**Attributes:** Might 1 (1d4), Agility 3 (1d8), Fortitude 1 (1d4), Perception 5 (2d6) \
-**Hit Points:** 16 \
-**Guard:** 14 (Agility 3, Might 1) \
+**Attributes:** Might 1 (1d4), Agility 3 (1d8), Fortitude 1 (1d4), Perception 5 (2d6) <br/>
+**Hit Points:** 16 <br/>
+**Guard:** 14 (Agility 3, Might 1) <br/>
 **Speed:** 30’ flying
 
 #### Shark Form
 
-**Attributes:** Might 4 (1d10), Agility 2 (1d6), Fortitude 3 (1d8), Perception 3 (1d8) \
-**Hit Points:** 20 \
-**Guard:** 19 (Agility 2, Might 4, Splint Mail 3) \
+**Attributes:** Might 4 (1d10), Agility 2 (1d6), Fortitude 3 (1d8), Perception 3 (1d8) <br/>
+**Hit Points:** 20 <br/>
+**Guard:** 19 (Agility 2, Might 4, Splint Mail 3) <br/>
 **Speed:** 30’ swimming
 
 ### Engineer
@@ -637,11 +689,11 @@ more of their combat bots. And if their fancy creations and jury-rigged
 gizmos aren’t doing the job, the Engineer is no slouch with a trusty old
 hand cannon.
 
-**Attributes:** Agility 3 (1d8), Fortitude 3 (1d8), Learning 3 (1d8), Logic 3 (1d8), Perception 1 (1d4), Creation 5 (2d6) \
-**Hit Points:** 16 \
-**Guard:** 15 (Agility 3, Kevlar Vest 2) \
-**Toughness:** 13 \
-**Resolve:** 10 \
+**Attributes:** Agility 3 (1d8), Fortitude 3 (1d8), Learning 3 (1d8), Logic 3 (1d8), Perception 1 (1d4), Creation 5 (2d6) <br/>
+**Hit Points:** 16 <br/>
+**Guard:** 15 (Agility 3, Kevlar Vest 2) <br/>
+**Toughness:** 13 <br/>
+**Resolve:** 10 <br/>
 **Speed:** 30’
 
 **Feats:** Boon Focus I (Summon Creature), Craft Extraordinary Item I
@@ -649,14 +701,14 @@ hand cannon.
 **Notable Equipment:** Hand cannon (same as revolver), Kevlar Vest, 2
 Grenades, Engineering Tools
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Hand Cannon**_ (damaging attack): Agility vs. Guard \
-_**Grenade**_ (damaging attack, 10’ cube): Agility vs. Guard \
-_**Leg Shot**_ (inflict _slowed_): Agility vs. Guard, advantage 1 \
-_**Reinforcements!**_ (invoke _summon creature_): Auto-success at PL 5 via _boon focus_ \
-_**Gadgets & Gizmos**_ (invoke _bolster_): Creation vs. 16 (PL 3) \
-_**Jerry Rig**_ (invoke _genesis_): Creation vs. 12 - 20 (PL 1 - 5) \
+_**Hand Cannon**_ (damaging attack): Agility vs. Guard <br/>
+_**Grenade**_ (damaging attack, 10’ cube): Agility vs. Guard <br/>
+_**Leg Shot**_ (inflict _slowed_): Agility vs. Guard, advantage 1 <br/>
+_**Reinforcements!**_ (invoke _summon creature_): Auto-success at PL 5 via _boon focus_ <br/>
+_**Gadgets & Gizmos**_ (invoke _bolster_): Creation vs. 16 (PL 3) <br/>
+_**Jerry Rig**_ (invoke _genesis_): Creation vs. 12 - 20 (PL 1 - 5) <br/>
 _**Cauterize Wounds**_ (invoke _heal_): Creation vs. 12 - 20 (PL 1 - 5)
 
 ### Gunslinger
@@ -691,28 +743,28 @@ with the _sickened_ bane to render their attacks nearly useless. When foes close
 in, a Gunslinger doesn’t hesitate to use Entropy to create a defensive _aura_ or
 scare enemies away with _fear_.
 
-**Attributes:** Agility 5 (2d6), Perception 3 (1d8), Will 2 (1d6), Presence 3 (1d8), Entropy 4 (1d10) \
-**Hit Points:** 20 \
-**Guard:** 17 (Agility 5, Heavy Trench Coat 2) \
-**Toughness:** 15 \
-**Resolve:** 16 \
+**Attributes:** Agility 5 (2d6), Perception 3 (1d8), Will 2 (1d6), Presence 3 (1d8), Entropy 4 (1d10) <br/>
+**Hit Points:** 20 <br/>
+**Guard:** 17 (Agility 5, Heavy Trench Coat 2) <br/>
+**Toughness:** 15 <br/>
+**Resolve:** 16 <br/>
 **Speed:** 30’
 
 **Feats:** Multi-Attack Specialist II
 
 **Notable Equipment:** Heavy Trench Coat (treat as Kevlar Vest), 2 Revolvers, Rifle
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Two-Gun Assault**_ (focus action, damaging attack, 2 attacks): Agility vs. Guard \
-_**Fan the Hammer**_ (focus action, damaging attack, 3 attacks): Agility vs. Guard, disadvantage 3 \
-_**Bounty's Curse**_ (inflict _stunned_): Entropy vs. Toughness \
-_**Toe Shot**_ (inflict _slowed_): Agility vs. Guard. advantage 1 \
-_**Hand Shot**_ (inflict _disarmed_): Agility vs. Guard, advantage 1 \
-_**Rifle**_ (damaging attack): Agility vs. Guard \
-_**Darkblast Shot**_ (inflict _sickened_): Entropy vs. Toughness \
-_**Baleful Shadow**_ (invoke 5’ _aura: persistent damage_): Entropy vs. 18 (PL 4) \
-_**Soul Syphon**_ (invoke _life drain_): Entropy vs. 20 (PL 5) \
+_**Two-Gun Assault**_ (focus action, damaging attack, 2 attacks): Agility vs. Guard <br/>
+_**Fan the Hammer**_ (focus action, damaging attack, 3 attacks): Agility vs. Guard, disadvantage 3 <br/>
+_**Bounty's Curse**_ (inflict _stunned_): Entropy vs. Toughness <br/>
+_**Toe Shot**_ (inflict _slowed_): Agility vs. Guard. advantage 1 <br/>
+_**Hand Shot**_ (inflict _disarmed_): Agility vs. Guard, advantage 1 <br/>
+_**Rifle**_ (damaging attack): Agility vs. Guard <br/>
+_**Darkblast Shot**_ (inflict _sickened_): Entropy vs. Toughness <br/>
+_**Baleful Shadow**_ (invoke 5’ _aura: persistent damage_): Entropy vs. 18 (PL 4) <br/>
+_**Soul Syphon**_ (invoke _life drain_): Entropy vs. 20 (PL 5) <br/>
 _**Unnerving Gaze**_ (inflict _fear_): Entropy vs. Resolve
 
 ### Hacker
@@ -745,40 +797,40 @@ similar device, using its mounted laser cannon to hold enemies back. In
 addition to drone combat, Hackers also assist allies with the _bolster_
 boon through illicit data and hacking nearby systems to gain an edge.
 
-**Attributes:** Logic 4 (1d10), Will 3 (1d8), Perception 2 (1d6), Influence 3 (1d8), Prescience 5 (2d6) \
-**Hit Points:** 16 \
-**Guard:** 10 \
-**Toughness:** 13 \
-**Resolve:** 13 \
+**Attributes:** Logic 4 (1d10), Will 3 (1d8), Perception 2 (1d6), Influence 3 (1d8), Prescience 5 (2d6) <br/>
+**Hit Points:** 16 <br/>
+**Guard:** 10 <br/>
+**Toughness:** 13 <br/>
+**Resolve:** 13 <br/>
 **Speed:** 30’
 
 **Feats:** Companion I (Drone), Bane Focus (Spying), Untrackable
 
 **Notable Equipment:** Tablet, Laptop, VR Goggles
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Dark Web Insight**_ (invoke _bolster_): Prescience vs. 16 (PL 3) \
-_**Algorithmic Prediction**_ (invoke _precognition_): Prescience vs. 12 - 20 (PL 1 - 5) \
-_**Multivariate Sensor Sweep**_ (invoke _truesight_): Prescience vs. 20 (PL 5) \
-_**IoT Zombie Network**_ (inflict _spying_): Prescience vs. Resolve, advantage 2 \
-_**Hologram Projection**_ (inflict _phantasm_): Influence vs. Resolve \
+_**Dark Web Insight**_ (invoke _bolster_): Prescience vs. 16 (PL 3) <br/>
+_**Algorithmic Prediction**_ (invoke _precognition_): Prescience vs. 12 - 20 (PL 1 - 5) <br/>
+_**Multivariate Sensor Sweep**_ (invoke _truesight_): Prescience vs. 20 (PL 5) <br/>
+_**IoT Zombie Network**_ (inflict _spying_): Prescience vs. Resolve, advantage 2 <br/>
+_**Hologram Projection**_ (inflict _phantasm_): Influence vs. Resolve <br/>
 _**Neural Rewiring**_ (inflict _charmed_): Influence vs. Resolve
 
 #### Drone Companion
 
-**Attributes:** Agility 3 (1d8), Fortitude 1 (1d4), Logic 1 (1d4), Perception 2 (1d6), Will 2 (1d6), Energy 4 (1d10) \
-**Hit Points:** 16 \
-**Guard:** 13 (Agility 3) \
-**Toughness:** 13 \
-**Resolve:** 12 \
+**Attributes:** Agility 3 (1d8), Fortitude 1 (1d4), Logic 1 (1d4), Perception 2 (1d6), Will 2 (1d6), Energy 4 (1d10) <br/>
+**Hit Points:** 16 <br/>
+**Guard:** 13 (Agility 3) <br/>
+**Toughness:** 13 <br/>
+**Resolve:** 12 <br/>
 **Speed:** 30’
 
 **Feats:** none
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Laser**_ (damaging attack): Energy vs. Guard \
+_**Laser**_ (damaging attack): Energy vs. Guard <br/>
 _**Stun Ray**_ (inflict _immobile_): Energy vs. Toughness
 
 ### Mystic
@@ -807,28 +859,28 @@ the _defensive reflexes_ feat. Mystics are also adept at shutting down
 enemy boons via _nullify_, as well as canceling banes afflicting allies
 via the _hospitaler_ feat.
 
-**Attributes:** Agility 3 (1d8), Will 3 (1d8), Creation 2 (1d6), Prescience 5 (2d6), Protection 4 (1d10) \
-**Hit Points:** 16 \
-**Guard:** 13 \
-**Toughness:** 13 \
-**Resolve:** 13 \
+**Attributes:** Agility 3 (1d8), Will 3 (1d8), Creation 2 (1d6), Prescience 5 (2d6), Protection 4 (1d10) <br/>
+**Hit Points:** 16 <br/>
+**Guard:** 13 <br/>
+**Toughness:** 13 <br/>
+**Resolve:** 13 <br/>
 **Speed:** 30’
 
 **Feats:** Heightened Invocation I, Defensive Reflexes I, Hospitaler
 
 **Notable Equipment:** Staff, Robe
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**See the Path**_ (defend action): Protection vs. target’s attack roll, advantage 1 \
-_**Break Free**_ (special action): Use _hospitaler_ feat to grant a resist \roll to an ally \
-_**Shared Insight**_ (invoke _bolster_): Prescience vs. 16 (PL 3) \
-_**View from Afar**_ (inflict _spying_): Prescience vs. Resolve \
-_**Mind Link**_ (invoke _telepathy_): Prescience vs. 16 - 20 (PL 3 - 5) \
-_**Power Drain**_ (inflict _nullify_): Protection vs. Resolve \
-_**Read Thoughts**_ (inflict _mind dredge_): Prescience vs. Resolve \
-_**See the Past**_ (invoke _reading_): Prescience vs. 20 (PL 5) \
-_**Pierce the Veil**_ (invoke _precognition_): Prescience vs. 12 - 20 (PL 1 - 5) \
+_**See the Path**_ (defend action): Protection vs. target’s attack roll, advantage 1 <br/>
+_**Break Free**_ (special action): Use _hospitaler_ feat to grant a resist <br/>roll to an ally <br/>
+_**Shared Insight**_ (invoke _bolster_): Prescience vs. 16 (PL 3) <br/>
+_**View from Afar**_ (inflict _spying_): Prescience vs. Resolve <br/>
+_**Mind Link**_ (invoke _telepathy_): Prescience vs. 16 - 20 (PL 3 - 5) <br/>
+_**Power Drain**_ (inflict _nullify_): Protection vs. Resolve <br/>
+_**Read Thoughts**_ (inflict _mind dredge_): Prescience vs. Resolve <br/>
+_**See the Past**_ (invoke _reading_): Prescience vs. 20 (PL 5) <br/>
+_**Pierce the Veil**_ (invoke _precognition_): Prescience vs. 12 - 20 (PL 1 - 5) <br/>
 _**Rejuvenate**_ (invoke _heal_): Creation vs. 12 - 14 (PL 1 - 2)
 
 ### Ningyozukai
@@ -868,47 +920,47 @@ attributes from one of its forms at any time.
 
 #### Sorcerer Form
 
-**Attributes:** Agility 1 (1d4), Learning 3 (1d8), Perception 1 (1d4), Will 3 (1d8), Persuasion 3 (1d8), Creation 4 (1d10), Protection 4 (1d10) \
-**Hit Points:** 16 \
-**Guard:** 11 (Agility 1) \
-**Toughness:** 13 \
-**Resolve:** 13 \
+**Attributes:** Agility 1 (1d4), Learning 3 (1d8), Perception 1 (1d4), Will 3 (1d8), Persuasion 3 (1d8), Creation 4 (1d10), Protection 4 (1d10) <br/>
+**Hit Points:** 16 <br/>
+**Guard:** 11 (Agility 1) <br/>
+**Toughness:** 13 <br/>
+**Resolve:** 13 <br/>
 **Speed:** 30’
 
 **Feats:** Alternate Form II
 
 **Notable Equipment:** None
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Spirit Guide**_ (invoke _bolster_): Creation vs. 16 (PL 3) \
-_**Spirit Guardian**_ (invoke _summon creature_): Creation vs. 18 (PL 4) \
-_**Circle of Wonder**_ (invoke 5’ _aura: immobile_): Creation vs. 18 (PL 4) \
-_**Ward of Protection**_ (invoke _resistance_): Protection vs. 16 (PL 3) \
+_**Spirit Guide**_ (invoke _bolster_): Creation vs. 16 (PL 3) <br/>
+_**Spirit Guardian**_ (invoke _summon creature_): Creation vs. 18 (PL 4) <br/>
+_**Circle of Wonder**_ (invoke 5’ _aura: immobile_): Creation vs. 18 (PL 4) <br/>
+_**Ward of Protection**_ (invoke _resistance_): Protection vs. 16 (PL 3) <br/>
 _**Healing Word**_ (invoke _heal_): Creation vs. 12 - 18 (PL 1 - 4)
 
 #### Yoroi Armor Form
 
-**Attributes:** Agility 3 (1d8), Fortitude 4 (1d10), Might 5 (2d6), Will 2 (1d6), Presence 3 (1d8) \
-**Hit Points:** 28 \
-**Guard:** 21 (Might 5, Agility 3, Yoroi Armor 3) \
-**Toughness:** 16 (19 in _battle trance_) \
-**Resolve:** 15 (18 in _battle trance_) \
+**Attributes:** Agility 3 (1d8), Fortitude 4 (1d10), Might 5 (2d6), Will 2 (1d6), Presence 3 (1d8) <br/>
+**Hit Points:** 28 <br/>
+**Guard:** 21 (Might 5, Agility 3, Yoroi Armor 3) <br/>
+**Toughness:** 16 (19 in _battle trance_) <br/>
+**Resolve:** 15 (18 in _battle trance_) <br/>
 **Speed:** 25’
 
 **Feats:** Battle Trance
 
 **Notable Equipment:** Yoroi Armor, Naginata, 3 Javelins
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Naginata**_ (damaging attack): Might vs. Guard, advantage 1 \
-_**Fang and Claw**_ (damaging attack, 2 targets): Might vs. Guard, disadvantage 1 \
-_**Javelin**_ (damaging attack): Might vs. Guard \
-_**Sweeping Strike**_ (inflict _knockdown_): Might vs. Guard, advantage 2 \
-_**Naginata Snatch**_ (inflict _forced move_): Might vs. Guard, advantage 2 \
-_**Scorpion’s Sting**_ (inflict _immobile_): Might vs. Guard, advantage 2 \
-_**Show of Strength**_ (inflict _fear_): Might vs. Resolve \
+_**Naginata**_ (damaging attack): Might vs. Guard, advantage 1 <br/>
+_**Fang and Claw**_ (damaging attack, 2 targets): Might vs. Guard, disadvantage 1 <br/>
+_**Javelin**_ (damaging attack): Might vs. Guard <br/>
+_**Sweeping Strike**_ (inflict _knockdown_): Might vs. Guard, advantage 2 <br/>
+_**Naginata Snatch**_ (inflict _forced move_): Might vs. Guard, advantage 2 <br/>
+_**Scorpion’s Sting**_ (inflict _immobile_): Might vs. Guard, advantage 2 <br/>
+_**Show of Strength**_ (inflict _fear_): Might vs. Resolve <br/>
 _**Battle Command**_ (invoke: _heal_): Presence vs. 12 - 16 (PL 1 - 3)
 
 ### Ranger
@@ -937,39 +989,39 @@ to the trees to use their longbow while their wolf uses _immobile_ to
 make the target an easy shot.
 
 **Attributes:** Agility 4 (1d10), Fortitude 3 (1d8), Might 2 (1d6),
-Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6) \
-**Hit Points:** 20 \
-**Guard:** 18 (Agility 4, Might 2, Chainmail 2) \
-**Toughness:** 15 \
-**Resolve:** 12 \
+Learning 2 (1d6), Perception 5 (2d6), Will 2 (1d6) <br/>
+**Hit Points:** 20 <br/>
+**Guard:** 18 (Agility 4, Might 2, Chainmail 2) <br/>
+**Toughness:** 15 <br/>
+**Resolve:** 12 <br/>
 **Speed:** 35’
 
 **Feats:** Fleet of Foot I, Master Tracker, Climbing, Companion I
 
 **Notable Equipment:** Longsword, Dagger, Longbow, Chainmail
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Longsword + Dagger**_ (damaging attack): Agility vs. Guard, advantage 1 \
-_**Wounding Strike**_ (inflict _persistent damage_): Agility vs. Guard, advantage 2 \
-_**Artful Parry**_ (inflict _disarmed_): Agility vs. Guard, advantage 2 \
-_**Longbow**_ (damaging attack): Agility vs. Guard \
+_**Longsword + Dagger**_ (damaging attack): Agility vs. Guard, advantage 1 <br/>
+_**Wounding Strike**_ (inflict _persistent damage_): Agility vs. Guard, advantage 2 <br/>
+_**Artful Parry**_ (inflict _disarmed_): Agility vs. Guard, advantage 2 <br/>
+_**Longbow**_ (damaging attack): Agility vs. Guard <br/>
 _**Foot Shot**_ (inflict _slowed_): Agility vs. Guard, advantage 1
 
 #### Wolf Companion
 
-**Attributes:** Agility 4 (1d10), Fortitude 2 (1d6), Might 2 (1d6), Perception 3 (1d8), Will 1 (1d4), Presence 1 (1d4) \
-**Hit Points:** 18 \
-**Guard:** 16 (Agility 4, Might 2) \
-**Toughness:** 13 \
-**Resolve:** 12 \
+**Attributes:** Agility 4 (1d10), Fortitude 2 (1d6), Might 2 (1d6), Perception 3 (1d8), Will 1 (1d4), Presence 1 (1d4) <br/>
+**Hit Points:** 18 <br/>
+**Guard:** 16 (Agility 4, Might 2) <br/>
+**Toughness:** 13 <br/>
+**Resolve:** 12 <br/>
 **Speed:** 30’
 
 **Feats:** none
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Bite**_ (damaging attack): Agility vs. Guard \
+_**Bite**_ (damaging attack): Agility vs. Guard <br/>
 _**Takedown**_ (inflict _knockdown_): Agility vs. Guard
 
 ### Shade
@@ -998,11 +1050,11 @@ before they are discovered. On rare occasions where they are spotted,
 they use _haste_ to make a fast getaway or blanket an area in _darkness_
 and slip away unseen.
 
-**Attributes:** Agility 4, Perception 3, Will 2, Entropy 3, Movement 5 \
-**Hit Points:** 14 \
-**Guard:** 15 (Agility 4, Trenchcoat 1) \
-**Toughness:** 12 \
-**Resolve:** 12 \
+**Attributes:** Agility 4, Perception 3, Will 2, Entropy 3, Movement 5 <br/>
+**Hit Points:** 14 <br/>
+**Guard:** 15 (Agility 4, Trenchcoat 1) <br/>
+**Toughness:** 12 <br/>
+**Resolve:** 12 <br/>
 **Speed:** 30’
 
 **Feats:** Boon Focus I (Teleport), Lethal Strike I
@@ -1010,16 +1062,16 @@ and slip away unseen.
 **Notable Equipment:** Sniper Rifle, Submachine Gun, Handgun, Knife,
 Trench Coat (treat as Leather Armor)
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Hidden Shot**_ (damaging attack): Agility vs. Guard, advantage 1 if target is unaware or engaging your ally \
-_**Rifle**_ (damaging attack): Agility vs. Guard \
-_**Tranquilizer Round**_ (inflict _incapacitated_): Agility vs. Toughness \
-_**Leg Shot**_ (inflict _slowed_): Agility vs. Guard, advantage 1 \
-_**Submachine Gun**_ (damaging attack, 10’ cube): Agility vs. Guard \
-_**Void Step**_ (invoke _teleport_): Auto-success at PL 5 via _boon focus_ \
-_**Veil of Shadows**_ (invoke _darkness_): Entropy vs. 12 - 16 (PL 1 - 3) \
-_**Shadow Dodge**_ (invoke _resistance_): Movement vs. 16 (PL 3) \
+_**Hidden Shot**_ (damaging attack): Agility vs. Guard, advantage 1 if target is unaware or engaging your ally <br/>
+_**Rifle**_ (damaging attack): Agility vs. Guard <br/>
+_**Tranquilizer Round**_ (inflict _incapacitated_): Agility vs. Toughness <br/>
+_**Leg Shot**_ (inflict _slowed_): Agility vs. Guard, advantage 1 <br/>
+_**Submachine Gun**_ (damaging attack, 10’ cube): Agility vs. Guard <br/>
+_**Void Step**_ (invoke _teleport_): Auto-success at PL 5 via _boon focus_ <br/>
+_**Veil of Shadows**_ (invoke _darkness_): Entropy vs. 12 - 16 (PL 1 - 3) <br/>
+_**Shadow Dodge**_ (invoke _resistance_): Movement vs. 16 (PL 3) <br/>
 _**Extraplanar Pocket**_ (invoke _absorb object_): Movement vs. 18 (PL 4)
 
 ### Spellsword
@@ -1046,24 +1098,24 @@ target with _persistent damage_. Once combat is underway, Spellswords
 focus on finishing off damaged foes so that they can use _combat
 momentum_ to maneuver around the battlefield.
 
-**Attributes:** Fortitude 3 (1d8), Presence 1 (1d4), Perception 2 (1d6), Will 2 (1d6), Energy 5 (2d6), Protection 3 (1d8), Movement 3 (1d8) \
-**Hit Points:** 22 \
-**Guard:** 17 (Energy 5 via _attribute substitution_, Chainmail 2) \
-**Toughness:** 15 \
-**Resolve:** 13 \
+**Attributes:** Fortitude 3 (1d8), Presence 1 (1d4), Perception 2 (1d6), Will 2 (1d6), Energy 5 (2d6), Protection 3 (1d8), Movement 3 (1d8) <br/>
+**Hit Points:** 22 <br/>
+**Guard:** 17 (Energy 5 via _attribute substitution_, Chainmail 2) <br/>
+**Toughness:** 15 <br/>
+**Resolve:** 13 <br/>
 **Speed:** 30’
 
 **Feats:** Attribute Substitution II (Energy > Agility), Combat Momentum, Lightning Reflexes I
 
 **Notable Equipment:** Chainmail, Falchion
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Falchion**_ (damaging attack): Energy vs. Guard, advantage 1 \
-_**Enflame**_ (inflict _persistent damage_): Energy vs. Guard (advantage 1 if using falchion) \
-_**Disabling Strike**_ (inflict _stunned_): Energy vs. Toughness \
-_**Wall of Fire**_ (invoke _barrier, 10’ line_): Energy vs. 16 - 20 (PL 1 - 5), disadvantage 1 \
-_**Smoke Step**_ (invoke _teleport_): Movement vs. 16 (PL 3) \
+_**Falchion**_ (damaging attack): Energy vs. Guard, advantage 1 <br/>
+_**Enflame**_ (inflict _persistent damage_): Energy vs. Guard (advantage 1 if using falchion) <br/>
+_**Disabling Strike**_ (inflict _stunned_): Energy vs. Toughness <br/>
+_**Wall of Fire**_ (invoke _barrier, 10’ line_): Energy vs. 16 - 20 (PL 1 - 5), disadvantage 1 <br/>
+_**Smoke Step**_ (invoke _teleport_): Movement vs. 16 (PL 3) <br/>
 _**Shield of Force**_ (invoke _resistance_): Protection vs. 16 (PL 3)
 
 ### Void Templar
@@ -1097,11 +1149,11 @@ Templars also reshape the battlefield and force enemies into tough
 decisions with banes and boons such as _forced move, barrier,_ and
 _immobile._
 
-**Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Will 2 (1d6), Presence 2 (1d6), Energy 5 (2d6), Movement 4 (1d10) \
-**Hit Points:** 24 \
-**Guard:** 15 (16 with shield - Agility 2, Templar Armor 3)\
-**Toughness:** 15 \
-**Resolve:** 14 \
+**Attributes:** Agility 2 (1d6), Fortitude 3 (1d8), Will 2 (1d6), Presence 2 (1d6), Energy 5 (2d6), Movement 4 (1d10) <br/>
+**Hit Points:** 24 <br/>
+**Guard:** 15 (16 with shield - Agility 2, Templar Armor 3)<br/>
+**Toughness:** 15 <br/>
+**Resolve:** 14 <br/>
 **Speed:** 25’
 
 **Feats:** Defensive Reflexes I, Battlefield Retribution I, Sentinel I
@@ -1109,14 +1161,14 @@ _immobile._
 **Notable Equipment:** Combat Shield, Pistol, Templar Armor (treat as
 Full Plate), 1 Grenade
 
-**Favored Actions** \
+**Favored Actions** <br/>
 
-_**Void Nullification**_ (defend action): Energy vs. target’s attack roll, advantage 1 \
-_**Void Matrix**_ (invoke 10’ line _barrier_): Energy vs. 16 - 20 (PL 3 - 5) \
-_**Quickening Aura**_ (invoke _aura: haste_): Movement vs. 18 (PL 4) \
-_**Force Push**_ (inflict _forced move_): Movement vs. Guard \
-_**Paralysis Beam**_ (inflict _immobile_): Movement vs. Guard \
-_**Telekinesis**_ (invoke: _telekinesis_): Movement vs. 16 (PL 3) \
+_**Void Nullification**_ (defend action): Energy vs. target’s attack roll, advantage 1 <br/>
+_**Void Matrix**_ (invoke 10’ line _barrier_): Energy vs. 16 - 20 (PL 3 - 5) <br/>
+_**Quickening Aura**_ (invoke _aura: haste_): Movement vs. 18 (PL 4) <br/>
+_**Force Push**_ (inflict _forced move_): Movement vs. Guard <br/>
+_**Paralysis Beam**_ (inflict _immobile_): Movement vs. Guard <br/>
+_**Telekinesis**_ (invoke: _telekinesis_): Movement vs. 16 (PL 3) <br/>
 _**Suppression Field**_ (invoke 5’ _aura: forced move_): Energy vs. 18 (PL 4)
 
 ## Gaining XP and Leveling Up
@@ -1125,9 +1177,9 @@ As the legend you are creating unfolds and grows in danger and magnitude, your c
 
 Your total XP earned determines your level, with every 3 XP allowing you to advance to the next level. Your level is used to determine your maximum attribute score as well as to provide a general indication of your power compared to other characters and enemy or ally NPCs. The Player Character Level Advancement table details the XP requirements and maximum attribute score for each level.
 
-<div class="table-no-body"></div>
+<h4 class='table-no-body-heading'>Player Character Level Advancement</h4>
+<div class="table-no-body">
 
-| Player Character Level Advancement | | - | | |
 
 <br />
 
@@ -1144,6 +1196,8 @@ Your total XP earned determines your level, with every 3 XP allowing you to adva
 |    24    |   9   |            9            |
 |    27    |  10   |            9            |
 
+</div>
+
 ### Feat and Attribute Points
 
 For every XP that you earn, you also gain 1 feat point and 3 attribute points. These can be spent immediately or saved for later. You gain these points _every_ time you are awarded XP, not just when you level up.
@@ -1152,11 +1206,11 @@ Attribute points can be used to increase your current attributes or buy complete
 
 See [_Feats_](http://www.openlegendrpg.com/feats) to view the complete list of feats to choose from.
 
-<div class="table-no-body"></div>
 
-| Attribute Overview | | - | | |
+<h4 class='table-no-body-heading'>Attribute Overview</h4>
+<div class="table-no-body">
 
-<br />
+<br/>
 
 | Attribute Score | Cost | Attribute Dice |
 | :-------------: | :--: | :------------: |
@@ -1171,6 +1225,8 @@ See [_Feats_](http://www.openlegendrpg.com/feats) to view the complete list of f
 |        9        |  45  |      3d10      |
 |       10        |  -   |      4d8       |
 
+</div>
+
 **Note:** An attribute score of 10 cannot be purchased with attribute points. It can only be obtained through feats, boons, or other special means. No attribute may advance beyond a score of 10.
 
 ### New Hit Points
@@ -1181,11 +1237,10 @@ In Open Legend, attributes are the means by which your hit points increase. If y
 
 Sometimes a new player will join a campaign in progress in which the other PCs have already advanced several levels, so it would be unbalanced to insert a first level character into the party. Other times, the GM may decide to run a campaign with PCs who have already accumulated some wealth and power. In situations like these, you can use the Characters Beyond First Level table to determine attribute points, feat points, and wealth for PCs. When choosing starting gear, you may select three items of your current wealth score and any number of lesser valued items.
 
-<div class="table-no-body"></div>
+<h4 class='table-no-body-heading'>Characters Beyond First Level</h4>
+<div class="table-no-body">
 
-| Characters Beyond First Level | | - | | |
-
-<br />
+<br/>
 
 | Level | XP  | Attribute Points | Max Attribute | Feat Points | Wealth Score |
 | :---: | :-: | :--------------: | :-----------: | :---------: | :----------: |
@@ -1198,3 +1253,4 @@ Sometimes a new player will join a campaign in progress in which the other PCs h
 |   8   | 21  |       103        |       8       |     27      |      6       |
 |   9   | 24  |       112        |       9       |     30      |      7       |
 |  10   | 27  |       121        |       9       |     33      |      8       |
+</div>

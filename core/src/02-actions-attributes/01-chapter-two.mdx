@@ -4,7 +4,11 @@ title: "2: Actions and Attributes"
 index: 2
 ---
 
-# Chapter 2: Actions & Attributes #
+import { TableOfContents } from "../../../../mdx-components/TableOfContents.js"
+
+<TableOfContents headings={props.headings} />
+
+# Chapter 2: Actions & Attributes
 
 The Introduction and Chapter 1 provided you with the core mechanic for action resolution as well as a brief overview of what the different attributes are used for. This chapter will delve a little bit deeper, explaining when to make different types of action rolls and how to interpret the results.
 
@@ -21,42 +25,44 @@ Another important point in Open Legend is that every action roll should drive th
 If you look back to the Core Mechanic, you can see that a simple failure is not an option:
 
 <div class="table-centered"></div>
-| The Action Roll  |
-| - |
+
+| The Action Roll |
+| --------------- |
 | Roll 1d20 + attribute dice (all dice explode) |
 
 <br />
 
-| If the action roll... | then the result is... |
-| :- | :- |
-| equals or exceeds the Challenge Rating, | the player succeeds. |
-| is less than the Challenge Rating, | the player succeeds with a twist. <br /> **- OR -** <br /> the player fails, but the story progresses. <br />*(GM's Choice)* |
+| If the action roll...                   | then the result is...                                                                                                        |
+| :-------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| equals or exceeds the Challenge Rating, | the player succeeds.                                                                                                         |
+| is less than the Challenge Rating,      | the player succeeds with a twist. <br /> **- OR -** <br /> the player fails, but the story progresses. <br />_(GM's Choice)_ |
 
 The following example illustrates how to make every roll matter.
 
-*Pelias Quickenfit, a halfling burglar, is attempting to pick the lock on a door. He makes an Agility roll but gets lower than the challenge rating.*
+_Pelias Quickenfit, a halfling burglar, is attempting to pick the lock on a door. He makes an Agility roll but gets lower than the challenge rating._
 
 Here are two potential outcomes for the roll:
 
-*If the GM chooses **success with a twist**, they might rule that Pelias is able to open the lock; however, just as he finishes the job, he begins to hear a faint hissing sound from the door. A poison gas trap! The burglar immediately falls unconscious, and the rest of the party must decide what to do before the gas reaches them in a matter of seconds.*
+_If the GM chooses **success with a twist**, they might rule that Pelias is able to open the lock; however, just as he finishes the job, he begins to hear a faint hissing sound from the door. A poison gas trap! The burglar immediately falls unconscious, and the rest of the party must decide what to do before the gas reaches them in a matter of seconds._
 
-*If the GM chooses **failure, but the story progresses**, they might rule that although Pelias is unable to get the lock open, he hears footsteps approaching from around the corner accompanied by the familiar jingle of a jailer's keychain. If the party can position themselves quickly enough, they may be able to get the keys without a fight.*
+_If the GM chooses **failure, but the story progresses**, they might rule that although Pelias is unable to get the lock open, he hears footsteps approaching from around the corner accompanied by the familiar jingle of a jailer's keychain. If the party can position themselves quickly enough, they may be able to get the keys without a fight._
 
 Notice how both of these options allow Pelias's action to drive the story forward just as much as a successful roll would have.
 
 ### What NOT To Do
 
-In the above example, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In Open Legend, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll.  The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
+In the above example, what might often happen at a gaming table is that upon seeing the halfling's failure, another character immediately steps forward, say the barbarian, and attempts to force the door down. In Open Legend, such a reaction is frowned upon because it would mean that the burglar's roll didn't matter. It didn't drive the story at all. Instead, the barbarian should wait for the GM to interpret the result of Pelias's roll. The GM has a right to interpret the results of a failed action roll so that they can ensure that every roll matters. Players should make a special effort to avoid stepping on the GM's toes in this regard.
 
 > ### Old Habits Die Hard
+>
 > If you've played other RPGs in the past, you may be tempted to immediately follow another player's failed roll with an action roll of your own.
 >
 > The following are common situations in which you should be especially vigilant to give the GM time to interpret the results of a failed action roll:
 >
-> * Perception rolls to find secret doors or other hidden objects
-> * Perception rolls to notice when someone is lying
-> * Persuasion rolls to convince an NPC of something
-> * Learning rolls to recall useful information
+> - Perception rolls to find secret doors or other hidden objects
+> - Perception rolls to notice when someone is lying
+> - Persuasion rolls to convince an NPC of something
+> - Learning rolls to recall useful information
 
 ### Keep It Simple: Every Roll Matters for the GM
 
@@ -112,32 +118,37 @@ The GM gets to decide how bad a failed action roll turns out to be, and sometime
 
 ## Determining Challenge Rating
 
-Many actions that you will undertake in *Open Legend* have a Challenge Rating (CR) that is determined by the rules. Attacks in combat, for example, use one of the target's defense scores as the CR.
+Many actions that you will undertake in _Open Legend_ have a Challenge Rating (CR) that is determined by the rules. Attacks in combat, for example, use one of the target's defense scores as the CR.
 
 Oftentimes, though, the GM will need to determine the CR for actions that aren't spelled out clearly in the rules. In these cases, the GM can use the Challenge Ratings by Difficulty Table to set an appropriate CR.
 
-<div class="table-no-body"></div>
+<div class="table-no-body">
+
 | Challenge Ratings by Difficulty |
 | - |
-| |
 
-| Difficulty | Challenge Rating | Example Actions |
-| :-: | :-: | :------ |
-| Everyday | 10 | leap a 5' gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount |
-| Challenging | 15 | climb a rough surface, catch the drift of a text in an unfamiliar language, break down a strong wooden door |
-| Heroic | 20 | climb a smooth surface, leap a 15' gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
-| Epic | 25 | translate a text in an alien language, break down an iron door |
-| Legendary | 30 | leap a 25' chasm, climb a flat surface, befriend an enemy with a vendetta against you |
+<br/>
+
+| Difficulty  | Challenge Rating | Example Actions                                                                                                                     |
+| :---------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------- |
+|  Everyday   |        10        | leap a 5' gap, climb a surface with ledges, break down a household door, haggle a simple merchant for a discount                    |
+| Challenging |        15        | climb a rough surface, catch the drift of a text in an unfamiliar language, break down a strong wooden door                         |
+|   Heroic    |        20        | climb a smooth surface, leap a 15' gap, translate a text in an unfamiliar language, convince a neutral party to take a risk for you |
+|    Epic     |        25        | translate a text in an alien language, break down an iron door                                                                      |
+|  Legendary  |        30        | leap a 25' chasm, climb a flat surface, befriend an enemy with a vendetta against you                                               |
+
+</div>
 
 It's important to note that Challenge Ratings are not typically set to be relative to the party's level. So, breaking down a strong wooden door is CR 15 whether the party is first level or tenth. However, it may be helpful when creating scenarios for GMs to understand the typical capabilities of a character based on their attribute score. The Average Challenge Ratings vs. Attribute Scores Table lists Challenge Ratings that are of average difficulty for a character with specific attribute scores. A character with the listed score can be expected to succeed at the listed Challenge Rating about **50%** of the time.
 
-<div class="table-no-body table-centered"></div>
-| Average Challenge Ratings vs. Attribute Scores |
-| - |
-| |
-<div class="table-centered"></div>
+
+<h4 class='table-no-body-heading'>Average Challenge Ratings vs. Attribute Scores</h4>
+<div class="table-no-body table-centered">
+
+<br/>
+
 | Attribute Score | Average Challenge Rating |
-| - | - |
+|---------------- | ------------------------ |
 | 0 | 10 |
 | 1 | 12 |
 | 2 | 14 |
@@ -149,6 +160,8 @@ It's important to note that Challenge Ratings are not typically set to be relati
 | 8 | 26 |
 | 9 | 28 |
 | 10 | 30 |
+
+</div>
 
 ### Contested Actions
 
@@ -176,17 +189,17 @@ If a situation arises in which you are assigned both advantage and disadvantage,
 
 ### Effects of Advantage & Disadvantage
 
-When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest *X* attribute dice, in which *X* is your advantage level.
+When you have advantage on an action, roll an extra number of attribute dice equal to your advantage level. Then, when adding your dice together, ignore the lowest _X_ attribute dice, in which _X_ is your advantage level.
 
 > #### Example of Advantage
 >
 > Vera leaps down upon her foe from a ledge ten feet above. The GM rules that she gains advantage 1 on the attack. Her Might score is 9, granting her 3d10 for attribute dice. The advantage 1 allows her to roll 1 extra d10. So she rolls 1d20 + 4d10. The d20 rolls a 16 and the 4d10 roll 3, 5, 7, and 9. She removes the lowest d10 before calculating her total, leaving her with a final roll of 16 + 5 + 7 + 9 = 37.
 
-Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the *highest* dice.
+Disadvantage works in a similar manner. When you have disadvantage, you still roll an extra number of attribute dice equal to your disadvantage value. However, instead of ignoring the lowest dice, you ignore the _highest_ dice.
 
 > #### Example of Disadvantage
 >
-> Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the *fatigued* bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two *highest* rolling d6s.
+> Armand attempts to blast his foe with psychokinetic fire. However, he is currently being distracted by a smoke bomb hurled by an enemy soldier, granting him disadvantage 1. Furthermore, he has also been subject to the _fatigued_ bane, adding on an additional disadvantage 1. Armand's Energy score is 5, granting him 2d6 attribute dice. He rolls 1d20 + 4d6. After rolling, but before calculating his total, he removes the two _highest_ rolling d6s.
 
 ### Advantage & Disadvantage Are Only Applied BEFORE Explosions
 
@@ -206,20 +219,22 @@ These rules apply to both actions performed with an attribute score of zero, as 
 
 Advantage and disadvantage can be assigned by the GM due to situational effects, or they can be assigned by feats, banes, and boons. When assigned situationally, the GM should never apply more than one level of advantage or disadvantage. Feats, banes, and boons—on the other hand—will often provide multiple levels as they rise in tier or power level. The Advantage and Disadvantage Examples Table provides a listing of typical situations in which the GM may assign advantage and disadvantage, though this list is by no means exhaustive.
 
-<div class="table-no-body"></div>
-| Advantage and Disadvantage Examples |
-| - |
-| |
+<h4 class='table-no-body-heading'>Advantage and Disadvantage Examples</h4>
+<div class="table-no-body">
 
-| Situations Meriting Advantage | Situations Meriting Disadvantage |
-| :- | :- |
-| Attacking a surprised or unaware foe | Attacking while balancing on a beam |
-| Attacking a foe during an acrobatic stunt | Attacking in a confined space |
-| Attacking a flanked foe | Attacking while prone |
-| Negotiating with someone you have leverage over | Negotiating with someone who has leverage over you |
-| Expending a valuable arcane focus when casting a spell | Casting a spell in the midst of a heavy storm |
-| Conducting research in a well-stocked library | Conducting research while sick |
-| Tracking a large group | Tracking a creature smaller than a child |
+<br/>
+
+| Situations Meriting Advantage                          | Situations Meriting Disadvantage                   |
+| :----------------------------------------------------- | :------------------------------------------------- |
+| Attacking a surprised or unaware foe                   | Attacking while balancing on a beam                |
+| Attacking a foe during an acrobatic stunt              | Attacking in a confined space                      |
+| Attacking a flanked foe                                | Attacking while prone                              |
+| Negotiating with someone you have leverage over        | Negotiating with someone who has leverage over you |
+| Expending a valuable arcane focus when casting a spell | Casting a spell in the midst of a heavy storm      |
+| Conducting research in a well-stocked library          | Conducting research while sick                     |
+| Tracking a large group                                 | Tracking a creature smaller than a child           |
+
+</div>
 
 ## Legend Points
 
@@ -229,7 +244,7 @@ Characters begin play with zero legend points, and the maximum they may acquire 
 
 > ### Example of Earning a Legend Point
 >
-> Zaax has the *hot tempered* flaw, causing him to easily lose control of his anger. In the middle of the party's tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
+> Zaax has the _hot tempered_ flaw, causing him to easily lose control of his anger. In the middle of the party's tense negotiations with the Imperial Guard, Zaax loses his patience with the high commander and shoots one of the guardsmen. This is a clear example of Zaax roleplaying his flaw despite negative consequences, so the GM awards him with a legend point.
 
 The GM may also feel free to establish other rules for awarding legend points. For example, some GMs like to allow each player to award another PC one legend point each session. Other tables might have a vote for MVP or best roleplayer at the end of each session, with the winner gaining a legend point.
 
