@@ -218,7 +218,7 @@
     <li><strong>Level 6</strong> - The target dies.</li>
     </ul>
   special: |
-    Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion removes one level of fatigue. If the *restoration* boon is successfully invoked to dispel this bane, only one level of fatigue is removed (in addition to that removed by natural rest). If the *restoration* boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one. A target may only benefit from one invocation of the *restoration* boon to remove fatigue within a 24 hour period.
+    Unlike other banes, canceling this bane takes time and rest. Each 24 hour period of rest with little or no exertion removes one level of fatigue. If the <em>restoration</em> boon is successfully invoked to dispel this bane, only one level of fatigue is removed (in addition to that removed by natural rest). If the <em>restoration</em> boon's invoker has an attribute score of 7 or greater, all levels of fatigue are removed instead of just one. A target may only benefit from one invocation of the <em>restoration</em> boon to remove fatigue within a 24 hour period.
 - !
   name: Fear
   tags:
@@ -359,7 +359,7 @@
   description: |
     Whether via a thunderous blow from a great axe, an earth shattering bolt of supernatural energy, or a well aimed shove in a direction where the enemy's balance is weak, you knock the target off their feet. Knockdown is a favorite of hulking brutes, telekinetisists, martial artists, and earth elementalists.
   effect: |
-    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Characters that are prone due to the *knockdown* bane (or any other reason) get +2 to Guard versus Ranged attacks and -2 Guard versus Melee attacks. Standing up from prone requires a move action and costs a character half (round down) of their speed for the round.
+    The target falls prone. Prone targets have disadvantage 1 on all attacks they make. Characters that are prone due to the <em>knockdown</em> bane (or any other reason) get +2 to Guard versus Ranged attacks and -2 Guard versus Melee attacks. Standing up from prone requires a move action and costs a character half (round down) of their speed for the round.
 - !
   name: Memory Alteration
   tags:
